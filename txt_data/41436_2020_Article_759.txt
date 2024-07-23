@@ -1,0 +1,589 @@
+Copy-number variation contributes 9% of pathogenicity
+in the inherited retinal degenerations
+Erin Zampaglione, PhD1, Benyam Kinde, MD, PhD1, Emily M. Place, MS1, Daniel Navarro-Gomez, BS1,
+Matthew Maher, MS1, Farzad Jamshidi, MD, PhD1, Sherwin Nassiri, MS2, J. Alex Mazzone, BS1,
+Caitlin Finn, MA1, Dana Schlegel, MS, MPH3, Jason Comander, MD, PhD1, Eric A. Pierce, MD, PhD1and
+Kinga M. Bujakowska, PhD1
+Purpose: Current sequencing strategies can genetically solve
+55–60% of inherited retinal degeneration (IRD) cases, despite
+recent progress in sequencing. This can partially be attributed toelusive pathogenic variants (PVs) in known IRD genes, including
+copy-number variations (CNVs), which have been shown as major
+contributors to unsolved IRD cases.
+Methods: Five hundred IRD patients were analyzed with targeted
+next-generation sequencing (NGS). The NGS data were used todetect CNVs with ExomeDepth and gCNV and the results were
+compared with CNV detection with a single-nucleotide poly-
+morphism (SNP) array. Likely causal CNV predictions werevalidated by quantitative polymerase chain reaction (qPCR).
+Results: Likely disease-causing single-nucleotide variants (SNVs)
+and small indels were found in 55.6% of subjects. PVs in USH2A
+(11.6%), RPGR (4%), and EYS(4%) were the most common. Likelycausal CNVs were found in an additional 8.8% of patients. Of the
+three CNV detection methods, gCNV showed the highest accuracy.
+Approximately 30% of unsolved subjects had a single likely PV in arecessive IRD gene.
+Conclusion: CNV detection using NGS-based algorithms is a
+reliable method that greatly increases the genetic diagnostic rate of
+IRDs. Experimentally validating CNVs helps estimate the rate atwhich IRDs might be solved by a CNV plus a more elusive variant.
+Genetics in Medicine (2020) 22:1079 –1087; https://doi.org/10.1038/
+s41436-020-0759-8
+Key words: inherited retinal degeneration; retinitis pigmentosa;
+rod–cone dystrophy; cone –rod dystrophy; copy-number variation
+INTRODUCTION
+Over 2 million people worldwide are affected by inherited
+retinal degenerations (IRDs), a family of blinding diseasescharacterized by progressive death and dysfunction ofprimarily rod and cone photoreceptors.
+1Pathogenic var-
+iants (PVs) in over 270 genes have been associated withIRDs, many of which were discovered recently due toadvances in sequencing technologies.
+2However, despite
+substantial progress in genetic methodologies, current
+strategies can genetically solve only about 55 –60% of IRD
+cases.3–7The remaining missing diagnoses are in part due to
+undiscovered IRD genes. However, PVs in each new diseasegene are rare,
+2suggesting that the missing genetic causality
+largely lies in the known IRD genes. Many of these elusivePVs are due to structural var iations (SVs) such as copy-
+number variations (CNVs), or deep intronic variants thataffect splicing,
+7–14which are not readily available from the
+standard output of targeted next-generation sequencing
+(NGS) pipelines.Our previous work analyzed 28 genetically unsolved
+families with exome sequencin g (ES) and single-nucleotide
+polymorphism (SNP) and/or c omparative genomic hybri-
+dization (CGH) arrays, and showed that large deletions inknown IRD genes were responsible for disease in five of thefamilies.
+14In this study we applied further bioinformatic
+analyses that permit detection of CNVs on the panel-basedNGS Genetic Eye Disease (GEDi) diagnostic test thatinvolves sequencing the exons of all known IRD disease
+genes.
+3To assess the accuracy of CNV calling based on the
+NGS read-depth we compared two algorithms, Exome-Depth
+15and gCNV,16with the SNP array –based
+approach.17A subset of the CNVs were subsequently
+validated by quantitative poly merase chain reaction (qPCR).
+In addition, we specifically searched for the Alu transpo-
+sable element insertion in MAK , which is a common cause
+of IRD in people of Ashkenazi Jewish descent.18,19Applying
+these techniques improved the genetic diagnostic rate for
+IRD patients by 10.2%.
+Submitted 29 August 2019; accepted: 27 January 2020
+Published online: 10 February 20201Ocular Genomics Institute, Massachusetts Eye and Ear Infirmary, Department of Ophthalmology, Harvard Medical School, Boston, MA, USA;2Rosalind Franklin University of
+Medicine & Science, RFUMS/Chicago Medical School, North Chicago, IL, USA;3Department of Ophthalmology and Visual Sciences, W. K. Kellogg Eye Center, University of
+Michigan, Ann Arbor, MI, USA. Correspondence: Kinga M. Bujakowska ( kinga_bujakowska@meei.harvard.edu )
+These authors contributed equally: Erin Zampaglione and Benyam Kinde.ARTICLE
+GENETICS in MEDICINE |Volume 22 |Number 6 |June 2020 1079MATERIALS AND METHODS
+Ethical guidelines
+The study was approved by the institutional review board at
+the Massachusetts Eye and Ear (Human Studies Committee,MEE, USA) and adhered to the tenets of the Declaration ofHelsinki. Informed consent was obtained from all individualson whom genetic testing and further molecular evaluations
+were performed.
+Clinical evaluation
+Patients included in the study were recruited and clinically
+examined at MEE. Ophthalmic examination included best-corrected Snellen visual acuity, dynamic Goldmann visualfield testing, dark adaptation testing, and full-field electro-retinographic (ERG) testing with assessment of 0.5 Hz ERG
+amplitude and 30 Hz ERG amplitudes.
+Genomic DNA extraction and targeted sequencing
+DNA was extracted from venous blood using the DNeasy
+Blood and Tissue Kit (Qiagen, Hilden, Germany). All samplesunderwent Genetic Eye Disease test (GEDi) sequencing asdescribed previously.
+3The GEDi version used in this study
+included 266 genes known to be associated with monogenic
+inherited retinal degenerations2,3(Supplementary Table S5).
+The capture libraries were sequenced on MiSeq (9 samples perrun) or HiSeq (96 samples per run) NGS platforms (Illumina,San Diego, CA) as previously described.
+3The NGS data were
+analyzed using Genome Analysis Toolkit (GATK) version 3(https://software.broadinstitute.org/gatk/ ) and annotated
+using the Variant Effect Predictor (VEP) tool ( https://useast.
+ensembl.org/info/docs/tools/vep/ ) with additional annotations
+taken from gnomAD Genomic Evolutionary Rate Profiling
+(GERP), SIFT, PolyPhen-2 and retinal expression.
+20Rare
+variants were selected based on the minor allele frequency(MAF) in public databases of less than 0.3%. Dominantpathogenic variants were considered with MAF <0.01%.Variants were annotated based on the transcripts included inSupplementary Table S5.
+Exon 15 of RPGR transcript NM_001034853 (called RPGR
+ORF15) is not fully covered by the NGS and therefore it was
+PCR amplified and Sanger sequenced with previouslyestablished protocols (Supplementary Methods).
+CNV analysis
+NGS read-depth analysis
+Copy-number variation from NGS read-depth was inferred
+using ExomeDepth15and gCNV from the GATK version 4.16
+Samples from all MiSeq runs were processed together(193 samples), and HiSeq runs were analyzed separately(batches of 96 or 48 samples). For ExomeDepth, the sampleswere separated by gender; for gCNV, they were kept together.For gCNV, the GEDi-captured regions were padded by 250 bpon each side and run in COHORT mode without externalcontrol samples. CNVs present in more than 15% of sampleswere removed as they were considered to be either capture
+artifacts or common CNVs that would not lead to a rareMendelian disorder. CNVs in the OPN1LW gene and the
+OPN1MW gene were removed as they were likely artifacts of
+poor NGS read mapping quality.
+SNP array
+Genomic DNA (gDNA) samples from probands wereanalyzed with whole-genome SNP microarray (Huma-
+nOmni2.5 BeadChip, Illumina) according to the manufac-
+turer ’s instructions. The hybridized SNP arrays were analyzed
+using an array reader (iScan array scanner, Illumina) and theSNP calls were made with the genotyping module of the dataanalysis software (GenomeStudio, Illumina). Copy-numbervariation from the SNP array results was detected withPennCNV using default parameters and sex information.
+17
+CNV confirmation
+Quantitative real-time PCR
+Deletions were validated using quantitative real-time PCR
+(qPCR) on gDNA with primers specific to sequences inside thepresumed CNV and flanking the CNV (SupplementaryTable S1). The amplification was normalized to the ZNF80
+reference gene. For each qPCR reaction 5 ng of gDNA, 200 nMof each primer and 10 µl of Fast SYBR Green master mix (Life
+Technologies, Grand Island, NY) were used. The amplification
+was performed in a qPCR system (Stratagene Mx3000P ®,
+Agilent Technologies) using the standard thermocyclingprogram: 95 °C for 3 minutes, 40 cycles of 95 °C for 20seconds, 60 °C for 1 minute followed by a melting curve. Eachsample was assayed in triplicate. Relative changes in genomicsequence abundance were calculated using the 2
+−ddC
+Tmethod,
+and error was calculated using standard propagation of errors.
+Data was visualized using custom R scripts.
+Mapping of the breakpoints in confirmed duplications
+Experimental details are presented in the supplementary
+material.
+RESULTS
+A cohort of 500 unrelated IRD patients was sequenced with
+the targeted NGS panel Genetic Eye Disease test (GEDi)3and
+analyzed with a comprehensive approach, which included astandard NGS analysis pipeline detecting single-nucleotidevariants (SNVs) and small insertions and deletions (indels),
+16
+interrogation of sequence reads to detect the knownpathogenic MAK -Alu insertion,
+21and application of NGS
+read-depth algorithms (ExomeDepth15and gCNV16) to detect
+larger deletions and duplications, or CNVs (Fig. 1). In this
+study we define CNVs as deletions or duplications that range
+from an average size of an exon ( ≈50–200 bp) and that are not
+detectable by standard NGS pipelines, to megabases ofDNA.
+22
+The integrated analytical approach yielded pathogenic
+SNVs/small indels likely leading to disease in 278 IRDsubjects (55.6% of the total cohort), where PVs in USH2A
+(11.8%), RPGR (4%), and EYS (4%) were the most common
+causes of disease (Fig. 2, Supplementary Table S2). InARTICLE ZAMPAGLIONE et al1234567890():,;
+1080 Volume 22 |Number 6 |June 2020 |GENETICS in MEDICINEaddition, MAK-Alu insertion was detected in seven patients
+by analyzing the NGS sequence reads.21
+CNV predictions using NGS data
+In our initial CNV analysis we focused only on CNVs thatwould contribute to solving the case genetically, that is (1)
+homozygous CNVs in autosomal recessive (ar) genes, (2)
+heterozygous CNVs in ar genes that are in trans with likely
+causal SNVs or small indel in the same gene, (3) compoundheterozygous CNVs in ar genes, (4) heterozygous CNVs in ahaploinsufficiency gene, and (5) duplications in autosomaldominant genes, which could lead to gain-of-functionvariants. Applying these criteria resulted in 55 patients with65 potentially disease-causing CNVs (Supplementary Fig. S1).
+These CNVs were subsequently validated by qPCR using
+gDNA from patients and healthy controls. qPCR confirmedthe likely CNV solutions for a total of 46 CNVs in 44 patients(8.8% of the total cohort). Thirty-two of them carriedheterozygous deletions, four carried homozygous deletions,three hemizygous deletions, and five carried heterozygousduplications. Only one of the patients carrying a homozygousdeletion (OGI2860_004445) was reported to be from a
+consanguineous marriage. CNVs in PRPF31 (10), EYS (9),
+andUSH2A (8) were the most common (Fig. 2b, Supple-
+mentary Table S3).
+CNV case highlights
+Most of the CNVs detected in this project were easilyinterpretable as they were either homozygous deletions,heterozygous deletions coupled with a deleterious allele in trans ,
+or heterozygous deletions in the known haploinsufficiency genePRPF31 .
+23H o w e v e r ,t h e r ew e r eaf e we x a m p l e so fm o r eu n u s u a l
+CNV contributions to disease e tiology, which we highlight
+below.
+In two patients we detected two nonconsecutive hetero-
+zygous deletions, which are thought to be due to deletions intrans (e.g., EYS deletions in subject 121 –182 [simplex RP], or
+PCDH15 deletions in subject OGI635_001299 [Usher syn-
+drome], Supplementary Table S3 and Fig. S1). Unfortunately,due to lack of samples from family members and a largedistance between the deletions (0.86 and 0.51 Mb), the phaseof these deletions could not be confirmed.
+Subject OGI655_001331 carried a heterozygous deletion of
+almost the entire ABCA4 gene (exons 1 –40). On closer
+examination, it was revealed that the same subject also carried
+a common hypomorphic missense change p.Asn1868Ile,
+which due to its high allele frequency (AF =0.042 in
+gnomAD) was overlooked during the initial analysis. Thep.Asn1868Ile missense in trans with a deleterious missense
+variant or loss-of-function allele was shown to lead to a lateonset macular degeneration,
+24which corresponds to the
+disease presentation in OGI655_001331, diagnosed withinherited macular degeneration/Stargardt disease at age 42.
+We identified five duplications (Fig. 1b, Supplementary
+Table S3). We were able to confirm the breakpoints of twotandem duplications in OFD1 andADGRV1 (Fig. 3, Table S3),
+and tandem duplication in RPGRIP1 was confirmed pre-
+viously.
+25Tandem duplications in ADGRV1 and RPGRIP1
+will lead to frameshifts and loss-of-function alleles. However,a tandem duplication of exons 6 –15 in OFD1 in a male subject
+OGI2829_004414 will likely lead to an inframe duplication of
+1242 internal coding bases (414 amino acid residues), with
+500 unrelated IRD
+patients
+Targeted NGS for 266 IRD genes
+ExomeDepth
+gCNV
+SNP-Array on a subset of
+IRD patients (144 patients)
+qPCR validation
+of CNVs
+171 patients
+remain unsolved44 patients solved
+with 46 CNVs7 patients solved
+with MAK -Alu278 patients solved with
+SNV/small indelsIntegrated analysis with all
+Mendelian inheritance
+patterns allowed
+55 patients with 61
+potentially solving
+CNVs from NGS3 patients with 4
+potentially solving
+CNVs from SNP-ArrayGATKv3 MAK -Alu detection
+Fig. 1 Flowchart of analysis strategy for inherited retinal degeneration (IRD) cohort. In this study, 500 unrelated IRD patients underwent targeted
+next-generation sequencing (NGS) and subsequent analysis for potentially causal genetic variants in IRD genes. A subset of the samples underwent
+additional single-nucleotide polymorphism (SNP) array analysis. Samples that had predicted likely causal copy-number variations (CNVs) were fur ther
+analyzed with quantitative polymerase chain reaction (qPCR) to confirm the CNVs.ZAMPAGLIONE et al ARTICLE
+GENETICS in MEDICINE |Volume 22 |Number 6 |June 2020 1081presumed partial preservation of protein function as complete
+loss of function of this gene is embryonic lethal in males.26
+Subject OGI2829_004414 presented with a ciliopathy pheno-type (retinal degeneration, history of kidney disease, andpossible cognitive dysfunction).
+Despite multiple attempts we were not able to confirm the
+breakpoints of duplications in EYS and JAG1 , therefore
+considering them as tandem duplications is an assumption.
+Subject OGI2839_004424 carried a heterozygous duplication
+of exons 1 –25 (3199 coding base-pairs) in JAG1 gene, which is
+predicted to cause a frameshift leading to a loss-of-functionallele. Heterozygous loss-of-function variants in JAG1 are
+known to lead to Alagille syndrome through haploinsuffi-ciency of this gene.
+27The major clinical features of Alagille
+syndrome are abnormalities in bile ducts leading to liverdamage and accompanying features are congenital heart
+defects, vertebrae anomalies, and ocular defects including
+pigmentary retinopathy and optic disc drusen.
+28Investigation
+of the clinical notes revealed that subject OGI2839_004424was seen in the ophthalmic clinic for the retinopathy, but inaddition was previously diagnosed with Alagille syndrome,therefore we consider the JAG1 duplication as the likely cause
+of the disease.
+Comparison of NGS-based CNV predictions versus SNP
+array –based CNV predictions
+To determine if SNP array –based detection of CNVs could
+replicate the findings from our NGS-based CNV analysis, weanalyzed a subset of our cohort with the Illumina Omni 2.5SNP array using the PennCNV algorithm.
+17Of the 500 sam-
+ples from the NGS cohort, 144 were chosen for SNP arrayanalysis. In these 144 samples, there were 61 predicted solving
+CNVs by gCNV and ExomeDepth in 52 patients (three of thesamples from the initial NGS-based CNV analysis were not
+analyzed by the SNP array, thus not included in thecomparison). The remaining 92 patients were chosen fromthe pool of samples that did not have likely solving NGS-based CNV or SNV predictions. These samples were chosento see if there were any potentially solving CNVs predictedby the SNP array that were missed by NGS-based methods. Inthese 144 samples, gCNV predicted 52 potentially solving
+CNVs, ExomeDepth predicted 52 potentially solving CNVs,
+and SA predicted 31 potentially solving CNVs, including fourCNVs in three patients that were not predicted by NGS-basedmethods. All predicted solving CNVs were then tested byqPCR to determine if they were confirmed true positives(Fig. 4a, b, Supplementary Fig. S1A, B). Of the three methods
+used, gCNV showed the best performance with 44 of 52predictions that validated compared with ExomeDepth (37/
+52) and SNP array (25/31). The gCNV algorithm alone
+predicted all of the true positive CNVs detected in this study(Fig. 4a). False positive rate was the highest (29%) in
+ExomeDepth (Fig. 2b).
+Depending on the technique used, the predicted sizes of the
+validated CNVs ranged from 59 bp to 249 kb (ExomeDepth),619 bp to 249 kb (gCNV), and 2.2 kb to1.6 Mb (SNP array)(Fig. 4c). Since NGS-based methods only investigate regions
+covered by the capture kit (i.e., IRD gene exons), and the SNP
+array covers the genome in a more uniform fashion, the sizesof large CNVs predicted are probably more accuratelyrepresented by the SNP array. This is because with NGS-based methods, any CNV that overlaps coding regions, butstarts or ends in a noncoding region, can only be reported asthe size of the coding regions plus any intervening introns. Inthis study, we did not attempt to map all the CNV
+breakpoints; however, we validated the CNVs with multiple
+8.8%
+CNVs34.2%
+unsolved55.6%
+SNVs/indel65
+60
+55
+SNVs/small indels
+hom del
+het del
+dup50
+30
+25
+20
+15Number of patients
+10
+5
+0
+IRD genes with validated CNVsUSH2AEYS
+PRPF31RPGRABCA4ADGRV1TULP1RP2
+FLVCR1 TRPM1RPE65MERTKCLN3 CHMJAG1
+PCDH15RPGRIP1OFD1
+Total: 500 IRD patientsab
+1.4%
+MAK -Alu
+Fig. 2 Summary of genetic contributions to inherited retinal degeneration (IRD) . (a) Targeted next-generation sequencing (NGS) analysis in a
+cohort of 500 IRD subjects reveals single-nucleotide variant (SNV)/small indel solutions in 55.6% cases, copy-number variation (CNV) solutions in 8.8%
+cases, and MAK -Alu insertions in 1.4% cases. ( b) Breakdown of CNV solutions by gene, with the number of patients solved by SNVs in the same gene. Note
+that genes that commonly have SNV solutions ( USH2A ,EYS) also tend to have CNV solutions, a notable exception being PRPF31 , in which CNVs are more
+common than expected based on the number of SNVs. CNV copy-number variation, IRDinherited retinal degeneration, SNV single-nucleotide variant.ARTICLE ZAMPAGLIONE et al
+1082 Volume 22 |Number 6 |June 2020 |GENETICS in MEDICINEqPCR primers inside and outside of the predicted deletions,
+thus chromosome coordinates of reported CNVs should beconsidered minimum estimates of the CNV size (Supplemen-tary Fig. S1).
+Further, we wanted to investigate why the SNP array failed
+to detect 19 true CNVs that were predicted by gCNV. Themost plausible reason is that the CNV is not covered by asufficient number of SNPs on the array because it is too small
+or it is in a region that is poorly represented on the array.
+First, we compared the sizes of the CNVs predicted by gCNVthat were validated by the SNP array (SA +ve) and that were
+not validated by the SNP array (SNP-ve) (Fig. 4d). As
+expected CNVs that were not predicted by the SNP array wereon average smaller (median =772 bp, mean =6.5 kb) than
+the CNVs that were also validated by the array (median =17
+kb, mean =49 kb). None of the 12 CNVs that were below 1 kb
+had sufficient number of SNPs (at least three) on the Omni2.5array to be detected by this method. Of the remaining seven
+larger CNVs (~7 –44 kb) that were not detected by the SNP
+array, most had sufficient number of SNPs in the interval(Supplementary Table S3), therefore, failure to detect them bythe SNP array was due to other undetermined experimental oranalytical reasons.
+Assessment of gCNV prediction scores
+In the original analysis of the gCNV output we did not applyany quality filters, as the primary constraint on the data waswhether a CNV fulfilled our “potentially solving ”criteria.
+Considering only gCNV predictions, there were 55 CNVs thatwe attempted to validate by qPCR. Of the 46 CNVs that didvalidate, we noticed that some of them had low qualitymetrics. However, an agnostic search for true positive CNVsrequires quality filters to remove false predictions, even at the
+expense of throwing out true positives. Therefore, we
+Sanger sequencingSanger sequencing
+OFD1 intron 15
+5 kb
+chrX (p22.2)
+Scale
+chrX:
+Haplotypes
+Patches
+OFD1
+OFD1OFD1
+RepeatMasker
+chr5 (q14.3)
+Scale
+chr5:
+Haplotypes
+Patches
+ADGRV1
+ADGRV1
+RepeatMaskerPCRa
+PatientControlH20
+3 kbPCR
+PatientControl H20OFD1 intron 5
+ADGRV1 intron 83Sequence common
+to intron 1 and 83ADGRV1 intron 1OFD1  tandem duplication in OGl2829_004414
+19,443 bp tandem duplication, chrX:13758359-13777802
+ADGRV1  tandem duplication in OGI731_001448
+286,732 bp tandem duplication, chr5:89888235-90174967b
+Fig. 3 Mapping of tandem duplication breakpoints. (a)OFD1 ex6 –15 duplication in subject OGI2829_004414 was mapped with specific primers that
+only amplified the duplicated allele (primer sequences in the Supplementary Methods) and Sanger sequenced to reveal 19,443-bp tandem duplication o n
+chromosome X (chrX:13758359 –13777802 dup). ( b)ADGRV1 ex2 –82 duplication in subject OGI731_001448 was mapped with specific primers that only
+amplified the duplicated allele (primer sequences in the Supplementary Methods) and Sanger sequenced to reveal 286,732-bp tandem duplication on
+chromosome 5 (chr5:89888235 –90174967 dup). PCR polymerase chain reaction.ZAMPAGLIONE et al ARTICLE
+GENETICS in MEDICINE |Volume 22 |Number 6 |June 2020 1083reanalyzed all CNVs in the cohort without the constraint of
+needing to be “potentially solving ”, in order to look for CNVs
+that may be true structural variants that are not primarycontributors to disease, or potential single hit disease-causing
+CNVs in genes that should be investigated further. This
+resulted in 3811 predicted CNVs in 500 patients, before anythresholds were applied. As an initial quality filter, weremoved CNV predictions that were present in greater than15% of samples and CNVs from the opsin gene locus onchromosome X, which due to poor NGS mapping qualitygenerated a high rate of likely false positive CNVs. Thisreduced the number of predicted CNVs in the cohort to 759,
+and still included all 55 CNVs investigated by qPCR. By
+plotting the distribution of quality score metrics of these 759CNVs, and highlighting the qPCR validated CNVs, wecompared the different quality score metrics generated bygCNV (Fig. 5) to choose one for a quality score cutoff. We
+settled on using the score of QA >30.
+16This cutoff reduced
+the number of CNVs in the entire cohort to 179 CNVs in 117patients, which included 3 of 9 falsely predicted CNVs and
+missed 3 of 46 true positive predictions (Fig. 5).Assessment of frequency of patients with single likely
+pathogenic alleles in a recessive IRD gene
+To assess how likely it is that the remaining genetically
+unsolved patients carry elusive pathogenic variants in alreadyknown IRD genes, we first evaluated how many unsolvedpatients have known pathogenic variants or new loss-of-function variants in recessive IRD disease genes, includingCNVs. Of the 171 unsolved subjects, 44 carried stop,
+frameshift, essential splice-site variants or likely pathogenic
+CNVs and four subjects carried known pathogenic missensealleles (Supplementary Table S4). Altogether, we estimatedthat at least 28% of the unsolved patients (9.6% of the overallcohort) carried a single likely pathogenic allele in a recessiveIRD gene.
+DISCUSSION
+Our results indicate that CNVs contribute significantly to thegenetic causality of IRDs, and that NGS-based CNV detectionmethods outperform SNP array –based CNV detection. Of the
+500 unrelated patients whose genetic cause of disease wasinvestigated by panel-based NGS testing (GEDi),
+3likely
+disease-causing CNVs were identified in 8.8% of cases. In55.6% of cases the disease could be explained by the likelypathogenic SNVs and small indels detected by the standard
+NGS analysis pipeline.
+16The only other structural variant
+gCNV gCNV
+3 258
+1
+0
+4116
+210
+0
+0
+SNP array SNP array4ED EDab
+100,0001,000,000CNVs confirmed by qPCR CNVs not confirmed by qPCR
+100,000
+10,000
+1000
+100
+10d c
+10,000
+1000
+100
+10
+gCNV SA–vegCNV del gCNV dupED del ED dup SA del SA dup
+gCNV SA+veCNV size [bp]CNV size [bp]
+Fig. 4 Comparison of different copy-number variation (CNV) detec-
+tion methods. (a) Breakdown of true positive CNVs predicted by different
+methods. Note that all true positive CNVs were predicted by gCNV. ( b)
+Breakdown of false positive CNVs predicted by different methods. Note that
+only one false positive CNV was predicted by all three CNV predictionmethods. ( c) The distribution of sizes of CNVs predicted by different
+methods. Note that in general, duplications were predicted less often, and
+were on average larger in size than predicted deletions. ( d) Comparison of
+the gCNV predicted sizes of validated CNVs that were also predicted by thesingle-nucleotide polymorphism (SNP) array (gCNV SA +ve) versus the
+gCNV predicted size of validated CNVs that were not predicted by the SA
+(gCNV SA-ve). EDExomeDepth, qPCR quantitative polymerase chain
+reaction.
+1000
+100
+10
+1
+QA QS QSE
+Quality metricQSSqPCR
+validations
+Positive
+Negative
+Fig. 5 Distribution of gCNV quality metrics for rare, nonopsin copy-
+number variations (CNVs). The gCNV algorithm provides four quality
+metrics for every predicted CNV: QA, QS, QSE, and QSS. QA is the com-
+plementary Phred-scaled probability that all points (i.e., targets or bins) inthe segment agree with the segment copy-number call. QS is the com-
+plementary Phred-scaled probability that at least one point (i.e., target or
+bin) in the segment agrees with the segment copy-number call. QSE is thecomplementary Phred-scaled probability that the segment end position is agenuine copy-number changepoint. QSS is the complementary Phred-
+scaled probability that the segment start position is a genuine copy-number
+changepoint. Violin plots show the relative probability density of the dis-tribution of each quality metric, while internal box plots show the 25th,median, and 75th percentile of distribution. The red and black data points
+represent CNVs within the distribution that were experimentally determined
+to be either true positives (black) or false positives (red) by quantitativepolymerase chain reaction (qPCR) validation.ARTICLE ZAMPAGLIONE et al
+1084 Volume 22 |Number 6 |June 2020 |GENETICS in MEDICINEinvestigated was a known Alu insertion in exon 9 of
+MAK ,18,19,21which was present in 1.4% of cases, agreeing
+closely with the previously reported frequency of 1.2%.18
+The majority of the CNVs were heterozygous or homo-
+zygous deletions, ranging from single-exon to whole-genedeletions. Three large deletions in two genes ( MERTK and
+TRPM1 ) were in regions prone to the nonallelic homologous
+recombination (NAHR), which is the most likely mechanism
+of their occurrence.
+14Analysis of all CNVs reported in IRD
+genes performed by Van Schil and colleagues indicated thatgene size, followed by the number of LINE and LTR repeats isthe biggest predictor for a gene to be prone to CNVs.
+29This
+analysis correlates well with our findings, where the largestIRD gene EYS and the third largest IRD gene USH2A , had
+nine and eight causal CNVs respectively. However, in the
+present study the most common gene to harbor CNVs was
+PRPF31 , which is known to cause a dominant form of IRD
+through haploinsufficiency.
+23Even though PRPF31 is known
+to be prone to CNVs, their contribution to IRD causality islikely still underestimated. A literature search by Van Schiland colleagues revealed that causal CNVs in PRPF31 have
+been reported in 14 families, and the Human Gene MutationDatabase (HGMD) reports 35 SVs of the total of 196 variants
+(18%). In this study we detected likely causal CNVs in 10 of
+22 (45%) probands with PRPF31 -related disease, demonstrat-
+ing a higher than previously reported CNV rate in this gene.The reasons for such high frequency of CNVs in PRPF31 is
+unclear, since this gene is neither large (~16.3 kb genomiclength) nor does it have a high density of long interspersed-nuclear elements (LINE) and long terminal repeat (LTR)elements (ranked 191 of 245 genes by Van Schil and
+colleagues).
+29
+Our study highlights the importance of parallel SNV and
+CNV analyses, as certain variants may falsely appear ashomozygous when in fact they are in trans with a large
+deletion. This distinction is particularly important when ahypomorphic variant is involved, as in the case ofp.Asn1868Ile in ABCA4 discovered in trans with a large
+deletion in subject OGI655_001331. The p.Asn1868Ile variant
+in a homozygous state is not considered pathogenic; however,
+when paired in trans with a severe pathogenic variant it has
+been shown to be causal.
+24This finding also demonstrates the
+importance of evaluating every variant, rather than prema-turely discarding variants based on certain criteria. This isbecoming more feasible with the emergence of software thatcan rank variants, based on human-designed or machinelearning algorithms.
+Of 44 patients with CNVs, only five carried likely causal
+duplications, which may be an underestimate, as duplicationsare more difficult to detect, interpret, and validate. All but oneof the duplications are thought to result in a loss-of-functionallele. Duplication of OFD1 exons 6 –15 is predicted to
+duplicate 414 internal amino acids of the protein and lead to apartially functioning OFD1 protein, resulting in a decreasedspectrum of disease in subject OGI2829_004414, who apart
+from retinal disease has a history of renal failure. Variants inOFD1 may lead to a spectrum of phenotypes from an
+X-linked dominant oral –facial –digital type 1 syndrome, with
+ciliopathy phenotype in females and embryonic lethal inmales, X-linked recessive Joubert syndrome to nonsyndromicIRD, depending on where the variant is located;
+8,26,30
+however, to our knowledge no causal duplications in OFD1
+have been reported to date.
+NGS-based CNV prediction with the gCNV algorithm
+showed considerable advantage over more traditional SNParray –based prediction. This is largely because NGS-based
+algorithms could detect smaller CNVs as they were notrestricted by the availability of SNPs. In our study, allvalidated CNVs detected by the SNP array were also detectedby gCNV, therefore this method is an adequate replacementof the SNP array –based CNV predictions. Another accurate
+method of CNV detection is a customizable microarray-based
+comparative genomic hybridization, e.g., IRD genes array(arrEYE).
+11However, this method requires an additional wet-
+lab assay to be applied to the samples that had alreadyundergone NGS, which may be unnecessary if the CNVs canbe detected by a robust NGS-based algorithm. In this study weused qPCR on gDNA as a validation of the CNVs, as this is acost-effective and easily accessible method widely applied in
+many labs; however, other assays such as targeted locus
+amplification
+29or genome sequencing can be applied with an
+added benefit of mapping CNV breakpoints.31
+In a genetic diagnostic setting, filtering based on CNV
+prevalence in the cohort, CNV frequency per sample, andgCNV quality scores will aid in assessing the likelihood of agiven CNV being true positive. In this study, we usedexperimental results to establish thresholds on gCNV
+predictions to reduce predicted CNVs to a subset with a
+higher probability of being true genetic variants. In futurestudies, more sophisticated methods can be used, such ascreating a scoring method that considers multiple factors,similar to the guidelines recommended for sequence variantcuration from the American College of Medical Genetics andGenomics (ACMG).
+32Taking into account the population-
+level frequency of CNVs using publicly available data sets will
+also be crucial in establishing the pathogenicity of the CNVs
+(e.g., gnomadSV, Collins et al., bioRXiv preprint).
+In conclusion, our rate of discovery for likely solving
+variants in IRD patients has increased from 55.6% to 65.8% byincluding information from CNVs and MAK -Alu insertions.
+This represents a significant improvement in solving geneticcases, consistent with or higher than in previous stu-dies.
+11,12,33–35Additional analysis found 9.6% of the cohort
+had a single potentially pathogenic SNV or CNV in a known
+autosomal recessive IRD gene. Although this does notconstitute enough evidence to identify that gene as disease-causing, it indicates a high chance that an elusive pathogenicvariant resides on the second allele, as demonstrated beforefor the RPGRIP1 gene.
+25Searching for these elusive variants is
+critical for improving the discovery rate of disease causation.For example, this study did not investigate other SVs such as
+inversions. translocations, and other complex rearrangementsZAMPAGLIONE et al ARTICLE
+GENETICS in MEDICINE |Volume 22 |Number 6 |June 2020 1085including mobile element insertions, which may play an
+important role in IRDs.36,37There are also examples of deep
+intronic variants leading to splicing aberration and untrans-lated region (UTR) variants contributing to retinal dis-ease.
+8,9,25,38,39The development of assays that can confirm
+pathogenic contributions from such variants, and theirinclusion into variant analysis pipelines, will be important
+for better understanding the genetic contributions not just to
+IRDs, but to Mendelian disorders in general.
+SUPPLEMENTARY INFORMATION
+The online version of this article ( https://doi.org/10.1038/s41436-
+020-0759-8 ) contains supplementary material, which is available
+to authorized users.
+ACKNOWLEDGEMENTS
+This work was supported by grants from the National Eye Institute(R01EY012910 [E.A.P.], R01EY026904 [K.M.B./E.A.P.] andP30EY014104 [MEEI core support]), and the Foundation FightingBlindness (EGI-GE-1218 –0753-UCSD, K.M.B./E.A.P.). The authors
+thank all subjects for their participation in this study and the OGIGenomics Core members for their experimental assistance. Theauthors thank the Exome Aggregation Consortium, the Genome
+Aggregation Database (gnomAD), and the groups that provided
+exome variant data for comparison. A full list of contributinggroups can be found at http://gnomad.broadinstitute.org/about .
+DISCLOSURE
+The authors declare no conflicts of interest.
+Publisher ’s note Springer Nature remains neutral with regard to
+jurisdictional claims in published maps and institutionalaffiliations.
+REFERENCES
+1. Berger W, Kloeckener-Gruissem B, Neidhardt J. The molecular basis of
+human retinal and vitreoretinal diseases. Prog Retin Eye Res.2010;29:335 –375.
+2. Retinal Information Network. https://sph.uth.edu/retnet/home.htm . 2019.
+Accessed 20 November 2018.
+3. Consugar MB, Navarro-Gomez D, Place EM, et al. Panel-based genetic
+diagnostic testing for inherited eye diseases is highly accurate and
+reproducible, and more sensitive for variant detection, than exome
+sequencing. Genet Med. 2015;17:253 –261.
+4. Weisschuh N, Mayer AK, Strom TM, et al. Mutation detection in patients
+with retinal dystrophies using targeted next generation sequencing. PLoSOne. 2016;11:1 –15.
+5. Zhao L, Wang F, Wang H, et al. Next-generation sequencing-based
+molecular diagnosis of 82 retinitis pigmentosa probands from Northern
+Ireland. Hum Genet. 2015;134:217 –230.
+6. Boulanger-Scemama E, El Shamieh S, Démontant V, et al. Next-
+generation sequencing applied to a large French cone and cone –rod
+dystrophy cohort: mutation spectrum and new genotype-phenotypecorrelation. Orphanet J Rare Dis. 2015;10:85.
+7. Perez-Carro R, Corton M, Sánchez-Navarro I, et al. Panel-based NGS
+reveals novel pathogenic mutations in autosomal recessive retinitispigmentosa. Sci Rep. 2016;6:1 –10.
+8. Webb TR, Parfitt DA, Gardner JC, et al. Deep intronic mutation in OFD1,
+identified by targeted genomic next-generation sequencing, causes asevere form of X-linked retinitis pigmentosa (RP23). Hum Mol Genet.2012;21:3647 –3654.9. den Hollander AI, Koenekoop RK, Yzer S, et al. Mutations in the CEP290
+(NPHP6) gene are a frequent cause of Leber congenital amaurosis. Am J
+Hum Genet. 2006;79:556 –561.
+10. Eisenberger T, Neuhaus C, Khan AO, et al. Increasing the yield in targeted
+next-generation sequencing by implicating CNV analysis, non-codingexons and the overall variant load: the example of retinal dystrophies.PLoS One. 2013;8:e78496.
+11. Van Cauwenbergh C, Van Schil K, Cannoodt R, et al. ArrEYE: a
+customized platform for high-resolution copy number analysis of coding
+and noncoding regions of known and candidate retinal dystrophy genesand retinal noncoding RNAs. Genet Med. 2017;19:457 –466.
+12. Khateb S, Hanany M, Khalaileh A, et al. Identification of genomic
+deletions causing inherited retinal degenerations by coverage analysis ofwhole exome sequencing data. J Med Genet. 2016;53:600 –607.
+13. Braun TA, Mullins RF, Wagner AH, et al. Non-exomic and synonymous
+variants in ABCA4 are an important cause of Stargardt disease. Hum Mol
+Genet. 2013;22:5136 –5145.
+14. Bujakowska KM, Fernandez-Godino R, Place E, et al. Copy-number
+variation is an important contributor to the genetic causality of inheritedretinal degenerations. Genet Med. 2017;19:643 –651.
+15. Plagnol V, Curtis J, Epstein M, et al. A robust model for read count data in
+exome sequencing experiments and implications for copy number variant
+calling. Bioinformatics. 2012;28:2747 –2754.
+16. McKenna A, Hanna M, Banks E, et al. The Genome Analysis Toolkit: a
+MapReduce framework for analyzing next-generation DNA sequencingdata. Genome Res. 2010;9:1297 –1303.
+17. Wang K, Li M, Hadley D, et al. PennCNV: an integrated hidden
+Markov model designed for high-resolution copy number variation
+detection in whole-genome SNP genotyping data. Genome Res.
+2007;17:1665 –1674.
+18. Tucker Ba, Scheetz TE, Mullins RF, et al. Exome sequencing and analysis
+of induced pluripotent stem cells identify the cilia-related gene male germcell-associated kinase (MAK) as a cause of retinitis pigmentosa. Proc NatlAcad Sci U S A. 2011;108:E569 –E576.
+19. Özgül RK, Siemiatkowska AM, Yücel D, et al. Exome Sequencing and Cis-
+Regulatory Mapping Identify Mutations in MAK, Encoding a Regulator ofCiliary Length, as a Cause of Retinitis Pigmentosa Figure S1. CandidateGene Prioritization at 34 Autosomal Recessive Retinitis Pigmentosa Loci.Am J Hum Genet. 2011;89:253 –64.
+20. Farkas M, Grant G, White J, et al. Transcriptome analyses of the human
+retina identify unprecedented transcript diversity and 3.5 Mb of novel
+transcribed sequence via significant alternative splicing and novel genes.
+BMC Genomics. 2013;14:486.
+21. Bujakowska KM, White J, Place E, et al. Efficient in silico identification of
+a common insertion in the MAK gene which causes retinitis pigmentosa.PLoS One. 2015;10:e0142614.
+22. Carvalho CMB, Lupski JR. Mechanisms underlying structural variant
+formation in genomic disorders. Nat Rev Genet. 2016;17:224 –238.
+23. Abu-Safieh L, Vithana EN, Mantel I, et al. A large deletion in the adRP
+gene PRPF31: evidence that haploinsufficiency is the cause of disease.Mol Vis. 2006;12:384 –388.
+24. Zernant J, Lee W, Collison FT, et al. Frequent hypomorphic alleles account
+for a significant fraction of ABCA4 disease and distinguish it from age-related macular degeneration. J Med Genet. 2017;54:404 –
+412.
+25. Jamshidi F, Place EM, Mehrotra S, et al. Contribution of non-coding
+mutations to RPGRIP1-mediated inherited retinal degeneration. GenetMed. 2019;3:694 –704.
+26. Ferrante MI, Giorgio G, Feather Sa, et al. Identification of the
+gene for oral –facial –digital type I syndrome. Am J Hum Genet.
+2001;68:569 –576.
+27. Oda T, Elkahloun AG, Pike BL, et al. Mutations in the human Jagged1
+gene are responsible for Alagille syndrome. Nat Genet. 1997;16:235 –242.
+28. Kim BJ, Fulton AB. The genetics and ocular findings of Alagille syndrome.
+Semin Ophthalmol. 2007;22:205 –210.
+29. Van Schil K, Naessens S, Van De Sompele S, et al. Mapping the genomic
+landscape of inherited retinal disease genes prioritizes genes prone to
+coding and noncoding copy-number variations. Genet Med.
+2018;20:202 –213.
+30. Coene KLM, Roepman R, Doherty D, et al. OFD1 is mutated in X-linked
+Joubert syndrome and interacts with LCA5-encoded lebercilin. Am J HumGenet. 2009;85:465 –481.
+31. Carss K, Arno G, Erwood M, et al. Comprehensive rare variant analysis via
+whole-genome sequencing to determine the molecular pathology of
+inherited retinal disease. Am J Hum Genet. 2017;100:75 –90.ARTICLE ZAMPAGLIONE et al
+1086 Volume 22 |Number 6 |June 2020 |GENETICS in MEDICINE32. Richards S, Aziz N, Bale S, et al. Standards and guidelines for the
+interpretation of sequence variants: a joint consensus recommendation
+of the American College of Medical Genetics and Genomics and
+the Association for Molecular Pathology. Genet Med. 2015;17:405 –423.
+33. Huang X, Mao J, Huang Z, et al. Genome-wide detection of copy number
+variations in unsolved inherited retinal disease. Investig Ophthalmol VisSci. 2017;58:424 –429.
+34. Ellingford JM, Horn B, Campbell C, et al. Assessment of the incorporation
+of CNV surveillance into gene panel next-generation sequencingtesting for inherited retinal diseases. J Med Genet. 2018;55:114 –121.
+35. Jespersgaard C, Fang M, Bertelsen M, et al. Molecular genetic analysis
+using targeted NGS analysis of 677 individuals with retinal dystrophy. SciRep. 2019;9:1 –7.
+36. Tavares E, Tang CY, Li S, et al. Retrotransposon insertion as a novel
+mutational event in Bardet-Biedl syndrome. Mol Genet Genomic Med.2019;7:e521.
+37. Nishiguchi KM, Tearle RG, Liu YP, et al. Whole genome sequencing in
+patients with retinitis pigmentosa reveals pathogenic DNA structuralchanges and NEK2 as a new disease gene. Proc Natl Acad Sci U S A.
+2013;110:16139 –16144.
+38. Coppieters F, Todeschini AL, Fujimaki T, et al. Hidden genetic variation
+in LCA9-associated congenital blindness explained by 5 ’UTRmutations and copy number variations Of NMNAT1. Hum Mutat. 2015;
+12:1188 –1196.
+39. Vaché C, Torriano S, Faugère V. et al. Pathogenicity of novel atypical
+variants leading to choroideremia as determined by functional analyses.Hum Mutat. 2019;40:31 –35.
+Open Access This article is licensed under a Creative Commons
+Attribution-NonCommercial-ShareAlike 4.0 International License,
+which permits any non-commercial use, sharing, adaptation, distribution and
+reproduction in any medium or format, as long as you give appropriate credit to theoriginal author(s) and the source, provide a link to the Creative Commons license,and indicate if changes were made. If you remix, transform, or build upon thisarticle or a part thereof, you must distribute your contributions under the samelicense as the original. The images or other third party material in this article are
+included in the article ’s Creative Commons license, unless indicated otherwise in a
+credit line to the material. If material is not included in the article ’sC r e a t i v e
+Commons license and your intended use is not permitted by statutory regulation orexceeds the permitted use, you will need to obtain permission directly from thecopyright holder. To view a copy of this license, visit http://creativecommons.org/
+licenses/by-nc-sa/4.0/ .
+© The Author(s) 2020ZAMPAGLIONE et al ARTICLE
+GENETICS in MEDICINE |Volume 22 |Number 6 |June 2020 1087

@@ -1,0 +1,861 @@
+Article
+miR- 181a/b downregulation: a
+mutation-independent therapeutic approach for
+inherited retinal diseases
+Sabrina Carrella1,2,*, Martina Di Guida1,3, Simona Brillante1, Davide Piccolo1, Ludovica Ciampi1,
+Irene Guadagnino1,3, Jorge Garcia Piqueras1,3, Mariateresa Pizzo1, Elena Marrocco1, Marta Molinari1,
+Georgios Petrogiannakis1,4, Sara Barbato1, Yulia Ezhova1,4, Alberto Auricchio1,5,
+Brunella Franco1,6,7, Elvira De Leonibus1,8, Enrico Maria Surace6, Alessia Indrieri1,9&
+Sandro Banfi1,3,**
+Abstract
+Inherited retinal diseases (IRDs) are a group of diseases whose
+common landmark is progressive photoreceptor loss. The develop-ment of gene-specific therapies for IRDs is hampered by their widegenetic heterogeneity. Mitochondrial dysfunction is proving toconstitute one of the key pathogenic events in IRDs; hence,approaches that enhance mitochondrial activities have a promis-ing therapeutic potential for these conditions. We previouslyreported that miR- 181a/b downregulation boosts mitochondrial
+turnover in models of primary retinal mitochondrial diseases. Here,we show that miR- 181a/b silencing has a beneficial effect also in
+IRDs. In particular, the injection in the subretinal space of anadeno-associated viral vector (AAV) that harbors a miR- 181a/b
+inhibitor (sponge) sequence (AAV 2/8-GFP-Sponge-miR- 181a/b)
+improves retinal morphology and visual function both in models ofautosomal dominant ( RHO-P 347S) and of autosomal recessive
+(rd10 ) retinitis pigmentosa. Moreover, we demonstrate that miR-
+181a/b downregulation modulates the level of the mitochondrial
+fission-related protein Drp 1and rescues the mitochondrial frag-
+mentation in RHO-P 347Sphotoreceptors. Overall, these data sup-
+port the potential use of miR- 181a/b downregulation as an
+innovative mutation-independent therapeutic strategy for IRDs,which can be effective both to delay disease progression and toaid gene-specific therapeutic approaches.Keywords inherited retinal diseases; miR- 181; mitochondria; photoreceptor;
+therapy
+Subject Categories Genetics, Gene Therapy & Genetic Disease;
+Neuroscience; RNA BiologyDOI 10.15252 /emmm. 202215941 | Received 23February 2022 | Revised 15
+September 2022 | Accepted 19September 2022 | Published online 4October
+2022EMBO Mol Med ( 2022 )14:e15941
+Introduction
+Inherited retinal diseases (IRDs) are among the most prevalent
+causes of vision loss/blindness of genetic origin in the working-agepopulation. They encompass a variety of different clinical subtypessuch as retinitis pigmentosa (RP), Leber congenital amaurosis(LCA), and macular diseases. IRDs display extensive genetic hetero-geneity with more than 250 causative genes identified thus far(https://sph.uth.edu/retnet/disease.htm ). Gene-replacement thera-
+pies are proving to be effective in the treatment of IRDs caused byloss-of-function mutations as exemplified by the recent approvalof Voretigene Neparvovec for the treatment of conditions caused bymutations in the RPE65 gene (Ledford, 2017 ; Apte, 2018 ). Unfortu-
+nately, gene replacement cannot be effectively applied to IRDscaused by gain-of-function mutations, in which the silencing ofthe mutated allele is primarily required. Moreover, the highgenetic heterogeneity of IRDs significantly limit the set up of
+1Telethon Institute of Genetics and Medicine (TIGEM), Pozzuoli, Italy
+2Ecosustainable Marine Biotechnology Department, Stazione Zoologica Anton Dohrn, Naples, Italy
+3Medical Genetics, Department of Precision Medicine, University of Campania “L. Vanvitelli ”, Naples, Italy
+4Molecular Life Science, Department of Science and Environmental, Biological and Farmaceutical Technologies, University of Campania “Luigi Vanvitelli ”, Naples, Italy
+5Medical Genetics, Department of Advanced Biomedicine, University of Naples “Federico II ”, Naples, Italy
+6Medical Genetics, Department of Translational Medical Science, University of Naples “Federico II ”, Naples, Italy
+7Scuola Superiore Meridionale, School of Advanced Studies, Naples, Italy
+8Institute of Biochemistry and Cellular Biology (IBBC), National Research Council (CNR), Monterotondo, Rome, Italy
+9Institute for Genetic and Biomedical Research (IRGB), National Research Council (CNR), Milan, Italy
+*Corresponding author. Tel: +39 081192830628 ; E-mail: carrella@tigem.it; sabrina.carrella@szn.it
+**Corresponding author. Tel: +39 081192830628 ; E-mail: sandro.banfi@unicampania.it
+/C2112022 The Authors. Published under the terms of the CC BY 4.0license. EMBO Molecular Medicine 14:e15941 |2022 1of19gene/mutation-specific approaches that can be applied to a large
+fraction of patients (Carrella et al,2020 ).
+Gene/mutation-independent therapeutic strategies that aim at
+decreasing and/or delaying cell death in the affected retina, inde-pendently of the primary genetic defect, constitute a valid and/orcomplementary alternative to gene-based approaches (Carrella et al,
+2020 ). Degeneration of photoreceptors (PRs) is the common land-
+mark in IRDs even though a precise knowledge of the underlyingmolecular and cellular events is still far from reach. Among the mostrelevant pathways involved, mitochondrial dysfunction, neuroin-flammation, and microglia activation are known to worsen PR deathand accelerate disease progression (Ambati et al,2013 ; Cuenca
+et al,2014 ; Zhao et al,2015 ; Lefevere et al,2017 ; Mirra & Marfany,
+2019 ; Carrella et al,2021 ). Targeting key effectors that impact on
+common dysregulated pathways in neuronal damage during diseaseprogression hold great promise for therapeutic purposes (Indrieriet al,2019 ; Carrella et al,2020 ). In the latter respect, microRNAs
+(miRNAs), given their ability to simultaneously modulate multiplemolecular pathways commonly associated with disease pathogene-sis and progression, constitute appealing targets toward the designof gene/mutation-independent therapeutic strategies (Askou et al,
+2018 ).
+We recently identified miR-181a and miR-181b (miR-181a/b) as
+possible therapeutic targets for mitochondrial-related retinal dis-eases (Indrieri et al,2019 ). MiR-181a/b are highly expressed in
+the central nervous system (CNS) and in different retinal cell types(Busskamp et al,2014 ; Indrieri et al,2019 ). They are part of the
+miR-181 miRNA family and are localized in two distinct genomicclusters in mammals ( miR-181a/b-1 and miR-181a/b-2 ). The
+mature forms of miR-181a and miR-181b produced by both clus-ters show identical sequences. Furthermore, the “seed” sequence,that is, the domain hypothesized to play the most relevant role intarget recognition, is identical between miR-181a and miR-181b(Indrieri et al,2020 ). Several mitochondrial-related transcripts are
+direct targets of miR-181a/b, for example, Bcl2,Mcl1 , and Park2
+(Ouyang et al,2012 ; Cheng et al,2016 ). We recently demon-
+strated that miR-181a/b control mitochondrial turnover and func-tion in vivo by targeting genes involved in mitochondrial
+biogenesis, function, and clearance, as well as in reactive oxigenspecies (ROS) detoxification (i.e., Tfam ,Nrf1,Cox11 ,CoQ10B , and
+Prdx3 ) (Indrieri etal,2019 ;
+ Barbato et al,2021 ). Genetic inactiva-
+tion of miR-181a/b-1 leads to increased levels of mitochondrial
+biogenesis and mitophagy in the retina of mouse models of pri-mary mitochondrial dysfunction leading to strong protection fromneuronal cell death and to significant amelioration of the diseasephenotype (Indrieri et al,2019 ). In particular, we showed that
+genetic inactivation of miR-181a/b-1 protects retinal ganglion cells
+(RGCs) and ameliorates visual function in different mouse modelsof Leber’s hereditary optic neuropathy (LHON) strongly indicatingthat these miRNAs may represent effective therapeutic targets forthis disease (Indrieri et al,2019 ). Notably, we also demonstrated
+that miR-181a/ b-1ablation did not cause per se neither abnormali-
+ties in retinal morphology nor alteration of retinal function, thussupporting the safety of miR-181a/b downregulation in the retina(Indrieri et al,2019 ).
+Over the last decades, evidence linking mitochondrial dysfunc-
+tion to IRDs is increasing (Carrella et al,2021 ). The outer retina is
+known to have a high metabolic demand, which is associated withabundance of mitochondria in the retinal pigment epithelium (RPE)and PRs. The latter cells are under constant environmental chal-lenges and are highly prone to oxidative stress, a major contributorto retinal degenerations and hence IRDs (Lefevere et al,2017 ; Mirra
+& Marfany, 2019 ; Jiang et al,2022 ). Importantly, since mitochon-
+drial dysfunction seems to be an early event in IRDs, approachestargeting basic mitochondrial functions hold great therapeuticpromise (Lefevere et al,2017 ; Carrella et al,2021 ).
+Here, we tested the possible neuroprotective effect of miR-181a/
+b downregulation in IRDs. We demonstrated that miR-181a/b down-regulation protects PRs from death and ameliorates their morphol-ogy, resulting in improvement of visual function in two differentIRD models. We also observed amelioration of mitochondria mor-phology in PRs, along with a concomitant downregulation of themitochondrial fission protein Drp1 mediated by the activation of theJAK2/STAT3 pathway. Our data unveil a novel molecular mecha-nism by which miR-181a/b regulate mitochondrial morphology andfunction in diseased conditions and identified an AAV-mediatedsponge strategy to efficiently downregulate miR-181a/b in vivo .W e
+demonstrated that miR-181a/b downregulation could be effective inameliorating retinal function across different IRD models with amutation/gene-independent mechanism, thus providing a novelpotential therapeutic strategy that deserves further developmenttoward clinical application in patients.
+Results
+miR- 181a/b-1 downregulation slows down retinal degeneration
+in P347S mice
+The transgenic line carrying the proline-347 to serine (P347S) muta-tion in the Rhodopsin (RHO) protein is a model for autosomal domi-nant (AD) RP. These animals show a reduction in electroretinogram(ERG) amplitudes that correlate with the extent of PR loss (Li et al,
+1996 ). The P347S mutation leads to mis-trafficking of the RHO pro-
+tein with defective vectorial transport of post-Golgi vesicles, whichmostly fail in reaching the nascent disks of the PR outer segment(OS) (Li et al,1996 ; Greenwald et al,2013 ) and is therefore mis-
+localized to the outer nuclear layer (ONL) in the transgenic mouseretina (Chadderton et al,2009 ; Marrocco et al,2021 ; Patrizi et al,
+2021 ). A reduced ERG response in RHO- P347S mice (from now
+onward termed P347S) can be observed at postnatal day (p) 30 and,albeit severely impaired, can be recorded up to p70 –90. To study
+the effect of miR-181a/b inactivation on RP progression, we crossedmiR-181a /b-1
++//C0(Henao-Mejia et al,2013 ; Indrieri et al,2019 ) with
+P347S+/+mice to obtain, in the same litters, P347S+//C0/miR-181a/
+b-1+/+and P347S+//C0/miR-181a/b-1+//C0animals, termed P347S and
+P347S/miR-181a/b-1+//C0, respectively (see Materials and Methods).
+Most of the analyzed miR-181a/b targets (i.e., Cox11 ,Erk2, Mcl1 ,
+Bcl2,Nrf1,Coq10b ,Atg5 ,Xiap ,Pgc1a ,Park2 , and Prdx3 ) displayed
+increased transcript levels in P347S/miR-181a/b-1+//C0versus P347S
+eyes, as measured by quantitative (q)RT –PCR (Fig 1A).
+Cell death was analyzed in the retinas of P347S and P347S/miR-
+181a/b-1+//C0animals by active caspase-3 staining and TUNEL assays
+at p30. A significant decrease of cell death in the ONL of P347S/miR-181a/b-1
++//C0with respect to P347S was observed (Fig 1B–G). At
+the same time point, we also detected a significant improvement of
+2of19 EMBO Molecular Medicine 14:e15941 |2022 /C2112022 The AuthorsEMBO Molecular Medicine Sabrina Carrella et alERG responses (both a-waves and b-waves) registered in scotopic
+conditions in P347S/miR-181a/b-1+//C0compared with P347S eyes
+(Fig 2A–C ).
+Although we did not observe significant differences in ONL thick-
+ness at p30 (Fig EV1A –D), the expression of the PR markersRhodopsin (Fig 2D–F0), C-Arrestin (Fig 2G–I0), and Recoverin
+(Fig EV1E –H) was better preserved in P347S/miR-181a/b-1+//C0eyes
+as compared with P347S controls. In particular, we noticed amelio-ration of: (i) Rhodopsin distribution, which displayed a lower extentof retainment in the ONL (Fig 2D–F
+0and P); (ii) structure of cone
+Figure 1. miR- 181a/b-1downregulation slows down retinal degeneration in P 347S mice at p 30.
+A qRT –PCR analysis reveals increased levels of most of the miR- 181a/b targets in the eyes of P 347S/miR- 181a/b+//C0versus P 347S animals. N=4animals/genotype.
+B–C0Immunofluorescence analysis of active-caspase 3in the ONL of P 347S and P 347S/miR- 181a/b+//C0.
+D, E TUNEL analysis in the ONL of P 347S and P 347S/miR- 181a/b+//C0.
+F Quantification of immunofluorescence analysis in (B –C0)(N=4eyes P 347S and N=6eyes P 347S/ miR- 181a/b+//C0).
+G Quantification of TUNEL analysis in (D, E) ( N=3eyes/genotype).
+Data information: Scale bars are 50lm. Data are presented as mean /C6SEM. Student ’st-test unpaired.
+/C2112022 The Authors EMBO Molecular Medicine 14:e15941 |2022 3of19Sabrina Carrella et al EMBO Molecular Medicineand rod OS, as revealed by PNA staining (Fig 2J–L0) and by mea-
+surement of OS length on electron microscopy (EM) images
+(Fig EV1I –K); and (iii) inner segment (IS) structures, as highlighted
+by Phalloidin staining (Fig 2M–P).
+Notably, the beneficial effect of miR-181a/b downregulation
+was still detectable at later time points (p90), when we observedstatistically significant preservation of b-wave ERG response(Fig 3A–C ), with amelioration of PR markers expression (Fig 3D–
+L) and a slight increase in ONL thickness (Fig 3M). We observed
+a statistically significant increase in photopic a-waves ampli-tudes suggesting that the PRs with preserved functionality aremostly cones at this late time point. We also decided to test thespatial frequency threshold of vision (i.e., visual acuity expressedin cycles/degree), determined by measuring the optokineticresponse (OKR). P347S animals displayed a dramatic impair-ment of OKR response, in agreement with previous reports (Yuet al,2017 ). Conversely, P347S/miR-181a/b-1
++//C0animals showed
+a significant amelioration of OKR response at the same stage(Fig 3N).
+Taken together, these results indicate that miR-181a/b downreg-
+ulation improves retinal function and slows down retina degenera-tion in P347S mice.
+Figure 2. miR- 181a/b-1downregulation ameliorates the retinal phenotype in P 347S mice at p 30.
+A–C ERG response [a-wave in (A) and b-wave in (B)], recorded in scotopic conditions, of WT, P 347S and P 347S/miR- 181a/b+//C0animals at p 30;N≥18eyes. Data are pre-
+sented as mean /C6SD. Two-way ANOVA test. Representative curves are reported in (C).
+D–P Immunofluorescence analysis showed amelioration of Rhodopsin localization (D –F0; white arrowheads); C-arrestin expression (G –I0) and PR outer segment (OS) and
+inner segment (IS) structures, as determined, respectively, by PNA (J –L0); and Phalloidin staining (M –O″)i nP 347S/miR- 181a/b+//C0versus P 347S eyes at p 30.( M″–O″)
+show higher magnification of (M –O). Scale bars 25lmi n( D –O0);5lmi n( M ″–O″). Fluorescence densitometry quantification of each staining is reported in (P),
+N=3eye/genotype for each staining. WT versus P 347SP-values are reported in red, P 347S versus P 347S/miR- 181a/b+//C0P-values are reported in black. Data are
+presented as mean /C6SEM. Student ’st-test, unpaired.
+4of19 EMBO Molecular Medicine 14:e15941 |2022 /C2112022 The AuthorsEMBO Molecular Medicine Sabrina Carrella et almiR- 181a/b-1 downregulation ameliorates retinal mitochondrial
+defects in P 347S mice
+Mitochondrial dysfunction has been shown to exacerbate PR death
+and disease progression in mendelian and multifactorial forms ofouter retinal degeneration (Lefevere et al,2017 ; Carrella et al,
+2021 ). However, mitochondria defects have not been reported in the
+P347S model to date. Our previously generated RNA-seq transcrip-tome data (Karali et al,2020 ) revealed a significant downregulation
+of mitochondria-related gene pathways at p12 in the P347S retina
+Figure 3. The effect of miR- 181a/b-1downregulation in P 347S mice is still detectable at p 90.
+A–C ERG response [a-wave in (A) and b-wave in (B)], recorded in scotopic conditions, of P 347S and P 347S/miR- 181a/b+//C0animals at p 90;N≥20eyes/genotype. Data are
+presented as mean /C6SD. Two-way ANOVA test. Representative curves are reported in (C).
+D–L Immunofluorescence analysis of Rhodopsin (D –E0), C-arrestin (F –G0), PNA (H –I0); and Phalloidin staining (J –K″)i nP 347S and P 347S/miR- 181a/b+//C0retinas at p 90.( J
+″–K″) show higher magnification of (J –K). Scale bars 25lmi n( D –K0);10lmi n( J ″–K″). Fluorescence densitometry quantification of each staining is reported in (L),
+N=3eye/genotype/staining. Data are presented as mean /C6SEM. Student ’st-test, unpaired.
+M Measurement of P 347S and P 347S/miR- 181a/b+//C0ONL thickness ( N≥3eyes/genotype; Data are presented as mean /C6SEM. Student ’st-test, unpaired).
+N Graphical representation of the results of OKR analysis by the optokinetic tracking assays reported as cycles/degree. Visual acuity is preserved i nP347S/miR- 181a/
+b+//C0animals with respect to P 347S(N=4animals/genotype). Data are presented as mean /C6SEM. Student ’st-test, unpaired.
+/C2112022 The Authors EMBO Molecular Medicine 14:e15941 |2022 5of19Sabrina Carrella et al EMBO Molecular Medicinewith respect to wild-type (WT), indicating the presence of early
+mitochondrial dysfunction even before the appearance of PR degen-eration (Fig 4A, Table EV1). We therefore investigated in further
+details the putative mitochondrial defects in the P347S retina. EManalysis highlighted a fragmented mitochondrial morphology at p12and p30 in PRs (Fig 4B, C and E ; see Materials and Methods section
+and Appendix Figs S1andS2for further details). The extent of frag-
+mentation was quantified by measuring the mitochondrial perime-ter, which is significantly decreased in P347S animals comparedwith WT mice at both time points (Fig 4G). Although we did not
+observe any significant variation in the total number of mitochon-dria (Fig 4H), we found a strong reduction in mitochondrial area in
+P347S versus WT PRs at p30, suggesting a decrease in mitochon-drial mass during retinal degeneration progression (Fig 4I). This
+observation was further confirmed by the decrease in mitochondrialproteins in P347S retinas as assessed by immunofluorescence ofcitrate synthase (CS) at p12 and p30 (Fig EV2A –B
+0, D and D0, red tri-
+angles) and by Western blot (WB) for the mitochondrial proteinsAtp5A, Uqcrc2, Mtco1, Sdhb, NdufB8, and CS (Fig EV2F and G ).
+Interestingly, the reduction of miR-181a/b levels in P347S/miR-
+181a/b-1
++//C0mice led to an amelioration of CS staining (Fig EV2C,
+C0, E and E0), an increase in mitochondrial proteins (Fig EV2F and
+G) and an amelioration of the mitochondrial fragmentation pheno-
+type at p30 (Fig 4D, F and G ). Accordingly, WB analysis also
+revealed significantly increased levels of Drp1 (Fig 5A and B ) and a
+trend of increased levels of Fis1 (Fig EV2H and I ), two key regula-
+tors of mitochondrial fission, in P347S retinas, while no significantvariation was observed for Opa1 and Mfn1/2, which are key regula-tors of mitochondrial fusion (Fig EV2H and I ). We therefore hypoth-
+esized that the increase of Drp1 and Fis1 could underlies themitochondrial fragmentation in P347S PRs. Interestingly, in P347S/miR-181a/b-1
++//C0retinas, we observed that the Drp1 protein levels
+were decreased with respect to the P347S retina (Fig 5A and B ).
+Notably, downregulation of the Drp1 protein correlates with adecrease in Drp1 transcript levels in the eyes of P347S/miR-181a/
+b-1
++//C0with respect to those found in P347S animals (Fig 5C). These
+data suggest that the partial rescue of Drp1 protein amounts likelyoccurs at the transcript level. It was recently reported that Drp1
+transcription can be negatively modulated by IRF1 (Huang et al,
+2020 ), a downstream effector of the JAK2/STAT3 pathway (Guschin
+et al,1995 ; Kojima et al,1996 ; Yamanaka et al,1996 ; Sato et al,
+1997 ; Garcia-Diaz et al,2017 ). We thus hypothesized that the
+decrease in Drp1 transcript and protein levels could be mediated by
+miR-181a/b targeting of the JAK2/STAT3 pathway. Signal transduc-ers and activators of transcription (STATs) constitute a family oftranscription factors that mediate a wide variety of biological func-tions in the nervous systems. STAT activation is mediated by JAKfamily members and is induced in response to multiple cytokinesand growth factors that are released after injury in neuronal tissues.STAT family members can play different roles. In particular, STAT3is emerging as a key effector of neuronal survival by inducing theexpression of neuroprotective genes (Dziennis & Alkayed, 2008 ).
+STAT3 augmentation was previously shown to significantly enhancePR survival and improve retinal electrophysiology in P347S mice(Jiang et al,2014 ). Both Jak2 and Stat3 have been reported to be
+direct targets of miR-181a/b (Qu et al,2017 ; Lai et al,2020 ). We
+observed, by qRT –PCR, that Jak2 and Stat3 transcripts are upregu-
+lated in P347S/miR-181a/b-1
++//C0with respect to P347S eyes(Fig 5D). This upregulation is accompanied by an increase in both
+STAT3 and of Phospho(p)-705-STAT3 protein levels (Fig EV3A and
+B). Immunofluorescence analysis of the STAT3 protein revealed that
+the increase in P347S/miR-181a/b-1+//C0occurs in all retinal layers,
+including the ONL (Fig EV3C –G). The phosphorylation at position
+705 is mainly mediated by JAK2 and leads to the translocation ofSTAT3 to the nucleus, where it activates the transcription of severalpro-survival genes (Dziennis & Alkayed, 2008 ; Jiang et al,2014 ).
+Consistently, we detected, by qRT –PCR, increased transcript levels
+of several p-705-STAT3 downstream targets, among which Irf1(Lee
+et al,2006 ; Walch-R €uckheim et al,2016 ) (Fig EV3H ), while we did
+not observe any statistically significant variation of p-727-STAT3(Fig EV3A and B ), a modification that mediates STAT3 translocation
+to mitochondria (Wegrzyn et al,2009 ; Zhang et al,2013 ). To verify
+whether the upregulation of the JAK2/STAT3 pathway mediates, viaIrf1, Drp1 downregulation in P347S/miR-181a/b-1
++//C0eyes, we
+treated P347S/miR-181a/b-1+//C0eyes with a JAK2 inhibitor (FEDRA-
+TINIB) in ex-vivo conditions. Eight hours of treatment led to a
+decrease of p-705-STAT3 as determined by WB (Fig EV3I and J ).
+We observed that the FEDRATINIB treatment dramatically reducesIrf1 transcript levels (Fig 5E) and increases Drp1 transcript and
+Drp1protein levels (Fig 5A, E and F ) in P347S/miR-181a/b-1
++//C0as
+compared with DMSO only treated eyes. These data confirm thatdownregulation of miR-181a/b rescues Drp1 levels by enhancingthe JAK2/STAT3/IRF1 pathway.
+AAV2/8-Sponge-miR- 181a/b delivery downregulates miR- 181a/b
+activity and ameliorates the retinal phenotype of P347 S mice
+Based on the evidence that the heterozygous genetic inactivation of
+the miR-181a/b-1 locus exerts a beneficial effect in the P347S model(Figs 1–4), we decided to further explore the therapeutic potential
+of miR-181a/b silencing by using an AAV-mediated delivery to theretina of a miRNA sponge. MiRNA sponges are RNA molecules withtandemly repeated miRNA antisense sequences (miRNA bindingsites, MBS) that can sequester miRNAs from their endogenous tar-gets resulting in their long-term silencing in vivo (Ebert & Sharp,
+2010 ). We previously generated miR-181a/b sponges and tested
+their efficacy in vitro (Barbato et al,2021 ). To achieve long-term
+loss-of-function of miR-181a/b in vivo , we produced AAV2/8 vec-
+tors expressing the miR-181a/b sponge construct (AAV2/8.CMV.GFP-Sponge-miR-181a/b) and a control (AAV2/8.CMV.GFP).To demonstrate efficacy of the miR-181a/b Sponge in the retina, weinjected the AAV2/8.CMV.GFP-Sponge-miR-181a/b vector in thesubretinal space of WT mice at p20. As controls, the contralateraleyes were injected with the AAV2/8.CMV.GFP vector. The AAV2/8serotype efficiently transduces RPE, PRs, and M €uller glia cells upon
+subretinal administration in several species, including mice (Alloccaet al,2007 ). Accordingly, we observed a good transduction of RPE,
+PRs, and M €uller glia cells 3 weeks after subretinal administration of
+both AAV2/8.CMV.GFP and AAV2/8.CMV.GFP-Sponge-miR-181a/b(Appendix Fig S3A–F). Subretinal injection at p4 of AAV2/
+8.CMV.GFP-Sponge-miR-181a/b in WT retina does not alter ERGresponses at p30 with respect to AAV2/8.CMV.GFP-injected retinas(Appendix Fig S3G and H). Moreover, we observed, by qRT –PCR,
+significantly increased levels of miR-181a/b mRNA targets in AAV2/8.CMV.GFP-Sponge-miR-181a/b versus AAV2/8.CMV.GFP-injectedretinas (Appendix Fig S3I).
+6of19 EMBO Molecular Medicine 14:e15941 |2022 /C2112022 The AuthorsEMBO Molecular Medicine Sabrina Carrella et alFigure 4. miR- 181a/b-1downregulation improves the mitochondrial phenotype in the retina of P 347S mice.
+A Gene ontology analysis [Cellular component (CC) terms] shows a significant downregulation of mitochondria-related gene pathways in P 347S versus WT retinas at
+p12, as assessed by transcriptome analysis.
+B–F Electron microscopy analysis shows an increase of mitochondrial fragmentation in P 347S PRs with respect to WT and amelioration of the mitochondrial phenotype
+in P347S/miR- 181a/b+//C0versus P 347S PRs at p 12and p 30(N=2animals/genotype). M, mitochondria.
+G–I The quantitative analysis of mitochondrial phenotype is expressed as measurement of the mitochondria perimeter (G), mitochondria number (H) and as the ratio of
+mitochondria area per the analyzed field area (I). N=2animals/genotype.
+Data information: Scale bars are 1lm. Data are presented as mean /C6SD. One-way ANOVA test.
+/C2112022 The Authors EMBO Molecular Medicine 14:e15941 |2022 7of19Sabrina Carrella et al EMBO Molecular MedicineWe then decided to assess whether the AAV2/8.CMV.GFP-
+Sponge-miR-181a/b could exert a beneficial effect in IRD mouse
+models. Toward that goal, we also generated AAV constructsdriving Sponge-miR-181a/b expression either in the RPE or in therod PRs using cell type-specific promoters. To specifically overex-press sponge-miR-181a/b in rod PRs, we prepared an expression
+Figure 5.
+8of19 EMBO Molecular Medicine 14:e15941 |2022 /C2112022 The AuthorsEMBO Molecular Medicine Sabrina Carrella et alcassette in which the GFP-sponge-miR-181a/b is under the control
+of the human RHO promoter (Botta et al,2016 ) (AAV2/8.RHO.GFP-
+Sponge-miR-181a/b). For the RPE-specific overexpression, we usedthe promoter of the human VMD2 gene (Esumi et al,2004 ) (AAV2/
+8.VMD2.GFP-Sponge-miR-181a/b). Vectors driving the expressionof GFP under the control of the same promoters (AAV2/8.RHO.GFPand AAV2/8.VMD2.GFP) were used as controls and injected in thecontralateral eyes. We tested the above-described constructs inP347S animals (Appendix Fig S3J–O). The animals were subreti-
+nally injected at p4, and their retinas were analyzed at p30 and p70.We observed a significant increase in b-wave ERG responses, regis-tered under scotopic conditions, at both time points in P347S eyesinjected with AAV2/8.CMV.GFP-Sponge-miR-181a/b and in eyesinjected with AAV2/8.RHO.GFP-Sponge-miR-181a/b, comparedwith the corresponding control-injected eyes (Fig 6A–C ). Con-
+versely, we did not observe any significant effect when using theAAV2/8.VMD2.GFP-Sponge-miR-181a/b (Fig 6A–C). These results
+suggest that miR-181a/b silencing restricted only to the RPE is notsufficient to exert a protective effect in P347S mice. Although notsignificant, we observed a trend of amelioration, both at p30 and atp70, in the a-waves registered in AAV2/8.CMV.GFP-Sponge-miR-181a/b-injected P347S eyes versus the corresponding controls(Fig EV4A –C). Cryosections of P347S AAV2/8.CMV.GFP-Sponge-
+miR-181a/b- and AAV2/8.RHO.GFP-Sponge-miR-181a/b-injectedretinas were analyzed at p30 and p70. We detected with both con-structs, and at both time points, improved PR marker expression,observing greater effect when using the CMV promoter (Fig 6D–G
+0,
+L–O0, T and U; please compare panels D and E, white arrowheads).
+Moreover, we observed amelioration of C-Arrestin staining in theOS (Fig 6H–K
+0,P–S0, T and U; white arrowheads) and of Recoverin
+staining at p70 (Appendix Fig S4A–I). We also evaluated the extent
+of photoreceptor cell death at p30, by TUNEL assays. We observed adecrease in TUNEL-positive cells per injected area (GFP-positivearea) in the ONL of AAV2/8.CMV.GFP-Sponge-miR-181a/b-injectedeyes versus those injected with AAV2/8.CMV.GFP (Fig EV4D–H ,
+black triangles). In addition, immunofluorescence analysis showedan amelioration of CS staining in the AAV2/8.CMV.GFP-Sponge-miR-181a/b-injected IS with respect to the AAV2/8.CMV.GFP-injected ones (Fig EV4I –L, red triangles), suggesting that Sponge-
+miR-181a/b-treatment induces an amelioration of the mitochondrialphenotype similar to what we observed in the genetic miR-181a/bdownregulation model (Fig EV2D –E
+0). To assess whether miR-181a/
+b downregulation exerts a beneficial effect also when delivered atlater time points, in a fully differentiated retina, we injected P347Smice at p12/p14 using both AAV2/8.CMV.GFP-Sponge-miR-181a/band AAV2/8.RHO.GFP-Sponge-miR-181a/b along with their corre-sponding control vectors. Such time points of intervention representmore disease-relevant stages. Following subretinal injection at p12/p14, we recorded a trend of improved ERG responses (b-waves) atp30 and p70 (Appendix Fig S5A–C and M –O), with a statistically
+significant effect at p30 (Appendix Fig S5B), and amelioration of
+PR markers expression in AAV2/8.CMV.GFP-Sponge-miR-181a/b-injected eyes versus the corresponding control eyes, moreevident at p30 (Appendix Fig S5D–E
+0,H–I0and L) than at p70
+(Appendix Fig S5P–Q0,T–U0and X; white arrowheads). A similar
+trend was also observed in AAV2/8.RHO.GFP-Sponge-miR-181a/banimals subretinally injected at p12/p14 and analyzed at p30 andp70, albeit a statistical significance in ERG results was not obtained(Appendix Fig S5A–C and M –O), and with lower effects on PR
+marker expression at both p30 and p70 (Appendix Fig S5F–G
+0,J–L,
+R–S0and V –X; white arrowheads).
+The above data indicate that AAV2/8.CMV.GFP-Sponge-
+mediated miR-181a/b inhibition ameliorates the P347S retinal phe-notype also when administered after the onset of degeneration. Theobservation of a stronger effect obtained with AAV2/8.CMV.GFP-Sponge-miR-181a/b versus AAV2/8.RHO.GFP-Sponge-miR-181a/binjections, particularly following injections at later time points, indi-cates that although the effect of miR-181a/b downregulation in theP347S model has a PR cell autonomous component, it may probablyinvolve other retinal cell types.
+AAV2/8-Sponge-miR- 181a/b delivery ameliorates the retinal
+phenotype of rd10mice
+Based on the evidence that AAV2/8-Sponge-miR-181a/b delivery
+exerted a beneficial effect in the retina of P347S mice, we decided toinvestigate whether this strategy could be extended to other IRDmodels to evaluate the mutation(gene)-independent value of thisapproach. To achieve this goal, we tested the AAV2/8.CMV.GFP-Sponge-miR-181a/b, which yielded the most evident effect in P347Smice, in the rd10 mouse model. The latter is a model for autosomal
+recessive (AR) RP and carries a spontaneous mutation in the Pde6b
+gene that recapitulates the human condition (Chang et al,2002 ).
+Pde6b encodes the bsubunit of the rod-specific phosphodiesterase
+(bPDE), which, when absent, results in toxic levels of intracellular
+Ca
+2+and PR cell death. We chose the rd10 model because it was◀Figure 5. miR- 181a/b-1downregulation decreases Drp 1levels via regulation of the Jak 2/Stat3 pathway.
+A WB analysis of Drp 1, one of the key proteins involved in the mitochondrial fission pathway, in the optic cup of WT, P 347S DMSO-treated, P 347S/miR- 181a/b+//C0
+DMSO-treated and of P 347S/miR- 181a/b+//C0FEDRATINIB-treated (an inhibitor of the JAK 2/STAT 3pathway) mice at p 30.
+B Quantification revealed that Drp 1protein levels are increased in P 347S with respect to WT, and partially rescued in P 347S/miR- 181a/b+//C0. Data are normalized to
+Gapdh. N≥4eye/genotype. Please note that all compared bands from WT, P 347S, P347S/miR- 181a/b+//C0and P 347S/miR- 181a/b+//C0with FEDRATINIB samples are
+from the same blots, which were cropped and shown organized in the panel for the sake of data presentation clarity (see source data).
+C, D qRT –PCR analysis reveals decreased levels of the Drp1transcript and increased levels of Stat3and Jak2transcripts in the eyes of P 347S/miR- 181a/b+//C0versus those
+of P347S animals. N≥4eyes/genotype.
+E qRT –PCR analysis on ex vivo retinas reveals that the treatment with FEDRATINIB counter-rescued the upregulation of Irf1and the downregulation of Drp1tran-
+script levels in P 347S/miR- 181a/b+//C0animals. N≥4eyes/genotype.
+F Quantification of WB in A reveals decreased levels of Drp 1in P347S/miR- 181a/b+//C0DMSO-treated versus P 347S and increased levels in P 347S/miR- 181a/b+//C0
+FEDRATINIB-treated ex-vivo retinas. N≥4eyes/genotype.
+Data information: Data are presented as mean of Fold Change /C6SEM. Student ’st-test, unpaired.
+Source data are available online for this figure.
+/C2112022 The Authors EMBO Molecular Medicine 14:e15941 |2022 9of19Sabrina Carrella et al EMBO Molecular MedicineFigure 6. AAV 2/8-Sponge-miR- 181a/b delivery ameliorates the retinal phenotype of P 347S mice.
+A–C ERG response (b-wave) reported as Delta ( D) amplitude in P 347S animals injected at p 4with AAV 2/8.CMV.GFP-Sponge-miR- 181a/b, AAV 2/8.CMV.RHO-Sponge-miR-
+181a/b, AAV 2/8.VMD 2.GFP-Sponge-miR- 181a/b vectors with respect to the corresponding controls (AAV 2/8.CMV.GFP, AAV 2/8.RHO.GFP and AAV2 /8.VMD 2.GFP; red
+dotted line) at p 30(A;N≥18eyes/treatment, for each promoter vector) and p 70(B;N≥15eyes/treatment, for each promoter vector). P-values of comparison
+between AAV 2/8.CMV.RHO-Sponge-miR- 181a/b-injected eyes and corresponding control (AAV 2/8.RHO.GFP) are shown in red, whereas P-values of comparison
+between AAV 2/8.CMV.GFP-Sponge-miR- 181a/b-injected eyes and corresponding controls (AAV 2/8.CMV.GFP) are shown in black. Data are presented as mean of Delta
+(D) amplitude /C6SD. Two-way ANOVA test. P 30representative curves at 20candles are reported in (C).
+D–UImmuno
+fluorescence analysis showed amelioration of Rhodopsin localization (p30 D–G0,p70L–O0; white arrowheads) and C-arrestin (p30 H–K0,p70P–S0; white
+arrowheads) expression in Sponge-miR- 181a/b-injected eyes versus the corresponding controls also highlighting improvement of the OS structure. At both time
+points the effect of amelioration was more significant and evident when the AAV2 /8.CMV.GFP-Sponge-miR- 181a/b was used. Scale bars are 25lm. Fluorescence
+densitometry quantification of each staining is reported in T for p 30and in (U) for p 70,N=3eye/treatment/staining. Data are presented as mean of Fold
+Change /C6SEM. Student ’st-test, paired.
+10of19 EMBO Molecular Medicine 14:e15941 |2022 /C2112022 The AuthorsEMBO Molecular Medicine Sabrina Carrella et alpreviously shown that oxidative stress plays a significant role in its
+retinal degeneration phenotype, as supported by studies showingthat the use of anti-oxidants is effective in slowing down retinal celldeath (Komeima et al,2007 ,2008 ; Oveson et al,2011 ; Piano et al,
+2019 ). Moreover, rd10 animals display, similar to P347S mice (Jiang
+et al,2014 ), increased levels of the STAT3 protein in the degenerat-
+ing retina (Ly et al,2016 ; Roche et al,2018 ).Rd10 mice show a
+severely impaired ERG response and a dramatically reduced ONLthickness at p30 (Chang et al,2002 ). The animals were subretinally
+injected with AAV2/8.CMV.GFP-Sponge-miR-181a/b in one eye andthe corresponding control vector (AAV2/8.CMV.GFP) in the con-tralateral eye, at p4 or p10. As expected, the ONL thickness of rd10
+AAV2/8.CMV.GFP-injected retinas was significantly reduced at p30,because of progressive retinal degeneration. Conversely, the ONLthickness was higher at p30 in Sponge-miR-181a/b-injected rd10
+retinas following both injection time points (Fig 7A–H
+0). The p4-
+injected retinas also showed enhanced expression of Rhodopsin(Fig 7A–B
+0and I), C-Arrestin (Fig 7E–F0and I), and Recoverin
+(Fig EV5A –E). Moreover, immunofluorescence analysis showed an
+amelioration of CS staining in AAV2/8.CMV.GFP-Sponge-miR-181a/b-injected eyes versus AAV2/8.CMV.GFP-injected controls(Fig EV5F –I″, red triangles). The rd10 mouse model shows a rapid
+and severe degeneration (Chang et al,2002 ); therefore, ERG
+responses were severely impaired (Fig EV5J –O), as expected, and
+we could observe only a significant amelioration of b-waveresponses in AAV2/8.CMV.GFP-Sponge-miR-181a/b p4-injected
+Figure 7. AAV 2/8-Sponge-miR- 181a/b delivery ameliorates the retinal phenotype of rd10mice.
+A–I Immunofluorescence analysis on central retinal sections at p 30showed ONL thickness increase, amelioration of Rhodopsin localization (A –D0) and C-arrestin expres-
+sion (E –H0) in AAV 2/8.CMV.GFP-Sponge-miR- 181a/b-injected versus AAV2 /8.CMV.GFP-injected rd10eyes. Scale bars are 25lm. Fluorescence densitometry quantifica-
+tion of each staining is reported in (I), N=3eye/treatment/staining. Data are presented as mean of Fold Change /C6SEM. Student ’st-test, paired.
+J, K Analysis of retinal function based on pupillary light responses (PLR) Water Maze tests. (J) PLR showed a significantly higher pupil constriction in rd10mice injected
+with AAV 2/8.CMV.GFP-Sponge-miR- 181a/b than in AAV 2/8.CMV.GFP-injected rd10eyes, at both 10lux and 100 lux intensity stimuli ( N≥6eyes/treatment and N=9
+eyes/treatment, respectively). Data are presented as mean /C6SEM. Student ’st-test, unpaired. (K) Water maze test highlighted a shorter latency in reaching the plat-
+form in AAV 2/8.CMV.GFP-Sponge-miR- 181a/b-injected animals respect to control-injected ones ( N≥6eyes/treatment). Data are presented as mean /C6SD. ANOVA
+test. S 1is for Session 1and S2 is for Session 2.
+/C2112022 The Authors EMBO Molecular Medicine 14:e15941 |2022 11of19Sabrina Carrella et al EMBO Molecular Medicineretinas (Fig EV5K ). We thus decided to carry out visual functional
+assays that allow to detect slight differences in retinal function, such
+as pupillary light responses (PLR) and water maze tests. Retinalfunction tests based on PLR showed a significantly higher pupil con-striction in AAV2/8.CMV.GFP-Sponge-miR-181a/b-injected than inAAV2/8.CMV.GFP-injected rd10 eyes, at both 10 and 100 lux stimuli
+(about 23 and 25% more, respectively) (Fig 7J). In addition, the
+water maze test was used to analyze visual acuity as previouslyreported (Pang et al,2008 ; Batabyal et al,2021 ). This latter test
+revealed an improved visual function in AAV2/8.CMV.GFP-Sponge-miR-181a/b-injected animals that showed a significant reduction inthe latency to reach the platform with respect to control-injectedones (Fig 7K). These data indicate that miR-181a/b downregulation
+ameliorates retinal morphology and function across different IRDmodels.
+Discussion
+In this report, we show for the first time that miR-181a/b silencing,obtained both by genetic approaches and by administration to theretina of a specific miR-181 inhibitor (sponge), exerts a beneficialeffect in two very different models of IRDs, namely an autosomaldominant model, characterized by a gain-of-function mechanism(P347S) and an autosomal recessive model, caused by a loss-of-function mutation ( rd10). The AAV-mediated subretinal administra-
+tion of a specific miR-181a/b silencing molecule provided us withthe proof of the translational potential of miR-181a/b downregula-tion as a mutation-independent therapeutic strategy for IRDs. Bene-ficial effects were obtained by interventions at early and later timepoints, when fully differentiated P347S and rd10 retinas already
+exhibit initial signs of degeneration. We observed amelioration ofvisual function and PR marker expression following injection atboth time points, although injections at later time point yielded amilder improvement. Nevertheless, the functional recovery by injec-tions carried out after disease onset is important, as it supports theclinical potential of the approach at stages of disease progressionrelevant for the amelioration of patient’s quality of life. The useddelivery route, vehicle (i.e., AAV vectors, serotype 2/8), and diseasestage at intervention (i.e., onset of retinal degeneration) are compat-ible with the development of a clinical protocol for human transla-tional purposes (e.g., subretinal delivery in patients) (Hudry &Vandenberghe, 2019 ). We previously demonstrated that the down-
+regulation of miR-181a/b, via genetic ablation of cluster-1, does notimpact on retina structure and function (Indrieri et al,2019 ), and
+we now showed that the AAV subretinal delivery of the sponge,which results in effective decrease in miR-181a/b activity, does notalter ERG response providing further support to the safety of thisapproach.
+The data obtained with the use of the RHO andVMD2 promoters
+demonstrate that the neuroprotective effect of miR-181a/b downreg-ulation in this IRD model is exerted, at least in part, through a PR-autonomous mechanism. The AAV2/8.VMD2.GFP-Sponge-miR-181a/b injections did not produce any significant improvement ofERG responses, indicating that the miR-181a/b downregulationrestricted to the RPE is not sufficient to warrant a beneficial effect inthe retina of P347S animals. However, we cannot rule out the possi-bility that the VMD2 promoter does not yield the same level ofexpression as the CMV protomer in the RPE, and further experi-ments are needed to discriminate between the two possibilities.AAV2/8.RHO.GFP-Sponge-miR-181a/b injections determined anamelioration of the retinal phenotype, which, however, was less evi-dent and significant compared with that obtained after AAV2/8.CMV.GFP-Sponge-miR-181a/b injections. This indicates that theadministration of the Sponge-miR-181a/b under a ubiquitous pro-moter had a stronger effect, presumably through the pleiotropicaction of this miRNA on multiple cell targets that are transduced bythe 2/8 AAV serotype (e.g., rod and cone photoreceptors, M €uller
+glia, and microglia). Besides neurons, the retina also contains a glialcomponent, represented by M €uller cells, astrocytes, and the micro-
+glia, that orchestrate neuroinflammatory response, recovery frominjury and progression of disease. At present, we do not have anyevidence for a role of miR-181a/b in microglia modulation, but fur-ther studies are needed to gain insight into this issue.
+The hypothesis of a PR-autonomous action of miR-181a/b,
+although partial, is also corroborated by our EM data, whichrevealed an alteration of mitochondria morphology in P347S PRs.Although it was previously reported that the RHO- P347S mutation
+causes mis-trafficking of RHO proteins (Li et al,1996 ; Greenwald
+et al,2013 ), the pathogenic mechanisms underlying the retinal
+degeneration, as well as the final cell death mechanisms, are notfully elucidated in this model. Here, we describe, for the first time, amitochondrial phenotype in P347S mice that can be detected asearly as p12, thus supporting its early involvement in disease patho-genesis. This model displays (i) transcriptome changes pointing tomitochondrial dysfunction and (ii) mitochondrial fragmentation.The latter results correlate with an increase in Drp1 and Fis1 proteinlevels. These two proteins are key regulators of mitochondrial fis-sion, and therefore, their upregulation may explain the mitochon-drial fragmentation phenotype. MiR-181a/b have already beendemonstrated to regulate key genes involved in mitochondrial bio-genesis and function (Indrieri et al,2019 ; Barbato et al,2021 ). Here,
+we show that their downregulation rescues the mitochondrial frag-mentation phenotype of P347S PRs, with a concomitant ameliora-tion of mitochondrial proteins and a decrease in Drp1 protein levels,mediated by miR-181a/b regulation of the JAK2/STAT3 pathway.The activation of the latter pathway leads to the increase in severaltarget genes, involved in pro-survival function. Interestingly, it waspreviously demonstrated that endogenous Stat3 expression was sig-nificantly increased in mutant PRs from three unrelated IRD models[P347S, Prph2
+rds/ +(Jiang et al,2014 ), and rd10 mice (Ly et al,
+2016 ; Roche et al,2018 )], and significantly improves mutant PR sur-
+vival and retinal electrophysiology (Jiang et al,2014 ). Although the
+mechanism underlying the protective effect of Stat3 in IRDs remainsto be defined (Jiang et al,2014 ), it is tempting to speculate that the
+p705-Stat3 downstream genes, which are upregulated in our modelafter miR-181a/b-1 inactivation (Fig EV3H ), may be responsible for
+the Stat3-dependent effect on mutant PR survival and could have animpact on the decrease in cell death detected.
+We report here that the activation of the JAK2/STAT3 pathway
+has an impact on the mitochondrial dynamics related protein Drp1,whose imbalance is often associated with neuronal cell death (Kimet al,2015 ; Viringipurampeer et al,2016 ; Oliver & Reddy, 2019 ). In
+cells, the equilibrium between small-fragmented mitochondria andlong interconnected mitochondrial networks is essential to ensuremitochondrial homeostasis and cell survival. This equilibrium is
+12of19 EMBO Molecular Medicine 14:e15941 |2022 /C2112022 The AuthorsEMBO Molecular Medicine Sabrina Carrella et almaintained by the proper balance between mitochondrial fusion
+and fission processes, which guarantee the ever-changing dynamicstate of mitochondria, where mitochondrial networks are constantlyelongating and dividing (Twig & Shirihai, 2011 ; Calo et al,2013 ;
+Balog et al,2016 ; Anzell et al,2018 ). Increased mitochondrial fis-
+sion and reduced fusion are prominent features in aging and inmany neurological diseases (Oliver & Reddy, 2019 ). The master
+mediator of fission is Drp1, whose role is fundamental in maintain-ing balance in mitochondrial dynamics, primarily as a mitochondrialfission factor, but when downregulated, indirectly promotes fusion.In this respect, we observed mitochondria elongation rescue anddecreased level of Drp1 in the P347S/miR-181a/b-1
++//C0retina, medi-
+ated by the increase in the JAK2/STAT3/IRF1 pathway, thus unveil-ing a novel mechanism of JAK2/STAT3 regulation of mitochondrialdynamics.
+We previously demonstrated that miR-181a/b control mitochon-
+drial turnover by acting on mitochondrial biogenesis, mitophagy inthe retina of mouse models of LHON (Indrieri et al,2019 ). We now
+report that these miRNAs also act on mitochondrial fission/fusionbalance as revealed by the analysis of an autosomal dominantmouse model of RP. Altogether these findings reveal that miR-181a/b have a pervasive role in the modulation of mitochondrial activi-ties. Moreover, our results highlight that miR-181a/b downregula-tion/silencing has a protective effect in clinically and geneticallydifferent types of retinal neurodegenerative diseases, including amitochondrial disease model (Indrieri et al,2019 ), an autosomal
+dominant and an autosomal recessive IRD models. These data sup-port the potential of miR-181a/b modulation as a gene/mutation-independent therapeutic approach to slow down the progression ofa vast class of retinal diseases with either primary or secondarymitochondrial involvement, which affect both the outer and theinner retina. This strategy can represent a therapeutic agent thatdampens disease-amplifying processes, thus also supporting gene-specific replacement approaches, and may also be relevant for non-mendelian, multifactorial forms of retinopathies associated withmitochondrial dysfunction, such as age-related macular degenera-tion or diabetic retinopathy, although further research efforts areneeded to address this latter perspective.
+Materials and Methods
+Animal studies
+All studies on mice were conducted in accordance with the institu-
+tional guidelines for animal research (ARRIVE guidelines) andapproved by the Italian Ministry of Health; Department of PublicHealth, Animal Health, Nutrition and Food Safety in accordance withthe law on animal experimentation (article 7; D.L. 116/92; protocolnumber: 254/2018-PR). All animal treatments were reviewed andapproved in advance by the Institutional Ethics Committee at the Tele-thon Institute of Genetics and Medicine (Pozzuoli, Italy). Mice weremaintained under specific pathogen-free (SPF)-like conditions at theTIGEM Animal Facility. Examinations are conducted periodically onthe animals stored in the establishment to confirm they are not con-taminated with pathogens of infectious diseases. Same sex litter mateswere housed together in individually ventilated cages (IVCs) withmaximum four mice per cage. All mice were maintained on a regular12/12-h light/dark cycle, temperature of 20 –24°C, and humidity of
+54–65%, with ad libitum access to food and water. Feeding control
+and sanitary control are carried out under the supervision of a com-mittee that include veterinarians in the establishment. All materials,including IVCs, lids, feeders, bottles, bedding, and water, were auto-claved before use. Both male and female animals were used in allexperiments. For subretinal injections in the RHO- P347S background,
+pups were obtained by crossing the RHO- P347S
++/+transgenic (A1 line)
+(Liet al,1996 ) with C57BL/6J mice (JAX /C226Mice Strain, Charles Rivers
+Laboratories, Strain Code 632), to obtain the P347S+//C0mice (Mus-
+solino et al,2011 ;B o t t a et al,2016 ,2017 ; Karali et al,2020 ). Please
+note that we excluded the presence of the rd8allele in the above mice.
+TheRHO- P347S+/+(A1 line) is in the 129 S2/SvHsd (Harlan, Hunting-
+ton, UK) background and was obtained from the laboratory of Dr.Jane G. Farrar (Loscher et al,2007 ;C h a d d e r t o n et al,2009 ; Palfi et al,
+2016 ), and was maintained by crossing A1 P347S
++/+with A1 P347S+/+.
+For the analysis of miR-181a/b genetic decrease in RHO- P347S
+background, we crossed RHO-P347S+/+transgenic (Li et al,1996 )
+with miR-181a/b-1+//C0(Henao-Mejia et al,2013 ; Indrieri et al,2019 ),
+obtaining in the same litters P347S+//C0/miR-181a/b-1+/+, simply ter-
+med P347S, and P347S+//C0/miR-181a/b-1+//C0animals, termed P347S/
+miR-181a/b-1+//C0. Please note that all the analyzed P347S and
+P347S/miR-181a/b-1+//C0animals were obtained from the same litters
+and sacrificed at the same time. Pde6brd10(rd10) mice were kindly
+provided by Dr. Mathias Seeliger (Division of Ocular Neurodegenera-tion, Centre for Ophthalmology, Institute for Ophthalmic Research).
+RNA extractions
+Optic cup samples were processed in QIAzol Lysis Reagent (QIAGEN).
+Total RNA from optic cup samples was extracted using the RNeasyextraction kit (QIAGEN), according to the manufacturer’s instructions.
+Quantitative real-time PCR
+For quantitative real-time reverse transcriptase PCR (qRT –PCR)
+experiments, cDNAs were generated using QuantiTect Reverse Tran-
+scription Kit (QIAGEN), according to the manufacturer’s instruc-tions.
+Primers for qRT –PCR reactions were designed to span two differ-
+ent exons to avoid genomic DNA amplification using in silico tools
+(www.basic.northwestern.edu/biotools/oligocalc.html ) to predict
+their melting temperature ( T
+m) and to avoid the possibility of self-
+annealing or primer dimerization. The specificity of the designedprimers was tested in silico using the BLAT or BLAST tool in
+Genome Browser ( https://genome.ucsc.edu/ ) or Ensembl ( http://
+www.ensembl.org/index.html ). Primers were tested as described
+(Bustin et al,2009 ). Primer sequences are reported in
+Appendix Table S1. Quantification data, obtained in qRT –PCR reac-
+tions on cDNAs obtained from different treatments, are expressed interms of cycle thresholds (Ct). The HPRT and GAPDH genes were
+used as endogenous reference controls for experiments. The Ct val-ues were averaged for each in-plate technical triplicate. The aver-aged Ct was normalized as difference in Ct values ( DCt) between
+the analyzed mRNAs and each reference gene in each sample ana-lyzed. The DCt values of each sample were then normalized with
+respect to the DCt values of the control ( DDCt). The variation was
+reported as fold change (2
+/C0DDCt). Each plate was performed in
+/C2112022 The Authors EMBO Molecular Medicine 14:e15941 |2022 13of19Sabrina Carrella et al EMBO Molecular Medicineduplicate, and all the results are shown as means /C6SEM of at least
+three independent biological assays.
+Protein isolation and Western blotting (WB)
+Optic cup samples for total protein extraction were homogenized in
+RIPA buffer with protease inhibitor cocktail 100 ×(Sigma) and
+phosSTOP-Easypack phosphatase inhibitor cocktail tablet (Roche).Protein extract concentrations were determined using the Bio-Radprotein assay (Bio-Rad). A total of 30 lg protein from each sample
+was loaded in SDS –polyacrylamide gels. For WB, gels were elec-
+troblotted onto PVDF filters (Millipore) and sequentially immunos-tained with the following primary antibodies: anti-Atp5A, anti-Uqcrc2, anti-Mtco1, anti-Sdhb, anti-NdufB8 (Abcam, Total OXPHOSRodent WB Antibody Cocktail ab110413, 1:250); anti-Drp1 (Abcam,ab184247; 1:1,000); anti-TTC11/Fis1 (Abcam, ab229969; 1:1,000);anti-Opa1 (BD Biosciences, 612607; 1:1,000); anti-Mfn1 (Abcam,ab57602; 1:200); anti-Mfn2 (Abcam, ab56889, 1:1,000); anti-CitrateSynthase (Abcam, ab9660, 1:1,000); anti-Stat3 (Cell Signaling,ab30835, 1:1,000); anti-p507-Stat3 (Cell signaling, ab4113, 1:1,000);anti-p727-Stat3 (Cell Signaling, ab9134, 1:1,000); anti-p115 (SantaCruz, sc-48363, 1:3,000); anti-Gapdh (Santa Cruz sc-32233,1:3,000). Proteins of interest were detected with horseradishperoxidase-conjugated goat anti-mouse or anti-rabbit IgG antibody(1:3,000, GE Healthcare) visualized with the Luminata Crescendosubstrate (Millipore) or the Super Signal West Femto substrate(Thermo Scientific), according to the manufacturer’s protocol. WBimages were acquired using the Chemidoc-lt imaging system (UVP),and band intensity was calculated using the ImageJ software. Thesignals for each protein staining were quantified and then normal-ized for Gapdh or p115 in the same sample (internal normalization).These normalized values were then compared with the values in thecontrol sample. Only bands on the same blot were compared. Theaverage of the normalized values from three different biologicalreplicates is reported as the relative fold change.
+TUNEL assay
+For TUNEL assay, mouse eyes were fixed in 4% PFA, cryoprotected
+with 30% sucrose, embedded in OCT, and cryosectioned. TUNELassay was performed using In Situ Cell Death Detection Kit (Roche)
+as described (Indrieri et al,2013 ). Only sections in which the optic
+nerve was contained were analyzed with a Leica DM-5500 micro-scope, and TUNEL-positive cells were manually counted and nor-malized per section. The TUNEL count was performed on threeeyes/genotype on at least six sections/eye that contain the opticnerve. For the analysis of photoreceptor cell death in AAV2/8.CMV.GFP-Sponge-miR-181a/b-injected eyes ( N=4; four sections/
+eye that contain the optic nerve) and in AAV2/8.CMV.GFP-injectedones ( N=3; four sections/eye that contain the optic nerve), only
+GFP-positive areas were taken into account for the count of TUNEL-positive cells, and the data were normalized per area.
+Immunofluorescence and immunohistochemistry analysis
+For immunofluorescence analysis, mouse eyes were fixed in 4%
+PFA, cryoprotected with 30% sucrose, embedded in OCT, andcryosectioned. Fourteen-micrometer cryosections was collected onslides (Superfrost Plus; Fisher Scientific, Pittsburgh, PA). Sectionswere permeabilized by incubation with 1% NP40 for 15 min forRhodopsin and C-Arrestin immunostaining, or by boiling in sodiumcitrate buffer (0.1 M citric acid, 0.1 M sodium citrate in water) forCaspase 3 active staining or in citrate buffer (0.01 M citric acid inwater) for citrate synthase and Stat3 staining. After 1-min boiling,the slides were cooled down at room temperature. The followingprimary antibodies were incubated overnight: anti-Rhodopsin(Abcam, ab3267, 1:5,000); anti-C-Arrestin (Millipore, 1:1,000); anti-Recoverin (Sigma-Aldrich, AB5585, 1:500); anti-Citrate Synthase(Abcam, ab9660, 1:500); anti-Stat3 (Cell Signaling, ab30835, 1:100);anti-Caspase 3 active (R&D System, AF385, 1:1,000). Sections werethen incubated with the Alexa Fluor secondary antibodies (1:1,000;Invitrogen). Phalloidin staining was performed washing cryosec-tions three times in PTW1 ×, blocking for 1 h in PTW1 ×+10% FBS
+and then sections were incubated for 20 min with Phalloidin (Invit-rogen Alexa Fluor 568). For PNA staining, cryosections werewashed three times with PBS1 ×. The slides were incubated over
+night with (FITC)-conjugated peanut agglutinin (PNA) (L7381,Sigma-Aldrich). Sections were counterstained with DAPI (VectorLaboratories). All the immunofluorescence stainings were acquiredusing a Zeiss LSM700 Confocal, with the exception of the CitrateSynthase staining that was acquired through a Zeiss LSM800 Confo-cal. Only sections in which the optic nerve was contained were usedand two images from each section were photographed in compara-ble regions equidistant from the optic nerve head. The fluorescentimages were converted to grayscale and normalized to backgroundstaining, using ImageJ. Quantification of each staining reactivitywas measured as mean values to define fluorescence signal intensity(IntDen/Area) and as the area occupied by fluorescent-labeling ineach region of interest.
+Active-caspase 3-positive cells count
+Immunostained sections for Active-casp3, in which the optic nerve
+was contained, were analyzed with a Leica DM-5500 microscopeand positive cells were manually counted and normalized per sec-tion. The analysis was performed on 4 –6 eyes/genotype on at least
+eight sections/eye that contain the optic nerve.
+ONL thickness and count of nuclei in the ONL
+Mouse eyes were fixed in 4% PFA, cryoprotected with 30% sucrose,
+embedded in OCT and cryosectioned. Fourteen-micrometer cryosec-tions was collected on slides (Superfrost Plus; Fisher Scientific, Pitts-burgh, PA), and washed three times with PTW1 ×. The sections
+were then incubated with DAPI in phosphate-buffered saline (PBS)1×for 10 min. Count of nuclei in ONL was performed on three
+eyes/genotype (at least two sections per eye) at p30. Only sectionsin which the optic nerve was contained were used, and two imagesfrom each section were photographed under a Leica DM-5500microscope, with the objective Leica ∞/0.17/D, HCX PL FLUOTAR,
+40×/0.75 that acquires an area of 0.31 mm
+2, in comparable regions
+equidistant from the optic nerve head (Barbato et al,2017 ; Karali
+et al,2020 ; Ciampi et al,2022 ; Intartaglia et al,2022 ). The acquired
+images were used for nuclei counts. DAPI-positive nuclei in ONLwere count manually using ImageJ program and normalized perarea. On the same images, the ONL thickness was manually
+14of19 EMBO Molecular Medicine 14:e15941 |2022 /C2112022 The AuthorsEMBO Molecular Medicine Sabrina Carrella et almeasured using ImageJ program, by measuring the distance
+between the Henle’s fiber layer (HFL) and the outer limiting mem-brane (OLM). The same analysis was performed at p90 on N≥3
+eyes/genotype (at least two sections per eye).
+Electron microscopy, outer segment (OS) length analysis and
+mitochondrial phenotype analysis
+Mice, at p12 and p30, were deeply anesthetized and perfused with
+1% glutaraldehyde and 2% PFA in 200 mM Hepes Buffer, pH 7.3through the heart. Eyes were removed, and under a dissectionmicroscope, the eyeball was cut along the line between the anteriorand posterior chambers of the eye using Spring scissors (FineScience Tools). Lens were removed and the retina and RPE was leftfor 1 h in the described fixative solution. Specimens of retina +RPE
+were postfixed in 1% osmium tetroxide, dehydrated, and embeddedin epoxy resin. Retina samples were cut on ultramicrotome LEICAEM UC7 and collected on the single slot oval grids and analyzedwith FEI electron microscope. Only tissue sections in which thesagittal orientation of the connecting cilium (cc) was visible werechosen, as shown in Appendix Fig S1. We analyzed two eyes/geno-
+type on at least 10 images per eye, for a total number of OS mea-sured of around 200 OS for the P347S and 150 OS for the P347S/miR-181a/b-1
++//C0. These data are represented as mean /C6SEM (Stan-
+dard Error of the Mean). The researchers in charge of producing theTEM images were blind to the genotypes of the animals.
+The mitochondrial characterization was performed for all mito-
+chondria located within the entire inner segment (IS), from theouter limiting membrane to the outer segment (OS) with nascentdisks (see Appendix Fig S2), observing that the changes in shape
+and size that we report are independent from localization within theIS. We analyzed mitochondrial number, perimeter, and area on sev-eral TEM images derived from two eyes/genotypes each time point,for a total number of images analyzed of 22/genotype for each timepoint of analysis. Mitochondrial number was determined using FEIsoftware. Mitochondrial surface area and perimeter were analyzedon the same images using the iTEM software, and these data arerepresented normalized per field, as previously reported (Costaet al,2010 ; Naon et al,2016 ; Quintana-Cabrera et al,2018 ; Indrieri
+et al,2019 ; Tsakiri et al,2019 ; Xia et al,2019 ; Ozaki et al,2020 ;
+Anastasia et al,2021 ; Mirra et al,2021 ). The researchers in charge
+of producing the TEM images were blind to the genotypes of theanimals.
+Electroretinogram
+Mice were dark reared for 3 h and anesthetized. Flash ERGs were
+evoked by 10-ms light flashes generated through a Ganzfeld stimula-tor (CSO, Costruzione Strumenti Oftalmici, Florence, Italy) and reg-istered as previously described (Botta et al,2016 ; Indrieri et al,
+2019 ) ERGs and b-wave thresholds were assessed using the follow-
+ing protocol. Eyes were stimulated with light flashes increasing from/C05.2 to +1.3 log cd *s/m
+2(which correspond to 1 ×10/C05.2to
+20.0 cd *s/m2) in scotopic conditions. For ERG analysis in scotopic
+conditions, the responses evoked by 11 stimuli (from /C05.2 to +1.3
+log cd *s/m2) with an interval of 0.6 log unit were considered. To
+minimize the noise, three ERG responses were averaged at each 0.6log unit stimulus from /C05.2 to 0.0 log cd *s/m
+2while one ERGresponse was considered for higher stimuli (from 0.0 to +1.3 log
+cd*s/m2). a- and b-waves amplitudes recorded in scotopic condi-
+tions were plotted as a function of increasing light intensity (from/C04t o +1.3 log cd *s/m
+2). The photopic ERG was recorded after the
+scotopic session by stimulating the eye with ten 10 ms flashes of20.0 cd *s/m
+2over a constant background illumination of 50 cd/m2.
+Optokinetic tracking
+Visual acuity of mice was assessed by using the Optomotor system
+(OptoMotry; Cerebral Mechanics) as previously described (Indrieriet al,2019 ). Briefly, the OptoMotry machine (CerebralMechanics
+Inc.) is constituted by a plexiglass box [39 ×39×32.5 cm
+(L×W×H)] with rectangular openings [33.5 ×26.5 cm (W ×H)]
+on each wall painted flat white on the inside (screens). Inside thebox, a platform is positioned 13 cm above the floor by securing awhite Plexiglas disk (diameter, 5.3 cm). Above and below thescreens, there are two mirrors and a camera at the top that allowsone to follow the behavior of the animal. The computer program(OptoMotry; CerebralMechanics, Lethbride, Alberta, Canada) wasused to control the rotation speed and the geometry of the stimuli aswell as the spatial frequency and contrast of the stimuli. Analyseshave been conducted twice, at two different time points (p40 andp90), by increasing the spatial frequency for each direction of rota-tion (right/left), after an initial trial of 10 min. The maximum spa-tial frequency that the animal is able to perceive is recorded as athreshold of visual acuity and reported in the graph as cycles/degreeon the y-axis.
+Pupillary light response
+Pupillary light responses from rd10 mice were recorded in dark con-
+dition using the TRC-50IX retinal camera connected to a charge-
+coupled device NikonD1H digital camera (Topcon Biomedical Sys-tems), as previously described (Tornabene et al,2019 ). Briefly, mice
+were exposed to 10 lux light-stimuli for approximately 10 s and onepicture per eye was acquired using the IMAGEnet software (TopconBiomedical Systems). For each eye, the pupil diameter was normal-ized to the eye diameter (from temporal to nasal side).
+Water maze test
+We used a modified version of the visual water maze task (Mar-
+rocco et al,2020 ) consisting of a circular tank of 1.4-m diameter
+gray metal, high 40 cm. A visible black platform was 13 cm high,protruding 1 cm above the water (21 /C62°C) that was made white
+with natural color and was positioned in a well-lit room. The northsite the pool contained a divisor panel. Across trials, the platformwas randomly located on the right and left side equidistant from thedivisor. The animal was always released from the south quadrant,and the latency to reach the platform was recorded by using thevideo tracking AnyMaze (Stoelting, USA). Black curtains were posi-tioned around the pool to limit distal cues; the access to distal cueswas prevented by the wall of the pool. To acclimatize the mice tothe platform, the training started with the animal positioned on theplatform for 60 s, before the first training session was administered.Training consisted of two sessions per day of six trials for two 2 con-secutive days. Every two consecutive trials animals rested for
+/C2112022 The Authors EMBO Molecular Medicine 14:e15941 |2022 15of19Sabrina Carrella et al EMBO Molecular Medicine10 min within sessions. The position of the platform is randomly
+displaced every two trials. Intersession interval was about. Subjectswere given up to 120 s to escape during each trial; if they did notescape within the allotted time, they were gently guided to the plat-form and their escape time was recorded as this maximum. All miceremained on the platform between trials, then after each block theywere towel-dried, and transferred to their home cages under warmair. Behavioral data were acquired with a latency to reach the plat-form during the training trials. All measurements were monitoredby a video camera.
+FEDRATINIB ex vivo retina treatment
+P347S and P347S/miR-181a/b-1
++//C0animals were sacrificed by cervi-
+cal dislocation, following the institution’s guidelines, at p30. Eyes
+were removed quickly using Dumont’s forceps #5 and put in CO2-independent medium —Gibco (18045-054). Under a dissection
+microscope, the eyeball was opened and cut along the line betweenthe anterior and posterior chambers of the eye using Spring scissors(Fine Science Tools). Lens were removed and the retina and RPE,attached in the inferior part of the eyeball, was dissected out using#5 forceps and flat-mounted retina/RPE was placed in a new dishcontaining Dulbecco’s modified eagle medium supplemented with10% FBS (Euroclone) and 1% penicillin/streptomycin. The ex vivo
+retinas were treated with the JAK2 inhibitor FEDRATINIB(SAR302503, TG101348; Selleckchem) 100 lM for 8 h. Control reti-
+nas were treated with DMSO.
+Sponge design, construct, and AAV preparation
+We previously generated miR-181a/b sponge construct (Barbato et al,
+2021 ). The sequence is covered by the patent application “miR-181
+inhibitors and uses thereof” (WO2019202162A1). MiR-181a/b sponge
+was cloned in a vector, containing an expression cassette, into the 3
+0
+UTR of a green fluorescent protein (GFP) reporter gene, under the con-trol of the cytomegalovirus (CMV) constitutive promoter. To specifi-cally overexpress sponge-miR-181a/b in rod PRs, we prepared anexpression cassette in which the GFP-sponge-miR-181a/b is under thecontrol of the human RHO promoter (Botta et al,2016 ), and for the
+RPE-specific overexpression, we used the promoter of the humanVMD2 gene (Esumi et al,2004 ). We generated AAV2/8 vectors
+expressing “sponge” constructs to achieve long-term loss-of-functionof miR-181a/b in vivo (AAV2/8.CMV.GFP-Sponge-miR-181a/b;
+AAV2/8.RHO.GFP- Sponge-miR-181a/b; AAV2/8.VMD2.GFP-Sponge-miR-181a/b). Vectors, driving the expression of GFP under the controlof the same promoters (AAV2/8.CMV.GFP; AAV2/8.RHO.GFP andAAV2/8.VMD2.GFP), were used as controls. Recombinant AAV2/8viruses were produced by the TIGEM Vector Core as reported(Hildinger et al,2001 ;D o r i a et al,2013 ).
+Plasmids used for AAV vector production are as follows: the pAd
+helper plasmid that contains the adenovirus E2A, E4, and VA RNAhelper genes (Zhang et al, 2000 ); the pAAV2/8 (Gao et al, 2002 )p a c k -
+aging plasmid with AAV rep2 and cap8 genes; the pAAV2.1 plasmidthat contains the expression cassette flanked by two identical invertedterminal repeats (ITRs), the ampicillin resistance and the bovinegrowth hormone polyadenylation signal (bGH) (Auricchio et al,2001 ).
+Adeno-associated viral vectors were produced by triple transfec-
+tion of HEK293 cells and were purified by two rounds of CsCl2gradients as already described (Doria et al,2013 ). Physical titers
+[genome copies per milliliter (GC/ml)] of each viral preparationwere determined by averaging the titer achieved by dot-blot analysisand by PCR quantification using TaqMan (Applied Biosystems,Carlsbad, CA) (Doria et al,2013 ).
+Subretinal injections
+Surgical procedures were performed under anesthesia, and all
+efforts were made to minimize suffering. Viral vectors were deliv-ered subretinally in the dorsal retinal areas via a trans-scleral tran-schoroidal approach (Liang et al,2000 ). Eyes were injected with
+1ll of AAV vector (specified in each figure) containing a total of
+1×10
+13viral GCs.
+We excluded from our analysis samples that showed sign of
+injection-related damages, or eyes that turned out to be not properlyinjected as assessed from GFP expression analysis. The fluorescenceof eye fundi were acquired using a TRC-50IX retinal camera con-nected to a charge-coupled device NikonD1H digital camera (Top-con Biomedical Systems). Retinal sections were also analyzed todetermine the GFP expression and images acquired using the TILE-SCAN function at the Leica DM-5500 microscope.
+Statistical analysis
+Animals were allocated to experimental and control groups ran-
+domly based on the appropriate genotype/conditions/treatments. Ingeneral, for each experiment, we used ≥3 animals per genotype, in
+order to obtain statistically suitable values. EM analysis, behavioral,and visual tests were carried out blinded. The number of experimen-tal replicates is indicated in each figure legend. The normalityassumption was verified using Shapiro –Wilk test. In all experi-
+ments, significance of differences between groups was evaluated byThe paper explained
+Problem
+Inherited retinal dystrophies (IRDs) are a group of genetic disorders
+affecting the retina characterized by photoreceptor cell death, pro-gressive loss of vision and blindness. Their high genetic heterogeneity,with over 250 different causative genes, represents an important limi-
+tation to the development of gene therapy approaches that can beapplied to a significant number of patients. Therefore, the establish-ment of therapeutic approaches for IRDs independent on the geneticdefect and aimed at slowing down disease progression represents ahigh priority.
+Results
+Here, we show that the inhibition in the retina of two small RNAmolecules, namely microRNAs miR- 181a and miR- 181b (miR- 181a/b),
+exerts a beneficial effect in vivo in different models of IRDs, by delay-
+ing disease progression. We also observed a beneficial effect on mito-
+chondria defects observed in these IRDs models.
+Impact
+Our findings represent a solid proof-of-principle of the usefulness ofmiR- 181a/b inhibition to counteract disease progression in IRDs and
+pave the way toward the development of an innovative gene-independent therapeutic strategy for retinal diseases with mitochon-drial involvement.
+16of19 EMBO Molecular Medicine 14:e15941 |2022 /C2112022 The AuthorsEMBO Molecular Medicine Sabrina Carrella et alone-tailed or two-tailed Student’s t-test when the comparison was
+between two experimental groups, one-way or two-way ANOVA
+with post hoc Tukey analysis and/or Analysis of Deviance for Gener-
+alized Linear Model or Analysis of Deviance for Negative BinomialGeneralized Linear Model when the comparison was between morethan two experimental groups. P≤0.05 was considered significant.
+Quantitative data are presented as the mean /C6SEM (Standard Error
+of the Mean) of at least three independent experiments, or as themean /C6SD (Standard Deviation) when ANOVA test was applied, of
+at least three independent experiments. ANOVA test was used toanalyze the visual functional data, for example, ERG responses andwater maze test, and EM data analysis.
+Data availability
+This study includes no data deposited in external repositories.
+Expanded View for this article is available online .
+Acknowledgements
+We are grateful to Marianthi Karali and Rossella De Cegli for helpful discussion
+on transcriptome data and to Elena Polishchuk for advice on analysis of TEMdata. We also acknowledge the technical contribution of the TIGEM Bioinformat-ics and the TIGEM Advanced Microscopy and Imaging cores. This work was sup-ported by the Foundation Fighting Blindness (SPR_TA-NMT- 0619 -0764 -TIGEM to
+SB), the Velux Stiftung Foundation (Project n. 1380 to SB) and the Italian Ministry
+of University and Research (Project PRIN 2020 #2020 XBCMHJ to SB).
+Author contributions
+Alberto Auricchio: Resources; supervision; writing –review and editing.
+Sandro Banfi: Conceptualization; resources; supervision; funding acquisition;
+writing –original draft; project administration; writing –review and editing.
+Davide Piccolo: Investigation. Elvira De Leonibus: Data curation; formal
+analysis; supervision; writing –review and editing. Enrico Maria Surace:
+Resources; supervision; writing –review and editing. Brunella Franco:
+Resources; supervision; writing –review and editing. Georgios
+Petrogiannakis: Investigation. Alessia Indrieri: Conceptualization;
+supervision; writing –review and editing. Irene Guadagnino: Formal analysis;
+investigation. Jorge Garcia Piqueras: Investigation. Ludovica Ciampi:
+Investigation. Martina Di Guida: Data curation; formal analysis; investigation.
+Marta Molinari: Investigation; methodology. Elena Marrocco: Data curation;
+formal analysis; investigation; methodology. Mariateresa Pizzo: Validation;
+investigation. Simona Brillante: Data curation; formal analysis; investigation.
+Sabrina Carrella: Conceptualization; data curation; formal analysis;
+supervision; investigation; visualization; writing –original draft; project
+administration; writing –review and editing. Sara Barbato: Investigation.
+Yulia Ezhova: Investigation.
+Disclosure and competing interests statement
+SC, BF, AI, and SB are coinventors on the patent application numberWO2019202162 A1. The other authors declare no conflict of interest.
+References
+Allocca M, Mussolino C, Garcia-Hoyos M, Sanges D, Iodice C, Petrillo M,
+Vandenberghe LH, Wilson JM, Marigo V, Surace EM et al (2007 ) Noveladeno-associated virus serotypes efficiently transduce murinephotoreceptors. J Virol 81:11372 –11380
+Ambati J, Atkinson JP, Gelfand BD ( 2013 ) Immunology of age-related macular
+degeneration. Nat Rev Immunol 13:438–451
+Anastasia I, Ilacqua N, Raimondi A, Lemieux P, Ghandehari-Alavijeh R, Faure
+G, Mekhedov SL, Williams KJ, Caicci F, Valle G et al (2021 ) Mitochondria-
+rough-ER contacts in the liver regulate systemic lipid homeostasis. Cell
+Rep34:108873
+Anzell AR, Maizy R, Przyklenk K, Sanderson TH ( 2018 ) Mitochondrial quality
+control and disease: insights into ischemia-reperfusion injury. Mol
+Neurobiol 55:2547 –2564
+Apte RS (2018 ) Gene therapy for retinal degeneration. Cell173:5
+Askou AL, Alsing S, Holmgaard A, Bek T, Corydon TJ ( 2018 ) Dissecting
+microRNA dysregulation in age-related macular degeneration: new targetsfor eye gene therapy. Acta Ophthalmol 96:9–23
+Auricchio A, Hildinger M, O ’Connor E, Gao G-P, Wilson JM ( 2001 ) Isolation of
+highly infectious and pure adeno-associated virus type 2vectors with a
+single-step gravity-flow column. Hum Gene Ther 12:71–76
+Balog J, Mehta SL, Vemuganti R ( 2016 ) Mitochondrial fission and fusion in
+secondary brain damage after CNS insults. J Cereb Blood Flow Metab 36:
+2022 –2033
+Barbato S, Marrocco E, Intartaglia D, Pizzo M, Asteriti S, Naso F, Falanga D,
+Bhat RS, Meola N, Carissimo A et al (2017 ) MiR- 211 is essential for adult
+cone photoreceptor maintenance and visual function. Sci Rep 7:17004
+Barbato A,
+Iuliano A, Volpe M, D ’Alterio R, Brillante S, Massa F, De Cegli R,
+Carrella S, Salati M, Russo A et al (2021 ) Integrated genomics identifies
+miR- 181/TFAM pathway as a critical driver of drug resistance in
+melanoma. Int J Mol Sci 22:1801
+Batabyal S, Gajjeraman S, Pradhan S, Bhattacharya S, Wright W, Mohanty S
+(2021 ) Sensitization of ON-bipolar cells with ambient light activatable
+multi-characteristic opsin rescues vision in mice. Gene Ther 28:162–176
+Botta S, Marrocco E, de Prisco N, Curion F, Renda M, Sofia M, Lupo M,
+Carissimo A, Bacci ML, Gesualdo C et al (2016 ) Rhodopsin targeted
+transcriptional silencing by DNA-binding. Elife 5:e12242
+Botta S, de Prisco N, Marrocco E, Renda M, Sofia M, Curion F, Bacci ML,
+Ventrella D, Wilson C, Gesualdo C et al (2017 ) Targeting and silencing of
+rhodopsin by ectopic expression of the transcription factor KLF 15.JCI
+Insight 2:e96560
+Busskamp V, Krol J, Nelidova D, Daum J, Szikra T, Tsuda B, J €uttner J, Farrow K,
+Scherf BG, Alvarez CPP et al (2014 ) miRNAs 182 and 183are necessary to
+maintain adult cone photoreceptor outer segments and visual function.Neuron 83:586–600
+Bustin SA, Benes V, Garson JA, Hellemans J, Huggett J, Kubista M, Mueller R,
+Nolan T, Pfaffl MW, Shipley GL et al (2009 ) The MIQE guidelines:
+minimum information for publication of quantitative real-time PCRexperiments. Clin Chem 55:611–622
+Calo L, Dong Y, Kumar R, Przyklenk K, Sanderson T ( 2013 ) Mitochondrial
+dynamics: an emerging paradigm in ischemia-reperfusion injury. Curr
+Pharm Des 19:6848 –6857
+Carrella S, Indrieri A, Franco B, Banfi S ( 2020 ) Mutation-independent
+therapies for retinal diseases: focus on gene-based approaches. Front
+Neurosci 14:588234
+Carrella S,
+Massa F, Indrieri A (2021 ) The role of microRNAs in mitochondria-
+mediated eye diseases. Front Cell Dev Biol 9:653522
+Chadderton N, Millington-Ward S, Palfi A, O ’Reilly M, Tuohy G, Humphries
+MM, Li T, Humphries P, Kenna PF, Farrar GJ ( 2009 ) Improved retinal
+function in a mouse model of dominant retinitis pigmentosa followingAAV-delivered gene therapy. Mol Ther 17:593–599
+/C2112022 The Authors EMBO Molecular Medicine 14:e15941 |2022 17of19Sabrina Carrella et al EMBO Molecular MedicineChang B, Hawes NL, Hurd RE, Davisson MT, Nusinowitz S, Heckenlively JR
+(2002 ) Retinal degeneration mutants in the mouse. Vision Res 42:517–525
+Cheng M, Liu L, Lao Y, Liao W, Liao M, Luo X, Wu J, Xie W, Zhang Y, Xu N
+(2016 ) MicroRNA- 181a suppresses parkin-mediated mitophagy and
+sensitizes neuroblastoma cells to mitochondrial uncoupler-induced
+apoptosis. Oncotarget 7:42274 –42287
+Ciampi L, Mantica F, L /C19opez-Blanch L, Permanyer J, Rodriguez-Mar /C19ın C, Zang J,
+Cianferoni D, Jim /C19enez-Delgado S, Bonnal S, Miravet-Verde S et al (2022 )
+Specialization of the photoreceptor transcriptome by Srrm 3-dependent
+microexons is required for outer segment maintenance and vision. Proc
+Natl Acad Sci USA 119:e2117090119
+Costa V, Giacomello M, Hudec R, Lopreiato R, Ermak G, Lim D, Malorni W,
+Davies KJA, Carafoli E, Scorrano L ( 2010 ) Mitochondrial fission and cristae
+disruption increase the response of cell models of Huntington ’s disease to
+apoptotic stimuli. EMBO Mol Med 2:490–503
+Cuenca N, Fern /C19andez-S /C19anchez L, Campello L, Maneu V, De la Villa P, Lax P,
+Pinilla I ( 2014 ) Cellular responses following retinal injuries and
+therapeutic approaches for neurodegenerative diseases. Prog Retin Eye Res
+43:17–75
+Doria M, Ferrara A, Auricchio A ( 2013 ) AAV 2/8vectors purified from culture
+medium with a simple and rapid protocol transduce murine liver, muscle,
+and retina efficiently. Hum Gene Ther Methods 24:392–398
+Dziennis S, Alkayed NJ ( 2008 ) Role of signal transducer and activator of
+transcription 3in neuronal survival and regeneration. Rev Neurosci 19:
+341–361
+Ebert MS, Sharp PA (2010) MicroRNA sponges: progress and possibilities. RNA
+16:2043 –2050
+Esumi N, Oshima Y, Li Y, Campochiaro PA, Zack DJ (2004 ) Analysis of the
+VMD2 promoter and implication of E-box binding factors in its regulation.
+J Biol Chem 279:19064 –19073
+Gao G-P, Alvira MR, Wang L, Calcedo R, Johnston J, Wilson JM (2002 ) Novel
+adeno-associated viruses from rhesus monkeys as vectors for human genetherapy. Proc Natl Acad Sci USA 99:11854 –11859
+Garcia-Diaz A, Shin DS, Moreno BH, Saco J, Escuin-Ordinas H, Rodriguez GA,
+Zaretsky JM, Sun L, Hugo W, Wang X et al (2017 ) Interferon receptor
+signaling pathways regulating PD-L 1and PD-L 2expression. Cell Rep 19:
+1189 –1201
+Greenwald DL, Cashman SM, Kumar-Singh R ( 2013 ) Mutation-independent
+rescue of a novel mouse model of retinitis pigmentosa. Gene Ther 20:
+425–434
+Guschin D, Rogers N, Briscoe J, Witthuhn B, Watling D, Horn F, Pellegrini S,
+Yasukawa K, Heinrich P, Stark GR (1995 ) A major role for the protein
+tyrosine kinase JAK 1in the JAK/STAT signal transduction pathway in
+response to interleukin- 6.EMBO J 14:1421 –1429
+Henao-Mejia J, Williams A, Goff LA, Staron M, Licona-Lim /C19on P, Kaech SM,
+Nakayama M, Rinn JL, Flavell RA ( 2013 ) The microRNA miR- 181 is a
+critical cellular metabolic rheostat essential for NKT cell ontogenesis and
+lymphocyte development and homeostasis. Immunity 38:984–997
+Hildinger M, Auricchio A, Gao G, Wang L, Chirmule N, Wilson JM ( 2001)
+Hybrid vectors based on adeno-associated virus serotypes 2and 5for
+muscle-directed gene transfer. J Virol 75:6199 –6203
+Huang Y, 
+Zhou J, Wang S, Xiong J, Chen Y, Liu Y, Xiao T, Li Y, He T, Li Y et al
+(2020 ) Indoxyl sulfate induces intestinal barrier injury through IRF 1-DRP 1
+axis-mediated mitophagy impairment. Theranostics 10:7384 –7400
+Hudry E, Vandenberghe LH ( 2019 ) Therapeutic AAV gene transfer to the
+nervous system: a clinical reality. Neuron 101:839–862
+Indrieri A, Carrella S, Romano A, Spaziano A, Marrocco E, Fernandez-Vizarra E,
+Barbato S, Pizzo M, Ezhova Y, Golia FM et al (2019 ) miR- 181a/bdownregulation exerts a protective action on mitochondrial diseasemodels. EMBO Mol Med 11:11
+Indrieri A, Carrella S, Carotenuto P, Banfi S, Franco B ( 2020 ) The pervasive
+role of the miR- 181 family in development, neurodegeneration, and
+cancer. Int J Mol Sci 21:2092
+Indrieri A, Conte I, Chesi G, Romano A, Quartararo J, Tat èR, Ghezzi D, Zeviani
+M, Goffrini P, Ferrero I, Bovolenta P, Franco B ( 2013 ) The impairment of
+HCCS leads to MLS syndrome by activating a non-canonical cell deathpathway in the brain and eyes. EMBO Molecular Medicine 5:280–293
+Intartaglia D, Giamundo G, Naso F, Nusco E, Di Giulio S, Salierno FG,
+Polishchuk E, Conte I ( 2022 ) Induction of autophagy promotes clearance
+of RHOP 23H aggregates and protects from retinal degeneration. Front
+Aging Neurosci 14:878958
+Jiang K, Wright KL, Zhu P, Szego MJ, Bramall AN, Hauswirth WW, Li Q, Egan
+SE, McInnes RR (2014 ) STAT 3promotes survival of mutant photoreceptors
+in inherited photoreceptor degeneration models. Proc Natl Acad Sci USA
+111:E5716 –E5723
+Jiang K, Mondal AK, Adlakha YK, Gumerson J, Aponte A, Gieser L, Kim J-W,
+Boleda A, Brooks MJ, Nellissery J et al (2022 ) Multiomics analyses reveal
+early metabolic imbalance and mitochondrial stress in neonatalphotoreceptors leading to cell death in Pde 6brd1/rd1mouse model
+ of
+retinal degeneration. Hum Mol Genet 31:2137 –2154
+Karali M, Guadagnino I, Marrocco E, De Cegli R, Carissimo A, Pizzo M,
+Casarosa S, Conte I, Surace EM, Banfi S ( 2020 ) AAV-miR- 204 protects from
+retinal degeneration by attenuation of microglia activation andphotoreceptor cell death. Mol Ther Nucleic Acids 19:144–156
+Kim K-Y, Perkins GA, Shim MS, Bushong E, Alcasid N, Ju S, Ellisman MH,
+Weinreb RN, Ju W-K (2015 ) DRP 1inhibition rescues retinal ganglion cells
+and their axons by preserving mitochondrial integrity in a mouse modelof glaucoma. Cell Death Dis 6:e1839
+Kojima H, Nakajima K, Hirano T ( 1996 ) IL-6-inducible complexes on an IL- 6
+response element of the junB promoter contain Stat 3and 36kDa CRE-like
+site binding protein(s). Oncogene 12:547–554
+Komeima K, Rogers BS, Campochiaro PA ( 2007 ) Antioxidants slow
+photoreceptor cell death in mouse models of retinitis pigmentosa. J Cell
+Physiol 213:809–815
+Komeima K, Usui S, Shen J, Rogers BS, Campochiaro PA ( 2008 ) Blockade of
+neuronal nitric oxide synthase reduces cone cell death in a model ofretinitis pigmentosa. Free Radic Biol Med 45:905–912
+Lai F, Deng W, Fu C, Wu P, Cao M, Tan S ( 2020 ) Long non-coding RNA
+SNHG 6increases JAK 2expression by targeting the miR- 181 family to
+promote colorectal cancer cell proliferation. J Gene Med 22:e3262
+Ledford H (2017 ) FDA advisers back gene therapy for rare form of blindness.
+Nature 550:314
+Lee S-J, Jang B-C, Lee S-W, Yang Y-I, Suh S-I, Park Y-M, Oh S, Shin J-G, Yao S,
+Chen L et al (2006 ) Interferon regulatory factor- 1isprerequ
+ isite to the
+constitutive expression and IFN- c-induced upregulation of B 7-H1(CD274).
+FEBS Lett 580:755–762
+Lefevere E, Toft-Kehler AK, Vohra R, Kolko M, Moons L, Van Hove I ( 2017 )
+Mitochondrial dysfunction underlying outer retinal diseases. Mitochondrion
+36:66–76
+Li T, Snyder WK, Olsson JE, Dryja TP (1996 ) Transgenic mice carrying the
+dominant rhodopsin mutation P347 S: evidence for defective vectorial
+transport of rhodopsin to the outer segments. Proc Natl Acad Sci USA 93:
+14176 –14181
+Liang F-Q, Anand V, Maguire AM, Bennett J ( 2000) Intraocular delivery of
+recombinant virus. In Vision Research Protocols , Rakoczy PE (ed), pp
+125–139. New Jersey: Humana Press
+18of19 EMBO Molecular Medicine 14:e15941 |2022 /C2112022 The AuthorsEMBO Molecular Medicine Sabrina Carrella et alLoscher CJ, Hokamp K, Kenna PF, Ivens AC, Humphries P, Palfi A, Farrar GJ
+(2007 ) Altered retinal microRNA expression profile in a mouse model of
+retinitis pigmentosa. Genome Biol 8:R248
+Ly A, Merl-Pham J, Priller M, Gruhn F, Senninger N, Ueffing M, Hauck SM ( 2016 )
+Proteomic profiling suggests central role of STAT signaling during retinal
+degeneration in the rd10mouse model. JP r o t e o m eR e s 15:1350 –1359
+Marrocco E, Indrieri A, Esposito F, Tarallo V, Carboncino A, Alvino FG, De Falco
+S, Franco B, De Risi M, De Leonibus E ( 2020 )a-synuclein overexpression in
+the retina leads to vision impairment and degeneration of dopaminergicamacrine cells. Sci Rep 10:9619
+Marrocco E, Maritato R, Botta S, Esposito M, Surace EM ( 2021 ) Challenging safety
+and efficacy of retinal gene therapies by retinogenesis. Int J Mol Sci 22:5767
+Mirra S, Marfany G (2019 ) Mitochondrial gymnastics in retinal cells: a
+resilience mechanism against oxidative stress and neurodegeneration. InRetinal Degenerative Diseases , Bowes Rickman C, Grimm C, Anderson RE,
+Ash JD, LaVail MM, Hollyfield JG (eds), pp 513–517. Cham: Springer
+International Publishing
+Mirra S, Garc /C19ıa-Arroyo R, B Dom /C18enech E, Gavald /C18a-Navarro A, Herrera- /C19Ubeda
+C, Oliva C, Garcia-Fern /C18andez J, Artuch R, Villarroya F, Marfany G (2021 )
+CERKL, a retinal dystrophy gene, regulates mitochondrial function and
+dynamics in the mammalian retina. Neurobiol Dis 156:105405
+Mussolino C, della Corte M, Rossi S, Viola F, Di Vicino U, Marrocco E, Neglia S,
+Doria M, Testa F, Giovannoni R et al (2011 ) AAV-mediated photoreceptor
+transduction of the pig cone-enriched retina. Gene Ther 18:637–645
+Naon D, Zaninello M, Giacomello M, Varanita T, Grespi F, Lakshminaranayan
+S, Serafini A, Semenzato M, Herkenne S, Hern /C19andez-Alvarez MI et al
+(2016 ) Critical reappraisal confirms that Mitofusin 2is an endoplasmic
+reticulum –mitochondria tether. Proc Natl Acad Sci USA 113:11249 –11254
+Oliver D,
+Reddy P (2019 ) Dynamics of dynamin-related protein 1in
+Alzheimer ’s disease and other neurodegenerative diseases. Cell8:961
+Ouyang Y-B, Lu Y, Yue S, Giffard RG (2012 ) miR- 181 targets multiple Bcl- 2
+family members and influences apoptosis and mitochondrial function in
+astrocytes. Mitochondrion 12:213–219
+Oveson BC, Iwase T, Hackett SF, Lee SY, Usui S, Sedlak TW, Snyder SH,
+Campochiaro PA, Sung JU ( 2011 ) Constituents of bile, bilirubin and TUDCA,
+protect against oxidative stress-induced retinal degeneration: Bilirubinand retinitis pigmentosa. J Neurochem 116:144–153
+Ozaki T, Utsumi S, Iwamoto T, Tanaka M, Tomita H, Sugano E, Ishiyama E,
+Ishida K (2020) Data on mitochondrial ultrastructure of photoreceptors inpig, rabbit, and mouse retinas. Data Brief 30:105544
+Palfi A, Hokamp K, Hauck SM, Vencken S, Millington-Ward S, Chadderton N,
+Carrigan M, Kortvely E, Greene CM, Kenna PF et al (2016 ) microRNA
+regulatory circuits in a mouse model of inherited retinal degeneration. Sci
+Rep6:31431
+Pang J, Boye SL, Kumar A, Dinculescu A, Deng W, Li J, Li Q, Rani A, Foster TC,
+Chang B et al (2008 ) AAV-mediated gene therapy for retinal degeneration
+in the rd10mouse containing a recessive PDE bmutation. Invest
+Ophthalmol Vis Sci 49:4278 –4283
+Patrizi C, Llado M, Benati D, Iodice C, Marrocco E, Guarascio R, Surace EM,
+Cheetham ME, Auricchio A, Recchia A ( 2021 ) Allele-specific editing
+ameliorates dominant retinitis pigmentosa in a transgenic mouse model.Am J Hum Genet 108:295–308
+Piano I, D ’Antongiovanni V, Testai L, Calderone V, Gargini C ( 2019 )A
+nutraceutical strategy to slowing down the progression of cone death inan animal model of retinitis pigmentosa. Front Neurosci 13:461
+Qu Y, Zhang Q, Cai X, Li F, Ma Z, Xu M, Lu L ( 2017 ) Exosomes derived from
+miR- 181-5p-modified adipose-deriv
+ed mesenchymal stem cells prevent
+liver fibrosis viaautophagy activation. J Cell Mol Med 21:2491 –2502Quintana-Cabrera R, Quirin C, Glytsou C, Corrado M, Urbani A, Pellattiero A,
+Calvo E, V /C19azquez J, Enr /C19ıquez JA, Gerle C et al (2018 ) The cristae modulator
+Optic atrophy 1requires mitochondrial ATP synthase oligomers to
+safeguard mitochondrial function. Nat Commun 9:3399
+Roche SL, Ruiz-Lopez AM, Moloney JN, Byrne AM, Cotter TG ( 2018 ) Microglial-
+induced M €uller cell gliosis is attenuated by progesterone in a mouse
+model of retinitis pigmentosa. Glia 66:295–310
+Sato T, Selleri C, Young NS, Maciejewski JP ( 1997 ) Inhibition of interferon
+regulatory factor- 1expression results in predominance of cell growth
+stimulatory effects of interferon-gamma due to phosphorylation of Stat 1
+and Stat 3.Blood 90:4749 –4758
+Tornabene P, Trapani I, Minopoli R, Centrulo M, Lupo M, de Simone S, Tiberi
+P, Dell’ Aquila F, Marrocco E, Iodice C et al (2019 ) Intein-mediated protein
+trans-splicing expands adeno-associated virus transfer capacity in the
+retina. Sci Transl Med 11: eaav 4523
+Tsakiri EN, Gumeni S, Vougas K, Pendin D, Papassideri I, Daga A, Gorgoulis V,
+Juh/C19asz G, Scorrano L, Trougakos IP ( 2019 ) Proteasome dysfunction induces
+excessive proteome instability and loss of mitostasis that can be mitigated by
+enhancing mitochondrial fusion or autophagy. Autophagy 15:1757 –1773
+Twig G, Shirihai OS (2011 ) The interplay between mitochondrial dynamics
+and mitophagy. Antioxid Redox Signal 14:1939 –1951
+Viringipurampeer IA, Metcalfe AL, Bashar AE, Sivak O, Yanai A, Mohammadi Z,
+Moritz OL, Gregory-Evans CY, Gregory-Evans K ( 2016)N L R P3inflammasome
+activation drives bystander cone photoreceptor cell death in a P 23H
+rhodopsin model of retinal degeneration. Hum Mol Genet 25:1501 –1516
+Walch-R €uckheim B, Pahne-Zeppenfeld J, Fischbach J, Wickenhauser C, Horn
+LC, Tharun L, B €uttner R, Mallmann P, Stern P, Kim Y-J et al (2016 ) STAT 3/
+IRF1pathway activation sensitizes cervical cancer cells to
+chemotherapeutic drugs. Cancer Res 76:3872 –3883
+Wegrzyn J, Potla R, Chwae Y-J, Sepuri NBV, Zhang Q, Koeck T, Derecka M,
+Szczepanek K, Szelag M, Gornicka A et al (2009 ) Function of mitochondrial
+Stat3in cellular respiration. Science 323: 793–797
+Xia H, Hu Q, Li L, Tang X, Zou J, Huang L, Li X (2019 ) Protective effects of
+autophagy against blue light-induced retinal degeneration in aged mice.Sci China Life Sci 62:244–256
+Yamanaka Y, Nakajima K, Fukada T, Hibi M, Hirano T (1996 ) Differentiation
+and growth arrest signals are generated through the cytoplasmic regionof gp 130 that is essential for Stat 3activation. EMBO J 15:1557 –1565
+Yu W, Mookherjee S, Chaitankar V, Hiriyanna S, Kim J-W, Brooks M,
+Ataeijannati Y, Sun X, Dong L, Li T et al (2017 ) Nrl knockdown by AAV-
+delivered CRISPR/Cas 9prevents retinal degeneration in mice. Nat Commun
+8:14716
+Zhang Y, Chirmule N, Gao G, Wilson J ( 2000)C D 40ligand-dependent
+activation of cytotoxic T lymphocytes by adeno-associated virus vectorsin vivo : role of immature dendritic cells. J Virol 74:8003 –8010
+Zhang Q, Raje V, Yakovlev VA, Yacoub A, Szczepanek K, Meier J, Derecka M,
+Chen Q,
+Hu Y, Sisler J et al (2013 ) Mitochondrial localized Stat 3promotes
+breast cancer growth via phosphorylation of serine 727.J Biol Chem 288:
+31280 –31288
+Zhao L, Zabel MK, Wang X, Ma W, Shah P, Fariss RN, Qian H, Parkhurst CN, Gan
+W, Wong WT ( 2015 ) Microglial phagocytosis of living photoreceptors
+contributes to inherited retinal degeneration. EMBO Mol Med 7:1179 –1197
+License: This is an open access article under the
+terms of the Creative Commons Attribution License,
+which permits use, distribution and reproduction inany medium, provided the original work is properlycited.
+/C2112022 The Authors EMBO Molecular Medicine 14:e15941 |2022 19of19Sabrina Carrella et al EMBO Molecular Medicine

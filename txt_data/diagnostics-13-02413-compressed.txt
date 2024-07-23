@@ -1,0 +1,1364 @@
+Citation: Ashourizadeh, H.; Fakhri,
+M.; Hassanpour, K.; Masoudi, A.;
+Jalali, S.; Roshandel, D.; Chen, F.K.
+Pearls and Pitfalls of Adaptive Optics
+Ophthalmoscopy in Inherited Retinal
+Diseases. Diagnostics 2023, 13, 2413.
+https://doi.org/10.3390/
+diagnostics13142413
+Academic Editors: Rajiv Raman
+and Isabel Pinilla
+Received: 1 June 2023
+Revised: 12 July 2023
+Accepted: 18 July 2023
+Published: 19 July 2023
+Copyright: © 2023 by the authors.
+Licensee MDPI, Basel, Switzerland.
+This article is an open access article
+distributed under the terms and
+conditions of the Creative Commons
+Attribution (CC BY) license (https://
+creativecommons.org/licenses/by/
+4.0/).
+diagnostics
+Review
+Pearls and Pitfalls of Adaptive Optics Ophthalmoscopy in
+Inherited Retinal Diseases
+Helia Ashourizadeh1,†
+, Maryam Fakhri2, Kiana Hassanpour2
+, Ali Masoudi3, Sattar Jalali4,
+Danial Roshandel5,6,†
+and Fred K. Chen5,6,7,8,*
+1Department of Ophthalmology, Mayo Clinic, Rochester, MN 55905, USA; ashourizadeh.helia@mayo.edu
+2Ophthalmic Research Center, Research Institute for Ophthalmology and Vision Sciences,
+Shahid Beheshti University of Medical Sciences, Tehran 16666, Iran; maryam.fakhri88@gmail.com (M.F.);
+kiana.hassanpour@gmail.com (K.H.)
+3Stein Eye Institute, David Geffen School of Medicine, University of California, Los Angeles, CA 90095, USA;
+masoudi.a@umsu.ac.ir
+4Department of Physics, Central Tehran Branch, Islamic Azad University, Tehran 19558, Iran;
+sahab.jalali@gmail.com
+5Centre for Ophthalmology and Visual Science, The University of Western Australia,
+Nedlands, WA 6009, Australia; danial.roshandel@lei.org.au
+6Ocular Tissue Engineering Laboratory, Lions Eye Institute, Nedlands, WA 6009, Australia
+7Centre for Eye Research Australia, Royal Victorian Eye and Ear Hospital, Melbourne, VIC 3002, Australia
+8Ophthalmology, Department of Surgery, University of Melbourne, Melbourne, VIC 3010, Australia
+*Correspondence: fred.chen@uwa.edu.au
+†These authors contributed equally to this work.
+Abstract: Adaptive optics (AO) retinal imaging enables individual photoreceptors to be visualized
+in the clinical setting. AO imaging can be a powerful clinical tool for detecting photoreceptor
+degeneration at a cellular level that might be overlooked through conventional structural assessments,
+such as spectral-domain optical coherence tomography (SD-OCT). Therefore, AO imaging has gained
+signiﬁcant interest in the study of photoreceptor degeneration, one of the most common causes of
+inherited blindness. Growing evidence supports that AO imaging may be useful for diagnosing early-
+stage retinal dystrophy before it becomes apparent on fundus examination or conventional retinal
+imaging. In addition, serial AO imaging may detect structural disease progression in early-stage
+disease over a shorter period compared to SD-OCT. Although AO imaging is gaining popularity as a
+structural endpoint in clinical trials, the results should be interpreted with caution due to several
+pitfalls, including the lack of standardized imaging and image analysis protocols, frequent ocular
+comorbidities that affect image quality, and signiﬁcant interindividual variation of normal values.
+Herein, we summarize the current state-of-the-art AO imaging and review its potential applications,
+limitations, and pitfalls in patients with inherited retinal diseases.
+Keywords: adaptive optics; photoreceptor; retinal dystrophy; inherited retinal disease; rod-cone dystrophy
+1. Introduction
+Incorporation of the adaptive optics (AO) technology into ophthalmic devices has led
+to the development of non-invasive ultra-high-resolution imaging of retinal cells and blood
+vessels with minimal image degradation by higher-order monochromatic aberrations. AO
+was ﬁrst incorporated into ophthalmoscopy by Liang et al. in 1997 [ 1], and since then,
+it has gained popularity as a structural endpoint in clinical trials (www.ClinicalTrials.
+gov; NCT03349242, NCT00254605, and NCT01866371; accessed on 15 December 2022).
+Notable knowledge advances have been made by using AO in the early detection of
+retinal abnormalities. Numerous studies demonstrated that AO could detect early changes
+in photoreceptor density before visible clinical signs or abnormalities in conventional
+imaging techniques [ 2,3]. Collecting indirectly scattered light from adjacent cells with
+Diagnostics 2023, 13, 2413. https://doi.org/10.3390/diagnostics13142413 https://www.mdpi.com/journal/diagnosticsDiagnostics 2023, 13, 2413 2 of 23
+different refractive indices, AO can also provide valuable information on retinal vasculature.
+High-contrast perfusion maps provide information on retinal blood vessels’ structure,
+including lumen width, wall thickness and wall-to-lumen ratio, branching, tortuosity,
+microaneurysms, as well as function, such as resting and stimulus-evoked changes in blood
+ﬂow (neurovascular coupling) [ 4–6]. Additionally, the unique capabilities of AO optical
+coherence tomography angiography (OCTA) in quantitative imaging of choriocapillaris
+has been demonstrated in inherited retinal diseases (IRDs) [7].
+IRDs comprises a wide range of retinal degenerations, which collectively is the leading
+cause of visual disability and legal blindness in the working-age population [ 8]. Cur-
+rently, one gene-based therapy has been approved for the treatment of RPE65-associated
+retinopathy [ 9,10] while gene-based therapies for other IRD genes are still under investi-
+gation [ 11,12]. AO retinal imaging can be useful for tracking a disease’s natural history at
+the cellular level and deﬁning outcome measures for therapeutic interventions in clinical
+trials [ 13]. Despite the lack of a standardized imaging protocol and image analysis methods
+in AO, the detailed visualization of retinal cell survival provided by AO offers potential
+applications in measuring efﬁcacy in stem cell and gene-targeted therapies. This compre-
+hensive review discusses the main concepts of AO in ophthalmic imaging, its ﬁndings in
+IRDs, and the pitfalls and limitations of AO in research and clinical practice.
+2. Basic Concepts
+2.1. Principles of Adaptive Optics
+As ﬁrst conceptualized by astronomer Horace Babcock in the 1920s, atmospheric
+media cause turbulences in the light waves originating from stars, which leads to low
+image resolution in ground-based telescopes [ 14]. Similarly, distortions and irregularities
+on the ocular surface and within the eye make it an imperfect optical system. There are
+three key components in every AO system, which detect aberrations in real time and adapt
+to enhance the image quality. A wavefront sensor detects the optical aberrations, and a
+wavefront corrector compensates for the aberrations. The controlling system coordinates
+the sensor and controller to provide the best image quality with low aberrations. In
+sensor-based AO, also known as hardware AO, wavefront sensors are used to measure the
+aberrations of the reﬂected light after passing through the ocular media and cornea. The
+calculated aberration is transferred to the controller and translates into signals to be sent to
+a deformable mirror and acts as a guide to ongoing corrective changes of the mirror. Then,
+the modiﬁed wavefront is detected by the camera and a high-resolution image is captured
+(Figure 1).
+In sensorless AO and computational AO systems, aberrations are detected based on
+optimization algorithms, and the distortion degree of the wavefront is estimated according
+to the properties of multiple serially taken consecutive images. Sensorless AO has a major
+drawback in terms of speed since it necessitates a series of images to gauge and adjust a
+speciﬁc set of aberration modes. Sensor-based AO systems are more optically complex
+and costly devices with almost 10 times higher speeds compared to sensorless AO [ 15].
+However, the retinal images captured through sensorless adaptive optics are comparable
+to those obtained with wavefront sensor-based control [16].
+2.2. Technologies and Devices
+2.2.1. AO Flood Illumination Ophthalmoscopy (AOFIO)
+The only commercially available AO fundus camera (rtx1, Imagine Eyes, Orsay, France)
+illuminates a small region of the retina and captures 40 images from a 44ﬁeld over
+2 or 4 s (19 or 9.5 frames per second, respectively). Since each image is acquired in
+milliseconds, ﬁne ocular movements do not affect image quality. Artifact-free images are
+aligned and blended using built-in software to increase the signal-to-noise ratio (SNR). The
+processed image is a magniﬁed high-resolution image of cone photoreceptors or retinal
+vessels (Figure 2) [17]. This device gives an enface image of a 44ﬁeld of retina,
+corresponding to a 1.2 1.2 mm square. Each acquisition lasts 4 s (2 s in the upgradedDiagnostics 2023, 13, 2413 3 of 23
+version) during which 40 live images are taken. Using the cross-correlation method and
+automated reference frame selection by the image processing software provided by the
+device’s manufacturer (AOdetect), in every series of raw image sequences, poor-quality
+images are omitted, and frames with acceptable resolution and the least distortion are
+averaged to give a ﬁnal image with the highest amount of signal-to-noise ratio [18,19].
+Diagnostics 2023,  13, x FOR PEER REVIEW 3 of 24 
+ 
+  
+Figure 1. Schematic view of the adaptive optics retinal camera. The aberrated wavefront exits the 
+eye ( A), and the aberrations are corre cted by a deformable mirror ( B). The resultant image is divided 
+by a beam spli tter (C) and equally received by a wavefront sensor ( D) measures the residual aber-
+rations of the image corrected by the deformable  mirror. Aberrometry data are analyzed by com-
+puter software ( E), which adjusts the deformab le mirror, and this loop (B > C > D > E > B) continues 
+working until the least amount of aberration is  detected by the wavefront sensor, when the ﬁnal 
+image will be captured and recorded by the retinal camera ( F). 
+In sensorless AO and computational AO systems, aberrations are detected based on 
+optimization algorithms, and the distortion de gree of the wavefront is estimated accord-
+ing to the properties of multiple  serially taken consecutive images. Sensorless AO has a 
+major drawback in terms of speed since it ne cessitates a series of images to gauge and 
+adjust a speci ﬁc set of aberration modes. Sensor-based AO systems are more optically 
+complex and costly devices with almost 10 times higher speeds compared to sensorless 
+AO [15]. However, the retinal images captur ed through sensorless adaptive optics are 
+comparable to those obtained with wavefront sensor-based control [16]. 
+2.2. Technologies and Devices 
+2.2.1. AO Flood Illumination Ophthalmoscopy (AOFIO) 
+The only commercially available AO fundus  camera (rtx1, Imagine Eyes, Orsay, 
+France) illuminates a small region of the retina and captures 40 images from a 4° × 4° ﬁeld 
+over 2 or 4 s (19 or 9.5 frames per second, re spectively). Since each image is acquired in 
+milliseconds, ﬁne ocular movements do not a ﬀect image quality. Artifact-free images are 
+aligned and blended using built-in software to increase the signal-to-noise ratio (SNR). 
+The processed image is a magni ﬁed high-resolution image of cone photoreceptors or ret-
+inal vessels (Figure 2) [17]. This device  gives an enface image of a 4° × 4° ﬁeld of retina, 
+corresponding to a 1.2 × 1.2 mm square. Each acquisition lasts 4 s (2 s in the upgraded version) during which 40 live images are taken. Using the cross-correlation method and 
+automated reference frame selection by the image processing software provided by the device’s manufacturer (AOdetect), in every se ries of raw image sequences, poor-quality 
+images are omitt ed, and frames with acceptable resolution and the least distortion are 
+averaged to give a ﬁnal image with the highest amount of signal-to-noise ratio [18,19]. 
+Figure 1. Schematic view of the adaptive optics retinal camera. The aberrated wavefront exits the eye
+(A), and the aberrations are corrected by a deformable mirror ( B). The resultant image is divided by a
+beam splitter ( C) and equally received by a wavefront sensor ( D) measures the residual aberrations of
+the image corrected by the deformable mirror. Aberrometry data are analyzed by computer software
+(E), which adjusts the deformable mirror, and this loop (B > C > D > E > B) continues working until
+the least amount of aberration is detected by the wavefront sensor, when the ﬁnal image will be
+captured and recorded by the retinal camera (F).
+Diagnostics 2023,  13, x FOR PEER REVIEW 4 of 24 
+ 
+  
+Figure 2. Comparison of the magni ﬁed infrared re ﬂectance (IR) image taken by SLO camera 
+(A,B,D,E) with AO image taken by rtx1 AO camera ( C,F). Red arrows in F show the internal and 
+external boundaries of the vessels wall. Red (A) and yellow (D) boxes represent the magni ﬁed area 
+shown in panels B-C and E-F, respectively. 
+Images from adjacent ﬁelds may be captured and montaged to create a map of the 
+cone mosaic or retinal vasculature. The major drawback of AOFIO is that light sca ttered 
+from adjacent structures may reduce the contra st of the image (axial resolution is about 
+300 µm). In addition, although the theoretical resolution of AOFIO is 1.5 µm, the actual 
+resolution is not high enough to visualize small cones with the highest packing density 
+located within the central 2° of the fovea, as well as rod photoreceptors, which have a 
+diameter of 1–2 µm. In additi on, measurements might be a ﬀected by a large number of 
+intervening rods beyond 6° from the fovea. He nce, although cones might be visualized at 
+closer than 200 µm from the fovea (within 1°) and rods might be faintly visible in ideal conditions [20], the usefulness of AOFIO is generally limited to eccentricities between 2° 
+and 5° [21]. 
+2.2.2. AO Scanning Laser Ophthalmoscopy (AOSLO) 
+In contrast to AOFIO, AOSLO devices are no t yet commercially av ailable. In AOSLO, 
+small regions (approximately 1.5° × 1.5°) of the retina are illuminated, and backscatt ered 
+lights are detected at the same plane as the illumination. Hence, AOSLO produces images 
+with higher contrast compared to AOFIO and permits visualization of rods and foveal 
+cones with a transverse and axial resolution of about 2.5 µm and 100 µm, respectively. 
+However, the small scanning ﬁeld requires more scans to obtain cone mosaics, which re-
+quires the time-consuming task of creating montages to allow identi ﬁcation of landmarks 
+for image registration [22]. While both AOFIO and confocal AOSLO (cAOSLO) rely on the reﬂectivity of the photoreceptors (which depe nds on their intact structure and waveguide 
+properties) for visualization, non-confocal  split-detector AOSLO (SD-AOSLO) shows the 
+cone inner segment ellipsoid independent of re ﬂectivity/waveguiding. Hence, SD-AOSLO 
+can show cones without the time and morphology-dependent re ﬂectivity changes. How-
+ever, SD-AOSLO is unable to resolve rods [23]. Table 1 provides major diﬀ erences between 
+AOFIO and AOSLO. 
+Table 1.  Comparison of Flood Illumination and Scanning Laser Ophthalmoscope . 
+ FIO SLO 
+Availability Commercial Research custom-made 
+Field Large (4°) Small (0.2–1.0°) 
+Illumination Diﬀuse Focused single spot 
+Figure 2. Comparison of the magniﬁed infrared reﬂectance (IR) image taken by SLO camera ( A,B,D,E)
+with AO image taken by rtx1 AO camera ( C,F). Red arrows in F show the internal and external
+boundaries of the vessels wall. Red ( A) and yellow ( D) boxes represent the magniﬁed area shown in
+panels (B,C) and (E,F), respectively.Diagnostics 2023, 13, 2413 4 of 23
+Images from adjacent ﬁelds may be captured and montaged to create a map of the
+cone mosaic or retinal vasculature. The major drawback of AOFIO is that light scattered
+from adjacent structures may reduce the contrast of the image (axial resolution is about
+300m). In addition, although the theoretical resolution of AOFIO is 1.5 m, the actual
+resolution is not high enough to visualize small cones with the highest packing density
+located within the central 2of the fovea, as well as rod photoreceptors, which have a
+diameter of 1–2 m. In addition, measurements might be affected by a large number of
+intervening rods beyond 6from the fovea. Hence, although cones might be visualized
+at closer than 200 m from the fovea (within 1) and rods might be faintly visible in ideal
+conditions [ 20], the usefulness of AOFIO is generally limited to eccentricities between 2
+and 5[21].
+2.2.2. AO Scanning Laser Ophthalmoscopy (AOSLO)
+In contrast to AOFIO, AOSLO devices are not yet commercially available. In AOSLO,
+small regions (approximately 1.51.5) of the retina are illuminated, and backscattered
+lights are detected at the same plane as the illumination. Hence, AOSLO produces images
+with higher contrast compared to AOFIO and permits visualization of rods and foveal cones
+with a transverse and axial resolution of about 2.5 m and 100 m, respectively. However,
+the small scanning ﬁeld requires more scans to obtain cone mosaics, which requires the
+time-consuming task of creating montages to allow identiﬁcation of landmarks for image
+registration [ 22]. While both AOFIO and confocal AOSLO (cAOSLO) rely on the reﬂectivity
+of the photoreceptors (which depends on their intact structure and waveguide properties)
+for visualization, non-confocal split-detector AOSLO (SD-AOSLO) shows the cone inner
+segment ellipsoid independent of reﬂectivity/waveguiding. Hence, SD-AOSLO can show
+cones without the time and morphology-dependent reﬂectivity changes. However, SD-
+AOSLO is unable to resolve rods [ 23]. Table 1provides major differences between AOFIO
+and AOSLO.
+Table 1. Comparison of Flood Illumination and Scanning Laser Ophthalmoscope.
+FIO SLO
+Availability Commercial Research custom-made
+Field Large (4) Small (0.2–1.0)
+Illumination Diffuse Focused single spot
+Imaging technique Single ﬂash Scanning laser
+Transverse resolution 2–3m 1–2m
+Axial resolution 200–300 m 100m
+Motion artefacts Low high
+Visible structures
+Cones YesaYes
+Rods No Yes
+RPE YesbYes
+RGC NocYes
+Retinal vessels Yes Yes
+Choriocapillaris NocYes
+aUnable to resolve foveal cones in the central 1–2.bOnly by transscleral illumination.cMight be visualized
+using multiply scattered light [ 23]. FIO: ﬂood illumination ophthalmoscopy, SLO: scanning laser ophthalmoscopy,
+RGC: retinal ganglion cells, RNFL: retinal nerve ﬁber layer.Diagnostics 2023, 13, 2413 5 of 23
+2.2.3. AO Optical Coherence Tomography (AO-OCT)
+AO-OCT provides a ﬁve-times higher lateral resolution in comparison to conventional
+SD-OCT [ 24,25], and a better axial resolution than AOSLO [ 26], which confers a distinct
+beneﬁt compared to conventional OCT as well as SLO and FIO. It also has an increased
+signal-to-noise ratio, smaller speckle size, and increased sensitivity to weak reﬂections, all
+of which enable more precise and accurate detection and visualization of microscopic struc-
+tures in the retina [ 27]. Image quality is limited due to high rates of motion artifacts from
+high magniﬁcation and during the time-consuming image acquisition. By recording en face
+OCT and SLO images simultaneously and correcting transverse motion with SLO images,
+higher lateral and axial resolution with minor residual motion artifacts can be achieved [ 28].
+Using a Wavefront sensorless AO-OCT on non-mydriatic pupils, the photoreceptor mosaic
+at eccentricities as small as 1could be visualized [29].
+3. Acquisition, Analysis, and Interpretation
+3.1. Image Acquisition Protocols
+Multiple factors, such as focus plane, imaging pattern, and imaging area, should be
+considered when obtaining the highest-quality image at the desired region (s) of interest.
+These factors will be further elaborated in the next sections.
+3.1.1. Photoreceptor
+The level of focus for photoreceptor imaging ranges between 40 and 100 m proximal
+to the Bruch’s membrane. The choice of imaged area depends on the purpose of the imaging.
+Localized imaging can be used to measure cone parameters at a speciﬁc predeﬁned location
+(s) for structure–function correlation or natural history studies. Alternatively, wider areas
+can be imaged to produce topographic cone mosaic maps (Figure 3). The test duration
+and scan area should be balanced to reduce patient discomfort and fatigue. Although
+AOFIO captures relatively larger retinal areas compared to AOSLO, the image quality may
+degrade toward the edges of the image frame. Hence, many researchers use overlapping
+image tiles to overcome this potential limitation. Different imaging protocols have been
+used by rtx1 users. The operator adjusts the internal ﬁxation target to shift a patient’s
+gaze systematically through a series of coordinates to allow methodical acquisition of
+images at various retinal loci of interest. For visualizing photoreceptors in larger areas,
+multiple AO images with overlapping regions are required to create a wide-ﬁeld AO
+montage. A cluster of consecutive images with 0.5to 2of overlap are used to create
+the wide-ﬁeld AO montage. Different imaging patterns may be used depending on the
+purpose of the imaging (Figure 3). For example, imaging of the central 3(Figure 3A) is
+useful for detecting photoreceptor changes in the fovea in early-stage maculopathy, while
+extended ﬁelds (Figure 3B–D) are required in peripheral photoreceptor diseases, such as
+retinitis pigmentosa (RP). The time required for this process is even greater for AOSLO
+systems where the ﬁeld of view can be smaller than 11in each single image. As in
+AOFIO, AOSLO devices capture multiple images from the same retinal area at the same
+time. Each image set is called a “tile”, and usually 50–150 tiles are acquired in a single
+session of imaging [ 30]. Montaging can be performed either manually by expert graders
+or automatically.
+Manual montaging is a time-consuming process through which a human expert aligns
+overlapped tiles to each other via photo editing software packages to produce the ﬁnal
+wide-ﬁeld montage image. Then, the region of interest (ROI) is selected on the montage
+image for which cone metrics will then be extracted. Automatic montaging is a feature-
+based image stitching that predicts which two images should be aligned together according
+to detected key points and descriptors. The process can take as long as minutes to hours
+based on image qualities and the applied algorithm. Many devices rely on scale invariant
+feature transform (SIFT) [ 31], but newer oriented rotated fast brief (ORB) features has been
+reported to be much faster while maintaining accuracy and the ﬁnal quality of montage
+image [30].Diagnostics 2023, 13, 2413 6 of 23
+Diagnostics 2023,  13, x FOR PEER REVIEW 6 of 24 
+ 
+ extended ﬁelds (Figure 3B–D) are required in peripheral photoreceptor diseases, such as 
+retinitis pigmentosa (RP). The time required for this process is even greater for AOSLO 
+systems where the ﬁeld of view can be smaller than 1° × 1° in each single image. As in 
+AOFIO, AOSLO devices capture multiple images  from the same retinal area at the same 
+time. Each image set is called a “tile”, and usually 50–150 tiles are acquired in a single 
+session of imaging [30]. Montaging can be performed either manually by expert graders 
+or automatically. 
+ 
+Figure 3. Examples of montage created from di ﬀerent AO image acquisit ion sequences. Overlap-
+ping images were taken to cover the central 3° from the fovea using 4 image acquisitions ( A), the 
+central 6° using 12 (B ) or 16 (C ) image acquisitions, and the extend ed imaging along the horizontal 
+and vertical meridians (up to 9° ) using 20 image acquisitions ( D). Green dots represent the foveal 
+center. 
+Manual montaging is a time-consuming process through which a human expert 
+aligns overlapped tiles to each other via phot o editing software packages to produce the 
+ﬁnal wide- ﬁeld montage image. Then, the region of interest (ROI) is selected on the mon-
+tage image for which cone metrics will then be extracted. Automatic montaging is a fea-
+ture-based image stitching that predicts which two images should be aligned together 
+according to detected key points and descriptor s. The process can take as long as minutes 
+to hours based on image qualities and the applied algorithm. Many devices rely on scale invariant feature transform (SIFT) [31], but newer oriented rotated fast brief (ORB) fea-
+tures has been reported to be much faster while maintaining accuracy and the ﬁnal quality 
+of montage image [30]. 
+3.1.2. Blood Vessel 
+Blood vessel imaging can be more challenging as there is no standard method for 
+evaluation of the retinal vessels. Like phot oreceptor imaging, an AOFIO camera can be 
+used for blood vessel imaging using a single image frame or multiple overlapping images. 
+The focus plane should be set at approxim ately 250 µm proximal to the Bruch’s mem-
+brane, which is equivalent to the retinal nerve ﬁber layer. Factors, such as distance from 
+Figure 3. Examples of montage created from different AO image acquisition sequences. Overlapping
+images were taken to cover the central 3from the fovea using 4 image acquisitions ( A), the central 6
+using 12 ( B) or 16 ( C) image acquisitions, and the extended imaging along the horizontal and vertical
+meridians (up to 9) using 20 image acquisitions (D). Green dots represent the foveal center.
+3.1.2. Blood Vessel
+Blood vessel imaging can be more challenging as there is no standard method for
+evaluation of the retinal vessels. Like photoreceptor imaging, an AOFIO camera can be
+used for blood vessel imaging using a single image frame or multiple overlapping images.
+The focus plane should be set at approximately 250 m proximal to the Bruch’s membrane,
+which is equivalent to the retinal nerve ﬁber layer. Factors, such as distance from the optic
+nerve margin and the number of bifurcations, should be taken into account when selecting
+the region of interest.
+Findings on retinal vasculature can be a potential marker for systemic vascular health.
+However, retinal vessel imaging due to a multi-plane arrangement of vessels can be
+challenging with conventional imaging modalities. Fluorescein angiography as the clinical
+gold standard for retinal vascular diseases is invasive and possesses some limitations.
+By contrast, vascular imaging using adaptive optics imaging as a non-invasive method
+can be challenging due to the lack of standard metrics and protocols. Without using any
+exogenous contrast agents, measuring the parafoveal capillary leukocyte velocity by non-
+confocal AOSLO and the use of motion contrast to create non-invasive parafoveal perfusion
+maps provides a high-resolution image of the retinal capillary network [ 32,33]. Tam et al.
+evaluated the parafoveal capillary network by capturing videos at 512 512 pixels in the
+ﬁeld-of-view range of 1.2to 2.5for 5 to 40 s [ 33]. Limitations of this method would be the
+motion artifacts and difﬁculty in detecting the slow perfusion vessels, which are in fact of
+great importance in the clinical practice [34].Diagnostics 2023, 13, 2413 7 of 23
+3.2. Image Analysis
+3.2.1. Photoreceptor
+Analysis of the photoreceptor mosaic starts with manual or automated detection and
+labeling of the cells. Though widely accepted, manual labeling is time-consuming and
+difﬁcult to use for a large set of data, especially in the presence of diminished image quality
+or a pathology [ 35,36]. Semi-automated techniques require manual correction by an experi-
+enced observer to achieve optimum results. One of the most commonly used methods is
+detecting the regional maxima (pixels with the highest values in their neighborhood) of the
+photoreceptors’ centers followed by generating Voronoi tessellation by setting edges that
+connect these points using a MATLAB-based image processing technique [ 37]. Another
+method is the use of the circle Hough transform for the detection of circular structures [ 38].
+To date, automated counting techniques have undergone signiﬁcant modiﬁcations, and
+fully automatic or deep learning algorithms are available to detect and segment photore-
+ceptors in both confocal and non-confocal AO imaging [ 39–41]. After all the steps of
+image registration, processing, or montaging are passed, images are sent to the analyzing
+software for automatic photoreceptor detection and calculation of the mean, maximum,
+and minimum of numeric values as well as percentage values and standard deviation of
+corresponding metrics in a deﬁned area. In the rtx1 camera, two software packages are pro-
+vided by the manufacturers, which are AODetect for photoreceptor analysis and AODetect
+Artery for the retinal vasculature analysis (Imagine Eyes; Orsay, Paris, France). The ROI is
+selected and deﬁned by the operator by manually moving a frame with an adjustable size
+on the ﬁnal high-resolution image. Relative to the location of the peak foveal cone density,
+which is deﬁned on the montage image, the selected size of each frame for ROI may vary
+depending on its eccentricity. The eccentricity of each region is calculated as the relative
+distance between the center of that frame and the foveal center (which is considered as the
+reference point with ﬁxation coordinates of x= 0,y= 0) and is expressed in degrees or
+micrometers [ 42]. Using algorithms based on segmentation and Delaunay triangulation,
+the location, size, and shape of cones are automatically detected, and a color-coded mosaic
+heat map can be produced in which hotter colors represent higher cone densities [ 43]. A
+cone-packing arrangement is analyzed using Voronoi diagrams [ 37]. Each Voronoi cell can
+be coded by a speciﬁc color according to the number of its neighbors, giving color-coded
+Voronoi domains [ 42]. Cones located at the edges of the selected frame, Voronoi cells of
+which are not fully within the ROI, are not considered for metric calculations (Figure 4).
+Diagnostics 2023,  13, x FOR PEER REVIEW 8 of 24 
+ 
+  
+Figure 4. AO imaging using rtx1 device ( A). The region of interest (yellow square in panel A) was 
+used for automated cone detection ( B) and segmentation ( C) by AODetect software. Cone mosaic 
+parameters are shown in (D ). The analysis was performed at superior 2° ( 2S) from the fovea. White 
+squares in panels B and C represent the analysis area. 
+The intensity of photoreceptor signals is also important while interpreting an AO ret-
+inal image. There is still debate about the exac t origin of these bright signals, which lead 
+to various waveguiding properties and the re ﬂection of cones in a mosaic map. It has been 
+stated that conditions a ﬀecting outer segment integrity and the contact of photoreceptors 
+to the RPE apical process diminish intensity of backscatt ered light from the photorecep-
+tor–RPE interface and result in lower re ﬂectivity of cones [44,45].  Further factors, which 
+have been accounted for in the cone-re ﬂectivity variation in AOSLO images, are di ﬀerent 
+segments length and diameter as well as  coherence of the light source [46,47]. 
+3.2.2. Blood Vessel 
+Internal and external boundaries of blood vessel walls may be marked manually or 
+using automated software (Figure 5). AODete ct (artery mode) provides automatic wall 
+segmentation and thickness computation with a manual adjustment. Once a point on a 
+vessel is selected manually, the system will dete ct the rest of the object by itself. Mehta et 
+al., using AODetect Artery, calculated the intra-observer variability for the wall-to-lumen 
+ratio (WLR) and the cross-sectional area of the vascular wall (WCSA) and reported an 
+excellent consistency [44]. Segmentation of the foveal avascular zone (FAZ) using a semi-
+automated procedure to extract the vessels ce nterline has been performed semi-automat-
+ically by Tam et al. based on the Frangi vesselness measure [33,45] Several deep learning 
+models for automated vessel segmentation have also been introduced [46,47]. 
+ 
+Figure 5. The internal and external vessel wall boundari es are marked automatically by the AODe-
+tect software ( A) and adjusted manually if required. The boundaries are determined based on the 
+peak signals ( B) and measurements, including lumen diamet er, total diameter, wall thicknesses, 
+wall cross-sectional area (WCSA), and wall-to-lume n ration (WLR), which are provided in microns 
+(C). 
+3.3. Outcome Measures 
+Figure 4. AO imaging using rtx1 device ( A). The region of interest (yellow square in panel ( A)) was
+used for automated cone detection ( B) and segmentation ( C) by AODetect software. Cone mosaic
+parameters are shown in ( D). The analysis was performed at superior 2(2S) from the fovea. White
+squares in panels (B,C) represent the analysis area.
+The intensity of photoreceptor signals is also important while interpreting an AO
+retinal image. There is still debate about the exact origin of these bright signals, which
+lead to various waveguiding properties and the reﬂection of cones in a mosaic map. It
+has been stated that conditions affecting outer segment integrity and the contact of pho-
+toreceptors to the RPE apical process diminish intensity of backscattered light from the
+photoreceptor–RPE interface and result in lower reﬂectivity of cones [ 44,45]. Further fac-Diagnostics 2023, 13, 2413 8 of 23
+tors, which have been accounted for in the cone-reﬂectivity variation in AOSLO images,
+are different segments length and diameter as well as coherence of the light source [ 46,47].
+3.2.2. Blood Vessel
+Internal and external boundaries of blood vessel walls may be marked manually or
+using automated software (Figure 5). AODetect (artery mode) provides automatic wall
+segmentation and thickness computation with a manual adjustment. Once a point on a
+vessel is selected manually, the system will detect the rest of the object by itself. Mehta et al.,
+using AODetect Artery, calculated the intra-observer variability for the wall-to-lumen ratio
+(WLR) and the cross-sectional area of the vascular wall (WCSA) and reported an excellent
+consistency [ 44]. Segmentation of the foveal avascular zone (FAZ) using a semi-automated
+procedure to extract the vessels centerline has been performed semi-automatically by Tam
+et al. based on the Frangi vesselness measure [ 33,45] Several deep learning models for
+automated vessel segmentation have also been introduced [46,47].
+Diagnostics 2023,  13, x FOR PEER REVIEW 8 of 24 
+ 
+  
+Figure 4. AO imaging using rtx1 device ( A). The region of interest (yellow square in panel A) was 
+used for automated cone detection ( B) and segmentation ( C) by AODetect software. Cone mosaic 
+parameters are shown in (D ). The analysis was performed at superior 2° ( 2S) from the fovea. White 
+squares in panels B and C represent the analysis area. 
+The intensity of photoreceptor signals is also important while interpreting an AO ret-
+inal image. There is still debate about the exac t origin of these bright signals, which lead 
+to various waveguiding properties and the re ﬂection of cones in a mosaic map. It has been 
+stated that conditions a ﬀecting outer segment integrity and the contact of photoreceptors 
+to the RPE apical process diminish intensity of backscatt ered light from the photorecep-
+tor–RPE interface and result in lower re ﬂectivity of cones [44,45].  Further factors, which 
+have been accounted for in the cone-re ﬂectivity variation in AOSLO images, are di ﬀerent 
+segments length and diameter as well as  coherence of the light source [46,47]. 
+3.2.2. Blood Vessel 
+Internal and external boundaries of blood vessel walls may be marked manually or 
+using automated software (Figure 5). AODete ct (artery mode) provides automatic wall 
+segmentation and thickness computation with a manual adjustment. Once a point on a 
+vessel is selected manually, the system will dete ct the rest of the object by itself. Mehta et 
+al., using AODetect Artery, calculated the intra-observer variability for the wall-to-lumen 
+ratio (WLR) and the cross-sectional area of the vascular wall (WCSA) and reported an 
+excellent consistency [44]. Segmentation of the foveal avascular zone (FAZ) using a semi-
+automated procedure to extract the vessels ce nterline has been performed semi-automat-
+ically by Tam et al. based on the Frangi vesselness measure [33,45] Several deep learning 
+models for automated vessel segmentation have also been introduced [46,47]. 
+ 
+Figure 5. The internal and external vessel wall boundari es are marked automatically by the AODe-
+tect software ( A) and adjusted manually if required. The boundaries are determined based on the 
+peak signals ( B) and measurements, including lumen diamet er, total diameter, wall thicknesses, 
+wall cross-sectional area (WCSA), and wall-to-lume n ration (WLR), which are provided in microns 
+(C). 
+3.3. Outcome Measures 
+Figure 5. The internal and external vessel wall boundaries are marked automatically by the AODetect
+software ( A) and adjusted manually if required. The boundaries are determined based on the peak
+signals ( B) and measurements, including lumen diameter, total diameter, wall thicknesses, wall
+cross-sectional area (WCSA), and wall-to-lumen ration (WLR), which are provided in microns ( C).
+3.3. Outcome Measures
+3.3.1. Photoreceptor
+Correlated metrics of the cone mosaic and their definitions are described in the following:
+Cone density is the number of deﬁned Voronoi cells divided by the total area of the
+Voronoi cells within that speciﬁc region.
+Percentage of hexagonality is the ratio of the number of Voronoi cells with six sides to
+the total number of Voronoi cells within that speciﬁc region.
+Nearest neighbor distance (NND) and farthest neighbor distance (FND) are the distance
+between the center of a single cone and its closest/farthest neighbor in the adjacent Voronoi
+cell. These metrics are reported for an ROI as the average of NDD/FND of all Voronoi cells
+within that speciﬁc region.
+Intercell distance (ICD)/cone spacing is the average distance between a single cone (the
+center of a Voronoi cell) and each of its neighbors (the center of adjacent Voronoi cell). The
+reported ICD for an ROI is the average ICD for all the Voronoi cells in that speciﬁc region.
+Number of neighbors regularity (NoNR) is the mean number of sides of all V oronoi cells in
+an ROI divided by the SD of the number of sides of all V oronoi cells in that specific region.
+Voronoi cell area regularity (VCAR) is the mean area of the bound Voronoi cells in an
+ROI divided by the SD of the area of the Voronoi cells in that speciﬁc region.
+Cone density and spacing are the most often used parameters as outcome measures in
+different retinal pathologies. The reliability and variability of the measurements vary with
+the device, location, and cone detection method. Using the commercial device (rtx1) and
+software (AODetect) and manual adjustment by two independent graders, the intrasession
+repeatability and intersession reproducibility of all cone parameters (including cone density)Diagnostics 2023, 13, 2413 9 of 23
+were reported excellent in a normal population, with the inter-operator and intergrader
+agreement greater than 95% for cone density and spacing [ 19]. Manual correction of
+AODetect labeling has increased cone density by 6% [48].
+Using a custom-built AOSLO device and cone detection software, the inter-observer
+intraclass correlation coefﬁcients (ICCs) for cone density and hexagonal Voronoi domain
+were 0.955 and 0.811 for normal eyes and 0.980 and 0.697 for eyes with RP , respectively [ 49].
+Furthermore, the reliability and repeatability of split-detector AOSLO was 95.9% and 97.3%,
+respectively, for STGD, and 88.5% and 94.5%, for RPGR-associated RP , which was greater
+compared with confocal AOSLO [ 50]. In another study focused on cAOSLO-derived
+cone spacing, ICC for the interobserver agreement was 0.838 and 0.892 in normal and
+affected eyes, respectively. The ICC for inter-visit correlation was greater than 0.869 in
+both groups [ 51]. Cone density might show higher inter-individual and intra-individual
+eccentricity-dependent variability compared to spacing and hexagonality. Hence, a combi-
+nation of all parameters is preferred over the use of a measure from the AO images [42].
+3.3.2. Blood Vessel
+Structural evaluation of retinal vasculature can be performed using several metrics.
+The wall-to-lumen ratio (WLR) and cross-sectional area of the vascular wall (WCSA) are
+common metrics for structural changes in retinal blood vessels and are calculated using
+the outer and inner diameter of a blood vessel [ 52]. Using a rtx1 camera, Meixner et al.
+measured WLR, and it was independent of the total vessel diameter and depended mainly
+on the retinal vessel wall thickness [ 53]. Evidence shows that WLR is associated with age,
+hypertension, body mass index, and the stage of retinal microvascular abnormalities [ 53–55].
+Meta-analysis on seven studies showed no signiﬁcant difference in WCSA in hypertensive
+versus normotensive patients [ 56]. Microvascular density is another metric, which is
+calculated by dividing the total length of vessels in the ROI to the area of the region. Using
+AOSLO, lower microvascular density has been observed in diabetic macular ischemia and
+retinopathy [ 57]. Moreover, the bifurcation angle in the vascular-branching, tortuosity,
+which is calculated as total squared curvature divided by the length of the vessel, and the
+acircularity index of the FAZ as calculated by the perimeter of FAZ divided by the perimeter
+of the circle with equal area have also been described as metrics in AO imaging [4–6] .
+Functional evaluation is also feasible in measuring resting ﬂow and stimulus-evoked
+changes in ﬂow [ 7]. It is possible to create measures of vascular change and use them as
+biomarkers to disease progression and evaluate treatment response by tracking capillary
+perfusion and microaneurysms longitudinally [58].
+4. AO Imaging in Diagnosing Early-Stage IRDs
+Recently, the signiﬁcant role of AO imaging has been highlighted in detecting the
+earliest changes at the cellular level in retinal diseases including dystrophies, many of
+which are detectable before clinical or pathologic ﬁndings of conventional retinal imaging
+modalities. Additionally, a better understanding of the natural course of retinal changes in
+dystrophic diseases can assist in the timely detection of patients who might be eligible for
+gene-speciﬁc intervention and in better selection of patients for clinical trials.
+4.1. Rod-Dominated Dystrophies
+Using confocal AOSLO in patients with RP , several authors reported a signiﬁcant loss
+of cones in the central retina where the outer nuclear layer (ONL), ellipsoid zone (EZ),
+and fundus autoﬂuorescence (FAF) are apparently normal [ 59,60]. In addition, cAOSLO
+of RP patients with preserved central vision showed only 1 out of 14 eyes with a normal
+cone mosaic, while 10 eyes had an irregular mosaic with large dark patches, indicating
+the disruption of the cone mosaic pattern. Cone density and the percent of the hexagonal
+Voronoi domain were signiﬁcantly different from normal eyes. Reduced cone density was
+correlated with thinner ONL and photoreceptor layers [ 49,61]. Using the rtx1 camera, a
+signiﬁcant decrease in foveal cone density has been reported in two patients with RP [ 61].Diagnostics 2023, 13, 2413 10 of 23
+Comparing ﬁndings from OCT, FAF, and AOSLO in a patient with RP , three types of
+cone mosaic phenotypes were described: normal cone mosaic in the center of the fovea,
+blurred cone mosaic ring in the parafoveal area with rapid deterioration of the cone mosaic
+from the inner to the outer edge of the ring, and cone disappearance with visible RPEs.
+A dramatic decrease in cone density was observed while the density at the blurred ring
+area was impossible to determine [ 62]. Gale and colleagues reported AOFIO ﬁndings in
+39 patients with RP using the rtx1 camera and described four stages of cone degenera-
+tion [ 63]. At wider eccentricities with a loss in the EZ band and thinned ONL on SDOCT,
+hypo-reﬂective blurred cones (stressed/dying cones) were noted on AO imaging. With
+increasing eccentricity, a mixture of hypo- and hyper-reﬂective spots with irregular spacing
+(photoreceptor cellular debris) was observed along with further thinning of the ONL. In
+areas of complete ONL loss, there were sparse hypo-reﬂective spots and no visible cones
+(RPE pigmentation) [ 63]. In a proof-of-concept study, Roshandel et al. showed that cone
+metrics are more sensitive than EZ span in detecting structural disease progression over 6
+months in rod–cone dystrophy (RCD). Cone metrics should be considered as a potential
+structural endpoint for measuring disease progression and the efﬁcacy of interventions in
+future RP clinical trials [13].
+Early structural changes were observed in female carriers of the RPGR mutation using
+AO and microperimetry. Point-wise sensitivity at 68 loci located 1to 9away from the
+preferred retinal locus and cone density at 12 loci located 1to 3away from the foveal
+center were measured and showed severe point-wise sensitivity and cone density defects
+in asymptomatic patients with normal visual acuity [ 64]. In a study of 26 individuals with
+IRDs, cone density was decreased by up to 62% below normal at or near the fovea in eyes
+with normal visual acuity and foveal sensitivity. Despite cone density measurements being
+52% below normal, visual acuity and foveal sensitivity were preserved and were negatively
+linked with cone spacing. Findings suggest that objective and direct measurements of the
+cone structure may be more sensitive predictors of disease severity than VA and foveal
+sensitivity [65].
+In ﬁve patients with biallelic Crumbs cell polarity complex component 1 (CRB1)-associated
+RP , loss of photoreceptors may be an early ﬁnding in asymptomatic patients [ 66], sup-
+porting that AO imaging may be more sensitive than conventional techniques, such as
+SD-OCT, in detecting subtle structural damage and diagnosing early-stage CRB1-associated
+retinopathy. Similarly, Sun et al. found a signiﬁcant reduction in foveal cone density in
+patients with Usher syndrome compared with patients with RP in locations with normal EZ
+and the interdigitating zone (IZ) before visual acuity changes or OCT disruptions [ 67]. A
+cross-sectional study on eight family members with novel Retinol Dehydrogenase 12 (RDH12)
+mutation showed reduced cone densities along the temporal meridian. Noticeably, one
+family member with a minimal clinical complaint and normal macular structure on SD-OCT
+showed a reduction in cone densities at all regions of interest temporal to the fovea on
+AOSLO [ 68]. Visual acuity and contrast sensitivity tests can be used to estimate the foveal
+cone function in patients with IRDs; however, contrast sensitivity appeared to be more sen-
+sitive than visual acuity in assessing the central visual function in patients with RP [69,70].
+Strong correlations between visual acuity and cone spacing have been observed [36,71]
+Cone spacing was signiﬁcantly increased in IRD patients and was correlated with visual
+acuity, foveal sensitivity, and multifocal electroretinogram (mfERG) ﬁndings [ 71,72]. Exam-
+ples of the cone mosaic in a healthy eye and patients with different stages of RP are shown
+in Figures 6and 7.Diagnostics 2023, 13, 2413 11 of 23
+Diagnostics 2023,  13, x FOR PEER REVIEW 11 of 24 
+ 
+ of the cone structure may be more sensitive predictors of disease severity than V A and 
+foveal sensitivity [65]. 
+In ﬁve patients with biallelic Crumbs cell polarity complex component 1 ( CRB1 )-associ-
+ated RP, loss of photoreceptors may be an early ﬁnding in asymptomatic patients [66], 
+supporting that AO imaging may be more sensitive than conventional techniques, such as 
+SD-OCT, in detecting subtle structural damage and diagnosing early-stage CRB1 -associ-
+ated retinopathy. Similarly, Sun et al. found a signi ﬁcant reduction in foveal cone density 
+in patients with Usher syndrome compared wi th patients with RP in locations with nor-
+mal EZ and the interdigitating zone (IZ) before visual acuity changes or OCT disruptions 
+[67]. A cross-sectional study on eight family members with novel Retinol Dehydrogenase 12  
+(RDH12 ) mutation showed reduced cone densitie s along the temporal meridian. Noticea-
+bly, one family member with a minimal clinical complaint and normal macular structure on SD-OCT showed a reduction in cone densities at all regions of interest temporal to the 
+fovea on AOSLO [68]. Visual acuity and contrast  sensitivity tests can be used to estimate 
+the foveal cone function in patients with IR Ds; however, contrast sensitivity appeared to 
+be more sensitive than visual acuity in assessing the central visual function in patients with RP [69,70]. Strong correlations between visual acuity and cone spacing have been 
+observed [36,71] Cone spacing was signi ﬁcantly increased in IRD patients and was corre-
+lated with visual acuity, foveal sensitivity, and multifocal electroretinogram (mfERG) 
+ﬁndings [71,72]. Examples of the cone mosa ic in a healthy eye and patients with di ﬀerent 
+stages of RP are shown in Figures 6 and 7. 
+ 
+Figure 6. Cone mosaic changes in RP. Automated detection of cones (red dots) with manual adjust-
+ment (green dots) shows normal cone mosaic with an eccentricity-dependent decline in cone density 
+and an increase in cone spacing ( top row ) in a healthy subject. Patients  may reveal mild perifoveal 
+mosaic alteration (second row ), parafoveal and perifoveal alteration ( third row ), and severe para-
+foveal and perifoveal alteration ( bottom row ). T = temporal; RP = retinitis pigmentosa. 
+Figure 6. Cone mosaic changes in RP . Automated detection of cones (red dots) with manual ad-
+justment (green dots) shows normal cone mosaic with an eccentricity-dependent decline in cone
+density and an increase in cone spacing ( top row ) in a healthy subject. Patients may reveal mild
+perifoveal mosaic alteration ( second row ), parafoveal and perifoveal alteration ( third row ), and
+severe parafoveal and perifoveal alteration (bottom row). T = temporal; RP = retinitis pigmentosa.
+Diagnostics 2023,  13, x FOR PEER REVIEW 12 of 24 
+ 
+  
+Figure 7. Cone density map in a 28 y/o healthy control ( A) and diﬀerent stages of RP ( B–E). Note 
+the increased cone visibility at the fovea in patients with RP  (most prominent in B), a phenomenon 
+that has been reported in these patients. 
+4.2. Cone-Dominated Diseases 
+In the se tting of mild disease in two adolescent  relatives with autosomal dominant 
+cone rod dystrophy with Guanylate Cyclase Activator 1 ( GUCA1A ) mutation, AOSLO re-
+vealed cones with diminished re ﬂectance relative to surrounding rods (described as “dark 
+cones”) possibly due to the absence of or shorter outer segments [73,74]. In a cone–rod 
+dystrophy (CRD) patient, AOFIO and AOSLO revealed large areas devoid of wave-guid-
+ing cones within the atrophic regions and abno rmally large cones in a clinically spared 
+location which were correlated with mfERG peak amplitudes [36]. In a non-syndromic 
+biallelic POC1 centriolar protein homolog B  (POC1B)  mutation in a young male, a non-spe-
+ciﬁc altered cone mosaic pa ttern with sparsely distributed cones around the central fovea 
+was observed by AOFIO. Authors suggest that  the disruption of the photoreceptor outer 
+segments with preservation of the inner segm ents may be a feature of CD or CRD related 
+to POC1B  mutations, prompting evaluation with SD-AOSLO in CD patients [75]. In other 
+studies, individuals with CRD showed increa sed cone space and decreased cone density 
+[71,76,77]. Findings of AO in patients with  enhanced S-cone syndrome include higher 
+cone density at temporal parafovea with lowe r total photoreceptor densities, diminished 
+outer segment cone receptors wave-guide signals, disrupted cone arrangement, larger 
+cone cells with dark patchy-like lesions in the macula [78,79]. In some cases, AO imaging can be very helpful to distinguish speci ﬁc photoreceptor diseases with closely shared fea-
+tures and almost the same clinical ﬁndings on standard evaluations. Moore et el. high-
+lighted this bene ﬁcial role of AOSLO in di ﬀerentiating RGS9 /R9AP -associated retinal dys-
+function (bradyopsia) (showing preserved integr ity of cone mosaic at the fovea) with oli-
+gocone trichromacy (showing sparse cone mosa ic at the fovea), both of which are similar 
+in clinical and standard ERG ﬁndings [80]. 
+4.3. Macular Dystrophies 
+4.3.1. Stargardt Disease 
+AOSLO has elucidated early changes in Stargardt disease (STGD) which begin in 
+photoreceptor outer segments spreading later to  RPE cells even in locations with normal-
+appearing OCT and fundus auto ﬂuorescence [81,82]. The earliest cone spacing abnormal-
+ity was observed in regions of homogeneous FA F, normal outer retinal structure with nor-
+mal visual function. Closer to the fovea, co ne spacing was increased with focal increased 
+FAF near the central region of atrophy. AOSLO re ﬂectivity did not correlate with the 
+quantity of lipofuscin accumulation in RPE cells. In regions of complete macular atrophy, 
+AOSLO showed bright oversaturated areas where cones were not seen, consistent with 
+SD-OCT scans revealing extensive loss in the outer retinal layers [2]. In AOSLO imaging 
+of a female with STGD, there was a lack of cone mosaic with visible RPE cells in the atrophic zone, blurred cone mosaic, and reduced visibility of photoreceptors with some 
+areas of the starry-night cone pa ttern in increased FAF peri-atrophic areas and normal 
+cone mosaic in normal FAF peri-atrophic area  along with decreased cone density from the 
+center to peripheral retina [62]. In a study on 14 cases of clinically diagnosed STGD, Raz-
+een et al. suggested that compared to ONL, EZ, or IZ integrity assessment in OCT cone 
+density measures by AO had a stronger co rrelation with retinal functional. They 
+Figure 7. Cone density map in a 28 y/o healthy control ( A) and different stages of RP ( B–E). Note the
+increased cone visibility at the fovea in patients with RP (most prominent in B), a phenomenon that
+has been reported in these patients.
+4.2. Cone-Dominated Diseases
+In the setting of mild disease in two adolescent relatives with autosomal dominant cone
+rod dystrophy with Guanylate Cyclase Activator 1 (GUCA1A) mutation, AOSLO revealed
+cones with diminished reﬂectance relative to surrounding rods (described as “dark cones”)
+possibly due to the absence of or shorter outer segments [ 73,74]. In a cone–rod dystrophy
+(CRD) patient, AOFIO and AOSLO revealed large areas devoid of wave-guiding cones
+within the atrophic regions and abnormally large cones in a clinically spared location which
+were correlated with mfERG peak amplitudes [ 36]. In a non-syndromic biallelic POC1
+centriolar protein homolog B (POC1B) mutation in a young male, a non-speciﬁc altered cone
+mosaic pattern with sparsely distributed cones around the central fovea was observed by
+AOFIO. Authors suggest that the disruption of the photoreceptor outer segments with
+preservation of the inner segments may be a feature of CD or CRD related to POC1B
+mutations, prompting evaluation with SD-AOSLO in CD patients [ 75]. In other studies,
+individuals with CRD showed increased cone space and decreased cone density [ 71,76,77].
+Findings of AO in patients with enhanced S-cone syndrome include higher cone density atDiagnostics 2023, 13, 2413 12 of 23
+temporal parafovea with lower total photoreceptor densities, diminished outer segment
+cone receptors wave-guide signals, disrupted cone arrangement, larger cone cells with
+dark patchy-like lesions in the macula [ 78,79]. In some cases, AO imaging can be very
+helpful to distinguish speciﬁc photoreceptor diseases with closely shared features and
+almost the same clinical ﬁndings on standard evaluations. Moore et el. highlighted this
+beneﬁcial role of AOSLO in differentiating RGS9/R9AP-associated retinal dysfunction
+(bradyopsia) (showing preserved integrity of cone mosaic at the fovea) with oligocone
+trichromacy (showing sparse cone mosaic at the fovea), both of which are similar in clinical
+and standard ERG ﬁndings [80].
+4.3. Macular Dystrophies
+4.3.1. Stargardt Disease
+AOSLO has elucidated early changes in Stargardt disease (STGD) which begin in
+photoreceptor outer segments spreading later to RPE cells even in locations with normal-
+appearing OCT and fundus autoﬂuorescence [ 81,82]. The earliest cone spacing abnormality
+was observed in regions of homogeneous FAF, normal outer retinal structure with normal
+visual function. Closer to the fovea, cone spacing was increased with focal increased FAF
+near the central region of atrophy. AOSLO reﬂectivity did not correlate with the quantity
+of lipofuscin accumulation in RPE cells. In regions of complete macular atrophy, AOSLO
+showed bright oversaturated areas where cones were not seen, consistent with SD-OCT
+scans revealing extensive loss in the outer retinal layers [ 2]. In AOSLO imaging of a female
+with STGD, there was a lack of cone mosaic with visible RPE cells in the atrophic zone,
+blurred cone mosaic, and reduced visibility of photoreceptors with some areas of the starry-
+night cone pattern in increased FAF peri-atrophic areas and normal cone mosaic in normal
+FAF peri-atrophic area along with decreased cone density from the center to peripheral
+retina [ 62]. In a study on 14 cases of clinically diagnosed STGD, Razeen et al. suggested that
+compared to ONL, EZ, or IZ integrity assessment in OCT cone density measures by AO
+had a stronger correlation with retinal functional. They hypothesized that the signiﬁcant
+cone loss in areas of intact EZ was attributed to the presence of abnormally enlarged rod
+photoreceptors [83].
+4.3.2. Vitelliform Macular Dystrophies (VMDs)
+As shown by cAOSLO and SD-AOSLO imaging, cone photoreceptor inner segments
+are enlarged, and cone density is reduced within clinically apparent lesions. In contrast,
+both density and appearance of cone inner segments return to normal immediately adjacent
+to the vitelliform lesion. Split-detector imaging also revealed mobile disk-like structures,
+which may represent reactive subretinal cells [ 84]. Likewise, using multimodal AO within
+macular vitelliform lesions, both cone and RPE densities were reduced below normal.
+Outside of lesions, cone and RPE densities were slightly reduced but with a high degree
+of variability across the four genes BEST1, PRPH2, IMPG1, and IMPG2 [85]. The degree
+of cone mosaic disruption in Best vitelliform macular dystrophy, although present in all
+stages, varied by the stage of the disease and was often patchy with areas of signiﬁcant
+photoreceptor disruption surrounded by areas of a contiguous photoreceptor mosaic, even
+in a patient with advanced atrophy and ﬁbrosis [86].
+4.3.3. X-Linked Retinoschisis (XLRS)
+Using a multimodal AO retinal camera (MAORI, Physical Sciences, Inc., Andover, MA),
+offset aperture imaging showed “hill and valley” topography resembling the “spoke-wheel”
+pattern typically seen in XLRS. Signiﬁcantly larger cones and increased cone diameter with
+greater eccentricity compared to healthy subjects were observed [ 87]. The authors suggest
+the larger cone diameters are due to trapped retinoschisin in the inner segment of the
+receptors. Duncan et al. explained the larger cones resulted from abnormal development
+of the fovea and chronic disruption due to intraretinal ﬂuid accumulation. These authors
+argue that if the retinoschisin accumulation was the cause, the pathologic lesions wouldDiagnostics 2023, 13, 2413 13 of 23
+not be limited to the fovea region but extend to the whole retina [ 88]. Retinal AO-OCT
+images show mottling, a possible sign of abnormalities in the ﬁrst synapse consistent with
+OPL dysfunction. Notably, even in clinically normal regions of the retina where the outer
+plexiform layer (OPL) seemed normal, AO-OCT indicated severe abnormalities at the
+OPL [ 87]. The width of the spoke-wheel retinal folds in the AO image was thinner than
+that in the fundus photographs [ 89]. Duncan et al. suggested that although cone density is
+reduced, the preservation of waveguiding cones at the fovea and eccentric macular regions
+has prognostic and therapeutic implications for XLRS patients [88].
+4.4. Choroideremia
+AOSLO imaging showed cone mosaic remains intact up to the border of retinal atrophy,
+which was abnormally heterogeneous in morphology, diameter, and density sharply at the
+border [ 90,91], as well as sharp functional transitions between healthy and degenerated
+retina found by AO microperimetry [ 92]. Subclinical widespread large RPEs with increased
+inter-center distance between the cells were observed. The presence of patches of intact
+cone photoreceptors on AO-enhanced indocyanine green (AOICG) indicate the disruption
+of the RPE blood–retinal barrier function [ 93]. Correlation between cone spacing and
+choriocapillaris ﬂow voids, and negative correlation with retinal sensitivity, may suggest
+cone degeneration accompanied by reduced choriocapillaris perfusion [ 94]. Other distinct
+features of choroideremia were lower image contrast, less well-deﬁned cone edges, and
+groups of cones with high reﬂectance relative to the surrounding cone mosaic, compared
+to healthy eyes [ 90]. Bubble-like lesions as ﬁrst described by Morgan et al. appeared as
+hyper-reﬂective spots with dark edges, which co-locate with hypo-reﬂective spots in the
+choroid in OCT [ 90,91]. Large, sparse, and remnant cone inner segments within outer
+retinal tubulations and the continuity of the ORTs with the preserved retina may suggest
+an intermediate stage of retinal degeneration in choroideremia [ 91]. Recent advancements
+in multimodal visualization of human RPEs are promising for CHM gene therapies [ 95–97].
+Table 2summarizes the ﬁndings of AO in IRDs.
+Table 2. Summary of AO imaging ﬁndings in IRDs.
+IRD TypeAO
+TechnologyFindings of AO Imaging
+Retinitis pigmentosaAOSLO,
+AOFIOSigniﬁcant cone loss in the central retina despite intact ONL,
+EZ, and normal FAF, irregular cone mosaic, lower cone density,
+decreases the percent of hexagonality, hypo-reﬂective blurred
+cones in eccentricities, increased cone spacing, visible RPE, and
+no detectable cone mosaic in areas of complete INL loss
+RPGR Female carrier AOFIOIrregular cone mosaic and decreased cone density in
+asymptomatic patients with normal visual acuity
+CRB1 AOFIO Decreased cone density despite normal visual acuity and OCT
+RDH12 AOSLO Reduced cone density along the temporal meridian
+GUCA1A AOSLOTruncated cone in outer segments, reduced cone reﬂectance
+(dark cones)
+POC1B AOFIODisruption of photoreceptor in outer segments with
+preservation of the inner segments blurred EZ and signiﬁcant
+cone mosaic disruption around the fovea
+NR2E3 (Enhanced
+S-cone syndrome)AOSLOHigher cone density at temporal parafovea with lower total
+photoreceptor densities, diminished outer segment wave-guide
+signals, disrupted cone arrangement, larger cone cells with
+dark patchy-like lesions in the macula
+RGS9/R9AP (bradyopsia) AOSLOReserved integrity of cone mosaic and cone density within the
+normal range. A small area of central hypo-reﬂective lesion of
+non-waveguiding cones with minimal decrease in peak cone
+density reported in a patientDiagnostics 2023, 13, 2413 14 of 23
+Table 2. Cont.
+IRD TypeAO
+TechnologyFindings of AO Imaging
+ABCA4 (Stargardt
+disease)AOSLODisrupted cone mosaic, decreased cone density from central to
+peripheral retina, increased cone spacing in regions with
+normal OCT and FAF, starry-night cone pattern and increased
+cone spacing in areas of increased FAF, lack of cone mosaic
+with visible RPE cells in the atrophic zone, signiﬁcant cone loss
+and abnormally enlarged rod photoreceptors despite intact EZ,
+no correlation between the quantity of lipofuscin accumulation
+in RPE cells and reﬂectivity shown in AOSLO
+VMD AOSLOReduced cone and RPE density and enlarged inner segments
+within the vitelliform lesion, reactive subretinal cells shown as
+mobile disk-like structures, patchy areas of signiﬁcant
+photoreceptor disruption surrounded by contiguous
+photoreceptor mosaic
+RS1 (XLRS)AOSLO,
+AO-OCTSpoke-wheel appearance in offset aperture imaging, increased
+cone diameter, decreased cone density, severe abnormalities at
+the OPL in AO-OCT of clinically normal regions, no detectable
+cone mosaic in areas of EZ and IZ loss
+CHM (Choroideremia)AOSLO,
+AOICG,
+AO-OCTIntact cone mosaic up to the border of retinal atrophy,
+ill-deﬁned cone edges, groups of cones with high reﬂectance
+relative to the surrounding cone mosaic, bubble-like
+hyper-reﬂective spots with dark edges, large remnants of cone
+inner segments within outer retinal tubulations, widespread
+large RPEs, choriocapillaris ﬂow voids in areas of increased
+cone spacing, disruption of RPE blood barrier in AOICG
+AO: adaptive optics, AOFIO: adaptive optics ﬂood illumination ophthalmoscopy, AO-OCT: adaptive optics
+coherence tomography, AOICG: AO-enhanced indocyanine green, AOSLO: adaptive optics scanning laser oph-
+thalmoscopy, EZ: ellipsoid zone, FAF: fundus autoﬂuorescence, ICG: indocyanine green, INL: internuclear layer,
+IZ: interdigitation zone, mfERG: multifocal electroretinogram, OCT: optical coherence tomography, OPL: outer
+plexiform layer, ONL: outer nuclear layer, RPE: retinal pigment epithelium; VMD = vitelliform macular dystrophy;
+XLRS = X-linked retinoschisis.
+5. AO imaging in Tracking the Progression of IRDs
+A longitudinal study on three patients with IRDs (two RP and one Usher) showed a
+signiﬁcant decline in cone density (9.1% per year) in sham-treated eyes compared to eyes
+treated with the ciliary neurotrophic factor (CNTF). Similar changes were observed in OCT
+but not visual acuity, visual ﬁeld, and ERG [ 3]. Cone metrics along with microperimetry
+were useful for assessing structure–function correlations in normal subjects and carriers of
+X-linked RP , at a cellular level [ 98]. In a study on RP1-associated autosomal recessive RP
+patients, Ueno et al. reported that despite the lack of cone mosaic visibility, homogenous
+residual islands of photoreceptors, in accordance with hyper-autoﬂuorescent areas in FAF,
+were seen in AO fundus images with small hypo-reﬂective clumps at the edges. The size
+and homogeneity of these areas were diminished in follow-up images over 4 years [ 99]. In
+a2.5-year follow-up of two patients with Best vitelliform macular dystrophy in regions
+directly around lesions, photoreceptor density was normal and steady [ 84]. In a longitudi-
+nal study over 21 to 29 months on 3 cases of RPE65-associated Leber congenital amaurosis
+(LCA), Kalitzeos et al. found that while there were no visualized changes in confocal
+AOSLO, non-confocal split-detection showed inner segment enlargement along with a re-
+duction in foveal cone density over time [ 100]. In AOSLO imaging of an STGD patient taken
+over 1 year, enlarging outer retinal tabulations—a suggestive sign for a more advanced
+stage of the disease—were seen as ﬁnger-like projections with central teardrop structures
+in split-detection but not confocal AO imaging. As the length of tubulation increased, the
+central teardrop-like structures, which were assumed to constitute migratory RPE cells,
+seemed to reduce in size, in line with morphologic changes in spindle-shaped RPE cells
+in later stages of degenerative changes [ 83]. AO has also been used for tracking ultra-rare
+IRDs, such as RCBTB1-associated retinopathy showing progressive irregularity or complete
+loss of cone mosaic in areas of RPE and outer retinal atrophy [ 101]. In a study on patients
+with resolved central serous chorioretinopathy, cone density was remarkably decreasedDiagnostics 2023, 13, 2413 15 of 23
+compared to normal eyes, but it signiﬁcantly increased 12 months after resolution [ 102]. In
+another study, authors reported the regeneration of cone cells 12 months after successful
+retinal detachment repair (scleral buckling) using a rtx1 AO camera [103].
+6. Limitations
+6.1. Resolution
+As previously mentioned, due to the relatively lower transverse resolution of AOFIO
+compared with AOSLO, small cones of central 2and rods are not reliably detectable by
+this technology (Figure 8B). Such a low axial resolution can decrease image contrast as
+well as the repeatability of cone density measurements in longitudinal assessments [ 104].
+Although AOSLO cameras can resolve rods and foveal cones in a very small area of the
+retina, the lengthy process of multiple frame acquisition in the macular region and the
+extensive montage required make this technology less practical in the clinical setting. It
+is also notable that regardless of image quality most rods and some foveal cones cannot
+be visualized in SD-AOSLO due to contrast issues affecting image resolution and the
+photoreceptor refractive index proﬁle [ 23]. Speckled noise in OCT imaging can also lead to
+a diminished resolution in AO-OCT, most of which can be improved using a variety of post-
+processing methods of image deblurring or more recent deep learning-based methods [ 105].
+Diagnostics 2023,  13, x FOR PEER REVIEW 16 of 24 
+ 
+  
+Figure 8. Examples of AOFIO. Normal cone mosa ic detectable in the entire imaging ﬁ eld in a normal 
+healthy retina ( A). Foveal cones are undetectable within the central 1–2° ( B). Image quality might 
+be aﬀected by visually signi ﬁcant cataract ( C,D), cystoid macular oedema ( E), or high astigmatism 
+(F). 
+6.2. Image Quality 
+AO Image quality is a ﬀected by a variety of instrument -related factors, including ac-
+quisition speed and coherence properties of the illumination source as well as the patient’s 
+ocular conditions, including refractive errors, corneal scars, cataract or prior intraocular 
+lens implantation, rapid eye movements, age- related miosis, the severity of retinal dis-
+eases, and the presence of coexisting retinal abnormalities (Figure 8C–F). Moreover, it has 
+been revealed that image quality decreases with an increasing retinal eccentricity [106]. 
+By contrast, many imaged cones may not be sharp enough to be easily detectable because 
+of their altered directionality and diminished waveguiding properties despite intact struc-
+tures [107]. Distortions and artifacts caused by  eye motions are more problematic in higher 
+magni ﬁcations and en face  planes. Though some of these distortions are correctable in 
+post-imaging processing, instruments with higher acquisition speeds that are less vulner-
+able to motion artifacts are preferred. Recently introduced AO-OCTs with 1 MHz A-scan 
+have this quali ﬁcation, but sacri ﬁcing image sensitivity at such a high speed makes a dif-
+ferent challenge, especially for the visualizat ion of inner retinal layers. So, the variety of 
+IRD patients who can e ﬀectively be imaged by AO is limited, especially in the presence of 
+concomitant ocular pathologies. Backsca ttering of light from cellular debris or other outer 
+retinal cells, such as RPEs, increases the signal-to-noise ratio and reduces the image qual-
+ity of a diseased area in these patients. To highlight the signi ﬁcance of limitations caused 
+by poor AO image quality, it is worth noting that in numerous research studies on retinal 
+diseases or even normal healthy retina, almost half of the taken AO images are reported 
+to be excluded due to image quality issues [104,108,109]. Grading image quality and dif-
+ferentiation of low-quality images due to op tical reasons from path ology-related mosaic 
+disruption is a major challeng e based on our observations [106]. Although an experienced 
+observer can di ﬀerentiate these two entities in most instances, mild optical distortions 
+may not be detected and can be a ttributed to retinal pathology [13]. Hence, cautious inter-
+pretation of cone metrics should be considered in the presence of mild optical barriers, 
+Figure 8. Examples of AOFIO. Normal cone mosaic detectable in the entire imaging ﬁeld in a normal
+healthy retina ( A). Foveal cones are undetectable within the central 1–2(B). Image quality might be
+affected by visually signiﬁcant cataract (C,D), cystoid macular oedema (E), or high astigmatism (F).
+6.2. Image Quality
+AO Image quality is affected by a variety of instrument-related factors, including ac-
+quisition speed and coherence properties of the illumination source as well as the patient’s
+ocular conditions, including refractive errors, corneal scars, cataract or prior intraocular
+lens implantation, rapid eye movements, age-related miosis, the severity of retinal diseases,
+and the presence of coexisting retinal abnormalities (Figure 8C–F). Moreover, it has been
+revealed that image quality decreases with an increasing retinal eccentricity [ 106]. By
+contrast, many imaged cones may not be sharp enough to be easily detectable because of
+their altered directionality and diminished waveguiding properties despite intact struc-Diagnostics 2023, 13, 2413 16 of 23
+tures [ 107]. Distortions and artifacts caused by eye motions are more problematic in higher
+magniﬁcations and en face planes. Though some of these distortions are correctable in post-
+imaging processing, instruments with higher acquisition speeds that are less vulnerable to
+motion artifacts are preferred. Recently introduced AO-OCTs with 1 MHz A-scan have this
+qualiﬁcation, but sacriﬁcing image sensitivity at such a high speed makes a different chal-
+lenge, especially for the visualization of inner retinal layers. So, the variety of IRD patients
+who can effectively be imaged by AO is limited, especially in the presence of concomitant
+ocular pathologies. Backscattering of light from cellular debris or other outer retinal cells,
+such as RPEs, increases the signal-to-noise ratio and reduces the image quality of a diseased
+area in these patients. To highlight the signiﬁcance of limitations caused by poor AO image
+quality, it is worth noting that in numerous research studies on retinal diseases or even
+normal healthy retina, almost half of the taken AO images are reported to be excluded
+due to image quality issues [ 104,108,109]. Grading image quality and differentiation of
+low-quality images due to optical reasons from pathology-related mosaic disruption is
+a major challenge based on our observations [ 106]. Although an experienced observer
+can differentiate these two entities in most instances, mild optical distortions may not be
+detected and can be attributed to retinal pathology [ 13]. Hence, cautious interpretation of
+cone metrics should be considered in the presence of mild optical barriers, such as cataract,
+astigmatism, or inner retinal pathologies, which do not contraindicate with taking images
+of fairly good quality but might affect the results.
+6.3. Localization
+Accurate localization of the region of interest (ROI) is critical in retinal image analysis.
+Enhanced magniﬁcation of AO imaging results in a very small ﬁeld of view, which creates
+a challenge for the precise localization of the ROI. Since the AO ﬁxation point may not
+coincide with other retinal center landmarks that are more reliable, relying on the distance
+from the AO ﬁxation point may cause errors in ROI localization. Our recent study showed
+a signiﬁcant shift in the AO montage center in relation to the preferred retinal locus and
+foveal pit center, which could result in cone mosaic measurement errors [ 110]. Retinal
+vasculature is the most used landmark for aligning the AO montage with standard en face
+retinal images, such as near-infrared reﬂectance (IR) or fundus autoﬂuorescence images.
+The IR + OCT module can be very useful in precise localization of the foveal pit center,
+which then can be marked on the IR image and used as a reference for AO alignment.
+Location of the preferred retinal locus can be determined by aligning the AO montage with
+the SLO image provided by microperimeters, such as MAIA; although, the SLO images
+might be distorted, thus preventing accurate alignment [110].
+Other authors have attempted to overcome this limitation by conjugating a wide-ﬁeld
+line-scanning ophthalmoscope and a closed-loop optical retinal tracker with AOSLO [ 111].
+By further efforts toward implementing stabilization systems with digital registration [ 112]
+in optical eye tracking and hybrid tracking, AOSLO has provided real-time stabilization
+with the ability to correct high-amplitude low-frequency drifts of the eye in a wider ﬁeld
+of view [ 113]. The importance of accurate localization and sequential image alignment
+is highlighted in follow-up visits and longitudinal assessments for patient tracking. Us-
+ing modules with registration strategies, such as OCTs with intensity-based volumetric
+registration, spherical mapping of the surface, fovea alignment, or even point-to-point
+correspondence by in-exact matching of surface currents and landmarks on en face OCT,
+can be very helpful in this regard [114,115].
+6.4. Structure–Function Correlation
+To take full advantage of the AO imaging technology in the diagnosis and monitoring
+of IRDs, one has to consider incorporation and correlation of functional mapping with a
+photoreceptor mosaic. Prior studies have conﬁrmed the strong structure–function corre-
+lation of photoreceptors in retinal diseases and speciﬁc IRDs [ 116,117] while others have
+shown dissociation of function and structure at the fovea in healthy retinae [ 98] and retinalDiagnostics 2023, 13, 2413 17 of 23
+pathologies [ 66,118,119]. Correlating photoreceptor mosaic properties with localized retinal
+function might be hindered by challenges in accurate co-localization of the ROIs used for
+the two measurements [ 64,110] and a lack of consistent relationship between photoreceptor
+measurements and retinal sensitivity across the macula [ 98]. The latter might be explained
+by the fact that in normal retina, the retinal light sensitivity is determined by the size of
+the receptive ﬁeld of the retinal ganglion cells rather than the density or spacing of the
+photoreceptors [ 120]. However, a relationship between retinal sensitivity loss and photore-
+ceptor degeneration has been reported in different retinal pathologies [ 116,117,121]. AO
+microperimetry (AOMP) is a new technology that incorporates AOSLO and microperimetry
+to map photoreceptor mosaic and retinal sensitivity simultaneously. AOMP can be very
+useful in the assessment of structure–function correlation at a cellular level in healthy and
+diseased retinae [92,122–124].
+6.5. Cone Matching and Follow-Up Imaging
+Short-term and long-term variations in cone reﬂectivity and dysﬂective cones have
+been noted in normal subjects with no known ocular disease [ 125,126]. It has been proposed
+that the changes in the reﬂectivity of cones are either the result of altered molecular and
+biological processes, such as phototransduction, or changes in outer segment length, which
+acts as a biological interferometer [ 127,128]. In addition, ﬁndings of our prior research
+have shown that overlapping images that cover the region of interest but were taken with
+different ﬁxation coordinates may vary signiﬁcantly in terms of image quality and cone
+metrics [ 13]. Although current technology enables follow-up examinations on the same
+ROI, the accuracy of automated ROI detection might be affected by a shift in the ﬁxation
+point and/or change in retinal vascular pattern due to pathology. Hence, we recommend
+alignment of the AO montage with en face retinal scan to localize the ROI precisely.
+6.6. Special Considerations in Patients with RP
+Photoreceptor mosaic parameters are gaining popularity as structural endpoints in RP
+clinical trials, though improvements in imaging and image analysis protocols are required.
+The most important challenge facing the use of AO imaging in patients with RP is the
+frequent ocular co-morbidities, such as cataract (or history of cataract surgery), macular
+edema, high refractive errors, outer retinal atrophy, and epiretinal membrane and ﬁxation
+instability that reduce the image quality and affect mosaic visualization (Figure 8C–F).
+Feasibility of AO imaging may vary with the properties of the patient cohort. For example,
+we reported that 80% of patients met one or more exclusion criteria and were not eligible
+for AO imaging [ 13]. However, other studies reported higher feasibility rates [ 63]. In
+addition, the development of new or the progression of an existing lens opacity or cystoid
+macular edema during the follow-up period are likely, which can reduce image quality
+and alter mosaic properties artifactually. The differentiation of actual photoreceptor mosaic
+changes due to disease progression from diminished image quality can be very challenging
+in these cases.
+7. Conclusions
+Overall, AO imaging remains a viable and potentially useful tool for early diagnosis
+and monitoring disease progression in IRDs. Using cone metrics as structural endpoints
+may help with an earlier detection of the efﬁcacy of neuroprotective interventions in
+halting disease progression. More interestingly, AO imaging was useful in detecting
+disease progression in patients with RP and no obvious outer retinal defect on SD-OCT.
+Considering that in a group of IRDs, including RP , clinically signiﬁcant visual loss tends to
+occur after foveal involvement, the early ﬁndings of AO in the foveal region can provide an
+early signal for the safety and efﬁcacy of interventions for IRDs. Upon further validation,
+AO imaging has the potential to revolutionize structural outcome measures used in future
+clinical trials on RP and other IRDs. Lack of standard image acquisition and analysis
+protocols is one of the main issues that should be addressed in future studies using AODiagnostics 2023, 13, 2413 18 of 23
+retinal cameras. While imaging of the temporal retina along the horizontal meridian may
+be a good option for monitoring disease progression in RP , central images can be more
+useful in detecting parafoveal photoreceptor mosaic changes at early stages of macular
+disorders or generalized retinopathies.
+Author Contributions: Conceptualization, D.R. and F.K.C.; methodology, H.A., M.F. and K.H.;
+writing—original draft preparation, H.A., M.F., K.H., A.M. and S.J.; writing—review and editing,
+K.H., D.R. and F.K.C.; supervision, D.R. and F.K.C.; funding acquisition, F.K.C. All authors have read
+and agreed to the published version of the manuscript.
+Funding: This research was funded in whole or part by the National Health and Medical Research
+Council [GNT1116360; GNT1188694; GNT1054712; and MRF1142962]. For the purposes of open ac-
+cess, the author has applied for a CC BY public copyright license to any Author Accepted Manuscript
+version arising from this submission.
+Institutional Review Board Statement: Not applicable.
+Informed Consent Statement: Not applicable.
+Data Availability Statement: Not applicable.
+Conﬂicts of Interest: The authors declare no conﬂict of interest.
+References
+1. Liang, J.; Williams, D.R.; Miller, D.T. Supernormal vision and high-resolution retinal imaging through adaptive optics. J. Opt. Soc.
+Am. A Opt. Image Sci. Vis. 1997, 14, 2884–2892. [CrossRef] [PubMed]
+2. Chen, Y.; Roorda, A.; Duncan, J.L. Advances in imaging of Stargardt disease. Adv. Exp. Med. Biol. 2010 ,664, 333–340. [CrossRef]
+3. Talcott, K.E.; Ratnam, K.; Sundquist, S.M.; Lucero, A.S.; Lujan, B.J.; Tao, W.; Porco, T.C.; Roorda, A.; Duncan, J.L. Longitudinal
+study of cone photoreceptors during retinal degeneration and in response to ciliary neurotrophic factor treatment. Investig.
+Ophthalmol. Vis. Sci. 2011, 52, 2219–2226. [CrossRef] [PubMed]
+4. Hillard, J.G.; Gast, T.J.; Chui, T.Y.; Sapir, D.; Burns, S.A. Retinal arterioles in hypo-, normo-, and hypertensive subjects measured
+using adaptive optics. Transl. Vis. Sci. Technol. 2016, 5, 16. [CrossRef] [PubMed]
+5. Luo, T.; Gast, T.J.; Vermeer, T.J.; Burns, S.A. Retinal vascular branching in healthy and diabetic subjects. Investig. Ophthalmol. Vis.
+Sci.2017, 58, 2685–2694. [CrossRef] [PubMed]
+6. Tam, J.; Dhamdhere, K.P .; Tiruveedhula, P .; Manzanera, S.; Barez, S.; Bearse, M.A.; Adams, A.J.; Roorda, A. Disruption of the
+retinal parafoveal capillary network in type 2 diabetes before the onset of diabetic retinopathy. Investig. Ophthalmol. Vis. Sci. 2011 ,
+52, 9257–9266. [CrossRef]
+7. Kurokawa, K.; Liu, Z.; Miller, D.T. Adaptive optics optical coherence tomography angiography for morphometric analysis of
+choriocapillaris. Biomed. Opt. Express 2017, 8, 1803–1822. [CrossRef]
+8. Heath Jeffery, R.C.; Mukhtar, S.A.; McAllister, I.L.; Morgan, W.H.; Mackey, D.A.; Chen, F.K. Inherited retinal diseases are the most
+common cause of blindness in the working-age population in Australia. Ophthalmic Genet. 2021, 42, 431–439. [CrossRef]
+9. Newton, F.; Megaw, R. Mechanisms of Photoreceptor Death in Retinitis Pigmentosa. Genes 2020, 11, 1120. [CrossRef]
+10. Ciulla, T.A.; Hussain, R.M.; Berrocal, A.M.; Nagiel, A. Voretigene neparvovec-rzyl for treatment of RPE65-mediated inherited
+retinal diseases: A model for ocular gene therapy development. Expert Opin. Biol. Ther. 2020, 20, 565–578. [CrossRef]
+11. Cehajic-Kapetanovic, J.; Xue, K.; Martinez-Fernandez de la Camara, C.; Nanda, A.; Davies, A.; Wood, L.J.; Salvetti, A.P .; Fischer,
+M.D.; Aylward, J.W.; Barnard, A.R.; et al. Initial results from a ﬁrst-in-human gene therapy trial on X-linked retinitis pigmentosa
+caused by mutations in RPGR. Nat. Med. 2020, 26, 354–359. [CrossRef] [PubMed]
+12. Liu, X.; Lillywhite, J.; Zhu, W.; Huang, Z.; Clark, A.M.; Gosstola, N.; Maguire, C.T.; Dykxhoorn, D.; Chen, Z.Y.; Yang, J. Generation
+and Genetic Correction of USH2A c.2299delG Mutation in Patient-Derived Induced Pluripotent Stem Cells. Genes 2021 ,12, 805.
+[CrossRef] [PubMed]
+13. Roshandel, D.; Heath Jeffery, R.C.; Charng, J.; Sampson, D.M.; McLenachan, S.; Mackey, D.A.; Chen, F.K. Short-Term Parafoveal
+Cone Loss Despite Preserved Ellipsoid Zone in Rod Cone Dystrophy. Transl. Vis. Sci. Technol. 2021 ,10, 11. [CrossRef] [PubMed]
+14. Babcock, H.W. The Possibility of Compensating Astronomical Seeing. Publ. Astron. Soc. Pac. 1953, 65, 8. [CrossRef]
+15. Liu, L.; Wu, Z.; Qi, M.; Li, Y.; Zhang, M.; Liao, D.; Gao, P . Application of Adaptive Optics in Ophthalmology. Photonics 2022 ,9,
+288. [CrossRef]
+16. Hofer, H.; Sredar, N.; Queener, H.; Li, C.; Porter, J. Wavefront sensorless adaptive optics ophthalmoscopy in the human eye. Opt.
+Express 2011, 19, 14160–14171. [CrossRef]
+17. Tumahai, P .; Moureaux, C.; Meillat, M.; Debellemaniere, G.; Flores, M.; Delbosc, B.; Saleh, M. High-resolution imaging of
+photoreceptors in healthy human eyes using an adaptive optics retinal camera. Eye2018, 32, 1723–1730. [CrossRef]
+18. Salmon, A.E.; Cooper, R.F.; Langlo, C.S.; Baghaie, A.; Dubra, A.; Carroll, J. An automated reference frame selection (ARFS)
+algorithm for cone imaging with adaptive optics scanning light ophthalmoscopy. Transl. Vis. Sci. Technol. 2017, 6, 9. [CrossRef]Diagnostics 2023, 13, 2413 19 of 23
+19. Bidaut Garnier, M.; Flores, M.; Debellemanière, G.; Puyraveau, M.; Tumahai, P .; Meillat, M.; Schwartz, C.; Montard, M.; Delbosc,
+B.; Saleh, M. Reliability of cone counts using an adaptive optics retinal camera. Clin. Exp. Ophthalmol. 2014 ,42, 833–840. [CrossRef]
+20. Lombardo, M.; Lombardo, G.; Ducoli, P .; Serrao, S. Adaptive optics photoreceptor imaging. Ophthalmology 2012 ,119, 1498–1498.e2.
+[CrossRef]
+21. Muthiah, M.N.; Gias, C.; Chen, F.K.; Zhong, J.; McClelland, Z.; Sallo, F.B.; Peto, T.; Coffey, P .J.; da Cruz, L. Cone photoreceptor
+deﬁnition on adaptive optics retinal imaging. Br. J. Ophthalmol. 2014, 98, 1073–1079. [CrossRef] [PubMed]
+22. Zhang, B.; Li, N.; Kang, J.; He, Y.; Chen, X.-M. Adaptive optics scanning laser ophthalmoscopy in fundus imaging, a review and
+update. Int. J. Ophthalmol. 2017, 10, 1751. [PubMed]
+23. Scoles, D.; Sulai, Y.N.; Langlo, C.S.; Fishman, G.A.; Curcio, C.A.; Carroll, J.; Dubra, A. In vivo imaging of human cone photorecep-
+tor inner segments. Investig. Ophthalmol. Vis. Sci. 2014, 55, 4244–4251. [CrossRef] [PubMed]
+24. Fernandez, E.; Drexler, W. Inﬂuence of ocular chromatic aberration and pupil size on transverse resolution in ophthalmic adaptive
+optics optical coherence tomography. Opt. Express 2005, 13, 8184–8197. [CrossRef] [PubMed]
+25. Reumueller, A.; Wassermann, L.; Salas, M.; Schranz, M.; Hacker, V .; Mylonas, G.; Sacu, S.; Drexler, W.; Pircher, M.; Schmidt-Erfurth,
+U.; et al. Three-dimensional composition of the photoreceptor cone layers in healthy eyes using adaptive-optics optical coherence
+tomography (AO-OCT). PLoS ONE 2021, 16, e0245293. [CrossRef]
+26. Zhang, Y.; Rha, J.; Jonnal, R.; Miller, D. Adaptive optics parallel spectral domain optical coherence tomography for imaging the
+living retina. Opt. Express 2005, 13, 4792–4811. [CrossRef]
+27. Cense, B.; Gao, W.; Brown, J.M.; Jones, S.M.; Jonnal, R.S.; Mujat, M.; Park, B.H.; de Boer, J.F.; Miller, D.T. Retinal imaging with
+polarization-sensitive optical coherence tomography and adaptive optics. Opt. Express 2009, 17, 21634–21651. [CrossRef]
+28. Torti, C.; Povazay, B.; Hofer, B.; Unterhuber, A.; Carroll, J.; Ahnelt, P .K.; Drexler, W. Adaptive optics optical coherence tomography
+at 120,000 depth scans/s for non-invasive cellular phenotyping of the living human retina. Opt. Express 2009 ,17, 19382–19400.
+[CrossRef]
+29. Wong, K.S.; Jian, Y.; Cua, M.; Bonora, S.; Zawadzki, R.J.; Sarunic, M.V . In vivo imaging of human photoreceptor mosaic with
+wavefront sensorless adaptive optics optical coherence tomography. Biomed. Opt. Express 2015, 6, 580–590. [CrossRef]
+30. Davidson, B.; Kalitzeos, A.; Carroll, J.; Dubra, A.; Ourselin, S.; Michaelides, M.; Bergeles, C. Fast adaptive optics scanning light
+ophthalmoscope retinal montaging. Biomed. Opt. Express 2018, 9, 4317–4328. [CrossRef]
+31. Lowe, D.G. Distinctive image features from scale-invariant keypoints. Int. J. Comput. Vis. 2004, 60, 91–110. [CrossRef]
+32. Martin, J.A.; Roorda, A. Direct and noninvasive assessment of parafoveal capillary leukocyte velocity. Ophthalmology 2005 ,112,
+2219–2224. [CrossRef]
+33. Tam, J.; Martin, J.A.; Roorda, A. Noninvasive visualization and analysis of parafoveal capillaries in humans. Investig. Ophthalmol.
+Vis. Sci. 2010, 51, 1691–1698. [CrossRef] [PubMed]
+34. Chui, T.Y.P .; Mo, S.; Krawitz, B.; Menon, N.R.; Choudhury, N.; Gan, A.; Razeen, M.; Shah, N.; Pinhas, A.; Rosen, R.B. Human
+retinal microvascular imaging using adaptive optics scanning light ophthalmoscopy. Int. J. Retin. Vitr. 2016 ,2, 11. [CrossRef]
+[PubMed]
+35. Carroll, J.; Neitz, M.; Hofer, H.; Neitz, J.; Williams, D.R. Functional photoreceptor loss revealed with adaptive optics: An alternate
+cause of color blindness. Proc. Natl. Acad. Sci. USA 2004, 101, 8461–8466. [CrossRef] [PubMed]
+36. Wolfing, J.I.; Chung, M.; Carroll, J.; Roorda, A.; Williams, D.R. High-resolution retinal imaging of cone-rod dystrophy . Ophthalmology
+2006, 113, 1019.e1. [CrossRef]
+37. Li, K.Y.; Roorda, A. Automated identiﬁcation of cone photoreceptors in adaptive optics retinal images. J. Opt. Soc. Am. A Opt.
+Image Sci. Vis. 2007, 24, 1358–1363. [CrossRef]
+38. Bukowska, D.M.; Chew, A.L.; Huynh, E.; Kashani, I.; Wan, S.L.; Wan, P .M.; Chen, F.K. Semi-automated identiﬁcation of cones in
+the human retina using circle Hough transform. Biomed. Opt. Express 2015, 6, 4676–4693. [CrossRef]
+39. Chiu, S.J.; Lokhnygina, Y.; Dubis, A.M.; Dubra, A.; Carroll, J.; Izatt, J.A.; Farsiu, S. Automatic cone photoreceptor segmentation
+using graph theory and dynamic programming. Biomed. Opt. Express 2013, 4, 924–937. [CrossRef]
+40. Liu, J.; Dubra, A.; Tam, J. A fully automatic framework for cell segmentation on non-confocal adaptive optics images. In
+Proceedings of the Medical Imaging 2016: Computer-Aided Diagnosis, San Diego, CA, USA, 27 February–3 March 2016;
+pp. 654–660.
+41. Hamwood, J.; Alonso-Caneiro, D.; Sampson, D.M.; Collins, M.J.; Chen, F.K. Automatic Detection of Cone Photoreceptors With
+Fully Convolutional Networks. Transl. Vis. Sci. Technol. 2019, 8, 10. [CrossRef]
+42. Lombardo, M.; Serrao, S.; Ducoli, P .; Lombardo, G. Eccentricity dependent changes of density, spacing and packing arrangement
+of parafoveal cones. Ophthalmic Physiol. Opt. J. Br. Coll. Ophthalmic Opt. (Optom.) 2013, 33, 516–526. [CrossRef] [PubMed]
+43. Zaleska-Zmijewska, A.; Wawrzyniak, Z.M.; Ulinska, M.; Szaﬂik, J.; Dabrowska, A.; Szaﬂik, J.P . Human photoreceptor cone
+density measured with adaptive optics technology (rtx1 device) in healthy eyes: Standardization of measurements. Medicine 2017 ,
+96, e7300. [CrossRef] [PubMed]
+44. Mehta, R.A.; Akkali, M.C.; Jayadev, C.; Anuj, A.; Yadav, N.K. Morphometric analysis of retinal arterioles in control and
+hypertensive population using adaptive optics imaging. Indian J. Ophthalmol. 2019, 67, 1673–1677. [CrossRef]
+45. Frangi, A.F.; Niessen, W.J.; Vincken, K.L.; Viergever, M.A. Multiscale vessel enhancement ﬁltering. In Medical Image Computing
+and Computer-Assisted Intervention—MICCAI’98: First International Conference, Cambridge, MA, USA, 11–13 October 1998; Springer:
+Berlin/Heidelberg, Germany, 1998.Diagnostics 2023, 13, 2413 20 of 23
+46. Zhang, Q.; Sampani, K.; Xu, M.; Cai, S.; Deng, Y.; Li, H.; Sun, J.K.; Karniadakis, G.E. AOSLO-net: A Deep Learning-Based Method
+for Automatic Segmentation of Retinal Microaneurysms From Adaptive Optics Scanning Laser Ophthalmoscopy Images. Transl.
+Vis. Sci. Technol. 2022, 11, 7. [CrossRef] [PubMed]
+47. Le, C.T.; Wang, D.; Villanueva, R.; Liu, Z.; Hammer, D.X.; Tao, Y.; Saeedi, O.J. Novel Application of Long Short-Term Memory
+Network for 3D to 2D Retinal Vessel Segmentation in Adaptive Optics—Optical Coherence Tomography Volumes. Appl. Sci.
+2021, 11, 9475. [CrossRef]
+48. Legras, R.; Gaudric, A.; Woog, K. Distribution of cone density, spacing and arrangement in adult healthy retinas with adaptive
+optics ﬂood illumination. PLoS ONE 2018, 13, e0191141. [CrossRef]
+49. Makiyama, Y.; Ooto, S.; Hangai, M.; Takayama, K.; Uji, A.; Oishi, A.; Ogino, K.; Nakagawa, S.; Yoshimura, N. Macular cone
+abnormalities in retinitis pigmentosa with preserved central vision using adaptive optics scanning laser ophthalmoscopy. PLoS
+ONE 2013, 8, e79447. [CrossRef]
+50. Tanna, P .; Kasilian, M.; Strauss, R.; Tee, J.; Kalitzeos, A.; Tarima, S.; Visotcky, A.; Dubra, A.; Carroll, J.; Michaelides, M. Reliability
+and Repeatability of Cone Density Measurements in Patients With Stargardt Disease and RPGR-Associated Retinopathy. Investig.
+Ophthalmol. Vis. Sci. 2017, 58, 3608–3615. [CrossRef]
+51. Zayit-Soudry, S.; Sippl-Swezey, N.; Porco, T.C.; Lynch, S.K.; Syed, R.; Ratnam, K.; Menghini, M.; Roorda, A.J.; Duncan, J.L.
+Repeatability of Cone Spacing Measures in Eyes With Inherited Retinal Degenerations. Investig. Ophthalmol. Vis. Sci. 2015 ,56,
+6179–6189. [CrossRef]
+52. Mc Glacken-Byrne, A.B.; Prentice, D.; Roshandel, D.; Brown, M.R.; Tuch, P .; Yau, K.S.; Sivadorai, P .; Davis, M.R.; Laing, N.G.;
+Chen, F.K. High-resolution iris and retinal imaging in multisystemic smooth muscle dysfunction syndrome due to a novel
+Asn117Lys substitution in ACTA2: A case report. BMC Ophthalmol. 2020, 20, 68. [CrossRef]
+53. Meixner, E.; Michelson, G. Measurement of retinal wall-to-lumen ratio by adaptive optics retinal camera: A clinical research.
+Graefes Arch Clin. Exp. Ophthalmol. 2015, 253, 1985–1995. [CrossRef] [PubMed]
+54. Koch, E.; Rosenbaum, D.; Brolly, A.; Sahel, J.A.; Chaumet-Riffaud, P .; Girerd, X.; Rossant, F.; Paques, M. Morphometric analysis of
+small arteries in the human retina using adaptive optics imaging: Relationship with blood pressure and focal vascular changes.
+J. Hypertens. 2014, 32, 890–898. [CrossRef]
+55. Arichika, S.; Uji, A.; Ooto, S.; Muraoka, Y.; Yoshimura, N. Effects of age and blood pressure on the retinal arterial wall, analyzed
+using adaptive optics scanning laser ophthalmoscopy. Sci. Rep. 2015, 5, 12283. [CrossRef] [PubMed]
+56. Bakker, E.; Dikland, F.A.; van Bakel, R.; De Jesus, D.A.; Sanchez Brea, L.; Klein, S.; van Walsum, T.; Rossant, F.; Farias, D.C.; Grieve,
+K.; et al. Adaptive optics ophthalmoscopy: A systematic review of vascular biomarkers. Surv. Ophthalmol. 2022 ,67, 369–387.
+[CrossRef] [PubMed]
+57. Nesper, P .L.; Scarinci, F.; Fawzi, A.A. Adaptive Optics Reveals Photoreceptor Abnormalities in Diabetic Macular Ischemia. PLoS
+ONE 2017, 12, e0169926. [CrossRef]
+58. Michaelides, M.; Kaines, A.; Hamilton, R.D.; Fraser-Bell, S.; Rajendram, R.; Quhill, F.; Boos, C.J.; Xing, W.; Egan, C.; Peto, T.; et al.
+A prospective randomized trial of intravitreal bevacizumab or laser therapy in the management of diabetic macular edema (BOLT
+study) 12-month data: Report 2. Ophthalmology 2010, 117, 1078–1086.e2. [CrossRef]
+59. Menghini, M.; Lujan, B.J.; Zayit-Soudry, S.; Syed, R.; Porco, T.C.; Bayabo, K.; Carroll, J.; Roorda, A.; Duncan, J.L. Correlation
+of outer nuclear layer thickness with cone density values in patients with retinitis pigmentosa and healthy subjects. Investig.
+Ophthalmol. Vis. Sci. 2014, 56, 372–381. [CrossRef]
+60. Park, S.P .; Lee, W.; Bae, E.J.; Greenstein, V .; Sin, B.H.; Chang, S.; Tsang, S.H. Early structural anomalies observed by high-resolution
+imaging in two related cases of autosomal-dominant retinitis pigmentosa. Ophthalmic Surg. Lasers Imaging Retin. 2014 ,45, 469–473.
+[CrossRef]
+61. Tojo, N.; Nakamura, T.; Fuchizawa, C.; Oiwake, T.; Hayashi, A. Adaptive optics fundus images of cone photoreceptors in the
+macula of patients with retinitis pigmentosa. Clin. Ophthalmol. 2013, 7, 203–210. [CrossRef]
+62. Ochinciuc, R.; Ochinciuc, U.; Balta, G.; Al Barri, L.; Pac, C.; Adrian, T.; Balta, F.; Burcea, M. High-resolution images in macular
+disorders. Rom. J. Ophthalmol. 2021, 65, 204–211. [CrossRef]
+63. Gale, M.J.; Feng, S.; Titus, H.E.; Smith, T.B.; Pennesi, M.E. Interpretation of Flood-Illuminated Adaptive Optics Images in Subjects
+with Retinitis Pigmentosa. Adv. Exp. Med. Biol. 2016, 854, 291–297. [CrossRef]
+64. Roshandel, D.; Lamey, T.M.; Charng, J.; Heath Jeffery, R.C.; McLaren, T.L.; Thompson, J.A.; De Roach, J.N.; McLenachan, S.;
+Mackey, D.A.; Chen, F.K. Microperimetry and Adaptive Optics Imaging Reveal Localized Functional and Structural Changes in
+Asymptomatic RPGR Mutation Carriers. Investig. Ophthalmol. Vis. Sci. 2023, 64, 3. [CrossRef] [PubMed]
+65. Ratnam, K.; Carroll, J.; Porco, T.C.; Duncan, J.L.; Roorda, A. Relationship between foveal cone structure and clinical measures of
+visual function in patients with inherited retinal degenerations. Investig. Ophthalmol. Vis. Sci. 2013 ,54, 5836–5847. [CrossRef ]
+[PubMed]
+66. Roshandel, D.; Thompson, J.A.; Heath Jeffery, R.C.; Sampson, D.M.; Chelva, E.; McLaren, T.L.; Lamey, T.M.; De Roach, J.N.;
+Durkin, S.R.; Chen, F.K. Multimodal Retinal Imaging and Microperimetry Reveal a Novel Phenotype and Potential Trial End
+Points in CRB1-Associated Retinopathies. Transl. Vis. Sci. Technol. 2021, 10, 38. [CrossRef] [PubMed]
+67. Sun, L.W.; Johnson, R.D.; Langlo, C.S.; Cooper, R.F.; Razeen, M.M.; Russillo, M.C.; Dubra, A.; Connor, T.B., Jr.; Han, D.P .; Pennesi,
+M.E.; et al. Assessing Photoreceptor Structure in Retinitis Pigmentosa and Usher Syndrome. Investig. Ophthalmol. Vis. Sci. 2016 ,
+57, 2428–2442. [CrossRef]Diagnostics 2023, 13, 2413 21 of 23
+68. Muthiah, M.N.; Kalitzeos, A.; Oprych, K.; Singh, N.; Georgiou, M.; Wright, G.A.; Robson, A.G.; Arno, G.; Khan, K.; Michaelides,
+M. Novel disease-causing variant in RDH12 presenting with autosomal dominant retinitis pigmentosa. Br. J. Ophthalmol. 2022 ,
+106, 1274–1281. [CrossRef]
+69. Lindberg, C.R.; Fishman, G.A.; Anderson, R.J.; Vasquez, V . Contrast sensitivity in retinitis pigmentosa. Br. J. Ophthalmol. 1981 ,65,
+855–858. [CrossRef]
+70. Akeo, K.; Hiida, Y.; Saga, M.; Inoue, R.; Oguchi, Y. Correlation between contrast sensitivity and visual acuity in retinitis
+pigmentosa patients. Ophthalmologica 2002, 216, 185–191. [CrossRef]
+71. Choi, S.S.; Doble, N.; Hardy, J.L.; Jones, S.M.; Keltner, J.L.; Olivier, S.S.; Werner, J.S. In vivo imaging of the photoreceptor mosaic
+in retinal dystrophies and correlations with visual function. Investig. Ophthalmol. Vis. Sci. 2006, 47, 2080–2092. [CrossRef]
+72. Duncan, J.L.; Zhang, Y.; Gandhi, J.; Nakanishi, C.; Othman, M.; Branham, K.E.; Swaroop, A.; Roorda, A. High-resolution imaging
+with adaptive optics in patients with inherited retinal degeneration. Investig. Ophthalmol. Vis. Sci. 2007 ,48, 3283–3291. [CrossRef]
+73. Song, H.; Rossi, E.A.; Stone, E.; Latchney, L.; Williams, D.; Dubra, A.; Chung, M. Phenotypic diversity in autosomal-dominant
+cone-rod dystrophy elucidated by adaptive optics retinal imaging. Br. J. Ophthalmol. 2018, 102, 136–141. [CrossRef] [PubMed]
+74. Song, H.; Latchney, L.; Williams, D.; Chung, M. Fluorescence adaptive optics scanning laser ophthalmoscope for detection of
+reduced cones and hypoautoﬂuorescent spots in fundus albipunctatus. JAMA Ophthalmol. 2014 ,132, 1099–1104. [CrossRef]
+[PubMed]
+75. Kominami, A.; Ueno, S.; Kominami, T.; Nakanishi, A.; Ito, Y.; Fujinami, K.; Tsunoda, K.; Hayashi, T.; Kikuchi, S.; Kameya, S.; et al.
+Case of cone dystrophy with normal fundus appearance associated with biallelic POC1B variants. Ophthalmic Genet. 2018 ,39,
+255–262. [CrossRef] [PubMed]
+76. Roorda, A.; Zhang, Y.; Duncan, J.L. High-resolution in vivo imaging of the RPE mosaic in eyes with retinal disease. Investig.
+Ophthalmol. Vis. Sci. 2007, 48, 2297–2303. [CrossRef] [PubMed]
+77. Kubota, D.; Gocho, K.; Kikuchi, S.; Akeo, K.; Miura, M.; Yamaki, K.; Takahashi, H.; Kameya, S. CEP250 mutations associated with
+mild cone-rod dystrophy and sensorineural hearing loss in a Japanese family. Ophthalmic Genet. 2018, 39, 500–507. [CrossRef]
+78. Ammar, M.J.; Scavelli, K.T.; Uyhazi, K.E.; Bedoukian, E.C.; Serrano, L.W.; Edelstein, I.D.; Vergilio, G.; Cooper, R.F.; Morgan, J.I.W.;
+Kumar, P .; et al. Enhanced S-Cone Syndrome: Visual Function, Cross-Sectional Imaging, and Cellular Structure with Adaptive
+Optics Ophthalmoscopy. Retin. Cases Brief Rep. 2021, 15, 694–701. [CrossRef]
+79. Park, S.P .; Hong, I.H.; Tsang, S.H.; Lee, W.; Horowitz, J.; Yzer, S.; Allikmets, R.; Chang, S. Disruption of the human cone
+photoreceptor mosaic from a defect in NR2E3 transcription factor function in young adults. Graefe’s Arch. Clin. Exp. Ophthalmol.
+2013, 251, 2299–2309. [CrossRef]
+80. Moore, A.; Strauss, R.; Dubis, A.; Cooper, R.; Ba-Abbad, R.; Moore, A.; Webster, A.; Dubra, A.; Carroll, J.; Michaelides, M. Retinal
+Architecture in RGS9-and R9AP-Associated Retinal Dysfunction (Bradyopsia). Am. J. Ophthalmol. 2015, 160, 1269–1275.
+81. Song, H.; Rossi, E.A.; Latchney, L.; Bessette, A.; Stone, E.; Hunter, J.J.; Williams, D.R.; Chung, M. Cone and rod loss in Stargardt
+disease revealed by adaptive optics scanning light ophthalmoscopy. JAMA Ophthalmol. 2015, 133, 1198–1203. [CrossRef]
+82. Chen, Y.; Ratnam, K.; Sundquist, S.M.; Lujan, B.; Ayyagari, R.; Gudiseva, V .H.; Roorda, A.; Duncan, J.L. Cone photoreceptor
+abnormalities correlate with vision loss in patients with Stargardt disease. Investig. Ophthalmol. Vis. Sci. 2011 ,52, 3281–3292.
+[CrossRef]
+83. Razeen, M.M.; Cooper, R.F.; Langlo, C.S.; Goldberg, M.R.; Wilk, M.A.; Han, D.P .; Connor, T.B.; Fishman, G.A.; Collison, F.T.;
+Sulai, Y.N. Correlating photoreceptor mosaic structure to clinical ﬁndings in Stargardt disease. Transl. Vis. Sci. Technol. 2016 ,5, 6.
+[CrossRef] [PubMed]
+84. Scoles, D.; Sulai, Y.N.; Cooper, R.F.; Higgins, B.P .; Johnson, R.D.; Carroll, J.; Dubra, A.; Stepien, K.E. Photoreceptor Inner Segment
+Morphology in Best Vitelliform Macular Dystrophy. Retina 2017, 37, 741–748. [CrossRef] [PubMed]
+85. Liu, T.; Aguilera, N.; Bower, A.J.; Li, J.; Ullah, E.; Dubra, A.; Cukras, C.; Brooks, B.P .; Jeffrey, B.G.; Hufnagel, R.B.; et al. Photore-
+ceptor and Retinal Pigment Epithelium Relationships in Eyes With Vitelliform Macular Dystrophy Revealed by Multimodal
+Adaptive Optics Imaging. Investig. Ophthalmol. Vis. Sci. 2022, 63, 27. [CrossRef] [PubMed]
+86. Kay, D.B.; Land, M.E.; Cooper, R.F.; Dubis, A.M.; Godara, P .; Dubra, A.; Carroll, J.; Stepien, K.E. Outer retinal structure in best
+vitelliform macular dystrophy. JAMA Ophthalmol. 2013, 131, 1207–1215. [CrossRef]
+87. Ambrosio, L.; Williams, J.S.; Gutierrez, A.; Swanson, E.A.; Munro, R.J.; Ferguson, R.D.; Fulton, A.B.; Akula, J.D. Carbonic
+anhydrase inhibition in X-linked retinoschisis: An eye on the photoreceptors. Exp. Eye Res. 2021, 202, 108344. [CrossRef]
+88. Duncan, J.L.; Ratnam, K.; Birch, D.G.; Sundquist, S.M.; Lucero, A.S.; Zhang, Y.; Meltzer, M.; Smaoui, N.; Roorda, A. Abnormal
+cone structure in foveal schisis cavities in X-linked retinoschisis from mutations in exon 6 of the RS1 gene. Investig. Ophthalmol.
+Vis. Sci. 2011, 52, 9614–9623. [CrossRef]
+89. Akeo, K.; Kameya, S.; Gocho, K.; Kubota, D.; Yamaki, K.; Takahashi, H. Detailed Morphological Changes of Foveoschisis in
+Patient with X-Linked Retinoschisis Detected by SD-OCT and Adaptive Optics Fundus Camera. Case Rep. Ophthalmol. Med. 2015 ,
+2015, 432782. [CrossRef]
+90. Morgan, J.I.; Han, G.; Klinman, E.; Maguire, W.M.; Chung, D.C.; Maguire, A.M.; Bennett, J. High-resolution adaptive optics
+retinal imaging of cellular structure in choroideremia. Investig. Ophthalmol. Vis. Sci. 2014, 55, 6381–6397. [CrossRef]
+91. Sun, L.W.; Johnson, R.D.; Williams, V .; Summerfelt, P .; Dubra, A.; Weinberg, D.V .; Stepien, K.E.; Fishman, G.A.; Carroll, J.
+Multimodal Imaging of Photoreceptor Structure in Choroideremia. PLoS ONE 2016, 11, e0167526. [CrossRef]Diagnostics 2023, 13, 2413 22 of 23
+92. Tuten, W.S.; Vergilio, G.K.; Young, G.J.; Bennett, J.; Maguire, A.M.; Aleman, T.S.; Brainard, D.H.; Morgan, J.I.W. Visual Function
+at the Atrophic Border in Choroideremia Assessed with Adaptive Optics Microperimetry. Ophthalmol. Retin. 2019 ,3, 888–899.
+[CrossRef]
+93. Aguilera, N.; Liu, T.; Bower, A.J.; Li, J.; Abouassali, S.; Lu, R.; Giannini, J.; Pfau, M.; Bender, C.; Smelkinson, M.G.; et al.
+Widespread subclinical cellular changes revealed across a neural-epithelial-vascular complex in choroideremia using adaptive
+optics. Commun. Biol. 2022, 5, 893. [CrossRef] [PubMed]
+94. Foote, K.G.; Rinella, N.; Tang, J.; Bensaid, N.; Zhou, H.; Zhang, Q.; Wang, R.K.; Porco, T.C.; Roorda, A.; Duncan, J.L. Cone
+Structure Persists Beyond Margins of Short-Wavelength Autoﬂuorescence in Choroideremia. Investig. Ophthalmol. Vis. Sci. 2019 ,
+60, 4931–4942. [CrossRef] [PubMed]
+95. Morgan, J.I.W.; Jiang, Y.Y.; Vergilio, G.K.; Serrano, L.W.; Pearson, D.J.; Bennett, J.; Maguire, A.M.; Aleman, T.S. Short-term
+Assessment of Subfoveal Injection of Adeno-Associated Virus-Mediated hCHM Gene Augmentation in Choroideremia Using
+Adaptive Optics Ophthalmoscopy. JAMA Ophthalmol. 2022, 140, 411–420. [CrossRef] [PubMed]
+96. Bower, A.J.; Liu, T.; Aguilera, N.; Li, J.; Liu, J.; Lu, R.; Giannini, J.P .; Huryn, L.A.; Dubra, A.; Liu, Z.; et al. Integrating adaptive
+optics-SLO and OCT for multimodal visualization of the human retinal pigment epithelial mosaic. Biomed. Opt. Express 2021 ,12,
+1449–1466. [CrossRef]
+97. Morgan, J.I.W.; Chen, M.; Huang, A.M.; Jiang, Y.Y.; Cooper, R.F. Cone Identiﬁcation in Choroideremia: Repeatability, Reliability,
+and Automation Through Use of a Convolutional Neural Network. Transl. Vis. Sci. Technol. 2020, 9, 40. [CrossRef]
+98. Sampson, D.M.; Roshandel, D.; Chew, A.L.; Wang, Y.; Stevenson, P .G.; Cooper, M.N.; Ong, E.; Wong, L.; La, J.; Alonso-Caneiro, D.;
+et al. Retinal Differential Light Sensitivity Variation Across the Macula in Healthy Subjects: Importance of Cone Separation and
+Loci Eccentricity. Transl. Vis. Sci. Technol. 2021, 10, 16. [CrossRef]
+99. Ueno, S.; Koyanagi, Y.; Kominami, T.; Ito, Y.; Kawano, K.; Nishiguchi, K.M.; Rivolta, C.; Nakazawa, T.; Sonoda, K.-H.; Terasaki, H.
+Clinical characteristics and high resolution retinal imaging of retinitis pigmentosa caused by RP1 gene variants. Jpn. J. Ophthalmol.
+2020, 64, 485–496. [CrossRef]
+100. Kalitzeos, A.; Kumaran, N.; Georgiou, M.; Singh, N.; Kane, T.; Kasilian, M.; Dubra, A.; Carroll, J.; Michaelides, M. Natural history
+of foveal cone structure in RPE65-associated Leber congenital amaurosis (LCA). Investig. Ophthalmol. Vis. Sci. 2019, 60, 4584.
+101. Huang, Z.; Zhang, D.; Thompson, J.A.; Jamuar, S.S.; Roshandel, D.; Jennings, L.; Mellough, C.; Charng, J.; Chen, S.-C.; McLaren,
+T.L. Deep clinical phenotyping and gene expression analysis in a patient with RCBTB1-associated retinopathy. Ophthalmic Genet.
+2021, 42, 266–275. [CrossRef]
+102. Nakamura, T.; Ueda-Consolvo, T.; Oiwake, T.; Hayashi, A. Correlation between outer retinal layer thickness and cone density in
+patients with resolved central serous chorioretinopathy. Graefes Arch Clin. Exp. Ophthalmol. 2016, 254, 2347–2354. [CrossRef]
+103. Kabata¸ s, N.; Do˘ gan, A.¸ S.; Kabata¸ s, E.U.; Acar, M.; Biçer, T.; Gürdal, C. The effect of Demodex infestation on blepharitis and the
+ocular symptoms. Eye Contact Lens Sci. Clin. Pract. 2017, 43, 64–67. [CrossRef] [PubMed]
+104. Chew, A.L.; Sampson, D.M.; Kashani, I.; Chen, F.K. Agreement in Cone Density Derived from Gaze-Directed Single Images
+Versus Wide-Field Montage Using Adaptive Optics Flood Illumination Ophthalmoscopy. Transl. Vis. Sci. Technol. 2017 ,6, 9.
+[CrossRef] [PubMed]
+105. Lazareva, A.; Asad, M.; Slabaugh, G. Learning to deblur adaptive optics retinal images. In Proceedings of the International
+Conference Image Analysis and Recognition, Montreal, QC, Canada, 5–7 July 2017; pp. 497–506.
+106. Sampson, D.M.; Alonso-Caneiro, D.; Chew, A.L.; La, J.; Roshandel, D.; Wang, Y.; Khan, J.C.; Chelva, E.; Stevenson, P .G.; Chen, F.K.
+Evaluation of focus and deep learning methods for automated image grading and factors inﬂuencing image quality in adaptive
+optics ophthalmoscopy. Sci. Rep. 2021, 11, 16641. [CrossRef] [PubMed]
+107. Merino, D.; Duncan, J.L.; Tiruveedhula, P .; Roorda, A. Observation of cone and rod photoreceptors in normal subjects and patients
+using a new generation adaptive optics scanning laser ophthalmoscope. Biomed. Opt. Express 2011, 2, 2189–2201. [CrossRef]
+108. Feng, S.; Gale, M.J.; Fay, J.D.; Faridi, A.; Titus, H.E.; Garg, A.K.; Michaels, K.V .; Erker, L.R.; Peters, D.; Smith, T.B.; et al. Assessment
+of Different Sampling Methods for Measuring and Representing Macular Cone Density Using Flood-Illuminated Adaptive Optics.
+Investig. Ophthalmol. Vis. Sci. 2015, 56, 5751–5763. [CrossRef] [PubMed]
+109. Debellemaniere, G.; Flores, M.; Tumahai, P .; Meillat, M.; Bidaut Garnier, M.; Delbosc, B.; Saleh, M. Assessment of parafoveal cone
+density in patients taking hydroxychloroquine in the absence of clinically documented retinal toxicity. Acta Ophthalmol. 2015 ,93,
+e534–e540. [CrossRef]
+110. Roshandel, D.; Sampson, D.M.; Mackey, D.A.; Chen, F.K. Impact of Reference Center Choice on Adaptive Optics Imaging Cone
+Mosaic Analysis. Investig. Ophthalmol. Vis. Sci. 2022, 63, 12. [CrossRef]
+111. Ferguson, R.D.; Zhong, Z.; Hammer, D.X.; Mujat, M.; Patel, A.H.; Deng, C.; Zou, W.; Burns, S.A. Adaptive optics scanning
+laser ophthalmoscope with integrated wide-ﬁeld retinal imaging and tracking. J. Opt. Soc. Am. A Opt. Image Sci. Vis. 2010 ,27,
+A265–A277. [CrossRef]
+112. Yang, Q.; Zhang, J.; Nozato, K.; Saito, K.; Williams, D.R.; Roorda, A.; Rossi, E.A. Closed-loop optical stabilization and digital
+image registration in adaptive optics scanning light ophthalmoscopy. Biomed. Opt. Express 2014, 5, 3174–3191. [CrossRef]
+113. Sheehy, C.K.; Tiruveedhula, P .; Sabesan, R.; Roorda, A. Active eye-tracking for an adaptive optics scanning laser ophthalmoscope.
+Biomed. Opt. Express 2015, 6, 2412–2423. [CrossRef]Diagnostics 2023, 13, 2413 23 of 23
+114. Yeo, B.; Sabuncu, M.; Vercauteren, T.; Ayache, N.; Fischl, B.; Golland, P . Spherical demons: Fast surface registration. In Proceedings
+of the International Conference on Medical Image Computing and Computer-Assisted Intervention, New York, NY, USA, 6–10
+September 2008; pp. 745–753.
+115. Lee, S.; Lebed, E.; Sarunic, M.V .; Beg, M.F. Exact surface registration of retinal surfaces from 3-D optical coherence tomography
+images. IEEE Trans. Biomed. Eng. 2014, 62, 609–617. [CrossRef] [PubMed]
+116. Foote, K.G.; De la Huerta, I.; Gustafson, K.; Baldwin, A.; Zayit-Soudry, S.; Rinella, N.; Porco, T.C.; Roorda, A.; Duncan, J.L. Cone
+spacing correlates with retinal thickness and microperimetry in patients with inherited retinal degenerations. Investig. Ophthalmol.
+Vis. Sci. 2019, 60, 1234–1243. [CrossRef]
+117. Viana, K.Í.; Messias, A.; Siqueira, R.C.; Rodrigues, M.W.; Jorge, R. Structure-functional correlation using adaptive optics, OCT,
+and microperimetry in a case of occult macular dystrophy. Arq. Bras. De Oftalmol. 2017, 80, 118–121. [CrossRef] [PubMed]
+118. Jacobson, S.G.; Cideciyan, A.V .; Huang, W.C.; Sumaroka, A.; Roman, A.J.; Schwartz, S.B.; Luo, X.; Sheplock, R.; Dauber, J.M.;
+Swider, M. TULP1 mutations causing early-onset retinal degeneration: Preserved but insensitive macular cones. Investig.
+Ophthalmol. Vis. Sci. 2014, 55, 5354–5364. [CrossRef] [PubMed]
+119. Makiyama, Y.; Ooto, S.; Hangai, M.; Ogino, K.; Gotoh, N.; Oishi, A.; Yoshimura, N. Cone abnormalities in fundus albipunctatus
+associated with RDH5 mutations assessed using adaptive optics scanning laser ophthalmoscopy. Am. J. Ophthalmol. 2014 ,157,
+e551–e554. [CrossRef] [PubMed]
+120. Garway-Heath, D.F.; Caprioli, J.; Fitzke, F.W.; Hitchings, R.A. Scaling the hill of vision: The physiological relationship between
+light sensitivity and ganglion cell numbers. Investig. Ophthalmol. Vis. Sci. 2000, 41, 1774–1782.
+121. Chew, A.L.; Sampson, D.M.; Chelva, E.; Khan, J.C.; Chen, F.K. Perifoveal interdigitation zone loss in hydroxychloroquine
+toxicity leads to subclinical bull’s eye lesion appearance on near-infrared reﬂectance imaging. Doc. Ophthalmol. 2018 ,136, 57–68.
+[CrossRef]
+122. Datlinger, F.; Wassermann, L.; Reumueller, A.; Hajdu, D.; Steiner, I.; Salas, M.; Drexler, W.; Pircher, M.; Schmidt-Erfurth, U.;
+Pollreisz, A. Assessment of Detailed Photoreceptor Structure and Retinal Sensitivity in Diabetic Macular Ischemia Using Adaptive
+Optics-OCT and Microperimetry. Investig. Ophthalmol. Vis. Sci. 2021, 62, 1. [CrossRef]
+123. Foote, K.G.; Wong, J.J.; Boehm, A.E.; Bensinger, E.; Porco, T.C.; Roorda, A.; Duncan, J.L. Comparing Cone Structure and Function
+in RHO- and RPGR-Associated Retinitis Pigmentosa. Investig. Ophthalmol. Vis. Sci. 2020, 61, 42. [CrossRef]
+124. Wang, Q.; Tuten, W.S.; Lujan, B.J.; Holland, J.; Bernstein, P .S.; Schwartz, S.D.; Duncan, J.L.; Roorda, A. Adaptive optics
+microperimetry and OCT images show preserved function and recovery of cone visibility in macular telangiectasia type 2 retinal
+lesions. Investig. Ophthalmol. Vis. Sci. 2015, 56, 778–786. [CrossRef]
+125. Mariotti, L.; Devaney, N.; Lombardo, G.; Lombardo, M. Understanding the changes of cone reﬂectance in adaptive optics ﬂood
+illumination retinal images over three years. Biomed. Opt. Express 2016, 7, 2807–2822. [CrossRef] [PubMed]
+126. Bensinger, E.; Wang, Y.; Roorda, A. Patches of Dysﬂective Cones in Eyes With No Known Disease. Investig. Ophthalmol. Vis. Sci.
+2022, 63, 29. [CrossRef] [PubMed]
+127. Rha, J.; Schroeder, B.; Godara, P .; Carroll, J. Variable optical activation of human cone photoreceptors visualized using a short
+coherence light source. Opt. Lett. 2009, 34, 3782–3784. [CrossRef] [PubMed]
+128. Jonnal, R.S.; Besecker, J.R.; Derby, J.C.; Kocaoglu, O.P .; Cense, B.; Gao, W.; Wang, Q.; Miller, D.T. Imaging outer segment renewal
+in living human cone photoreceptors. Opt. Express 2010, 18, 5257–5270. [CrossRef] [PubMed]
+Disclaimer/Publisher’s Note: The statements, opinions and data contained in all publications are solely those of the individual
+author(s) and contributor(s) and not of MDPI and/or the editor(s). MDPI and/or the editor(s) disclaim responsibility for any injury to
+people or property resulting from any ideas, methods, instructions or products referred to in the content.

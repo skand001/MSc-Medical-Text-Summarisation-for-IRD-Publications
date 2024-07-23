@@ -1,0 +1,1045 @@
+44
+©Copyright 2023by Turkish Ophthalmological Association
+Turkish Journal of Ophthalmology, published by Galenos Publishing House.Invited Review
+DOI: 10.4274/tjo.galenos.2022.76436
+Turk J Ophthalmol 2023;53:44-57
+Avascular Peripheral Retina in Infants
+ Şengül Özdek*,  Ece Özdemir Zeydanlı**,  Caroline Baumal***,  Sandra Hoyek****, 
+ Nimesh Patel****,  Audina Berrocal*****,  Ashley Lopez-Cañizares*****, 
+ Hasenin Al-Khersan*****,  Shunji Kusaka******,  Fukutaro Mano******, 
+ Subhadra Jalali*******,  Domenico Lepore********,  Solmaz Akar*********
+*Gazi University Faculty of Medicine, Department of Ophthalmology, Ankara, Türkiye 
+**Ankara Retina Clinic, Ankara, Türkiye 
+***Tufts University Faculty of Medicine, Department of Ophthalmology, Tufts Medical Center, Boston, United States of America
+****Harvard Medical School, Massachusetts Eye and Ear, Department of Ophthalmology, Boston, United States of America 
+*****University of Miami Miller Faculty of Medicine, Bascom Palmer Eye Institute, Department of Ophthalmology, Miami, United States of America 
+****** Kindai University Faculty of Medicine, Department of Ophthalmology, Osaka, Japan 
+*******L V Prasad Eye Institute, Anant Bajaj Retina Institute and Child Sight Institute, Hyderabad, India
+********Catholic University of the Sacred Heart, Department of Geriatrics and Neuroscience, A. Gemelli Foundation IRCSS, Rome, Italy
+*********Acıbadem Bakırkoy Hospital, Clinic of Ophthalmology, İstanbul, Türkiye
+Abstract
+Avascular peripheral retina in an infant is a common characteristic of numerous pediatric retinal vascular disorders and often presents 
+a diagnostic challenge to the clinician. In this review, key features of each disease in the differential diagnosis, from retinopathy of 
+prematurity, familial exudative vitreoretinopathy, Coats disease, incontinentia pigmenti, Norrie disease, and persistent fetal vasculature, 
+to other rare hematologic conditions and telomere disorders, will be discussed by expert ophthalmologists in the field.
+Keywords: Avascular retina, retinopathy of prematurity, familial exudative vitreoretinopathy, Coats disease, incontinentia pigmenti, 
+persistent fetal vasculature, Norrie disease
+Cite this article as: Özdek Ş, Özdemir Zeydanlı E, Baumal C, Hoyek S, Patel N, Berrocal A, Lopez-Cañizares A, Al-Khersan H, Kusaka S, Mano F , Jalali S,  
+Lepore D, Akar S. Avascular Peripheral Retina in Infants. Turk J Ophthalmol 2023;53:44-57Address for Correspondence: Şengül Özdek, Gazi University Faculty of Medicine, Department of Ophthalmology, Ankara, Türkiye 
+E-mail: sengulozdek@gmail.com ORCID-ID: orcid.org/0000-0002-7494-4106
+Received: 08.11.2022 Accepted: 30.11.202245Özdek et al. Avascular Peripheral Retina in Infants 
+Introduction
+Pediatric retinal vascular diseases are the leading causes of 
+childhood blindness throughout the world.1 Therefore, correct 
+and timely diagnosis of an infant presenting with a retinal 
+vascular disease is of paramount importance. However, this can 
+often be challenging. 
+Avascular peripheral retina is a common feature of many 
+pediatric retinal vascular diseases. Therefore, the clinician should 
+seek out key features that will help differentiate the various 
+diseases that may present in such a manner. Clinical evaluation 
+should begin with a detailed medical history, including 
+gestational age, weight, birth history, neonatal course, and the 
+presence of any systemic findings. Family history, including 
+known ocular disease in the immediate family or close relatives 
+and the presence of parental consanguinity should be questioned. 
+A comprehensive ophthalmological examination should then be 
+performed. Also, examination of available family members often 
+provides important clues for an accurate diagnosis. 
+In this article, experienced ophthalmologists in the field will 
+review key points of diseases included in the differential diagnosis 
+of a pediatric patient presenting with avascular peripheral 
+retina. The major differential diagnosis includes retinopathy 
+of prematurity (ROP), familial exudative vitreoretinopathy 
+(FEVR), Coats’ disease, incontinentia pigmenti (IP), Norrie 
+disease, and persistent fetal vasculature (PFV). In addition, other 
+rare conditions that may present with avascular peripheral retina, 
+such as hematologic and inflammatory conditions and telomere 
+disorders, will also be discussed.
+Retinopathy of Prematurity (ROP)
+The studies of basic mechanisms of the development of the 
+normal retinal vascular network dates back to Michaelson2 in 
+1948 and later to Flower et al.3 who, using ink-injected flat 
+mounted kitten retinas, observed the presence of large portions 
+of peripheral non-vascularized retina at birth. The seminal 
+studies of Michaelson2, Flower et al.,3 Smith4, and Chan-Ling5 
+have contributed to defining the mechanisms underlying the 
+development of the vascular network, including vasculogenesis 
+of the posterior areas surrounding the papilla, angiogenesis of the 
+more peripheral areas, and subsequent progression of the vascular 
+network towards the retinal periphery . The formation of the retinal 
+vascular network begins between 14 and 15 weeks of gestational 
+age with the appearance of a patent superficial capillary plexus 
+around the optic disc, and is mediated by angiogenesis. The inner 
+vascular plexus develops rapidly and reaches its limits by 32 
+weeks, and a small area of avascular retina persists.6 The deeper 
+vascular plexus starts forming in the perifoveal zone around 24 
+weeks of gestation. Retinal angiogenesis of the deeper plexus 
+is centered around the fovea and is driven by the maturation of 
+photoreceptors and the consequent increase in metabolic demand. 
+The deeper plexus reaches its limits by birth.5 During normal 
+development, the retinal vasculature is constantly remodeled 
+by increasing capillary density in order to meet the metabolic 
+demands of the retina. 
+Knowledge of retinal vascular development allows clinicians 
+to recognize the features of delayed retinal vascularization (extension, topography, branching vessels, capillary density) after 
+premature birth, which characterize the first phase of ROP .4 
+Later, the persistent avascular retina stimulates the vascular 
+endothelial growth factor (VEGF)-driven vasoproliferation that 
+is the hallmark of the second phase of ROP (Figure 1).4 Laser 
+photoablation aims to destroy the avascular retina where the 
+VEGF is produced. In contrast, the introduction of anti-VEGF 
+drugs for inhibition of vasoproliferation in stage 2 leads to 
+abnormal persistence of avascular retina (Figure 2). The persistent 
+avascular retina can stimulate reactivation or recurrence of the 
+vasoproliferation, as evidenced in studies of preterm infant eyes 
+treated with bevacizumab for severe ROP .7 
+Persistent peripheral avascular retina, identified as “PAR” in 
+the new third edition of the International Classification of ROP ,8 
+can correlate with the severity of ROP in the acute phase and 
+with the risk of reactivation and recurrence of ROP after either 
+photoablation (skip areas) or anti-VEGF injection. 
+Furthermore, persistent avascular retina can be observed 
+after the acute phase in spontaneously regressed ROP or even 
+in former premature infants without ROP or any pathologic 
+consequences (Figure 3). This observation opens the way to the 
+possibility that the persistence of areas of peripheral avascular 
+Figure 1. Color fundus image and corresponding fluorescein angiography of an 
+avascular peripheral retina at 35 weeks of postmenstrual age in a preterm infant 
+born at 27 weeks of gestational age with a birth weight of 890 grams (Courtesy 
+Dr. Domenico Lepore) 
+Figure 2. Fluorescein angiography showing an avascular peripheral retina in a 
+2-year-old child born preterm (25 weeks of gestational age, birth weight 650 g) and 
+treated with 0.2 mg/0.02 mL of ranibizumab at 34 weeks of postmenstrual age for 
+type 1 retinopathy of prematurity (Courtesy of Dr. Domenico Lepore)Turk J Ophthalmol 53; 1: 202346retina is not necessarily a potentially pathogenic condition 
+but rather a metabolically well-tolerated vascular anomaly . 
+Further studies are needed to better understand the features that 
+characterize this anomaly .
+Familial Exudative Vitreoretinopathy
+Bilateral peripheral avascular retina with associated vitreous 
+changes is the hallmark of the rare congenital blinding retinal 
+disorder called FEVR.9,10 The genetic abnormality manifests 
+as arrested retinal angiogenesis, often in the last trimester 
+of pregnancy, that remains so for the lifetime (Figure 4, 
+5). The avascular retina triggers a wide array of phenotypic 
+variations, with each component having variable severity .9 
+These include retinal neovascularization, exudation, retinal 
+folds, and subsequent vitreous hemorrhage, retinal detachment 
+(RD) causing leukocoria, progression to iris neovascularization, 
+neovascular glaucoma, secondary retinoschisis, macular 
+heterotropia, and vasoproliferative tumor-like peripheral retinal 
+lesions. Also, vitreous condensation at the edge of the arrested 
+angiogenesis (Figure 5), epiretinal membranes, vitreoschisis, 
+vitreomacular traction manifest variably alongside the retinal 
+vascular pathology .
+Clinical Diagnosis: Males and females are both affected. 
+Symptoms include squint, eye poking, poor vision, leukocoria, 
+low vision, rapid onset of visual loss, or rapid development of 
+a cataract or glaucoma in newborns, young children, or young 
+adults. In some patients who are asymptomatic, lesions are 
+noticed during routine retinal examination in eyes with myopia, 
+family screening, or in examination of the fellow eyes of RD 
+or neovascular glaucoma of unknown cause. The more severe 
+phenotypes present soon after birth with associated retinal 
+dysplasia.9 The clinical diagnosis of FEVR can be made in a full-
+term child in the presence of peripheral retinal avascularity with 
+minimal vitreous condensation at the edge. These signs may be 
+present in one or both eyes and may or may not be associated 
+with additional retinal changes at the time of diagnosis (Figure 
+4). However, the association of posterior hyaloid yellow deposits 
+seen in some of these eyes is unique to FEVR (Figure 4). In a 
+preterm child presenting with similar characteristics but a disease 
+tempo not consistent with ROP , the diagnosis of FEVR can be 
+made.9,10,11 John et al.11 described ROPER (ROP vs FEVR) in 
+premature babies who display retinal abnormalities more typical 
+of FEVR than ROP , largely based on fluorescein angiography 
+(FA) characteristics and disease course. The distinctive FA 
+findings of ROPER include irregular vascular sprouting at the 
+vascular-avascular junction (vs the more uniform advancing front 
+of ROP), distinct vessel pruning, punctate hyperfluorescence, 
+and segmental areas of vascular leakage. The diagnosis of 
+ROPER may have implications for management because, like 
+FEVR, these patients may manifest a more unpredictable and 
+long-term course than those with ROP . Another clue is that 
+vascularization does not show any forward movement into the 
+avascular retina at any time point in FEVR. This is useful in 
+differentiating from ROP , where the initial avascular retina 
+always shows advancement of vascularization to a varying degree Figure 3. Fluorescein angiography of an avascular peripheral retina in a 2-year-old 
+child who was born preterm (28 weeks of gestational age, birth weight 980 g) and 
+had fully regressed stage 2 zone 2 retinopathy of prematurity diagnosed at 32 weeks 
+(Courtesy of Dr. Domenico Lepore)
+Figure 4. Avascular peripheral retina with neovascularization (NV) and typical 
+posterior hyaloid yellow deposits in a term neonate with familial exudative 
+vitreoretinopathy . Corresponding fluorescein angiography shows straightening of 
+the vessels towards the periphery, avascular peripheral retina, and severe leakage 
+from the NV at the vascular-avascular retinal junction (Courtesy of Dr. Şengül 
+Özdek) 
+Figure 5. Fundus photo of a female patient aged 20 years. Peripheral avascular 
+retina in familial exudative vitreoretinopathy never shows forward advancement 
+during the lifetime, has fine but adherent vitreous condensation at the edge, and 
+often the temporal raphe is involved more posteriorly, like a ‘notch’. Avascularity 
+is present in all quadrants but is more prominent temporally . There are no ghost 
+vessels (Courtesy of Dr. Subhadra Jalali)
+47Özdek et al. Avascular Peripheral Retina in Infants 
+in the first few weeks and months of follow-up. Occluded/
+ghost vessels are hence not seen in the avascular part of the 
+retina (Figure 4, 5). Similarly, chorioretinal scarring is typically 
+absent in FEVR and helps to differentiate from other mimickers 
+like vasculitis or viral retinitis. Eyes with bilaterally advanced 
+disease have bilateral leukocoria due to retrolental fibroblastic 
+proliferation and RD, which is not different from ROP . However, 
+the exudative component is often more significant in FEVR than 
+that seen in ROP .
+Family Involvement: Being a hereditary retinopathy, family 
+evaluation may reveal autosomal dominant inheritance, which is 
+the most common, although X-linked and recessive inheritance 
+patterns are also seen, with variable penetrance.9,10,12 Family 
+members can present with varying degrees of retinal problems 
+and should always be examined in detail.9 Probands with 
+severe phenotypes present with RD at birth or in early infancy, 
+resulting in bilateral blindness. They are more likely to have a 
+mutation in the Norrie disease pseudoglioma (NDP) gene, which 
+was previously classified as Norrie disease. However, it is now 
+established that FEVR and Norrie are similar conditions that 
+belong to the same spectrum of defective Wnt signal pathway 
+mutations.9,10,12 The next pregnancy may have similar mutations, 
+and thus the baby may be born blind with congenital RD or 
+develop RD very soon after birth. Early delivery and evaluation 
+within a day or two after birth can be done to diagnose and treat 
+the retinopathy as early as possible. Systemic associations are 
+seen in some patients, so a thorough systemic evaluation should 
+be performed by a neonatologist or pediatrician. Common 
+systemic associations include hearing loss, cognitive deficits, 
+impaired osteogenesis, muscle hypotony, microcephaly, and 
+rarely hematological abnormalities.
+Disease Classification: The severity of disease is currently 
+described through various stages as classified by Pendergast 
+and Trese13 in 1998 (Table 1). With the evolution of widefield 
+fundus FA, new insights into FEVR have emerged that led to a 
+new classification by Kashani et al.14 in 2014 (Table 2).
+Investigations: Regular follow-up and documentation of 
+retinal changes is essential to know the tempo of the disease 
+and its progression, which can vary at various phases of 
+life. Widefield fundus photography to visualize peripheral 
+retinal changes is strongly recommended at presentation and 
+at annual follow-ups, along with widefield FA as much as 
+possible. Widefield optical coherence tomography (OCT) also 
+provides insights into vitreoretinal adhesions, traction, shallow 
+RD, retinoschisis, macular edema, or macular hole and helps 
+guide surgical decisions. Fundus photographs/FA of the family 
+members are also recommended whenever feasible. Genetic 
+testing for mutations is highly desirable in the diagnosis and 
+management of the patient and the family .
+Disease Course: FEVR stages do not always progress 
+from one to the next, but are rather phenotypes with variable 
+presentations. Each presentation has its own natural course that 
+can vary from no change to relentless, progressive worsening 
+or disease reactivation after a long period of quiescence. Eyes 
+with exudation usually have worse prognosis. RD can be seen in 21-64% of cases in FEVR and is the most common indication 
+for surgical intervention.13 It may be tractional, rhegmatogenous, 
+exudative, or combined. When left untreated, eyes with early-
+onset FEVR with or without retinal dysplasia often develop 
+progressive shallowing of the anterior chamber, corneo-lenticular 
+adhesions, and ultimately corneal scarring with associated 
+glaucoma or eventual phthisis bulbi. Infants at this stage often 
+develop an oculodigital reflex that is very robust and difficult 
+to stop.
+Management: Early stages are managed by laser 
+photocoagulation of the avascular retina, although this can 
+sometimes lead to adverse events like epiretinal membranes, 
+tractional detachments, and retinal tears, or have no effect 
+on the relentless progressive exudation. Advanced cases need 
+additional vitrectomy with or without buckling procedures for 
+treatment and also as prophylaxis against further progression. 
+Early vitrectomy can also be done as prophylaxis in selected 
+cases where laser ablation has the potential to cause problems 
+or is likely to be ineffective. Early-onset severe FEVR with or Table 1. Staging of familial exudative vitreoretinopathy 
+(FEVR) by Pendergast and Trese13
+Stage Features
+1 Peripheral avascular retina*
+2A: Retinal neovascularization without exudates
+B: Retinal neovascularization with exudates
+3A: Extramacular retinal detachment without exudates
+B: Extramacular retinal detachment with exudates
+4 A: Macula involving subtotal retinal detachment without exudates
+B: Macula involving subtotal retinal detachment with exudates
+5 Total retinal detachment
+*Peripheral avascular retina in FEVR is almost always associated with fine but adherent 
+vitreous condensation at the edge of vascularized retina; often the temporal raphe is involved 
+more posteriorly like a ‘notch’, allowing differentiation from other conditions associated with 
+avascular peripheral retinal pathologies.
+Table 2. Revised familial exudative vitreoretinopathy 
+staging using additional fluorescein angiography by 
+Kashani et al.14
+Stage Features
+1Avascular periphery or anomalous intraretinal vascularization
+1A. Without exudate or leakage
+1B. With exudate or leakage
+2Avascular retinal periphery with extraretinal vascularization
+2A. Without exudates or leakage
+2B. With exudates or leakage
+3Extramacular retinal detachment
+3A. Without exudates or leakage
+3B. With exudates or leakage
+4 Macula involving subtotal retinal detachment
+4A. Without exudates or leakage
+4B. With exudates or leakage
+5Total retinal detachment
+5A. Open funnel
+5B. Closed FunnelTurk J Ophthalmol 53; 1: 202348without retinal dysplasia is managed by surgery; however, the 
+results suggest that it provides only minimal ambulatory vision 
+in a few cases.13,15
+To summarize, the often familial, congenital, bilateral 
+peripheral avascular retina in FEVR has unique characteristics 
+of vitreous condensation at the edges, absence of ghost vessels, 
+lifetime of arrested angiogenesis, and varying phenotypes with 
+or without exudation and with variable potential for progression.
+Coats’ Disease
+Coats’ disease is a nonhereditary disorder characterized by 
+the formation of abnormal retinal vessels that cause intra- and 
+subretinal exudative changes. It mainly affects boys around the 
+age of 5 years and is unilateral, but rarely affects girls or presents 
+bilaterally .16,17 The disease may be detected with minor vision 
+loss or visual field abnormalities at school health checkups, 
+while it is often in an advanced stage when the disease is 
+detected early in childhood with white or yellowish pupils and/
+or strabismus. Coats’ disease is progressive, and if not treated 
+appropriately, RD and neovascular glaucoma may develop, 
+ultimately necessitating enucleation of the eye. According to the 
+staging classification proposed by Shields et al.16 in 2001, the 
+disease is classified into stage 1 with retinal vascular aneurysmal 
+formation without exudative changes, stage 2 with exudative 
+changes, stage 3A with partial RD, stage 3B with total RD, 
+stage 4 with neovascular glaucoma, and stage 5 with phthisis 
+bulbi. Because retinal vascular abnormality mainly occurs in the 
+periphery, widefield color fundus photography and fluorescence 
+angiography are extremely useful. In the following paragraphs, 
+we focus on the differential diagnoses of Coats’ disease from 
+retinoblastoma, ROP , FEVR, PFV , and Norrie disease in regards 
+to the peripheral avascular retina.
+Coats’ disease has been characterized by usually unilateral 
+peripheral retinal telangiectasias and light bulb-shaped 
+microaneurysms surrounded by capillary non-perfusion areas. 
+However, some advocate that Coats’ disease may actually be 
+bilateral because of the presence of peripheral vascular changes in 
+the fellow eyes.18 The most crucial differential of Coats’ disease 
+is retinoblastoma, which is life-threatening if misdiagnosed. 
+Advanced Coats’ disease with a bullous RD can present with 
+a yellowish pupillary reflex (xanthocoria) rather than white 
+as cholesterol crystals accumulate in the subretinal space. In 
+addition, retinal telangiectasia can be seen on the surface of the 
+detached retina in Coats’ disease (Figure 6). On the contrary, in 
+retinoblastoma a whitish-gray pupillary reflex can be seen, and 
+retinal telangiectasia is uncommon. 
+Unlike ROP , a vascular-avascular junction is rarely seen 
+in Coats’ disease. However, aggressive ROP or zone 1 with 
+plus disease with exudative changes can masquerade as Coats’ 
+disease (Figure 7). The bulb-shaped peripheral vascular changes 
+in Coats’ disease should be pivotal components to differentiate 
+those conditions. RD in Coats’ disease is typically exudative, but 
+can sometimes be rhegmatogenous or tractional. Coats’ disease 
+with tractional RD may present with fibrovascular membrane, 
+which needs to be differentiated from FEVR or Norrie disease (Figure 8). A dragged disc and macula suggest FEVR, while 
+subretinal exudation and bulb-shaped retinal telangiectasias 
+suggest Coats’ disease (Figure 9). Genetic identification of 
+causative FEVR genes (i.e., FZD4, NDP , LRP5, and TSPAN12) 
+and bilateral conditions would support the diagnosis of FEVR. 
+Basically, the fibrovascular membrane is seen posteriorly in 
+Coats’ disease if present, but is located temporally in FEVR. PFV 
+also could be a differential diagnosis of Coats’ disease. However, 
+the fibrovascular membrane is usually located retrolentally and 
+more to the nasal side in PFV , which does not present with bulb-
+shaped retinal telangiectasias.
+Management: In the early stages, careful observation or 
+photocoagulation of the vascular aneurysms is the mainstay 
+of treatment. In cases with a progressive RD refractory to 
+ablative treatment (stage 3 or higher), surgical treatment is 
+often required. The main surgical procedures include vitrectomy Figure 6. Yellowish pupillary reflex in Coats’ disease. A bulbed-shaped retinal 
+telangiectasia (white arrow) overlying the bullous retinal detachment suggests 
+a diagnosis of Coats’ disease rather than retinoblastoma (Courtesy of Dr. Shunji 
+Kusaka)
+Figure 7. A case of retinopathy of prematurity (ROP) with exudative changes. A 
+falciform retinal detachment with subretinal exudation in a patient with stage 5A 
+ROP mimics Coats’ disease (Courtesy of Dr. Shunji Kusaka)
+49Özdek et al. Avascular Peripheral Retina in Infants 
+and drainage of subretinal fluid.19,20 As intraocular VEGF 
+concentrations are known to be extremely high in Coats’ 
+disease,21 a procedure to drain the large amount of VEGF present 
+in the subretinal space from the eye is a logical approach.22 
+Other methodological approaches include a non-vitrectomized 
+technique with transscleral drainage and laser photocoagulation23 or combined scleral buckling surgery .24 Although the advent of 
+anti-VEGF agents has given us various treatment options for 
+Coats’ disease, the visual prognosis is still poor in patients with 
+advanced Coats’ disease.17 It is important to recognize that Coats’ 
+disease is progressive, and continuous examinations are needed to 
+determine the appropriate indication for treatments.
+Incontinentia Pigmenti
+IP , also referred to as Bloch-Sulzberger syndrome, is a rare 
+hereditary condition characterized by generalized abnormality of 
+the ectodermal tissues and varying degrees of abnormality of the 
+retina and central nervous system. IP typically has a bilateral but 
+asymmetric presentation and particularly affects the skin, eyes, 
+brain, and teeth. Its incidence is estimated to be 0.7 cases per 
+100,000 live births.25,26,27,28,29,30
+IP is inherited as an X-linked dominant trait caused by 
+a mutation in the NEMO gene (essential modulator gene), 
+located at gene locus Xq28.25,26,27,28,29,30 The resulting protein 
+regulates the activity of NF-kB, making cells more susceptible to 
+apoptotic signals and leading to increased endothelial cell death. 
+Some infrequent cases also involve a translocation at Xp11. Only 
+women inherit the disease, as it is lethal in males. However, 
+sporadic cases have also been reported in males, most probably a 
+result of de novo mutations. 25,26,27,28,29,30
+Initial symptoms of this disease are skin blisters observed in 
+infants soon after birth. 25,26,27 The stages of IP progression are 
+as follows:
+Stage 1 is called vesicular or vesicular-bullous. It is 
+characterized by linear inflammatory bubbles and vesicles which 
+appear during the first two months after birth, with relative 
+sparing of the face. This stage can last from weeks to months. 
+Stage 2 is called verrucous. During this stage, linear 
+hyperkeratotic papules develop on the distal limbs and scalp and 
+last for varying durations. 
+Stage 3 is the hyperpigmentation stage. It occurs with 
+the onset of linear hyperpigmented streaks starting in infancy 
+(Figure 10) and gradually disappearing during adulthood.
+Stage 4 is the final stage and characterized by hypopigmented 
+macules and hairless patches. Skin biopsies of these patients show 
+dyskeratosis, acanthosis, pigment incontinence and eosinophil 
+infiltration.25,26,27
+Extracutaneous manifestations are common, observed in up 
+to 80% of IP cases. These can include:25,26,27,30,31,32 
+• Eye abnormalities (retinal and corneal abnormalities, 
+microphthalmia, cataract, iris hypoplasia, uveitis, nystagmus, 
+strabismus), which are reported in up to 77% of IP cases.
+• Dental abnormalities (delayed eruption, malformed 
+teeth, hypodontia, anodontia, delayed dentition), which are 
+present in up to 80% of cases.
+• Nail abnormalities (mild nail dystrophy, ridging, or 
+disruption).
+•  Hair involvement (alopecia and baldness).
+• Central nervous system involvement (convulsions, 
+seizures, mental retardation, ischemic strokes, hydrocephalus). 
+Approximately 30% of IP patients have neurologic impairment. Figure 8. Intra-operative view of Coats’ disease with fibrovascular membrane. A 
+fibrovascular membrane was localized posteriorly in a patient with Coats’ disease 
+(A). After the removal of fibrovascular membrane, bulb-shaped telangiectasias 
+(white arrows) and subretinal exudates became prominent under perfluorocarbon 
+liquid (B) (Courtesy of Dr. Shunji Kusaka)
+Figure 9. A case of Coats’ disease with a peripheral avascular retina, mimicking 
+familial exudative vitreoretinopathy . Color fundus photograph of Coats’ disease 
+shows peripheral vascular proliferations and branched vessels, and exudative changes 
+in the posterior pole. Fluorescein angiography of the same case shows peripheral 
+avascular retina with bulb-shaped telangiectasias (white arrow), suggesting the 
+diagnosis of Coats’ disease (Courtesy of Dr. Şengül Özdek)
+Turk J Ophthalmol 53; 1: 202350Affected children can develop hemiplegias, intellectual disability, 
+and cerebellar ataxia. These manifestations pose a significant 
+threat to the normal life expectancy of IP patients.
+• Skeletal abnormalities (syndactyly, cranial deformities, 
+dwarfism, supernumerary ribs, hemiatrophy, and short limbs). 
+• Breast abnormalities  (hypoplasia, unilateral aplasia, 
+supernumerary nipples).
+• Immunological changes due to defective neutrophil 
+chemotaxis and lymphocyte function. There is also possibility of 
+malignancies, such as hematological neoplasms, Wilms’ tumor, 
+and retinoblastoma.
+Retinal Findings: The hallmark of retinal disease in IP is 
+peripheral retinal ischemia leading to neovascularization, vitreous 
+hemorrhage, and tractional RD. Tractional RD may progress to a 
+closed funnel RD with formation of a retrolental mass, eventually 
+leading to phthisis bulbi.26,27,33 Exudative RD may also occur.
+Unlike ROP and FEVR, the ischemia does not follow the 
+developmental vascular pattern with a clear distinction between 
+vascularized retina posteriorly and avascular retina anteriorly . 
+Rather, peripheral ischemia is often accompanied by ischemia of 
+the posterior vascularized retina. Epiretinal neovascularization may 
+develop at this border, which can lead to vitreous hemorrhage, 
+contraction, and traction. In some cases, the foveal avascular zone 
+may enlarge or become irregular because of progressive capillary loss. Approximately one in four children with IP have tractional 
+RDs, with the greatest risk during infancy and childhood.
+Another cause of decreased vision in patients with IP is macular 
+pathology, including foveal hypoplasia, RPE mottling, cherry red 
+spots, increased macular pigmentation, subretinal pigmentary 
+changes, epiretinal membrane, macular ischemia, aneurysms, and 
+neovascularization of the optic disc. In addition, changes in the 
+peripheral retina may progress towards the posterior pole. These 
+include peripheral avascular retina, aneurysm-like dilations, 
+arteriovenous anastomosis, vascular loops similar to those seen in 
+aggressive ROP , retinal and extraretinal new vessels, preretinal 
+fibrovascular proliferation, vitreous hemorrhage, RD (tractional 
+or exudative), and exudates.27,34,35,36
+Less common ocular findings include strabismus, cataracts, 
+conjunctival pigmentation, optic atrophy, retinal pigment 
+abnormalities, foveal hypoplasia, foveal disorganization, and 
+microphthalmia. Reduced vision may also be associated with brain 
+disorders leading to cortical blindness.26,34
+Disease Staging: The vitreoretinal changes that occur during 
+the course of disease can be classified into five stages:
+Stage 1 includes retinal pigment epithelial changes.
+Stage 2 includes retinal vascular abnormalities (except 
+neovascularization).Figure 10. A 2-month-old girl with incontinentia pigmenti and hyperpigmented rash noted on the trunk and lower extremities (A, B). Fundus photograph of the right eye 
+shows total tractional retinal detachment with peripheral avascular retina and fibrovascular membranes causing anteroposterior traction in the center (C). Fundus photograph 
+of the left eye shows near-normal posterior pole and lasered peripheral avascular areas (D). Fluorescein angiography highlights the abnormal vasculature. The right eye shows 
+severe leakage from the fibrovascular membranes and totally avascular periphery (E). The left eye shows leaking pathological vessels at the avascular-vascular junction, posterior 
+to the laser scars (F , G). (Courtesy of Dr. Şengül Özdek)
+51Özdek et al. Avascular Peripheral Retina in Infants 
+Stage 3 includes retinopathy with neovascularization or 
+other pathologies secondary to retinal vasculopathy like retinal 
+exudation, epiretinal membrane/proliferation and vitreous 
+hemorrhage.
+Stage 4 includes RD without end-stage changes. Substages 
+include 4a (partial RD) and 4b (total RD).
+Stage 5 is the end stage, with severe ocular complications 
+such as phthisis bulbi and secondary glaucoma.
+Investigations:  Recent OCT studies using hand-held 
+devices have shown macular abnormalities in IP such as inner 
+and outer retinal thinning, cystoid macular edema, blunted 
+foveal pit, and irregular outer plexiform layer with inner retinal 
+thinning temporal to the fovea.35,36 Ultra-widefield OCT can 
+simultaneously demonstrate macular and peripheral vitreoretinal 
+changes. OCTA is also an important tool to detect capillary 
+nonperfusion and retinal neovascularization.35,36
+Management: IP requires a multidisciplinary approach 
+due to the involvement of multiple organ systems. Pediatric 
+dermatology should be consulted for cutaneous lesions, and 
+pediatric neurology for the management of seizures and 
+neurologic imaging. Genetic testing may confirm the diagnosis. 
+Approximately 25-35% of cases are familial, and the remaining 
+are sporadic. Close ophthalmic monitoring is required from birth 
+to prevent blindness, given the high risk of progressive peripheral 
+retinal nonperfusion and neovascularization. These eyes are at risk 
+for life since the onset of retinopathy is variable. As the retinal 
+vascular disease may progress rapidly over the first weeks of life, 
+monthly examinations from birth to 4 months of age and then every 
+3 months until the age of 1 year is recommended. Examinations can 
+be performed every 6 months after that if the condition is stable. The 
+presence of any ischemia should be carefully monitored since it can be 
+potentially progressive and cause neovascularization and subsequent 
+detachment.26,27,33 We advise early FA to identify avascular retina 
+in IP patients and early and aggressive laser treatment sparing 
+the macula to prevent terminal complications.34 RD and vitreous 
+hemorrhage may require pars plana vitrectomy .
+Prognosis is variable depending on the degree of skin and 
+organ involvement. Patients without significant ophthalmic 
+or neurological impairment have a good prognosis and normal 
+life expectancy .37 Patients with seizures and structural CNS 
+abnormalities have the greatest risk of developmental delay and 
+impairment.37
+Persistent Fetal Vasculature (PFV)
+Previously known as persistent hyperplastic primary vitreous, 
+PFV is a congenital eye disorder leading to blindness in up to 5% 
+of children in the United States.38 This developmental abnormality 
+is caused by failed involution of the embryonic hyaloid vasculature 
+in utero, resulting a various degrees of congenital posterior pole 
+manifestations. First described by Cloquet in 1818, PFV is 
+most often unilateral and sporadic. Bilateral presentation may 
+be noted in up to 10% of cases and this finding should prompt 
+investigation for additional ocular and systemic comorbidities as 
+well as an underlying genetic etiology . PFV has a spectrum of anatomic presentations and may be 
+classified based on location as anterior, posterior, or combined. 
+Anterior PFV is characterized by persistence of part of the 
+tunica vasculosa lentis, and this may result in some or all of 
+the following findings: retrolental opacity, cataract, elongated 
+ciliary process, shallow anterior chamber, and a membranous 
+transformation of the anterior vitreous face with secondary 
+traction on the peripheral retina in some cases. Posterior 
+PFV results from remnants of the hyaloid artery that form a 
+fibrovascular stalk extending from the optic nerve into the 
+vitreous and up to the retrolental area in some cases (Figure 
+11). This may lead to retinal folds, retinal or optic nerve 
+dysplasia, traction, and/or focal detachment, as well as retinal or 
+vitreous hemorrhage. Intraocular progression of PFV is related to 
+continued eye growth inducing tractional changes on the retina, 
+lens, and ciliary processes. Additional ocular manifestations of 
+both anterior and posterior PFV may include microphthalmia, 
+leukocoria, strabismus, amblyopia, corneal opacification, angle-
+closure glaucoma, and phthisis bulbi in advanced cases (Table 
+3).39
+Diagnosis of PFV is usually clinical, and peripheral retinal 
+nonperfusion is one of the main retinal findings in posterior 
+PFV . Peripheral capillary nonperfusion was first described on FA 
+Figure 11. Persistent fetal vasculature in a 6-month-old boy presenting with 
+leukocoria and exotropia of the right eye.40 Color fundus photograph of the right 
+eye revealed a fibrovascular stalk extending from the optic nerve to the posterior 
+lens capsule (A, B, C). Fluorescein angiography of the right eye shows retinal 
+vessels in posterior retinal folds pulled anteriorly into the stalk up to the posterior 
+lens (a, c), as well as peripheral retinal capillary nonperfusion (b). Reprinted from 
+Pictures & Perspectives, 124/4, Jeng-Miller KW , Joseph A, Baumal CR, Fluorescein 
+Angiography in Persistent Fetal Vasculature, Page 455, Copyright (2016), with 
+permission from ElsevierTurk J Ophthalmol 53; 1: 202352in a report of a 6-month-old boy with unilateral PFV (Figure 
+11).40 Recent studies have found retinal vascular abnormalities 
+not only in the affected eyes of patients with unilateral PFV but 
+also in their funduscopically normal fellow eyes.41,42 The fellow 
+eyes had subtle abnormalities that can be revealed through 
+FA.42,43 Specifically, peripheral avascularity was reported as the 
+most common finding seen in 67% to 90% of the fellow eyes 
+of patients with unilateral PFV .41,42 However, these angiographic 
+findings are not specific to PFV and can overlap with other 
+pediatric retinal vascular conditions, especially FEVR. A recent 
+case report described a 13-month-old boy with FEVR presenting 
+with a large unilateral fibrovascular stalk mimicking PFV and 
+bilateral peripheral retinal avascularity .44 Nonetheless, the vascular 
+anomalies are less pronounced in PFV compared to FEVR, thus 
+requiring a higher threshold to treat the avascular retina in 
+PFV . The underlying mechanisms for the peripheral avascular 
+retina and the abnormal vasculature in PFV remain unclear. Of 
+note, the exact regulatory mechanisms responsible for PFV are 
+still poorly understood. Pathogenic variants in the ATOH7, 
+NDP , COX15, ZNF408, and FZD4 genes have been reported 
+in bilateral PFV with different patterns of inheritance. It is 
+possible these pathogenic variants that lead to the cellular defects 
+associated with PFV may also be involved in the development of 
+abnormal retinal vasculogenesis and angiogenesis.43 Moreover, 
+clinical features that can help differentiate PFV from FEVR 
+and other retinal vascular conditions include microphthalmia, 
+congenital eye abnormalities, absence of family history, laterality, 
+and genetic testing.
+Management of PFV includes observation or surgery, 
+depending on visual potential and the location, features, and 
+severity of the disease. Patient age and visual prognosis as dictated 
+by the type of PFV , macular and optic nerve abnormalities, 
+severity of microphthalmia, degree of amblyopia, presence of 
+central lens opacification, and ability to follow up are factors 
+to consider. Observation can be considered in nonprogressive 
+disease without visual axis obscuration, as well as in advanced 
+or chronic disease with poor visual potential characterized by 
+older age at presentation, severe microphthalmia with axial 
+length less than 15 mm, axial length asymmetry greater than 
+3.5 mm,45 extensive anterior and posterior pole congenital 
+anatomic involvement, closed funnel RD, retinal dysplasia, 
+and severe optic hypoplasia with a normal contralateral eye. In 
+these cases, surgery may not be beneficial and might increase the risk of postoperative complications such as RD with 
+progressive phthisis or vitreous hemorrhage. Nevertheless, a 
+surgical approach may be an option as without intervention, 
+some eyes with PFV may eventually lose all vision due to RD or 
+glaucoma (reported range from 27% to 70%).39 Surgery may be 
+indicated in cases of significant media opacities from retrolental 
+membrane or cataract, shallowing of the anterior chamber, 
+uncontrolled glaucoma, ocular hypotony from ciliary process 
+traction, vitreous hemorrhage, and RD secondary to vitreoretinal 
+traction. The goal is to sever the fibrovascular stalk, allow for 
+axial lengthening, alleviate posterior pole and/or ciliary process 
+traction, and prevent progression to tractional RD, glaucoma, 
+phthisis, and vision loss.46,47 When indicated, early intervention 
+should be performed to maximize visual outcome and avoid 
+glaucomatous complications.48 
+Norrie Disease
+Norrie disease is the most severe phenotype in the spectrum 
+of NDP-related retinopathies, which are genetically determined 
+diseases inherited in an X-linked manner and caused by 
+mutations in the Norrin cystine knot growth factor gene, also 
+known as the NDP gene.49 Warburg50 extensively studied the 
+characteristics of the disease and referred to it as congenital 
+progressive oculo-acoustico-cerebral degeneration. The ocular 
+presentation is invariably severe, with retinal degeneration 
+occurring before or very shortly after birth and typically being 
+bilateral.51 Affected patients are male infants owing to its 
+X-linked recessive inheritance. Patients often present with 
+bilateral leukocoria and no light perception at birth or soon 
+after birth.52 Microphthalmia, shallow anterior chamber and 
+synechiae, iris atrophy, cataract, and elongated ciliary processes 
+are commonly observed. The classic fundus finding is a greyish-
+yellow, vascularized, immature retinal cell mass consisting of 
+fibrovascular material behind the lens. These dysplastic retinal 
+masses have been referred to as “pseudogliomas” due to their 
+appearance.52,53,54 The peripheral retina beyond the mass area 
+is often totally avascular and usually shows some pigmentary 
+changes. As the tissue dysplasia and retrolental fibrovascular 
+proliferation progresses, traction on the retina worsens, eventually 
+leading to phthisis bulbi and loss of the eye. Treatment strategies 
+include early laser photocoagulation and vitrectomy to preserve 
+the globe and, if possible, restore some vision, which is usually 
+at the level of light perception.52,53
+Norrie disease is an important consideration in the 
+differential diagnosis of peripheral avascular retina. The disease 
+phenotype may show considerable overlap with other NDP-
+related retinopathies, including X-linked FEVR, NDP-related 
+advanced ROP , some cases of Coats’ disease, and especially severe 
+PFV types.47,55,56,57 An important distinction of Norrie disease 
+is its predisposition for bilateral and symmetric manifestations. 
+Also, RD in Norrie disease is often hemorrhagic and vascular 
+lesions are more prominent.52 Another clue is the associated 
+systemic findings. Cognitive-psychosocial disturbances have 
+been reported at rates of up to 50%.49,58 Sensorineural hearing 
+loss, which usually begins in adolescence, was originally reported Table 3. Key features of persistent fetal vasculature
+Common Microphthalmia, leukocoria, cataract, strabismus
+AnteriorPersistent pupillary membrane, dilated iris vessels, retrolental 
+fibrovascular membrane, shallow anterior chamber, elongated 
+ciliary process, ectropion uvea, coloboma iridis, peripheral 
+tractional retinal detachment, intralenticular hemorrhages, 
+angle-closure glaucoma, corneal opacification
+PosteriorVitreous membranes and stalk, hypoplastic/dysplastic optic 
+nerve, macular pigmentary disruption or hypoplastic macula, 
+retinal fold/detachment, retinal or vitreous hemorrhage, 
+peripheral avascular retina53Özdek et al. Avascular Peripheral Retina in Infants 
+in more than 30% of patients with Norrie disease.50 However, 
+more recent studies have suggested that 100% of patients will 
+eventually suffer some degree of hearing loss.58,59 Nevertheless, 
+the retinal dysplasia that occurs in Norrie disease can 
+be clinically indistinguishable from the presentations of 
+trisomy, 13 Walker-Warburg syndrome, and severe forms 
+of posterior PFV with funnel-shaped RD, and these must be 
+distinguished through genetic testing.
+Other Diseases Associated with Avascular Peripheral 
+Retina
+Protein C deficiency is a rare autosomal genetic disease 
+caused by a deficiency of the natural anticoagulant protein 
+C.60 Protein C is dependent on vitamin K to inactivate specific plasma factors, and subsequently the conversion of prothrombin 
+to thrombin.60 The disease is caused by mutations in the Protein 
+C, Inactivator of Coagulation Factors Va and VIIIa (PROC) gene 
+and predisposes people to fatal thromboembolic attacks and 
+various ophthalmic manifestations.60 Common ocular findings 
+reported in association with this disorder include anterior 
+and posterior segment dysgenesis, leukocoria, microphthalmia, 
+cataract, anomalous retinal vascular branching, amaurosis 
+fugax, retinal hemorrhages, central retinal vein occlusion and 
+artery occlusion, RD, peripheral retinal avascularity, and retinal 
+neovascularization.60,61 FA has revealed leakage at the junction of 
+the vascular and avascular retina.61 In homozygous individuals, 
+ocular findings can present unilaterally or bilaterally at infancy, 
+Figure 12. A 40-day-old girl with Adams-Oliver syndrome presenting with tractional retinal detachment in both eyes (A, B). Fundoscopic examination of the right eye 
+revealed extensive fibrosis involving the optic nerve and the posterior pole (A). The left eye showed a radial falciform retinal fold extending from the macula to temporal 
+periphery (B). Fluorescein angiography of the right eye showed dilated leaking vessels at the center and abrupt termination of the vascularization with bulb-shaped ends in 
+the midperiphery (C). The left eye showed tortuous vessels and capillary nonperfusion areas. There was an abrupt termination of vascularization at the temporal macula and 
+straightening of vessels, as well as posterior leakage (D). The patient underwent lens-sparing vitrectomy with membrane peeling and endolaser in both eyes, which resulted 
+in retinal attachment (E, F). Genetic testing revealed homozygous mutation in the DOCK6 gene. (Courtesy of Dr. Şengül Özdek)Turk J Ophthalmol 53; 1: 202354and the first ophthalmic manifestations include leukocoria and 
+RDs.60,61 Severe vital organ complications may be preventable 
+if treated promptly . Therefore, early diagnosis is essential, as 
+it can save the patient’s life and vision. Treatment focuses on 
+exogenous protein C administration and symptom management. 
+Ophthalmic treatment includes laser photocoagulation for 
+peripheral avascular retina and intravitreal anti-VEGF for 
+neovascularization.61,62
+Adams-Oliver syndrome (AOS) is a rare inherited disorder 
+characterized by aplasia cutis and limb defects.63 Patients may 
+present with neurological, heart, skin, and eye involvement.63 The 
+disease is caused by mutations in ARHGAP31, DLL4, DOCK6, 
+EOGT, NOTCH1, or RBPJ.64 The symptoms depend on which 
+gene is involved, and mutations in these genes are only found in 
+approximately 50% of patients.64 Mutations in the Rho GTPase 
+Activating Protein 31 (ARHGAP31) or Dedicator of cytokinesis 
+6 (DOCK6) genes involve dysfunctional Cdc42/Rac1 signaling, 
+a pathway that is critical for angiogenesis.65 The abnormalities 
+are thought to result from genetically decreased stability of the 
+blood vessels, which affects perfusion and results in ischemia.65 
+Ocular defects include microphthalmia, microcornea, congenital 
+vasculopathy, ischemic-proliferative retinopathy, rubeosis 
+iridis, peripheral avascular retina with gliosis, and intravitreal 
+neovascularization.63,66 Patients may present with limbs that 
+are short or completely missing.63,66 Ophthalmic examination 
+and fundoscopy in children with AOS are warranted. In some 
+patients, the retinal findings have been reported to mimic those 
+of infants with ROP , FEVR, or Norrie disease (Figure 12).66 
+Therefore, suspicion of AOS should prompt ophthalmologic 
+evaluation, including FA, to detect and possibly treat the ischemic 
+retinopathy . There is no cure for AOS. Treatment focuses on 
+symptom management and includes skin grafting, surgery to 
+repair skin lesions and skull abnormalities, prostheses for limb 
+malformations, laser photocoagulation to the avascular retina to 
+arrest the potential evolution from ischemia to neovascularization, 
+and intravitreal anti-VEGF for neovascularization.62,66
+Revesz syndrome, a rare type of dyskeratosis congenita, is an 
+autosomal dominant disease.67 It is caused by mutations in the TERF1 Interacting Nuclear Factor 2 (TINF2) gene, a component 
+of the telomere-associated shelterin complex that protects against 
+the shortening of telomeres.68 When telomeres shorten, cellular 
+apoptosis leads to abnormal growth of the skin, bone marrow, 
+and retinal vasculature.69 The disease is characterized by nail 
+dystrophy, abnormal skin pigmentation, and oral leukoplakia.67 
+The retinal findings are similar to those of exudative retinopathy 
+and include peripheral avascularity of the retina, telangiectatic 
+vessels, neovascularization, and tractional RDs.67,68,69,70 Excess 
+subretinal fluid, intracranial calcifications, and brain abnormalities 
+that lead to postural instability are important features that 
+distinguish Revesz syndrome from other types of dyskeratosis 
+congenita.67,68,71 The subretinal fluid is often diagnosed in small 
+children because they present with leukocoria.69 Depending on 
+the degree of retinal disease, severe vision loss and blindness 
+may occur.70 Due to the extensive nature of Revesz syndrome, 
+its diagnosis and management require a multidisciplinary 
+team consisting primarily of pediatricians, ophthalmologists, 
+hematologists, dermatologists, and neurologists.67,69,70,71 The 
+management consists of treating specific symptoms. Ocular 
+management includes laser photocoagulation to the avascular 
+retina, intravitreal anti-VEGF for neovascularization, and pars 
+plana vitrectomy for RDs.62,70 Life-long follow-up is required to 
+monitor for systemic and ocular disease.69,70
+Conclusions
+To summarize, the most common cause of avascular peripheral 
+retina is ROP . Although ophthalmoscopic features may overlap 
+with other retinal vascular diseases, patients who develop ROP 
+almost uniformly have prematurity and low birth weight. 
+Furthermore, active neovascularization in late infancy, significant 
+asymmetry, and family history of disease are not expected. In 
+term babies or those with marked asymmetry, accompanying 
+systemic findings, or a history of similar disease in close relatives, 
+less common causes of similar clinical presentation should be 
+considered in the differential diagnosis. Table 4 summarizes the 
+key differentiating features of these causes. 55Özdek et al. Avascular Peripheral Retina in Infants 
+Ethics
+Peer-review: Externally and internally peer revieved.
+Authorship Contributions
+Concept: Ş.Ö., Design: Ş.Ö., E.Ö.Z., Data Collection or Processing: Ş.Ö., E.Ö.Z., Analysis or Interpretation: Ş.Ö., 
+E.Ö.Z., Literature Search: Ş.Ö., E.Ö.Z., C.R.B., S.H., N.A.P ., 
+A.M.B., A.L-C., H.A., S.K., F .M., S.J., D.L., S.A., Writing: Ş.Ö., 
+E.Ö.Z., C.R.B., S.H., N.A.P ., A.M.B., A.L-C., H.A., S.K., F .M., 
+S.J., D.L., S.A.Table 4. Key differentiating features of diseases presenting with avascular peripheral retina 
+ROP• History of prematurity/low birth weight/neonatal oxygen therapy/no family history .
+• Bilateral, may be slightly asymmetric.
+• Typical features include avascular peripheral retina, straightening of the vascular arcades with macular and optic disc dragging, vascular 
+proliferation in the form of ridge, tractional RD with concave configuration.
+• Exudates are not expected in the typical disease stages.
+• The course is usually progressive and follows distinct stages in a chronological order within the first few months of the life.
+• Spontaneous regression or cicatrization is common.
+FEVR• Mostly autosomal dominant inheritance.
+• Family history is positive only in half of the cases. Examination of asymptomatic family members is helpful.
+• Bilateral and often asymmetric.
+• Typical features include avascular temporal peripheral retina, straightening of the arcade vessels with macular and optic disc dragging (ROP-like 
+appearance but slower and with unpredictable progression), with or without retinal folds (falciform retinal folds extending mostly to the temporal 
+periphery to the back of the lens).
+• Straightening of the vessels is typical even in the absence of any visible traction.
+• Pre-, intra-, or subretinal exudation is common.
+• Association of posterior hyaloid yellow deposits is very unique for FEVR.
+• Arrested vascularization does not show any forward movement into the avascular retina at any time point.
+• RD is typically tractional, but may subsequently develop exudative and/or rhegmatogenous components.
+•  FA is essential for accurate diagnosis and demonstrates peripheral nonperfusion, vessel straightening and anastomoses, telangiectasias, and 
+neovascularization. There is usually irregular vascular sprouting beyond the transition zone, as opposed to the more homogenous and regular 
+vascularization pattern at the ridge of ROP eyes. The foveal avascular zone is typically very small.
+• Periods of disease inactivity and recurrences are typical throughout life.
+Coats disease• Sporadic, unilateral (90%), male (80%).
+• Pupillary reflex is more yellow than white (xanthocoria).
+• Typical features include peripheral retinal telangiectasias, light bulb-shaped microaneurysms, abundant intra- and subretinal lipid exudates, 
+subfoveal nodule, subretinal fibrosis, peripheral capillary non-perfusion areas on FA. 
+• RD is typically exudative, with bullous elevation in advanced cases.
+• Neovascular glaucoma with rubeosis iridis results in painful red eye in end-stage disease.
+IP• X-linked dominant inheritance, seen mainly in females (lethal in males), mothers may have the same disease.
+• Multisystemic disease – Neonatal skin lesions are typical (often transient and resolve spontaneously); dental hypoplasia, alopecia, and CNS 
+involvement may be seen.
+• Bilateral and often markedly asymmetric.
+• Typical features include avascular peripheral retina leading to neovascularization, retinal hemorrhages, RD, and eventually retrolental fibrovascular 
+mass.
+• RD can be tractional or exudative.
+• A blunted foveal pit, absence of normal parafoveal vasculature, and optic atrophy are commonly seen.
+PFV• Mostly sporadic, unilateral (90%).
+• Microphthalmos, microcornea.
+• Typical features include prominent iris vessels, elongated ciliary processes, retrolental fibrovascular membrane, hyaloid stalk emanating from the 
+disc (often with retinal folds and RD).
+• RD is tractional and often tent-shaped, with attachment of the peripheral retina (seldom funnel-shaped RD) fibrotic attachment to the back of the 
+lens is located more on the nasal side.
+• Retrolental vessels are typically oriented in a radial pattern, and may anastomose with other vasculature in the iris, ciliary body, or circumlental 
+space.
+Norrie disease• Diagnosis at birth or within weeks of birth.
+• Bilateral, symmetric, X-linked recessive inheritance, male.
+• Mostly associated with progressive hearing loss and mental retardation.
+• Microphthalmos, iris atrophy and synechiae, shallow anterior chamber.
+• Severely dysplastic retina (often with severe subretinal hemorrhage and lipid).
+• RD is often hemorrhagic and vascular lesions more prominent than PFV .
+• Confirmation by molecular genetic testing.
+ROP: Retinopathy of prematurity, RD: Retinal detachment, TVL: Tunica vasculosa lentis, PFV: Persistent fetal vasculature, FEVR: Familial exudative vitreoretinopathy, AD: Autosomal dominant, 
+FA: Fluorescein angiography, IP: Incontinentia pigmenti, CNS: Central nervous systemTurk J Ophthalmol 53; 1: 202356Conflict of Interest: No conflict of interest was declared by 
+the authors.
+Financial Disclosure: The authors declared that this study 
+received no financial support.
+References
+1. Spandau U, Kim SJ. Pediatric Retinal Vascular Diseases. 2019. 
+doi:10.1007/978-3-030-13701-4
+2. Michaelson IC. The mode of development of the vascular system of the retina 
+with some observations on its significance for certain retinal diseases. Trans 
+Ophthalmol Soc UK. 1948;68:137-180.
+3. Flower RW , McLeod DS, Lutty GA, Goldberg B, Wajer SD. Postnatal retinal 
+vascular development of the puppy . Invest Ophthalmol Vis Sci. 1985;26:957-
+968.
+4. Smith LEH. Pathogenesis of retinopathy of prematurity . Semin Neonatol. 
+2003;8:469-473. 
+5. Chan-Ling T. Vasculogenesis and Angiogenesis in Formation of the Human 
+Retinal Vasculature. In: Penn JS, ed. Retinal and Choroidal Angiogenesis. 1st 
+ed. Springer; 2008:119-138. doi:10.1007/978-1-4020-6780-8_6
+6. Hughes S, Yang H, Chan-Ling T. Vascularization of the human fetal retina: 
+Roles of vasculogenesis and angiogenesis. Invest Ophthalmol Vis Sci. 
+2000;41:1217-1228.
+7. Lepore D, Ji MH, Quinn GE, Amorelli GM, Orazi L, Ricci D, Mercuri 
+E. Functional and Morphologic Findings at Four Years After Intravitreal 
+Bevacizumab or Laser for Type 1 ROP . Ophthalmic Surg Lasers Imaging 
+Retina. 2020;51:180-186.
+8. Chiang MF , Quinn GE, Fielder AR, Ostmo SR, Paul Chan RV , Berrocal A, 
+Binenbaum G, Blair M, Peter Campbell J, Capone A Jr, Chen Y , Dai S, Ells 
+A, Fleck BW , Good WV , Elizabeth Hartnett M, Holmstrom G, Kusaka S, 
+Kychenthal A, Lepore D, Lorenz B, Martinez-Castellanos MA, Özdek Ş, 
+Ademola-Popoola D, Reynolds JD, Shah PK, Shapiro M, Stahl A, Toth C, 
+Vinekar A, Visser L, Wallace DK, Wu WC, Zhao P , Zin A. International 
+Classification of Retinopathy of Prematurity, Third Edition. Ophthalmology . 
+2021;128:51-68. 
+9. Gilmour DF . Familial exudative vitreoretinopathy and related retinopathies. 
+Eye (Lond). 2015;29:1-14. 
+10. Ranchod TM, Ho LY , Drenser KA, Capone A Jr, Trese MT. Clinical 
+presentation of familial exudative vitreoretinopathy . Ophthalmology . 
+2011;118:2070-2075.
+11. John VJ, McClintic JI, Hess DJ, Berrocal AM. Retinopathy of Prematurity 
+Versus Familial Exudative Vitreoretinopathy: Report on Clinical 
+and Angiographic Findings. Ophthalmic Surg Lasers Imaging Retina. 
+2016;47:14-19.
+12. Musada GR, Syed H, Jalali S, Chakrabarti S, Kaur I. Mutation spectrum of 
+the FZD-4, TSPAN12 AND ZNF408 genes in Indian FEVR patients. BMC 
+Ophthalmol. 2016;16:90.
+13. Pendergast SD, Trese MT. Familial exudative vitreoretinopathy: Results of 
+surgical management. Ophthalmology . 1998;105:1015-1023.
+14. Kashani AH, Learned D, Nudleman E, Drenser KA, Capone A, Trese MT. 
+High prevalence of peripheral retinal vascular anomalies in family members 
+of patients with familial exudative vitreoretinopathy . Ophthalmology . 
+2014;121:262-268.
+15. Shukla D, Singh J, Sudheer G, Soman M, John RK, Ramasamy K, 
+Perumalsamy N. Familial exudative vitreoretinopathy (FEVR). Clinical profile 
+and management. Indian J Ophthalmol. 2003;51:323-328.
+16. Shields JA, Shields CL, Honavar SG, Demirci H. Clinical variations and 
+complications of Coats disease in 150 cases: the 2000 Sanford Gifford 
+Memorial Lecture Am J Ophthalmol. 2001;131:561-571. 
+17. Shields CL, Udyaver S, Dalvin LA, Lim LS, Atalay HT, L Khoo CT, 
+Mazloumi M, Shields JA. Coats disease in 351 eyes: Analysis of features and 
+outcomes over 45 years (by decade) at a single center. Indian J Ophthalmol. 
+2019;67:772-783. 
+18. B Blair MP , Ulrich JN, Elizabeth Hartnett M, Shapiro MJ. Peripheral retinal 
+nonperfusion in fellow eyes in coats disease. Retina. 2013;33:1694-1699.19. Kusaka S. Surgical management of coats disease. Asia Pac J Ophthalmol 
+(Phila). 2018;7:156-159. 
+20. Ucgul AY , Ozdek S, Ertop M, Atalay HT. External Drainage Alone Versus 
+External Drainage With Vitrectomy in Advanced Coats Disease. Am J 
+Ophthalmol. 2021;222:6-14.
+21. He YG, Wang H, Zhao B, Lee J, Bahl D, McCluskey J. Elevated vascular 
+endothelial growth factor level in Coats’ disease and possible therapeutic role 
+of bevacizumab. Graefes Arch Clin Exp Ophthalmol. 2010;248:1519-1521.
+22. Mano F , Matsushita I, Kondo H, Utamura S, Kondo C, Kusaka S. Vitrectomy 
+and external drainage of subretinal fluid containing high concentration 
+of vascular endothelial growth factor for advanced coats disease. Sci Rep. 
+2021;11:19333.
+23. Cai X, Zhao P , Zhang Q, Jin H. Treatment of stage 3 Coats’ disease by 
+endolaser photocoagulation via a two-port pars plana nonvitrectomy approach. 
+Graefe’s Arch Clin Exp Ophthalmol. 2015;253:999-1004. 
+24. Li AS, Capone A Jr, Trese MT, Sears JE, Kychenthal A, De la Huerta I, Ferrone 
+PJ. Long-Term Outcomes of Total Exudative Retinal Detachments in Stage 
+3B Coats Disease. Ophthalmology . 2018;125:887-893. 
+25. Marques GF , Tonello CS, Sousa JM. Incontinentia pigmenti or Bloch-
+Sulzberger syndrome: a rare X-linked genodermatosis. An Bras Dermatol. 
+2014;89:486-489.
+26. Ferrone PJ, Awner S. Proliferative retinopathies in children. in Pediatric 
+Retina (2011). doi:10.1007/978-3-642-12041-1_15.
+27. Lee TC, Chiang MF . Pediatric retinal vascular diseases. Retina 5th ed. 2012. 
+doi:10.1016/B978-1-4557-0737-9.00061-8.
+28. Buinauskiene J, Buinauskaite E, Valiukeviciene S. Incontinentia pigmenti 
+(Bloch-Sulzberger syndrome) in neonates. Medicina (Kaunas). 2005;41:496-
+499.
+29. Pereira MA, Mesquita LA, Budel AR, Cabral CS, Feltrim Ade S. X-linked 
+incontinentia pigmenti or Bloch-Sulzberger syndrome: a case report. An Bras 
+Dermatol. 2010;85:372-375.
+30. Minić  S, Trpinac D, Gabriel H, Gencik M, Obradović  M. Dental and oral 
+anomalies in incontinentia pigmenti: a systematic review. Clin Oral Investig. 
+2013;17:1-8.
+31. Cammarata-Scalisi F , Fusco F , Ursini MV . Incontinentia Pigmenti. Actas 
+Dermosifiliogr (Engl Ed). 2019;110:273-278.
+32. Minić  S, Trpinac D, Obradović  M. Systematic review of central nervous system 
+anomalies in incontinentia pigmenti. Orphanet J Rare Dis. 2013;8:25.
+33. Peng J, Zhang Q, Long X, Zhang J, Huang Q, Li Y , She K, Zhao P . 
+Incontinentia pigmenti-associated ocular anomalies of paediatric incontinentia 
+pigmenti patients in China. Acta Ophthalmol. 2019;97:265-272.
+34. Narang S, Sindhu M, Jain S, Jinagal J. Retinal imaging in incontinentia 
+pigmenti. Indian J Ophthalmol. 2019;67:944-945.
+35. K Kim SJ, Yang J, Liu G, Huang D, Campbell JP . Optical Coherence 
+Tomography Angiography and Ultra-Widefield Optical Coherence 
+Tomography in a Child With Incontinentia Pigmenti. Ophthalmic Surg 
+Lasers Imaging Retina. 2018;49:273-275.
+36. Sen A, Shenoy P , Mitra A, Jain T. Multimodal retinal imaging of a 6-year-old 
+male child with incontinentia pigmenti. Indian J Ophthalmol. 2019;67:942-
+943.
+37. Martínez-Gayosso A, García-Romero MT. Incontinentia pigmenti: 
+multisistemic genodermatosis. Bol Med Hosp Infant Mex. 2020;77:112-118.
+38. Chen C, Xiao H, Ding X. Persistent fetal vasculature. Asia Pac J Ophthalmol 
+(Phila) 2019;8:86-95.
+39. Prakhunhungsit S, Berrocal AM. Diagnostic and Management Strategies in 
+Patients with Persistent Fetal Vasculature: Current Insights. Clin Ophthalmol. 
+2020;14:4325-4335.
+40. Jeng-Miller KW , Joseph A, Baumal CR. Fluorescein Angiography in 
+Persistent Fetal Vasculature. Ophthalmology . 2017;124:455.
+41. Laura DM, Staropoli PC, Patel NA, Yannuzzi NA, Nolan RP , Al-Khersan 
+H, Fan KC, Flynn HW Jr, Acon D, Negron CI, Berrocal AM. Widefield 
+Fluorescein Angiography in the Fellow Eyes of Patients with Presumed 
+Unilateral Persistent Fetal Vasculature. Ophthalmol Retina. 2021;5:301-307.
+42. Shen JH, Liu L, Wang NK, Hwang YS, Chen KJ, Chao AN, Lai CC, Chen 
+TL, Wu WC. Fluorescein Angiography Findings In Unilateral Persistent Fetal 
+Vasculature. Retina. 2020;40:572-580.57Özdek et al. Avascular Peripheral Retina in Infants 
+43. Peripheral vascular abnormalities detected by fluorescein angiography in 
+contralateral eyes of patients with persistent fetal vasculature. Ophthalmic 
+Surg. 2020;51:506-511.
+44. Staropoli PC, Yannuzzi NA, Patel NA, Negron CI, Prakhunhungsit S, 
+Berrocal AM. Novel Frizzled-4 Mutation Is Associated With Familial 
+Exudative Vitreoretinopathy Mimicking Persistent Fetal Vasculature. J 
+Pediatr Ophthalmol Strabismus 2020;57:4-7.
+45. Sisk RA, Berrocal AM, Feuer WJ, Murray TG. Visual and anatomic outcomes 
+with or without surgery in persistent fetal vasculature. Ophthalmology . 
+2010;117:2178-2183.
+46. Zahavi A, Weinberger D, Snir M, Ron Y . Management of severe persistent 
+fetal vasculature: case series and review of the literature. Int Ophthalmol. 
+2019;39:579-587.
+47. Ozdemir Zeydanli, E. & Ozdek, S. Surgical Results of Posterior Persistent 
+Vasculature Syndrome. in Turkish Ophthalmological Association Virtual 
+National Congress and Live Surgery Compound Meeting; (2020).
+48. Bosjolie A, Ferrone P . Visual outcome in early vitrectomy for posterior 
+persistent fetal vasculature associated with traction retinal detachment. 
+Retina. 2015;35:570-576.
+49. Sims KB. NDP-Related Retinopathies. GeneReviews; 1993.
+50. Warburg M. Norrie’s disease. A congenital progressive oculo-acoustico-
+cerebral degeneration. Acta Ophthalmol(Copenh). 1966;(Suppl 89):1-47.
+51. Warburg M. Norrie’s disease--differential diagnosis and treatment. Acta 
+Ophthalmol (Copenh). 1975;53:217-236.
+52. Walsh MK, Drenser KA, Capone A Jr, Trese MT. Early vitrectomy effective 
+for Norrie disease. Arch Ophthalmol. 2010;128:456-460.
+53. Spandau UHM, Kim SJ. Pediatric Retinal Vascular Diseases. Springer 
+International Publishing; 2019:15-18. doi:10.1007/978-3-030-13701-4_2
+54. Duke JR. Pseudoglioma in children: Aspects of clinical and pathological 
+diagnosis. South Med J. 1958;51:754-759.
+55. Dickinson JL, Sale MM, Passmore A, FitzGerald LM, Wheatley CM, 
+Burdon KP , Craig JE, Tengtrisorn S, Carden SM, Maclean H, Mackey DA. 
+Mutations in the NDP gene: contribution to Norrie disease, familial exudative 
+vitreoretinopathy and retinopathy of prematurity . Clin Exp Ophthalmol. 
+2006;34:682-688.
+56. Walsh MK, Drenser KA, Capone A Jr, Trese MT. Norrie disease vs familial 
+exudative vitreoretinopathy . Arch Ophthalmol. 2011;129:819-820.
+57. Walsh MK, Drenser KA, Capone A Jr, Trese MT. Early vitrectomy effective 
+for bilateral combined anterior and posterior persistent fetal vasculature 
+syndrome. Retina. 2010;30(4 Suppl):2-8.
+58. Smith SE, Mullen TE, Graham D, Sims KB, Rehm HL. Norrie disease: 
+extraocular clinical manifestations in 56 patients. Am J Med Genet A. 
+2012;158:1909-1917.59. Halpin C, Owen G, Gutiérrez-Espeleta GA, Sims K, Rehm HL. Audiologic 
+features of Norrie disease. Ann Otol Rhinol Laryngol. 2005;114:533-538.
+60. Marlar RA, Montgomery RR, Broekmans A W . Report on the Diagnosis 
+and Treatment of Homozygous Protein C Deficiency . Thromb Haemost. 
+1989;61:529-531.
+61. Ghassemi F , Abdi F , Esfahani M. Ophthalmic manifestations of congenital 
+protein C deficiency: a case report and mini review. BMC Ophthalmol. 
+2020;20:282.
+62. T Taher NO, Ghaddaf AA, Al-Ghamdi SA, Homsi JJ, Al-Harbi BJ, Alomari 
+LK, Almarzouki HS. Intravitreal Anti-vascular Endothelial Growth Factor 
+Injection for Retinopathy of Prematurity: A Systematic Review and Meta-
+Analysis. Front Med (Lausanne). 2022;9:884608.
+63. Adams FH, Oliver CP . Hereditary deformities in man: Due to arrested 
+development. J Hered. 1945;36:3-7.
+64. Lehman A, Stittrich AB, Glusman G, Zong Z, Li H, Eydoux P , Senger C, 
+Lyons C, Roach JC, Patel M. Diffuse angiopathy in Adams-Oliver syndrome 
+associated with truncating DOCK6 mutations. Am J Med Genet A. 
+2014;164:2656-2662.
+65. Tan W , Palmby TR, Gavard J, Amornphimoltham P , Zheng Y , Gutkind 
+JS. An essential role for Rac1 in endothelial cell function and vascular 
+development. FASEB J. 2008;22:1829-1839.
+66. Peralta-Calvo J, Pastora N, Casa-Ventura YG, Hernandez-Serrano R, 
+Abelairas J. Peripheral ischemic retinopathy in Adams-Oliver syndrome. Arch 
+Ophthalmol. 2012;130:1078-1080. 
+67. Revesz T, Fletcher S, al-Gazali LI, DeBuse P . Bilateral retinopathy, aplastic 
+anaemia, and central nervous system abnormalities: a new syndrome? J Med 
+Genet. 1992;29:673-675.
+68. Gupta MP , Talcott KE, Kim DY , Agarwal S, Mukai S. Retinal findings 
+and a novel TINF2 mutation in Revesz syndrome: Clinical and molecular 
+correlations with pediatric retinal vasculopathies. Ophthalmic Genet. 
+2017;38:51-60.
+69. McElnea EM, van der Spek N, Smith O, Fitzsimon S, Patel CK, O’Marcaigh 
+A. Revesz syndrome masquerading as bilateral cicatricial retinopathy of 
+prematurity . J AAPOS. 2013;17:634-636.
+70. Asano M, Tsukamoto S, Sonoda KH, Kondo H. Revesz syndrome with 
+bilateral retinal detachments successfully treated by pars plana vitrectomy . Am 
+J Ophthalmol Case Rep. 2021;23:101137.
+71. Riyaz A, Riyaz N, Jayakrishnan MP , Mohamed Shiras PT, Ajith Kumar VT, 
+Ajith BS. Revesz syndrome. Indian J Pediatr. 2007;74:862-863.

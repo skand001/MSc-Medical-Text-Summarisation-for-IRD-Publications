@@ -1,0 +1,457 @@
+Patient-reported outcome measures in inherited retinal 
+degeneration gene therapy trials
+Gabrielle D. Lacy1, Maria Fernanda Abalem1,2, David C. Musch1,3, Kanishka T. 
+Jayasundera1
+1Department of Ophthalmology and Visual Sciences, University of Michigan Medical School, Ann 
+Arbor, Michigan, United States.
+2Department of Ophthalmology and Otolaryngology, University of Sao Paulo Medical School, Sao 
+Paulo, Sao Paulo, Brazil.
+3Department of Epidemiology, School of Public Health, University of Michigan, Ann Arbor, 
+Michigan, United States.
+Abstract
+Patient-reported outcome (PRO) measures have the potential to uniquely capture patient 
+experience and serve as an outcome measure in inherited retinal degeneration (IRD) gene therapy 
+trials. An IRD-specific patient-reported outcome measure may yield valuable information that has 
+not been obtained from inherited retinal dystrophy gene therapy trials published to-date. Existing 
+PRO measures have inherent limitations for use in IRD gene therapy trials. Developing an 
+applicable patient-reported outcome measure for such trials needs to incorporate patient input 
+from the target population, demonstrate sound psychometric properties, and be made in 
+accordance with U.S. Food and Drug Administration (FDA) guidelines,. This review will discuss 
+the currently available PRO instruments, their limitations for IRD therapeutic trials, and 
+suggestions for future PRO development in IRD populations. The PRO instruments highlighted 
+were identified in PubMed search of English-language journals and previously published review 
+articles.
+Keywords
+patient-reported outcomes; gene therapy; inherited retinal degeneration; clinical trial; PRO; retinal 
+dystrophy
+Corresponding author : Kanishka T. Jayasundera, MD, Retinal Dystrophy Clinic, Kellogg Eye Center, University of Michigan, 1000 
+Wall Street, Ann Arbor, MI, 48105, thiran@med.umich.edu, Phone: (734) 232-8080, Fax: (734) 764-3906. 
+DISCLOSURE OF INTEREST
+The authors have no conflicts to disclose.
+Publisher's Disclaimer: This manuscript has not been published elsewhere and has not been submitted simultaneously for publication 
+elsewhere.
+HHS Public Access
+Author manuscript
+Ophthalmic Genet . Author manuscript; available in PMC 2021 February 26.
+Published in final edited form as:
+Ophthalmic Genet . 2020 February ; 41(1): 1–6. doi:10.1080/13816810.2020.1731836.
+Author Manuscript Author Manuscript Author Manuscript Author ManuscriptINTRODUCTION
+Inherited retinal degenerations (IRDs) are generally slowly progressing diseases that are 
+caused by pathogenic variants in a given gene. Notably, patients with rod-cone dystrophy 
+often complain of lack of peripheral vision, limited contrast sensitivity, and poor low-light 
+vision which can all lead to substantial limitations in daily life ( 1–4). Certain IRDs may 
+follow a common progression pattern, such as degeneration beginning in the periphery, then 
+progressing centrally, and causing a tunnel vision effect. Depending on the type of IRD, 
+either rods or cones may be disproportionally affected resulting in variable deficits in night, 
+peripheral, central, or color vision. Despite some commonalities, the effects of retinal 
+dystrophies are unique to the individual patient.
+Often clinical tests are limited in their ability to describe patients’ vision impairment in the 
+context of the real world( 4–6). For example, a patient may have 20/20 visual acuity, but be 
+unable to walk through an unfamiliar room due to a severely constrained visual field or due 
+to the background illumination. Common clinical measures--visual acuity, visual field, 
+contrast sensitivity, and electroretinogram (ERG) -- do not always reflect patient experience 
+(3–5). Furthermore, these tests have challenges in the reliability of repeated 
+measurements( 7–12).
+Until recently those diagnosed with IRDs had no treatment options. Today, therapeutic 
+advances, such as gene therapy, are providing new possibilities for IRD treatment, and 
+clinical trials to evaluate the efficacy and safety of these therapies are active in centers 
+around the world. With the rapid advancements of these therapies, experts have already 
+identified the need for standardized outcome measures and testing protocols( 13).
+Most importantly, as new treatments are developed, it is critical to evaluate whether or not 
+the changes or improvements are meaningful to the patient( 14). This, combined with the 
+limitations in existing functional outcome measures, calls for the development of a sensitive, 
+reliable, and validated measure to capture patient-reported outcomes (PROs) for use in IRD 
+therapeutic trials.
+The present review includes discussion of existing literature and clinical trials. Patient-
+reported outcome measures in this review were identified in a PubMed search using 
+keywords of “patient-reported outcome”, “questionnaire”, “retinal dystrophy”, “inherited 
+retinal disease”, “retinitis pigmentosa”. The search was limited to PubMed indexed English-
+language journals and PROs identified in previous reviews that are disease-specific to a 
+condition of inherited retinal degeneration.
+In this review, we will discuss the use of PRO instruments, status of current PROs, and 
+recommendations for PRO development. There will be particular emphasis on three key 
+features of PRO development described by the FDA and their particular importance in IRD 
+gene therapy populations. A validated PRO measure is an instrument that has undergone a 
+qualitative analysis of in-depth patient interviews as well as thorough quantitative statistical 
+analysis to determine the measure’s reliability and ability to detect change in the target 
+population. After a review of the existing PRO literature, we have found the existing Lacy et al. Page 2
+Ophthalmic Genet . Author manuscript; available in PMC 2021 February 26.
+Author Manuscript Author Manuscript Author Manuscript Author Manuscriptinstruments do not fully meet the needs of a PRO for gene therapy clinical trials therapy and 
+suggest the development of a novel PRO for this application.
+Why use PRO Instruments?
+Patient-reported outcome measures offer a means of capturing patients’ experience of how 
+their vision condition affects their daily life. These measures are commonly administered as 
+questionnaires that can be used as a screening tool for visual impairment or as a functional 
+outcome measure, and their application results in an enhanced communication between the 
+patient and provider by uncovering aspects of vision and living that might otherwise would 
+be ignored.
+Despite the variety of clinical tests used to diagnose and monitor IRDs, researchers and 
+clinicians still struggle to relate the results of clinical tests to a patient’s experience. Here we 
+will highlight three prominent challenges facing reliance on the results of current visual and 
+retinal function tests in the IRD population.
+First, each clinical test individually does not capture the breadth of visual dysfunction and 
+there is no gold standard test that can fully characterize the impact an IRD has on a patient. 
+As a result, physicians often order a large number of clinical tests for IRD patients. 
+Although recommendations have been made for standardizing testing and outcome 
+measures, patient burden from several hours of testing can be significant, and often the tests 
+yield findings that fail to address domains that are relevant to their condition and its 
+treatment( 13).
+Second, clinical test results can be incongruent with what the patient is experiencing. For 
+example, patients may report changes to their vision, yet their visual acuity shows no 
+change. Further investigation and testing may help explain patient symptoms, as seen with 
+contrast sensitivity testing in patients with Stargardt’s disease and normal visual acuity( 15). 
+Ultimately, a patient’s quality of life should be the most important consideration in 
+evaluating treatment efficacy, and thus PRO instruments have the potential to be the most 
+comprehensive measure of a clinically meaningful treatment effect.
+Third, the outcome of often-used tests such as visual acuity, visual field, contrast sensitivity, 
+and electroretinography can show substantial test-retest variability in the IRD population( 8–
+10)and some claim that these supposedly objective measures could be influenced by 
+patients’ moods or feelings about their general health( 11, 16). This presents a challenge in 
+interpreting and analyzing test results over time in IRD patients. In preparation for their 
+clinical trials, groups have attempted to quantify the degree of variability in clinical tests for 
+ABCA4 (12, 17), RS1(7), CHM (18), RPE65 (19) to inform the use of these data to define 
+meaningful change beyond variability in these measures.
+High quality PRO instruments are designed to offer reliable measures in their target 
+population, which can mitigate the potentially inconsistent data obtained from clinical 
+testing measures. In IRD gene therapy research, PRO tools have provided meaningful data to 
+demonstrate treatment efficacy. In August 2017, published results of a Phase 3 trial of 
+voretigene neparvovec (trade name: Luxterna) showed patient improvement in two non-Lacy et al. Page 3
+Ophthalmic Genet . Author manuscript; available in PMC 2021 February 26.
+Author Manuscript Author Manuscript Author Manuscript Author Manuscriptstandard outcome measures—results of a mobility task and a PRO instrument, the National 
+Eye Institute Visual Function Questionnaire-25 (NEI VFQ-25) —that measures visual 
+functioning in a variety of domains.( 20) In response to this report and previous findings, 
+Luxturna was approved for treatment of RPE65-mediated IRD in December 2017( 21).
+Current Status of PRO Tools in Gene Therapy Trials
+Research to-date places a heavy reliance on a small number of tested and validated PRO 
+questionnaires. While well-established instruments such as the NEI VFQ-25 are high-quality 
+and valuable tools, they were not designed for use in IRD populations nor for gene therapy 
+trials. As will be discussed further in this article, use of a PRO instrument as an outcome 
+measure requires careful consideration of the appropriateness of a particular instrument for 
+the target population.
+Despite these issues, to our knowledge, the only validated PRO instrument that has been 
+used in published gene therapy trials for IRDs is the NEI VFQ-25. Of the peer-reviewed 
+publications of clinical trials in RPE65 , XLRS , and CHM ; three studies have included the 
+NEI VFQ-25 as an outcome measure( 20, 22, 23). An additional three studies have 
+anecdotally included patient commentary on the perceived changes in their vision from 
+treatment ( 24–26). While patient interviews yield information on PROs, without 
+standardizing the method of collecting patient experience and validating the questionnaire, 
+the utility of patient commentaries is limited.
+Of the 54 gene therapy trials listed in 2018 in the National Clinical Trials (NCT) database, 
+17 note the use of a PRO instrument. Only 7 of these trials specify use of a questionnaire 
+that has been validated for use in other conditions in the NCT listings (NEI VFQ-25, SF-36). 
+We note that in ongoing clinical trials it is possible that not all information on the trial’s 
+methods is publicly available.
+While results from PROs are not required for U.S. Food and Drug Administration (FDA) 
+approval, they are highly recommended by the FDA to be incorporated in a clinical trial. 
+They have been identified as valuable outcome measures in other fields such as intraocular 
+lenses ( 27) and the FDA has produced guidelines for PRO tool development ( 28).
+Published FDA guidelines highlight four properties for evaluation of a PRO as an outcome 
+measure: validity, reliability, ability to detect change, and interpretability ( 28). This review 
+will focus on the first three criteria. Validity (i.e. content-related, criterion-related, 
+predictive) refers to the capacity of the PRO instrument to describe the trait it intends to 
+measure. Reliability (i.e. test-retest, internal consistency, inter-interviewer reproducibility) 
+describes the consistency of the measurements taken using the PRO instrument. The 
+instruments’ ability to detect change (i.e. effect size, standard error) reflects the sensitivity of 
+the test.
+Inherited Retinal Dystrophy-Specific PRO Measures
+Khadka, Senthil, and colleagues have evaluated the content, measurement, psychometric, 
+and validation properties of the existing ophthalmologic questionnaires relative to FDA 
+guidelines ( 29, 30). In their study of IRD PRO instruments, 11 IRD-specific PRO Lacy et al. Page 4
+Ophthalmic Genet . Author manuscript; available in PMC 2021 February 26.
+Author Manuscript Author Manuscript Author Manuscript Author Manuscriptinstruments were identified (9 for retinitis pigmentosa, 1 for Stargardt’s disease, and 1 for 
+Congenital Stationary Night Blindness) and few had been adequately validated. To our 
+knowledge, these disease-specific PROs have not been incorporated into past or existing 
+gene therapy trials. We will discuss the merits of each of the PRO instruments and discuss 
+the limitations to their application in IRD gene therapy clinical trials.
+Perceived Visual Function Questionnaire.— As mentioned earlier, clinical function 
+tests may not always reflect a patient’s subjective experience. To address this concern, 
+Lodha and colleagues developed a PRO instrument and compared PRO responses with 
+visual acuity, visual field, and contrast sensitivity testing in patients with retinitis pigmentosa 
+(RP) ( 2). They identified correlations between PRO items related to near vision with visual 
+acuity and contrast sensitivity when these factors were combined (r=0.609). Similarly, they 
+found a correlation between global vision items and combined visual field and visual acuity 
+(r=0.545). This study is informative in its contribution to the understanding of the 
+intersection of patient reports and clinical testing. However, the study gives little information 
+regarding how PRO items were derived and psychometrically validated.
+Activities of Daily Vision & Daily Task Performance Questionnaire.— Szlyk and 
+colleagues have developed two PRO instruments designed to evaluate the functional tasks 
+and activity limitations experienced by patients with RP ( 3, 31). The first PRO instrument 
+they developed combined two existing questionnaires and added additional questions 
+intended to be specific to RP-related difficulties ( 3). Using factor analysis, they categorized 
+tasks into 6 categories and created a composite score. Additionally, their analysis generated 
+a predictive model to evaluate the relative correlations of visual acuity, visual fields, and 
+ERG to patient-reported functional abilities. Their findings suggest that acuity scores 
+significantly correlated (p<0.01) with 28/33 PRO items (r=0.22–0.57), while 18/33 items 
+correlated with V-4-e (r=0.20–0.47) and 23/33 with II-4-e (r=0.21–0.45) Goldmann visual 
+field areas. ERG data added minimally to the correlation between PRO items and visual 
+acuity and visual fields( 3). In a follow-up to their previous work, the group sought to 
+evaluate how well patient perception of their functional abilities matched their actual 
+functional ability ( 31). Using the Activities of Daily Vision questionnaire and adding 20 RP-
+specific items identified by expert opinion, their results showed a significant correlation 
+(p<0.01) between 29 of the 32 questionnaire items and a functional assessment by a low-
+vision specialist (r=0.13–0.70). In addition, they observed significant correlations (p<0.01) 
+between questionnaire domains (reading/mobility/peripheral detection) and logMAR visual 
+acuity (r s=−0.55/−0.40/−0.38), visual field (r s=0.42/0.47/0.55), contrast sensitivity 
+(rs=0.62/0.54/0.52) and ERG. While both studies are informative, the methods for 
+generating PRO items using in-depth interviews with patients with IRDs and the extent to 
+which the PROs were psychometrically validated are unclear.
+Independent Mobility Questionnaire & Mobility Difficulties Questionnaire.—
+Turano 1999 developed a PRO targeted to assess mobility in RP patients based on expert 
+opinion and a literature review( 5). One hundred and forty-five patients completed the 
+questionnaire but V A, VF, and contrast sensitivity data were available from only 32 patients. 
+From these PRO data, they created a “person-measure” to describe the overall ability of the Lacy et al. Page 5
+Ophthalmic Genet . Author manuscript; available in PMC 2021 February 26.
+Author Manuscript Author Manuscript Author Manuscript Author Manuscriptpatient. When comparing the clinical data, Turano et al reported that 57% of the variability 
+in person-measure scores could be attributed to V A, contrast sensitivity, and VF converted to 
+a functional retinal area. The strength of this PRO is the development process specifically 
+addressing mobility in patients with RP as well as thorough psychometric analysis of the 
+PRO data. The limitations of this PRO include its sole focus on mobility, its reliance on 
+clinical testing that was performed in a small subpopulation of patients, and the lack of 
+patient input in generating the questionnaire items. In a subsequent study, the group sought 
+to examine how RP patients’ mobility varies under different lighting conditions( 6). 
+Responses from 25 patients with RP on a 4-item questionnaire were significantly correlated 
+with the walking speed of patients performing a mobility task when patients reported 
+difficulty in more than one area (p<0.01). Furthermore, the group reported that contrast 
+sensitivity and visual field extent accounted for 69% of the variance in walking speed. While 
+short questionnaires provide certain advantages, this 4-item questionnaire was not validated 
+and was limited to evaluating mobility in the context of varying lighting conditions.
+Everyday Task Questionnaire.— In a continuation of their previous work, Lowe and 
+Drasdo sought to broadly describe the patient experience with RP( 32). Forty-eight patients 
+with RP were sent a 16-item questionnaire and Snellen chart via mail. Patients were asked to 
+complete the questionnaire and record their V A at home. Through these responses, they 
+collected information regarding common features of RP, however the small sample size, and 
+lack of validation present challenges for further application.
+Vision-Related Activity of Daily Living & Field Expander Questionnaire.— In the 
+course of studying visual field expander aids, two different groups created PRO instruments 
+to collect information on patient experience ( 33, 34). While both studies were performed in 
+small populations (16 and 10 patients), the questions were adapted to their RP low-vision aid 
+users. The small sample size, specific focus of the questions, lack of validation, and 
+insufficient information given regarding the PRO questionnaire all limit the generalizability 
+of these PROs for use in other studies.
+Stargardt’s Macular Dystrophy Vision Questionnaire & Night Vision 
+Questionnaire.— Apart from RP, only two PROs have been developed to target other 
+IRDs. Miedziak et al studied 200 patients with Stargardt’s disease to better characterize the 
+condition( 35). The group created a PRO tool based on existing instruments and patient input. 
+While a strength of this PRO is its development in a large Stargardt’s population, applying 
+this PRO to all other IRDs would be inappropriate. Additionally, the validation methods of 
+this PRO instrument are unclear. In a study of 101 Congenital Stationary Night Blindness 
+(CSNB) patients, Bijveld et al attempted to specifically address night vision and created a 
+PRO instrument that was based on existing low luminance questionnaires with some 
+additional questions( 1). While CSNB is an inherited retinal condition, the non-progressive 
+nature of CSNB as well as the isolated symptom of night blindness are key distinguishers 
+that limit the use of this PRO in a larger IRD population.Lacy et al. Page 6
+Ophthalmic Genet . Author manuscript; available in PMC 2021 February 26.
+Author Manuscript Author Manuscript Author Manuscript Author ManuscriptGuidelines for PRO Creation in IRD Gene Therapy Trials
+Novel and existing PRO instruments used in clinical trials must be held to the same scientific 
+standards as required for other outcome measures. Critically, the use of a particular PRO 
+instrument must have demonstrated validity and reliability as well as appropriateness for its 
+suggested application( 14). To-date, no clinical trials have used publicly available PRO tools 
+intended for use in the IRD gene therapy trials.
+Development for intended population.— First, it is critical that a PRO instrument used 
+in an IRD clinical trial has sound psychometric properties when applied to the target 
+population. As Patrick et al and FDA colleagues have highlighted, the basic psychometric 
+features of a PRO instrument are its reliability, validity, and ability to detect change ( 28, 36). 
+In order for the application of a PRO to be appropriate for a clinical trial, each of these 
+instrument features must be tested and proven in the IRD population targeted for clinical 
+trials. The PRO should be developed for application to patients with a diagnosed retinal 
+dystrophy who meet the eligibility criteria of the clinical trial (i.e. appropriate visual acuity, 
+visual field, and ERG). While IRD clinical trials are largely enrolled based on identified 
+pathogenic variants of genes (i.e. RPE65 , ABCA4 , etc.), given the similarity in clinical 
+characteristics across many IRDs, we consider it appropriate to develop a PRO instrument in 
+a non-gene specific IRD population first. As we gain further insight on these conditions—
+e.g., defined by genotype--and their responses to treatment, developing genotype-specific 
+IRD PRO instruments may be warranted. At this time, a comprehensive PRO measure that 
+evaluates all domains of visual dysfunction causing limitations, validated in a general IRD 
+population (i.e. non gene-specific) has the greatest utility.
+Notably, many IRD clinical trials are conducted in children which presents additional 
+challenges to the validity and reliability of these measures. Items addressed in a PRO must 
+be comprehendible and relevant to the development level of the population.
+Patient input.— The basis for generating applicable content and items in a PRO instrument 
+is patient input. Patrick and colleagues have detailed the appropriate methodology for 
+collecting and analyzing the qualitative data generated from patient input ( 37, 38). This 
+involves a series of in-depth interviews and focus groups with patients to capture their 
+perceptions of how their vision relates to basic domains of their daily life (e.g., functioning, 
+emotional, social) with a series of open-ended questions. These interviews are qualitatively 
+analyzed, and items are identified and sifted by software such as Atlas TI (Version 8.1.3 
+(522) Atlas.ti, Germany) . Based on identification of recurrent items, common themes and 
+points of emphasis (items), along with obtaining guidance from a panel of experts in the 
+field (retinal specialists, genetic counselors, occupational therapists, electrophysiologists, for 
+example), a set of questions are developed that are designed to address all of the domains in 
+a relevant, understandable, and comprehensive manner.
+From this, specific PRO items can be generated to target the identified patient symptoms and 
+experiences. After these items are drafted, researchers must solicit more feedback from 
+patients in the form of a cognitive interview to ensure the items clearly and consistently 
+capture their intended concepts. As emphasized by Patrick et al, expert opinion is not a Lacy et al. Page 7
+Ophthalmic Genet . Author manuscript; available in PMC 2021 February 26.
+Author Manuscript Author Manuscript Author Manuscript Author Manuscriptsubstitute for this process of direct patient input in establishing content validity of an 
+instrument ( 36).
+While many PROs are not validated in patients with severely limited vision, questions must 
+be targeted and relevant to the low-vision IRD population. As these conditions are 
+congenital and slowly progressing, patients may have lived with poor vision and/or subtle 
+visual decline their entire life. Therefore, some common activities and experiences included 
+in existing PRO instruments may not be relevant; for example, questions related to driving a 
+car. Patient input is the only method of generating items that are targeting meaningful patient 
+experiences and activities. For these reasons, we highly encourage patient involvement in the 
+early development of content and questions via the in-depth and cognitive interview methods 
+described in FDA guidelines and supporting literature( 28, 37, 38).
+Psychometric evaluation.— After the PRO instrument has been administered to a large 
+sample of patients, statistical analysis must be performed on the collected data. FDA 
+guidelines do not specify the methodology of statistical evaluation. However, internal 
+consistency, test-retest reliability and the ability to detect change (responsiveness) are noted 
+as critical items to address in a novel PRO instrument ( 28, 36). Given that IRDs are slowly 
+progressing, patient reports should yield consistent findings over short time intervals (i.e. 
+two weeks). The measure must elicit reproducible responses from patients and can be tested 
+directly by repeat administration of the PRO instrument to a subset of patients to ensure 
+reliability. We encourage careful consideration of this concept when designing a PRO for 
+children as consistency in responses may be a particular concern.
+The ability of a PRO instrument to detect change might be a particular challenge in 
+developing a PRO for the IRD gene therapy population. While many gene therapy trial 
+candidates may have very limited vision, floor effects in the distribution of PRO data raise 
+substantial concerns. PRO items must be able to generate results that detect the subtle 
+differences in ability and/or experience from person to person. Capturing such subtle 
+differences requires careful thought in designing a response scale or metric for each intended 
+question. The responses must have sensitivity to the rate and manner that IRD patients 
+experience vision loss. When examining the same patient over time, the PRO instrument 
+must be sensitive to change in both natural disease progression as well as sensitive enough to 
+detect a possible treatment effect of improved visual function.
+PRO statistical analysis conducted using factor analysis methods have been described as 
+yielding first-generation instruments ( 39). Some have advocated the creation of second-
+generation instruments that are based on applying Rasch validation techniques ( 39, 40). The 
+FDA does not advocate for the use of a particular statistical method to use in its guidelines.
+Conclusion
+With the proliferation of gene therapy trials that are intended for regulatory approval, use of 
+validated PRO instruments for IRD-specific populations is imperative to fully understand 
+treatment efficacy. To our knowledge, there is currently no PRO instrument developed for 
+and validated in the population of potential IRD gene therapy candidates. We assert that such Lacy et al. Page 8
+Ophthalmic Genet . Author manuscript; available in PMC 2021 February 26.
+Author Manuscript Author Manuscript Author Manuscript Author Manuscripta PRO tool will be a valuable clinical trial outcome measure and will provide meaningful 
+information for patients and researchers.
+FUNDING
+This work was supported by the National Institute of Health under Grants K23EY026985 (KTJ) and TL1TR002242 
+(GDL).
+REFERENCES
+1. Bijveld MM, van Genderen MM, Hoeben FP, Katzin AA, van Nispen RM, Riemslag FC, et al. 
+Assessment of night vision problems in patients with congenital stationary night blindness. PLoS 
+One. 2013;8(5):e62927. [PubMed: 23658786] 
+2. Lodha N, Westall CA, Brent M, Abdolell M, Heon E. A modified protocol for the assessment of 
+visual function in patients with retinitis pigmentosa. Advances in Experimental Medicine and 
+Biology. 2003;533:49–57. [PubMed: 15180247] 
+3. Szlyk JP, Fishman GA, Alexander KR, Revelins BI, Derlacki DJ, Anderson RJ. Relationship 
+between difficulty in performing daily activities and clinical measures of visual function in patients 
+with retinitis pigmentosa. Arch Ophthalmol. 1997;115(1):53–9. [PubMed: 9006425] 
+4. Haymes S, Guest D, Heyes A, Johnston A. Mobility of people with retinitis pigmentosa as a 
+function of vision and psychological variables. Optom Vis Sci. 1996;73(10):621–37. [PubMed: 
+8916133] 
+5. Turano KA, Geruschat DR, Stahl JW, Massof RW. Perceived visual ability for independent mobility 
+in persons with retinitis pigmentosa. Invest Ophthalmol Vis Sci. 1999;40(5):865–77. [PubMed: 
+10102283] 
+6. Geruschat DR, Turano KA, Stahl JW. Traditional measures of mobility performance and retinitis 
+pigmentosa. Optom Vis Sci. 1998;75(7):525–37. [PubMed: 9703042] 
+7. Jeffrey BG, Cukras CA, Vitale S, Turriff A, Bowles K, Sieving PA. Test-Retest Intervisit Variability 
+of Functional and Structural Parameters in X-Linked Retinoschisis. Translational Vision Science & 
+Technology. 2014;3(5):5.
+8. Fishman GA, Chappelow A V , Anderson RJ, Rotenstreich Y , Derlacki DJ. Short-term inter-visit 
+variability of ERG amplitudes in normal subjects and patients with retinitis pigmentosa. Retina. 
+2005;25(8):1014–21. [PubMed: 16340532] 
+9. Kiser AK, Mladenovich D, Eshraghi F, Bourdeau D, Dagnelie G. Reliability and consistency of 
+visual acuity and contrast sensitivity measures in advanced eye disease. Optom Vis Sci. 
+2005;82(11):946–54. [PubMed: 16317369] 
+10. Bittner AK, Iftikhar MH, Dagnelie G. Test-retest, within-visit variability of Goldmann visual fields 
+in retinitis pigmentosa. Invest Ophthalmol Vis Sci. 2011;52(11):8042–6. [PubMed: 21896857] 
+11. Bittner AK, Ibrahim MA, Haythornthwaite JA, Diener-West M, Dagnelie G. Vision test variability 
+in retinitis pigmentosa and psychosocial factors. Optom Vis Sci. 2011;88(12):1496–506. [PubMed: 
+21946786] 
+12. Parker MA, Choi D, Erker LR, Pennesi ME, Yang P, Chegarnov EN, et al. Test-Retest Variability 
+of Functional and Structural Parameters in Patients with Stargardt Disease Participating in the 
+SAR422459 Gene Therapy Trial. Translational Vision Science & Technology. 2016;5(5):10.
+13. Thompson DA, Ali RR, Banin E, Branham KE, Flannery JG, Gamm DM, et al. Advancing 
+therapeutic strategies for inherited retinal degeneration: recommendations from the Monaciano 
+Symposium. Invest Ophthalmol Vis Sci. 2015;56(2):918–31. [PubMed: 25667399] 
+14. Braithwaite T, Calvert M, Gray A, Pesudovs K, Denniston AK. The use of patient-reported 
+outcome research in modern ophthalmology: impact on clinical trials and routine clinical practice. 
+Patient Relat Outcome Meas. 2019;10:9–24. [PubMed: 30774489] 
+15. Alahmadi BO, Omari AA, Abalem MF, Andrews C, Schlegel D, Branham KH, et al. Contrast 
+sensitivity deficits in patients with mutation-proven inherited retinal degenerations. BMC 
+Ophthalmology. 2018;18(1):313. [PubMed: 30526558] Lacy et al. Page 9
+Ophthalmic Genet . Author manuscript; available in PMC 2021 February 26.
+Author Manuscript Author Manuscript Author Manuscript Author Manuscript16. Bittner AK, Haythornthwaite JA, Diener-West M, Dagnelie G. Worse-than-usual visual fields 
+measured in retinitis pigmentosa related to episodically decreased general health. The British 
+Journal of Ophthalmology. 2013;97(2):145–8. [PubMed: 23212205] 
+17. Cideciyan A V , Swider M, Aleman TS, Feuer WJ, Schwartz SB, Russell RC, et al. Macular function 
+in macular degenerations: repeatability of microperimetry as a potential outcome measure for 
+ABCA4-associated retinopathy trials. Invest Ophthalmol Vis Sci. 2012;53(2):841–52. [PubMed: 
+22247458] 
+18. Dimopoulos IS, Tseng C, MacDonald IM. Microperimetry as an Outcome Measure in 
+Choroideremia Trials: Reproducibility and Beyond. Investigative Ophthalmology & Visual 
+Science. 2016;57(10):4151–61. [PubMed: 27537265] 
+19. Roman AJ, Cideciyan A V , Schwartz SB, Olivares MB, Heon E, Jacobson SG. Intervisit variability 
+of visual parameters in Leber congenital amaurosis caused by RPE65 mutations. Invest 
+Ophthalmol Vis Sci. 2013;54(2):1378–83. [PubMed: 23341016] 
+20. Russell S, Bennett J, Wellman JA, Chung DC, Yu ZF, Tillman A, et al. Efficacy and safety of 
+voretigene neparvovec (AA V2-hRPE65v2) in patients with RPE65-mediated inherited retinal 
+dystrophy: a randomised, controlled, open-label, phase 3 trial. Lancet. 2017;390(10097):849–60. 
+[PubMed: 28712537] 
+21. US Department of Health and Human Services F. FDA approves novel gene therapy to treat 
+patients with a rare form of inherited vision loss.
+22. Dimopoulos IS, Hoang SC, Radziwon A, Binczyk NM, Seabra MC, MacLaren RE, et al. Two-Year 
+Results After AA V2-Mediated Gene Therapy for Choroideremia: The Alberta Experience. 
+American Journal of Ophthalmology. 2018;193:130–42. [PubMed: 29940166] 
+23. Weleber RG, Pennesi ME, Wilson DJ, Kaushal S, Erker LR, Jensen L, et al. Results at 2 Years after 
+Gene Therapy for RPE65-Deficient Leber Congenital Amaurosis and Severe Early-Childhood-
+Onset Retinal Dystrophy. Ophthalmology. 2016;123(7):1606–20. [PubMed: 27102010] 
+24. MacLaren RE, Groppe M, Barnard AR, Cottriall CL, Tolmachova T, Seymour L, et al. Retinal 
+gene therapy in patients with choroideremia: initial findings from a phase 1/2 clinical trial. Lancet. 
+2014;383(9923):1129–37. [PubMed: 24439297] 
+25. Lam BL, Davis JL, Gregori NZ, MacLaren RE, Girach A, Verriotto JD, et al. Choroideremia Gene 
+Therapy Phase 2 Clinical Trial: 24-Month Results. American Journal of Ophthalmology. 2018.
+26. Bainbridge JW, Mehat MS, Sundaram V , Robbie SJ, Barker SE, Ripamonti C, et al. Long-term 
+effect of gene therapy on Leber’s congenital amaurosis. N Engl J Med. 2015;372(20):1887–97. 
+[PubMed: 25938638] 
+27. Lum F, Tarver ME, Kahook MY , Oetting TA, Rorer E, Hilmantel G, et al. Special Commentary: 
+Food and Drug Administration and American Academy of Ophthalmology Sponsored: Developing 
+Novel End Points for Premium Intraocular Lenses Workshop. Ophthalmology. 2015;122(7):1522–
+31. [PubMed: 25896896] 
+28. Guidance for industry: patient-reported outcome measures: use in medical product development to 
+support labeling claims: draft guidance. Health and Quality of Life Outcomes. 2006;4:79. 
+[PubMed: 17034633] 
+29. Khadka J, McAlinden C, Pesudovs K. Quality assessment of ophthalmic questionnaires: review 
+and recommendations. Optom Vis Sci. 2013;90(8):720–44. [PubMed: 23873034] 
+30. Prem Senthil M, Khadka J, Pesudovs K. Assessment of patient-reported outcomes in retinal 
+diseases: a systematic review. Survey of Ophthalmology. 2017;62(4):546–82. [PubMed: 
+28062197] 
+31. Szlyk JP, Seiple W, Fishman GA, Alexander KR, Grover S, Mahler CL. Perceived and actual 
+performance of daily tasks: relationship to visual function tests in individuals with retinitis 
+pigmentosa. Ophthalmology. 2001;108(1):65–75. [PubMed: 11150266] 
+32. Lowe J, Drasdo N. Patients’ responses to retinitis pigmentosa. Optom Vis Sci. 1992;69(3):182–5. 
+[PubMed: 1565414] 
+33. Somani S, Brent MH, Markowitz SN. Visual field expansion in patients with retinitis pigmentosa. 
+Can J Ophthalmol. 2006;41(1):27–33. [PubMed: 16462868] Lacy et al. Page 10
+Ophthalmic Genet . Author manuscript; available in PMC 2021 February 26.
+Author Manuscript Author Manuscript Author Manuscript Author Manuscript34. Kennedy WL, Rosten JG, Young LM, Ciuffreda KJ, Levin MI. A field expander for patients with 
+retinitis pigmentosa: a clinical study. Am J Optom Physiol Opt. 1977;54(11):744–55. [PubMed: 
+610434] 
+35. Miedziak AI, Perski T, Andrews PP, Donoso LA. Stargardt’s macular dystrophy--a patient’s 
+perspective. Optometry. 2000;71(3):165–76. [PubMed: 10970260] 
+36. Patrick DL, Burke LB, Powers JH, Scott JA, Rock EP, Dawisha S, et al. Patient-reported outcomes 
+to support medical product labeling claims: FDA perspective. Value in Health : the Journal of the 
+International Society for Pharmacoeconomics and Outcomes Research. 2007;10 Suppl 2:S125–37. 
+[PubMed: 17995471] 
+37. Patrick DL, Burke LB, Gwaltney CJ, Leidy NK, Martin ML, Molsen E, et al. Content validity--
+establishing and reporting the evidence in newly developed patient-reported outcomes (PRO) 
+instruments for medical product evaluation: ISPOR PRO good research practices task force report: 
+part 1--eliciting concepts for a new PRO instrument. Value in Health : the Journal of the 
+International Society for Pharmacoeconomics and Outcomes Research. 2011;14(8):967–77. 
+[PubMed: 22152165] 
+38. Patrick DL, Burke LB, Gwaltney CJ, Leidy NK, Martin ML, Molsen E, et al. Content validity--
+establishing and reporting the evidence in newly developed patient-reported outcomes (PRO) 
+instruments for medical product evaluation: ISPOR PRO Good Research Practices Task Force 
+report: part 2--assessing respondent understanding. Value in Health : the Journal of the 
+International Society for Pharmacoeconomics and Outcomes Research. 2011;14(8):978–88. 
+[PubMed: 22152166] 
+39. Khadka J, Fenwick E, Lamoureux E, Pesudovs K. Methods to Develop the Eye-tem Bank to 
+Measure Ophthalmic Quality of Life. Optom Vis Sci. 2016;93(12):1485–94. [PubMed: 27668638] 
+40. Gothwal VK, Wright T, Lamoureux EL, Pesudovs K. Psychometric properties of visual 
+functioning index using Rasch analysis. Acta Ophthalmologica. 2010;88(7):797–803. [PubMed: 
+19563369] Lacy et al. Page 11
+Ophthalmic Genet . Author manuscript; available in PMC 2021 February 26.
+Author Manuscript Author Manuscript Author Manuscript Author Manuscript

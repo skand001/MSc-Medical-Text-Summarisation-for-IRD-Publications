@@ -1,0 +1,692 @@
+RBP3  -Retinopathy—Inherited  High  Myopia  
+and  Retinal  Dystrophy:  Genetic  
+Characterization,  Natural  History,  and  Deep  
+Phenotyping  
+MICHALIS  GEORGIOU, KAORU  FUJINAMI, ANTHONY G.  ROBSON, YU  FUJINAMI-YOKOKAWA,  
+AHMED  F. SHAKARCHI, MARCO H.  JI, SAMI H.  UWAYDAT, ANGELA  KIM, MASHA  KOLESNIKOVA,  
+GAVIN  ARNO, NIKOLAS  PONTIKOS, OMAR A.  MAHROO, STEPHEN H.  TSANG, ANDREW R.  WEBSTER,  AND 
+MICHEL  MICHAELIDES  
+•P U R P O S E :  To examine  the genetic  and clinical  features  
+and the natural  history  of RBP3  -associated  retinopathy.  
+•D E S I G N :  Multi-center  international,  retrospective,  case 
+series of adults and children,  with moleculraly  confirmed  
+RBP3  -asociated  retinopathy.  
+• METHODS:  The genetic,  clinical,  and retinal  imaging  
+findings,  including  optical  coherence  tomography  (OCT)  
+and fundus  autofluorescence  (FAF),  were investigated  
+both cross-sectionally  and longitudinally.  The results  
+of international  standard  full-field  electroretinography  
+(ERG)  and pattern  electroretinography  (PERG)  were re- 
+viewed.  
+• RESULTS:  We ascertained  12 patients  (5 female  and 7 
+male) from 10 families  (4 patients  previously  reported).  
+Ten novel disease-causing  RBP3  variants  were identified.  
+Ten patients  were homozygous.  The mean age ( ±SD, 
+range)  of the group was 21.4 years ( ±19.1, 2.9-60.5  
+years)  at baseline  evaluation.  All 12 patients  were highly  
+myopic,  with a mean spherical  equivalent  of –16.0D  
+(range,  –7.0D  to –33.0D).  Visual  acuity  was not sig- 
+nificantly  different  between  eyes, and no significant  ani- 
+sometropia  was observed.  Mean best-corrected  visual acu- 
+ity (BCVA)  was 0.48 logMAR  (SD, ±0.29; range,  0.2- 
+1.35 logMAR);  at baseline.  Eleven  patients  had longi- 
+tudinal  BCVA  assessment,  with a mean BCVA  of 0.46 
+logMAR  after a mean follow-up  of 12.6 years. All pa- 
+Supplemental  Material  available  at AJO.com  . 
+Accepted  for publication  September  26, 2023. 
+From Moorfields  Eye Hospital  (M.G., K.F., A.G.R.,  G.A., N.P., O.A.M.,  
+A.R.W.,  M.M.), London,  UK; UCL Institute  of Ophthalmology  (M.G., 
+K.F., A.G.R.m  G.A., N.P., O.A.M.,  A.R.W.,  M.M.), University  College 
+London,  London,  UK; Jones Eye Institute  (M.G., A.F.S., M.H.J., S.H.U.),  
+University  of Arkansas  for Medical  Sciences,  Little Rock, Arkansas,  USA; 
+Laboratory  of Visual Physiology  (K.F., Y.F.-Y.), Division  of Vision Re- 
+search, National  Institute  of Sensory  Organs, National  Hospital  Organiza-  
+tion Tokyo Medical  Center, Tokyo, Japan; Department  of Health Policy 
+and Management  (Y.F.-Y.),  Keio University  School of Medicine,  Tokyo, 
+Japan; Jonas Children’s  Vision Care (A.K., M.K., S.H.T.),  Departments  
+of Ophthalmology,  Pathology  & Cell Biology,  Columbia  Stem Cell Ini- 
+tiative, Columbia  University,  and Edward S. Harkness  Eye Institute,  New 
+York–Presbyterian  Hospital,  New York, New York, USA 
+Inquiries  to Michel Michaelides,  UCL Institute  of Ophthalmology,  Lon- 
+don, UK; e-mail:  michel.michaelides@ucl.ac.uk  tients were symptomatic  with reduced  VA and myopia  
+by the age of 7 years old. All patients  had myopic  fundi 
+and features  in keeping  with high myopia  on OCT, in- 
+cluding  choroidal  thinning.  The 4 youngest  patients  had 
+no fundus  pigmentary  changes,  with the rest of the pa- 
+tients presenting  with a variable  degree  of mid-peripheral  
+pigmentation  and macular  changes.  FAF showed  variable  
+phenotypes,  ranging  from areas of increased  signal to ad- 
+vanced  atrophy  in older patients.  OCT showed  cystoid  
+macular  edema  at presentation  in 3 patients,  which  per- 
+sisted during  follow-up  in 2 patients  and resolved  to atro- 
+phy in the third patient.  The ERGs were abnormal  in 9 
+of 9 cases, revealing  variable  relative  involvement  of rod 
+and cone photoreceptors  with additional  milder  dysfunc-  
+tion post-phototransduction  in some. All but 1 patient  
+had PERG  evidence  of macular  dysfunction,  which  was 
+severe  in most cases. 
+• CONCLUSIONS:  This study details  the clinical  and 
+functional  phenotype  of RBP3  -retinopathy  in the largest  
+cohort  reported  to date. RBP3  -retinopathy  is a dis- 
+ease characterized  by early onset, slow progression  over 
+decades,  and high myopia.  The phenotypic  spectrum  
+and natural  history  as described  herein  has prognostic  
+and counseling  implications.  RBP3  -related  disease  should  
+be considered  in children  with high myopia  and reti- 
+nal dystrophy.  (Am J Ophthalmol  2024;258:  119–
+129. © 2023  The Authors.  Published  by Elsevier  Inc. 
+This is an open access  article  under the CC BY license  
+( http://creativecommons.org/licenses/by/4.0/  )) 
+T he RBP3 gene encodes  for the interstitial  
+retinoid  binding  protein  (IRBP;  Online  Mendelian  
+Inheritence  in Man (OMIM):  180290),  a glycopro-  
+tein expressed  by photoreceptors  and the pineal gland. 1 
+Expression  of RBP3 by rod and cone photoreceptors  is 
+transactivated  by the transcription  factor cone–rod  home-  
+obox (CRX).  2 CRX is a well-established  gene associated  
+with retinal  dystrophy.  3 IRBP is the most abundant  pro- 
+tein found in the interphotoreceptor  space, the extra- 
+cellular  space between  the photoreceptor  outer segments  
+0002-9394/$36.00  © 2023 T HEAUTHORS .PUBLISHED BY ELSEVIER INC.
+THIS IS AN OPEN ACCESS ARTICLE UNDER THE CC BY LICENSE
+(HTTP://CREATIVECOMMONS .ORG/LICENSES /BY/4.0/ )119
+https://doi.org/10.1016/j.ajo.2023.09.025  and the retinal  pigment  epithelium  (RPE).  4 RBP3 is a 
+large, 135-kDa  secreted  protein  that binds and trans- 
+ports cis / trans retinols  between  photoreceptors  and RPE. 4 
+The irbp–/–knock-out  (KO) mouse  shows abnormalities  
+of photoreceptor  morphology  and significantly  reduced  
+photoreceptor  survival  and electroretinogram  (ERG)  re- 
+sponses,  with slow progression  over time. 5 Exaggerated  eye 
+growth  has been reported  in IRBP-deficient  mice in early 
+development.  6 
+RBP3 -retinopathy  has been reported  in only 3 families,  
+with a total of 8 affected  members.  den Hollander  et al re- 
+ported  4 adult siblings  from a consanguineous  Italian  family 
+with autosomal  recessive  retinitis  pigmentosa  (arRP)  and 
+RBP3 -variants.  7 In the second  report of RBP3 variants  caus- 
+ing human  disease,  Arno et al reported  the clinical  pheno-  
+types in 4 children  from 2 families,  with homozygous  non- 
+sense variants,  with generalized  rod and cone dysfunction  
+and unremarkable  fundus  appearance.  8 All 8 children  had 
+high myopia,  highlighting  RBP3 -variants  as a rare cause of 
+retinal  dystrophy  and high myopia.  7 , 8 
+The natural  history  and visual prognosis  of RBP3 - 
+retinopathy  is poorly  understood,  and informed  patient  
+management  is limited  by the rarity of the disease  and re- 
+lated literature.  Herein  we examine  the clinical  character-  
+istics along with the structural  and functional  outcomes  
+in the largest  RBP3 cohort  reported  to date, consisting  of 
+12 molecularly  confirmed  children  and adults.  We describe  
+their genetic,  clinical,  and electrophysiologic  features;  in- 
+vestigate  genotype–phenotype  correlations;  and establish  
+longitudinal  clinical  correlations  among  best-corrected  vi- 
+sual acuity (BCVA)  and age, optical  coherence  tomography  
+(OCT)  characteristics,  and fundus  autofluorescence  (FAF)  
+features.  
+METHODS  
+This retrospective  case series study adhered  to the tenets of 
+the Declaration  of Helsinki.  Each subject  (and a parent  for 
+subjects  < 18 years of age) gave written  informed  consent  
+before genetic  testing.  The study is in agreement  with local 
+institutional  ethics committees.  
+• SUBJECTS:  Adults  and children  with RBP3 -retinopathy  
+who were examined  in the retinal  genetics  service  in 3 ter- 
+tiary centers  (Moorfields  Eye Hospital,  London,  UK; Ed- 
+ward S. Harkness  Eye Institute,  New York–Presbyterian  
+Hospital,  New York, NY, USA; and National  Hospital  Or- 
+ganization  Tokyo Medical  Center,  Tokyo,  Japan),  were re- 
+cruited.  RBP3 -retinopathy  diagnosis  was based on clinical  
+findings  and family history,  and was confirmed  by genetic  
+testing  in all patients.  
+•RBP3 GENETIC  ANALYSIS:  A combination  of direct 
+Sanger  sequencing  and next generation  sequencing,  in- cluding  panels  of retinal  dystrophy  genes, whole exome  se- 
+quencing  (WES),  and whole genome  sequencing  (WGS),  
+was used to identify  variants  in RBP3 . All recruited  pa- 
+tients were reassessed  for their detected  RBP3 variants,  as 
+described  in the Supplemental  Material  (Methods).  
+•O C U L A R  EXAMINATION  AND BCVA:  Review  of clinical  
+records,  including  medical  and ocular histories,  slitlamp  
+biomicroscopy,  and dilated  funduscopic  examination  was 
+performed.  Age of onset was defined  as the age at the first re- 
+ported  symptoms.  BCVA  was measured  using Snellen  charts 
+and converted  into logarithm  of the minimum  angle of res- 
+olution  (logMAR)  units for statistical  analysis.  BCVA  of 
+the best-seeing  eye was used to categorize  patients  into 1 of 
+4 groups  based on the World  Health  Organization  (WHO)  
+visual impairment  criteria,  which defines  a person  with no 
+or mild visual impairment  when presenting  VA is ≤0.48 
+logMAR,  moderate  impairment  when VA is 0.48 to 1 log- 
+MAR,  severe if it is 1 to 1.3 logMAR,  and blindness  if it 
+is > 1.3 logMAR.  Low vision corresponds  to patients  with 
+moderate  and severe impairment.  
+•R E T I N A L  IMAGING:  Fundus  photography  (Optos  ultra 
+widefield  camera;  Optos or Topcon),  infrared  reflectance  
+(IR), spectral  domain  (SD)–OCT  and short-wavelength  
+(488-nm)  FAF were performed  longitudinally  for most of 
+the patients.  Analysis  was performed  using all available  
+data. Not all modalities  or tests were available  at all vis- 
+its, and different  baseline  and last follow-up  were used to 
+maximize  follow-up  time for all the studied  parameters.  The 
+mean age and follow-up  time are reported  individually  for 
+each parameter.  The presence  of complications  due to high 
+myopia  were also reviewed.  Qualitative  and quantitative  
+imaging  analysis  were attempted  for FAF and OCT scans. 
+• ELECTROPHYSIOLOGICAL  TESTING:  Full-field  elec- 
+troretinograpy  (ERG)  and pattern  electroretinograpy  
+(PERG)  testing  were performed,  incorporating  the stan- 
+dards of the International  Society  for Clinical  Electro-  
+physiology  of Vision  (ISCEV).  9 , 10 PERG  P50 was used as 
+an objective  measure  of macular  function  and the dark- 
+adapted  (DA) and light-adapted  (LA) full-field  ERGs used 
+to assess generalized  rod and cone system  function.  The 
+ERG data were compared  with a reference  range from a 
+group of healthy  subjects  (age range, 10-79 years).  11 , 12 The 
+amplitudes  of the main full-field  ERG components  were 
+plotted  as a percentage  of the age-matched  lower limit of 
+normal  (defined  as the 5th percentile),  whilst peak times 
+were plotted  as the difference  from the age-matched  upper 
+peak time limit (95th percentile),  including  the DA 10 
+ERG a-wave,  and the LA 3 single flash ERG b-wave  and 
+the LA 30-Hz ERG. 
+• STATISTICAL  ANALYSIS:  Statistical  analysis  was carried  
+out using SPSS Statistics  for Windows  (version  22.0; IBM 
+Corp.).  Significance  for all statistical  tests was set at P < 
+120 AMERICAN JOURNAL OF OPHTHALMOLOGY FEBRUARY 2024TABLE  1. Demographic  and Clinical  Characteristics  of Study Patients  
+Patient Sex Race Age (y) Baseline BCVA Follow-up  Time (y) Final BCVA Mean Spherical Equivalent  (D) 
+P01 M Tur kish 6.04 0.45 15.61 0.30 –24.63 
+P02 F Tur kish 4.88 0.40 15.61 0.30 –14.25 
+P03 M Afghan 2.86 0.50 13.75 0.24 –13.13 
+P04 M Afghan 5.15 0.30 9.78 0.06 –7 .00 
+P05 M Kurdish/Iraqi  20.61 0.60 11.09 0.84 PCIOL 
+P06 F Pakistani  14.04 0.20 7. 9 4 0.30 –11 .75 
+P07 F NA 33.66 0.41 9.78 0.74 –13.50 
+P08 M Pakistani  16.65 0.44 6.77 0.63 –11 .00 
+P09 F Bangladesh  30.07 0.39 7. 8 2 0.54 –32.00 
+P10 F NA 56.00 0.51 1. 0 0 0.54 PCIOL 
+P11 M NA 60.50 1. 3 5 NA NA PCIOL 
+P12 M Japanese  6.00 0.20 39.00 0.57 –17 .00 
+BCVA = best corrected  visual acuity (in logMAR,  presented  as mean for right and left eyes); D = diopters;  NA = not available;  PCIOL = pos- 
+terior chamber  intraocular  lens. 
+.05. The Shapiro–Wilk  test was used to test for normality  
+for all variables.  
+RESULTS  
+• DEMOGRAPHIC  DATA:  We ascertained  12 patients  (5 fe- 
+male and 7 male),  from 10 families.  Four patients  (P1-P4)  
+were previously  reported.  8 Clinical  data and BCVA  were 
+available  at 1 or more visits for all patients.  The mean age 
+( ±SD, range)  of the group was 21.4 years ( ±19.1, 2.9-60.5  
+years) at first evaluation.  The baseline  age and the follow-  
+up time is indicated  below for each individual  assessment.  
+Table 1 summarizes  the demographics,  age at first examina-  
+tion, follow-up  time, and BCVA  for each patient.  
+• GENETIC  ANALYSIS:  All recruited  patients  had likely 
+pathogenic  variants  or variants  of uncertain  significance  in 
+the RBP3 gene. A total of 12 variants  were identified,  with 
+only 2 of them previously  reported.  8 Ten patients  were ho- 
+mozygous  for the identified  variants.  Table 2 summarizes  the 
+genetics  of all patients,  and Figure 1 presents  the localiza-  
+tion of the identified  variants  in the gene domains.  Eight 
+patients  were not previously  reported  ( Table 2 ). The Sup- 
+plemental  Table presents  all sequence  variants,  based on 
+their HGVS  nomenclature  (ID: NM_002900.3)  and their 
+predicted  effect, pathogenicity  assessment  based on the 
+American  College  of Medical  Genetics  and Genomics  
+(ACMG)  guidelines,  allele frequency,  coverage,  general  
+and functional  prediction  scores,  and conservation  scores.  
+•D I S E A S E  ONSET,  SIGNS,  AND SYMPTOMS:  All patients  
+were symptomatic  with reduced  VA and myopia  by the age 
+of 7 years. Four patients  were symptomatic  at birth, with 
+1 patient  having  congenital  nystagmus  (P08),  and 4 pa- 
+tients (33%)  lifelong  nyctalopia  (age range, 16-56 years).  All 12 patients  were highly  myopic,  with a mean spherical  
+equivalent  of right and left eye at last refraction  of –16.0D  
+(range,  –7.0 diopters  [D] to –33.0 D). No significant  ani- 
+sometropia  was observed.  Strabismus  was documented  in 6 
+patients  (50%),  with 2 patients  undergoing  surgery.  One pa- 
+tient had clear lens exchange  in both eyes before the age of 
+30 years, and 2 patients  had early cataract  extraction  and 
+intraocular  lens implants  before the age of 60 years. Other-  
+wise, the visual axis was clear in all patients.  
+All patients  had myopic  fundi and features  in keeping  
+with high myopia,  including  retinal  and choroidal  thin- 
+ning, and prominent  choroidal  vessels.  The fundus  find- 
+ings were symmetric  between  the left and right eyes in 
+all cases, and at all visits ( Figure 2 ). The four youngest  
+patients  had no fundus  pigmentary  changes  ( Figure 2 , A- 
+C), with the rest presenting  with a variable  degree  of mid- 
+peripheral  intraretinal  pigmentation  ( Figure 2 , D-F) and/or  
+macular  atrophic  changes  ( Figure 2 , F-H). All 4 patients  
+with nyctalopia  had pigmentary  fundi changes.  No patient  
+had documented  choroidal  neovascularization  or retinal  de- 
+tachment  due to high myopia.  One patient  had periph-  
+eral punched-out  chorioretinal  atrophy  (P5) arranged  in 
+multiple  curvilinear  streaks  (Schlaegel-like  lines) bilater-  
+ally ( Figure 2 , F), which was observed  over 6 years, with 
+increasing  pigmentation  over time. 
+• NON-OCULAR  MANIFESTATIONS:  No non-ocular  man- 
+ifestations  were identified.  However,  ascertainment  bias 
+cannot  be excluded,  as the vast majority  of patients  were 
+recruited  from a stand-alone  eye hospital  (Moorfields  Eye 
+Hospital).  
+•V I S U A L  ACUITY:  BCVA  was assessed  cross-sectionally  
+and longitudinally.  Baseline  BCVA  was highly  variable  
+among  patients,  but there was no significant  interocular  dif- 
+ference  (W = 10, Wilcoxon  signed  rank test). Mean BCVA  
+of the right and left eyes was 0.48 logMAR  (SD, ±0.29; 
+VOL. 258 N ATURAL HISTORY OF RBP3-R ETINOPATHY 121TABLE  2. Genetics  of Study Patients  
+Patient Pedigree Variant 1 Variant 2 
+c.DNA Protein c.DNA Protein 
+P01 a GC17452  c.3454G  > T p.E1152∗Homozygous  
+P02 a GC17452  c.3454G  > T p.E1152∗Homozygous  
+P03 a GC19774  c.1530T  > A p.Y510∗Homozygous  
+P04 a GC19774  c.1530T  > A p.Y510∗Homozygous  
+P05 GC19334  c.832_834delTTC  p.Phe278del  Homozygous  
+P06 GC19393  c.160C > T p.Gln54∗Homozygous  
+P07 GC20317  c.1619T  > C p.Leu540Pro  Homozygous  
+P08 GC21328  c.509G > A p.Arg170Gln  Homozygous  
+P09 GC29680  c.3399T  > G p.Tyr1133∗Homozygous  
+P10 NY01 c.2824C  > T p.Gln942∗Homozygous  
+P11 NY02 c.1514A  > T p.His505Leu  c.2626G  > T p.Ala876Ser  
+P12 JP01 c.632G > A p.Trp211∗c.345_349delCTGGC  p.Trp116AlafsTer7  
+a Previously  reported  patient variants  by Arno et al.8 
+FIGURE  1. Structure  of the RBP3 genomic  locus. The identified  variants  in the current  cohort are shown.  
+range, 0.2-1.35  logMAR)  at baseline  (mean  age, 21.4 ±
+19.1 years; range, 2.9-60.5  years).  Eleven  patients  had longi- 
+tudinal  BCVA  assessment,  with a mean BCVA  of 0.46 log- 
+MAR (SD, ±0.23 logMAR;  range, 0.06-0.84)  after a mean 
+follow-up  of 12.6 years. No patient  had any other vision limiting  disease.  Figure 3 A, shows the distribution  of mean 
+BCVA  with age, both at baseline  and at follow-up.  Based 
+on the WHO  visual impairment  criteria,  8 patients  (67%)  
+had no or mild visual impairment,  3 patients  (25%)  had 
+moderate  impairment,  1 (8%) had severe impairment,  and 
+122 AMERICAN JOURNAL OF OPHTHALMOLOGY FEBRUARY 2024FIGURE  2. Color fundus  photographs  of patients  with RBP3 -retinal  dystrophy.  The fundus  had a symmetric  appearance  in all 
+cases, with myopic  changes,  including  retinal and choroidal  thinning,  and prominent  choroidal  vessels.  A-C. No fundus  pigmentary  
+changes  in younger  patients.  D-F. Variable  degree of mid-peripheral  pigmentation.  F-H. Macular  atrophic  changes  in older individuals.  
+F. Peripheral  punched-out  chorioretinal  atrophy,  arranged  in multiple  curvilinear  streaks  (Schlaegel-like  lines) bilaterally,  in P5. 
+FIGURE  3. Visual acuity and visual impairment  graphs.  A. Scatter  graph of age and visual acuity for all individuals.  B. Stacked  
+scatter plot of visual impairment  category  per World Health  Organization  and age. Bullets  represent  data from baseline  evaluation;  
+open diamonds  represent  data from last follow-up.  
+VOL. 258 N ATURAL HISTORY OF RBP3-R ETINOPATHY 123FIGURE  4. Fundus  autofluorescence  (FAF) patterns  in RBP3 -retinopathy,  with older individuals  showing  a greater  degree and 
+extent of atrophy.  
+no patient  was blind. In total, 4 patients  (33%)  had low vi- 
+sion. Figure 3 B, depicts  the age distribution  for each class 
+of visual impairment  at the initial and latest visit. 
+• FUNDUS  AUTOFLUORESCENCE:  FAF was available  for 
+all 12 patients  for cross-sectional  assessment  (mean  age 
+±SD, 27.0 ±18.6 years; range, 4.7-61.3  years).  FAF showed  
+variable  phenotypes,  ranging  from areas of increased  sig- 
+nal to advanced  atrophy  in older patients  ( Figure 4 ). The 
+younger  patients  with relatively  normal  fundus  appearance  
+showed  areas of increased  signal on FAF ( Figure 4 , A-B). 
+All patients  after the third decade  of life showed  areas of atrophy  within  the temporal  vascular  arcades  ( Figure 4 , E- 
+I). Patients  after the fourth decade  developed  extensive  pe- 
+ripheral  atrophic  changes  ( Figure 4 , G-I). FAF findings  were 
+symmetric  between  eyes. Eleven  patients  had longitudinal  
+FAF assessment,  with a mean follow-up  of 6.4 years (range,  
+0.4-11.9  years).  Three patients  (age range, 21-38 years) had 
+progressive  FAF abnormalities  over a mean follow-up  of 8.2 
+years. 
+•O P T I C A L  COHERENCE  TOMOGRAPHY:  OCT was avail- 
+able for all patients  at a mean age of 27 years (range,  4.7- 
+60.6 years),  and 11 patients  had longitudinal  data with a 
+124 AMERICAN JOURNAL OF OPHTHALMOLOGY FEBRUARY 2024FIGURE  5. Longitudinal  assessment  of optical coherence  tomography  (OCT)  in RBP3 -retinopathy.  A-I. Transfoveal  horizontal  
+OCT of the right eye at baseline  (top) and at follow-up  (bottom).  Ages at baseline  and follow-up  are indicated.  All patients  have 
+increased  reflectivity  of the retinal pigment  epithelium  (RPE) and choroidal  thinning.  Patients  1, 2, 3, 4, and 6 (A, B, C, D, and 
+F) show a continuous  ellipsoid  zone (EZ) that remains  stable over the follow-up  period.  Patient  5 (E) showed  atrophic  changes  and 
+thinning  at baseline,  which worsened  over follow-up.  Patient  6 (F) had cystoid  macular  edema (CME)  at baseline,  which persisted  
+over follow-up.  Patient  7 (G) had CME at baseline,  which resolved  during follow-up  with worsening  atrophic  changes  and retinal 
+thinning.  Patients  8 and 9 (H and I) had EZ disruption,  which worsened  during follow-up  centrally  and peripherally,  respectively.  
+yo = years old. 
+mean follow-up  of 6.8 years (range,  0.5-11.9  years).  All pa- 
+tients had increased  reflectivity  of the RPE and choroidal  
+thinning.  OCT showed  cystoid  macular  edema  (CME)  at 
+presentation  in 5 eyes of 3 patients  ( Figure 5 , F-G), which 
+persisted  during  follow-up  in 3 eyes ( Figure 5 , F) and re- 
+solved  in 2 eyes ( Figure 5 , G). Five patients  (mean  age, 10.2 years; range, 4.7-14.04  years) showed  a continuous  ellipsoid  
+zone (EZ) that remained  stable over a mean follow-up  pe- 
+riod of 9.2 years. The length  of the preserved  EZ was not 
+quantified  because  of the variable  imaging  systems  and the 
+lack of correction  for axial length,  given also the high my- 
+opia of the cohort.  Four patients  with a mean age of 40.3 
+VOL. 258 N ATURAL HISTORY OF RBP3-R ETINOPATHY 125FIGURE  6. Electrophysiology  assessment.  The main full-field  electroretinography  (ERG)  findings  are summarized  in 9 subjects  
+tested according  to the International  Society  for Clinical  Electrophysiology  of Vision (ISCEV)  standard  methods.  The amplitudes  
+of the dark-adapted  (DA) 10 ERG a-waves  and b-waves,  light-adapted  (LA) 30-Hz ERG, and LA 3 ERG b-waves  are plotted  as a 
+percentage  of the age-matched  lower limit (5th centile)  of the (“normal”)  reference  range, with values arranged  in ascending  order of 
+DA10 ERG a-wave  amplitude,  with exception  of baseline  data in P4 (included  to compare  with follow-up  data in the same subject).  
+Note that ERGs were undetectable  in P8. Patients  are identified  along the abscissa  (age at time of testing in parentheses).  
+years (range,  21.1-60.6  years) had atrophic  changes,  with 
+2 worsening  over a follow-up  of 10.3 years. Three patients  
+(mean  age, 37.9 years; range, 17-57 years) had EZ disrup-  
+tion, either centrally  or peripherally,  that worsened  over 
+time. A variable  degree  and extent  of epiretinal  membrane  
+(ERM)  was observed  in 9 patients  (75%).  Examples  of lon- 
+gitudinal  OCT assessment  are presented  in Figure 5 . 
+• ELECTROPHYSIOLOGY:  Nine patients  (age range 5-37 
+years; median  17 years) underwent  ERG and PERG  test- 
+ing incorporating  the ISCEV  standard  protocols  and were 
+recorded  with gold foil corneal  electrodes.  There was a high 
+degree  of interocular  ERG symmetry  based on amplitudes  
+of the DA 0.01, DA 10 a- and b-waves,  the LA3 a- and 
+b-waves,  and LA 30 Hz ERGs (slope = 0.99, r2 = 0.97). 
+The full-field  ERG findings  in right eyes are summarized  in 
+Figure 6 , including  baseline  and follow up data from P4. 
+The DA and LA ERGs were undetectable  in 1 case (P8; 
+17 years of age), consistent  with a severe photoreceptor  
+dystrophy.  In others,  baseline  recordings  revealed  either a 
+similar  degree  of generalized  rod and cone system  dysfunc-  
+tion (n = 4) or evidence  of a rod–cone  pattern  of dysfunc-  
+tion (n = 3; P2, P4, and P6). In addition  to DA10 ERG 
+a-wave  reduction  in all cases, indicating  rod photoreceptor  
+dysfunction,  the DA ERG b:a ratio was subnormal  in 3 cases 
+(P3, P5, and P7) and in 7 of 8 the LA3 ERG b:a ratio was 
+subnormal  (n = 3; P3, P5, and P6) or borderline  (n = 4; 
+equal to or minimally  lower than the 5th percentile;  P1, P2, 
+P4, and P9). In case P5, with markedly  subnormal  DA10 ERG a-wave  and additional  b:a ratio reduction,  the b-wave  
+was additionally  of short peak time, and the waveform  was 
+likely mediated  by dark adapted  cones (see Discussion).  
+There was no significant  correlation  or consistent  trend be- 
+tween decreasing  refractive  error and DA10 ERG b:a ra- 
+tios (RE: y = –0.011x,  r2 = 0.14; LE y = 0.026, r2 = 0.22) 
+or LA3 ERG b:a ratios (RE; y = –0.0054,  r2 = 0.026; LE 
+y = 0.011, r2 = 0.035).  
+The LA30 Hz ERGs were delayed  in 8 of 8 cases (by 3 to 
+12 milliseconds),  with a strong positive  association  between  
+age and LA 30Hz peak time delay ( r2 = 0.85). PERG  P50 
+was undetectable  in most (n = 5), showed  significant  reduc-  
+tion (n = 2; P1 and P6, 10 and 18 years of age, respectively)  
+and was normal  in 2 cases (P3 and P4; 7 and 5 years of age, 
+respectively),  consistent  with sparing  of macular  function.  
+Subject  P4 was initially  tested at the age of 5 years and un- 
+derwent  follow-up  recordings  at the age of 12 years (ERG 
+amplitudes  are quantified  and compared  in Figure 6 ). There 
+was initial evidence  of a rod–cone  dystrophy  with normal  
+PERG  in keeping  with preserved  macular  function,  but 7 
+years later the ERGs showed  more marked  worsening  of 
+LA than DA ERGs (including  an increase  in LA30Hz  peak 
+times from 31 to 35 milliseconds)  and a transition  from a 
+rod–cone  to similar  severity  of rod and cone dysfunction,  
+with PERG  P50 abolition  indicating  severe worsening  of 
+macular  function.  
+• GENOTYPE–PHENOTYPE  CORRELATIONS:  Genotype–
+phenotype  assessment  was limited  by the relatively  small 
+126 AMERICAN JOURNAL OF OPHTHALMOLOGY FEBRUARY 2024number  of cases. Half of the patients  with milder  fundus  
+changes,  better BCVA,  and best preserved  rod function  
+(P1-P4;  5-10 years of age at the time of ERG) were homozy-  
+gous for null variants  (P03-P04),  and half were homozygous  
+for non-null  variants  (P01-P02).  These included  3 of the 4 
+patients  with a normal  (P3, P4) or detectable  (P1) PERG  
+consistent  with normal  or relatively  spared  macular  func- 
+tion ( Figure 6 ). Three patients  with 2 non-null  variants  
+(P07, P08, and P11) had more severe disease,  including  the 
+only patient  with undetectable  ERGs (P8; tested at the age 
+of 17 years) and another  case with a severe ERG phenotype  
+(P7; age 34 years).  P11 with non-null  variants  was the 
+oldest in the cohort,  with the most advanced  atrophic  
+changes  and the worst vision (ERG not performed).  The 
+data, based on few cases, suggest  that there is a lack of 
+genotype–phenotype  correlation  and that age may be a 
+more important  determinant  of disease  severity.  
+DISCUSSION  
+The current  study describes  the genetic,  clinical,  and 
+imaging  characteristics  of 12 patients  with molecularly  
+confirmed  RBP3 -retinopathy,  including  cross-sectional  and 
+longitudinal  analysis.  It represents  the largest  cohort  to 
+date to undergo  detailed  investigation,  including  multi- 
+modal imaging,  international  standard  electrophysiology,  
+and genotype–phenotype  assessment.  Our results  provide  
+insights  into the retinal  phenotype  and natural  history,  over 
+a wide range of ages. Eight novel sequence  variants  are re- 
+ported.  
+The natural  history  of the disease  is characterized  by 
+slowly progressive  retinal  degeneration  affecting  both the 
+periphery  and the fovea in older individuals.  The disor- 
+der is characterized  by variable  relative  dysfunction  of rod 
+and cone photoreceptors,  with a high incidence  of milder  
+dysfunction  that might be post-phototransduction  or inner 
+retinal.  The 4 young patients  previously  reported  by our 
+group and included  in the current  study (P1-P4)  had rel- 
+atively  mild disease  compared  with older individuals,  sug- 
+gesting  a strong association  between  age and disease  sever- 
+ity. However,  despite  1 case (P4) showing  worsening  cone 
+function  over 7 years, these individuals  showed  no imag- 
+ing evidence  of progressive  retinal  degeneration  , despite  
+nullizygous  variants,  suggesting  wide phenotypic  variability  
+and the possibility  of less progressive  disease.  In the current  
+study, 3 patients  had progressive  FAF changes  with macular  
+involvement  during  their follow-up  period.  Patients  with 
+nyctalopia  had mid-peripheral  pigmentary  changes.  Less 
+pigment  migration  is consistent  with RBP3 preferential  role 
+in RPE. 13 Older patients  had advanced  atrophic  changes  
+and vision loss. The lack of genotype–phenotype  correla-  
+tion and disease  variability  highlights  the need for com- 
+prehensive  phenotyping.  Longitudinal  studies  over longer  follow-up  will be required  to establish  the variability  in later 
+life. 
+Full-field  ERGs revealed  similar  severity  of rod and cone 
+system  dysfunction  in most cases, with marked  macular  dys- 
+function  similar  to that seen in forms of cone–rod  dys- 
+trophy,  although  there were exceptions  including  1 case 
+with a normal  PERG.  Three patients  had greater  rod than 
+cone involvement,  including  2 patients  with relatively  pre- 
+served  macular  function,  in keeping  with common  forms of 
+rod–cone  dystrophy.  It is highlighted,  however,  that base- 
+line ERGs in one of these cases (P4) at the age of 5 years 
+progressed  over 7 years, revealing  a transition  to more of 
+a cone–rod  functional  phenotype  ( Figure 6 ). Other RBP3 
+cases that present  with a rod–cone  pattern  of dysfunction  
+may evolve  similarly.  One case with a rod–cone  dystrophy  
+showed  DA10 ERG a-wave  reduction  and a low b:a ra- 
+tio but with shortening  of b-wave  peak time and with the 
+waveform  likely representing  a dark-adapted  cone system  
+contribution  exposed  in the absence  of rod function,  as in 
+some other predominant  rod photoreceptor  disorders.  14-17 
+In addition  to primary  photoreceptor  dysfunction,  most 
+cases showed  a low or reduced  ERG b:a ratio consistent  
+with additional  but milder  inner retinal  dysfunction.  The 
+cause is uncertain,  but similar  findings  have been reported  
+in other photoreceptor  and cone–rod  dystrophies,  18-22 in- 
+cluding  those related  to CRX variants.  23-25 RBP3 is transac-  
+tivated  by CRX; however,  unlike  CRX cases, RBP3 -related  
+retinal  disease  is associated  with high myopia.  Axial lengths  
+were not available  for the current  RBP3 cohort,  but there 
+was no evidence  that refractive  index influenced  the ERG 
+b:a ratios, broadly  in keeping  with previous  ERG studies  
+showing  a preserved  b:a ratio across a wide range of myopic  
+patients.  26-30 
+Twelve  RBP3 variants  were identified  in the current  
+study, including  4 missense  (non-null),  4 nonsense  (null),  
+2 truncating  variants  that may escape  nonsense-mediated  
+mRNA  decay (NMD;  non-null),  1 frameshift  (null),  and 1 
+in-frame  deletion  (non-null).  Presumably,  loss of function  
+is the genetic  mechanism  of RBP3 -retinopathy,  given the 
+confirmed  autosomal  recessive  inheritance  and the pheno-  
+typic features  of irbp−/−KO mouse  (photoreceptor  abnor-  
+mality)  and irbp−/ + heterozygote  mouse  (no changes).  5 The 
+presence  of non-null  variants  may suggest  hypomorphic  or 
+milder  clinical  effects;  however,  the genotype–phenotype  
+correlation  based on the presence  of null variants  was not 
+revealed  in the current  study. In a previous  experimen-  
+tal report,  D1080N  stopped  the secretion  of IRBP, creat- 
+ing large insoluble  complexes  through  disulfide  bonds,  then 
+caused  stress within  the endoplasmic  reticulum  (ER) and 
+protein  misfolding.  31 These suggest  both loss of function  
+and gain of a harmful  function,  which may occur in RBP3 - 
+retinopathy.  Although  this hypothesis  cannot  fully support  
+the pathogenicity  of the detected  missense  variants  in the 
+current  study, further  knowledge  of clinical  and experimen-  
+tal studies  could clarify the exact clinical  effect of each 
+detected  variant.  Seven of 12 variants  were classified  into 
+VOL. 258 N ATURAL HISTORY OF RBP3-R ETINOPATHY 127variants  of uncertain  significance  according  to the ACMG  
+guideline.  The assessment  results  are inconclusive,  as ad- 
+ditional  factors  could be met in future studies  or by accu- 
+mulating  knowledge;  PS3, PP1, and PP4. Reassessing  these 
+variants  with further  clinical  and experimental  evidence  
+could enrich  the pathogenicity  evaluation  of the detected  
+variants  in such a rare disorder.  The multiple  roles of RBP3 
+in the retina are poorly  understood.  Elevated  expression  of 
+photoreceptor-secreted  RBP3 may have a role in protection  
+against  the progression  of diabetic  retinopathy  due to hyper-  
+glycemia  by inhibiting  glucose  uptake  via GLUT1  and de- 
+creasing  the expression  of inflammatory  cytokines  and vas- 
+cular endothelial  growth  factor (VEGF).  32 The irbp−/−KO 
+mouse  shows photoreceptor  degeneration,  and markedly  re- 
+duced rod and cone responses  measured  by ERG by 1 month  
+of age. However,  there is only slow deterioration  in rod 
+function  thereafter.  Decreased  secretion  of RBP3,  result-  
+ing in increased  expression  of inflammatory  cytokines  and 
+VEGF,  may be related  to the persistent  CME and the high 
+prevalence  of ERM in patients  in this series. All reported  
+RBP3 patients  also are highly  myopic.  In the irbp−/−KO 
+mouse,  axial length  is significantly  increased  with a cor- 
+responding  marked  myopic  shift. Collectively,  these data 
+support  the role of IRBP in normal  eye growth  and reti- 
+nal development.  High myopia  appears  to be a hallmark  
+of the RBP3-  retinal  degeneration,  and targeted  screening  
+of this gene may be considered  in patients  with high my- 
+opia and retinal  dystrophy,  if not already  included  in panel 
+screening.  • FUTURE  DIRECTIONS:  In total, only 16 patients  in 3 
+studies  from 4 centers  have been reported  in the literature.  
+The disease  is likely rare; however,  the nonspecific  find- 
+ings in younger  patients,  such as high myopia  and normal  
+fundus,  may lead to under-diagnosis  of the disease.  RBP3 
+screening  in young patients  with pathologic  myopia,  with 
+or without  retinal  dystrophy,  may further  help to estimate  
+the prevalence  of the disease,  as well as contribute  to im- 
+proved  understanding  of the disease  phenotype  and natural  
+history  by identifying  more affected  individuals.  
+• LIMITATIONS:  The main limitations  of our study are the 
+retrospective  design,  the lack of a control  group.  and the 
+variable  follow-up  duration.  Visual field data are lacking.  
+Despite  these limitations,  this study provides  the most com- 
+prehensive  analysis  to date of the genetic,  structural,  func- 
+tional,  and clinical  characteristics  RBP3-  retinopathy,  in- 
+cluding  insight  into natural  history.  
+• CONCLUSIONS:  This study details  the clinical  and elec- 
+trophysiological  phenotype  of RBP3 retinopathy  in the 
+largest  cohort  reported  to date. RBP3 -retinopathy  is a dis- 
+ease characterized  by early onset, slow progression  over 
+decades,  high myopia,  and a variable  retinal  function  phe- 
+notype.  The phenotypic  spectrum  and natural  history  as 
+described  herein  have prognostic  and counseling  implica-  
+tions. RBP3 -related  disease  should  be considered  in adults 
+and children  with high myopia  and retinal  dystrophy,  with 
+or without  nyctalopia.  
+Funding/Support:  This work was supported  by grants from the National  Institute  for Health Research  Biomedical  Research  Centre at Moorfields  Eye Hospi- 
+tal NHS Foundation  Trust and UCL Institute  of Ophthalmology  , and The Wellcome  Trust ( 099173/Z/12/Z  and 206619/Z/17/Z  ). Jonas Children’s  Vision 
+Care is supported  by the National  Institute  of Health U01 EY030580  , U01EY034590  R24EY028758  , R24EY027285  , 5P30EY019007  , R01EY033770  . 
+R01EY018213  , R01EY024698  , the Schneeweiss  Stem Cell Fund , the Foundation  Fighting  Blindness  TA-GT-0321-0802-COLU-TRAP  , Richard  Jaffe, 
+Nancy & Kobi Karp , the Crowley  Families  Funds , the Rosenbaum  Family Foundation  , the Gebroe Family Foundation  , the Research  to Prevent  Blindness  
+(RPB) Physician-Scientist  Award, unrestricted  funds from RPB, New York, NY, USA. Financial  Disclosures:  M.M. consults  for MeiraGTx.  S.H.T. receives  
+financial  support from Abeona  Therapeutics,  Inc. He serves on the scientific  and clinical advisory  boards for Emendo  and Nanoscope  Therapeutics.  All 
+the other authors report no disclosures  or conflicts  of interest.  All authors attest that they meet the current ICMJE criteria for authorship.  
+REFERENCES  
+1. Wiggert  B, Lee L, Rodrigues  M, et al. Immunochemi-  
+cal distribution  of interphotoreceptor  retinoid-binding  
+protein  in selected  species.  Invest Ophthalmol  Vis Sci . 
+1986;27(7):1041–1049  . 
+2. Chen S, Wang QL, Nie Z, et al. Crx, a novel Otx–
+like paired-homeodomain  protein,  binds to and trans- 
+activates  photoreceptor  cell-specific  genes. Neuron  . 
+1997;19(5):1017–1030  . 
+3. Pontikos  N, Arno G, Jurkute  N, et al. Genetic  basis of inher- 
+ited retinal disease in a molecularly  characterised  cohort of 
+over 3000 families  from the United  Kingdom.  Ophthalmology  . 
+2020;127(10):1384–1394  . 
+4. Liou GI, Bridges  CD, Fong SL, et al. Vitamin  A transport  be- 
+tween retina and pigment  epithelium—an  interstitial  protein  
+carrying  endogenous  retinol (interstitial  retinol-binding  pro- 
+tein). Vis Res . 1982;22(12):1457–1467  . 5. Liou GI, Fei Y, Peachey  NS, et al. Early onset photorecep-  
+tor abnormalities  induced  by targeted  disruption  of the in- 
+terphotoreceptor  retinoid-binding  protein  gene. J Neurosci  . 
+1998;18(12):4511–4520  . 
+6. Wisard  J, Faulkner  A, Chrenek  MA, et al. Exaggerated  eye 
+growth  in IRBP-deficient  mice in early development.  Invest 
+Ophthalmol  Vis Sci . 2011;52(8):5804–5811  . 
+7. den Hollander  AI, McGee  TL, Ziviello  C, et al. A homozygous  
+missense  mutation  in the IRBP gene (RBP3)  associated  with 
+autosomal  recessive  retinitis  pigmentosa.  Invest Ophthalmol  Vis 
+Sci . 2009;50(4):1864–1872  . 
+8. Arno G, Hull S, Robson  AG, et al. Lack of interphotoreceptor  
+retinoid  binding  protein  caused by homozygous  mutation  of 
+RBP3 is associated  with high myopia  and retinal dystrophy.  
+Invest Ophthalmol  Vis Sci . 2015;56(4):2358–2365  . 
+9. Bach M, Brigell MG, Hawlina  M, et al. ISCEV  standard  for 
+clinical  pattern  electroretinography  (PERG):  2012 update.  
+Doc Ophthalmol  . 2013;126(1):1–7  . 
+128 AMERICAN JOURNAL OF OPHTHALMOLOGY FEBRUARY 202410. Robson  AG, Frishman  LJ, Grigg J, et al. ISCEV  standard  for 
+full-field  clinical  electroretinography  (2022 update).  Doc Oph- 
+thalmol . 2022;144(3):165–177  . 
+11. Georgiou  M, Robson  AG, Fujinami  K, et al. 
+KCNV2  -associated  retinopathy:  genetics,  electrophysi-  
+ology and clinical  course— KCNV2  Study Group report 1. 
+Am J Ophthalmol  . 2021;225:95–107  . 
+12. de Carvalho  ER, Robson  AG, Arno G, et al. Enhanced  S–
+cone syndrome:  spectrum  of clinical,  imaging,  electrophysio-  
+logic, and genetic  findings  in a retrospective  case series of 56 
+patients.  Ophthalmol  Retina . 2021;5(2):195–214  . 
+13. Oh JK, Levi SR, Kim J, et al. Differences  in intraretinal  pig- 
+ment migration  across inherited  retinal dystrophies.  Am J 
+Ophthalmol  . 2020;217:252–260  . 
+14. Sergouniotis  PI, Sohn EH, Li Z, et al. Phenotypic  variability  
+in RDH5 retinopathy  (fundus  albipunctatus).  Ophthalmology  . 
+2011;118(8):1661–1670  . 
+15. Zeitz C, Robson  AG, Audo I. Congenital  stationary  night 
+blindness:  an analysis  and update of genotype-phenotype  cor- 
+relations  and pathogenic  mechanisms.  Prog Retin Eye Res . 
+2015;45:58–110  . 
+16. Thompson  DA, Fujinami  K, Perlman  I, et al. ISCEV  extended  
+protocol  for the dark-adapted  red flash ERG. Doc Ophthalmol  . 
+2018;136(3):191–197  . 
+17. Holder  GE, Mahroo  O. Electronegative  ERG or pseudo-neg-  
+ative ERG? Doc Ophthalmol  . 2022;145(3):283–286  . 
+18. Mukherjee  R, Robson  AG, Holder  GE, et al. A detailed  phe- 
+notypic  description  of autosomal  dominant  cone dystrophy  
+due to a de novo mutation  in the GUCY2D  gene. Eye (Lond) . 
+2014;28(4):481–487  . 
+19. Ba-Abbad  R, Robson  AG, MacPhee  B, et al. Rod-cone  dystro- 
+phy associated  with the Gly167Asp  variant  in PRPH2.  Oph- 
+thalmic Genet . 2019;40(2):188–189  . 
+20. Khan KN, Kasilian  M, Mahroo  OAR, et al. Early patterns  
+of macular  degeneration  in ABCA4-associated  retinopathy.  
+Ophthalmology  . 2018;125(5):735–746  . 
+21. Hahn LC, Georgiou  M, Almushattat  H, et al. The natural  his- 
+tory of Leber congenital  amaurosis  and cone-rod  dystrophy  
+associated  with variants  in the GUCY2D  gene. Ophthalmol  
+Retina . 2022;6(8):711–722  . 22. Liu X, Fujinami  K, Kuniyoshi  K, et al. Clinical  and genetic  
+characteristics  of 15 affected  patients  from 12 Japanese  fam- 
+ilies with GUCY2D  -associated  retinal disorder.  Transl Vis Sci 
+Technol  . 2020;9(6):2  . 
+23. Alsalamah  AK, Khan AO. Electronegative  electroretino-  
+grams in the United  Arab Emirates.  Middle East Afr J Oph- 
+thalmol . 2020;27(2):86–90  . 
+24. Nishiguchi  KM, Kunikata  H, Fujita K, et al. Association  of 
+CRX genotypes  and retinal phenotypes  confounded  by vari- 
+able expressivity  and electronegative  electroretinogram.  Clin 
+Exp Ophthalmol  . 2020;48(5):644–657  . 
+25. Fujinami-Yokokawa  Y, Fujinami  K, Kuniyoshi  K, et al. Clini- 
+cal and genetic  characteristics  of 18 patients  from 13 Japanese  
+Families  with CRX-associated  retinal disorder:  identifica-  
+tion of genotype-phenotype  association.  Sci Rep . 2020;10(1):  
+9531 . 
+26. Perlman  I, Meyer E, Haim T, Zonis S. Retinal  function  in high 
+refractive  error assessed  electroretinographically.  Br J Ophthal-  
+mol . 1984;68(2):79–84  . 
+27. Westall  CA, Dhaliwal  HS, Panton  CM, et al. Values of elec- 
+troretinogram  responses  according  to axial length.  Doc Oph- 
+thalmol . 2001;102(2):115–130  . 
+28. Kader MA. Electrophysiological  study of myopia.  Saudi J Oph- 
+thalmol . 2012;26(1):91–99  . 
+29. Sachidanandam  R, Ravi P, Sen P. Effect of axial length on 
+full-field  and multifocal  electroretinograms.  Clin Exp Optom . 
+2017;100(6):668–675  . 
+30. Wan W, Chen Z, Lei B. Increase  in electroretinogram  rod–
+driven peak frequency  of oscillatory  potentials  and dark- 
+-adapted  responses  in a cohort of myopia  patients.  Doc Oph- 
+thalmol . 2020;140(2):189–199  . 
+31. Li S, Yang Z, Hu J, et al. Secretory  defect and cyto- 
+toxicity:  the potential  disease mechanisms  for the re- 
+tinitis pigmentosa  (RP)-associated  interphotoreceptor  
+retinoid-binding  protein  (IRBP).  J Biol Chem . 2013;288(16):  
+11395–11406  . 
+32. Yokomizo  H, Maeda Y, Park K, et al. Retinol  binding  protein  
+3 is increased  in the retina of patients  with diabetes  resistant  
+to diabetic  retinopathy.  Sci Transl Med . 2019;11(499)  . 
+VOL. 258 N ATURAL HISTORY OF RBP3-R ETINOPATHY 129

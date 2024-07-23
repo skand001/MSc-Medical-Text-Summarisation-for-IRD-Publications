@@ -1,0 +1,964 @@
+© 2022 Indian Journal of Ophthalmology | Published by Wolters Kluwer - MedknowNewer therapeutic options for inherited retinal diseases: Gene and cell 
+replacement therapy
+Rajani Battu1,2, Dhanashree Ratra3, Lingam Gopal4
+Access this article online
+Website:   
+www.ijo.in
+DOI:   
+10.4103/ijo.IJO_82_22
+PMID:   
+*****
+Quick Response Code:
+Inherited	 retinal	diseases	 (IRD)	are	genotypically	 and	phenotypically	 varied	disorders	 that	lead	to	
+progressive degeneration of the outer retina and the retinal pigment epithelium (RPE) eventually resulting 
+in	severe	vision	loss.	Recent	research	 and	developments	 in	gene	therapy	 and	cell	therapy	 have	shown	
+therapeutic	 promise	 in	these	hitherto	 incurable	 diseases.	 In	gene	therapy,	 copies	of	a	healthy	gene	are	
+introduced	 into	the	host	cells	via	a	viral	vector.	Clinical	 trials	for	several	genes	are	underway	 while	
+treatment for RPE65	called	voretigene	 neparvovec,	 is	already	approved	 and	commercially	 available.	 Cell	
+therapy	 involves	 the	introduction	 of	stem	cells	that	can	replace	degenerated	 cells.	These	therapies	 are	
+delivered	 to	the	target	tissues,	namely	the	photoreceptors	 (PR)	and	RPE	via	subretinal,	 intravitreal,	 or	
+suprachoroidal	 delivery	 systems.	 Although	 there	are	several	limitations	 to	these	therapies,	 they	are	expected 	
+to	slow	the	disease	progression	 and	restore	some	visual	functions.	 Further	advances	 such	as	gene	editing	
+technologies	 are	likely	to	result	in	more	precise	and	personalized	 treatments.	 Currently,	 several	IRDs	such	
+as	retinitis	pigmentosa,	 Stargardt	 disease,	Leber	congenital	 amaurosis,	 choroideremia,	 achromatopsia,	 and	
+Usher	syndrome	 are	being	evaluated	 for	possible	 gene	therapy	or	cell	therapy.	 It	is	important	 to	encourage	
+patients	 to	undergo	 gene	testing	and	maintain	 a	nationwide	 registry	 of	IRDs.	This	article	provides	 an	
+overview	 of	the	basics	of	these	therapies	 and	their	current	status.
+Key words: 	Cell	therapy,	 gene	therapy,	 inherited	 retinal	diseases,	 vectors,	voretigene	 neparvovec
+1Aster	CMI 	Hospital,	 Bengaluru,	 Karnataka,	 India,	2Centre	for	Eye	
+Genetics 	and	Research, 	Bengaluru, 	Karnataka, 	India,	3Department 
+of	Vitreoretinal	 Diseases,	 Sankara	 Nethralaya,	 Chennai,	 Tamil	Nadu,	
+India,	4Department	 of	Ophthalmology,	 Yong	Loo	Lin	School	of	
+Medicine,	 National	 University	 of	Singapore,	 Singapore	 Eye	Research	
+Institute,	Singapore
+Correspondence	 to:	Dr.	Rajani	Battu,	Centre	for	Eye	Genetics	 and	
+Research,	 The	Battu	Eye	Centre,	Micon	Fencing,	 25/25,	1st	Floor,	Jakkur	
+Plantation,	 Yashoda	 Nagar,	Bengaluru	 ‑	560	064,	Karnataka,	 India.	
+E‑mail:	rajanibattu@yahoo.com
+Received:	 09‑Jan‑2022  Revision:  22‑Feb‑2022
+Accepted:	 20‑Mar‑2022	 Published:	 30‑Jun‑2022Retinal dystrophies or inherited retinal diseases  (IRD) are 
+a	group	of	heterogeneous	 diseases	 that	are	characterized 	
+by	progressive	 photoreceptor	 (PR)	and/retinal	 pigment 	
+epithelium	 (RPE)	cell	loss	and	eventual	 atrophy	 of	retinal	
+tissue.	They	are	a	significant	 cause	of	blindness	 worldwide.	
+The	common	 IRDs	include	retinitis	pigmentosa	 (RP),	Stargardt 	
+disease	 (STGD),	 choroideremia,	 and	Leber	congenital 	
+amaurosis	(LCA).
+The	management	 of	IRDs	has	conventionally	 been	limited	
+to	genetic	counseling	 and	low‑vision	 rehabilitation.	 However,	
+with	the	recent	surge	in	research	 into	gene	therapy,	 stem	cell	
+therapy,	 and	retinal	prosthesis,	 several	treatment	 options	are	on	
+the	horizon.	 The	management	 of	IRDs	with	gene	therapy	has	
+been	of	interest	since	the	discovery	 that	biological	 information	
+is	passed	on	from	one	generation	 to	the	other	by	discrete	
+biological	 material	 called	“genes”	 encoded	 in	the	DNA	of	the	
+cell	and	that	mutations	 in	various	genes	are	responsible	 for	
+the	occurrence	 of	IRDs.	Cell	replacement	 therapy	 is	another	
+strategy	 to	replace	dead	or	damaged	 retinal	cells	with	cells	
+derived	from	different	 sources	including	 mesenchymal 	
+stem	cells,	peripheral	 or	fetal	RPE	cells,	human	embryonic 	stem	cells	(hESCs),	 or	human‑induced	 pluripotent	 stem	
+cells	(hiPSCs).
+This	article	discusses	 the	basics	of	gene	therapy	 and	cell	
+therapy	and	their	current	status	in	the	management	 of	retinal	
+dystrophies.
+Gene Therapy
+Basics
+The majority of genes mutated in RP	encode	proteins	 that	
+are	expressed	 either	in	PR	cells	or	in	the	RPE.[1] Gene therapy 
+involves	gene	supplementation/replacement	 or	gene	silencing. 	
+Classic	gene	therapy	consists	of	gene	supplementation,	 which	
+enables	 the	restoration	 of	defective	 gene	function	 or	the	
+supply	of	a	missing	 gene	by	introducing	 a	functional	 copy	
+of	the	gene	to	target	cells.	This	is	employed	 for	disorders	 due	
+to	loss‑of‑function	 mutations	 and	is	based	on	the	delivery	
+of	a	correct	copy	of	the	defective	 gene	without	removal 	
+of	the	endogenous 	mutant	 one.	Gene	silencing	 inhibits	
+the	expression	 of	the	mutated	 gene	via	the	modification 	
+of	messenger	 RNA	(mRNA)	 and	is	applied	 to	disorders 	
+caused	by	gain‑of‑function	 mutations.[1]	Irrespective	 of	
+mutation‑dependent	 and	‑independent	 strategies,	 vectors	are	
+Cite this article as: Battu R, Ratra D, Gopal L. Newer therapeutic options 
+for inherited retinal diseases: Gene and cell replacement therapy. Indian J 
+Ophthalmol 2022;70:2316-25.This is an open access journal, and articles are distributed under the terms of 
+the Creative Commons Attribution‑NonCommercial‑ShareAlike 4.0 License, 
+which allows others to remix, tweak, and build upon the work non‑commercially, 
+as long as appropriate credit is given and the new creations are licensed under 
+the identical terms.
+For reprints contact:  WKHLRPMedknow_reprints@wolterskluwer.comReview ArticleJuly	2022	 	 2317
+Battu, et al.: Update on cell and gene therapy for IRDs
+the	key	for	successful	 gene	therapy.[2]	Gene	therapy,	 therefore,	
+uses	either	a	viral	or	non‑viral	 vector	that	replaces	 or	silences	
+the	causative	gene.
+Vectors
+Viruses	are	obligate	 parasites	 of	cells	with	specific	tropism	
+for	the	cell	type	and	have	an	efficient	 delivery	 system	for	the	
+transfer	of	genetic	material.	 Decades	 of	research	 have	helped	in	
+the	development	 of	safe	and	efficient	viral	vectors	suitable	for	
+the delivery of the genes in vivo.	Retroviruses,	 adenoviruses,	
+adeno‑associated	 viruses,	 herpes	simplex	 viruses,	 and	more	
+recently	 with	the	advent	of	nanotechnology,	 nonviral	 gene	
+delivery	systems	are	being	considered	for	gene	therapy.[1,2]
+Adeno‑associated 	viruses	(AAV)	have	become	a	very	popular	
+choice	for	the	gene	therapy	 delivery	 system.[3]	AAV	vector	
+presents	 specific	characteristics	 such	as	low	immunogenicity	
+and	toxicity,	 lack	of	pathogenicity,	 long‑term	 transgene 	
+expression,	 and	relative	 ease	in	manipulating	 genetic	
+elements,	 making	 them	the	safest	and	most	effective	 viral	
+vector	platform	 for	gene	delivery	 into	the	retina	to	date.	They	
+are	replication‑deficient	 in	their	wild‑type	 condition.	 They	
+need	infection	 of	another	 virus,	for	example,	 adenovirus 	
+(and	hence	the	name	AAV)	or	DNA	damage	insult	to	undergo	
+a	lytic	cycle	in	the	host	cell.	A	variety	of	clinical	trials	have	
+been	initiated	 worldwide	 using	different	 serotypes	 of	AAV	
+for	various	IRDs.	Depending	 on	the	capsid	protein	expressed,	
+several	serotypes 	of	the	AAV	virus	have	been	identified,	 among	
+which	AAV2	is	the	most	studied.	 These	capsid	proteins	 allow	
+the	AAV	to	infect	a	specific	cell	type,	thus	making	the in vivo 
+cell‑type	specificity	possible.
+Two major limitations of AAVs in the retina are their slow 
+onset	of	transgene	 expression	 and	the	vector’s	limited	cargo	
+capacity	 of	4.7	kb.[4]	Certain	forms	of	IRDs	such	as	Stargardt	
+disease,	 Usher	syndrome	 Type	1B	and	LCA10	are	caused	by	
+mutations in ABCA4, MYO7A ,	and	CEP290,	respectively	 that	
+have	cDNA	that	exceeds	5	kb,	and	these	are	difficult	 to	treat	
+with AAV.[4]
+Lentiviruses	 (LVs)	have	a	large	capacity	 of	transgenes,	 and	
+sequences	 up	to	8	kb	can	be	integrated	 into	chromosomes	 of	
+target	cells,	supporting	 long‑term	 expression.	 Drawbacks	 of	
+LVs	are	potential	 insertional	 mutagenesis,	 the	complexity	 of	
+production,	and	the	large	diameter.[5]
+Nonviral	 vectors	using	a	nanomaterial‑based 	delivery 	
+system,	 lipid‑based	 delivery,	 and	more	recently	 magnetic 	
+nanoparticles 	are	being	tried.	Challenges 	for	these	systems	
+include	 difficulty	 in	delivery,	 instability,	 and	short‑term 	
+transient expression.[2]
+To	overcome	 some	of	the	limitations	 of	gene	therapy, 	
+genome	 editing	 technologies	 have	gained	considerable 	
+interest.	Genome	 editing	using	clustered	 regularly	 interspaced 	
+short	palindromic	 repeats	(CRISPR)	 and	CRISPR‑associated 	
+protein	(Cas)	have	provided	 an	accurate	 and	efficient	 way	to	
+edit	the	human	genome.	 The	system	utilizes	guide	RNA	to	
+direct	Cas9	endonuclease	 to	specific	gene	loci	proximal	 to	a	
+protospacer	 adjacent	motif,	inducing	 a	double‑strand	 break.	Cell	
+machinery	 then	repairs	the	CRISPR‑targeted	 site	by	performing 	
+non‑homologous	end‑joining	or	homology‑directed	repair.[6]
+There	are	two	different	 approaches	 to	genome	 editing:	an 
+in vivo approach	 where	the	disease‑causing	 mutations	 are	corrected	 directly	in	the	retina	and	an	ex vivo	approach	 in	
+which	the	mutation	 is	corrected	 in	the	patient’s	 cells	and	the	
+autologous	cells	then	used	for	cell	transplantation.[7]
+Treatment	 of	autosomal	 dominant	 disorders	 is	challenging	
+because	 specific	inactivation	 of	the	mutant	allele	is	required	
+to	restore	the	phenotype,	 and	gene	augmentation	 approaches	
+do	not	directly	 target	the	pathogenic 	gene.	One	promising 	
+therapeutic	 approach	 using	CRISPR	technology	 is	to	decrease	
+gene	transcription	 through	 a	strategy	 known	as	CRISPR	
+interference	 (CRISPRi).[8]	Ablation	 of	the	mutant	allele	using	
+the	CRISPR/Cas9	 technology	 is	another	strategy	 that	has	been	
+used in dominant forms for RP due to mutations in the gene 
+encoding	 rhodopsin.[9,10] These studies demonstrate the use 
+of	CRISPR/Cas	 systems	 to	inactivate	 autosomal	 dominant 	
+pathogenic	alleles.[7]
+Diseases Treated
+Gene therapy for LCA
+Leber	congenital	 amaurosis	 (LCA)	is	an	infantile,	 autosomal	
+recessive	 variant	of	RP	that	was	first	described	 by	Leber	in	
+1869.	To	date,	mutations	 in	25	genes	currently	 associated 	
+with	LCA	have	been	identified.	 The	most	common	 mutations	
+include	 CEP290 (15%),	GUCY2D  (12%),	CRB1 (10%),	and	
+RPE65 (6%).[11,12]
+RPE65 is	a	gene‑encoding	 retinoid	 isomerohydrolase 	
+expressed	 in	the	RPE	that	plays	a	key	role	in	the	visual	cycle.	
+Defective	 RPE65  gene leads to an early onset of degeneration of 
+rods,	followed	 by	cones,	causing	significant	 visual	loss.	This	leads	
+to	RP	type	20	and	LCA	type	2,	both	of	which	have	been	extensively 	
+evaluated.[13,14]	Following	 success	in	preclinical	 models,	Russell	
+et al.[15]	(Spark	Therapeutics)	 conducted	 a	phase	III	trial	enrolling 	
+31	patients,	 with	confirmed	 genetic	diagnosis	 of	biallelic	RPE65 
+mutations,	 sufficient	 viable	retina,	and	the	ability	to	perform	
+standardized	 multi‑luminance	 mobility	 testing	(MLMT).	 The	
+intervention	 was	bilateral,	 subretinal	 injection	 of	1·5	x	1011	vector	
+genomes	 of	voretigene	 neparvovec	 in	0.3	mL	of	total	volume.	
+The	primary	efficacy	endpoint	 was	a	1‑year	change	in	the	MLMT	
+performance,	 measuring 	functional	 vision	at	specified	 light	levels.	
+At	1	year,	the	mean	bilateral	MLMT	change	score	was	significantly 	
+higher	in	the	intervention	 group	than	in	the	control	group.	No	
+product‑related	 serious	adverse	events	or	deleterious	 immune	
+responses	 were	noted.	In	addition,	 a	subset	of	participants	 in	this	
+study	was	enrolled	 in	a	separate	 functional	 magnetic	 resonance 	
+imaging	 study	that	showed	increased 	activation	 of	the	visual	
+cortex	and	evidence	 of	improved	 function	and	structure	 of	visual	
+pathways after the intervention.[15]
+Voretigene	 neparvovec‑rzyl	 is	composed	 of	human	RPE65c	
+DNA	along	with	a	cytomegalovirus	 enhancer	 and	a	hybrid	
+chicken	 b‑actin	promoter	 incorporated	 into	a	recombinant 	
+AAV2.	Following	 injection	 into	the	subretinal	 space,	AAV2	
+enters	RPE	cells.	While	the	viral	vector	remains	in	the	episomal 	
+form	in	the	nucleus,	 without	 integrating	 into	the	host	DNA,	
+the	enhancer	 and	promoter	 facilitate	 the	expression	 of	RPE65.
+In	December	 2017,	the	USFDA	approved	 the	gene	therapy	
+“Luxturna” 	(voretigene	 neparvovec‑rzyl), 	developed 	by	Spark	
+Therapeutics,	 to	treat	children	 and	adults	with	biallelic	REP65  
+mutation‑associated	 retinal	dystrophy	 in	the	United	States.[16] 
+Subsequently,	 several	countries	 in	Europe	have	approved	 the	
+drug for use.[17,18]2318	 Indian Journal of Ophthalmology	 Volume	 70	Issue	7
+In addition to RPE65,  multiple other gene therapy 
+trials	for	LCA	are	underway	 for	the	following	 mutations: 	
+GUCY2D  (encodes 	retinal	guanylylcyclase‑1, 	a	protein	
+expressed	 in	the	outer	PR	and	leading	to	LCA	type	1),[19] and 
+CEP290  (encodes 	a	centrosomal	 protein	involved 	in	trafficking 	
+through	the	connecting	cilia	of	PR	cells).[20]
+Gene therapy for choroideremia
+Choroideremia	 is	an	X‑linked	 disorder	 that	leads	to	progressive 	
+degeneration	 of	the	PR,	RPE,	and	choriocapillaris,	 mainly	
+affecting	 males.	Symptoms	 include	 night	blindness	 and	
+progressive	 constriction	 of	visual	fields;	most	affected	 males	
+are	legally	blind	by	their	midlife.	The	causative	 gene	has	been	
+mapped	 at	Xq21.1‑q21.3;	 mutations	 in	this	gene	lead	to	the	loss	
+of	function	 of	a	protein	necessary	 for	retinal	cell	health,	Rab	
+Escort	Protein	1	(REP1).[21]
+A	phase	I/II	clinical	trial	was	conducted	 by	MacLaren	 et al.,[22] 
+in	which	six	patients	 were	administered	 AAV2.REP1	 genome	
+particles	 in	the	subretinal	 space.	At	6	months	of	follow‑up, 	
+all	patients	 showed	 an	improvement	 in	the	visual	acuity	on	
+the	ETDRS	chart	and	an	increase	 in	the	retinal	sensitivity	 on	
+the	microperimetry.	 Spark	Therapeutics	 has	sponsored	 an	
+open‑label,	 dose‑escalating	 Phase	1/2	trial	designed	 to	assess	
+the	safety	and	preliminary	 efficacy	of	subretinal	 administration 	
+of	investigational	SPK‑7001	in	choroideremia.[23]
+Gene therapy for RP
+The	prevalence	 of	RP	in	India	has	been	much	higher	than	that	
+noted	in	the	Western	 population.	 Its	prevalence	 ranges	from	1	
+in	3,500	in	the	US	to	1	in	1,000	in	China	and	India.[24]
+MERTK	is	one	of	the	genes	encoding	 for	a	tyrosine	 kinase,	
+required	 for	the	phagocytosis	 of	photoreceptor	 outer	segments 	
+by	the	RPE	and	is	associated	 with	a	rare	form	of	autosomal	
+recessive	 RP.[25]	A	phase‑1	clinical	trial	utilizing	an	AAV2	vector	
+with	an	RPE‑specific	 promoter	 (VMD2)	 driving	 MERTK  in six 
+patients	was	published	 in	2016.	However,	 the	results	were	not	
+sustained and further trials are awaited.[25]
+The RPGR	gene	is	involved	 in	70%	of	X‑linked	 RP	
+and	up	to	20%	of	all	RP.	 RPGR	encodes	 for	a	transporter 	
+protein	 in	the	cilium,	connecting	 the	inner	and	outer	
+segments	 of	photoreceptors	 and	suspected	 to	play	a	role	
+in	transporting	 phototransduction	 components	 across	the	
+connecting	 cilium.	Currently, 	there	are	multiple 	phase	
+1/2	clinical	 trials	that	are	going	on	for	gene	therapy	for	
+X‑linked 	RP	with	RPGR mutations.[26] MeiraGTx has just 
+concluded	 a	phase	1/2	clinical	 trial	using	a	subretinal 	
+injection	 of	AAV2/5	 vector	for	patients	 with	XLRP	caused	
+by	mutations	 in	the	 RPGR	gene	(NCT03252847),	 the	
+results	of	which	are	awaited.	 They	have	also	started	 a	
+phase	3	trial	involving	 the	AAV5	vector	for	patients	with	
+XLRP	(NCT04671433).	 Applied	 Genetics	 Technologies 	
+Corp.	(AGTC)	 is	planning	 to	conduct	 a	phase	2/3	study	
+involving	 subretinal	 injection	 of	recombinant	 adeno‑associated 	
+virus	vector	(rAAV2tYF‑GRK1‑hRPGRco‑	 AGTC‑501)	 in	
+patients	with	XLRP	caused	by	RPGR	mutations 	(NCT04850118). 	
+NightstaRx	 Ltd	is	conducting	 a	phase	1/2	clinical	trial	
+using	AAV8	(BIIB112)	 for	patients	with	XLRP	and	RPGR  
+mutations	 (NCT03116113).	 Intravitreal	 injection	 of	a	biological, 	
+4D‑125	is	being	conducted	 by	4D	Molecular	 Therapeutics	 in	
+a	phase	1/2	clinical	trial	in	patients	 with	XLRP  and RPGR 
+mutations	(NCT04517149).Gene therapy for Stargardt (STGD) disease
+Pathogenesis	 of	STGD	is	linked	to	an	abnormal	 accumulation	 of	
+lipofuscin	 in	the	RPE	in	the	early	stages,	followed	 by	slowing	of	the	
+rod	and	cone	retinoid	cycles	later	in	the	disease.	The	commonest 	
+gene	identified	 for	STGD	is	ABCA4	(chromosome	 1p13‑21)	 for	
+the	ABCR	retinal	 ATP	transporter	protein.[27]
+The	main	obstacle	in	the	development	 of	gene	therapy	
+for	STGD	is	the	larger	size	of	the	ABCA4	gene,	whose	coding	
+sequence	 exceeds	the	cargo	capacity	 of	AAV.[28]	In	2019,	Applied	
+Genetic	Technologies	 Corporation	 announced	 the	development 	
+of	a	hybrid	AAV	dual	vector	and	published	 preclinical	 data	
+supporting	 the	potential	 of	this	technology.[29] Promising results 
+have	also	been	reported	 in	animal	models	with	a	non‑viral 	
+technique	 relying	on	subretinal	 delivery	 of	self‑assembled 	
+nanoparticles.[30]
+Gene therapy for Achromatopsia (ACHM)
+Achromatopsia,	 or	rod	monochromatism,	 is	an	autosomal 	
+recessively	 inherited	 disorder	 that	affects	the	cones.	Nearly	90%	
+of	patients	with	ACHM	carry	mutations	 in	CNGA3 or CNGB3,	
+which	are	the	genes	encoding	 the	alpha	and	beta	subunits	 of	
+the	cone	cyclic	nucleotide‑gated	 (CNG)	channel,	 respectively.[31]
+Reichel	 et al .[32]	have	recently	 reported	 long‑term	 safety	
+and	efficacy	 outcomes 	of	subretinal 	gene	therapy	 for	
+CNGA3‑associated 	ACHM.	Nine	patients	were	treated	in	
+three	escalating	 dose	groups	with	subretinal	 AAV8.[33] They 
+did not note any adverse events related to the treatment. 
+Established	 endpoints	 for	cone	vision,	best‑corrected	 visual	
+acuity,	and	contrast	sensitivity 	showed	consistent 	improvement 	
+over	the	3	years;	however,	 the	fellow	eye	also	showed	a	mild	
+improvement,	 and	no	statistical	 significance	 was	noted	between	
+the treated and untreated eye.[32]	There	are	multiple	 clinical	
+trials	in	phase1/2	 testing	AAV	vectors	in	ACHM	[See	Table 1].
+Gene therapy for Usher syndrome (USH)
+Usher	syndrome	 is	a	triad	of	RP,	sensorineural	 hearing	
+loss,	and	possible	 vestibular	 dysfunction.	 It	is	divided	 into	
+three	clinically	 distinct	types	based	on	the	time	course	and	
+degree	of	multi‑sensory	 loss‑USH1,	 USH2,	and	USH3.	USH1	
+is	the	most	severe	phenotype,	 with	patients	presenting	 at	
+birth	with	severe	hearing	loss,	vestibular	 dysfunction,	 and	
+early‑onset	 RP;	the	commonest	 mutation	 identified	 is	in	the	
+MYO7A  gene. MYO7A	is	a	large	gene,	beyond	the	cargo	
+capacity	 of	AAV	vectors,	necessitating	 the	need	for	lenti	and	
+dual	vectors.[34]	Currently,	 Sanofi	is	running	 two	trials	to	
+investigate	 the	tolerability	 of	subretinal	 administration	 of	an	
+EIAV‑based	 lentiviral	 vector	carrying	 MYO7A (SAR421869) 	
+for	patients	 affected	 with	USH1B	 (NCT02065011and 	
+NCT01505062),	 and	ProQR	Therapeutics	 is	evaluating	 an	
+RNA	antisense	 oligonucleotide	 (QR‑421a)	 as	an	intravitreal 	
+injection	(NCT05158296).
+Table 1 lists	the	current	clinical	trials	in	IRDs.
+Cell Therapy
+Basics
+Visual	impairment	 caused	by	degenerating	 retinal	cells	is	
+irreversible	 because	retinal	cells	lack	the	ability	for	self‑repair.	
+Cell	replacement	 therapy	 aims	at	replacing	 damaged	 host	
+cells	with	transplanted	 donor	cells.	This	is	an	attractive 	
+therapeutic 	approach	 because	it	overcomes 	the	limitations 	July	2022	 	 2319
+Battu, et al.: Update on cell and gene therapy for IRDs
+Table 1: Current clinical trials in gene therapy for IRDs
+Target gene Drug/Vector Phase Route Sponsor Trial ID
+LCA
+RPE65 tgAAG76 (rAAV2/2.hRPE65p.
+hRPE65)I/II SR UCL NCT00643747
+AAV OPTIRPE65 I/II SR MeiraGTx UK II Ltd NCT02946879
+AAV2‑hRPE65v2 (voretigene 
+neparvovec‑rzyl)III SR Spark Therapeutics NCT00999609
+rAAV2‑CBSB‑hRPE65 I SR Uni of Penn NCT00481546
+rAAV2‑hRPE65 I SR Hadassah Medical Organization NCT00821340
+voretigene neparvovec‑rzyl III SR Novartis Pharmaceuticals (Japan) NCT04516369
+AAV2‑hRPE65v2
+(voretigene neparvovec‑rzylLong term 
+(15 years)SR Spark Therapeutics NCT03602820
+CEP290 Sepofarsen II/III IVT ProQR Therapeutics NCT04855045
+QR‑110 I/II IVT ProQR Therapeutics NCT03913130
+EDIT‑101 I/II SR Editas Medicine NCT03872479
+GUCY2D SAR439483 I/II SR Atsena Therapeutics NCT03920007
+Choroideremia
+REP‑1 AAV2‑REP1BIIB111 (GEMINI) II SR NightstaRx Ltd NCT03507686
+rAAV2.REP1 vector I/II SR Ian M. MacDonald NCT02077361
+AAV2‑REP1 II SR Byron Lam NCT02553135
+rAAV2.REP1 I/II SR University of Oxford NCT01461213
+AAV2.REP1 II SR University of Oxford NCT02407678
+rAAV2.REP1 II SR STZ eyetrial NCT02671539
+AAV2‑hCHM I/II SR Spark Therapeutics NCT02341807
+RP
+vMCO‑010 Optogenetic Therapy II IVT Nanoscope Therapeutics NCT04945772
+MERTK‑associated RP
+MERTK rAAV2‑VMD2‑hMERTK I SR King Khaled Eye Specialist Hospital NCT01482195
+Advanced RP
+AAV2‑virally‑carried 
+Multi‑Characteristic Opsin I (vMCO‑I)I/II IVT Nanoscope 
+TherapeuticsNCT04919473
+RST‑001 I/II  IVT Allergan NCT02556736
+XLRS
+RS1 AAV‑RS1 vector
+AAV8‑scRS/IRBPhRS)I/II IVT NEI NCT02317887
+rAAV2tYF‑CB‑hRS1 I/II IVT AGTC NCT02416622
+Nonsyndromic RP
+Gene therapy: GS030‑DP & Medical 
+device: GS030‑MDI/II  IVT GenSight Biologics NCT03326336
+PDE6A‑associated RP
+rAAV.hPDE6A I/II SR STZ eye trial NCT04611503
+PDE6B‑associated RP
+AAV2/5‑hPDE6B I/II SR Horama S.A. NCT03328130
+XLRP
+RPGR AAV8‑RPGR
+Biological
+BIIB112 (XIRIUS)I/II SR NightstaRx Ltd NCT03116113
+AAV2/5‑RPGR I/II SR MeiraGTx UK II Ltd NCT03252847
+AAV5‑RPGR III SR MeiraGTx UK II Ltd NCT04671433
+4D‑125 I/II IVT 4D Molecular Therapeutics NCT04517149
+rAAV2tYF‑GRK1‑hRPGRco II/III SR AGTC NCT04850118
+RLBP1‑associated RP
+RLBP1 CPK850 I/II SR Novartis Pharmaceuticals NCT03374657
+Contd...2320	 Indian Journal of Ophthalmology	 Volume	 70	Issue	7
+of	gene	therapy	 and	pharmaceutical	 therapies.	 Cell	therapy	
+is	mutation‑independent	 and	can	work	even	when	the	cells	
+are	completely	 lost.	The	potential	 for	RPE	transplantation	 as	a	
+viable	therapy	came	from	studies	noting	improvement	 in	visual	
+acuity	following	 the	transplantation	 of	autologous	 RPE	from	
+the	peripheral	retina	into	the	submacular	space.[35]
+Stem	cells	are	undifferentiated	 cells	present	 at	varying	
+stages	of	cell	formation	 and	give	rise	to	differentiated 	cells	
+in	various	 organs.	 The	main	characteristics	 of	stem	cells	
+are	self‑renewal	 (the	ability	to	proliferate	 extensively), 	
+clonality 	(usually	 arising	from	a	single	cell),	and	potency	
+(the	ability	to	differentiate	into	different	cell	types).[36]
+Stem	cells	can	be	classified	 as	totipotent	 (zygote), 	
+pluripotent	 (embryonic	 stem	cells	and	induced	pluripotent	 stem	
+cells),	multipotent	 (mesenchymal	 stem	cells),	and	oligopotent.	
+Totipotent	 cells	form	embryonic	 and	extra‑embryonic 	
+tissues.	Pluripotent	 cells	form	all	three	germ	layers,	whereas	
+multipotent	cells	generate	cells	limited	to	one	germ	layer.[37]
+Embryonic	 stem	cells	(ESCs)	are	derived	 from	cells	from	
+the	inner	cell	mass	of	the	blastocyst	 before	implantation.	 They	
+are	pluripotent	 with	an	unlimited	 capacity	 for	self‑renewal 	
+and	the	ability	to	give	rise	to	cells	of	all	three	embryonic 	
+germ	layers,	namely	ectoderm, 	endoderm,	 and	mesoderm, 	
+ultimately	 generating	 all	tissues	in	the	body.	However,	 there	
+are	ethical	concerns 	regarding	 the	use	of	ESCs.	They	may	
+multidifferentiate	 into	various	cell	types,	making	it	difficult	
+to	obtain	cells	of	a	specific	type.	They	have	a	risk	for	tumor	
+formation	and	require	immunosuppression.[38]
+Induced	 pluripotent	 stem	cells	(iPSCs)	 are	pluripotent 	
+stem	cells	generated	 from	somatic	cells	by	cellular	genetic	
+reprogramming	 using	defined	transcription	 factors.[36] First 
+described	 in	2007	by	Takahashi	 et al.,[39]	iPSCs	can	be	derived	from	
+skin	fibroblasts	 or	peripheral	 blood.	Because	they	are	obtained 	
+from	terminally	 differentiated	 tissues,	there	are	no	ethical	
+concerns	 with	using	iPSCs.	However,	 similar	to	ESCs,	immune	reactions	 and	tumorigenicity	 are	issues	of	concern.	 The	former	
+can	be	alleviated	 using	autologous	 cells.	However,	 autologous 	
+cells	carry	the	same	genetic	risk	factors	that	the	patient	suffers	
+from,	and	therefore	 the	cells	need	further	genetic	manipulation. 	
+A	study	combining	 gene	and	cell	therapy	using	the	CRISPR/
+Cas9	system	applied	to	the	production	 of	iPSCs	with	selective	
+HLA	gene	disruption	 has	been	tried.[40]	Patient‑derived	 human	
+iPSC	(hiPSCs)	 and	their	tissue‑specific	 derivatives	 may	be	used	
+to	individually	 identify	and	test	drugs	for	their	effectiveness	 in	
+a	complex	 genetic	environment.	 These	opportunities	 open	the	
+scope	for	personalized	 medicines	 tailored	to	individual	 patients.	
+iPSCs	have	also	been	critical	in	advancing	 our	knowledge	 of	the	
+underlying	 pathogenesis	 because	it	is	possible	to	create	cell	lines	
+from	patients	harboring	 known	mutations	 that	can	be	then	tested	
+with	small	molecules	and	drugs.[41]
+Transplantation	 of	hESCs	or	allogenic	 hiPSCs	requires 	
+systemic 	immunosuppression 	for	at	least	3	months.[42,43] 
+Autologous	 transplantation	 of	iPSC‑derived	 cells	has	better	
+histocompatibility	than	allogeneic	transplantation	of	cells.
+RPE transplantation
+The	RPE	is	a	monolayer	 of	highly	specialized	 cuboidal	 cells	
+that	lie	between	 Bruch’s	membrane	 and	the	outer	neurosensory 	
+retina.	The	RPE	forms	the	outer	blood–retinal	 barrier,	and	
+its polarity is important for ion transport.[44]	Several	factors	
+make	RPE	transplantation	 an	attractive	 target	for	cell	
+transplantation.	 The	cell	structure	 and	function	 of	RPE	are	
+fairly	well	understood,	 the	cells	grow	readily	in	laboratory 	
+cultures	 and,	unlike	other	cell	types	within	the	retina,	RPE	
+cells	do	not	require	synaptic	 connections	 for	their	function.	
+Compared	 to	other	organs	in	the	body,	the	number	 of	cells	
+required	 for	transplantation	 is	relatively 	small.	In	addition,	 the	
+outer	retina	is	easily	amenable	 to	imaging	 via	optical	coherence 	
+tomography	(OCT)	and	adaptive	optics.
+In in vitro cultures	 of	differentiation	 of	ESCs	and	iPSCs,	the	
+cells	mirror	the in vivo developmental	 path	of	RPE	via	the	optic	Table 1: Contd...
+Target gene Drug/Vector Phase Route Sponsor Trial ID
+Bietti’s crystalline dystrophy
+CYP4V2 rAAV2/8‑hCYP4V2 Early 
+Phase 1Beijing Tongren Hospital NCT04722107
+Usher syndrome
+USH1B SAR421869 I/II SR Sanofi NCT01505062
+USH2A
+(Exon13)QR‑421a
+RNA antisense oligonucleotideIII IVT ProQR Therapeutics NCT05158296
+Autosomal dominant RP
+RHO 
+(P23mutation)QR‑1123 I/II IVT ProQR Therapeutics NCT04123626
+Achromatopsia
+CNGA3 AAV‑ CNGA3 I/II SR MeiraGTx UK II Ltd NCT03758404
+CNGB3 AAV ‑ CNGB3 I/II SR MeiraGTx UK II Ltd NCT03001310
+CNGA3 AGTC‑402 I/II SR AGTC NCT02935517
+CNGB3 AGTC‑401 I/II SR AGTC NCT02599922
+CNGA3 rAAV.hCNGA3 I/II SR STZ eyetrial NCT02610582
+Source: www.clinicaltrials.org AGTC‑Applied Genetic Technologies Corp., NEI‑National Eye Institute, UCL‑University College London, SR‑subretinal, 
+IVT‑intravitreal, LCA‑Leber Congenital Amaurosis, RP‑Retinitis Pigmentosa, XLRS‑X‑linked RetinischisisJuly	2022	 	 2321
+Battu, et al.: Update on cell and gene therapy for IRDs
+neuroectoderm,	 the	eye	field	stage,	committed	 RPE	progenitors, 	
+immature	RPE,	and	then	to	mature	RPE.[45]
+Although	 most	work	with	RPE	transplants 	has	been	
+done	for	dry	AMD,	early	experiments	 in	the	RCS	rats	
+with an inherited RPE dystrophy ( MERTK  mutation) have 
+demonstrated	 that	subretinal	 injection	 of	healthy	RPE	cells	
+allowed	the	preservation	 of	the	outer	nuclear,	outer	plexiform, 	
+and	the	photoreceptor	 layer	and	helped	maintain	 visual	
+function.[46]
+The	rationale	 for	using	cell	replacement	 therapy	in	retinal	
+dystrophies	 is	twofold—one,	 that	the	cells	integrate	 with	the	
+host	retinal	tissue	and	show	functional	 benefits	and	second	is	
+the	benefit	of	neurotrophic 	factors	associated 	with	the	injection	
+of	these	cells.[47,48]	Unlike	other	cell	types	in	the	retina,	the	RPE	
+cell	layer	does	not	require	synaptic	connections.[49]
+The	two	major	strategies	 for	replacing	 atrophic	 RPE	cells	
+include	an	RPE	cell	suspension	and	an	RPE	cell	sheet.
+1.	 Injection	 of	a	suspension:	 RPE	cells	can	be	injected	 as	a	
+suspension	 of	cells	into	the	subretinal	 space.	The	access	to	
+the	subretinal	 space	is	achieved	 in	two	ways—via	 a	pars	
+plana	vitrectomy,	 detaching	 the	posterior	 vitreous,	 and	
+injection	 of	the	cells	through	a	small	gauge	needle,	or	via	the	
+suprachoroidal	 approach	 and	access	to	the	subretinal	 space	
+through	a	partial	thickness	 sclerotomy.	 Although	 the	ability	
+to	perform	 its	essential	 functions	 depends	 on	the	RPE	being	
+a	confluent	 monolayer	 with	tight	junctions	 and	maintaining 	
+polarity	for	ion	transport	 with	a	healthy	Bruch’s	membrane, 	
+a	subretinal	 injection	 of	healthy	RPE	cells	has	been	shown	
+to	maintain	 or	improve	 the	health	of	the	outer	nuclear,	
+outer	plexiform,	 and	photoreceptor	 inner/out	 segment 	
+layers.[46,49,50]	Although	 the	surgical	 implantation	 of	these	
+cells	into	the	subretinal	 space	via	a	parsplana	 vitrectomy	
+is	relatively	 easy,	cellular	efflux	into	the	vitreous	 cavity	
+through	the	retinotomy	 is	a	major	problem.	 The	cells	then	act	
+as	a	scaffold	for	the	formation	 of	epiretinal	 membranes.	 An	
+adequate	 number	of	cells	may	not	remain	in	the	subretinal	
+space	and	the	cells	may	clump	and	not	integrate.
+2.	 Transplantation	 of	an	RPE	sheet:	A	patch	of	RPE	cells	is	
+considered	 an	ideal	therapeutic	 substrate.	 The	monolayer	
+helps	perform	 their	physiological	 functions	 more	efficiently. 	
+The	formation	 of	tight	junctions	 between	 RPE	cells	helps	
+optimal	polarization	 of	cells,	allowing	 its	interaction	 with	
+the	photoreceptor	 outer	segments	 and	supporting 	its	varied	
+functions.	 RPE	cells	are	grown	as	a	monolayer	 directly	
+or	on	a	scaffold/substrate.	 Mandai	 et al.[48] demonstrated 
+1‑year	survival	 of	an	autologous	 iPSC‑derived	 RPE	cell	
+sheet	injected	subretinally	 in	two	patients	with	neovascular 	
+AMD.	Multiple	 scaffolds	 such	as	polyethylene	 terephthalate, 	
+autologous	 sheets	of	cells,	biomaterial‑based	 patches,	 or	
+three‑dimensional	 structures	 have	been	tried.[51]	Da	Cruz	
+et al.[52]	have	shown	that	a	6	x	3	mm	patch	is	large	enough	
+to	cover	almost	the	entire	area	of	a	human	macula.	Delivery 	
+of	such	a	large	patch	to	the	subretinal	 area	requires	 a	rather	
+complex	 surgery,	 with	a	large	retinotomy	 and	sclerotomy.	
+However,	 this	surgery	reduces	the	risk	of	efflux	of	cells	into	
+the	vitreous	and	formation	of	epiretinal	membranes.[53]
+Another	 interesting	 development	 has	been	retinal	
+organoids.	 These	are	three‑dimensional	 structures	 developed	
+from	pluripotent	 stem	cells	that	help	in	understanding	 the	
+development of the human retina and its diseases.[54,55]Most	clinical	trial	work	using	human	embryonic	 stem	
+cells	(hESC)	or	iPSC‑derived	 RPE	has	been	done	in	age‑related 	
+macular	degeneration	 and	Stargardt	 disease.	Although	 AMD	is	
+not	an	inherited	 retinal	disease,	we	have	included	 the	current	
+status	of	cell	therapy	in	AMD	to	acknowledge	 the	progress	 in	
+this	field.
+Age-related Macular Degeneration (AMD)
+AMD	is	a	leading	cause	of	severe	visual	impairment	 in	the	
+elderly.	Although	 neovascular	 AMD	is	treated	by	anti‑VEGF	
+injections,	 there	is	currently	 no	cure	for	dry	AMD.	Considering 	
+the	progress	 in	RPE	transplantation,	 cell	replacement	 therapy	
+for	dry	AMD	has	gained	considerable	 attention	 in	the	last	
+decade.
+Currently, 	there	are	several	clinical	trials	in	phase	1/2	
+for	the	transplantation	 of	hESC/iPSC‑derived 	RPE	either	as	
+suspensions or sheets in patients with dry AMD.[43,47,50] Lineage 
+cell	therapeutics	 are	using	a	unique	method	 to	deliver	their	
+cells	subretinally	 via	the	suprachoroidal 	approach 	through	
+microinjection	 using	the	Orbit	Subretinal	 Delivery	 System	
+developed 	by	Gyroscope	 Therapeutics 	(formerly	 Orbit	
+Biomedical,	 Ltd.),	which	avoids	the	need	for	retinotomy	 and	
+associated	 complications.	 Regenerative	 Patch	Technologies 	
+has	developed	 a	composite	 subretinal	 implant,	 named	
+the	California	 Project	to	Cure	Blindness‑Retinal	 Pigment 	
+Epithelium1	 (CPCB‑RPE1),	 consisting	 of	a	polarized	 monolayer 	
+of	human	embryonic	 stem	cell‑derived	 RPE	(hESC‑RPE)	 on	
+an	ultrathin,	 synthetic	 parylene	 substrate	 designed	 to	mimic	
+Bruch’s	membrane.	 The	discussion	 of	these	clinical	trials	and	
+results	is	outside	the	scope	of	this	paper.
+Stargardt disease (STGD)
+Schwartz	 et al.[42]	conducted	 two	prospective	 Phase	1/2	clinical	
+trial	(NCT01469832)	 of	hESC‑derived	 RPE	cells	in	patients	with	
+STGD.[43]	Three	doses	of	50000,	100000,	and	150000	cells	were	
+injected	 subretinally.	 They	demonstrated	 medium‑term	 to	
+long‑term	 safety,	graft	survival,	 and	possible	biological	 activity	
+of	pluripotent	 stem	cells.[43] Findings from the UK site of this 
+trial	identified	 subretinal	 hyperpigmentation	 consistent	 with	
+the	survival	 of	viable	transplanted	 hESC‑derived	 RPE	cells.	
+Borderline	 improvements	 in	visual	acuity	were	noted	in	4	of	
+12	patients;	 however,	 microperimetry 	did	not	demonstrate 	
+evidence	 of	functional	 benefit	at	12	months.[56] Further trials 
+are	anticipated,	 including	 evaluation	 of	combined	 RPE,	and	
+photoreceptor	transplants.
+Sung et al.[57]	reported	 their	3‑year	results	in	three	patients	
+with	STGD,	who	received	 hESC‑RPE	 cells	via	a	parsplana 	
+vitrectomy	 and	subretinal	 injection.	 All	patients	 had	vision	
+less	than	20/400.	Although	 no	patient	showed	adverse	events	
+related	to	the	procedure,	 one	patient	was	noted	to	have	a	
+rhegmatogenous	 retinal	detachment	 at	19	weeks	of	follow‑up.	
+One	patient	showed	best‑corrected	 visual	acuity	improvement, 	
+whereas	 the	other	patient	had	stable	best‑corrected	 visual	
+acuity	during	the	3‑year	follow‑up	 period.	All	patients	received	
+systemic	immunosuppression.[57]
+Currently,	 there	are	several	clinical	trials	listed	on	www.
+clinicaltrials.gov	 that	are	using	hESCs	for	the	treatment 	
+of STGD. STGD is primarily due to mutations in the 
+outer	segment	 of	photoreceptors.	 Therefore,	 unlike	AMD,	
+replacing	 RPE	cells	alone	may	not	lead	to	sustained	 visual	
+benefits.2322	 Indian Journal of Ophthalmology	 Volume	 70	Issue	7
+Photoreceptor transplantation
+PR	precursor	 transplantation	 is	a	potential	 way	to	treat	retinal	
+degenerative	 diseases	 caused	by	PR	loss.	For	most	patients	
+with	RP,	rod	PR	death	is	the	primary	 cause	of	night	blindness	
+in	the	early	disease	stage.	In	addition,	 rods	account	for	more	
+than	90%	of	PR;	thus,	rod	PR	transplantation	 is	a	suitable	
+treatment for RP.[58]
+MacLaren	 et al.[59]	in	2006	reported	 that	the	transplantation	
+of	PR	precursors	 taken	from	immature	 mouse	retinal	cells	into	
+wild‑type	 retina	was	able	to	integrate	 into	the	host	PR	layer	
+with	a	complete	 mature	morphology.	 Other	groups	reported	
+successful	 transplantation	 of	purified	 PR	using	mouse	and	
+human	ESC/iPSC	 as	an	effective	 method	of	restoring	 vision	in	
+retinal degeneration models.[60,61] Others have proposed that 
+these	improvements	 were	not	necessarily	 from	PR	integration; 	
+“material	 exchange,”	 whereby	 biomaterials,	 such	as	proteins	
+and/or	mRNAs,	 are	transferred	 from	the	donor	to	host	PR,	
+and	restore	some	visual	function	 by	rescuing	 remaining	 PR	
+cells.[62]	JCyte,	a	California‑based 	company,	 is	testing	the	
+intravitreal	 delivery	of	retinal	progenitor	 cells	(NCT03073733). 	
+The	goal	for	this	intervention	 is	a	non‑specific	 neurotrophic	
+effect	with	emphasis	 on	reviving	 cone	function.	 Lingam	
+et al .[63]	transplanted	 PR	precursors	 into	the	subretinal 	
+space	of	non‑human	 primates	 and	demonstrated	 survival	
+and	maturation	 into	cone	PR	at	3	months	 post‑transplant. 	
+Transplantation	 of	PR	and	its	precursors	 continues	 to	be	an	
+exciting	area	of	research.
+Table 2	lists	the	current	clinical	trials	using	stem	cells.
+Advantages of using the eye as an end-organ for gene/cell 
+therapy
+1.	 Relative	 ocular	immune 	privilege	 limits	an	immune 	
+response	to	the	genetic/cellular	material	injected.
+2.	 Tight	 blood–ocular	 barrier,	which	limits	the	systemic	 spread	
+of	the	injected	material.
+3.	 Ease	of	accessibility	directly	to	the	cells	of	interest.
+4.	 Ability	 to	monitor	 response	 to	therapy	 noninvasively	 via	
+advanced	imaging	systems.
+5.	 Ability	to	use	the	contralateral	eye	as  in vivo control.
+6.	 A	relatively	 small	number	of	cells	is	required	 for	cell	therapy.
+Methods of delivery [ Fig. 1]
+Two	common	 methods	 are	being	used	to	introduce	 the	gene	
+therapy	product	into	the	eye:
+1.	 Subretinal	 injection‑	 This	involves	 a	parsplana	 vitrectomy,	
+followed	 by	raising	a	subretinal	 bleb	close	to	the	macula	
+with	the	genetic	material/cells	 being	injected	directly	into	the	
+subretinal	 space.	Although	 this	creates	a	temporary	 retinal	
+detachment,	 this	has	the	advantage	 of	direct	delivery	 to	the	
+cells	of	interest.	Procedural	 complications 	include	potential 	
+retinal	detachment,	 epiretinal	 membrane	 formation,	 and	
+other	complications	associated	with	vitrectomy.
+2.	 Intravitreal	 injection:	 This	involves	 a	direct	injection	 into	
+the	vitreous 	cavity,	without	 the	need	for	a	vitrectomy. 	
+Although	 the	procedure	 is	simpler	 and	associated 	with	
+lesser	complications,	 the	availability	 of	genetic	material/
+cells	to	the	subretinal	 space	is	difficult.	 In	addition,	 an	
+induced	 humoral	 response	 to	the	intravitreally	 delivered	
+material	 may	occur,	which	has	not	been	noted	in	subretinal	
+injections.	 Intravitreal	 injection	 allows	a	more	widespread	
+distribution	 of	the	therapeutic	 agent	over	the	retina	than	subretinal 	delivery, 	using	a	less	challenging	 and	
+less‑invasive	 procedure. 	However,	 several	physical	 barriers,	
+such	as	the	vitreous,	 the	internal	limiting	 membrane,	 and	
+the	inner	retina,	limit	the	diffusion	 of	the	therapeutic	 agent	
+to the PR and RPE after intravitreal delivery.
+3.	 Suprachoroidal	 approach:	 This	involves	 approaching	 the	
+subretinal	 space	through	 a	specialized	 suprachoroidal 	
+delivery	 system	(Eg:	Orbit	delivery	 system,	 Gyroscope 	
+therapeutics).	 The	advantages	 include	 precise	delivery 	
+and	lack	of	reflux	of	therapeutic	 material	 into	the	vitreous	
+cavity.	Disadvantages 	include	the	need	for	a	specialized 	
+delivery	 system	and	potential	 suprachoroidal	 or	subretinal	
+hemorrhage.
+Challenges
+1.	 Gene	 therapy	 requires	 viable	cells	and	hence	will	not	
+be	effective	 in	advanced	 stages	of	IRDs	with	severe	PR	
+degeneration.	 Cell	therapy	is	more	viable	in	the	advanced	
+stages of the disease.
+2.	 It	is	not	definite	 that	gene/cell	 therapy	 can	prevent	 the	
+progression of retinal degeneration.
+3.	 Gene	 therapy	 is	gene‑specific,	 and	treatment	 for	each	
+gene has to go through all the steps of drug development 
+including	 animal	studies,	 clinical	trials,	and	regulatory 	
+processes.
+4.	 Gene	 therapy	is	very	expensive.	 Luxturna,	 the	RPE‑65	gene	
+therapy	product	currently	 costs	about	$450,000	 per	injection	
+in the US.[16]
+5.	 The	ability	to	deliver	genes	to	PR	is	limited	by	the	cargo	
+capacity	of	viral	vectors.
+6.	 Gene	 and	cell	therapy	are	associated	 with	the	complications 	
+inherent	 to	the	method	of	delivery	 of	the	product,	 be	it	
+subretinal/intravitreal/suprachoroidal	delivery.
+7.	 Potential	 presence/development	 of	anti‑AAV	 antibodies	 in	
+the	eye	that	may	reduce	the	efficacy	of	gene	therapy.
+8.	 Mutations	 in	genes	such	as	rhodopsin	 that	cause	autosomal 	
+dominant	 RP	are	associated	 with	dominant‑negative	 effects.	
+Treatment	 of	these	conditions 	necessitates 	the	disruption	 of	
+the	mutated	 allele	along	with	the	insertion	 of	a	functional	
+copy	of	the	gene.
+9.	 Cell	therapy	 requires	 systemic	 immunosuppression	 for	
+prolonged	periods	of	time	with	associated	side	effects.
+Future Prospects
+Science	is	on	the	cusp	of	being	able	to	treat	hitherto	untreatable 	
+diseases.	 This	is	a	major	breakthrough	 for	patients	with	IRDs.	
+Future	gene	replacement	 therapy	in	IRDs	will	target	patients	at	an	
+early	disease	stage	when	the	retinal	architecture	 and	function	are	
+still	intact.	Progress	in	retinal	imaging	including	 adaptive	optics,	
+microperimetry,	 and	OCT‑angiography	 should	be	able	to	identify	
+clinical	markers	that	identify	diseases	and	their	progression	 fairly	
+early	so	that	maximum	functional	vision	is	preserved.
+Stem	cell	science	is	advancing, 	and	although 	early,	
+offers	unprecedented 	opportunities 	for	cell	replacement 	
+strategies.	 Obtained	 from	peripheral	 blood	or	a	skin	biopsy,	
+iPSC	offers	an	easy	approach	 compared	 to	ESC.	Derivation 	
+and	differentiation	 of	human	iPSCs	into	RPEs,	PR,	and	
+retinal organoids  in vitro provide	 exciting	 opportunities	 for	
+cell‑replacement	 therapy	 and	screening	 small	molecules 	
+for	therapeutic	 potential.	 Gene	therapy	 platforms	 may	
+allow	the	development	 of	multiple 	therapies, 	reducing 	July	2022	 	 2323
+Battu, et al.: Update on cell and gene therapy for IRDs
+costs	considerably.	 Gene‑editing	 technologies	 such	as	
+CRISPR/Cas9,	 and	their	combination	 with	iPSCs	to	repair	
+patient‑specific	 mutations	 heralds	a	new	era	of	precise	and	
+personalized	medicine	for	our	patients.
+This	has	several	implications	 for	the	clinician.	 Current	
+counseling	 of	patients	 with	IRDs	should	include	information	on	current	 results	of	gene	replacement/stem	 cell	trials.	
+Furthermore,	 genetic	 testing	 and	identification	 of	the	
+underlying	 mutation	 should	be	used	to	support	 the	clinical	
+diagnosis.	 In	addition,	 it	is	important	 to	establish	 a	database/
+registry	of	patients	with	confirmed	 genetic	mutations	 to	inform	
+them	of	forthcoming	 gene/cell	 replacement	 therapies	 and	offer	
+them	the	possibility	of	participating	in	future	trials.Table 2: Current stem cell therapies for retinal degenerations
+Clinical disease Intervention Phase Route Sponsor Trial ID
+Macular degenerative 
+diseasehESC‑RPE cells I/II SR suspension AIRM NCT03167203
+AMD Autologous iPSC‑derived RPE 
+on PGLAI/II SR‑sheet NEI NCT04339764
+RP UMSC II Sub Tenon’s space JBRCS NCT04763369
+AMD/Stargardt disease injection of hESC‑RPE in 
+suspension/substrateI/II SR suspension vs. 
+sheetFederal University of São 
+PauloNCT02903576
+RP hESC‑RPE cells I SR suspension Qi Zhou NCT03944239
+Stargardt hESC‑RPE I/II SR suspension AIRM NCT02941991
+RP Human retinal
+progenitor cellsII IVT
+suspensionjCyte, Inc NCT04604899
+Dry AMD hESC‑RPE on CPCB‑RPE1 I/II SR
+sheetRPT NCT02590692
+Stargardt MA09‑hRPE
+hESC‑RPE cellsI/II SR suspension AIRM NCT01469832
+RP Wharton’s jelly derived MSC III Deep sub Tenon’s Ankara Universitesi Teknokent NCT04224207
+AMD, RP CD34+bone marrow stem cells I IVT UCD NCT01736059
+Stargardt MA09‑hRPE I/II SR AIRM NCT01345006
+Dry AMD MA09‑hRPE I/II SR AIRM NCT01344993
+RP Human Retinal progenitor cells I/II SR ReNeuron Limited NCT02464436
+Dry AMD Opregen
+hESC‑RPE cellsI/II SR suspension Lineage Cell Therapeutics, 
+Inc.NCT02286089
+RP human neural progenitor 
+cells (CNS10‑NPC)I SR Cedars‑Sinai Medical Center NCT04284293
+Source: www.clinicaltrials.gov AMD‑ Age‑Related Macular Degeneration, RP‑ Retinitis Pigmentosa, hESC‑RPE‑ Human Embryonic Stem Cells‑ Retinal 
+Pigment Epithelium, iPSC‑ Induced Pluripotent Stem Cells, PGLA‑ poly lactic‑co‑glycolic acid, UMSC‑Umbilical Cord Derived Mesenchymal Stem Cells, 
+CPCB‑RPE1‑ California Project to Cure Blindness‑Retinal Pigment Epithelium1, SR‑ subretinal, IVT‑ Intravitreal, AIRM‑Astellas Institute for Regenerative 
+Medicine, JBRCS‑ Jinnah Burn and Reconstructive Surgery Centre, Lahore, NEI‑ National Eye Institute, RPT‑Regenerative Patch Technologies, SR‑ Subretinal, 
+UCD‑ University of California, Davis
+Figure 1: Schematic diagram identifying ocular structures and location of (a) intravitreal injection and (b) subretinal injectionb a2324	 Indian Journal of Ophthalmology	 Volume	 70	Issue	7
+Financial support and sponsorship
+Nil.
+Conflicts of interest
+There	are	no	conflicts	of	interest.
+References
+1.	 Sundaram	 V,	Moore	AT,	Ali	RR,	Bainbridge	 JW.	Retinal	dystrophies 	
+and	gene	therapy.	Eur	J	Pediatr	2012;171:757‑65.
+2.	 Ziccardi	 L,	Cordeddu	 V,	Gaddini	 L,	Matteucci	 A,	Parravano	 M,	
+Malchiodi‑Albedi	 F,	et al.  Gene therapy in retinal dystrophies. Int 
+J	Mol	Sci	2019;20:5722.
+3.	 Buch	 PK,	Bainbridge	 JW,	Ali	RR.	AAV‑mediated	 gene	therapy	for	
+retinal	disorders:	 From	mouse	to	man.	Gene	Ther	2008;15:849‑57.
+4.	 Buck	 TM,	Wijnholds 	J.	Recombinant	 Adeno‑Associated 	Viral	
+Vectors	(rAAV)‑vector	 elements	 in	ocular	gene	therapy	clinical	
+trials	and	transgene	 expression	 and	bioactivity	 assays.	Int	J	Mol	
+Sci	2020;21:4197.
+5.	 Cavalieri	 VE,	Baiamonte	 E,	Lo	Iacono	M.	Non‑primate	 lentiviral	
+vectors	and	their	applications	 in	gene	therapy	for	ocular	disorders. 	
+Viruses	2018;10:316.
+6.	 Doudna	 JA,	Charpentier	 E.	Genome	 editing . The new frontier of 
+genome	engineering	 with	CRISPR‑Cas9 .	Science	2014;346:1258096. 	
+doi:	10.1126/science.	1258096.
+7.	 Sanjurjo‑Soriano 	C,	Kalatzis	V.	Guiding	 lights	in	genome	editing	for	
+inherited	 retinal	disorders:	 Implications	 for	gene	and	cell	therapy.	
+Neural	Plast	2018;2018:5056279.
+8.	 Qi	LS,	Larson	MH,	Gilbert	LA,	Doudna	JA,	Weissman	 JS,	Arkin	AP,	
+et al.	Repurposing	 CRISPR	 as	an	RNA‑guided	 platform	 for	
+sequence‑specific 	control	of	gene	expression .	Cell	2013;152:1173‑83.
+9.	 Bakondi	 B,	Lv	W,	Lu	B,	Jones	MK,	Tsai	Y,	Kim	KJ,	et al. In Vivo 
+CRISPR/Cas9 	gene	editing	corrects	retinal	dystrophy	 in	the	
+S334ter‑3	 rat	model	of	autosomal	 dominant	 retinitis	pigmentosa.	
+Mol	Ther	2016;24:556‑63.
+10.	 Latella	 MC,	Di	Salvo	MT,	Cocchiarella	 F,	Benati	D,	Grisendi	 G,	
+Comitato	 A,	et al. In vivo editing of the human mutant rhodopsin 
+gene	by	electroporation	 of	plasmid‑based 	CRISPR/Cas9 	in	the	
+mouse	retina.	Mol	Ther	Nucleic	 Acids	2016;5:e389.
+11.	 Hamel	 CP.	Gene	discovery	 and	prevalence	 in	inherited	 retinal	
+dystrophies.	C	R	Biol	2014;337:160‑6.
+12.	 Cideciyan	 AV,	Jacobson	 SG.	Leber	Congenital	 Amaurosis	 (LCA):	
+Potential	 for	Improvement	 of	Vision.	Invest	Ophthalmol	 Vis	Sci	
+2019;60:1680‑95.
+13.	 Bainbridge	 JW,	Smith	AJ,	Barker	SS,	Robbie	S,	Henderson	 R,	
+Balaggan	 K,	et al.	Effect	of	gene	therapy	 on	visual	function	 in	
+Leber’s	congenital	amaurosis.	N	Engl	J	Med	2008;358:2231‑9.
+14.	 Maguire	 AM,	Simonelli	 F,	Pierce	EA,	Pugh	EN	Jr,	Mingozzi	 F,	
+Bennicelli	 J,	et al.	Safety	and	efficacy	of	gene	transfer	for	Leber’s	
+congenital	amaurosis.	N	Engl	J	Med	2008;358:2240‑8.
+15.	 Russell	 S,	Bennett	J,	Wellman	 JA,	Chung	DC,	Yu	ZF,	Tillman	A,	et al. 
+Efficacy	 and	safety	of	voretigene	 neparvovec	 (AAV2‑hRPE65v2)	
+in	patients	 with	RPE65‑mediated	 inherited	 retinal	dystrophy: 	
+A	randomised,	 controlled,	 open‑label,	 phase	3	trial.	Lancet	
+2017;390:849‑60.
+16.	Available	 from:	https://www.cnbc.com/2018/01/03/
+spark‑therapeutics‑luxturna‑gene‑therapy‑will‑cost‑about‑850000.
+17.	 Viriato	 D,	Bennett	N,	Sidhu	R,	Hancock	 E,	Lomax	H,	Trueman	 D,	
+et al.	An	economic	 evaluation	 of	voretigene	 neparvovec	 for	the	
+treatment	 of	biallelic	RPE65‑mediated	 inherited	 retinal	dystrophies 	
+in	the	UK.	 Adv	Ther	2020;37:1233‑47.
+18.	 Uhrmann	 MF,	Lorenz	B,	Gissel	C.	Cost	effectiveness	 of	voretigene	
+neparvovec	 for	RPE65‑mediated	 inherited	 retinal	degeneration	 in	
+Germany.	Transl	Vis	Sci	Technol	2020;9:17.19.	Mihelec	 M,	Pearson	 RA,	Robbie	 SJ,	Buch	PK,	Azam	SA,	
+Bainbridge	 JW,	 et al.	Long‑term	 preservation	 of	cones	and	
+improvement	 in	visual	function	 following	 gene	therapy	in	a	mouse	
+model	of	leber	congenital	 amaurosis	 caused	by	guanylate	 cyclase‑1 	
+deficiency.	Hum	Gene	Ther	2011;22:1179‑90.
+20.	 Cideciyan	 AV,	Rachel	RA,	Aleman	 TS,	Swider	M,	Schwartz	 SB,	
+Sumaroka	 A,	et al.	Cone	photoreceptors	 are	the	main	targets	for	
+gene	therapy	of	NPHP5	(IQCB1)	 or	NPHP6	(CEP290)	 blindness:	
+Generation	 of	an	all‑cone	Nphp6	hypomorph	 mouse	that	mimics	
+the	human	retinal	ciliopathy.	Hum	Mol	Genet	2011;20:1411‑23.
+21.	Pennesi	 ME,	Birch	DG,	Duncan	 JL,	Bennett	 J,	Girach	 A.	
+Choroideremia:	 Retinal	degeneration	 with	an	unmet	need.	Retina	
+2019;39:2059‑69.
+22.	 MacLaren	 RE,	Groppe	M,	Barnard	AR,	Cottriall	 CL,	Tolmachova	 T,	
+Seymour	 L,	et al. Retinal gene therapy in patients with 
+choroideremia:	 Initial	findings 	from	a	phase	1/2	clinical	trial.	
+Lancet	2014;383:1129‑37.
+23.	 Spark	 Therapeutics.	 SPK‑7001:	 Choroideremia.	 2017.	Available 	
+from:	http://sparktx.com/scientific‑platform‑programs/.
+24.	 Sen	 P,	Bhargava	 A,	George	R,	Ve	Ramesh	 S,	Hemamalini	 A,	
+Prema	R,	et al.	Prevalence	 of	retinitis	 pigmentosa	 in	South	
+Indian	population	 aged	above	40	years.	Ophthalmic	 Epidemiol	
+2008;15:279‑81.
+25.	 Ghazi	 NG,	Abboud	 EB,	Nowilaty	 SR,	Alkuraya	 H,	Alhommadi	 A,	
+Cai	H,	et al. Treatment of retinitis pigmentosa due to MERTK 
+mutations	 by	ocular	subretinal	 injection	 of	adeno‑associated	 virus	
+gene	vector:	Results	of	a	phase	I	trial.	Hum	Genet	2016;135:327‑43.
+26.	Cehajic	 Kapetanovic	 J,	McClements	 ME,	
+Martinez‑Fernandez	 de	la	Camara	 C,	MacLaren	 RE.	Molecular 	
+strategies	for	RPGR	gene	therapy.	Genes	(Basel)	2019;10:674.
+27.	 Koenekoop	 RK.	The	gene	for	Stargardt	 disease,	ABCA4,	 is	a	major	
+retinal	gene:	 A	mini‑review.	Ophthalmic	Genet	2003;24:75‑80.
+28.	 Amato 	A,	Arrigo	A,	Aragona 	E,	Manitto	MP,	Saladino	A,	Bandello 	F,	
+et al.	Gene	therapy	 in	inherited	 retinal	diseases:	 An	update	on	
+current	state	of	the	art.	Front	Med	(Lausanne)	2021;8:750586.
+29.	 Dyka	 FM,	Molday	LL,	Chiodo	VA,	Molday	RS,	Hauswirth	 WW.	
+Dual	ABCA4‑AAV	 vector	treatment	 reduces	pathogenic	 retinal	A2E	
+accumulation	 in	a	mouse	model	of	autosomal	 recessive	 stargardt	
+disease.	Hum	Gene	Ther	2019;30:1361‑70.
+30.	 Sun	D,	Schur	RM,	Sears	AE,	Gao	SQ,	Vaidya	A,	Sun	W,	et al.	Non‑viral 	
+gene	therapy	 for	Stargardt	 disease	 with	ECO/pRHO‑ABCA4 	
+self‑assembled	nanoparticles.	Mol	Ther	2020;28:293‑303.
+31.	 Kohl	 S,	Varsanyi	 B,	Antunes	 GA,	Baumann	 B,	Hoyng	CB,	Jagle	H,	
+et al.	CNGB3	mutations 	account	for	50%	of	all	cases	with	autosomal 	
+recessive	achromatopsia.	Eur	J	Hum	Genet	2005;13:302‑8.
+32.	 Reichel	 FF,	Michalakis	 S,	Wilhelm	 B,	Zobor	D,	Muehlfriedel	 R,	
+Kohl	S,	et al.	Three‑year	 results	of	phase	I	retinal	gene	therapy	trial	
+for	CNGA3‑mutated 	achromatopsia:	 Results	of	a	non	randomised	
+controlled	 trial.	Br	J	Ophthalmol	 2021;bjophthalmol‑2021‑319067.	
+doi:	10.1136/bjophthalmol‑2021‑319067.
+33.	 Fischer	 MD,	Michalakis	 S,	Wilhelm	 B,	Zobor	D,	Muehlfriedel	 R,	
+Kohl	S,	et al.	Safety	and	vision	outcomes	 of	subretinal	 gene	therapy	
+targeting	 cone	photoreceptors 	in	achromatopsia:	 A	nonrandomized 	
+controlled	trial.	JAMA	Ophthalmol	2020;138:643‑51.
+34.	 Nuzbrokh	 Y,	Ragi	SD,	Tsang	SH.	Gene	therapy	for	inherited	 retinal	
+diseases.	 Ann	Transl	Med	2021;9:1278.
+35.	 Binder	 S,	Stolba	U,	Krebs	I,	Kellner	L,	Jahn	C,	Feichtinger	 H,	et al. 
+Transplantation of autologous retinal pigment epithelium in eyes 
+with	foveal	neovascularization	 resulting	 from	age‑related	 macular	
+degeneration:	 A	pilot	study.	 Am	J	Ophthalmol	2002;133:215‑25.
+36.	 Kolios	 G,	Moodley	 Y.	Introduction	 to	stem	cells	and	regenerative	
+medicine.	Respiration	2013;85:3‑10.
+37.	 Miotti	 G,	Parodi	PC,	Zeppieri	 M.	Stem	cell	therapy	 in	ocular	
+pathologies	 in	the	past	20	years.	World	J	Stem	Cells	2021;13:366‑85.July	2022	 	 2325
+Battu, et al.: Update on cell and gene therapy for IRDs
+38.	 Coco‑Martin	 RM,	Pastor‑Idoate	 S,	Pastor	JC.	Cell	replacement 	
+therapy	for	retinal	and	optic	nerve	diseases:	 Cell	sources,	 clinical	
+trials	and	challenges.	Pharmaceutics	2021;13:865.
+39.	 Takahashi	 K,	Tanabe	K,	Ohnuki	M,	Narita	M,	Ichisaka	T,	Tomoda	 K,	
+et al.	Induction	 of	pluripotent	 stem	cells	from	adult	human	
+fibroblasts	by	defined	factors.	Cell	2007;131:861‑72.
+40.	 Xu	H,	Wang	B,	Ono	M,	Kagita	A,	Fujii	K,	Sasakawa	 N,	et al. Targeted 
+disruption	 of	HLA	genes	via	CRISPR‑Cas9	 generates	 iPSCs	with	
+enhanced	 immune	 compatibility.	 Cell	Stem	Cell	2019;24:566‑78.e7.
+41.	 Konala	 VBR,	Nandakumar	 S,	Battu	R,	Pal	R.	Derivation	 of	three	
+induced	 pluripotent	 stem	cell	lines	under	feeder‑free	 culture	
+conditions	 from	peripheral	 blood	mononuclear	 cells	(PBMC)	 of	
+Indian	patients	 suffering	 from	inherited	 retinal	diseases	 carrying	
+different	mutations.	Stem	Cell	Res	2020;45:101757.
+42.	 Schwartz	 SD,	Hubschman	 JP,	Heilwell	 G,	Franco‑Cardenas 	V,	
+Pan	CK,	Ostrick	R,	et al.	Embryonic	 stem	cell	trials	for	macular	
+degeneration:	 A	preliminary	report.	Lancet	2012;379:713‑20.
+43.	Schwartz	 SD,	Regillo	 CD,	Lam	BL,	Eliott	D,	Rosenfeld	 PJ,	
+Gregori	 NZ,	 et al.	Human	 embryonic 	stem	cell‑derived 	retinal	
+pigment	 epithelium	 in	patients	 with	age‑related	 macular 	
+degeneration	 and	Stargardt’s	 macular	 dystrophy:	 Follow‑up	 of	
+two	open‑label	phase	1/2	studies.	Lancet	2015;385:509‑16.
+44.	 Caceres	 PS,	Rodriguez‑Boulan	 E.	Retinal	pigment	 epithelium 	
+polarity	 in	health	and	blinding	 diseases.	 Curr	Opin	Cell	Biol	
+2020;62:37‑45.
+45.	 Bharti	 K,	Miller	SS,	Arnheiter	 H.	The	new	paradigm:	 Retinal	
+pigment	 epithelium	 cells	generated	 from	embryonic	 or	induced	
+pluripotent	 stem	cells.	Pigment	 Cell	Melanoma	 Res	2011;24:21‑34.
+46.	 Li	LX,	Turner	JE.	Inherited	 retinal	dystrophy	 in	the	RCS	rat:	
+Prevention	 of	photoreceptor	 degeneration	 by	pigment	 epithelial	
+cell	transplantation.	Exp	Eye	Res	1988;47:911‑7.
+47.	 Bharti	 K.	Patching	 the	retina	with	stem	cells.	Nat	Biotechnol 	
+2018;36:311‑3.
+48.	 Mandai	 M,	Fujii	M,	Hashiguchi	 T,	Sunagawa	 GA,	Ito	SI,	Sun	J,	et al. 
+iPSC‑derived	 retina	transplants	 improve	 vision	in	rd1	end‑stage	
+retinal‑degeneration	mice.	Stem	Cell	Rep	2017;8:69‑83.
+49.	 Alexander	 P,	Thomson	 HA,	Luff	AJ,	Lotery	AJ.	Retinal	pigment	
+epithelium	 transplantation:	 Concepts,	 challenges,	 and	future	
+prospects.	Eye	(Lond)	2015;29:992‑1002.
+50.	Surendran	 H,	Nandakumar	 S,	Reddy	K	VB,	Stoddard	 J,	
+Mohan	KV,	Upadhyay	 PK,	et al. Transplantation of retinal pigment 
+epithelium	 and	photoreceptors	 generated	 concomitantly	 via	small	
+molecule‑mediated	 differentiation	 rescues	visual	function	 in	rodent	
+models	of	retinal	degeneration.	Stem	Cell	Res	Ther	2021;12:70.
+51.	 Zhong	 X,	Gutierrez	 C,	Xue	T,	Hampton	 C,	Vergara	MN,	Cao	LH,	et al.	Generation	 of	three‑dimensional	 retinal	tissue	with	functional 	
+photoreceptors	from	human	iPSCs.	Nat	Commun	2014;5:4047.
+52.	 Da	Cruz	L,	Fynes	K,	Georgiadis	 O,	Kerby	J,	Luo	YH,	Ahmado	 A,	
+et al.	Phase	1	clinical	study	of	an	embryonic 	stem	cell‑derived 	retinal	
+pigment	 epithelium	 patch	in	age‑related	 macular	 degeneration.	
+Nat	Biotechnol	2018;36:328‑37.
+53.	 Liu	Z,	Parikh	BH,	Tan	QSW,	Wong	DSL,	Ong	KH,	Yu	W,	et al. 
+Surgical	 transplantation	 of	human	RPE	stem	cell‑derived	 RPE	
+monolayers	 into	non‑human	 primates	 with	immunosuppression.	
+Stem	Cell	Reports	2021;16:237‑51.
+54.	O’Hara‑Wright	 M,	Gonzalez‑Cordero	 A.	Retinal	 organoids: 	
+A window into human retinal development. Development 
+2020;147:dev189746.
+55.	 Fligor	 CM,	Langer	KB,	Sridhar	A,	Ren	Y,	Shields	PK,	Edler	MC,	 et al. 
+Three‑dimensional 	retinal	organoids 	facilitate 	the	investigation 	
+of	retinal	ganglion	 cell	development,	 organization	 and	neurite	
+outgrowth	 from	human	pluripotent	 stem	cells.	Sci	Rep	2018;8:14520.
+56.	 Georgiou	 M,	Fujinami	 K,	Michaelides	 M.	Inherited	 retinal	diseases: 	
+Therapeutics,	 clinical	trials	and	end	points‑A	 review.	Clin	Exp	
+Ophthalmol	2021;49:270‑88.
+57.	 Sung	 Y,	Lee	MJ,	Choi	J,	Jung	SY,	Chong	SY,	Sung	JH,	et al.	Long‑term 	
+safety	and	tolerability	 of	subretinal	 transplantation	 of	embryonic	
+stem	cell‑derived	 retinal	pigment	 epithelium	 in	Asian	Stargardt	
+disease	patients.	Br	J	Ophthalmol	2021;105:829‑37.
+58.	 Jin	ZB,	Gao	ML,	Deng	WL,	Wu	KC,	Sugita	S,	Mandai	 M,	et al. 
+Stemming	 retinal	regeneration	 with	pluripotent	 stem	cells.	Prog	
+Retin	Eye	Res	2019;69:38‑56.
+59.	 MacLaren	 RE,	Pearson	 RA,	MacNeil	 A,	Douglas	 RH,	Salt	TE,	
+Akimoto	 M,	et al.	Retinal	repair	by	transplantation	 of	photoreceptor 	
+precursors.	Nature	2006;444:203‑7.
+60.	 Lamba	 DA,	Gust	J,	Reh	TA.	Transplantation	 of	human	embryonic	
+stem	cell‑derived	 photoreceptors	 restores	some	visual	function	 in	
+Crx‑deficient	mice.	Cell	Stem	Cell	2009;4:73‑9.
+61.	Gonzalez‑Cordero	 A,	West	EL,	Pearson	 RA,	Duran	 Y,	
+Carvalho	 LS,	Chu	CJ,	et al.	Photoreceptor	 precursors	 derived	
+from	three‑dimensional	 embryonic	 stem	cell	cultures	 integrate 	
+and	mature	 within	adult	degenerate	 retina.	Nat	Biotechnol 	
+2013;31:741‑7.
+62.	 Nickerson	 PEB,	Ortin‑Martinez	 A,	Wallace	VA.	Material	 exchange	
+in	photoreceptor	 transplantation:	 Updating	 our	understanding 	
+of	donor/host	 communication	 and	the	future	of	cell	engraftment	
+science.	Front	Neural	Circuits	2018;12:17.
+63.	 Lingam 	S,	Liu	Z,	Yang	B,	Wong	W,	Parikh	BH,	Ong	JY,	et al . 
+cGMP‑grade 	human	iPSC‑derived 	retinal	photoreceptor 	precursor 	
+cells	rescue	cone	photoreceptor	 damage	 in	non‑human	 primates.	
+Stem	Cell	Res	Ther	2021;12:464.

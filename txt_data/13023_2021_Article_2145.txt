@@ -1,0 +1,750 @@
+Lam  et al. Orphanet Journal of Rare Diseases          (2021) 16:514  
+https://doi.org/10.1186/s13023-021-02145-0
+REVIEW
+Genetic testing and diagnosis of inherited 
+retinal diseases
+Byron L. Lam1* , Bart P . Leroy2,3, Graeme Black4,5,6, Tuyen Ong7, Dan Yoon8 and Karmen Trzupek9 
+Abstract 
+Inherited retinal diseases (IRDs) are a diverse group of degenerative diseases of the retina that can lead to significant 
+reduction in vision and blindness. Because of the considerable phenotypic overlap among IRDs, genetic testing is a 
+critical step in obtaining a definitive diagnosis for affected individuals and enabling access to emerging gene ther -
+apy–based treatments and ongoing clinical studies. While advances in molecular diagnostic technologies have signifi-
+cantly improved the understanding of IRDs and identification of disease-causing variants, training in genetic diagnos-
+tics among ophthalmologists is limited. In this review, we will provide ophthalmologists with an overview of genetic 
+testing for IRDs, including the types of available testing, variant interpretation, and genetic counseling. Additionally, 
+we will discuss the clinical applications of genetic testing in the molecular diagnosis of IRDs through case studies.
+Keywords: Inherited retinal disease, Ophthalmology, Molecular diagnosis, Genetic testing, Genetic counseling, Case 
+studies, Next-generation sequencing
+© The Author(s) 2021. Open Access This article is licensed under a Creative Commons Attribution 4.0 International License, which 
+permits use, sharing, adaptation, distribution and reproduction in any medium or format, as long as you give appropriate credit to the 
+original author(s) and the source, provide a link to the Creative Commons licence, and indicate if changes were made. The images or 
+other third party material in this article are included in the article’s Creative Commons licence, unless indicated otherwise in a credit line 
+to the material. If material is not included in the article’s Creative Commons licence and your intended use is not permitted by statutory 
+regulation or exceeds the permitted use, you will need to obtain permission directly from the copyright holder. To view a copy of this 
+licence, visit http:// creat iveco mmons. org/ licen ses/ by/4. 0/. The Creative Commons Public Domain Dedication waiver (http:// creat iveco  
+mmons. org/ publi cdoma in/ zero/1. 0/) applies to the data made available in this article, unless otherwise stated in a credit line to the data.Introduction
+Inherited retinal diseases (IRDs) are a heterogenous 
+group of visually debilitating diseases caused by patho -
+genic variation in proteins critical to retinal function. The 
+majority of IRDs are characterized by retinal degenera -
+tion, which can lead to significant vision impairment and 
+blindness [1–4]. Collectively, IRDs are estimated to affect 
+more than 2 million people worldwide [5, 6]. Because of 
+the phenotypic overlap of several IRDs, establishing a 
+definitive clinical diagnosis may be difficult [7]. There -
+fore, molecular genetic testing has become an important 
+strategy to complement clinical findings and confirm or 
+clarify a diagnosis.
+With an increased understanding of the human 
+genome and the wide scope of genetic variants identi -
+fied to be associated with IRDs (> 250 causative genes) 
+[8], emerging genetic testing technologies such as next-
+generation sequencing are allowing clinicians to better diagnose IRDs [9–11]. The advent of these sophisticated 
+testing technologies for genetic disorders has highlighted 
+the need for broader awareness of human genetics and its 
+relevance to personalized medicine in IRDs.
+The American Academy of Ophthalmology Task Force 
+on Genetic Testing and the European Reference Network 
+for Rare Eye Diseases recommend genetic testing for all 
+individuals with presumed or suspected IRDs for which 
+a causative gene or genes have been identified [12, 13]. 
+However, most clinical ophthalmologists are unfamil -
+iar with genomic diagnostics. In a retrospective analysis 
+of genetic testing utilization for individuals with IRDs 
+within a large, university-based health system conducted 
+from 2008 to 2018, providers felt that genetic testing was 
+useful in IRD management [14]. However, the analy -
+sis found that genetic testing was infrequently utilized, 
+with only 1.5% of 207 individuals with IRDs undergoing 
+genetic testing ordered from an ophthalmologist’s office 
+[14].
+Historically, genetic testing has been ordered and inter -
+preted by IRD specialists and ocular genetic counselors 
+at large academic research centers [12]. However, this 
+structure does not adequately meet patient demand for Open Access
+*Correspondence:  blam@med.miami.edu
+1 Bascom Palmer Eye Institute, University of Miami Miller School 
+of Medicine, 900 NW 17th Street, Miami, FL 33156, USA
+Full list of author information is available at the end of the articlePage 2 of 9 Lam et al. Orphanet Journal of Rare Diseases          (2021) 16:514 
+3 major reasons. First, there are not enough IRD spe -
+cialists and ocular genetic counselors at academic medi -
+cal centers to meet patient demand for genetic testing. 
+While there are currently close to 5000 certified genetic 
+counselors in the United States, < 1% of them have exper -
+tise in ophthalmology [15]. Second, many individuals 
+with IRDs are geographically isolated from those cent -
+ers and unable or unwilling to travel. It is important for 
+affected individuals to be evaluated by a retina special -
+ist who is familiar with IRDs and has the expertise to 
+make a provisional clinical diagnosis. Community-based 
+retina specialists have successfully incorporated genetics 
+into their practice by ordering testing themselves; how -
+ever, the importance of both pre- and post-test genetic 
+counseling should be recognized. Particularly in the 
+United States, telemedicine-based genetic counseling 
+services are becoming more widely available to support 
+geographically or economically disadvantaged individu -
+als in accessing specialists in ocular genetics [16]. This 
+allows community-based retina specialists to partner 
+with telephone-based genetic counselors to help disclose 
+results to individuals and manage conversations regard -
+ing complex results and risks to family members. Lastly, 
+the global use of genetic testing is limited because of 
+the challenge for the budgets and structure of regional 
+healthcare systems to cover the cost of genetic testing, 
+particularly in countries with low resources [13].
+Early and accurate diagnosis is necessary for individu -
+als with IRDs to enable patient decision-making, to iden -
+tify suitable clinical studies or treatment opportunities, 
+and to improve patient outcomes. The objective of this 
+review is to provide a general understanding of genetic 
+testing and its clinical applications for IRDs through case 
+studies.
+Genetic testing
+Genetic testing is the analysis of an individual’s DNA to 
+detect genetic changes or variants that could lead to dis -
+ease [17]. With the application of improved molecular 
+testing technology, the likelihood of identifying a causa -
+tive variant in individuals with IRDs has increased [10, 
+11, 18–20]. Identifying the disease-causing variant can 
+not only illuminate or confirm a diagnosis but can also 
+improve medical management by informing progno -
+sis, reducing the need for additional electrophysiologic 
+testing, clarifying guidance in ocular surveillance, and 
+advising appropriate changes in therapies and/or supple -
+mentation [19]. Genetic testing also allows for accurate 
+identification of inheritance pattern, thereby improv -
+ing genetic counseling for affected individuals and their 
+families [19]. Additionally, with an approved retinal gene 
+therapy for biallelic RPE65 mutation-associated reti -
+nal dystrophy,  Luxturna® (voretigene neparvovec-rzyl) [21, 22], and several ocular gene therapy clinical studies 
+in progress [23–25], confirming a molecular diagnosis 
+through genetic testing may help individuals access the 
+latest treatment options or qualify for study participation 
+[2, 7].
+When a person has been clinically diagnosed with a 
+presumed IRD, diagnostic genetic testing is indicated. At 
+this time, genetic testing should not be used to rule out 
+an IRD, since a negative result from large panel genetic 
+tests could reflect the limits of the panel’s design and not 
+the comprehensive spectrum of potential genetic can -
+didates [12]. In many cases, diagnostic testing is recom -
+mended on the basis of physical symptoms or findings 
+from clinical examination. If an individual is asympto -
+matic but a disease-causing molecular variant has previ -
+ously been confirmed in a family member, genetic testing 
+can be used for predictive testing or carrier testing [26]. 
+Predictive testing is used to detect genetic mutations in 
+individuals before they present with symptoms to assess 
+future risk of disease [12, 26]. When no therapeutic inter -
+vention exists, predictive testing should be approached 
+with caution, particularly in children. For many IRDs, 
+reduced penetrance or a wide degree of variability in clin -
+ical symptoms is known to occur and can complicate the 
+interpretation of results for asymptomatic individuals. 
+The American College of Medical Genetics and Genom -
+ics and the American Academy of Pediatrics explicitly 
+discourage the routine testing of at-risk minors for adult-
+onset conditions with no available therapy or change in 
+management [27]. Carrier testing is used to identify indi -
+viduals who carry a single pathogenic variant in a reces -
+sive or X-linked disease gene that, when present with 
+another pathogenic variant, can cause genetic disease. 
+Carrier testing may be performed on individuals who do 
+not present with symptoms but may be at risk for passing 
+a genetic disease on to their children [26].
+Genetic tests can assess single genes or, more com -
+monly, panels of genes associated with a group of genetic 
+diseases [2]. Previously, genetic testing was primarily per -
+formed on a single-gene basis, where the small number 
+of genes tested were those determined to be most likely 
+associated with disease on the basis of clinical assessment 
+[7, 19, 28]. This often produced a low diagnostic yield [7]. 
+While traditional single-gene sequencing may be suffi -
+cient for diagnosing IRDs with mostly only one disease-
+associated gene identified, such as congenital anirdia 
+(PAX6 gene), systematic testing of single genes may be 
+inefficient for diagnosing more complex IRDs that have a 
+high degree of genetic heterogeneity, such as retinitis pig -
+mentosa (> 100 identified causative genes) [2, 7, 8, 12, 19, 
+29]. With the introduction of next-generation sequenc -
+ing, testing multiple genes in a single assay has become 
+possible [9]. Next-generation sequencing sequences Page 3 of 9
+ Lam et al. Orphanet Journal of Rare Diseases          (2021) 16:514 
+ 
+millions of DNA fragments in parallel and matches them 
+to a reference genome using bioinformatics to detect var -
+iants [30, 31]. Next-generation sequencing can be used to 
+completely sequence an individual’s DNA (whole genome 
+sequencing) or to sequence just the protein-coding 
+regions (whole exome sequencing) [30–32]. In the clini -
+cal assessment of IRDs, next-generation sequencing can 
+also be used to constrain sequencing to just the coding 
+regions of genes known to cause retinal diseases using a 
+targeted multigene panel [30, 31].
+In the processing of genetic test results, identified vari -
+ants are analyzed to determine their potential association 
+with an IRD phenotype. Not all identified variants cause 
+disease [33]. Genetic variant interpretation, as defined 
+by the American College of Medical Genetics, is clas -
+sified using a 5-class system (Table  1) [33, 34]. Variants 
+may be classified as benign on the basis of several crite -
+ria, including well-established functional data showing 
+no damaging effect of the variant on protein function 
+or splicing, lack of segregation in affected members of a family, and variant frequency in the general population 
+[34]. Variants classified as “likely benign” are those with 
+an estimated > 90% certainty of being benign [34]. Patho -
+genic variants are disease-causing mutations [34]. Vari -
+ants classified as “likely pathogenic” are those with an 
+estimated > 90% certainty of causing disease [34]. If a var -
+iant does not fulfill benign or pathogenic criteria, or if the 
+evidence for benign and pathogenic are contradictory, 
+the variant defaults to being classified as uncertain sig -
+nificance [34]. Variants of uncertain significance should 
+be reported with caution, and additional testing or itera -
+tive clinical investigations may be required to assess the 
+effects of these variants [34]. Processing of genetic find -
+ings should always be done in the context of the clinical 
+phenotype [35].
+Case study 1
+A 60-year-old healthy male with progressive night visual 
+impairment and peripheral visual loss for many years 
+and a diagnosis of choroideremia was referred for eval -
+uation as a participant for a choroideremia natural his -
+tory study. Family history was negative. Best-corrected 
+visual acuity was 20/50 in each eye. Funduscopic find -
+ings showed areas of well-demarcated chorioretinal atro -
+phy, with small islands of retained functional area, in the 
+macula of each eye (Fig.  1). The working diagnosis was 
+choroideremia; the genetic testing with next-generation 
+sequencing panel showed the individual was negative 
+for pathogenic mutations of the CHM  gene and posi -
+tive for 2 novel heterozygous mutations of the C2orf71 
+gene, namely, p.Arg1202Ter (nonsense mutation) and 
+p.Ser134ArgfsTer47 (frameshift mutation). Mutations of Table 1 Summary of reported variant classification and 
+interpretation [34]
+Result Variant interpretation
+Benign Clearly not disease-causing
+Likely benign Unlikely to be disease-causing
+Uncertain significance Evidence is insufficient to support or reject 
+pathogenicity, and additional data are 
+needed
+Likely pathogenic Likely to be disease-causing
+Pathogenic Clearly disease-causing
+Fig. 1 Fundoscopic images from a 60-year-old healthy male with a clinical diagnosis of choroideremia. The genetic testing with next-generation 
+sequencing panel showed the individual was negative for pathogenic mutations of the CHM gene and positive for 2 novel heterozygous mutations 
+of the C2orf71 genePage 4 of 9 Lam et al. Orphanet Journal of Rare Diseases          (2021) 16:514 
+the C2orf71 gene cause autosomal recessive retinitis pig -
+mentosa; the 2 novel C2orf71 genetic variants found were 
+considered likely positive. The individual was counseled 
+regarding the hereditary pattern and the prognosis of his 
+C2orf71-associated IRD and will be considered a candi -
+date for future C2orf71 clinical trials.
+Pedigree analyses are an important complement to 
+molecular assessment of IRDs [36, 37]. These analyses 
+can support the results of clinical phenotyping, inform 
+reproductive risks, and help guide genetic testing [38]. 
+However, it is important to consider that some IRDs 
+can be difficult to predict on the basis of family history 
+alone. For example, approximately 50% of individuals 
+with retinitis pigmentosa have no known family history 
+of the disease [31, 39], and although most will have auto -
+somal recessive inheritance, up to 10% may have X-linked 
+inheritance and approximately 24% will have dominant 
+inheritance with no known affected family members as 
+the result of reduced penetrance or a de novo genetic 
+variant [39]. Therefore, different patterns of inheritance 
+and associated causative genes should not be ruled out 
+without molecular confirmation.
+Case study 2
+A 7-year-old male suspected of difficulty with night 
+vision was found to have 20/20 vision bilaterally with 
+normal appearing maculas (Fig.  2). He reported no 
+vision problems and has 2 brothers who were asympto -
+matic. The individual’s next-generation sequencing panel 
+genetic testing showed a hemizygous pathogenic muta -
+tion in the ORF15 region of the RPGR gene on the X 
+chromosome (c.2270_2271delAG; p.Glu757GlyfsTer12; 
+this means a deletion of nucleotides A and G at positions 
+2270 and 2271 in the exon leading to a complete change in amino acid sequence starting at the change of position 
+757 from glutamic acid to glycine until an early termi -
+nation after 12 changed amino acids; see https:// varno 
+men. hgvs. org/ recom menda  tions/ prote in/ varia nt/ frame  
+shift/ for description of mutation nomenclature). Subse -
+quent testing of his siblings showed a similar genotype. 
+The genetic testing revealed that all 3 siblings actually 
+had X-linked retinitis pigmentosa due to homozygous 
+mutations in the RPGR gene. After 16 years, at the age of 
+23 years, the individual had a vision of 20/40 bilaterally 
+with significant constricted visual fields and was enrolled 
+into a clinical trial for RPGR gene therapy.
+Genetic counseling
+Prior to coordination of genetic testing, a provider famil -
+iar with the genetics of retinal diseases (often an IRD spe -
+cialist or an ocular genetic counselor) should outline the 
+benefits, limitations, and potential implications of genetic 
+testing with affected individuals and their caregivers 
+[37, 40]. For example, individuals should be made aware 
+that targeted genetic testing may miss some differential 
+diagnoses because of phenotypic overlap among various 
+IRDs [7, 41]. Conversely, it should also be considered that 
+broader testing strategies may increase the likelihood of 
+unexpected or unclear results and that conditions that 
+seem isolated may actually be syndromic [7]. It is impor -
+tant for individuals to understand that receiving genetic 
+testing does not guarantee that they will receive a molec -
+ular diagnosis for their IRD, and a positive genetic test 
+result will not necessarily qualify them for a clinical trial 
+or therapy [37]. As not all of the genes and variants asso -
+ciated with IRDs have been identified, testing may not 
+detect the disease-causing variant for all individuals [37]. 
+After the pretest consultation with the counselor, indi -
+viduals must indicate informed consent to proceed with 
+genetic testing [36].
+Case study 3
+A 59-year-old female was referred for genetic counseling 
+of her IRD. She noticed significant night blindness at age 
+17 and was diagnosed with retinitis pigmentosa at age 28. 
+Further, at the age of 28, she was diagnosed with poly -
+cystic kidney disease and underwent a unilateral kidney 
+transplant 2  days later. Genetic testing with a limited 
+panel of 31 genes implicated in early onset retinal disease 
+was ordered before referral for genetic counseling and 
+indicated that she was positive for a heterozygous path -
+ogenic variant in the RPE65 gene (c.11 + 5G > A). The 
+ordering provider incorrectly interpreted the positive test 
+result as diagnostic of RPE65-related IRD, changed the 
+diagnosis to Leber congenital amaurosis, and advised her 
+that she would likely qualify for treatment with Luxturna.
+Fig. 2 Funduscopic images from 7-year-old boy with a clinical 
+diagnosis of RPGR-mutated X-linked retinitis pigmentosaPage 5 of 9
+ Lam et al. Orphanet Journal of Rare Diseases          (2021) 16:514 
+ 
+During the genetic counseling appointment, the indi -
+vidual disclosed that she had 2 brothers who died of 
+kidney disease in late childhood. Subsequent additional 
+genetic testing revealed a complete deletion of the 
+NPHP1 gene (interpreted as pathogenic) in the homozy -
+gous state. The individual’s retinal disease, kidney dis -
+ease, and family history are consistent with a syndromic 
+form of retinal dystrophy due to the NPHP1 gene. The 
+presence of a pathogenic variant in the RPE65 gene indi -
+cates that she is additionally a carrier of recessively inher -
+ited RPE65-related retinal dystrophy, a state that does not 
+qualify her for Luxturna gene therapy.
+Post-test genetic counseling is also important for 
+interpreting and discussing genetic test results in light 
+of patient history [19, 37]. Accurate interpretation of 
+genetic test results is very important and helps health 
+care providers advise individuals about their progno -
+sis and provide more clarity about how an eye disease 
+is inherited [12]. As the number of genes commercially 
+available for sequencing increases and the use of genetic 
+sequencing processes becomes more widespread, accu -
+rate interpretation of the results from these tests is criti -
+cal [34]. On the basis of findings from the genetic test, 
+counselors will also advise on the implications of results 
+for at-risk family members, offer appropriate screening 
+or preventative strategies, and educate on other poten -
+tial health or lifestyle effects [37, 40]. As previously dis -
+cussed, results from genetic testing can help providers 
+direct individuals to available targeted therapies and/or 
+establish eligibility for participation in applicable ongoing 
+clinical studies [19].
+Case study 4
+A female with progressive impairment of night vision 
+from late childhood, legal blindness by age 16, and a diag -
+nosis of severe nonsyndromic retinitis pigmentosa was 
+referred for evaluation. Genetic testing showed that she 
+was positive for 2 heterozygous mutations of the BBS1 
+gene, p.Met390Arg (pathogenic) and p.Glu224Lys (likely 
+pathogenic), resulting in a diagnosis of Bardet-Biedl syn -
+drome. This condition is associated with multiple risks of 
+other health conditions, requiring significant medical fol -
+low-up. The genetic counselor provided medical manage -
+ment guidelines established for Bardet–Biedl syndrome 
+to the patient, the referring retina specialist, and the pri -
+mary care physician. These include regular ophthalmic 
+evaluations, body mass index calculations, diabetes test -
+ing, and lipid profiling.
+Barriers to genetic testing remain a challenge for 
+individuals with IRDs and health care professionals. 
+One significant challenge for the widespread imple -
+mentation of genetic testing is the varied payment/reimbursement mechanisms across countries [42, 
+43]. In some countries, there is limited coverage of 
+genetic testing costs [1 , 42]. Insurance companies and 
+other funding agencies may be reluctant to pay for 
+genetic testing unless there is clear evidence that the 
+results will affect medical management [31]. Another 
+significant barrier is limited patient access to expert 
+providers and genetic testing services, especially in 
+underserved and remote areas [44]. Without guidance 
+from an IRD or genetics expert, ordering and interpre -
+tation of genetic tests can be complex. Because of the 
+functional limitations associated with having an IRD, 
+affected individuals may need a caregiver to facilitate 
+access to genetic testing services and appointments 
+with genetic counselors or IRD specialists. This could 
+result in loss of workdays or working time for both the 
+affected individual and caregiver [45]. Another chal -
+lenge is ophthalmologists’ generally limited knowledge 
+of genetic services, genetic conditions, and patient risk 
+factors [44]. This lack of knowledge can lead to insuf -
+ficient referrals from ophthalmologists to IRD experts 
+and appropriate genetic services. Inadequate comple -
+tion of family history analysis can also impede genetic 
+testing efforts [44]. While a thorough family history 
+can aid decision-making and inform genetic testing 
+approaches, incomplete assessment may delay testing 
+or lessen the likelihood of identifying a causative muta -
+tion. Finally, difficulties consolidating genetic data into 
+public databases can also be a hurdle for genetic testing 
+[1, 46, 47]. While large databases are commonly used 
+by diagnostic laboratories, entries may not be complete 
+or up to date [46, 47]. Variant data may be stored in 
+local or specialized databases and not collated in a mul -
+ticenter database that can be easily accessed or shared 
+[46, 47].
+Despite the complexity of genetic tests and their 
+practical limitations, it is necessary to overcome these 
+barriers to ensure that the best medical care is pro -
+vided for individuals affected by IRDs. Some potential 
+approaches to overcome these barriers and improve 
+the patient’s experience include expanding education 
+of health care professionals about IRDs and genetic 
+testing options, creating tools to connect affected 
+individuals with experts in IRDs [48], and improving 
+data sharing via strategies to support streamlined and 
+secure distribution of genomic variant data from clini -
+cal laboratories [1 ]. A valuable service that has trans -
+formed health care in recent years is telemedicine [16]. 
+Telemedicine can facilitate medical education, e-health 
+patient monitoring, and patient consultation through 
+which ocular genetic counselors can provide remote 
+counseling to overcome geographical constraints and 
+expand access to patient care [16, 49].Page 6 of 9 Lam et al. Orphanet Journal of Rare Diseases          (2021) 16:514 
+Genetic testing recommendations for individuals 
+with IRDS
+To enhance genetic disease management, a decision tree 
+algorithm may be useful for easy reference in clinical 
+practice to help determine the indications for molecular 
+diagnosis in individuals with IRDs (Fig.  3). The Ameri -
+can Academy of Ophthalmology recommendations for 
+the genetic testing of IRDs state that whenever clinical 
+findings suggest the possibility for an IRD for which a 
+causative gene or genes have been identified, the treat -
+ing ophthalmologist should either discuss the value of 
+genetic testing and order an appropriate test (if avail -
+able) or refer the individual to an IRD specialist or ocular genetic counselor with expertise in the selection 
+and interpretation of molecular tests [12].
+Retina specialists or ocular genetic counselors will 
+review the individual’s clinical, ocular, and family history 
+[37]. In some cases, additional clinical assessments may 
+be advised. If evaluation supports the diagnosis of an IRD 
+and genetic testing is considered appropriate after pre -
+test counseling, a genetic test will be ordered. If a patho -
+genic variant is identified, the specialist or counselor will 
+assess the result in the context of the individual’s family 
+and clinical history to confirm diagnosis and will provide 
+actionable recommendations including medical manage -
+ment strategies. Ideally, individuals with IRDs should be 
+Fig. 3 Decision tree for case scenarios. IRD, inherited retinal diseasePage 7 of 9
+ Lam et al. Orphanet Journal of Rare Diseases          (2021) 16:514 
+ 
+assessed annually for associated, treatable findings such 
+as cataracts and cystoid macular edema. Individuals with 
+IRDs are also advised to return for follow-up expedi -
+tiously if there is an acute change in vision.
+If testing reveals a variant of uncertain significance, 
+additional clinical data may be collected or family 
+members may be tested; however, this does not always 
+help to elucidate the effect of the variant [34]. Vari -
+ants of uncertain significance are almost always found 
+with next-generation sequencing panel testing or whole 
+exome sequencing, with or without applied filters. Family 
+member testing can be pursued for parental or segrega -
+tion analysis if additional family members are available 
+to test. The absence of a genetic variant in both parents 
+of a child can prove de novo inheritance, which pro -
+vides strong evidence of pathogenicity. In dominant and 
+X-linked conditions, if unequivocal co-segregation of a 
+clinical phenotype with a variant is established in at least 
+3 generations, then a variant of uncertain significance 
+is highly likely to be pathogenic and reclassification of a 
+Class 3 (variant of uncertain significance) to Class 4 or 
+5 (pathogenic or likely pathogenic) is warranted. Fur -
+ther, identification of gene-specific phenotype features 
+(e.g., flat electro-oculography in a patient with vitelliform 
+dystrophy and a BEST1 variant) can also support vari -
+ant interpretation. If phenotypic clinical findings suggest 
+more than one specific genotype, the variant of unknown 
+significance can sometimes be reassessed on the basis of 
+the effect on gene and protein structure and function to 
+determine potential pathogenicity. Direct assays may be 
+useful in cases in which variants are thought to alter RNA 
+splicing; however, functional assessments may be time-
+consuming and expensive. Structural assessments such as 
+in silico analysis may be valuable; however, they should 
+generally only be used to support other lines of evidence.
+If test results are negative for pathogenic variants, this 
+could either indicate that the individual does not have 
+a genetic cause of their disease [50] or, more often the 
+case, that the molecular cause of the disease has not been 
+identified. It is possible that individuals receiving a nega -
+tive genetic test result may harbor variants in currently 
+unknown IRD genes or in regions of known genes not 
+currently identified using current testing methodologies. Genetic reevaluation may be valuable and, because new 
+pathogenic genetic variants are continually being identi -
+fied, may be considered every 2–5  years. Retesting may 
+be dependent on the mode of genetic analysis initially 
+utilized. Reanalysis of existing data (e.g., in cases in which 
+patients have had whole exome or whole genome analy -
+sis) may be simpler and cost less than a complete reevalu -
+ation. In cases in which a new genetic test is conducted, it 
+is important to assess whether it will be substantially dif -
+ferent than previous analyses, as diagnostic tests may not 
+be updated regularly. In all cases, coordination between 
+the primary provider and retina specialist, and/or genetic 
+counselor, is critical to facilitate genetic testing and guide 
+appropriate care for individuals with IRDs. Table  2 pro -
+vides some useful websites regarding basic management 
+of genetic disorders, as well as genetic counseling, genetic 
+testing, and available supportive services.
+Conclusions
+Inherited retinal diseases present challenges in molecu -
+lar diagnostics because of their high genetic heterogene -
+ity, overlapping clinical presentations, and variability in 
+inheritance patterns. Currently, ophthalmologists who 
+come across individuals experiencing symptoms con -
+sistent with an IRD may benefit from the expertise of an 
+ocular genetic counselor or IRD specialist. With the com -
+plexity of IRDs, collaboration with specialists may allow 
+for improved decision-making regarding the most appro -
+priate genetic test panel, pre- and post-test counseling, 
+and accurate interpretation of the test findings in the 
+context of the clinical diagnosis. While adequate genetic 
+testing resources and specialty providers may be unavail -
+able in many regions, improved understanding of the 
+genetics within ophthalmic subspecialties and increased 
+use of telemedicine-based options may help meet the 
+needs of individuals to fully understand their diagnosis.
+Acknowledgements
+Medical writing and editorial assistance were provided by Bethany Reinecke, 
+PhD, MedThink SciCom, Cary, NC, and Gina Uhlenbrauck, ELS, under the direc-
+tion of the authors with funding support from Biogen.
+Authors’ contributions
+TO was responsible for the conceptualization of the review and literature 
+search. BLL and KT provided the included case studies. BLL, BPL, DY, and KT Table 2 Useful websites
+Website Description
+GeneReviews
+https:// www. ncbi. nlm. nih. gov/ books/ NBK11 16/Provides detailed information on clinical scenarios and specific single-gene disorders, 
+authored by experts. These articles also contain recommendations on basic manage -
+ment, genetic counseling, and genetic testing
+VisionServe Alliance
+https:// visio nserv  ealli ance. org/ vision- loss- resou rces/ lost-  your- 
+vision/Provides a listing of local support services for those with vision impairment or blindnessPage 8 of 9 Lam et al. Orphanet Journal of Rare Diseases          (2021) 16:514 
+were major contributors to the drafting of the manuscript. All authors read 
+and approved the final manuscript.
+Funding
+Biogen provided funding for medical writing and editorial assistance pertain-
+ing to the drafting of the manuscript under the direction of the authors.
+Availability of data and materials
+Data sharing is not applicable to this article as no data sets were generated or 
+analyzed during the current study.
+Declarations
+Ethics approval and consent to participate
+Not applicable.
+Consent for publication
+Consent for publication of deidentified patient clinical and genetic informa-
+tion has been obtained where applicable.
+Competing interests
+BLL has received research and clinical trial funding from the National Eye 
+Institute, AGTC, Biogen, Editas Medicine, Pixium Vision, and ProQR and 
+consultancy fees from Biogen and ProQR. BPL has received consultancy fees 
+from Bayer, GenSight Therapeutics, IVERIC Bio, Novartis Pharma International & 
+Belgium, Spark Therapeutics, ProQR Therapeutics, REGENXBIO, and Vedere Bio; 
+has received travel support from GenSight Therapeutics, IVERIC Bio, Novartis 
+Pharma International & Belgium, Spark Therapeutics, and ProQR Therapeutics; 
+and reports an unpaid consultancy with LookoutGTx. GB has received con-
+sultancy fees from GenSight Therapeutics and Novartis Pharma International. 
+TO has nothing to disclose. DY is an employee and stockholder of Biogen. KT 
+has received an honorarium from Biogen for speaking at an internal training 
+event.
+Author details
+1 Bascom Palmer Eye Institute, University of Miami Miller School of Medicine, 
+900 NW 17th Street, Miami, FL 33156, USA. 2 Department of Ophthalmology, 
+Ghent University and Ghent University Hospital, Ghent, Belgium. 3 Ophthalmic 
+Genetics and Visual Electrophysiology, Division of Ophthalmology, Children’s 
+Hospital of Philadelphia, Philadelphia, PA, USA. 4 UK Inherited Retinal Disease 
+Consortium, Manchester, UK. 5 Genomics England Clinical Interpretation 
+Partnership, Manchester, UK. 6 Manchester Centre for Genomic Medicine, St. 
+Mary’s Hospital, Manchester, UK. 7 Ring Therapeutics, Cambridge, MA, USA. 
+8 Biogen, Cambridge, MA, USA. 9 Ocular and Rare Disease Genetics Services, 
+InformedDNA, St Petersburg, FL, USA. 
+Received: 12 July 2021   Accepted: 28 November 2021
+References
+ 1. Duncan JL, Pierce EA, Laster AM, Daiger SP , Birch DG, Ash JD, et al. 
+Inherited retinal degenerations: current landscape and knowledge 
+gaps. Transl Vis Sci Technol. 2018;7:6.
+ 2. American Academy of Ophthalmology. Recommendations on clinical 
+assessment of patients with inherited retinal degenerations. 2016. 
+https:// www. aao. org/ clini cal- state ment/ recom menda tions-  on- clini cal-  
+asses sment-  of- patie nts . Accessed November 20, 2020.
+ 3. Patricio MI, Barnard AR, Xue K, MacLaren RE. Choroideremia: molecular 
+mechanisms and development of AAV gene therapy. Expert Opin Biol 
+Ther. 2018;18:807–20.
+ 4. Lipinski DM, Thake M, MacLaren RE. Clinical applications of retinal gene 
+therapy. Prog Retin Eye Res. 2013;32:22–47.
+ 5. Hanany M, Rivolta C, Sharon D. Worldwide carrier frequency and 
+genetic prevalence of autosomal recessive inherited retinal diseases. 
+Proc Natl Acad Sci U S A. 2020;117:2710–6.
+ 6. Berger W, Kloeckener-Gruissem B, Neidhardt J. The molecular basis 
+of human retinal and vitreoretinal diseases. Prog Retin Eye Res. 
+2010;29:335–75. 7. Lee K, Garg S. Navigating the current landscape of clinical genetic testing 
+for inherited retinal dystrophies. Genet Med. 2015;17:245–52.
+ 8. RetNet: Summaries of genes and loci causing retinal disease. https:// sph. 
+uth. edu/ RETNET/ sum-  dis. htm#A-  genes . Accessed 20 Nov 2020.
+ 9. Chiang JP , Trzupek K. The current status of molecular diagnosis of inher -
+ited retinal dystrophies. Curr Opin Ophthalmol. 2015;26:346–51.
+ 10. Wang F, Wang H, Tuan HF, Nguyen DH, Sun V, Keser V, et al. Next genera-
+tion sequencing-based molecular diagnosis of retinitis pigmentosa: 
+identification of a novel genotype-phenotype correlation and clinical 
+refinements. Hum Genet. 2014;133:331–45.
+ 11. O’Sullivan J, Mullaney BG, Bhaskar SS, Dickerson JE, Hall G, O’Grady A, 
+et al. A paradigm shift in the delivery of services for diagnosis of inherited 
+retinal disease. J Med Genet. 2012;49:322–6.
+ 12. Stone EM, Aldave AJ, Drack AV, Maccumber MW, Sheffield VC, Traboulsi 
+E, et al. Recommendations for genetic testing of inherited eye diseases: 
+report of the American Academy of Ophthalmology task force on genetic 
+testing. Ophthalmology. 2014;119:2408–10.
+ 13. Black GC, Sergouniotis P , Sodi A, Leroy BP , Van Cauwenbergh C, Liskova P , 
+et al. The need for widely available genomic testing in rare eye diseases: 
+an ERN-EYE position statement. Orphanet J Rare Dis. 2021;16:142.
+ 14. Neiweem AE, Hariprasad SM, Ciulla TA. Genetic testing prevalence, guide -
+lines, and pitfalls in large, university-based medical systems. Ophthalmic 
+Surg Lasers Imaging Retina. 2021;52:6–10.
+ 15. National Society for Genetic Counselors. https:// www. nsgc. org/ page/ 
+about- nsgc . Accessed 20 Nov 2020.
+ 16. Rathi S, Tsui E, Mehta N, Zahid S, Schuman JS. The current state of tel-
+eophthalmology in the United States. Ophthalmology. 2017;124:1729–34.
+ 17. McPherson E. Genetic diagnosis and testing in clinical practice. Clin Med 
+Res. 2006;4:123–9.
+ 18. Eisenberger T, Neuhaus C, Khan AO, Decker C, Preising MN, Friedburg 
+C, et al. Increasing the yield in targeted next-generation sequencing by 
+implicating CNV analysis, non-coding exons and the overall variant load: 
+the example of retinal dystrophies. PLoS ONE. 2013;8:e78496.
+ 19. Trzupek KM. Where genetic testing fits in the retina practice. https:// 
+www. retina- speci alist. com/ artic le/ where-  genet ic- testi ng- fits- in- the- 
+retina- pract ice . Accessed 20 Nov 2020.
+ 20. Consugar MB, Navarro-Gomez D, Place EM, Bujakowska KM, Sousa 
+ME, Fonseca-Kelly ZD, et al. Panel-based genetic diagnostic testing for 
+inherited eye diseases is highly accurate and reproducible, and more 
+sensitive for variant detection, than exome sequencing. Genet Med. 
+2015;17:253–61.
+ 21. Luxturna [package insert]. Spark Therapeutics Inc; 2017.
+ 22. FDA approves hereditary blindness gene therapy. Nat Biotechnol. 
+2018;36:6. https:// doi. org/ 10. 1038/ nbt01 18- 6a.
+ 23. Trapani I, Auricchio A. Seeing the light after 25 years of retinal gene 
+therapy. Trends Mol Med. 2018;24:669–81.
+ 24. Hulliger EC, Hostettler SM, Kleinlogel S. Empowering retinal gene therapy 
+with a specific promoter for human rod and cone ON-bipolar cells. Mol 
+Ther Methods Clin Dev. 2020;17:505–19.
+ 25. Garafalo AV, Cideciyan AV, Heon E, Sheplock R, Pearson A, Yu CW, et al. 
+Progress in treating inherited retinal diseases: early subretinal gene 
+therapy clinical trials and candidates for future initiatives. Prog Retin Eye 
+Res. 2020;77:100827.
+ 26. U.S. National Library of Medicine. National Institutes of Health. Depart -
+ment of Health & Human Services. Help me understand genetics. https:// 
+medli neplus. gov/ downl oad/ genet ics/ under stand ing/ testi ng. pdf . 
+Accessed 20 Nov 2020.
+ 27. Committee on Bioethics, Committee on Genetics, American College of 
+Medical Genetics and Genomics Social, Ethical, Legal Issues Committee. 
+Ethical and policy issues in genetic testing and screening of children. 
+Pediatrics. 2013;131:620–2.
+ 28. Newman WG, Black GC. Delivery of a clinical genomics service. Genes 
+(Basel). 2014;5:1001–17.
+ 29. Landsend ECS, Lagali N, Utheim TP . Congenital aniridia—a comprehen-
+sive review of clinical features and therapeutic approaches. Surv Ophthal-
+mol. 2021;66:1031–50.
+ 30. Behjati S, Tarpey PS. What is next generation sequencing? Arch Dis Child 
+Educ Pract Ed. 2013;98:236–8.
+ 31. Moore AT. Genetic testing for inherited retinal disease. Ophthalmology. 
+2017;124:1254–5.Page 9 of 9
+ Lam et al. Orphanet Journal of Rare Diseases          (2021) 16:514 
+ 
+•
+ fast, convenient online submission
+ •
+  thorough peer review by experienced researchers in your ﬁeld
+• 
+ rapid publication on acceptance
+• 
+ support for research data, including large and complex data types
+•
+  gold Open Access which fosters wider collaboration and increased citations 
+ maximum visibility for your research: over 100M website views per year •
+  At BMC, research is always in progress.
+Learn more biomedcentral.com/submissionsReady to submit y our researc h Ready to submit y our researc h  ?  Choose BMC and benefit fr om: ?  Choose BMC and benefit fr om: 
+ 32. Tatour Y, Ben-Yosef T. Syndromic inherited retinal diseases: genetic, clini-
+cal and diagnostic aspects. Diagnostics (Basel). 2020;10:779.
+ 33. Tsang SH, Sharma T. Genetic testing for inherited retinal dystrophy: basic 
+understanding. Adv Exp Med Biol. 2018;1085:261–8.
+ 34. Richards S, Aziz N, Bale S, Bick D, Das S, Gastier-Foster J, et al. Standards 
+and guidelines for the interpretation of sequence variants: a joint con-
+sensus recommendation of the American College of Medical Genetics 
+and Genomics and the Association for Molecular Pathology. Genet Med. 
+2015;17:405–24.
+ 35. Stone EM, Andorf JL, Whitmore SS, DeLuca AP , Giacalone JC, Streb LM, 
+et al. Clinically focused molecular investigation of 1000 consecutive 
+families with inherited retinal disease. Ophthalmology. 2017;124:1314–31.
+ 36. Mejecase C, Malka S, Guan Z, Slater A, Arno G, Moosajee M. Practical 
+guide to genetic screening for inherited eye diseases. Ther Adv Ophthal-
+mol. 2020;12:2515841420954592.
+ 37. Foundation for Fighting Blindness. Genetic testing for retinal degenera-
+tive diseases. https:// www. fight ingbl indne ss. org/ genet ic- testi ng- for- retin 
+al- degen erati ve-  disea ses- infor  mation- and- resou rces- for- affec  ted- indiv 
+iduals- famil ies- and- health-  care- provi ders . Accessed 21 Nov 2020.
+ 38. Stroh E. Taking the family history in genetic disease: a guide for ophthal-
+mologists. Curr Opin Ophthalmol. 2011;22:340–6.
+ 39. Bravo-Gil N, Gonzalez-Del Pozo M, Martin-Sanchez M, Mendez-Vidal C, 
+Rodriquez-de la Rua E, Borrego S, et al. Unravelling the genetic basis of 
+simplex retinitis pigmentosa cases. Sci Rep. 2017;7:41937.
+ 40. Blain D, Brooks BP . Molecular diagnosis and genetic counseling in oph-
+thalmology. Arch Ophthalmol. 2007;125:196–203.
+ 41. Lionel AC, Costain G, Monfared N, Walker S, Reuter MS, Hosseini SM, et al. 
+Improved diagnostic yield compared with targeted gene sequencing 
+panels suggests a role for whole-genome sequencing as a first-tier 
+genetic test. Genet Med. 2018;20:435–43.
+ 42. Vozikis A, Cooper DN, Mitropoulou C, Kambouris ME, Brand A, Dolzan V, 
+et al. Test pricing and reimbursement in genomic medicine: towards a 
+general strategy. Public Health Genomics. 2016;19:352–63.
+ 43. Mansfield BC, Yerxa BR, Branham KH. Implementation of a registry and 
+open access genetic testing program for inherited retinal diseases 
+within a non-profit foundation. Am J Med Genet C Semin Med Genet. 
+2020;184:838–45.
+ 44. Delikurt T, Williamson GR, Anastasiadou V, Skirton H. A systematic review 
+of factors that act as barriers to patient referral to genetic services. Eur J 
+Hum Genet. 2015;23:739–45.
+ 45. National Academies of Sciences, Engineering, and Medicine; Health 
+and Medicine Division; Board on Health Sciences Policy; Roundtable 
+on Genomics and Precision Health. Exploring the barriers to accessing 
+genomic and genetic services. In: Understanding disparities in access 
+to genomic medicine: proceedings of a workshop. Washington, DC: 
+National Academies Press; 2018. https:// www. ncbi. nlm. nih. gov/ books/ 
+NBK53 8442/. Accessed 21 Nov 2020.
+ 46. van Huet RA, Oomen CJ, Plomp AS, van Genderen MM, Klevering BJ, 
+Schlingemann RO, et al. The RD5000 database: facilitating clinical, 
+genetic, and therapeutic studies on inherited retinal diseases. Invest 
+Ophthalmol Vis Sci. 2014;55:7355–60.
+ 47. Chiang J, Gorin MB. Challenges confronting precision medicine in the 
+context of inherited retinal disorders. Exp Rev Precis Med Drug Dev. 
+2016;1:195–205.
+ 48. Leroy B. Symposium conducted at: European Society of Retina Specialists 
+Meeting 2020; October 2–4, 2020; Virtual.
+ 49. Kay C. Logistics of genetic testing: an overview for retina specialists. Retin 
+Physician. 2017;14:55–8.
+ 50. Centers for Disease Control and Prevention. Genetic testing. https:// www. 
+cdc. gov/ genom ics/ gtest ing/ genet ic_ testi ng. htm. Accessed 1 Dec 2020.
+Publisher’s Note
+Springer Nature remains neutral with regard to jurisdictional claims in pub -
+lished maps and institutional affiliations.

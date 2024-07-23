@@ -1,0 +1,2157 @@
+Progress in Retinal and Eye Research 86 (2022) 100975
+Available online 29 May 2021
+1350-9462/© 2021 The Authors. Published by Elsevier Ltd. This is an open access article under the CC BY-NC-ND license
+(http://creativecommons.org/licenses/by-nc-nd/4.0/ ).Early and late stage gene therapy interventions for inherited 
+retinal degenerations 
+Catherine Bottoa,1, Marco Ruclia,1, Müge Defne Tekinsoya,1, Juliette Pulmana,1, 
+Jos˘e-Alain Sahela,b,c,d, Deniz Dalkaraa,* 
+aSorbonne Universit ˘e, INSERM, CNRS, Institut de la Vision, F-75012, Paris, France 
+bDepartment of Ophthalmology, The University of Pittsburgh School of Medicine, Pittsburgh, PA, 15213, United States 
+cCHNO des Quinze-Vingts, INSERM-DGOS CIC 1423, F-75012, Paris, France 
+dFondation Ophtalmologique Rothschild, F-75019, Paris, France   
+ARTICLE INFO  
+Keywords: 
+AAV 
+Optogenetics 
+Retina 
+CRISPR/Cas9 
+Neuroprotection 
+Gene therapy ABSTRACT  
+Inherited and age-related retinal degeneration is the hallmark of a large group of heterogeneous diseases and is 
+the main cause of untreatable blindness today. Genetic factors play a major pathogenic role in retinal de-
+generations for both monogenic diseases (such as retinitis pigmentosa) and complex diseases with established 
+genetic risk factors (such as age-related macular degeneration). Progress in genotyping techniques and back of 
+the eye imaging are completing our understanding of these diseases and their manifestations in patient pop-
+ulations suffering from retinal degenerations. It is clear that whatever the genetic cause, the majority of vision 
+loss in retinal diseases results from the loss of photoreceptor function. The timing and circumstances surrounding 
+the loss of photoreceptor function determine the adequate therapeutic approach to use for each patient. Among 
+such approaches, gene therapy is rapidly becoming a therapeutic reality applicable in the clinic. This massive 
+move from laboratory work towards clinical application has been propelled by the advances in our under -
+standing of disease genetics and mechanisms, gene delivery vectors, gene editing systems, and compensatory 
+strategies for loss of photoreceptor function. Here, we provide an overview of existing modalities of retinal gene 
+therapy and their relevance based on the needs of patient populations suffering from inherited retinal 
+degenerations.   
+1.Introduction 
+1.1. Why gene therapy? Why now? 
+Gene therapy that is broadly defined as the use of exogenous DNA to 
+treat human disease has been proposed as a potential medical inter-
+vention over five decades ago (Aposhian, 1970 ). Gene therapy offers a 
+theoretical advantage over small molecules classically used as medi -
+cines: it is a one-shot treatment that can provide a durable and poten -
+tially curative clinical benefit. The journey from concept to clinical 
+application has been long, including the development of an experi -
+mental approach around the identified medical needs. The first appli -
+cations were evidently in vitro where cells to be genetically modified 
+were removed from the body then re administered to patients( Fischer, 
+Hacein-Bey-Abina and Cavazzana-Calvo, 2010 ). The development of gene delivery vectors has been the major bottleneck of this attractive 
+strategy and remained problematic in the early clinical trials of the 
+1990s revealing therapy-related toxicities such as inflammatory re-
+sponses to the vectors and malignancies caused by vector-mediated 
+insertional activation of proto-oncogenes( Dunbar et al., 2018 ). These 
+setbacks fueled more basic research in virology, immunology, cell 
+biology, model development, and target disease, that ultimately led to 
+successful clinical translation of gene therapies in the 2000s. Gene 
+therapy can now be carried out in vitro in patient cells or in vivo. In the 
+second scenario, genetic materials need to be directly introduced into 
+the target organs or tissues of the patients. 
+Today, in vivo delivery of therapeutic AAV vectors to the retina, 
+liver, and nervous system resulted in clinical improvement in patients 
+with congenital blindness, hemophilia B, and spinal muscular atrophy, 
+respectively( Dunbar et al., 2018 ). In the United States, Food and Drug 
+*Corresponding author. 
+E-mail address: deniz.dalkara@inserm.fr (D. Dalkara).   
+1 Equal contribution. 
+Contents lists available at ScienceDirect 
+Progress in Retinal and Eye Research 
+u{�~zkw! s{yo|kr o>!ÐÐÐ1ow�o �to~1m{y2w{m k�o2|~o�oÞo ~o�!
+https://doi.org/10.1016/j.preteyeres.2021.100975 
+Received 18 February 2021; Received in revised form 18 May 2021; Accepted 21 May 2021   Progress in Retinal and Eye Research 86 (2022) 100975
+2Administration (FDA) and European Medicines Agency (EMA) approvals 
+of the first gene therapy products occurred between 2017 and 2018, 
+including chimeric antigen receptor (CAR)–T cells to treat B cell ma-
+lignancies and AAV vectors for in vivo treatment of congenital blindness 
+(Luxturna). Promising clinical trial results in spinal muscular atrophy 
+and hemophilia also resulted in additional FDA approval since that time. 
+Now is thus the right time to leverage these initial experiences of gene 
+therapy to extremely rare diseases towards providing treatments in 
+diseases affecting larger groups of patients. This review will outline 
+strategies being explored in this direction and technologies needed for 
+their successful translation. The ability of gene therapies to provide 
+durable benefits to human health justifies continued optimism and 
+increasing efforts towards making gene therapy part of our standard 
+treatments especially in ophthalmology, where the eye presents clear 
+advantages of being a small compartmentalized structure with immune 
+privilege. 
+1.2. What happens in retinal degeneration? 
+Visual loss from retinal degeneration is the major cause of blindness 
+in industrialized countries(Wright et al., 2010). Retinal degenerations 
+represent a large and heterogenous group of diseases, with genetic 
+mutations and susceptibility factors determining the disease pathogen -
+esis and onset. The majority of vision loss in retinal degenerations, 
+whatever the cause, ultimately results from the loss of photoreceptors. 
+This loss can be due to genetic mutations that these cells carry or mu-
+tations found in the retinal pigment epithelial (RPE) cells (Mendes et al., 
+2005). These mutations can affect genes that are involved in photo -
+transduction, biosynthesis and folding of the rhodopsin molecule, and 
+the disruption of proteins providing structural support of the retina like 
+those involved in Usher Syndrome(Daiger et al., 2013). The broadest 
+category of inherited retinal degenerations is Retinitis Pigmentosa (RP). 
+Within RP, most frequent mutations are found on the rhodopsin gene 
+affecting the function of rhodopsin and indirectly leading to other issues 
+within rods(Audo, Manes, Mohand-Saïd, Friedrich, Lancelot, Antonio, 
+Moskova-Doumanova, Poch, Zanlonghi, Christian P Hamel et al., 2010). 
+One mechanism of retinal degeneration is rhodopsin overexpression or 
+under-expression. Another mechanism, whereby a mutation causes a 
+truncated rhodopsin, affects the cell’s ability to fold and traffic the 
+protein leading to cell death via the unfolded protein response(Kunte 
+et al., 2012). 
+The other large group of diseases affecting photoreceptor survival 
+consists of degenerations with proven genetic risk factors that make 
+certain individuals more at risk of complex disease(Fritsche et al., 2013). 
+In contrast to targeted replacement of single gene deficiencies that can 
+be proposed in monogenic diseases described above, different strategies 
+are required to treat these so-called complex photoreceptor de-
+generations (like age related macular degeneration). For the purpose of 
+this review, we will focus on monogenic inherited retinal dystrophies, 
+for which, we now have a good understanding of the genetics and 
+mechanisms. 
+1.3. How can gene therapy help, prevent or cure visual loss caused by 
+retinal degeneration? 
+In principal, the most significant benefit from gene therapy can be 
+obtained by replacing the mutant gene with a healthy copy or by cor-
+recting the underlying mutation prior to degeneration of retinal cells. 
+Some progressive diseases have a large window of opportunity where 
+such interventions can be made prior to the loss of photoreceptors 
+resulting in potentially lifetime benefit. Achromatopsia, where cones 
+stay anatomically intact is another example. Other diseases such as 
+congenital stationary night blindness where there is no degeneration but 
+a functional loss at the bipolar cell level are excellent candidates for gene 
+replacement or corrective therapies with a large therapeutic window 
+(Zeitz et al., 2015; Cremers et al., 2018). On the other end of the spectrum, Leber Hereditary Optic Neuropathy affect the RGCs and most 
+patients progress to vision worse than 20/200 within the first year after 
+the disease onset severely restricting the therapeutic window of oppor -
+tunity(Vignal-Clermont et al., 2015). However, in most cases of rod-cone 
+dystrophy, once photoreceptors have started to degenerate, gene 
+replacement or correction is uncertain to provide a life-long benefit as 
+the degenerative process once underway may be difficult to halt. 
+Moreover, there are many unknown and dominant mutations where 
+gene replacement cannot be envisioned. In all such cases, benefit can be 
+obtained via the secretion of survival factors delivered in form of gene 
+therapy potentially in combination with gene replacement(Sahel and 
+Roska, 2013). There are several varieties of survival-enhancing factors 
+that can help with metabolic issues, inflammation and oxidative stress 
+that arise in cones secondary to the loss of rods(Sahel et al., 2013). Once 
+cones lose their outer segments, it is possible to restore light sensitivity 
+in these cells via ectopic expression of microbial opsins (optogenetics). 
+Such degenerated cones that have lost their outer segments or down -
+stream neurons can be transduced to express opsins rendering them 
+sensitive to light(Simon et al., 2020). Indeed, once light capture has 
+been lost, it is interesting to observe that the inner retinal neural cir-
+cuitry from bipolar cells to retinal ganglion cells (RGCs) often remain 
+intact. This gives rise to further opportunities to salvage vision in 
+advanced disease via the use of gene therapy. These approaches briefly 
+described here are the major avenues of gene therapy for inherited 
+retinal dystrophies that are being perused today. They all benefit from 
+the emergence of efficient and safe viral vectors (in particular, the 
+adeno-associated virus) capable of transducing different retinal cell 
+types that constitute targets for gene therapy. 
+1.4. What other strategies and how do they compare to gene therapy? 
+Implantation of an electronic retinal prosthesis or other devices that 
+aid in visual performance have been pursued over the last two decades 
+(Scholl et al., 2016). Retinal prostheses are designed to restore a basic 
+sense of sight to people with profound vision loss. They require a rela-
+tively intact posterior visual pathway (optic nerve, lateral geniculate 
+nucleus and visual cortex). Despite reorganization and cell loss, the 
+inner retinal neurons retain the capacity for signal transmission. 
+Morphometric analyses have shown that, based on the nuclei count, 
+around half or the retinal ganglion cells survive in patients with virtually 
+no photoreceptors. Retinal implants are options for those patients 
+including both retinitis pigmentosa and age-related macular degenera -
+tion patients. Electrode-based extracellular stimulation operates by 
+injecting current into the tissue of interest via a single or an array of 
+electrode placed nearby (Yue et al., 2016). In bioelectronic retinal im-
+plants, an electrode array is placed in close proximity to the retina, 
+forming an electrochemical interface with the physiological liquid sur-
+rounding the retina. Stimulating electrodes inject electrical current 
+which passes through the cell membranes of the retinal neurons and is 
+recorded through the return electrode. Firing of action potentials is 
+initiated when membrane depolarization exceeds a threshold. The sys-
+tem is completed by a visual interface, a pocket processor and a retina 
+stimulator. There have now been three regulatory-approved retinal 
+prostheses. Over five hundred patients have been implanted globally 
+over the past 15 years. Devices generally provide an improved ability to 
+localize high-contrast objects, navigate, and perform basic orientation 
+tasks. The visual acuity that can be attained with implants is low. Unlike 
+the optical stimulation, where the incident beam can be as narrow as the 
+width of a photoreceptor, electrode-based activation is limited by the 
+physical size of the electrodes as well as the lateral current spread. 
+Moreover the information processing performed by retinal neurons is 
+lost, since bipolar and/or ganglion cells are being activated simulta -
+neously. Stimulation at different retinal locations may result in differ -
+ential levels of visual acuity as the receptive field converges as a function 
+of eccentricity e the receptive field varies from 1:1 photoreceptors: 
+ganglion cells at the fovea to thousands:1 at the peripheral retina. Thus, C. Botto et al.                                                                                                                                                                                                                                    Progress in Retinal and Eye Research 86 (2022) 100975
+3the acuity is dependent not only on the spacing of the pixels, but also on 
+the pixel size and the contact with the target neurons and cannot be 
+matched with the physical limits imposed on electrical implants. 
+Furthermore, adverse events such as conjunctival erosion, retinal 
+detachment, loss of light perception, and the need for revision surgery, 
+have been reported for patients having received such prosthetic devices. 
+Device related risks, such as overstimulation or delamination of 
+implanted components, can also cause other rare but real risks. Current 
+challenges include how to improve visual acuity, enlarge the 
+field-of-view, and reduce a complex visual scene to its most salient 
+components through image processing. 
+In addition to prosthetic approaches, direct replacement of lost 
+retinal cells by transplantation of human embryonic or induced plurip -
+otent stem cell-derived RPE or photoreceptors is also a compelling 
+strategy. Although regenerative medicine is several decades younger 
+than gene therapy current developments offer hopes of replacing 
+photoreceptor cells lost to inherited retinal degenerations (Gagliardi, 
+Ben M’Barek and Goureau, 2019 ). Major strides have been made thanks 
+to the discovery of Yamanaka factors allowing reprogramming of any 
+they of cells into a state of induced pluripotency. This has opened the 
+way to generation of retinal cells and retinal tissue from human 
+pluripotent stem cells (PSCs). These cells can then be grown in culture 
+and differentiated towards the desired specialized cell types. Retinal 
+pigment epithelium cells derived from PSCs is already in clinical testing. Transplantation of retinal photoreceptors has been more complex but 
+the most recent advances in 3D culture systems has allowed generation 
+of human retinal organoids increasing availability of human photore -
+ceptor cells for future clinical applications in IRDs. The generation and 
+characterization of transplantable photoreceptors from PSCs and other 
+current obstacles regarding PSC-based preclinical studies for photore -
+ceptor replacement are now conducted in animal models. Nevertheless, 
+most recent turning point in our understanding of donor photoreceptor 
+integration revealed many artefactual findings in the early photore -
+ceptor transplantation period and highlighted crucial obstacles that 
+hinder the photoreceptor replacement. These obstacles also include the 
+growth and maintenance of a functional outer segment generating light 
+responses, crucial for treatment efficacy using such approach. The most 
+promising strategies to overcome these obstacles in the future, and 
+perspectives on the approaching advancement in the application of PSC 
+technology for treatment of photoreceptor degenerative diseases is dis-
+cussed in more detail in a recent review (Gagliardi, Ben M’Barek and 
+Goureau, 2019 ). 
+2.Historical perspective: genes and mutations 
+Hundreds of genes have been implicated in IRDs, thus making gene 
+or mutation specific gene therapy approaches a colossal task (Fig. 1). As 
+it is noted in Table 1, the clinical trials for IRDs have thus far targeted 
+Fig. 1.Historical perspective: from discovery of mutations to gene independent therapies. 
+Upper panel represents mapped and identified retinal disease genes since 1980 (from: https://sph.uth.edu/retnet/sum-dis.htm#D-graph ). 
+Lower panel shows the timeline of important discoveries pertaining to gene therapies described in the review. C. Botto et al.                                                                                                                                                                                                                                    Progress in Retinal and Eye Research 86 (2022) 100975
+4genes involved in autosomal recessive disorders (i.e. those that create 
+null genotypes) were supplementing the gene to produce a functional 
+protein can be a straightforward approach(Stone, 2009). Some recessive 
+diseases could not benefit from AAV mediated gene replacement due to 
+other challenges that limit the development of therapies using the AAV 
+platform such as the size limit of the therapeutic cassette(Trapani et al., 
+2014). This created new ways of thinking about the use of AAV for gene 
+therapy that is not limited to direct replacement or correction of a 
+disease-causing gene. With our increasing understanding of disease 
+mechanisms, it became clear that AAV can also be used to augment 
+processes and pathways downstream of the mutation, which can prove 
+beneficial for more retinal diseases beyond IRDs (including complex 
+diseases like glaucoma, age related macular degeneration)(Campo -
+chiaro, 2011). Several gene therapy mechanisms targeting metabolic 
+deficits that occur during rod-cone dystrophy have been developed as 
+alternative ‘gene independent’ therapies (Fig. 1). Such gene therapies 
+that target a larger population of patients by inducing the expression of 
+neuroprotective factors/anti-oxidant or anti-inflammatory proteins are 
+quickly moving into the therapeutic landscape. The discovery of opto-
+genetics which endows light responsiveness to any given neuron by the 
+expression of opsins has also appeared as an attractive experimental 
+strategy to compensate for photoreceptor cell loss that is a common 
+phenotype of the great majority of IRDs. 
+2020 (15 years later)- we know a lot more about the mutations and 
+the discovery of gene editing has opened new perspectives to correct 
+dominant mutations and mutations found on large genes (Fig. 1). This 
+extremely promising technology extends the promise of gene replace -
+ment and will allow the correction of gene defects in situ, allowing 
+corrected genes to be expressed within their genomic context and be 
+regulated by the cell’s endogenous gene regulatory mechanisms(Yanik 
+et al., 2017). 
+Genome editing represents a new solution to treat IRD, if side effects 
+of Cas9 can be controlled and limited in vivo. It could be particularly 
+useful for dominant mutations where gene replacement is not sufficient, 
+or for large genes that do not fit into AAV and are therefore not good 
+candidates for a simple gene replacement. Last year, a phase I/II clinical 
+trial for a CRISPR-based therapy administered directly inside the human 
+body. This trial is targeting mutations in the CEP290 gene causing Leber 
+Congenital Amaurosis 10 by delivering AAV encoded CRISPR/Cas9 via a 
+subretinal injection. The initial step is to inject small amounts of the 
+CRISPR/Cas9 in adult patients who are nearly blind to test for safety. If 
+everything goes well, other patients will receive higher doses. 
+The gene-editing revolution continues to rapidly evolve from a sys-
+tem that can create targeted cuts to strategies allowing cut and replace, 
+with the discovery, for example, of HITI(Suzuki et al., 2016). More 
+recently, David Liu’s team has generated new gene-editing tools named 
+base editors (Gaudelli et al., 2017; Komor et al., 2017) and prime editors 
+(Anzalone et al., 2019) that can correct single nucleotides without 
+introducing breaks in the DNA. Less than 10 years after its discovery, 
+CRISPR, base and prime editing the ultimate promise for the treatment 
+of inherited retinal diseases. The refinements and improvements of these 
+technologies themselves(Rees and Liu, 2018) and annex technologies for 
+their delivery(Luther et al., 2018) into human cells will be the focus of 
+research and development efforts over the next decade. It is important to 
+note that this versatile platform technology has unlimited potential as it 
+can also be used to activate or suppress the expression of endogenous 
+genes to promote survival (as in the trophic factor approach)(Moreno 
+et al., 2018) or even regenerate dying photoreceptors by reprogramming 
+of Müller glial cells(Yao et al., 2018) creating the next generation of 
+gene therapies for IRDs. 
+3.Phenotypes and phenotyping 
+As previously mentioned IRDs are a heterogeneous group of diseases 
+with diverse mechanisms of inheritance, and with a variable onset and 
+progression. An autosomal recessive inheritance mode is observed in Table 1 
+Summary of ongoing clinical trials of gene replacement for autosomal recessive 
+retinal diseases.  
+Mendelian 
+Genetic 
+Type Disease Gene Cell(s) 
+with 
+primary 
+genetic 
+defect Estimated 
+Gene 
+Mutation 
+Frequency 
+in the USa Clinical trial 
+number (Phase)  
+LCA2 RPE65 RPE (and 
+cone) 1/576,667 NCT00481546 
+(Phase I)      
+NCT00516477 
+(Phase I)      
+NCT00821340 
+(Phase I)e      
+NCT00749957 
+(Phase I/II)e      
+NCT01208389 
+(Phase I/II)      
+NCT01496040 
+(Phase I/II)e      
+NCT00999609 
+(Phase III)      
+NCT02781480 
+(Phase I/II)e  
+RP38 MERTK RPE 1/576,667 NCT01482195 
+(Phase I)  
+USH1B MYO7A Rod, 
+cone 
+(and 
+RPE) 1/216,250 NCT01505062 
+(Phase I/II)  
+STGD ABCA4 Rod,cone 
+(and 
+RPE) 1/10,000 NCT01367444 
+(Phase I/II)      
+NCT02610582 
+(Phase I/II)      
+NCT02935517 
+(Phase I/II)  
+ACHM2 CNGA3 Cone 1/576,667 NCT03758404 
+(Phase I/II)      
+NCT03001310 
+(Phase I/II)      
+NCT02599922 
+(Phase I/II) 
+Autosomal 
+Recessive ACHM3 CNGB3 Cone 1/346,000 NCT03278873 
+(Phase I/II)  
+RP40 PDE6B Rod 1/247,143 NCT03328130 
+(Phase I/II)  
+RP RLBP1 RPE and 
+Müller 
+cells 1/ 
+1,730,000 NCT03374657 
+(Phase I/II)      
+NCT01461213 
+(Phase I/II)      
+NCT02341807 
+(Phase I/II)      
+NCT02077361 
+(Phase I/II)e      
+NCT02553135 
+(Phase II)e      
+NCT02671539 
+(Phase II)      
+NCT02407678 
+(Phase II)      
+NCT03507686 
+(Phase II)  
+CHM CHM Rod, 
+cone 
+(and 
+RPE) 1/123,571 NCT03496012 
+(Phase III)      
+NCT03116113 
+(Phase I/II)  
+XLRP 
+(RP3) RPGR Rod and 
+cone 1/36,042 NCT03316560 
+(Phase I/II)  
+XLRS RS1 Rod 1/20000 NCT02317887      
+NCT02161380 
+and NCT02064  
+LHON ND4 RGC  569  
+LCA10 CEP290 Rod and 
+cone  NCT03872479  C. Botto et al.                                                                                                                                                                                                                                    Progress in Retinal and Eye Research 86 (2022) 100975
+5over half of all RP cases, and in most cases of Leber congenital amaurosis 
+(LCA). LCA represents a group of hereditary retinal diseases character -
+ized and unified by the following clinical features: severe and early vi-
+sual loss, sensory nystagmus, amaurotic pupils, and absent electrical 
+signals on ERG( den Hollander et al., 2008 ). LCA presents very early in 
+life, usually at around the age of 6 weeks, when parents note the oscil-
+lations of the eyes (nystagmus) or the absence of fixation( Galvin et al., 
+2005 ). Most vision researchers currently consider LCA the most severe 
+retinal dystrophy without major systemic features. The most common 
+form of macular dystrophy, Stargardt disease, is inherited in the auto-
+somal recessive form. Clinical gene therapy studies are ongoing for 
+Stargardt disease as well as, cone-rod dystrophies CNGA3, CNGB3. 
+The most common IRD is Retinitis Pigmentosa also referred to as 
+Rod-Cone dystrophy (RCD). Despite different mutations, RCDs share a 
+similar phenotype and mechanisms, characterized by photoreceptor 
+degeneration which ultimately leads to complete blindness. The pro-
+gression of the degeneration can be divided in three separate stages:  
+1) rod photoreceptors start to degenerate from the periphery towards 
+the center of the retina as a consequence of the mutation (Lin et al., 
+2009 ). The degeneration of rods involves apoptosis( Cottet and 
+Schorderet, 2009 ), however, the mechanism leading to cell death has 
+still not been entirely elucidated for every mutation. Previous studies 
+suggest that the accumulation of unfolded or misfolded protein could 
+be toxic for the rod photoreceptors( Lin and LaVail, 2010 ). Other 
+studies suggest microglia and oxidative stress may also contribute 
+(Zeng et al., 2014 ; Di Pierdomenico et al., 2019 ) and mutations in the 
+interphotoreceptor retinoid-binding protein have also been reported 
+to activate apoptotic and necrotic pathways (Sato et al., 2013 ). 
+Regardless of the mutation, rod degeneration results in night blind -
+ness, that is, the loss of ability to see in the dark or low-lit environ -
+ments. Night blindness is usually the first symptom of RCD and 
+addressing the disease at this point is challenging, requiring knowl -
+edge of the mutation and means to repair it or replace it before major 
+loss of rods.  
+2) In the second stage of the degeneration, the loss of rods causes the 
+degeneration of cone outer segments from the periphery towards the 
+center of the retina. Rods are responsible for the production or rod- 
+derived cone viability factor (RdCVF), a trophic factor that is 
+fundamental for cone survival (L˘eveillard et al., 2004 ). The result of 
+cone outer segment loss is a progressive shrinking of the visual field, 
+resulting in “tunnel vision ”. A therapeutic strategy at this stage could 
+consider the supply of RdCVF or other trophic factors, in order to 
+prolong the survival of the cones and preserve their function. Ther-
+apeutic strategies can also combat oxidative stress caused by rod loss 
+or help fight inflammation.  
+3) In the third, stage of RCD, surviving cone cells lose their light 
+responsive outer segment. Indeed the maintenance of the outer 
+segment is metabolically demanding and difficult to maintain in 
+absence of trophic support from rods. At this stage, remaining cones 
+(mostly in the fovea) become sparser and lose their outer segment 
+leading to loss of the remaining tunnel vision.  
+4) In the fourth and final, stage of degeneration, cone cell bodies might 
+completely degenerate, leaving the retina with only inner retinal 
+neurons( Stone, 1992 ). 
+After photoreceptor loss, the inner retina undergoes substantial 
+remodeling and rewiring, abandoning its classical structure in favor of a 
+more disorganized pattern( Marc and Jones, 2003 ). This last stage of 
+degeneration is felt as complete blindness in patients. 
+Despite the remodeling, however, the majority of inner retinal neu-
+rons, together with retinal ganglion cells, remain viable even at late 
+stages of degeneration (Humayun et al., 1999 ). The presence of such 
+cells is fundamental for restorative therapies like optogenetics. 
+In conclusion, outer retinal degeneration is a common phenotype 
+across IRDs, but its onset and its progression depend on a series of factors including the gene that is involved, the inheritance of the mutation, and 
+the personal history of the patient (in other words, each patient is 
+unique). Pairing the patient population with the appropriate gene-based 
+therapies is crucial for successful outcomes in the clinic. The choice of 
+therapy will depend on the disease gene, the disease stage, with a 
+particular emphasis on the state of the photoreceptor cells and their 
+anticipated survival based on the natural history of the disease. The 
+latter two parameters are determined by retinal phenotyping which is 
+performed by imaging studies and functional tests as discussed below. 
+The retina being mostly transparent its observation became possible 
+with the discovery of fundus autofluorescence imaging and more 
+recently optical coherence tomography (OCT) and adaptive optics (AO)- 
+enhanced ophthalmoscopy (AOO) in the 1990s. Today, OCT has become 
+part of the standard of care in ophthalmic hospitals, while AOO is 
+currently reserved for clinical research. Using OCT retinal layers and 
+their corresponding cell types can be identified in patients with good 
+fixation. AOO gives further detail into subpopulations or retinal neurons 
+in the living human eye(Rossi et al., 2011 ). These technologies are 
+helping to establish genotype-phenotype correlations in patient pop-
+ulations across the globe. 
+An adequate quantification of vision is equally crucial, as are the 
+objective evaluations of the therapeutic benefit for patients must be 
+known to advance. Other visual assessments performed in the clinical 
+setting include electrophysiology (electroretinograms), visual evoked 
+potentials (VEP) and psychophysical tests, which are objective measures 
+of vision( McGregor et al., 2019 ). The visual electrophysiology tests are 
+compiled using International Society for Clinical Electrophysiology and 
+Vision (ISCEV) standards. The tests assess visual functions along the 
+visual pathway from the retina to the primary visual cortex. Other 
+methodologies, look at visual performance as an indirect measure. 
+Functional vision is often described as the ability to independently 
+conduct visual tasks pertaining to daily life. The assessment of vision in 
+blind individuals, low vision and ultra-low vision patients is a major 
+challenge and is essential to set the baseline on which we will construct 
+gene therapies aiming to restore function. In addition to evaluating the 
+standard outcomes reflecting visual function such as visual acuity 
+contrast sensitivity and visual field, which is difficult in these patients, 
+so called performance-based tests can provide additional functional 
+measures looking at visual improvement for tasks of daily life such as 
+orientation, mobility, reading. Such techniques are currently being 
+developed as the early clinical trials for visual restoration made it clear 
+that robust assessments tools for measuring functional vision were 
+needed as patients receiving the early versions of emerging vision res-
+tauration therapies such as implants would improve to the level of legal 
+blindness. Direction, localization and motion-based tests on a computer 
+monitor, as well as real-world assessments situation simulations, stan-
+dardized multi-luminance mobility testing (MLMT) formed the basis of 
+these tests and were complemented by Patient-Reported-Outcomes and 
+of Functional Vision assessment( da Cruz et al., 2016 ; Lombardi et al., 
+2018 ). These new approaches to measure functional vision were also 
+implemented in the clinical trials leading to approval Luxturna for Leber 
+Congenital Amaurosis. Low vision rehabilitation centers dedicated to 
+evaluation and training are also being used in several centers including 
+ours (StreetLab, Homelab) and Kobe Eye Center in Japan. These centers, 
+in addition to investigating behavioral and adaptive mechanisms in 
+response to therapy aim to create a supportive environment for visually 
+impaired patients. 
+4.Delivering each therapy 
+The basic principles of pharmacology also apply to gene therapy: the 
+gene is considered a pro-drug that needs to reach its target tissue at 
+sufficient doses and exert its activity specifically. The particular condi -
+tions governing the safety and feasibility are dictated by the choice of 
+delivery vectors and injection routes. Below we detail the vector systems 
+that have been used so far in pre-clinical and clinical gene therapy C. Botto et al.                                                                                                                                                                                                                                    Progress in Retinal and Eye Research 86 (2022) 100975
+6studies. These vectors broadly fall under two main categories: viral 
+vectors and synthetic vectors each with specific constraints and 
+advantages. 
+As we discuss in detail below for each vector system, an important 
+feature is a vector ’s ability to enter into the target cells in complex tis-
+sues representing many physical and biological barriers to transduction. 
+Our ability to obtain sufficient level transgene expression in a given 
+retinal cell population depends on our ability to solve a complex, 
+species-specific equation involving at least 8 parameters: Injection 
+route, vector choice, dose, promoter, cis-regulatory elements of the 
+transgene cassette, state of the tissue, nature of transgene, immune 
+status of the subject all come into play to determine whether or not we 
+obtain transgene expression. Below we discuss these parameters and our 
+current understanding of vector mediated gene delivery to the retina. 
+4.1. Injection routes 
+The three primary methods of delivery of ocular medications to the 
+eye are topical, local ocular (ie, subconjunctival, intravitreal, retro-
+bulbar, intracameral), and systemic. The most appropriate method of 
+administration depends on the area of the eye to be medicated. For 
+retinal gene therapy in view of clinical application three local routes of 
+delivery are preferred: intravitreal or subretinal. Both subretinal dosing 
+and intravitreal administration of gene therapy vectors in higher species 
+induce mild and transient dose-dependent inflammatory responses. 
+These responses seem to be greater in the vitreal compartment compared 
+to subretinal space which offers better shielding of the vector from the 
+immune system. Indeed, foreign protein and foreign DNA are known 
+inducers of inflammation, which is also true in the immune-privileged 
+ocular environment( Khabou, Cordeau, et al., 2018 ; Xiong et al., 
+2019 ). A suprachoroidal approach has also been suggested more 
+recently( Chung et al., 2021 ). 
+4.2. Vectors 
+4.2.1. Viral vectors 
+Viral vectors have the unique capacity to bring genetic material into 
+the nuclei of non-dividing cells rendering them attractive for gene 
+therapy in the retina. Today most studies of gene delivery and gene 
+therapy in the retina use three types of viral vectors: adenovirus (Ad), 
+lentivirus (Lv) and AAV. The size and biochemical properties of the 
+capsid determine its distribution in the retinal tissue, its tropism towards 
+various cell populations and immunological profile determining the 
+longevity of gene expression in transduced cells. Below, we review these 
+three vectors in view of these properties (capsid structure, size, spread 
+and longevity of transgene expression) and their application today in 
+retinal gene therapy (Fig. 2). 
+4.2.1.1. Adenoviruses. Adenoviruses (Ad) contain a linear, double- 
+stranded DNA genome with up to 37 kB carrying capacity contained 
+in an icosahedral non-enveloped capsid with fiber-like projections with 
+over 50 different human Ad serotypes generating a rapid onset of 
+expression at 48 h post-injection. Vector genomes stay episomal and 
+highly quality vector preps can be routinely manufactured but Ad’s large 
+carrying capacity and immunogenic nature have reduced their appli -
+cation in retinal gene therapy. A recent comprehensive study comparing 
+the retinal transduction profiles of different naturally-occurring or 
+mutant Ad serotypes shows that none of the Ad variants significantly 
+outperforms Ad5 in adult murine PR transduction (Puppo et al., 2014 ). 
+To date, no clinical trials based on Ad were undertaken for gene 
+replacement, although two clinical trials have been performed using 
+Ad5 intraocularly in order to treat age-related macular degeneration (Q. 
+D. and N, 2006 ) and retinoblastoma (Ch˘evez-Barrios et al., 2005 ). To 
+sum up, adenoviruses can be a vector of interest for a gene therapy using 
+a big transgene but they remain a second choice because of uncertainties about the expression level and longevity of the transgene particularly in 
+larger animal models. 
+4.2.1.2. Lentiviruses. Lentiviruses (LV) are enveloped retroviruses con-
+taining a single-stranded RNA genome with 8 kB carrying capacity. They 
+infect both dividing and non-dividing cells with chromosomal integra -
+tion at random sites. Although chromosomal integration is not an 
+advantage in the retina, their relatively large capacity has allowed their 
+use in multicistronic expression systems allowing delivery of multiple 
+therapeutic proteins to the retina (Williams et al., 2006 ; Verrier et al., 
+2011 ; Semple-Rowland and Berry, 2014 ) or for delivery of large trans -
+genes to the RPE. 
+Although their diffusion across the inner and outer limiting mem-
+branes of the neural retina into the tight extracellular matrix is limited 
+by particle size and composition one study suggests that certain types of 
+Lv can allow gene delivery to the photoreceptors in some model animals. 
+The capacity of lentiviruses to infect the human retinal explants ex vivo 
+has been shown in more than one study( Busskamp et al., 2010 ; Sengupta 
+et al., 2016 ). Thus, like Ad, Lv can be a vector of choice in case a large 
+carrying capacity is needed, but to achieve infection of more retinal cell 
+types, validating level of expression in primates by quantitative methods 
+revealing distribution across different cell types is still needed. Never -
+theless, their infectious capacity (on a per particle base) seems greater 
+than AAV vectors, particularly in human retinal explants. The devel -
+opment of the non-primate equine infectious anemia virus (EIAV) has 
+raised hopes for overcoming this limitation forming the basis for the 
+ongoing clinical trials for Stargardt disease (STGD) and USH type IB 
+(USH1B) using this vector( Kachi et al., 2009 ). 
+4.2.1.3. Adeno-associated viruses (AAV). Today, AAV is without a 
+question the vector of choice for retinal gene delivery with the majority 
+of clinical trials using this vector for gene delivery. We will thus present 
+this vector and its retinal transduction properties more extensively in 
+this section. AAV belongs to the family of Parvoviridae. It is a depend -
+ovirus, requiring the presence of a helper virus for replication (Hastie 
+and Samulski, 2015 ) with a particle size of 25 nm. AAV is a 
+non-enveloped virus, carrying single stranded DNA of 4.7 kB. 
+Over the past 50 years, significant strides have been made in making 
+an ideal vector out of AAV. Recombinant AAV used for therapeutic ap-
+plications no longer contains rep or cap genes which makes the repli-
+cation of viral genome extremely unlikely in the infected host cells. AAV 
+has very low immunogenicity compared to other disease-causing viruses 
+like Lv and Ad. Although immunogenicity of AAV is not a straightfor -
+ward concept, because it depends on many factors such as transgene 
+transported by AAV, promoter in front of expressed transgene, serotype 
+of AAV, the dose of AAV or injection route, it has been used successfully 
+for long term gene expression in several animal models and has shown 
+efficacy results for a decade in the clinic( Hastie and Samulski, 2015 ). 
+The capsid of AAV is the most important parameter that determines 
+which retinal cells will be transduced once the vector solution is deliv-
+ered in proximity of the retina. It also plays a role in the immunogenicity 
+of the vector. Depending on the administration route a capsid can reach 
+multiple cell types, usually with a tendency to lead to most expression in 
+cells it first comes into contact with. The specifics of which sub- 
+populations of neurons are targeted also depends on the interaction of 
+the AAV capsid with its primary and secondary cell surface receptors 
+mediating its entry into the cells and trafficking into the nucleus. There 
+are twelve characterized serotypes of AAV (Schmidt et al., 2008 ), each 
+with unique capsid associated properties. AAV2 was the first serotype to 
+be used for gene transfer applications and has been utilized in the ma-
+jority of AAV clinical trials to date. With the discovery of over 100 novel 
+AAV sequences by biomining (Gao et al., 2005 ; Schmidt et al., 2006 ) this 
+number of serotypes expanded and pseudotyped recombinant AAV 
+vectors packaging a transgene cassette flanked by AAV2 ITRs into the 
+capsid of other serotypes are now broadly used. C. Botto et al.                                                                                                                                                                                                                                    Progress in Retinal and Eye Research 86 (2022) 100975
+7AAV capsid is formed of beta barrels and loops with beta barrels 
+forming the inner surface of capsid and surface exposed loops. These 
+loops contain secondary structures as beta ribbons (Fig. 3) with zones 
+forming peaks referred to as threefold proximal peaks. The farthest point 
+of these peaks from the center forms the most exterior part of the capsid 
+initiating contact with the environment and determining its tropism. 
+Neighboring loops interact with one another (Xie et al., 2002 ) forming 9 
+hypervariable regions (Bennett et al., 2020 ) each influencing a different 
+feature of the capsid (see Fig. 3 and Table 2 for a summary). Despite 
+increasing grasp of the capsid structure, engineering the capsid ratio-
+nally to meet the demands of specific gene delivery scenarios remains 
+complex. For example, replacement of amino acids in some positions 
+modify heparan sulfate binding but others abolish it completely( Boye 
+Sanford L., Bennett Antonette, VanVliet Kim, Dinculescu Astra, White 
+Miranda, Peterson James, Agbandje-McKenna Mavis, 2014 ). Moreover, 
+we still don’t know how to use this information on heparin binding to 
+create a variant having just enough heparin binding to get through the 
+inner limiting membrane of the retina. This is why directed evolution has gained interest to generate AAV variants with desirable features 
+(Fig. 4). Directed evolution is a mimic of the natural evolution process in 
+a laboratory setting. It requires creation of artificial variants of AAV, 
+that can be selected for a desired trait( Kotterman and Schaffer, 2014 ). In 
+AAV directed evolution, the capsid gene is evolved by iterative rounds of 
+mutagenesis, and selection (Fig. 4). 
+Retinal tropism and transduction efficiency of different AAV sero-
+types vary greatly depending on route of ocular delivery and species 
+(Jüttner et al., 2019 ). With subretinal delivery, all AAV serotypes suc-
+cessfully transduce the RPE and great majority also transduce the ONL 
+(Fig. 2). Suprachoroidal injections are recently being implemented and 
+according to recent studies in model animals they seem to mirror 
+transduction profile of subretinal delivery for all AAV serotypes with a 
+wider distribution and greater average ONL transduction efficiency 
+(Chung et al., 2021 ). Intravitreal delivery on the other hand results in 
+transduction primarily of the inner retina with naturally occurring se-
+rotypes( Kalesnykas et al., 2017 ). This transduction profile is improved 
+with viral vectors designed by directed evolution which have acquired 
+Fig. 2.Vectors and gene delivery to inner and outer retinal cells. 
+Cellular tropism of various viral and non-viral vectors by intravitreal (left) and subretinal (right) administration into the retina. C. Botto et al.                                                                                                                                                                                                                                    Progress in Retinal and Eye Research 86 (2022) 100975
+8the capacity to lead to pan-retinal gene delivery into all retinal cell types 
+in rodents( Dalkara et al., 2013 ). Pan retinal gene delivery to the retina 
+after intravitreal injections remain a problem in primate species with a 
+thick inner limiting membrane( Byrne et al., 2020 ). 
+In addition to understanding serotype-specific differences, the 
+development of AAV-mediated gene therapy in humans requires 
+knowledge of species-specific differences in retinal tropism and trans -
+duction important to translation of preclinical data in animal models to 
+human clinical trials( Jüttner et al., 2019 ). The results of a growing 
+number of studies highlight important differences in tropism in rodents, 
+pigs, dogs and primates when compared to tests on human retinal ex-
+plants. Because of similarities to the human eye size pigs and non-human 
+primates are often used as preclinical models. Although the eye size is 
+closer to the human eye in these large animal models; species-specific differences between AAV transduction profiles after both subretinal 
+and intravitreal injections have been reported( Barker et al., 2009 ; Yin 
+et al., 2011 ; Khabou, Garita-Hernandez et al., 2018 ; Jüttner et al., 2019 ; 
+Byrne et al., 2020 ). 
+Relative to subretinal or suprachoroidal delivery, intravitreal in-
+jections are routine clinic-based procedures commonly used for drug 
+delivery to treat a variety of retinal diseases, including diabetic reti-
+nopathy, retinal vein occlusions, non-infectious uveitis, and age-related 
+macular degeneration. Thus far, however, there have been fewer num-
+ber of clinical trials evaluating intravitreal delivery of AAV for the 
+treatment of inherited retinal disease( Bennett, 2017 ). Numerous chal-
+lenges to effective retinal transduction via intravitreal delivery of AAV 
+exist, including the large volume of vitreous in the human eye, the 
+presence of a thick ILM and other factors such as antibody neutralization 
+(Kotterman et al., 2014 ). Importantly, substantial variability in retinal 
+transduction observed when testing AAV serotypes in human explant 
+models should be interpreted with caution as an explant does not have 
+RPE attached, vector stocks deposited on the photoreceptor side or RGC 
+side do not confront the same intact barriers as in vivo( Hickey et al., 
+2017 ). The strategic selection of AAV serotype and ocular delivery route 
+for human trials should also consider these factors which cannot be 
+recapitulated as a whole in any given model in vivo or in vitro. 
+4.2.2. Synthetic vectors 
+Synthetic vectors are also often referred as nanoparticles (NPs) 
+because of their sizes are in the nanometric range. These vectors are 
+positively charged polymers, polysaccharides or lipids that interact with 
+nucleic acids to compact them into particles that can be internalized into 
+cells. Synthetic vectors are easier to produce compared to biological 
+agents reducing production costs compared to viruses( Trapani et al., 
+2014 ). Their derivation by changes in molecular structure can be easily 
+implemented and they can carry up to 20 kb of DNA (Fink et al., 2006 ), 
+which makes them suitable for delivery of genes like ABCA4 or USH2A 
+too large to be accommodated in AAV particles. Like AAVs and Ad, they 
+do not provide integration into the genome, alleviating insertional 
+mutagenesis. However, their cellular uptake and ability to transfer the 
+DNA through the nuclear pores, is determined by their size and charge. 
+Most studies of gene delivery to the retina using synthetic vectors to date 
+used subretinal injections and only a few vectors seem to transduce 
+efficiently the neural retina or the RPE without toxicity( Adijanto and 
+Naash, 2015 ). One of them is CK30PEG - a 30-mer cationic polylysine 
+conjugated with 10-kDa polyethylene glycol (PEG), which produces 
+rod-shaped compacted DNA NPs (Farjo et al., 2006 ; Fink et al., 2006 ). 
+These have been reported to deliver DNA to the RPE and photoreceptor 
+cells (Han, Conley, R. Makkia et al., 2012 ). Remarkably, their efficacy 
+has been shown to last for up to 1 year in rodents albeit with lower gene 
+expression levels than those obtained with AAVs. CK30PEG NPs are 
+thought to be internalized by nucleolin, which transfers the compacted 
+Fig. 3.Structure of the AAV capsid heparin binding, immunogenic and variable regions. 
+AAV2 capsid structure with each variable region (VR) involved in antibody binding & neutralization in diffrent tones of purple and pink (left). VR which have roles in 
+heparan sulfate proteoglycan binding are shown in tones of blue and green in the middle panel. On the right-hand panel, VR are colored from red to blue from the 
+most external to more internal ones). Molecular models were generated on Pymol based on information in Govindasamy L. et al., 2006, Journal of virology. 
+Table 2 
+Hypervariable regions of AAV capsid and their functions.  
+Hyper 
+variable 
+region VP1 amino 
+acid position Function 
+I 262–272 Intravenous Immunoglobin (IVIG) (a solution 
+containing concentrated human 
+immunoglobulins primarily IgG) neutralization: 
+Mutation in position 262 decreases IVIG 
+binding. 
+A non-major epitope of A20 (AAV2 Capsid 
+antibody) starts at this position. 
+II 326–331 Transduction of non retinal cells. 
+III 380–389 A20 neutralization: An insertion at position 381 
+decreases binding of A20 antibody. 
+IV 447–479 IVIG neutralization: A mutation at position 471 
+(R471A) decreases neutralization by IVIGs in 
+human blood but does not preclude their 
+binding to capsid. This position has a role in 
+IVIG neutralization different from IVIG binding 
+on capsid. 
+V 487–510 IVIG neutralization: Major epitope of a 
+neutralising IVIG is located in this position 
+(between amino acid 493–502). 
+Substitution of A at position 493 by an R is 
+reported to decrease to heparin binding. This 
+position is not mentioned in other studied 
+papers. The effect of this substitution could be 
+explained by the close position of 493 to 
+heparin binding cluster 585–587 in subunit of 
+AAV capsid (Fig. 3). 
+VI 525–541  
+VII 544–561  
+VIII 574–598  
+IX 704–718  
+Adapted from Govindasamy L. et al., Journal of virology, 2006 & Bennett A., 
+Journal of structural biology, 2020 C. Botto et al.                                                                                                                                                                                                                                    Progress in Retinal and Eye Research 86 (2022) 100975
+9
+Fig. 4.Schematic representation of directed evolution of AAV. 
+Diversification of AAV capsid gene and creation of a library of mutant variants to be used for selection. The selection process is represented as a filter. C. Botto et al.                                                                                                                                                                                                                                    Progress in Retinal and Eye Research 86 (2022) 100975
+10DNA directly into the nucleus. The small minor diameter (8–11 nm) of 
+these particles seem largely responsible for their ability to get into the 
+nuclei of retinal cells. As such, they were reported to lead to functional 
+improvements in mouse models carrying mutations in 
+photoreceptor-specific genes like the Abca4 / model of Stargardt 
+disease( Han, Conley, R. S. Makkia et al., 2012 ). Chitosan (a poly-
+saccharide) NPs were shown to transduce photoreceptors and RPE after 
+a subretinal injection and some retinal ganglion cells (RGCs) after 
+intravitreal injection( Puras et al., 2013 ; Mitra et al., 2014 ). Solid lipid 
+nanoparticles (SLNs) are considered to be among the most effective 
+lipid-based vectors. They consist of a solid lipid matrix surrounded by a 
+layer of surfactants in an aqueous dispersion( Battaglia et al., 2016 ). 
+Hyaluronic acid modified SLN transporting plasmids expressing GFP and 
+RS1 were shown to transduce the RPE, the photoreceptors, and some 
+RGCs and when carrying the human RS1 gene were able to improve the 
+phenotype of a mouse model of XLRS (Apaolaza et al., 2016 ). Never -
+theless, the efficiency of these NPs seems lower than those obtained with 
+viral vectors, particularly AAV. Another limitation of NPs is their 
+formulation which can be difficult as some compounds are highly 
+viscous preventing their wide distribution into the retina. 
+Current nanoparticle-based gene delivery in the eye has focused on 
+using DNA as the therapeutic of choice. However, DNA delivery using 
+nanoparticles is inherently inefficient due to the nuclear entry require -
+ment in post-mitotic retinal cells. There is an emerging need to develop 
+non-viral vectors which can generate therapeutic levels of protein pro-
+duction especially for applications where transient presence of the 
+protein is desirable. The emergence of in vitro transcribed mRNA has 
+expanded our ability to achieve high gene expression from mRNA by 
+preventing immune response activation and stabilizing the mRNA thus 
+expanding its half-life( Kowalski et al., 2019 ). mRNA mediated expres -
+sion is thus an attractive strategy for delivery of endo/exonucleases for 
+gene editing or activation of transcription factors for regenerative ap-
+plications. In vivo, mRNA delivery to mouse photoreceptors has been 
+described after the subretinal injection (Devoldere et al., 2019 ). A sec-
+ond study uses an ionizable lipid to deliver mRNA in the retina and 
+shows high protein expression in the RPE(Patel et al., 2019 ; Ryals et al., 
+2020 ). 
+Although, the discovery of smaller Cas orthologues derived from 
+Staphylococcus aureus (SaCas9)( Ran et al., 2015 ) Campylobacter jejuni 
+(CjCas9) (Y. B. Kim et al., 2017b ) allow its delivery with AAVs, the 
+persistence of the Cas9 protein obtained via AAV mediated constitutive 
+expression raises the possibility of permanent recombination in the 
+genome, endogenous genetic disruption through long-term exposure to 
+the encoded Cas9 protein, and potential immune responses( Charles -
+worth et al., 2019 ). DIrect transfer of Cas9 mRNA or protein with its 
+gRNA (RNP) can offer a transient presence of Cas9 which is degraded 
+within three days(K. Kim et al., 2017a ). Indeed, it has already been 
+shown that intracellular delivery of a Cas9 protein/gRNA complex using 
+cationic lipids can target gene modification with high efficiency and 
+greater specificity than administration of Cas9 DNA (Zuris et al., 2015 ; 
+Gao et al., 2018 ). This approach has been shown to be effective in mouse 
+inner ear cells (Zuris et al., 2015 ), in the retinal pigment epithelium of 
+the retina (Y. B. Kim et al., 2017b ) and recently in a mouse model of 
+genetic deafness leading to phenotypic improvement (Gao et al., 2018 ). 
+Kim et al., are the first to send Cas9 protein in vivo by a subretinal in-
+jection. They show a 22% indels of VEGFA in RPE cells leading to a 
+therapeutic effect 7 days after the injection with an increased CNV area 
+(Y. B. Kim et al., 2017b ). There have not been any studies showing 
+applicability in the neural retina thus far. 
+In addition to delivery of nucleases, mRNA ’s ability to deliver large 
+transgenes could be a modular alternative for base editors or prime 
+editing tools that do not fit into a single AAV. 
+Even if mRNA or protein do not face the same nuclear barrier as DNA 
+delivery, many extracellular and intracellular barriers prevent efficient 
+outcomes. The main challenges of the stability and immunogenicity of 
+the mRNA are being sorted out by the in vitro transcription methods but for protein delivery, the challenge is even bigger as proteins are more 
+variable in charge, size and shape than DNA or RNA. Therefore, different 
+vectors are likely required for each editing system. Some commercial 
+lipids have already been utilized (i.e. 
+Lipofectamine ™ CRISPRMAX ™ Cas9, ThermoFisher) but are for 
+now only for in vitro use. 
+The transport efficacy of synthetic vectors is still weak compared to 
+AAV in vivo and more work is needed to improve the Cas9 mRNA or 
+protein and sgRNA co-delivery to the retina for therapeutic benefit. 
+These future improvements in mRNA and protein delivery systems also 
+need to consider potential toxicity issues. 
+5.Moving towards therapies 
+The primordial question in moving towards successful implementa -
+tion of therapies is matching the patient genotype/phenotype at the time 
+of intervention with an adequate therapeutic approach. For simplifica -
+tion, we will focus on the predominant phenotype encountered in rod- 
+cone dystrophy patients. As mentioned above, in retinitis pigmentosa, 
+mutations mostly in rod transcripts lead to degeneration of these cells 
+(stage I) followed by progressive cone degeneration that spans two 
+distinct stages (stages II and III). In stage II, cones still have an outer and 
+inner segment, whereas these features are lost in the subsequent stage 
+III, leading to so-called “dormant cones ”. In the final stage (stage IV), all 
+photoreceptor cells are lost altogether. Below we discuss different 
+therapies in view of their utility in each stage and in some stationary 
+diseases that fall outside these phenotypic manifestations. 
+5.1. Stage 1 therapies 
+5.1.1. Gene replacement for monogenic recessive diseases 
+After an intense period of gene identification in the 80s and 90s, it 
+became evident that some of the monogenic recessive diseases could 
+benefit from the so-called gene replacement approach (also called gene 
+addition or gene supplementation) where a cDNA copy of the mutant 
+gene is delivered to the affected cell type to compensate the lack of 
+protein production (Fig. 5). With the advances in vector technology (see 
+below) encouraging results started to be obtained in model animals in 
+several retinal dystrophies. Among those, type 2 LCA seemed to be an 
+excellent candidate as the causal gene RPE65 had been identified and 
+was associated with a slowly progressing phenotype where the retina 
+stayed in stages II and III(Schimmer and Breazzano, 2015 ). Photore -
+ceptors persisted over decades leading to a rather large window of op-
+portunity for therapeutic intervention. Mutations in the gene encoding 
+the RPE- specific protein RPE65 account for about 5–10% of LCA cases 
+(Thompson et al., 2000 ; Apte, 2018 ) Encouraging results from both 
+small and large animal showed that AAV-mediated RPE65 expression 
+slowed down or reverse vision loss, and paved the way toward first 
+application in humans( Bennett, 2017 ). Adult patients of various ages 
+received a single subretinal injection of AAV vector carrying the RPE65 
+gene in their worst-seeing eye leading showing both the safety and ef-
+ficacy of this approach( Bainbridge and Ali, 2008 ). The improvements in 
+scores of best-corrected visual acuity, kinetic visual field, nystagmus, 
+pupillary light reflex, microperimetry, dark-adapted perimetry, 
+dark-adapted full-field sensitivity in treated eyes compared to untreated 
+eyes confirmed the benefits and paved the way for administration of 
+AAV-RPE65 to contralateral eyes of some patients where recovery of 
+retinal function was also observed in the second eye. In these early trials 
+there were some effects related to surgery such as lack of improvement 
+in foveal function despite vector having been delivered to the fovea in 
+some of the patients. This could be attributed to surgery which disrupts 
+the intricate connection between RPE and foveal cones which is different 
+than those between RPE and peripheral cones( Fisher et al., 2005 ). Along 
+these lines, subretinal injection into a limited region under the retina 
+was responsible for formation of pseudo-foveas in patients pointing to-
+wards the need to expand the treated zone for better outcomes. Such C. Botto et al.                                                                                                                                                                                                                                    Progress in Retinal and Eye Research 86 (2022) 100975
+11improvements might be in the horizon with the development of better 
+AAV vectors (see below). 
+In addition to this limitation in spread of the treatment, two groups 
+also reported that early visual improvements in RPE65-treated patients 
+with LCA were limited in time in some patients. In a group of patients, 
+visual benefits persisted up to 3 years, but two years later, the areas of 
+improved vision (visual field) were found to have constricted( Bain-
+bridge et al., 2015 ; Jacobson et al., 2015 ). This indicated that in adults, 
+the degeneration of photoreceptors continued despite the initial 
+improvement in function. Continued degeneration in treated retina can 
+be due the insufficient amount of RPE65 provided by the therapy or can 
+be mediated by progressive loss of trophic support (particularly for 
+cones)( Aït-Ali et al., 2015 ). The possibility that the rods had progressed 
+to a pre-apoptotic state by the time the intervention could also be an 
+explanation to the limited duration of therapeutic benefit in these 
+studies. The loss of visual function at later times after treatment is in line 
+with this natural progression of degeneration. 
+Despite improvements needed in our understanding of LCA2 and 
+application of gene therapy towards better outcomes; gene replacement therapy was quickly implemented for other retinal degenerative diseases 
+based on the promising outcomes of these pioneering studies. Gene 
+replacement therapy for choroideremia, and other forms of LCA caused 
+by mutations in various genes (i.e. GUCY2D), X-linked retinoschisis 
+(XLRS), MERTK, achromatopsia (see Table 1 for full listing) came 
+quickly as these therapies build on the successful application of AAV 
+vectors in the subretinal space to encode replacement genes in the outer 
+retina. Leber hereditary optic neuropathy (LHON) - a maternally 
+inherited disease caused by mitochondrial DNA mutations also imple -
+mented use of AAVs for gene replacement via intravitreal AAV delivery 
+with successful outcomes and new findings specific to this disease where 
+the optic nerve implications showed unanticipated results( Dalkara et al., 
+2016 ). 
+Other studies used lentiviral vectors as cDNA copies of mutant genes 
+were too large to be carried by AAV. Clinical trials to treat Stargardt 
+disease (STGD) associated with mutations in the photoreceptor- specific 
+ABCA4 gene and Myo7A associated Usher Syndrome are two examples. 
+Although no serious adverse events related to the vector have been re-
+ported so far efficacy in these diseases might be limited by the tropism of 
+Fig. 5.Stage 1 therapies: from gene replacement, gene silencing, gene editing. 
+Schematic representation of gene replacement using AAV and gene editing with CRISPRCas9 in a photoreceptor cell. C. Botto et al.                                                                                                                                                                                                                                    Progress in Retinal and Eye Research 86 (2022) 100975
+12lentiviral vectors (see below). Preliminary studies towards the devel -
+opment of gene therapy for CEP290-associated LCA (LCA10) were also 
+conducted. LV vector expressing full-length human CEP290 were to be 
+used but due to doubts about photoreceptor transduction using LV other 
+approaches were prioritized such as mutation read through with anti-
+sense oligonucleotides (ASOs) or by CRISPR/Cas9-mediated gene edit-
+ing(DiCarlo et al., 2018). Both of these technologies came into spotlight 
+as a potential solution to the limited length of replacement genes that 
+can be delivered with AAV vectors (see below). 
+5.1.2. Silence and replace for dominant diseases 
+For patients in Stage I, gene replacement is technologically the most 
+straightforward option for reversing the course of recessive retinal dis-
+eases caused by loss-of-function mutations. Unfortunately, this tech-
+nique is not suitable for autosomal dominant (ad) diseases. Indeed, in 
+this type of disease, the gene therapy approach will depend on the type 
+of mutation. Autosomal dominant diseases can be caused by dominant- 
+negative or gain-of-function mutations leading to proteins with antag -
+onistic effect to the wild-type one in case of dominant-negative muta -
+tions. In gain-of-function mutations, the encoded protein has a new 
+function, also leading to toxicity. Therefore, on these types of mutations, 
+a simple healthy gene supplementation is not enough: the mutated gene 
+needs to be silenced to inactivate the detrimental effect (gene silencing). 
+Depending on the disease and on its stage, an additional supplementa -
+tion might be necessary (“silence and replace” (Farrar et al., 2012)). The 
+other gene therapy options for Stage I diseases caused by 
+dominant-negative or gain-of-function mutations is gene correction as 
+discussed further below. 
+5.1.2.1. Gene silencing. Autosomal dominant Retinitis Pigmentosa 
+(adRP) accounts for around 30% of all RP cases and among adRP, ~25% 
+are due to mutations in the rhodopsin RHO gene. We will use rhodopsin 
+mutations to illustrate therapies applicable in principal in all adRP with 
+an identified mutation. No gene therapy applicable in Stage I of adRP 
+has reached the clinic so far due to the more complex nature of 
+substituting a healthy RHO gene while silencing the mutant copy. For 
+this reason, in this section we will review pre-clinical studies on animal 
+models highlighting the challenges in the way of clinical translation. 
+There are more than 100 disease-causing mutations of RHO, 
+dispersed across the gene, leading to adRP by different mechanisms of 
+toxicity (Athanasiou et al., 2018). Gene silencing will be necessary to 
+provide therapy no matter what the mutation and mechanism of mutant 
+rhodopsin toxicity. The degree of silencing necessary to achieve a clin-
+ical benefit will probably depend on the mutation mechanism and on the 
+stage of the disease at which the intervention is made. 
+Among the variety of RHO mutations, two mutations are most 
+prevalent in northern America and Europe. The first one is mutation 
+P23H, which is the most prevalent adRP mutation in the USA (around 
+10% of the adRP in North America) (Giannelli et al., 2018). This mu-
+tation has both dominant-negative and gain-of-function effects, with 
+protein retention in the endoplasmic reticulum and with the activation 
+of unfolded protein response (Lewin et al., 2014). 
+To treat the disease, allele-specific disruption has been developed. 
+The main target of genetic silencing strategies is the messenger RNA 
+(mRNA) transcript, the function of which can be inhibited by antisense 
+RNA-based, ribozyme-based and more recently by small interfering (si) 
+RNA-based and micro (mi)RNA-based, approaches (Fig. 5). 
+The second most prevalent RHO mutation is P347L. It is the most 
+prevalent adRP mutation in Europe (Audo, Manes, Mohand-Saïd, Frie-
+drich, Lancelot, Antonio, Moskova-Doumanova, Poch, Zanlonghi, 
+Christian P. Hamel et al., 2010). It leads to the mistrafficking of the 
+mutated protein, leading to its accumulation in the endoplasmic retic-
+ulum, the plasma membrane and the synapses. The disruption of the 
+synaptic transmission then creates an overload of the degradation ma-
+chinery and a decreased availability of some important functional proteins (Athanasiou et al., 2018). Interestingly, silencing alone has not 
+been tested for this mutation. As mutation P347L leads to a more severe 
+phenotype than P23H mutation(Oh et al., 2003) silencing alone is un-
+likely be sufficient for clinical benefit in patients. 
+In view of the allelic heterogeneity of the RHO mutations, gene 
+silencing approaches, using ribozyme or RNA interference, have been 
+developed to suppress both the wild type and mutant rhodopsin. Such 
+approaches have the advantage of being applicable to multiple muta -
+tions. For example, Jiang and colleagues developed an shRNA that 
+significantly improved photoreceptor survival, delayed disease onset, 
+and ameliorated visual function in an adRP mouse model expressing 
+bovine GCAP1 (Y99C) (Jiang et al., 2011). 
+But RHO is an essential gene for the retinal function and its complete 
+suppression will induce phenotypic degradation, as it is the case in 
+recessive RP caused by RHO mutations. Therefore, mutation- 
+independent suppression of both alleles will probably require supple -
+mentation by the addition of exogenous rhodopsin (see silence and 
+replace) in order to achieve optimal therapeutic benefit. 
+5.1.2.2. Gene replacement after silencing. Silencing alone might not be 
+sufficient to counterbalance the pathological phenotype, in particular in 
+mutation-independent approaches where the wild-type allele is also 
+silenced. Along the same lines, it is anticipated that the delivery and 
+expression of replacement cDNAs might not be sufficient either in this 
+scenario. That being said, in an interesting past study, some benefit in 
+slowing down the loss of rods had been obtained when RHO expression 
+alone was achieved in a mouse model of adRP (Mao et al., 2011). 
+Contrarily, in a more recent attempt of gene replacement alone in a 
+mouse model RHO.P23H, no beneficial effect on retinal structure or 
+function was observed (Orlans et al., 2020). Therefore, more efforts have 
+been focused on coupling the silencing and the replacement. As recent 
+studies also suggest, in RHO replacement it is important to monitor 
+closely protein levels, depending on the model, as a too small quantity of 
+protein will not be sufficient to obtain a significant rescue but an excess 
+of expression might be toxic to the cell. For example, an excess of RHO 
+expression level (151%) in control mice leads to outer retina toxicity 
+(Orlans et al., 2020). 
+As it has been developed for silencing alone, several groups used 
+RNA interference techniques to silence RHO, to which they add a 
+replacement of RHO cDNA. They all did subretinal injection at early 
+stage (from D1 to D14). In 2007, a study used a single AAV to deliver 
+siRNA and shRNA simultaneously targeting the RHO cDNA that leads to 
+an increased ONL thickness (O’Reilly et al., 2007). Another study 
+confirmed these results but with the use of 2 AAVs and with an addi-
+tional increase of the scotopic ERG at 20-weeks post-injection (Mill-
+ington-Ward et al., 2011). The persistence of the preserved ERG 
+response and ONL thickness was studied up to 9 months post-injection in 
+an additional study (Mao et al., 2012) as a follow up to their demon -
+strated therapeutic benefits of RHO gene expression in absence of 
+silencing (Mao et al., 2011). 
+A possible alternative to such RNA-targeting approaches is the 
+modulation of gene expression at the transcriptional level, by using zinc- 
+finger (ZF)- based artificial transcription factors (ZF-ATFs) that can be 
+tailored to a desired DNA target sequence(Stolzenburg et al., 2010). To 
+date, several functional ZF-ATFs have been generated to modulate target 
+gene expression in vitro but silencing a disease gene via vector-mediated 
+somatic-gene transfer has taken more time to implement. In a newly 
+designed two-step repression–replacement strategy mutations leading 
+adRP has been targeted with zinc-fingers, also in combination with a 
+replacement of RHO gene, showing respectively, a preserved ERG 
+response at 60 days post-injection and the integrity of the photoreceptor 
+outer segments (Mussolino et al., 2011; Botta et al., 2016). 
+Recent translation of silence and replace strategy a large animal 
+model of adRP showed that the development of clinical therapies needs 
+to fine-tune the level of reduction of both mutant and WT endogenous C. Botto et al.                                                                                                                                                                                                                                    Progress in Retinal and Eye Research 86 (2022) 100975
+13proteins while providing sufficient resistant replacement (Cideciyan 
+et al., 2018 ) with a particular focus on improving RHO supplementation. 
+Silence and replace strategy is currently being developed commer -
+cially into a treatment candidate gene therapy to suppress expression of 
+the faulty gene and deliver the normal rhodopsin (RHO) gene, thereby 
+providing a therapy that is independent of the specific causative 
+rhodopsin mutation in adRP. 
+The discovery and ease of application of CRISPR (see below) has also 
+lent its use as a mutation-independent gene silencer instead of RNA 
+interference. It has been used in vivo to silence RHO in combination with 
+RHO replacement delivered by two AAVs. This treatment improved the 
+ONL thickness and increased the b-wave response at D90 in P23H mice 
+(Tsai et al., 2018 ). 
+Another interesting approach has been tested based on non-viral 
+delivery of a codon-optimized short form of RHO combined with 
+shRNA for the silencing. This study showed improved ERG responses in 
+the P23H mouse 60 days post-injection (Mitra et al., 2018 ). 
+In summary, many studies are in progress to find a successful therapy 
+for autosomal dominant RP, especially for RHO mutations. The ‘silence 
+and replace ’ strategies seam today to be the most promising: neither 
+silencing nor replacement alone seems to be enough to reliably rescue 
+the clinical phenotype. A mutation independent silencing seems to have 
+better potential clinical applicability as adRP with mutations of RHO is a 
+group of rare diseases and a therapy that could be applied to all the 
+different mutations would be useful to more patients. 
+However today, many challenges still remain in getting hitting the 
+delicate balance between sufficient silencing and replacement. The 
+future might hold better possibilities in the use of CRISPR-derived base 
+or prime editing that allow the correction of the mutation in situ over-
+coming this obstacle (see below). This approach would allow correcting 
+the mutations and thereby both silencing and replacing all at once, 
+obtaining physiologically relevant control of the corrected rhodopsin 
+expression under endogenous promoters. On the other hand, such 
+corrective approach would necessarily be mutation specific, pausing 
+additional hurdles to the already complex development issues that come 
+along with adaptation of new and emerging technologies enabling gene 
+editing. 
+5.1.3. Gene editing 
+By changing precisely and permanently the pathogenic mutation, 
+gene editing overcomes many current challenges of today ’s gene ther-
+apy paradigms and offers the possibility to restore physiological levels of 
+expression from the corrected gene under the control of endogenous 
+promoters and regulatory mechanisms. 
+There are several editing mechanisms that can be applied to muta -
+tions depending on the specific context surrounding them. Engineered 
+nucleases can be used to target a specific sequence and lead to a double- 
+stranded break (DSB) in the DNA. The cleavage generated will be 
+repaired by mechanisms naturally present in mammalian cells: mainly, 
+the non-homologous end joining repair (NHEJ) and the homologous 
+recombination repair (HDR). NHEJ introduces insertions and deletions 
+(INDELS) most frequently leading to a shift in the reading frame and 
+therefore an inactivation of the targeted gene. HDR takes place in the 
+presence of a donor template and leads to a precise correction in actively 
+dividing cells (Fig. 6). Compared to other nucleases that require engi-
+neering of DNA-binding protein domains to recognize a precise 
+sequence, Cas9 protein is an endonuclease that needs a unique sgRNA 
+(single guide RNA) which can be easily modified to recognize a 20 bp 
+sequence in the genome (Jinek et al., 2012 ). Due to this versatility and 
+efficiency, CRISPR Cas9 system emerged as the tool of choice for genetic 
+engineering. However, several problems remain today for its successful 
+therapeutic use in the eye. First, Cas9 protein can tolerate some mis-
+matches in its pairing with DNA leading to so-called off target cuts 
+potentially deleterious to cellular functions unrelated to the targeted 
+mutation. Different methods to predict such off target cuts in silico have 
+been developed but they often do not take into account the dynamic changes in the chromatin of a specific cell type that is being targeted 
+(Zischewski et al., 2017 ). For this reason off target cuts need to be 
+verified experimentally – preferentially by whole genome sequencing. A 
+second hurdle with the use of CRISPR for therapeutic in vivo gene 
+editing is low efficiency of targeting events. Particularly, in post-mitotic 
+tissues CRISPR based gene editing can be challenging. Indeed, lack of 
+HDR machinery in post-mitotic cells is of special concern for therapeutic 
+editing approaches in skeletal and cardiac muscles, as well as in neurons. 
+Low efficacy is also correlated with delivery and the particular CRISPR 
+Cas9 system used. These gene editing proteins are subject to constant 
+improvements to increase their capacity to avoid off-targets, increase 
+their specificity for the on-target cuts and improve overall efficiency 
+(Cong et al., 2013 ; Ran et al., 2015 ; Slaymaker et al., 2016 ). 
+One other concern using this system is immune responses against the 
+Cas9 protein, its guide RNA and vectors that deliver this ribonucleo -
+protein (RNP) into target cells. Mechanisms of innate, cellular and hu-
+moral immune responses triggered need to be circumvented by various 
+strategies depending on the context. Potential host immune responses 
+could be directed against the Cas9 system or the new protein product 
+resulting from the correction (Chew, 2018 ). Charlesworth and co-
+workers are the first to highlight the existence of a pre-existing adaptive 
+immune response in humans against the two most commonly used Cas9 
+proteins derived from Staphylococcus pyogenes (spCas9) and Staphylo -
+coccus aureus (saCas9). Their results show the pre-existence of a humoral 
+response against spCas9 and saCas9 in 12 healthy adults and confirm 
+previous observations indicating immunity in the human population 
+(Simhadri et al., 2018 ). In addition, they reveal the presence of T lym-
+phocytes at a high frequency directed against specific antigens of both 
+proteins, which confirm the existence of an adaptive immune response 
+against the Cas9 protein. These immune responses are expected to have 
+a strong impact on the safety and efficacy of in vivo therapy employing 
+these proteins. It is important to note that in addition to the immuno -
+genicity of the protein Cas9 and its sgRNA, the delivery method will play 
+an important role in vivo in the pathways and intensity of immune re-
+sponses against gene editing therapies. 
+5.1.3.1. Gene editing for autosomal dominant RP.Application of CRISPR 
+Cas9 to dominant diseases has been more complex and is still in pre- 
+clinical stages due to more complex issues surrounding dominant 
+negative mutations. Nevertheless, gene inactivation based on Cas9/ 
+sgRNA DSB was the first approach that was tested in the retina. Based on 
+the formation of indels by the post mitotic predominant repair pathway 
+NHEJ, this strategy requires only the delivery of Cas9 and one or two 
+sgRNA. To successfully apply this strategy to dominant diseases, the 
+mutant allele needs to be specifically targeted. To do so, mutation spe-
+cific sgRNA or Cas9 variants with PAM sequence including the mutation 
+can ensure a specific disruption of the mutant allele. This strategy was 
+applied successfully in vivo in RHO.P23H mice by Broccoli and Liu 
+teams. An sgRNA specific to dominant rhodopsin mutation was com-
+bined with Cas9 VQR variant allowing specific disruption of the mutated 
+gene (Giannelli et al., 2018 ; Li et al., 2018 ). Giannelli et al. deliver 
+Cas9/sgRNA with and engineered vector AAV9-PHP using intravitreal 
+injection. This strategy was also applying recently in RHO.P347S mice 
+leading to partial recovery of photoreceptor function (Patrizi et al., 
+2021 ). In addition to these studies in the retina, allele-specific PAM 
+sequence present only in the mutated gene has been successfully used in 
+the inner ear and in RP mouse models leading to the phenotypic im-
+provements (Gyorgy et al., 2019 ) (Bakondi et al., 2016 ). 
+It is important to note that this need of specificity leads to costly 
+mutation dependent strategy, reducing the number of patients that can 
+benefit from treatment. Moreover, it may lead to haploinsufficiency as it 
+does not compensate for the inactivation of the mutant allele. In auto-
+somal diseases with dominant negative effect, one of the alternatives is 
+to non-specifically disrupt the two alleles using CRISPR Cas9 system. 
+Latella et al. adapted this approach in their proof of concept study C. Botto et al.                                                                                                                                                                                                                                    Progress in Retinal and Eye Research 86 (2022) 100975
+14targeting the P23H mutation in transgenic mice thanks to two sgRNAs 
+flanking the exon 1 of the gene leading to overall decrease of RHO gene 
+expression. With the same strategy, Tsai et al., reported phenotype 
+improvement in P23H and D190N mutations knock-in mouse models 
+(Latella et al., 2016 ; Tsai et al., 2018 ). 
+Proof of concept in an autosomal dominant cone-rod dystrophy 
+(CORD6) has also been reported in mice and primates. A double AAV 
+approach to deliver SpCas9 and sgRNA targeting the GUCY2D gene leads 
+to a decrease of the expression of the two WT and mutated alleles. Thus, 
+CRISPR Cas9 is a promising tool to develop a treatment for autosomal 
+dominant diseases however, the second part consisting in the simulta -
+neous replacement of the endogenous gene by a healthy gene has not 
+been reported yet (McCullough et al., 2019 ). This is due to technical 
+difficulties regarding delivery of an additional replacement cDNA 
+requiring additional gene carriers and constraints. Instead of bringing 
+additional healthy copies, it might be more advantageous to turn to gene 
+correction (see below). 5.1.3.2. Gene editing for autosomal recessive RP.The gene editing stra-
+tegies applied depend on the disease mechanisms surrounding the causal 
+mutations. In terms of ease of application, the delivery of CRISPR Cas9 
+and guide RNA to deliberately introduce cuts is the most straightforward 
+approach compatible with existing vector technologies making it 
+feasible in the retina. Indeed, saCas9 and its guide RNAs can be 
+accommodated in a single AAV vector and be used to create indels or 
+excise sequences containing mutations promoting read-throughs. An 
+early example of the latter approach is the application of CRISPR Cas9 
+mediated gene editing to recessive Leber Congenital Amaurosis type 10 
+(LCA10). Recessive LCA10 disease is caused by an intronic mutation in 
+CEP290 gene generating a novel splice donor site. Recently Maeder et al. 
+reported a double sgRNAs combined with SaCas9 approach to delete this 
+intronic region in pre-clinical studies paving the way to clinical appli -
+cation. The pre-clinical work showed safety and feasibility in non- 
+immunosuppressed macaques after the delivery of the dual guide 
+RNAs along with saCas9 by subretinal injection of and AAV5 vector with 
+Fig. 6.Gene editing with CRISPR Cas9, base and prime editors. 
+Schematic representation of Indel creation using CRISPRCas9 in comparison to gene correction using base and prime editors. Cas9 protein is guided to a specific locus 
+by its sgRNA to introduce double stranded breaks (upper panel). The mechanism of action for the base editors (middle panels) and prime editors (lower panel) do not 
+require double stranded break formation. Base editing uses components from CRISPR systems together with other enzymes to directly install point mutations into 
+cellular DNA or RNA. DNA base editors comprise a catalytically disabled nuclease fused to a nucleobase deaminase enzyme and, in some cases, a DNA glycosylase 
+inhibitor. Prime editing uses a fusion protein, consisting of a catalytically impaired Cas9 endonuclease fused to an engineered reverse transcriptase enzyme, and a 
+prime editing guide RNA (pegRNA), capable of identifying the target site and providing the new genetic information to replace the target DNA nucleotides. C. Botto et al.                                                                                                                                                                                                                                    Progress in Retinal and Eye Research 86 (2022) 100975
+15only mild inflammation. This therapy is the first in vivo gene editing to 
+receive the authorization to enter in clinical application. 
+5.1.3.3. Mutation correction. First strategies based on CRISPR Cas9 
+developed to promote precise mutation correction used the HDR 
+pathway in the presence of exogenous DNA template. However, the HDR 
+repair pathway is limited to the S and G2 phases of the cell cycle and 
+could not achieve a satisfactory percentage of correction in post mitotic 
+retinal cells. Several strategies have been developed to increase the ef-
+ficiency of HDR pathway (Maruyama et al., 2015; Yu et al., 2015). These 
+methods tested in vitro have however limited applicability for in vivo 
+therapy. Repair by NHEJ thus remains predominant in post-mitotic 
+tissues and this needs to be considered in further developments of 
+gene corrective strategies in the retina. 
+Due to the low efficiency of HDR in post mitotic cells, gene correction 
+mediated by has not been applied in vivo in the retina but has found vast 
+applications in patient-derived iPS cells. 
+The first strategy applied in vivo bypasses the HDR pathway by using 
+the predominant NHEJ to perform an accurate repair. This technique 
+called Homology independent targeted integration (HITI) was devel -
+oped by the Belmonte group at the Salk Institute (Suzuki et al., 2016). To 
+promote the insertion of a donor sequence, the Cas9/gRNA complex will 
+target both the genome sequence and also two short sequences inserted 
+on either side of the correction matrix (see Fig. 6). A proof of concept in 
+vivo in a rat model for RP shows the possibility to correct homozygous 
+mutation in the Mertk gene after injection of two HITI-AAVs (Suzuki 
+et al., 2016). However, the repair of DSB also generates indels and re-
+sults in a mosaic editing products in vivo restricting the application field 
+of HITI to correct mutations in retinal disease. 
+Most recent gene editing tools, base editing and prime editing, are 
+promising to overcome these limitations by precisely correcting a mu-
+tation in post-mitotic cells without causing DSB (see Fig. 6). A first study 
+has already shown the possibility to apply a split base editor dual AAV 
+strategy in vivo in the mouse retina (Levy et al., 2020). A second study 
+recently applies ABE system to correct a de novo nonsense mutation in 
+the Rpe65 gene of adult mice. After sub retinal injection of lentivirus 
+expressing ABE protein and its sgRNA, 29% gene correction in the RPE 
+with the restoration of the Rpe65 expression and minimal formation of 
+indels or off target mutations is reported in this recent study (Suh et al., 
+2021). 
+New editing systems have been finding their applications in the 
+retina and each reveal different constraints and advantages. Base editing 
+allows a precise correction of point mutations or SNPs at a targeted 
+location in the genomic DNA. They are composed of a Cas9 protein and a 
+deaminase which will respectively allow to precisely target a sequence 
+in the genome and convert one nucleotide to another without any cut-
+ting activity. Two classes of base editors exist to date: cytidine base 
+editors (CBE) (Komor et al., 2016) which convert C.G. nucleotides into 
+A.T. and adenine base editors (ABE) which convert A.T. nucleotides into 
+C.G. (Gaudelli et al., 2017). These two editors allow the correction of 
+61% of pathogenic point mutations and are being continually improved 
+(Thuronyi et al., 2019). 
+Anzalone et al. recently reported a new tool derived from CRISPR 
+system called prime editing and composed of a Cas9n (Cas9 H840A 
+nickase) merged with a reverse transcriptase. This complex is guided by 
+an RNA called pegRNA for prime editing guide RNA which recognizes 
+the targeted DNA site and contains the correct sequence. This recent tool 
+allows correction of point mutations without causing double-stranded 
+cuts and can also correct short deletions or insertions. The correction 
+capacity of this system is sufficient to cover more than 89% of known 
+pathogenic mutations. Compared to recombination correction, the more 
+efficient prime edition generates very small unwanted editions at the cut 
+site and appears to generate fewer unwanted off-target cuts (Anzalone 
+et al., 2019). Validations on cell lines and primary cultures of neurons, 
+applications in vivo are underway. 5.1.3.4. Gene independent strategies by CRISPR Cas9. CRISPR-Cas9 can 
+also enable a large spectrum of targeted in situ gene regulation func-
+tionalities, by transcriptional repression or activation of genes in vivo. 
+Such in vivo gene-repression-mediated gene therapy for retinitis pig-
+mentosa has been proposed by two groups. Moreno and coworkers 
+engineered targeted repression of Nrl, a master regulator of rod photo -
+receptor determination mediating in situ reprogramming of rod cells 
+into cone-like cells that are resistant to retinitis pigmentosa-specific 
+mutations. Such in vivo epigenome engineering enables a cone sparing 
+intervention that is potentially reversible. This technique was imple -
+mented by using a dual AAV approach to deliver SpCas9 and sgRNA sub- 
+retinally in three mouse models developed (Yu et al., 2017; Moreno 
+et al., 2018). These two studies report the feasibility of a gene inde-
+pendent strategy using CRISPR cas9 tools to develop a universal treat-
+ment for IRDs in early stages of the disease. 
+5.2. Stage 2 and 3 therapies 
+In early phases of stage 2, rod numbers have decreased but central 
+cones are still viable and patients retain central vision, a therapeutic 
+approach should aim at (1) slowing down photoreceptor degeneration, 
+(2) preserving cone function in the fovea. One way to address the first 
+two points is by providing the retina with neuroprotection(Wubben 
+et al., 2019). Neurotrophic factors are small molecules, mostly peptides, 
+that promote cell growth, proliferation, differentiation and survival with 
+either an autocrine or a paracrine effect (Kolomeyer and Zarbin, 2014). 
+Several peptides, such as ciliary-derived trophic factor (CNTF) and 
+fibroblast growth factor (FGF) (Faktorovich et al., 1990; Joly et al., 
+2007) glial-derived neurotrophic factor (GDNF) (Frasson et al., 1999; 
+Dalkara et al., 2011), pigment epithelium-derived factor (PEDF) 
+(Barnstable and Tombran-Tink, 2006) and brain-derived neurotrophic 
+factor (BDNF) (Okoye et al., 2003; McGill et al., 2007) have been proved 
+to be beneficial for the maintenance of ONL thickness and for the overall 
+photoreceptor survival. Although some of these generic trophic factors 
+stimulating cell proliferation and promoting growth in differentiated 
+cells, they can also have adverse effects on specialized photoreceptor cell 
+function. The processes they mediate are energy-intensive, and conse -
+quently upregulate glucose metabolism. GDNF and BDNF have shown 
+positive effects on both survival and function of the outer retina likely by 
+these mechatnisms but others like CNTF lead to decrease in photore -
+ceptor function albeit preserving anatomy. Trophic factors more rele-
+vant to rod cone dystrophy have been identified that help overcome 
+these hurdles. The identification of one mechanism that causes vision 
+loss in rod-cone dystrophies revealed a signaling molecule called 
+Rod-derived cone viability factor (RdCVF) that represents a promising 
+therapy specific for this disease mechanism(Leveillard and Sahel, 2010). 
+RdCVF, maintains the function and the viability of cone photoreceptor 
+cells in the retina by stimulating glycolysis; and mice that lack this factor 
+exhibit a progressive loss of photoreceptor cells(Aït-Ali et al., 2015). The 
+gene encoding RdCVF also encodes, by differential splicing, a second 
+product that has characteristics of a thioredoxin-like enzyme and pro-
+tects both rod and cone photoreceptor cells against oxidative damage via 
+its interacting protein partner, the tau protein(Byrne et al., 2015; Mei 
+et al., 2016). This signaling pathway links environmental insults that 
+occur during neurodegeneration to an endogenous neuroprotective 
+response. Expression of RdCVF has been proven beneficial in several 
+animal models, and an RdCVF-based gene therapy is currently being 
+developed for clinical application. 
+Focusing on targeting the biological pathways that cause the cones’ 
+death is now recognized to be an attractive strategy for promoting cone 
+survival and it has been pursued by other groups(Ramachandran et al., 
+2015). Today it is accepted that several mechanisms contribute to cone 
+death like hyperoxia and lack of energy mentioned above; and a lack of 
+intermediates in the anabolic processes by which large molecules are 
+synthesized from smaller ones and more gene therapy approaches are 
+being developed targeting these pathways. In such a quest, C. Botto et al.                                                                                                                                                                                                                                    Progress in Retinal and Eye Research 86 (2022) 100975
+16hyperactivation of the protein complex mTOR1, which controls cell 
+metabolism has been shown to increase cone survival( Punzo et al., 
+2009 ). This protein complex probably acts by promoting the expression 
+of genes that improve glucose uptake and use, raising levels of anabolic 
+intermediates and of an anabolic cofactor molecule called NADPH. 
+Adequate levels of NADPH are important to cone survival because, as 
+they play roles in anabolic processes, and pathways that detoxify ROS in 
+hyperoxic retinas. Injection of antioxidants or viral-vector delivery of 
+genes that fight oxidation prolong cone survival in mouse models of 
+retinitis pigmentosa, supporting the theory that oxidation is a cause of 
+cone death. 
+Another targeted neuroprotective approach has been developed to 
+increase the endogenous antioxidant defense mechanisms by expression 
+of genes that combat oxidation. The Cepko group has used vectors 
+encoding the transcription factors NRF2 and/or PGC1a, which regulate 
+genes that combat oxidation, stress, or enzymes such as superoxide 
+dismutase 2 (SOD2) and catalase, which directly detoxify radical oxygen 
+species (ROS)( Xiong et al., 2015 ). They tested the effectiveness of this 
+approach in several rodent models of photoreceptor degeneration with 
+positive outcomes. AAV-mediated delivery of NRF2 was more effective 
+than SOD2 and catalase, while expression of PGC1a accelerated photo -
+receptor death. Since the NRF2-mediated neuroprotective effects 
+extended to photoreceptors and retinal ganglion cells, which are 2 very 
+different types of neurons, these results suggest that this targeted 
+approach may be broadly applicable in retinitis pigmentosa and other 
+diseases where cells suffer from oxidative damage. In a parallel line of 
+research, Venkatesh et al. explored the development of nutrient depri -
+vation( Venkatesh et al., 2015 ). Venkatesh et al. constitutively activated 
+components of the mTOR pathway specifically in cone cells in rd1 mice 
+and determined that activation of mTORC1 markedly improved cone 
+survival, function, and morphology. Moreover, mTORC1 activation 
+increased expression of the metabolic genes responsible for glucose 
+uptake, retention, and utilization and promoted NADPH production, 
+which likely reduced ROS and prevented apoptosis. Thus, mTORC1 
+activation acts in several different ways to increase cone survival — by 
+increasing glucose metabolism, reducing oxidative stress, and prevent -
+ing apoptosis. 
+More recent work by Wang et al. demonstrate that AAV-mediated 
+overexpression of TGF- β1 promotes cone survival and function in 3 
+distinct RP models with rod-specific mutations( Wang et al., 2020 ). 
+TGF- β1 induces microglia to metabolically tune from a glycolytic 
+phenotype (M1) to an oxidative phenotype (M2), which associates with 
+neuroprotection and the anti-inflammatory ecosystem. A protective 
+system including the anti-inflammatory system is a new outlook in 
+neuroprotection in RP. Consolidating the results of this study with cur-
+rent understanding of how TGF- β1 regulates microglia polarization, this 
+work once more highlights cell-specific metabolome reprogramming 
+and adds to a growing panoply of promising non-gene-specific thera -
+peutic interventions in development for inherited retinal degenerations. 
+As the degeneration progresses, however, cone outer segments are 
+lost in the central retina as well, and optogenetic approaches aimed at 
+restoring light sensitivity in dormant cones can be envisioned (Fig. 7). 
+Since in healthy retinas photoreceptors hyperpolarize in response to a 
+light stimulus, the idea is to provide remaining cones with microbial 
+opsins capable of hyperpolarizing the membrane without the need for 
+the intricate phototransduction cascade occurring in the outer segment. 
+This approach was first successfully developed by Busskamp et al. 
+through the expression of an enhanced version of halorhodopsin 
+(eNpHR) from Natronomonas pharaonis in a mouse model of retinal 
+degeneration( Busskamp et al., 2010 ). The presence of the chloride pump 
+allowed dormant cones to regain their function, resulting in the detec -
+tion of light-evoked currents at the level of RGCs, in the restoration of 
+ON and OFF responses, and in visual-guided behaviors in treated mice. 
+Notably, treated human retinal explants expressed eNpHR and respon -
+ded to light stimuli( Busskamp et al., 2010 ; Fradot et al., 2011 ). 
+Further research led to the engineering of a more efficient hyperpolarizing microbial opsin, named Jaws, with a peak absorption at 
+600 nm (Chuong et al., 2014 ). When injected in a blind mouse model for 
+retinal degeneration, Jaws was expressed in dormant cones and 
+correctly restored ON and OFF responses at ganglion cell’s level upon 
+light stimulation. Higher spiking rates and higher sensitivity was 
+observed in RGCs of Jaws-injected retinas compared to RGCs of 
+eNpHR-injected retinas. Notably, when coupled to a cone-specific pro-
+moter and injected in macaque retina, Jaws showed robust response to 
+light stimuli with orange light showing clinical feasibility for this 
+approach (Khabou, Cordeau, et al., 2018 ). 
+5.3. Stage 4 therapies 
+In the last stage of retinal degeneration, almost the entirety of pho-
+toreceptors might be lost, in which case the RPE invades the subretinal 
+space and the inner retina undergoes remodeling and rewiring (Marc 
+and Jones, 2003 ). In this scenario, a different group of therapies aiming 
+to compensate photoreceptor function are used. Optogenetics is once 
+again implemented here but this time to generate currents in normally 
+light-insensitive second and third order neurons. 
+Among the microbial opsins (also called mOpsins, or Type 1 opsins), 
+channelrhodopsin played a central role in the development of the first 
+strategies for vision restoration. In a first pioneering study, mouse 
+models for retinal degeneration were injected with an AAV vector cod-
+ing for ChR2 (Bi et al., 2006 ). Protein expression was observed in the 
+inner retina eliciting light-driven currents. Visual-evoked potentials 
+(VEPs) could be recorded in the cortex of treated mice, proving the 
+validity of this innovative approach in restoring visual information flow 
+to the brain. RGCs have been successfully targeted with ChR2, both in 
+rat and in mouse models (Bi et al., 2006 ; Tomita et al., 2014 ). Following 
+small animal studies focused on increasing the information processing of 
+the inner retina targeting specific subsets of inner retinal neurons such as 
+ON bipolar cells (Doroudchi et al., 2011 ; Cronin et al., 2014 ; Mac˘e et al., 
+2015 ). However, the light intensity required to activate ChR2 is close the 
+regulatory limits for the human retina imposed by the international 
+commission on non-ionizing radiation protection (ICNIRP, 2013). To 
+increase the safety of this approach, researchers turned to more sensitive 
+and red-shifted opsins. A red-shifted channelrhodopsin, VChR1, with a 
+peak response of ~530 nm from Volvox carteri (Zhang et al., 2008 ), was 
+first used (Tsunoda et al., 2008; Zhang et al., 2011 ). ReaChR, an 
+improved version of VChR1 with a peak response of ~590 –630 nm (Lin 
+et al., 2013 ) was able to restore light responses in blind mice and, 
+notably, to induce spike responses in RGCs macaque and human samples 
+(Sengupta et al., 2016 ). Light intensity used to activate ReaChR was well 
+below the limits set for the human retina, possibly eliminating the need 
+of goggles and making it a good candidate for human application. 
+Another red-shifted microbial opsin, ChrimsonR, showed great promise 
+as it restored RGC activity in living primates (Gauvain et al., 2021 ). 
+Following the success of these studies, Channelrhodopsin-based gene 
+therapy approach for vision restoration are currently being tested in 
+several clinical trials (NCT02556736, NCT03326336, NCT04278131). 
+Despite their success and recent year ’s improvements, channelrho -
+dopsins are still unable to match light sensitivity and adaptation pro-
+vided by our vision based on vertebrate opsins ’ (also known as vOpsins, 
+or Type 2 opsins). vOpsins are seven-transmembrane-domain proteins 
+belonging to the G-protein coupled receptors family (GPCRs), and are 
+normally used in vertebrates for vision and light-related tasks (Fig. 7) 
+(Simon et al., 2020 ). In the human eye, rod opsin (rhodopsin) and cone 
+opsins are coupled to a chromophore, the 11-cis-retinal. When hit by a 
+photon, the chromophore is converted into all-trans-retinal causing a 
+conformational change in the opsin, triggering a phototransduction 
+cascade, ultimately leading to cellular hyperpolarization. The rationale 
+behind the choice of vOpsins as optogenetic tools for vision restoration is 
+that downstream effectors of the phototransduction cascade are com-
+mon to inner retinal neurons, since they also rely on GPCRs, although for 
+different tasks. The activation of the opsin upon light stimulation would C. Botto et al.                                                                                                                                                                                                                                    Progress in Retinal and Eye Research 86 (2022) 100975
+17therefore trigger a similar cascade to the one existing in photoreceptors, 
+but this time culminating with the opening of a cation channel which 
+would depolarize the cell and transmit the signal to downstream neu-
+rons. Among the different vOpsins, melanopsin was the first one to be 
+used for vision restoration. Melanopsin is already expressed in a 
+sub-population of intrinsically light-sensitive RGCs that are responsible 
+for controlling and tuning the circadian rhythm (Xue et al., 2011 ). In a 
+first study, melanopsin was expressed ectopically in RGCs (Lin et al., 
+2008 ). Treated blind mice showed improved pupillary reflex and 
+restored their capability of discriminating light from dark. The light 
+intensity required to elicit these responses was considerably lower than 
+the one needed to activate ChR2. Despite the improvements, however, 
+melanopsin ’s kinetics proved to be too slow for movie-rate vision. 
+Other studies attempted to rescue vision using chimeric light- 
+activated GPCRs in blind mice. In early work by the Kleinlogel group, 
+a chimera between mouse melanopsin and the mGluR6 receptor (Opto- 
+mGluR6) was created and expressed in ON-bipolar cells of blind mice (van Wyk et al., 2015 ). mGluR6 is a Gi/o coupled receptor and specif -
+ically expressed in the retinal ON-bipolar cells in the retina. It mediates 
+light responses via closing of TRPM1 cation channels. AAV mediated 
+expression of Opto-mGluR6 was restricted to ON-bipolar cells using a 
+specific promoter. This expression converts the ON-bipolar cell into an 
+OFF-cell, since glutamate release in the dark activates mGluR6. This 
+effect could be observed in the electroretinogram where the b- wave of 
+the ERG was inverted in comparison to control mice. Opto-mGluR6 
+mediated light responses were recorded in ON-bipolar cells, RGCs and 
+visual cortex in this work. Another vOpsin, rhodopsin, has been suc-
+cessfully expressed in ON bipolar cells of a mouse model for retinal 
+degeneration, taking advantage of the cell-specific promoter 4xgrm6 
+(Gaub et al., 2015 ). As for melanopsin, rhodopsin proved to be more 
+sensitive than ChR2, and restored visually-evoked potentials in the 
+cortex along with basic visually-guided behaviors. However, the tem-
+poral resolution was low, probably due to a suboptimal working envi-
+ronment for the opsin. In order to obtain better temporal resolution, 
+Fig. 7.Optogenetics to restore light sensitivity. 
+Upper panel depicts the putative mechanism of action of G protein coupled vertebrate opsins modulating activity of non-photoreceptor neurons. Lower panel 
+represents a one component depolarizing microbial opsin that leads to cation flow without any intracellular signaling cascade. C. Botto et al.                                                                                                                                                                                                                                    Progress in Retinal and Eye Research 86 (2022) 100975
+18cone opsins were implemented by the same group for vision restoration 
+approaches in the inner retina(Berry et al., 2019). In a recent study, 
+mouse medium-wavelength sensitive opsin (mMWO) was expressed in 
+RGCs of blind rd1 mice (Berry et al., 2019). mMWO responses were one 
+log faster as compared to rhodopsin when expressed in RGCs of degen -
+erated retinas. 
+To summarize, substantial efforts were made internationally in the 
+development of gene therapy approaches for vision restoration at late 
+stages of retinal degeneration. mOpsins, and vOpsins, have been 
+implemented in preclinical models and are now transitioning towards 
+clinical applications and industrial development. mOpsins can be 
+controlled with millisecond-scale precision but suffer from low light 
+sensitivity, requiring light-intensifying goggles to be functional. On the 
+other hand, vOpsins are considerably more sensitive, thanks to the 
+signal amplification provided by the GPCR mechanism, but have lower 
+temporal resolution compared to mOpsins. We also know less about 
+their intracellular targets and how their behavior changes from one cell 
+type to another. Current and future clinical trials will inform us on the 
+most suitable option for vision restoration in patients whose outer 
+retinal layers have been lost to degeneration. 
+6.Future directions and conclusions 
+Monogenic inherited retinal degenerations are caused by mutations 
+in genes associated with biochemical or physiological pathways neces -
+sary for normal function of retinal cells. Gene replacement (addition or 
+supplementation) therapy involves transporting a healthy copy of the 
+defective gene under the control of a promoter active in the affected cells 
+of the retina(Sahel et al., 2019). The gene is carried by a vector and 
+administered in proximity of retinal cells by an intravitreal or subretinal 
+injection. The most efficient and safe gene delivery vectors are AAVs, 
+they offer a 4.7-kilobase carrying capacity. First successful imple -
+mentation of AAV mediated gene augmentation therapy is the case of 
+Luxturna for the treatment of retinitis pigmentosa or Leber congenital 
+amaurosis associated with RPE65 and a dozen other clinical trials are 
+underway to tackle other monogenic recessive diseases of the retina 
+using this strategy. However, there are many other larger IRD genes that 
+exceed the carriage capacity of AAV and mutations causing retinal 
+degeneration by a dominant negative effect. Methods to safely and 
+specifically edit the endogenous DNA or RNA are likely to be crucial in 
+tackling these remaining mutations in the years to come. Clinical trials 
+thus far have not targeted autosomal-dominant mutations causing 
+retinal degeneration due to the complexity of silence and replace stra-
+tegies but will likely become plausible with gene editing using Crispr 
+Cas9. The implementation of this versatile gene editing system has been 
+quick with a clinical trial underway for the treatment of type 10 Leber 
+congenital amaurosis caused by recessive mutations in the CEP290 gene 
+(Sahel and Dalkara, 2019). Both gene replacement and gene editing 
+offer incredibly promising outcomes for patients treated early on in 
+disease onset, prior to degeneration of the photoreceptors. Unfortu -
+nately, most patients who are followed in rare disease centers today are 
+past this point where gene editing or gene addition can provide thera -
+peutic benefit. The great majority of inherited retinal degenerations are 
+highly progressive making it necessary to foresee a treatment based on 
+the patient’s phenotype at the point at which an intervention can be 
+made(Sahel et al., 2013). For this reason, and for our incomplete 
+knowledge of the multitude of mutations leading to rod-cone dystrophy, 
+the most prevalent IRD, alternative gene therapies need to be developed 
+that can treat patients independently of the causal mutations. These 
+include gene therapies leading to the secretion of neuroprotective agents 
+or proteins acting on metabolic, inflammatory and nutritional pathways 
+and those that can activate remaining neurons in the visual pathway 
+such as optogenetics. The major challenges in the implementation of 
+these late stage therapies will be to measure and understand the effects 
+of such therapies requiring brain plasticity and to demonstrate the 
+positive impact of vision preservation or restoration in treated patients. The quantification of a therapeutic can pose challenges in these diseases 
+where vision is very low at baseline as traditional tests in ophthalmology 
+are centered on the ability to read lines of letters on an eye chart. This 
+standard reflects the function of the foveal cone cells that and do not 
+account for aspects of vision carried out by the majority of the retina 
+residing outside the fovea. Future developments in our methods of 
+evaluation of low vision along with development of more sophisticated 
+instruments for objective measures is going to be key to the achievement 
+of such therapies. 
+Finally, there are large phenotypic variations in rod-cone dystrophy 
+that needs to be taken into account when considering the most beneficial 
+treatment for a patient. Retinal imaging and deep phenotyping can aid 
+in determining a gene therapy approach with the most promise in terms 
+of visual improvements and longevity. The variety of gene therapies 
+developed require gene delivery to different cell types. As safety data 
+accumulate on new vectors and routes of administration, regulatory 
+bodies may reduce the regulatory burden. This, along with anticipated 
+developments in manufacturing practices of core technologies such as 
+AAVs will likely reduce the cost of clinical trials in the years to come. 
+Recent developments in retinal gene therapy are already very encour -
+aging, and this has attracted significant interest from scientists, clini-
+cians and industry working in the field. This interest and investment will 
+enable the stakeholders to tackle the remaining challenges in this 
+promising avenue over the decade to come. The multitude of knowledge 
+generated from studies on IRDs could help developing of gene thera -
+peutic strategies for more common complex degenerative disorders like 
+AMD. 
+Declaration of competing interest 
+D.D. has received grants and personal fees from GenSight Biologics 
+and is co-inventor on patent #9193956 (Adeno-associated virus virions 
+with variant capsid and methods of use thereof), with royalties paid to 
+Avalanche Biotechnologie. and on pending patent applications on 
+noninvasive methods to target cone photoreceptors (EP17306429.6 and 
+EP17306430.4) licensed to Gamut Tx. DD is a founder and acting CSO of 
+Gamut Tx. J.A.S. personal financial interests in Pixium Vision, GenSight 
+Biologics, Sparing Vision, Prophesee, Chronolife, Tilak Healthcare, 
+Vegavect, Newsight, Replay Therapeutics, SharpEye. The other authors 
+declare no competing interests. 
+Acknowledgements 
+We would like to thank funding sources LabEx LIFESENSES (ANR-10- 
+LABX-65), IHU FOReSIGHT (ANR-18-IAHU-01), Foundation Fighting 
+Blindness, ERC StG (REGENETHER, 639888), FRM, AFM. This work was 
+supported by the Paris Ile-de-France Region. We are thankful to Katia 
+Marazova for proofreading and comments. 
+References 
+Adijanto, J., Naash, M.I., 2015. Nanoparticle-based technologies for retinal gene therapy. 
+Eur. J. Pharm. Biopharm. https://doi.org/10.1016/j.ejpb.2014.12.028. 
+Aït-Ali, N., et al., 2015. Rod-derived cone viability factor promotes cone survival by 
+stimulating aerobic glycolysis. Cell 161 (4), 817–832. https://doi.org/10.1016/j. 
+cell.2015.03.023. 
+Anzalone, A.V., et al., 2019. Search-and-replace genome editing without double-strand 
+breaks or donor DNA. Nature (October). https://doi.org/10.1038/s41586-019-1711- 
+4. 
+Apaolaza, P.S., et al., 2016. Structural recovery of the retina in a retinoschisin-deficient 
+mouse after gene replacement therapy by solid lipid nanoparticles. Biomaterials. 
+https://doi.org/10.1016/j.biomaterials.2016.03.004. 
+Aposhian, H.V., 1970. The use of DNA for gene therapy–the need, experimental 
+approach, and implications. Perspect. Biol. Med. https://doi.org/10.1353/ 
+pbm.1970.0011. 
+Apte, R.S., 2018. Gene therapy for retinal degeneration. Cell 173 (1), 5. https://doi.org/ 
+10.1016/j.cell.2018.03.021. Elsevier.  
+Athanasiou, D., et al., 2018. The molecular and cellular basis of rhodopsin retinitis 
+pigmentosa reveals potential strategies for therapy. In: Progress in Retinal and Eye 
+Research. Elsevier Ltd, pp. 1–23. https://doi.org/10.1016/j.preteyeres.2017.10.002. C. Botto et al.                                                                                                                                                                                                                                    Progress in Retinal and Eye Research 86 (2022) 100975
+19Audo, I., Manes, G., Mohand-Saïd, S., Friedrich, A., Lancelot, M.-E., Antonio, A., 
+Moskova-Doumanova, V., Poch, O., Zanlonghi, X., Hamel, Christian P., et al., 2010. 
+Spectrum of rhodopsin mutations in French autosomal dominant rod-cone dystrophy 
+patients. Invest. Ophthalmol. Vis. Sci. 51 (7), 3687 –3700. https://doi.org/10.1167/ 
+iovs.09-4766 . 
+Audo, I., Manes, G., Mohand-Saïd, S., Friedrich, A., Lancelot, M.-E., Antonio, A., 
+Moskova-Doumanova, V., Poch, O., Zanlonghi, X., Hamel, Christian P., et al., 2010a. 
+Spectrum of rhodopsin mutations in French autosomal dominant rod–cone 
+dystrophy patients. Invest. Opthalmol. Vis. Sci. 51 (7), 3687. https://doi.org/ 
+10.1167/iovs.09-4766 . 
+Bainbridge, J.W., Ali, R.R., 2008. Success in sight: the eyes have it! Ocular gene therapy 
+trials for LCA look promising.  Gene Ther. 15 (17), 1191 –1192. https://doi.org/ 
+10.1038/gt.2008.117 . 
+Bainbridge, J.W.B., et al., 2015. Long-term effect of gene therapy on leber ’s congenital 
+amaurosis. N. Engl. J. Med. https://doi.org/10.1056/NEJMoa1414221 , 
+150504083137004.  
+Bakondi, B., et al., 2016. In vivo CRISPR/Cas9 gene editing corrects retinal dystrophy in 
+the S334ter-3 rat model of autosomal dominant retinitis pigmentosa. Mol. Ther. Off. 
+J. Am. Soc. Gene Cell Ther. 24 (3), 556–563. https://doi.org/10.1038/mt.2015.220 . 
+Barker, S.E., et al., 2009. Subretinal delivery of adeno-associated virus serotype 2 results 
+inminimal immune responses that allow repeat vector administration in 
+immunocompetent mice. J. Gene Med. 11, 486–497. https://doi.org/10.1002/jgm . 
+Barnstable, C.J., Tombran-Tink, J., 2006. Molecular mechanisms of neuroprotection in 
+the eye. Adv. Exp. Med. Biol. 572, 291–295. https://doi.org/10.1007/0-387-32442- 
+9_40. 
+Battaglia, L., et al., 2016. Expert Opinion on Drug Delivery Application of lipid 
+nanoparticles to ocular drug delivery Application of lipid nanoparticles to ocular 
+drug delivery. Expet Opin. Drug Deliv. https://doi.org/10.1080/ 
+17425247.2016.1201059 . 
+Bennett, A., et al., 2020. Structure comparison of the chimeric AAV2.7m8 vector with 
+parental AAV2. J. Struct. Biol. https://doi.org/10.1016/j.jsb.2019.107433 . 
+Bennett, J., 2017. Taking stock of retinal gene therapy: looking back and moving 
+forward. Mol. Ther. 25 (5), 1076 –1094. https://doi.org/10.1016/j. 
+ymthe.2017.03.008 . Elsevier Ltd.  
+Berry, M.H., et al., 2019. Restoration of high-sensitivity and adapting vision with a cone 
+opsin. Nat. Commun. 10 (1), 1221. https://doi.org/10.1038/s41467-019-09124-x . 
+Springer US.  
+Bi, A., et al., 2006. Ectopic expression of a microbial-type rhodopsin restores visual 
+responses in mice with photoreceptor degeneration. Neuron 50 (1), 23–33. https:// 
+doi.org/10.1016/j.neuron.2006.02.026 . 
+Botta, S., et al., 2016. Rhodopsin targeted transcriptional silencing by DNA-binding. eLife 
+5 (MARCH2016), 1–14. https://doi.org/10.7554/eLife.12242 . 
+Boye Sanford, L., Bennett, Antonette, Kim, VanVliet, Astra, Dinculescu, White, Miranda, 
+Peterson, James, Agbandje-McKenna Mavis, B.S.E., 2014. The role of heparan sulfate 
+affinity in the transduction of photoreceptors by intravitreally –injected AAV2-based 
+capsid mutants. In: American Society of Gene and Cell Therapy Gene and Cell 
+Therapy. Available at: http://www.abstracts2view.com/asgct/view.php?nu ASGC 
+T14L1_243 . (Accessed 20 June 2014). 
+Busskamp, V., et al., 2010. Genetic reactivation of cone photoreceptors restores visual 
+responses in retinitis pigmentosa. Science 329 (5990), 413–417. https://doi.org/ 
+10.1126/science.1190897 . 
+Byrne, L.C., et al., 2015. Viral-mediated RdCVF and RdCVFL expression protects cone 
+and rod photoreceptors in retinal degeneration. J. Clin. Invest. 125 (1), 105–116. 
+https://doi.org/10.1172/JCI65654 . 
+Byrne, L.C., et al., 2020. In vivo directed evolution of AAV in the primate retina. JCI 
+Insight 5 (10). https://doi.org/10.1172/jci.insight.135112 . 
+Campochiaro, P. a, 2011. Gene transfer for neovascular age-related macular 
+degeneration. Hum. Gene Ther. 22 (5), 523–529. https://doi.org/10.1089/ 
+hum.2011.050 . 
+Charlesworth, C.T., et al., 2019. Identification of preexisting adaptive immunity to Cas9 
+proteins in humans. Nat. Med. 25 (February) https://doi.org/10.1038/s41591-018- 
+0326 . Springer US.  
+Ch˘evez-Barrios, P., et al., 2005. Response of retinoblastoma with vitreous tumor seeding 
+to adenovirus-mediated delivery of thymidine kinase followed by ganciclovir. 
+J. Clin. Oncol. https://doi.org/10.1200/JCO.2004.00.1883 . 
+Chew, W.L., 2018. Immunity to CRISPR Cas9 and Cas12a therapeutics. Wiley 
+Interdiscipl. Rev.: Syst. Biol. Med. 10 (1) https://doi.org/10.1002/wsbm.1408 . 
+Chung, S.H., et al., 2021. Host immune responses after suprachoroidal delivery of AAV8 
+in nonhuman primate eyes. Hum. Gene Ther. https://doi.org/10.1089/ 
+hum.2020.281 . 
+Chuong, A.S., et al., 2014. Noninvasive optical inhibition with a red-shifted microbial 
+rhodopsin. Nat. Neurosci. 17 (8), 1123 –1129. https://doi.org/10.1038/nn.3752 . 
+Nature Publishing Group.  
+Cideciyan, A.V., et al., 2018. Mutation-independent rhodopsin gene therapy by 
+knockdown and replacement with a single AAV vector. Proceedings of the National 
+Academy of Sciences, p. 201805055. https://doi.org/10.1073/pnas.1805055115 . 
+Cong, L., Ran, F.A., Cox, D., Lin, S., Barretto, R., Habib, N., et al., 2013. Multiplex 
+genome engineering using CRISPR/cas systems. Science (New York, N.Y.) ’. Science 
+(New York, N.Y.) 339 (6121), 819–823. https://doi.org/10.1126/science.1231143 . 
+Multiplex.  
+Cottet, S., Schorderet, D., 2009. Mechanisms of apoptosis in retinitis pigmentosa. Curr. 
+Mol. Med. https://doi.org/10.2174/156652409787847155 . 
+Cremers, F.P.M., et al., 2018. Special issue introduction: inherited retinal disease: novel 
+candidate genes, genotype-phenotype correlations, and inheritance models. Genes. 
+https://doi.org/10.3390/genes9040215 . Cronin, T., et al., 2014. Efficient transduction and optogenetic stimulation of retinal 
+bipolar cells by a synthetic adeno-associated virus capsid and promoter. EMBO Mol. 
+Med. 1–16. https://doi.org/10.15252/emmm.201404077 . 
+da Cruz, L., et al., 2016. Five-year safety and performance results from the argus II retinal 
+prosthesis system clinical trial. Ophthalmology. https://doi.org/10.1016/j. 
+ophtha.2016.06.049 . 
+Daiger, S.P., Sullivan, L.S., Bowne, S.J., 2013. Genes and mutations causing retinitis 
+pigmentosa. Clin. Genet. 84 (2), 132–141. https://doi.org/10.1111/cge.12203 . 
+Dalkara, D., et al., 2011. AAV mediated GDNF secretion from retinal glia slows down 
+retinal degeneration in a rat model of retinitis pigmentosa. Mol. Ther. 19 (9) https:// 
+doi.org/10.1038/mt.2011.62 . 
+Dalkara, D., et al., 2013. In vivo-directed evolution of a new adeno-associated virus for 
+therapeutic outer retinal gene delivery from the vitreous. Sci. Transl. Med. 5 (189) 
+https://doi.org/10.1126/scitranslmed.3005708 , 189ra76-189ra76.  
+Dalkara, D., et al., 2016. Let there Be light: gene and cell therapy for blindness. Hum. 
+Gene Ther. 27 (2) https://doi.org/10.1089/hum.2015.147 . 
+Devoldere, J., et al., 2019. Non-viral delivery of chemically modified mRNA to the retina: 
+subretinal versus intravitreal administration. J. Contr. Release 307, 315–330. 
+https://doi.org/10.1016/j.jconrel.2019.06.042 . 
+DiCarlo, J.E., Mahajan, V.B., Tsang, S.H., 2018. Gene therapy and genome surgery in the 
+retina. J. Clin. Invest. 128 (6), 2177 –2188. https://doi.org/10.1172/JCI120429 . 
+Doroudchi, M.M., et al., 2011. Virally delivered channelrhodopsin-2 safely and 
+effectively restores visual function in multiple mouse models of blindness. Mol. Ther. 
+Nat. Publ. Group 19 (7), 1220 –1229. https://doi.org/10.1038/mt.2011.69 . 
+Dunbar, C.E., et al., 2018. Gene therapy comes of age. Science 359 (6372), eaan4672. 
+https://doi.org/10.1126/science.aan4672 . 
+Faktorovich, E.G., et al., 1990. Photoreceptor degeneration in inherited retinal dystrophy 
+delayed by basic fibroblast growth factor. Nature 83–86. https://doi.org/10.1038/ 
+347083a0 . 
+Farjo, R., et al., 2006. Efficient non-viral ocular gene transfer with compacted DNA 
+nanoparticles. PloS One. https://doi.org/10.1371/journal.pone.0000038 . 
+Farrar, G.J., et al., 2012. Gene-based therapies for dominantly inherited retinopathies. 
+Gene Ther. 19 (2), 137–144. https://doi.org/10.1038/gt.2011.172 . 
+Fink, T.L., et al., 2006. Plasmid size up to 20 kbp does not limit effective in vivo lung 
+gene transfer using compacted DNA nanoparticles. Gene Ther. 13 (13), 1048 –1051. 
+https://doi.org/10.1038/sj.gt.3302761 . 
+Fischer, A., Hacein-Bey-Abina, S., Cavazzana-Calvo, M., 2010. 20 years of gene therapy 
+for SCID. Nat. Immunol. 11 (6), 457–460. https://doi.org/10.1038/ni0610-457 . 
+Nature Publishing Group,.  
+Fisher, S.K., et al., 2005. Cellular remodeling in mammalian retina: results from studies 
+of experimental retinal detachment. Prog. Retin. Eye Res. 24 (3), 395–431. https:// 
+doi.org/10.1016/j.preteyeres.2004.10.004 . 
+Fradot, M., et al., 2011. Gene therapy in ophthalmology: validation on cultured retinal 
+cells and explants from postmortem human eyes. Hum. Gene Ther. 22 (5), 587–593. 
+https://doi.org/10.1089/hum.2010.157 . 
+Frasson, M., et al., 1999. Retinitis pigmentosa: rod photoreceptor rescue by a calcium- 
+channel blocker in the rd mouse. Nat. Med. 5, 1183 –1187. https://doi.org/10.1038/ 
+13508 . 
+Fritsche, L.G., et al., 2013. Seven new loci associated with age-related macular 
+degeneration. Nat. Genet. 45 (4), 433–439. https://doi.org/10.1038/ng.2578 . 
+Gagliardi, G., Ben M’Barek, K., Goureau, O., 2019. Photoreceptor cell replacement in 
+macular degeneration and retinitis pigmentosa: a pluripotent stem cell-based 
+approach. In: Progress in Retinal and Eye Research, vol. 71. Elsevier, pp. 1–25. 
+https://doi.org/10.1016/j.preteyeres.2019.03.001 . November 2018.  
+Galvin, J.A., et al., 2005. EVALUATION OF GENOTYPE – PHENOTYPE ASSOCIATIONS 
+IN LEBER CONGENITAL AMAUROSIS. Retina (Philadelphia, Pa.).  
+Gao, G., Vandenberghe, L., Wilson, J., 2005. New recombinant serotypes of AAV vectors. 
+Curr. Gene Ther. https://doi.org/10.2174/1566523054065057 . 
+Gao, X., et al., 2018. Treatment of autosomal dominant hearing loss by in vivo delivery of 
+genome editing agents. Nature 553 (7687), 217–221. https://doi.org/10.1038/ 
+nature25164 . Nature Publishing Group.  
+Gaub, B.M., et al., 2015. Optogenetic vision restoration using rhodopsin for enhanced 
+sensitivity. Mol. Ther.: J. Am. Soc. Gene Ther. 23 (10), 1562 –1571. https://doi.org/ 
+10.1038/mt.2015.121 . IOP Publishing.  
+Gaudelli, N.M., et al., 2017. Programmable base editing of T to G C in genomic DNA 
+without DNA cleavage. Nature. https://doi.org/10.1038/nature24644 . 
+Gauvain, G., et al., 2021. Optogenetic therapy: high spatiotemporal resolution and 
+pattern discrimination compatible with vision restoration in non-human primates. 
+Commun. Biol. https://doi.org/10.1038/s42003-020-01594-w . 
+Giannelli, S.G., et al., 2018. Cas9/sgRNA selective targeting of the P23H Rhodopsin 
+mutant allele for treating retinitis pigmentosa by intravitreal AAV9.PHP.B-based 
+delivery. Hum. Mol. Genet. 27 (5), 761–779. https://doi.org/10.1093/hmg/ddx438 . 
+Oxford University Press.  
+Gyorgy, B., et al., 2019. Allele-specific gene editing prevents deafness in a model of 
+dominant progressive hearing loss. Nat. Med. https://doi.org/10.1038/s41591-019- 
+0500-9 . 
+Han, Z., Conley, S.M., Makkia, R., et al., 2012a. Comparative analysis of DNA 
+nanoparticles and AAVs for ocular gene delivery. PloS One. https://doi.org/ 
+10.1371/journal.pone.0052189 . 
+Han, Z., Conley, S.M., Makkia, R.S., et al., 2012b. DNA nanoparticle-mediated ABCA4 
+delivery rescues Stargardt dystrophy in mice. J. Clin. Invest. https://doi.org/ 
+10.1172/JCI64833 . 
+Hastie, E., Samulski, R.J., 2015. AAV at 50: a golden anniversary of discovery, research, 
+and gene therapy success, a personal perspective. Hum. Gene Ther. https://doi.org/ 
+10.1089/hum.2015.025 , 150326045720006.  C. Botto et al.                                                                                                                                                                                                                                    Progress in Retinal and Eye Research 86 (2022) 100975
+20Hickey, D.G., et al., 2017. Tropism of engineered and evolved recombinant AAV 
+serotypes in the rd1 mouse and ex vivo primate retina. Gene Ther. 24 (12), 787–800. 
+https://doi.org/10.1038/gt.2017.85 . 
+den Hollander, A.I., et al., 2008. Leber congenital amaurosis: genes, proteins and disease 
+mechanisms. Prog. Retin. Eye Res. 391–419. https://doi.org/10.1016/j. 
+preteyeres.2008.05.003 . 
+Humayun, M.S., et al., 1999. Morphometric analysis of the extramacular retina from 
+postmortem eyes with retinitis pigmentosa. Invest. Ophthalmol. Vis. Sci. 40 (1), 
+143–148. 
+Jacobson, S.G., et al., 2015. Improvement and decline in vision with gene therapy in 
+childhood blindness. N. Engl. J. Med. https://doi.org/10.1056/NEJMoa1412965 , 
+150503141523009.  
+Jiang, L., et al., 2011. ‘Long-term RNA interference gene therapy in a dominant retinitis 
+pigmentosa mouse model ’, Proceedings of the National Academy of Sciences of the 
+United States of America . Proc. Natl. Acad. Sci. U. S. A. 108 (45), 18476 –18481. 
+https://doi.org/10.1073/pnas.1112758108 . 
+Jinek, M., et al., 2012. A programmable dual-RNA-guided DNA endonuclease in adaptive 
+bacterial immunity. Science (New York, N.Y.) 337 (6096), 816–821. https://doi.org/ 
+10.1126/science.1225829 . 
+Joly, S., et al., 2007. Neuroprotection in the juvenile rat model of light-induced 
+retinopathy: evidence suggesting a role for FGF-2 and CNTF. Invest. Ophthalmol. 
+Vis. Sci. 48 (5), 2311 –2320. https://doi.org/10.1167/iovs.06-1205 . 
+Jüttner, J., et al., 2019. Targeting neuronal and glial cell types with synthetic promoter 
+AAVs in mice, non-human primates and humans. Nat. Neurosci. https://doi.org/ 
+10.1038/s41593-019-0431-2 . 
+Kachi, S., et al., 2009. Equine infectious anemia viral vector-mediated codelivery of 
+endostatin and angiostatin driven by retinal pigmented epithelium-specific VMD2 
+promoter inhibits choroidal neovascularization. Hum. Gene Ther. 20, 31–39. 
+https://doi.org/10.1089/hgt.2008.046 . 
+Kalesnykas, G., et al., 2017. Comparative study of adeno-associated virus, adenovirus, 
+baculovirus and lentivirus vectors for gene therapy of the eyes. Curr. Gene Ther. 17, 
+235–247. https://doi.org/10.2174/1566523217666171003170348 . 
+Khabou, H., Cordeau, C., et al., 2018. Dosage thresholds and influence of transgene 
+cassette in AAV-related toxicity. Hum. Gene Ther. 144. https://doi.org/10.1089/ 
+hum.2018.144 hum.2018.  
+Khabou, H., Garita-Hernandez, M., et al., 2018. ‘Noninvasive gene delivery to foveal 
+cones for vision restoration ’, JCI Insight . Am. Soc. Clin. Inves. 3 (2), 1–18. https:// 
+doi.org/10.1172/jci.insight.96029 . 
+Kim, K., et al., 2017a. Genome surgery using Cas9 ribonucleoproteins for the treatment 
+of age-related macular degeneration. Genome Res. 27 (3), 419–426. https://doi.org/ 
+10.1101/gr.219089.116 . 
+Kim, Y.B., et al., 2017b. Increasing the genome-targeting scope and precision of base 
+editing with engineered Cas9-cytidine deaminase fusions. Nat. Biotechnol. 35 (4), 
+371–376. https://doi.org/10.1038/nbt.3803 . 
+Kolomeyer, A.M., Zarbin, M.A., 2014. Trophic factors in the pathogenesis and therapy for 
+retinal degenerative diseases. Surv. Ophthalmol. https://doi.org/10.1016/j. 
+survophthal.2013.09.004 . 
+Komor, A.C., et al., 2016. Programmable editing of a target base in genomic DNA without 
+double-stranded DNA cleavage. Nature 533 (7603), 420–424. https://doi.org/ 
+10.1038/nature17946 . 
+Komor, A.C., Badran, A.H., Liu, D.R., 2017. CRISPR-based technologies for the 
+manipulation of eukaryotic genomes. Cell 168 (1–2), 20–36. https://doi.org/ 
+10.1016/j.cell.2016.10.044 . 
+Kotterman, M. a, et al., 2014. Antibody neutralization poses a barrier to intravitreal 
+adeno-associated viral vector gene delivery to non-human primates. Gene Ther. 
+(August), 1–11. https://doi.org/10.1038/gt.2014.115 . Nature Publishing Group.  
+Kotterman, M. a, Schaffer, D.V., 2014. Engineering adeno-associated viruses for clinical 
+gene therapy. Nat. Rev. Genet. 15 (7), 445–451. https://doi.org/10.1038/nrg3742 . 
+Nature Publishing Group.  
+Kowalski, P.S., et al., 2019. Delivering the messenger: advances in technologies for 
+therapeutic mRNA delivery. Mol. Ther. 27 (4), 710–728. https://doi.org/10.1016/j. 
+ymthe.2019.02.012 . Elsevier Ltd.  
+Kunte, M.M., et al., 2012. ER stress is involved in T17M rhodopsin-induced retinal 
+degeneration. Invest. Ophthalmol. Vis. Sci. 53 (7), 3792 –3800. https://doi.org/ 
+10.1167/iovs.11-9235 . 
+Latella, M.C., et al., 2016. In vivo editing of the human mutant rhodopsin gene by 
+electroporation of plasmid-based CRISPR/Cas9 in the mouse retina. Mol. Ther. 
+Nucleic acids Am. Soc. Gene Cell Ther. 5 (11), e389. https://doi.org/10.1038/ 
+mtna.2016.92 . 
+L˘eveillard, T., et al., 2004. Identification and characterization of rod-derived cone 
+viability factor. Nat. Genet. 36 (7), 755–759. https://doi.org/10.1038/ng1386 . 
+Leveillard, T., Sahel, J.A., 2010. Rod-derived cone viability factor for treating blinding 
+diseases: from clinic to redox signaling. Sci. Transl. Med. 2 (26) https://doi.org/ 
+10.1126/scitranslmed.3000866 , 26ps16-26ps16.  
+Levy, J.M., et al., 2020. Cytosine and adenine base editing of the brain, liver, retina, 
+heart and skeletal muscle of mice via adeno-associated viruses. Nat. Biomed. Eng. 4 
+(1), 97–110. https://doi.org/10.1038/s41551-019-0501-5 . 
+Lewin, A.S., Rossmiller, B., Mao, H., 2014. Gene augmentation for adRP mutations in 
+RHO. Cold Spring Harbor Perspect. Med. 4 (9) https://doi.org/10.1101/cshperspect. 
+a017400 . Cold Spring Harbor Laboratory Press.  
+Li, P., et al., 2018. Allele-specific CRISPR-cas9 genome editing of the single-base P23H 
+mutation for rhodopsin-associated dominant retinitis pigmentosa. CRISPR J. Mary 
+Ann. Liebert Inc 1 (1), 55–64. https://doi.org/10.1089/crispr.2017.0009 . 
+Lin, B., et al., 2008. Restoration of visual function in retinal degeneration mice by ectopic 
+expression of melanopsin. Proc. Natl. Acad. Sci. U.S.A. 105 (41), 16009 –16014. 
+https://doi.org/10.1073/pnas.0806114105 . Lin, B., Masland, R.H., Strettoi, E., 2009. ‘Remodeling of cone photoreceptor cells after 
+rod degeneration in rd mice. ’, Experimental eye research . NIH Public Access 88 (3), 
+589–599. https://doi.org/10.1016/j.exer.2008.11.022 . 
+Lin, J.H., LaVail, M.M., 2010. Misfolded proteins and retinal dystrophies. In: Advances in 
+Experimental Medicine and Biology. https://doi.org/10.1007/978-1-4419-1399-9_ 
+14. 
+Lin, J.Y., et al., 2013. ReaChR: a red-shifted variant of channelrhodopsin enables deep 
+transcranial optogenetic excitation. Nat. Neurosci. 16 (10), 1499 –1508. https://doi. 
+org/10.1038/nn.3502 . 
+Lombardi, M., et al., 2018. Correlation between visual function and performance of 
+simulated daily living activities in glaucomatous patients. J. Glaucoma. https://doi. 
+org/10.1097/IJG.0000000000001066 . 
+Luther, D.C., et al., 2018. ‘Delivery approaches for CRISPR/Cas9 therapeutics in vivo : 
+advances and challenges. Expet Opin. Drug Deliv. 15 (9), 905–913. https://doi.org/ 
+10.1080/17425247.2018.1517746 . 
+Mac˘e, E., et al., 2015. Targeting channelrhodopsin-2 to ON-bipolar cells with vitreally 
+administered AAV restores on and off visual responses in blind mice. Mol. Ther. 23 
+(1), 7–16. https://doi.org/10.1038/mt.2014.154 . 
+Mao, H., et al., 2011. AAV delivery of wild-type rhodopsin preserves retinal function in a 
+mouse model of autosomal dominant retinitis pigmentosa. Hum. Gene Ther. 22 (5), 
+567–575. https://doi.org/10.1089/hum.2010.140 . 
+Mao, H., et al., 2012. Long-term rescue of retinal structure and function by rhodopsin 
+RNA replacement with a single adeno-associated viral vector in P23H RHO 
+transgenic mice. Hum. Gene Ther. 23 (4), 356–366. https://doi.org/10.1089/ 
+hum.2011.213 . 
+Marc, R., Jones, B., 2003. Retinal remodeling in inherited photoreceptor degenerations. 
+Mol. Neurobiol. 28 (2), 139–147. http://link.springer.com/article/10.1385/MN 
+:28:2:139 (Accessed: 15 March 2014).  
+Maruyama, T., et al., 2015. Increasing the efficiency of precise genome editing with 
+CRISPR-Cas9 by inhibition of nonhomologous end joining. Nat. Biotechnol. 33 (5), 
+538–542. https://doi.org/10.1038/nbt.3190 . 
+McCullough, K.T., et al., 2019. Somatic gene editing of GUCY2D by AAV-CRISPR/Cas9 
+alters retinal structure and function in mouse and macaque. Hum. Gene Ther. 30 (5), 
+571–589. https://doi.org/10.1089/hum.2018.193 . 
+McGill, T.J., et al., 2007. Intraocular CNTF reduces vision in normal rats in a dose- 
+dependent manner. Invest. Ophthalmol. Vis. Sci. 48 (12), 5756 –5766. https://doi. 
+org/10.1167/iovs.07-0054 . 
+McGregor, J.E., Williams, D.R., Merigan, W.H., 2019. Functional assessment of vision 
+restoration. Adv. Exp. Med. Biol. https://doi.org/10.1007/978-3-030-27378-1_24 . 
+Mei, X., et al., 2016. The thioredoxin encoded by the rod-derived cone viability factor 
+gene protects cone photoreceptors against oxidative stress. Antioxidants Redox 
+Signal. 24 (16), 909–923. https://doi.org/10.1089/ars.2015.6509 . 
+Mendes, H.F., et al., 2005. Mechanisms of cell death in rhodopsin retinitis pigmentosa: 
+implications for therapy. Trends Mol. Med. 11 (4), 177–185. https://doi.org/ 
+10.1016/j.molmed.2005.02.007 . 
+Millington-Ward, S., et al., 2011. Suppression and replacement gene therapy for 
+autosomal dominant disease in a murine model of dominant retinitis pigmentosa. 
+Mol. Ther. 19 (4), 642–649. https://doi.org/10.1038/MT.2010.293 . Cell Press.  
+Mitra, R.N., et al., 2014. Synthesis and characterization of glycol chitosan DNA 
+nanoparticles for retinal gene delivery. ChemMedChem 9 (1), 189–196. https://doi. 
+org/10.1002/cmdc.201300371 . 
+Mitra, R.N., et al., 2018. Genomic form of rhodopsin DNA nanoparticles rescued 
+autosomal dominant Retinitis pigmentosa in the P23H knock-in mouse model. 
+Biomaterials 157, 26–39. https://doi.org/10.1016/j.biomaterials.2017.12.004 . 
+Moreno, A.M., et al., 2018. In situ gene therapy via AAV-CRISPR-cas9-mediated targeted 
+gene regulation. Mol. Ther. 26 (7), 1818 –1827. https://doi.org/10.1016/j. 
+ymthe.2018.04.017 . Elsevier Ltd.  
+Mussolino, C., et al., 2011. Zinc-finger-based transcriptional repression of rhodopsin in a 
+model of dominant retinitis pigmentosa. EMBO Mol. Med. 3 (3), 118–128. https:// 
+doi.org/10.1002/emmm.201000119 . 
+O’Reilly, M., et al., 2007. RNA interference-mediated suppression and replacement of 
+human rhodopsin in vivo. Am. J. Hum. Genet. 81 (1), 127–135. https://doi.org/ 
+10.1086/519025 . 
+Oh, K.T., et al., 2003. Comparison of the clinical expression of retinitis pigmentosa 
+associated with rhodopsin mutations at codon 347 and codon 23. Am. J. 
+Ophthalmol. 136 (2), 306–313. https://doi.org/10.1016/s0002-9394(03)00206-x . 
+Okoye, G., et al., 2003. Increased expression of brain-derived neurotrophic factor 
+preserves retinal function and slows cell death from rhodopsin mutation or oxidative 
+damage. J. Neurosci. 23 (10), 4164 –4172. https://doi.org/10.1523/jneurosci.23-10- 
+04164.2003 . 
+Orlans, H.O., et al., 2020. Effect of AAV-mediated rhodopsin gene augmentation on 
+retinal degeneration caused by the dominant P23H rhodopsin mutation in a knock-in 
+murine model. Hum. Gene Ther. https://doi.org/10.1089/hum.2020.008 . 
+Patel, S., et al., 2019. Lipid nanoparticles for delivery of messenger RNA to the back of 
+the eye. J. Contr. Release. https://doi.org/10.1016/j.jconrel.2019.04.015 . 
+Patrizi, C., et al., 2021. ‘Allele-specific editing ameliorates dominant retinitis pigmentosa 
+in a transgenic mouse model ’, the American Journal of Human Genetics . Am. J. Hum. 
+Genet. https://doi.org/10.1016/j.ajhg.2021.01.006 . 
+Di Pierdomenico, J., et al., 2019. Role of microglial cells in photoreceptor degeneration. 
+Neural Regener. Res. https://doi.org/10.4103/1673-5374.251204 . 
+Punzo, C., Kornacker, K., Cepko, C.L., 2009. Stimulation of the insulin/mTOR pathway 
+delays cone death in a mouse model of retinitis pigmentosa. Nat. Neurosci. 12 (1), 
+44–52. https://doi.org/10.1038/nn.2234 . 
+Puppo, A., et al., 2014. Retinal transduction profiles by high-capacity viral vectors. Gene 
+Ther. https://doi.org/10.1038/gt.2014.57 . C. Botto et al.                                                                                                                                                                                                                                    Progress in Retinal and Eye Research 86 (2022) 100975
+21Puras, G., et al., 2013. Oligochitosan polyplexes as carriers for retinal gene delivery. Eur. 
+J. Pharmaceut. Sci. https://doi.org/10.1016/j.ejps.2012.11.009 . 
+N, Q.D., et al., 2006. A phase I trial of an IV-administered vascular endothelial growth 
+factor trap for treatment in patients with choroidal neovascularization due to age- 
+related macular degeneration. Ophthalmology 113 (9), 1522.e1 –1522.e14 . 
+Ramachandran, P.S., Song, J.Y., Bennett, J., 2015. Exploiting metabolic and antioxidant 
+pathways to maintain vision in blinding disease. J. Clin. Invest. 125 (4), 1390 –1392. 
+https://doi.org/10.1172/JCI80821 . 
+Ran, F.A., et al., 2015. In vivo genome editing using Staphylococcus aureus Cas9. Nature 
+520 (7546), 186–191. https://doi.org/10.1038/nature14299 . 
+Rees, H.A., Liu, D.R., 2018. Base editing: precision chemistry on the genome and 
+transcriptome of living cells. Nat. Rev. Genet. 19 (12), 770–788. https://doi.org/ 
+10.1038/s41576-018-0059-1 . Nature Publishing Group.  
+Rossi, E.A., et al., 2011. Imaging retinal mosaics in the living eye. Eye 25 (3), 301–308. 
+https://doi.org/10.1038/eye.2010.221 . 
+Ryals, R.C., et al., 2020. The effects of PEGylation on LNP based mRNA delivery to the 
+eye. PloS One. https://doi.org/10.1371/journal.pone.0241006 . 
+Sahel, J.-A.A., Roska, B., 2013. Gene therapy for blindness. Annu. Rev. Neurosci. 36 (1), 
+467–488. https://doi.org/10.1146/annurev-neuro-062012-170304 . 
+Sahel, J.-A.J.-A., et al., 2013. Functional rescue of cone photoreceptors in retinitis 
+pigmentosa. Graefe ’s archive Clin. Exp. Ophthalmolo. Albrecht von Graefes Archiv 
+für klinische und experimentelle Ophthalmologie 251 (7), 1669 –1677. https://doi. 
+org/10.1007/s00417-013-2314-7 . 
+Sahel, J.A., Bennett, J., Roska, B., 2019. Depicting brighter possibilities for treating 
+blindness. Sci. Transl. Med. 11 (494), 1–4. https://doi.org/10.1126/scitranslmed. 
+aax2324 . 
+Sahel, J.A.J.A., Dalkara, D., 2019. Gene therapy for retinal dystrophy. Nat. Med. 25 (2), 
+198–199. https://doi.org/10.1038/s41591-019-0346-1 . 
+Sato, K., et al., 2013. Receptor interacting protein kinase-mediated necrosis contributes 
+to cone and rod photoreceptor degeneration in the retina lacking interphotoreceptor 
+retinoid-binding protein. J. Neurosci. https://doi.org/10.1523/JNEUROSCI.1380- 
+13.2013 . 
+Schimmer, J., Breazzano, S., 2015. ‘Investor Outlook : focus on upcoming LCA2 gene 
+therapy phase III results ’. Human Gene Ther. Clin. Dev. 26 (3), 144–149. https://doi. 
+org/10.15347/wjm/2014.010 . 
+Schmidt, M., et al., 2006. Identification and characterization of novel adeno-associated 
+virus isolates in ATCC virus stocks. J. Virol. https://doi.org/10.1128/jvi.80.10.5082- 
+5085.2006 . 
+Schmidt, M., et al., 2008. Adeno-associated virus type 12 (AAV12): a novel AAV serotype 
+with sialic acid- and heparan sulfate proteoglycan-independent transduction 
+activity. J. Virol. https://doi.org/10.1128/jvi.02012-07 . 
+Scholl, H.P.N., et al., 2016. Emerging therapies for inherited retinal degeneration. Sci. 
+Transl. Med. 8 (368) https://doi.org/10.1126/scitranslmed.aaf2838 , 368rv6- 
+368rv6.  
+Semple-Rowland, S.L., Berry, J., 2014. Use of lentiviral vectors to deliver and express 
+bicistronic transgenes in developing chicken embryos. Methods. https://doi.org/ 
+10.1016/j.ymeth.2013.06.026 . 
+Sengupta, A., et al., 2016. Red-shifted channelrhodopsin stimulation restores light 
+responses in blind mice, macaque retina, and human retina. EMBO Mol. Med. 8 (11), 
+1248 –1264. https://doi.org/10.15252/emmm.201505699 . 
+Simhadri, V.L., et al., 2018. Prevalence of pre-existing antibodies to CRISPR-associated 
+nuclease Cas9 in the USA population. Mol. Ther. Methods Clin. Dev. 10, 105–112. 
+https://doi.org/10.1016/j.omtm.2018.06.006 . 
+Simon, C.-J., et al., 2020. Opsins for vision restoration. Biochem. Biophys. Res. Commun. 
+(xxxx) https://doi.org/10.1016/j.bbrc.2019.12.117 . 
+Slaymaker, I.M., et al., 2016. Rationally engineered Cas9 nucleases with improved 
+specificity. Science 351 (6268), 84–88. https://doi.org/10.1126/science.aad5227 . 
+Stolzenburg, S., et al., 2010. Modulation of Gene Expression Using Zinc Finger-Based 
+Artificial Transcription Factors, pp. 117–132. https://doi.org/10.1007/978-1- 
+60761-753-2_7 . 
+Stone, E.M., 2009. Progress toward effective treatments for human photoreceptor 
+degenerations. Curr. Opin. Genet. Dev. 19 (3), 283–289. https://doi.org/10.1016/j. 
+gde.2009.03.006 . 
+Stone, J.L., 1992. ‘Morphometric analysis of macular photoreceptors and ganglion cells 
+in retinas with retinitis pigmentosa ’, Archives of ophthalmology . Am. Med. Assoc. 110 
+(11), 1634. https://doi.org/10.1001/archopht.1992.01080230134038 . 
+Suh, S., et al., 2021. Restoration of visual function in adult mice with an inherited retinal 
+disease via adenine base editing. Nat. Biomed. Eng. 5 (2), 169–178. https://doi.org/ 
+10.1038/s41551-020-00632-6 . 
+Suzuki, K., et al., 2016. In vivo genome editing via CRISPR/Cas9 mediated homology- 
+independent targeted integration. Nature 540 (7631), 144–149. https://doi.org/ 
+10.1038/nature20565 . 
+Thompson, D. a, et al., 2000. Genetics and phenotypes of RPE65 mutations in inherited 
+retinal degeneration. Invest. Ophthalmol. Vis. Sci. 41 (13), 4293 –4299. Available at: 
+http://www.ncbi.nlm.nih.gov/pubmed/11095629 . Thuronyi, B.W., et al., 2019. Continuous evolution of base editors with expanded target 
+compatibility and improved activity. Nat. Biotechnol. 37 (September) https://doi. 
+org/10.1038/s41587-019-0193-0 . Springer US.  
+Tomita, H., et al., 2014. Restoration of the majority of the visual spectrum by using 
+modified Volvox channelrhodopsin-1. Mol. Ther. 22 (8), 1434 –1440. https://doi. 
+org/10.1038/mt.2014.81 . 
+Trapani, I., Puppo, A., Auricchio, A., 2014. Vector platforms for gene therapy of inherited 
+retinopathies. Prog. Retin. Eye Res. 43, 108–128. https://doi.org/10.1016/j. 
+preteyeres.2014.08.001 . 
+Tsai, Y.-T., et al., 2018. Clustered regularly interspaced short palindromic repeats-based 
+genome surgery for the treatment of autosomal dominant retinitis pigmentosa. 
+Ophthalmology 125 (9), 1421 –1430. https://doi.org/10.1016/J. 
+OPHTHA.2018.04.001 . Elsevier.  
+Venkatesh, A., et al., 2015. Activated mTORC1 promotes long-term cone survival in 
+retinitis pigmentosa mice. J. Clin. Invest. https://doi.org/10.1172/JCI79766 . 
+Verrier, J.D., et al., 2011. Bicistronic lentiviruses containing a viral 2A cleavage sequence 
+reliably co-express two proteins and restore vision to an animal model of LCA1. PloS 
+One. https://doi.org/10.1371/journal.pone.0020553 . 
+Vignal-Clermont, C., Corral Debrinski, M., Sahel, J.A., 2015. Gene therapy in LHON. Acta 
+Ophthalmol. https://doi.org/10.1111/j.1755-3768.2015.0094 . 
+Wang, S.K., Xue, Y., Cepko, C.L., 2020. Microglia modulation by TGF- β1 protects cones in 
+mouse models of retinal degeneration. J. Clin. Invest. https://doi.org/10.1172/ 
+JCI136160 . 
+Williams, M.L., et al., 2006. Lentiviral expression of retinal guanylate cyclase-1 (RetGC1) 
+restores vision in an avian model of childhood blindness. PLoS Med. 3 https://doi. 
+org/10.1371/journal.pmed.0030201 , 0904 –0917.  
+Wright, A.F., et al., 2010. Photoreceptor degeneration: genetic and mechanistic 
+dissection of a complex trait. Nat. Rev. Genet. 11 (4), 273–284. https://doi.org/ 
+10.1038/nrg2717 . Nature Publishing Group.  
+Wubben, T.J., Zacks, D.N., Besirli, C.G., 2019. Retinal neuroprotection. Curr. Opin. 
+Ophthalmol. 30 (3), 199–205. https://doi.org/10.1097/ICU.0000000000000558 . 
+van Wyk, M., et al., 2015. Restoring the ON switch in blind retinas: opto-mGluR6, a next- 
+generation, cell-tailored optogenetic tool. PLoS Biol. 13 (5), e1002143 https://doi. 
+org/10.1371/journal.pbio.1002143 . 
+Xie, Q., et al., 2002. The atomic structure of adeno-associated virus (AAV-2), a vector for 
+human gene therapy. Proc. Natl. Acad. Sci. U.S.A. 99 (16), 10405 –10410. https:// 
+doi.org/10.1073/pnas.162250899 . 
+Xiong, W., et al., 2015. NRF2 promotes neuronal survival in neurodegeneration and 
+acute nerve damage. J. Clin. Invest. 125 (4), 1433 –1445. https://doi.org/10.1172/ 
+JCI79735 . 
+Xiong, W., et al., 2019. AAV cis -regulatory sequences are correlated with ocular toxicity. 
+Proc. Natl. Acad. Sci. Unit. States Am. 116 (12), 5785 –5794. https://doi.org/ 
+10.1073/pnas.1821000116 . 
+Xue, T., et al., 2011. Melanopsin signalling in mammalian iris and retina. Nature 479 
+(7371), 67–73. https://doi.org/10.1038/nature10567 . 
+Yanik, M., et al., 2017. In vivo genome editing as a potential treatment strategy for 
+inherited retinal dystrophies. In: Progress in Retinal and Eye Research, vol. 56. 
+Elsevier Ltd, pp. 1–18. https://doi.org/10.1016/j.preteyeres.2016.09.001 . 
+Yao, K., et al., 2018. Restoration of vision after de novo genesis of rod photoreceptors in 
+mammalian retinas. Nature. https://doi.org/10.1038/s41586-018-0425-3 . 
+Yin, L., et al., 2011. Intravitreal injection of AAV2 transduces macaque inner retina. 
+Invest. Ophthalmol. Vis. Sci. 52 (5), 2775 –2783. https://doi.org/10.1167/iovs.10- 
+6250 . 
+Yu, C., et al., 2015. Small molecules enhance crispr genome editing in pluripotent stem 
+cells. Cell Stem Cell 16 (2), 142–147. https://doi.org/10.1016/j.stem.2015.01.003 . 
+Yu, W., et al., 2017. Nrl knockdown by AAV-delivered CRISPR/Cas9 prevents retinal 
+degeneration in mice. Nat. Commun. 8, 14716. https://doi.org/10.1038/ 
+ncomms14716 . 
+Yue, L., et al., 2016. Retinal stimulation strategies to restore vision: fundamentals and 
+systems. Prog. Retin. Eye Res. 53, 21–47. https://doi.org/10.1016/j. 
+preteyeres.2016.05.002 . 
+Zeitz, C., Robson, A.G., Audo, I., 2015. Congenital stationary night blindness: an analysis 
+and update of genotype-phenotype correlations and pathogenic mechanisms. Prog. 
+Retin. Eye Res. https://doi.org/10.1016/j.preteyeres.2014.09.001 . 
+Zeng, H., et al., 2014. Microglial NADPH oxidase activation mediates rod cell death in 
+the retinal degeneration in rd mice. Neuroscience. https://doi.org/10.1016/j. 
+neuroscience.2014.05.065 . 
+Zhang, F., et al., 2008. Red-shifted optogenetic excitation: a tool for fast neural control 
+derived from Volvox carteri. Nat. Neurosci. 11 (6), 631–633. https://doi.org/ 
+10.1038/nn.2120 . 
+Zischewski, J., Fischer, R., Bortesi, L., 2017. Detection of on-target and off-target 
+mutations generated by CRISPR/Cas9 and other sequence-specific nucleases. 
+Biotechnol. Adv. 95–104. https://doi.org/10.1016/j.biotechadv.2016.12.003 . 
+Zuris, J. a, et al., 2015. Cationic lipid-mediated delivery of proteins enables efficient 
+protein-based genome editing in vitro and in vivo. Nat. Biotechnol. 33 (1), 73–80. 
+https://doi.org/10.1038/nbt.3081 . C. Botto et al.                                                                                                                                                                                                                                    

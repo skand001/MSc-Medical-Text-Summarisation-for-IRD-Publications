@@ -1,0 +1,470 @@
+Genetics of Inherited Retinal Diseases
+in Understudied Populations
+Chitra Kannabiran1,2*, Deepika Parameswarappa2,3and Subhadra Jalali2,3
+1Kallam Anji Reddy Molecular Genetics Laboratory, Prof Brien Holden Eye Research Centre, Hyderabad, India,2L. V. Prasad Eye
+Institute, Hyderabad, India,3Smt Kannuri Santhamma Centre for Retina Vitreous Services, Hyderabad, India
+Retinitis pigmentosa is one of the major forms of inherited retinal dystrophy transmitted in
+all Mendelian and non-Mendelian forms of inheritance. It involves the loss of retinalphotoreceptor cells with severe loss of vision or blindness within the ﬁrst 2 decades of
+life. RP occurs at a relatively high prevalence in India and is often associated with
+consanguinity in certain South Asian communities where this practice is customary.
+This review describes the studies that have been published with regard to genetics ofretinitis pigmentosa in India and neighboring South Asian countries. These populationshave been understudied in these aspects although to a variable degree from one country toanother. Genetic studies on RP in India have been carried out with a range of methodsaimed at detecting speci ﬁc mutations, to screening of candidate genes or selected
+genomic regions, homozygosity mapping to whole genome sequencing. These effortshave led to a molecular genetic characterization of RP in Indian families. Similar studies onlarge extended families from Pakistan have provided insight into several novel genesunderlying the pathogenesis of these diseases. The extreme degree of clinical and geneticheterogeneity of RP renders it challenging to identify the associated genes in thesepopulations, and to translate the research output towards better management of thedisease, as there are no unifying genetic features that are characteristic of any populationso far.
+Keywords: retinitis pigmentosa, retinal dystrophies, genetics, homozygosity, gene mapping, mutations, sequencing
+1 BACKGROUND
+Inherited retinal diseases are a large, heterogeneous group of disorders that are grouped according to
+the retinal layers primarily affected, whether syndromic or non-syndromic, and by the mode ofinheritance. Retinitis pigmentosa (RP) is a hereditary retinal disorder leading to severe visualimpairment or blindness in the ﬁrst 2 decades of life. RP involves the death of photoreceptor cells, a
+process that occurs progressively with loss of both rods and cones. Though classi ﬁed as a rod-cone
+type of disease with primary loss of rods, the pattern of disease may involve loss of cones in early
+stages of the disease as well, in addition to loss of rods. Typically, it manifests with night blindness,loss of visual acuity, loss of visual ﬁelds which progressively leads to “tunnel vision. ”The
+electroretinographic responses of the photoreceptors are extinguished. It is clinically veryheterogeneous in its manifestation.
+This review deals with genetics of RP and related diseases in South Asian populations, with
+particular reference to India, but also highlights studies in this topic from Pakistan, Nepal andBangladesh. These countries are not equally represented in the literature in the ﬁeld of retinal
+dystrophies. Among the countries mentioned, there are a much larger number of studies on familiesEdited by:
+Paolo Enrico Maltese,
+Magi ’s Lab S.R.L., Italy
+Reviewed by:
+Hemant Khanna,
+University of Massachusetts Medical
+School, United States
+Lori Sullivan,
+University of Texas Health Science
+Center at Houston, United States
+*Correspondence:
+Chitra Kannabiran
+chitra@lvpei.org
+chitrakannabiran@gmail.com
+Specialty section:
+This article was submitted to
+Human and Medical Genomics,
+a section of the journal
+Frontiers in Genetics
+Received: 20 January 2022
+Accepted: 03 February 2022
+Published: 28 February 2022
+Citation:
+Kannabiran C, Parameswarappa D
+and Jalali S (2022) Genetics of
+Inherited Retinal Diseases in
+Understudied Populations.
+Front. Genet. 13:858556.
+doi: 10.3389/fgene.2022.858556
+Frontiers in Genetics | www.frontiersin.org February 2022 | Volume 13 | Article 858556 1REVIEW
+published: 28 February 2022
+doi: 10.3389/fgene.2022.858556with retinal dystrophy from Pakistan. Mutations are reported in
+disease-associated genes in several Pakistani families, byconventional techniques of mapping and sequencing, and
+more recently, by next generation sequencing (NGS). For its
+geographic area and population, Pakistan is not underrepresentedin studies of RP, despite the higher prevalence of RP and relatedretinal diseases as compared to Western countries. Theavailability and recruitment of extended, large families residingin the same town or village has conceivably facilitated geneticstudies for the identi ﬁcation of novel genes. The relative
+proportion of published literature on the genetics of RP fromthis region, suggests that there are about twice as manypublications on Pakistani families with RP as compared toIndia ( Zafar et al., 2017 ).
+A discussion on the genetics and other related aspects of RP in
+Indian populations is provided here ( Table 1 ) as well as
+representative genetic studies from the Pakistani population(Table 2 ). Literature in this subject is very scarce from the
+other countries in South Asia.
+2 PREVALENCE OF RETINITIS
+PIGMENTOSA
+The prevalence of RP and related diseases has been determined in
+population-based studies in different regions of India. In the stateof Andhra Pradesh in Southern India, a study on the frequencyand causes of blindness found the prevalence of RP to be about 1in 1,000 population, (0.1%) in both rural and urban areascombined. Blindness due to RP accounted for almost half ofall blindness due to retinal diseases ( Dandona et al., 2001 ).
+Population-based studies from other states in India providesimilar frequencies for RP, with about 0.17% prevalence in thestate of Tamil Nadu in Southern India ( Sen et al., 2008 ) and 0.13%
+in a population from Central India ( Nangia et al., 2012 ). A
+hospital-based study across a L. V. Prasad Eye Institute(LVPEI) network of hospitals representing primary to tertiaryeye care across Southern and Eastern India, reported a prevalenceof about 0.59% for RP ( Parameswarappa et al., 2021 ). The higher
+frequency of RP in this report may be relevant to an eye careinstitutional framework which included all patients with eye
+diseases reporting to the hospitals in the network. Among themodes of inheritance of the disease, the occurrence of familial
+disease as reported varies widely between studies, possibly due to
+a difference in the sizes of study populations analyzed. Theprevalence of familial disease is about 0.1 (10%) based on astudy of over 15,000 patients with RP presenting over a 6-yearperiod ( Parameswarappa et al., 2021 ). In contrast, a study of
+seventy-eight cases covering a 6-month period, suggested theoccurrence of a familial pattern (including all modes of autosomaland X-linked inheritance) in about half of the patients. Isolatecases (patients with no family history of the disease) representclose to one-half of RP patients encountered in this setting ( Kar
+et al., 1995 ).
+Consanguinity is a social factor that is often associated with
+recessive disease, and has been suggested to be correlated to thehigher occurrence of RP in Southern India, due to the commoncustom of consanguineous marriages in this region ( Nirmalan
+et al., 2006 ). Consanguinity between two spouses increases the
+chances of an offspring to inherit the same disease gene from eachof the parents and thereby develop recessive disease. In suchfamilies, both parents are carriers of a common disease gene thatis passed down from a single ancestor. Thus, the offspring isautozygous at the disease locus ( Lander and Botstein, 1987 ). This
+phenomenon of autozygosity or homozygosity by descent (HBD)
+applies not just to the disease locus, but extends to a fraction of
+the entire genome. The probability that a particular genomicregion or gene is autozygous in an individual is also known as theco-efﬁcient of inbreeding (F). The value of F is 1/16 for marriage
+between ﬁrst cousins, 1/8 for uncle and niece. Thus, the length of
+the genome ﬂanking the disease gene that is autozygous in the
+affected offspring varies depending on the extent of relatedness ofthe two parents. Despite the existence of autozygosity, theassociation between consanguinity and recessive disease in RPmay be tenuous particularly due to the low prevalence of RP itself,as well as the frequent rate of consanguinity in the South Asian
+populations mentioned here. In addition, the relationship
+between the prevalence of RP and consanguinity was foundonly in the case of a particular form of consanguinity- ﬁrst
+cousin marriages.TABLE 1 | Major methods employed in genetic studies on Retinal Dystrophies in India.
+Phenotype Method used References
+ADRP, ARRP, and XLRP Allele-speci ﬁc assays for codons 345, 347 in RHO gene Dikshit and Agarwal, (2001)
+ARRP Allele-speci ﬁc ligation Sundaresan et al. (2009)
+ADRP, isolate RP Sequencing Gandra et al. (2008)
+ADRP Linkage analysis and sequencing Saini et al. (2012)
+ADRP Linkage analysis and sequencing Bhatia et al. (2018)
+ARRP, LCA Homozygosity mapping, Sanger sequencing Singh et al., 2006 ;Singh et al., 2009 ;Kannabiran et al., 2012 ;Srilekha et al., 2015
+ARRP, LCA, CRD Homozygosity mapping, targeted NGS Sundaramurthy et al. (2016)
+ARRP Homozygosity mapping, exome sequencing Goyal et al. (2016)
+GFS Direct sequencing Manayath et al. (2014)
+LCA Targeted NGS Srikrupa et al., 2018 ;Sen et al., 2020
+ARRP Whole exome sequencing Bhatia et al., 2019 ;Woodard et al., 2021
+Best disease Whole exome sequencing Nguyen et al. (2018)
+Phenotypes studied, and the methods used to identify mutations in Indian families are shown above.
+Frontiers in Genetics | www.frontiersin.org February 2022 | Volume 13 | Article 858556 2Kannabiran et al. Inherited Retinal Diseases in Understudied Populations3 CLINICAL PRESENTATION OF RETINITIS
+PIGMENTOSA
+The most common inherited retinal dystrophies (IRDs) seen at L.
+V. Prasad Eye Institute (LVPEI), a tertiary care referral centernetwork in Southern India, are retinitis pigmentosa, LCA,juvenile retinoschisis, achromatopsia, Stargardt ’s disease and
+Best disease. In all forms of retinal dystrophy, a predominanceof males was observed among patients presenting to the clinic.About one-third of patients with RP belonged to lower socio-economic strata. A history of consanguineous marriage wasfound in every sixth patient with a positive family history ofthe disease. A majority of patients presented in the clinic in the
+third decade of life with severe impairment in visual acuity.
+Defective night vision was a predominant clinical symptom atpresentation. Other symptoms found at presentation include,reduction in peripheral and central vision, color visionabnormalities and delayed dark adaptation. The retinalfeatures noted at presentation in this population include discpallor (76.43% of cases), attenuated arterioles (82.61% of cases),and bone spicule pigmentation (90.15% of cases). Almost allpatients were found to have retinal pigment epithelial changes(Parameswarappa et al., 2021 ).
+The common syndromes associated with RP in this patient
+population are Usher Syndrome followed by Lawrence Moon
+Bardet Biedl Syndrome. Patients with Usher syndrome (USH)Type 1 and type 2 are more common than type 3 and present inthe 1st to 2nd decades of life. Defective night vision is the majormanifestation at initial visit in all three types of Usher syndrome.It is important to rule out Usher syndrome in early onset RP withhearing abnormalities. Laurence-Moon-Bardet-Biedl (LMBB)syndrome is the second most common syndromic form of RP.Patients present in 1st –2nd decade of life with severe visual acuity
+impairment (20/200 to 20/400) to blindness ( <20/400) early in
+life. Severe reduction in central visual acuity is due to early
+macular involvement and optic atrophy. Myopia is thepredominant refractive error and nuclear cataract is the
+common form of cataract seen in LMBB with RP. Aprominent retinal feature is a diffuse or widespread retinalpigment epithelial degeneration in all patients. Patients withfeatures of early onset RP and impairment in central visualacuity need to be evaluated for LMBB syndrome. Early visual
+as well as systemic rehabilitation is crucial along with supportive
+therapy upon detection of LMBB syndrome. Though patientswith IRD in India currently do not have access to speci ﬁc visual
+implants or gene therapy, surgical intervention for associatedproblems like cataract, capsular phimosis, angle closureglaucoma, retinal detachment, macular pathology etc., may berequired. All IRD patients need comprehensive low visionassessment and rehabilitation.
+Diagnostic and management challenges in a clinical set up in
+India with respect to RP and other IRDs are variable clinicalpresentation, lack of diagnostic and imaging tools in all hospitals,
+difﬁculty in examining all the family members, lack of uniform
+guidelines for genetic counselling and the high cost of genetictesting. Even where testing is available, there are gaps in genetictesting or counselling for all patients due to lack of patientawareness, acceptance, and accessibility of the services.
+4 GENETICS OF RETINITIS PIGMENTOSA
+AND RELATED DISORDERS IN INDIA
+Molecular genetic investigations of patients and families with RP
+have employed a variety of methods, and these have evolved overtime, in parallel with advances in the ﬁeld of human genetics and
+genomics. Figure 1 shows a timeline of major developments in
+this area. The methods range from selective analysis of chosenmutations, screening of candidate genes to genome-wideapproaches including mapping and exome sequencing. Themethods used in various studies are summarized in Table 1 .
+For example, allele-speci ﬁc assays were used for the detection ofTABLE 2 | Summary of Major Genetic Studies on RP and related diseases in Pakistani families.
+Phenotype Methods used Associated gene/Locus Authors
+ARRP Homozygosity and linkage mapping, gene prediction and transcript
+analysisRP25/EYS /6q Khaliq et al., 1999 ,Collin et al., 2008
+Usher Syndrome Type 1F Linkage analysis, physical mapping and sequencing PCDH15 /USH1F Ahmed et al. (2001)
+ARRP Linkage analysis RP29 (4q32-34) Hameed et al. (2001)
+ARRP Linkage analysis and sequencing RP1/8q11 Khaliq et al. (2005)
+Oguchi disease Linkage analysis and sequencing 13q34/ GRK1 (rhodopsin
+kinase)Zhang, Zul ﬁqar, Riazuddin et al.
+(2005)
+ARRP Linkage and homozygosity mapping RP32 /CLCC1 (1p13-21) Zhang, Zul ﬁqar, Xiao et al. (2005)
+Whole exome sequencing Li et al. (2018)
+ARRP with mentalretardationLinkage analysis and sequencing of candidate genes CC2D2A /4p15.33-p15/ Noor et al. (2008)
+Usher Syndrome type 1J Linkage mapping; sequencing of candidate genes CIB2/USH1J (15q22 -23) Riazuddin et al. (2012)
+ARRP Linkage analysis 2p22.3-p24.1 Naz et al. (2010)
+ARRP Homozygosity and linkage analysis; sequencing USH3/CLRN1 (Clarin 1) Khan et al. (2011)
+Usher Syndrome type 1K Linkage mapping USH1K/ 10p11.21-q21.1 Jaworek et al. (2012)
+ARRP Homozygosity mapping, exome sequencing DHX38/ chr 16 Ajmal et al. (2014)
+CRD Exome sequencing CNGA3 Shaikh et al. (2015)
+The Table lists several studies on retinal dystrophies in Pakistani families in which novel loci were mapped and/or identi ﬁed.
+Frontiers in Genetics | www.frontiersin.org February 2022 | Volume 13 | Article 858556 3Kannabiran et al. Inherited Retinal Diseases in Understudied Populationscommon mutations in the rhodopsin ( RHO ) gene. These include
+changes at codon 345 (Val345Met and Val345leu) and codon 347(Pro347Ser/Ala/Arg/Gln/Thr); screening of a series of aboutsixty-nine probands consisting of dominant, recessive,
+X-linked and sporadic RP, showed the codon 345 mutation in
+two probands. None of the patients tested had codon 347mutations ( Dikshit and Agarwal, 2001 ). Allele-speci ﬁc assays
+have also been employed in a multiplexed mode for screeningknown mutations in RP genes. Thus, a missense change in RPE65
+(Tyr368His) was detected in one out of thirty-eight patients in ascreening approach that included 103 mutations by an allele-speciﬁc ligation method ( Sundaresan et al., 2009 ). Direct
+sequencing of candidate genes in series of unrelated RPpatients, particularly those with ADRP and isolate RP, hasrevealed mutations in rhodopsin, pre-mRNA splicing factor 31
+(PRPF31 ), retinitis pigmentosa 1 ( RP1) and inosine
+monophosphate dehydrogenase 1 ( IMPDH1 ) genes. These
+studies suggest a low frequency of mutations in these genes, ofbelow 2% among the patients evaluated ( Gandra et al., 2008 ).
+Whole genome mapping studies have been reported on
+extended families with RP and related disorders. The RP28
+locus was mapped by conventional linkage analysis in a four-generation consanguineous family with ARRP from Karnataka inSouthern India (seventeen members studied), to a region of about1 cM on chromosome 2p11-p15 ( Kumar et al., 2004 ). The age at
+onset of disease in this family was in the ﬁrst-second decades of
+life, with features fairly typical of RP. Another genome wide
+linkage study mapped the disease on to chromosome 19q13.4 in afour-generation family with ADRP including eighteen membersanalyzed. A seven base pair deletion, leading to a predictedframeshift (p.Gly20AlafsX43), was identi ﬁed in the PRPF31
+gene, which is present in the critical region. This family hadincomplete penetrance of the disease ( Saini et al., 2012 ). Clinical
+features in relation to the appearance of the fundus in the familiesreported in the two above-mentioned studies include pallor of theoptic disk, attenuated retinal vasculature and bone spicule type of
+pigmentary deposits. Another family from North India wasmapped to the same locus by linkage analysis at speci ﬁc
+candidate gene loci ( Bhatia et al., 2018 ). Patients in this family
+had a missense mutation of cysteine-299 to tyrosine (Cys299Tyr)
+in the PRPF31 gene. Apart from the typical phenotypic features of
+RP as noted above, incomplete penetrance of the disease wasagain observed here. This phenomenon is a distinguishing aspectin families with PRPF31 mutations ( Vithana et al., 2003 ).
+A whole genome linkage study led to the mapping of ADRP to
+chromosome 6q23, in a large four generation family from AndhraPradesh ( Kannabiran et al., 2012 ).
+The analysis of autosomal recessive RP (ARRP) or other
+retinal dystrophy in Indian families has frequently employedhomozygosity screening since the families studied are often
+consanguineous. The approach involves the detection of regions
+of homozygosity that are shared between affected offspring of aconsanguineous marriage. The principle of mapping recessivedisease genes in such inbred families relies on the presence ofhomozygosity by descent (HBD) in the genome of children ofconsanguineous parents ( Lander and Botstein, 1987 ).
+Homozygosity mapping has been carried out with differenttypes of genetic markers such as microsatellite markers andSNPs, and candidate genes in the regions of homozygosity thusdetected, are screened for mutations. Often, a pedigree of afamily with recessive disease is not suitable for detecting linkage
+due to its small size and limited number of affected offspring.
+Screening for homozygosity in such cases relies on detectingshared regions of homozygosity (ROH) at known disease lociamong affected members of a family. More recently, the HBDprinciple has been applied to data from direct exomesequencing. In the latter technique, one looks at continuousstretches of shared homozygosity in the exome sequence ofaffected siblings to ﬁnd the pathogenic mutations –in other
+words, it is an analysis of the autozygome.
+FIGURE 1 | The ﬁgure depicts a sequence of major developments in genetics, relevant to the ﬁeld of retinal dystrophies as well.
+Frontiers in Genetics | www.frontiersin.org February 2022 | Volume 13 | Article 858556 4Kannabiran et al. Inherited Retinal Diseases in Understudied PopulationsScreening for HBD has led to successful identi ﬁcation of
+mutations in a subset of families with ARRP. Mapping withlocus-speci ﬁc microsatellite markers at candidate gene loci led to
+mutations being detectable in about 10% –15% of Indian families
+screened by this method ( Singh et al., 2006 ;Singh et al., 2009 ).
+The genes associated to the disease include ATP-binding cassettesubfamily A member 4 ( ABCA4 ), tubby-like protein 1 ( TULP1 ),
+retinaldehyde binding protein 1 ( RLBP1 ), retinal pigment
+epithelial 65 kDa protein ( RPE65 ) and retinitis pigmentosa 1
+(RP1). Mutation in each gene listed here occurred in one family,
+and included frameshift, nonsense and missense changes.Screening for HBD with SNP arrays followed by sequencing ofchosen genes, identi ﬁed mutations in three out of sixteen families
+(one- ﬁfth of families being positive for mutations) ( Kannabiran
+et al., 2012 ). The onset of disease in the aforementioned ARRP
+families ( Singh et al., 2009 ;Kannabiran et al., 2012 ) was in the
+1st–2nd decades of life. Common features of the disease included
+arterial narrowing, disc pallor and diffuse degeneration of theRPE. Macular degeneration was present in some cases.Pigmentary deposits within the retina were not frequentlyobserved. Another study from Southern India screened twelvefamilies (eleven with LCA and one with ARRP) for homozygosityusing SNP arrays and detected mutations in eleven families(Srilekha et al., 2015 )- genes with pathogenic mutations in
+these patients were Aryl Hydrocarbon Interacting Protein-Like1(AIPL1 ), Retinal Pigment Epithelial 65 kDa Protein gene
+(RPE65 ), Guanylate Cyclase 2D ( GUCY2D ), Crumbs Homolog
+1(CRB1 ), Retinol Dehydrogenase 12 ( RDH12 ), IQ Calmodulin-
+binding Motif-containing Protein 1 ( IQCB1 ),Spermatogenesis
+Associated Protein 7 ( SPATA7 ) and Mer-Tyrosine Kinase
+(MERTK ).The associated phenotypes included typical changes
+in the fundus such as pigmentary deposits, atrophic macula, discpallor and attenuated vasculature. A similar approach ofhomozygosity mapping with SNP arrays in threeconsanguineous families with different retinal dystrophiesincluding LCA, ARRP and cone-rod dystrophy (CRD), wasused to identify regions of homozygosity in the patients. This
+was followed by targeted NGS to identify the pathogenic changes
+in each family ( Sundaramurthy et al., 2016 ). In this study,
+mutations were detected based on their location within one ofthe regions of homozygosity (ROH). Mutations in the RDH12 ,
+ABCA4 and Cadherin-Related Family Member 1 ( CHDR1 ) genes
+were found in the three families. Due to the presence of severallarge regions of homozygosity in the affected offspring in eachfamily, the authors employed targeted NGS with a panel of 184genes associated with eye diseases, to identify the relevantmutations. A related approach is that of whole genomehomozygosity mapping in combination with exome
+sequencing. With this method, the disease was mapped to
+chromosome 14q31 in a large family, and whole exomesequencing showed a mutation in the tetratricopeptide repeatdomain 8 ( TTC8 ) gene in this locus ( Goyal et al., 2016 ). The
+mutation was a missense change with substitution of glutamine-449 to histidine (p.Gln449His). Thus homozygosity mappinghelped in the detection of pathogenic changes from the exomesequence data since one can restrict the variants that are selectedto those present within the ROH.Direct sequencing of candidate genes is a common approach
+employed for identifying mutations in all forms of RP. Inparticular, there are a large number of RP patients that arecategorized as “isolate ”or simplex RP. Candidate genes are
+selected on the basis of their known association with the disease
+in the same or other populations, or on their physiologic role and
+relevance in the functioning of photoreceptors or RPE. Screening ofa chosen retinal disease gene has also been done on the basis of theassociated phenotype. An example is a study of a four-generationfamily with two affected individuals and eleven members. Here, theaffected members presented with clinical and electrophysiologicalﬁndings suggestive of Goldman Favre syndrome (GFS). The retinal
+features suggestive of GFS included clumped pigment deposits inthe fundus, with exudation and vascular masses in the peripheralretina ( Manayath et al., 2014 ). Mutations in the NR2E3 gene are
+known to be associated with GFS and clumped pigmentary retinal
+degeneration; analysis of this gene in the family detected amutation of c.1117A >G leading to a missense change of
+aspartic acid-406 to glycine (Asp406Gly).
+Targeted NGS is an extension of the candidate gene approach
+is, and is a multiplexed method for screening many genes inparallel for detecting mutations. Using this method, analysis oftwenty candidate genes in ninety-two probands with LCA fromsouthern India led to the detection of mutations in about 60% ofcases ( Srikrupa et al., 2018 ). A similar investigation involving 152
+patients with RP in a tertiary care referral centre in southern India
+employed a targeted NGS panel of sixty-four genes. An unusually
+high frequency of mutations was obtained for the ceramideKinase-Like 1 ( CERKL ) gene in this study. Mutations were
+found in fourteen patients, out of whom twelve unrelatedpatients had a common mutation of c.1045_1046delAT. Onepatient had a nonsense mutation of c.847C >T (arginine-257 to
+stop; Arg257Ter), and another had a splice site mutation of c.899-1G>A. Characteristic features such as disc pallor, arteriolar
+attenuation, and variable degree of bony spicules were observedin these patients, along with macular atrophy ( Sen et al., 2020 ).
+Recent studies have entailed whole exome analysis (WES) by
+itself, in the absence of mapping. This mode has successfully
+found disease-associated mutations in RP in certain studies inwhich single families and even single patients were screened. Anexample is a study of two consanguineous families from southernIndia with two affected individuals each. A mutation in theFAM161A gene was detected by WES, comprising a common
+frameshift mutation at arginine-592 with termination after twoamino acids (Arg592fsX2) ( Zhou et al., 2015 ). Interestingly, in
+this study, screening of a series of 100 sporadic patients with RPidenti ﬁed one more unrelated patient with the same mutation.
+Another investigation with WES of two affected members in an
+Indian family with early-onset RP and loss of vision within the
+ﬁrst decade, detected a splice site mutation (c.1160 +1G >A) in
+the Aryl Hydrocarbon Receptor ( AHR ) gene ( Zhou et al., 2018 ).
+The mutation caused skipping of exon 9 of the AHR gene.
+Another consanguineous family from north India with elevenmembers with early-onset rod-cone dystrophy studied by WES,had a nonsense mutation (tyrosine-549 to Stop; c.1647T >G;
+Tyr549Ter) in the Mer-Tyrosine Kinase ( MERTK ) gene ( Bhatia
+et al., 2019 ). Affected individuals in this family had pigment
+Frontiers in Genetics | www.frontiersin.org February 2022 | Volume 13 | Article 858556 5Kannabiran et al. Inherited Retinal Diseases in Understudied Populationsdeposits, disc pallor, and attenuated retinal vessels in addition to
+diffuse changes in the RPE. Finally, WES analysis of a single childwith RP from a consanguineous family in Andhra Pradeshdetected a substitution mutation in the TULP1 gene with
+change of proline-388 to serine (c.1162C >T; Pro388Ser). The
+patient presented with parafoveal atrophy of the RPE, bonespicule pigmentation in the mid-peripheral retina andattenuation of the retinal vasculature ( Woodard et al., 2021 ).
+The mutation was observed to reduce the stability of the proteinas compared to the wild type when expressed in vitro .
+Apart from RP and LCA, there are fewer reported genetic
+studies of other retinal dystrophies in Indian patients. One suchexample is that of Best disease in families from southern India.Autosomal recessive bestrophinopathy (ARB) and Best vitelliformmacular dystrophy (BVMD) are both associated with mutations in
+the Bestrophin 1 ( BEST1 ) gene. BVMD is autosomal dominant in
+inheritance. Exome sequencing of four families, with a total of eightaffected members and twelve unaffected members led to thedetection of mutations in the BEST1 gene in all cases ( Nguyen
+et al., 2018 ). The patients presented with visual loss in the ﬁrst to
+third decades of life and the changes observed in the fundus werefoveal schisis, subretinal ﬂuid and vitelliform deposits. The
+mutations detected in four separate families were-1) c.392A >G
+with a change of tyrosine 131 to cysteine (p.Tyr131Cys); 2)missense change of arginine-150 to proline (p.Arg150Pro); 3)mutations c.140G >A (arginine-47 to histidine; Arg47His) and
+c.646G >A (valine-216 to isoleucine; p.Val216Ile) in compound
+heterozygous patient; 4) threonine-91 to isoleucine (p.Thr91Ile) ina heterozygous proband. The ﬁrst two mutations were found in
+homozygous patients.
+In addition, autosomal recessive cone dystrophy in a single
+consanguineous family from northern India is associated with amutation in the CNGB3 (cyclic nucleotide gated channel subunit
+B3) gene ( Gupta et al., 2017 ). The disease in this family manifested
+as poor vision since childhood, photophobia and abnormal colorvision. The fundus showed vascular attenuation, with changes inthe macular and mid-peripheral RPE. Electroretinographic
+responses of cones were abnormal. Exome sequencing led to the
+pathogenic change, a single base deletion of c.1148delC in CNGB3
+predicting frameshift at threonine-383 (p.Thr383Fs), withhomozygosity in the affected individuals.
+5 GENETICS OF RETINAL DYSTROPHIES IN
+PAKISTAN
+Analysis of pedigrees of extended families from Pakistan, often
+consanguineous, facilitated the identi ﬁcation of many new loci for
+retinal dystrophies. Table 2 has several examples of novel loci that
+were mapped using a range of strategies, depending on thetechnologies available. In many earlier studies, methodsutilized to successfully ﬁnd the disease gene were linkage
+analysis and sequencing of candidate genes in the mappedregion. More recently, particularly over the last decade, exomesequencing has been the dominant method to ﬁnd the genes
+involved. In some instances as in the discovery of the USH1F
+gene, comparison with a mouse deafness model for the disease,theavmouse, paved the way to ﬁnding the human gene ( Ahmed
+et al., 2001 ). The disease gene in the avmouse, Pcdh15 , was
+already known. Synteny between the human and mousechromosome 10 suggested that the human orthologue of the
+mouse protocadherin 15 was the USH1F gene. Linkage analysis of
+two families with Usher syndrome re ﬁned the USH1F locus.
+Physical mapping of the critical interval for USH1F on
+chromosome 10q21.1, and detection of sequence similarity inthis region to the murine Pcdh15 gene led to identi ﬁcation of the
+human gene PCDH15 .
+Another locus on chromosome 6q, the RP25 locus was also
+mapped through a combination of linkage and physical mapping.In this case, two separate studies mapped the locus onchromosome 6q. Homozygosity mapping in a subset ofSpanish families with ARRP ( Ruiz et al., 1998 ), and an
+independent study of a large consanguineous pedigree from
+Pakistan, comprising twenty individuals, both localized thegene to an interval of 2 cM on chromosome 6q ( Khaliq et al.,
+1999 ). Further bioinformatic and transcript analysis of the
+sequences in the RP25 genomic interval revealed a novel gene,
+EYS (human ortholog of the drosophila Eyes Shut gene). The
+coding regions of EYS included 44 exons that extended over 2
+megabases of genomic DNA. Mutations were found in threeunrelated families with RP in this gene, thus con ﬁrming its role in
+the pathogenesis of the disease ( Collin et al., 2008 ).
+The application of NGS has spurred the identi ﬁcation of genes
+that were mapped in earlier studies by linkage. An example is the
+RP32 locus, mapped on to chromosome 1p13-21 ( Zhang,
+Zulﬁqar, Xiao et al., 2005 ), and identi ﬁed by exome
+sequencing. Analysis of the sequence variants within thecritical interval identi ﬁed the RP32 gene as the Chloride
+Channel CLIC like 1 ( CLCC1 ) gene. An ancestral mutation
+was found in several families of Pakistani origin ( Li et al.,
+2018 ). The CLCC1
+gene encodes a putative chloride channel
+and its knockdown in zebra ﬁsh and mouse has deleterious effects
+on the photoreceptor layer of the retina. Comparable to the abovemethod is a combination of homozygosity mapping together with
+whole exome sequencing. With this strategy, analysis of a family
+of four affected individuals with ARRP using SNPs led to a singlehomozygous region being detected on chromosome 16. Analysisof exome variants located in the mapped interval resulted inidenti ﬁcation of the pathogenic change in the pre-mRNA splicing
+factor gene, DHX38 (Ajmal et al., 2014 ).
+Several more studies on families with retinal dystrophy from
+Pakistan have detected mutations in known genes and they willnot be detailed here. There is a paucity of research on retinaldystrophies from other south Asian countries including Nepaland Bangladesh and they appear to be truly understudied in this
+aspect with very few reports on these disorders, apart from
+occasional cases and prevalence studies of blindness that arehospital-based.
+6 CONCLUSION
+There is enormous scope for the investigation of the genetics ofretinal dystrophies in India in particular and in South Asia, where
+Frontiers in Genetics | www.frontiersin.org February 2022 | Volume 13 | Article 858556 6Kannabiran et al. Inherited Retinal Diseases in Understudied Populationsthe knowledge available in this ﬁeld is very sparse in relation to
+the size of the affected population. The studies reported so far areindicative of the potential for gene discovery and for advancingour understanding of the genetic basis of these diseases in the
+region. The geographic and physical connectivity within families
+is still an inherent part of the social fabric. Such a situation offersan advantage to genetic studies of retinal dystrophies regardless ofthe methods that are employed, since the inclusion of extendedfamilies increases the scope for ﬁnding the underlying genes.
+Communities with a high degree of consanguinity and inbreedingmay provide an opportunity to ﬁnd genes that are more prevalent
+in them, due to common ancestry. This knowledge can eventuallybe used for targeted testing and counseling of families or fordesigning suitable therapies based on the genes involved.AUTHOR CONTRIBUTIONS
+CK wrote on the genetics of retinal dystrophies in differentpopulations, and ﬁnlalized the manuscript. DP and SJ wrote
+on the clinical aspects and patient phenotypes related to retinaldystrophies.
+FUNDING
+This work was supported by the Hyderabad Eye ResearchFoundation and by a grant (No. BT/PR32404/MED/30/2136/2019) from the Department of Biotechnology, Government ofIndia.
+REFERENCES
+Ahmed, Z. M., Riazuddin, S., Bernstein, S. L., Ahmed, Z., Khan, S., Grif ﬁth, A. J.,
+et al. (2001). Mutations of the Protocadherin Gene PCDH15 Cause UsherSyndrome Type 1F. Am. J. Hum. Genet. 69, 25 –34. doi:10.1086/321277
+Ajmal, M., Khan, M. I., Neveling, K., Khan, Y. M., Azam, M., Waheed, N. K., et al.
+(2014). A Missense Mutation in the Splicing Factor geneDHX38 is Associatedwith Early-Onset Retinitis Pigmentosa with Macular Coloboma. J. Med. Genet.
+51, 444 –448. doi:10.1136/jmedgenet-2014-102316
+Bhatia, S., Goyal, S., Singh, I. R., Singh, D., and Vanita, V. (2018). A Novel Mutation
+in the PRPF31 in a North Indian adRP Family with Incomplete Penetrance. Doc
+Ophthalmol. 137, 103 –119. doi:10.1007/s10633-018-9654-x
+Bhatia, S., Kaur, N., Singh, I. R., and Vanita, V. (2019). A Novel Mutation in
+MERTK for Rod-Cone Dystrophy in a North Indian Family. Can.
+J. Ophthalmol. 54, 40 –50. doi:10.1016/j.jcjo.2018.02.008
+Collin, R. W. J., Littink, K. W., Klevering, B. J., van den Born, L. I., Koenekoop, R.
+K., Zonneveld, M. N., et al. (2008). Identi ﬁcation of a 2 Mb Human Ortholog of
+Drosophila Eyes Shut/spacemaker that Is Mutated in Patients with RetinitisPigmentosa. Am. J. Hum. Genet. 83, 594 –603. doi:10.1016/j.ajhg.2008.10.014
+Dandona, L., Dandona, R., Srinivas, M., Giridhar, P., Vilas, K., Prasad, M. N., et al.
+(2001). Blindness in the Indian State of Andhra Pradesh. Invest. Ophthalmol.
+Vis. Sci. 42, 908 –916.
+Dikshit, M., and Agarwal, R. (2001). Mutation Analysis of Codons 345 and 347 of
+Rhodopsin Gene in Indian Retinitis Pigmentosa Patients. J. Genet. 80, 111 –116.
+doi:10.1007/BF02728336
+Gandra, M., Anandula, V., Authiappan, V., Sundaramurthy, S., Raman, R.,
+Bhattacharya, S., et al. (2008). Retinitis Pigmentosa: Mutation Analysis ofRHO, PRPF31, RP1, and IMPDH1 Genes in Patients from India. Mol. Vis. 14,
+1105 –1113.
+Goyal, S., Jäger, M., Robinson, P. N., and Vanita, V. (2016). Con ﬁrmation of TTC8
+as a Disease Gene for Nonsyndromic Autosomal Recessive Retinitis Pigmentosa(RP51). Clin. Genet. 89, 454 –460. doi:10.1111/cge.12644
+Gupta, S., Chaurasia, A., Pathak, E., Mishra, R., Chaudhry, V. N., Chaudhry, P.,
+et al. (2017). Whole Exome Sequencing Unveils a Frameshift Mutation in
+CNGB3 for Cone Dystrophy. Medicine (Baltimore) 96, e7490. doi:10.1097/MD.
+0000000000007490
+Hameed, A., Khaliq, S., Ismail, M., Anwar, K., Mehdi, S. Q., Bessant, D., et al.
+(2001). A New Locus for Autosomal Recessive RP (RP29) Mapping toChromosome 4q32-Q34 in a Pakistani Family. Invest. Ophthalmol. Vis. Sci.
+42, 1436 –1438.
+Jaworek, T. J., Bhatti, R., Latief, N., Khan, S. N., Riazuddin, S., and Ahmed, Z. M.
+(2012). USH1K, a Novel Locus for Type I Usher Syndrome, Maps toChromosome 10p11.21-q21.1. J. Hum. Genet. 57, 633 –637. doi:10.1038/jhg.
+2012.79
+Kannabiran, C., Singh, H., Sahini, N., Jalali, S., and Mohan, G. (2012). Mutations in
+TULP1, NR2E3, and MFRP Genes in Indian Families with Autosomal RecessiveRetinitis Pigmentosa. Mol. Vis. 18, 1165 –1174.Kar, B., John, S., and Kumaramanickavel, G. (1995). Retinitis Pigmentosa in India:
+a Genetic and Segregation Analysis. Clin. Genet. 47, 75 –79. doi:10.1111/j.1399-
+0004.1995.tb03927.x
+Khaliq, S., Hameed, A., Ismail, M., Mehdi, S. Q., Bessant, D. A., Payne, A. M., et al.
+(1999). Re ﬁ
+nement of the Locus for Autosomal Recessive Retinitis Pigmentosa
+(RP25) Linked to Chromosome 6q in a Family of Pakistani Origin. Am. J. Hum.
+Genet. 65, 571 –574. doi:10.1086/302493
+Khaliq, S., Abid, A., Ismail, M., Hameed, A., Mohyuddin, A., Lall, P., et al. (2005).
+Novel Association of RP1 Gene Mutations with Autosomal Recessive RetinitisPigmentosa. J. Med. Genet. 42, 436 –438. doi:10.1136/jmg.2004.024281
+Khan, M. I., Kersten, F. F., Azam, M., Collin, R. W., Hussain, A., Shah, S. T., et al.
+(2011). CLRN1 Mutations Cause Nonsyndromic Retinitis Pigmentosa.Ophthalmology 118, 1444 –1448. doi:10.1016/j.ophtha.2010.10.047
+Kumar, A., Shetty, J., Kumar, B., and Blanton, S. H. (2004). Con ﬁrmation of
+Linkage and Re ﬁnement of the RP28 Locus for Autosomal Recessive Retinitis
+Pigmentosa on Chromosome 2p14-P15 in an Indian Family. Mol. Vis. 10,
+399 –402.
+Lander, E. S., and Botstein, D. (1987). Homozygosity Mapping: a Way to Map
+Human Recessive Traits with the DNA of Inbred Children. Science 236,
+1567 –1570. doi:10.1126/science.2884728
+Li, L., Jiao, X., D ’Atri, I., Ono, F., Nelson, R., Chan, C.-C., et al. (2018). Mutation in
+the Intracellular Chloride Channel CLCC1 Associated with AutosomalRecessive Retinitis Pigmentosa. Plos Genet. 14, e1007504. doi:10.1371/
+journal.pgen.1007504
+Manayath, G. J., Namburi, P., Periasamy, S., Kale, J. A., Narendran, V., and Ganesh,
+A. (2014). A Novel Mutation in the NR2E3 Gene Associated with Goldmann-Favre Syndrome and Vasoproliferative Tumor of the Retina. Mol. Vis. 20,
+724 –731.
+Nangia, V., Jonas, J. B., Gupta, R., Khare, A., and Sinha, A. (2012). Visual
+Impairment and Blindness in Rural central India: the Central India Eye andMedical Study. Acta Ophthalmol. 91, 483 –486. doi:10.1111/j.1755-3768.2012.
+02447.x
+Naz, S., Riazuddin, S. A., Li, L., Shahid, M., Kousar, S., Sieving, P. A., et al. (2010). A
+Novel Locus for Autosomal Recessive Retinitis Pigmentosa in a
+Consanguineous Pakistani Family Maps to Chromosome 2p. Am.
+J. Ophthalmol. 149, 861 –866. doi:10.1016/j.ajo.2009.12.034
+Nguyen, T. T., Poornachandra, B., Verma, A., Mehta, R. A., Phalke, S., Battu, R.,
+et al. (2018). Next Generation Sequencing Identi ﬁes Novel Disease-Associated
+BEST1 Mutations in Bestrophinopathy Patients. Sci. Rep. 8, 10176. doi:10.1038/
+s41598-018-27951-8
+Nirmalan, P. K., Krishnaiah, S., Nutheti, R., Shamanna, B. R., Rao, G. N., and
+Thomas, R. (2006). Consanguinity and Eye Diseases with a Potential GeneticEtiology. Data from a Prevalence Study in Andhra Pradesh, India. Ophthalmic
+Epidemiol. 13, 7 –13. doi:10.1080/09286580500473795
+Noor, A., Windpassinger, C., Patel, M., Stachowiak, B., Mikhailov, A., Azam, M.,
+et al. (2008). CC2D2A, Encoding a Coiled-Coil and C2 Domain Protein, CausesAutosomal-Recessive Mental Retardation with Retinitis Pigmentosa. Am.
+J. Hum. Genet. 82, 1011 –1018. doi:10.1016/j.ajhg.2008.01.021
+Frontiers in Genetics | www.frontiersin.org February 2022 | Volume 13 | Article 858556 7Kannabiran et al. Inherited Retinal Diseases in Understudied PopulationsParameswarappa, D. C., Das, A. V., Dave, V. P., Agarwal, K., Natarajan, R., and
+Jalali, S. (2021). Clinical Presentation and Demographic Distribution ofRetinitis Pigmentosa in India and Implications for Potential Treatments:Electronic Medical Records Driven Big Data Analytics: Report I. Semin.
+Ophthalmol. 17, 1 –7. doi:10.1080/08820538.2021.1957126
+Riazuddin, S., Belyantseva, I. A., Giese, A. P. J., Lee, K., Indzhykulian, A. A.,
+Nandamuri, S. P., et al. (2012). Alterations of the CIB2 Calcium- and Integrin-Binding Protein Cause Usher Syndrome Type 1J and Nonsyndromic DeafnessDFNB48. Nat. Genet. 44, 1265 –1271. doi:10.1038/ng.2426
+R u i z ,A . ,B o r r e g o ,S . ,M a r c o s ,I . ,a n dA n t i Ɂolo, G. (1998). A major locus for
+autosomal recessive retinitis pigmentosa on 6q, determined by
+homozygosity mapping of chromosomal regions that contain gamma-
+aminobutyric acid-receptor clusters. Am J Hum Genet . 63, 1452 –1459.
+doi:10.1086/301866
+Saini, S., Robinson, P. N., Singh, J. R., and Vanita, V. (2012). A Novel 7 Bp Deletion
+in PRPF31 Associated with Autosomal Dominant Retinitis Pigmentosa withIncomplete Penetrance in an Indian Family. Exp. Eye Res. 104, 82 –88. doi:10.
+1016/j.exer.2012.09.010
+Sen, P., Bhargava, A., George, R., Ramesh, S. V., Hemamalini, A., Prema, R., et al.
+(2008). Prevalence of Retinitis Pigmentosa in South Indian Population Agedabove 40 Years. Ophthalmic Epidemiol. 15, 279 –281. doi:10.1080/
+09286580802105814
+Sen, P., Maitra, P., Natarajan, S., Sripriya, S., Mathavan, S., Bhende, M., et al.
+(2020). CERKL Mutation Causing Retinitis Pigmentosa(RP) in IndianPopulation - a Genotype and Phenotype Correlation Study. Ophthalmic
+Genet. 41, 570 –578. doi:10.1080/13816810.2020.1814347
+Shaikh, R. S., Reuter, P., Sisk, R. A., Kausar, T., Shahzad, M., Maqsood, M. I., et al.
+(2015). Homozygous Missense Variant in the Human CNGA3 Channel CausesCone-Rod Dystrophy. Eur. J. Hum. Genet. 23, 473 –480. doi:10.1038/ejhg.
+2014.136
+Singh, H. P., Jalali, S., Hejtmancik, J. F., and Kannabiran, C. (2006). Homozygous
+Null Mutations in the ABCA4 Gene in Two Families with Autosomal RecessiveRetinal Dystrophy. Am. J. Ophthalmol. 141, 906 –913. doi:10.1016/j.ajo.2005.
+12.009
+Singh, H. P., Jalali, S., Narayanan, R., and Kannabiran, C. (2009). Genetic Analysis
+of Indian Families with Autosomal Recessive Retinitis Pigmentosa byHomozygosity Screening. Invest. Ophthalmol. Vis. Sci. 50, 4065 –4071.
+doi:10.1167/iovs.09-3479
+Srikrupa, N. N., Srilekha, S., Sen, P., Arokiasamy, T., Meenakshi, S., Bhende, M.,
+et al. (2018). Genetic Pro ﬁle and Mutation Spectrum of Leber Congenital
+Amaurosis in a Larger Indian Cohort Using High Throughput Targeted Re-sequencing. Clin. Genet. 93, 329 –339. doi:10.1111/cge.13159
+Srilekha, S., Arokiasamy, T., Srikrupa, N. N., Umashankar, V., Meenakshi, S., Sen,
+P., et al. (2015). Homozygosity Mapping in Leber Congenital Amaurosis andAutosomal Recessive Retinitis Pigmentosa in South Indian Families. PLoS One
+10, e0131679. doi:10.1371/journal.pone.0131679
+Sundaramurthy, S., Swaminathan, M., Sen, P., Arokiasamy, T., Deshpande, S.,
+J o h n ,N . ,e ta l .( 2 0 1 6 ) .H o m o z y g o s i t yM a p p i n gG u i d e dN e x tG e n e r a t i o n
+Sequencing to Identify the Causative Genetic Variation in Inherited RetinalDegenerative Diseases. J. Hum. Genet. 61, 951 –958. doi:10.1038/jhg.
+2016.83
+Sundaresan, P., Vijayalakshmi, P., Thompson, S., Ko, A. C., Fingert, J. H., and
+Stone, E. M. (2009). Mutations that Are a Common Cause of Leber CongenitalAmaurosis in Northern America Are Rare in Southern India. Mol. Vis. 15,
+1781 –1787.
+Vithana, E. N., Abu-Sa ﬁeh, L., Pelosini, L., Winchester, E., Hornan, D., Bird, A. C.,
+et al. (2003). Expression of PRPF31mRNA in Patients with AutosomalDominant Retinitis Pigmentosa: A Molecular Clue for IncompletePenetrance? Invest. Ophthalmol. Vis. Sci. 44, 4204
+–4209. doi:10.1167/iovs.03-
+0253
+Woodard, D. R., Xing, C., Ganne, P., Liang, H., Mahindrakar, A., Sankurathri, C.,
+et al. (2021). A Novel Homozygous Missense Mutation p.P388S in TULP1
+Causes Protein Instability and Retinitis Pigmentosa. Mol. Vis. 27, 179 –190.
+Zafar, S., Ahmad, K., Ali, A., and Baig, R. (2017). Retinitis Pigmentosa Genes
+Implicated in South Asian Populations: a Systematic Review. J. Pak. Med. Assoc.
+67 (11), 1734 –1739.
+Zhang, Q., Zul ﬁqar, F., Riazuddin, S. A., Xiao, X., Yasmeen, A., Rogan, P. K., et al.
+(2005). A Variant Form of Oguchi Disease Mapped to 13q34 Associated withPartial Deletion of GRK1 Gene. Mol. Vis. 11, 977 –985.
+Zhang, Q., Zul ﬁqar, F., Xiao, X., Amer Riazuddin, S., Ayyagari, R., Sabar, F., et al.
+(2005). Severe Autosomal Recessive Retinitis Pigmentosa Maps toChromosome 1p13.3-p21.2 between D1S2896 and D1S457 but outsideABCA4. Hum. Genet. 118, 356 –365. doi:10.1007/s00439-005-0054-4
+Zhou, Y., Li, S., Huang, L., Yang, Y., Zhang, L., Yang, M., et al. (2018). A Splicing
+Mutation in Aryl Hydrocarbon Receptor Associated with Retinitis Pigmentosa.Hum. Mol. Genet. 27, 2563 –2572. doi:10.1093/hmg/ddy165
+Zhou, Y., Saikia, B. B., Jiang, Z., Zhu, X., Liu, Y., Huang, L., et al. (2015). Whole-
+exome Sequencing Reveals a Novel Frameshift Mutation in the FAM161A Gene
+Causing Autosomal Recessive Retinitis Pigmentosa in the Indian Population.
+J. Hum. Genet. 60, 625 –630. doi:10.1038/jhg.2015.92
+Conﬂict of Interest: The authors declare that the research was conducted in the
+absence of any commercial or ﬁnancial relationships that could be construed as a
+potential con ﬂict of interest.
+Publisher ’s Note: All claims expressed in this article are solely those of the authors
+and do not necessarily represent those of their af ﬁliated organizations, or those of
+the publisher, the editors and the reviewers. Any product that may be evaluated inthis article, or claim that may be made by its manufacturer, is not guaranteed orendorsed by the publisher.
+Copyright © 2022 Kannabiran, Parameswarappa and Jalali. This is an open-access
+article distributed under the terms of the Creative Commons Attribution License (CCBY). The use, distribution or reproduction in other forums is permitted, provided theoriginal author(s) and the copyright owner(s) are credited and that the originalpublication in this journal is cited, in accordance with accepted academic practice.
+No use, distribution or reproduction is permitted which does not comply with
+these terms.
+Frontiers in Genetics | www.frontiersin.org February 2022 | Volume 13 | Article 858556 8Kannabiran et al. Inherited Retinal Diseases in Understudied Populations

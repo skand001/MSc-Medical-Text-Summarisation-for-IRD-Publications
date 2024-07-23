@@ -1,0 +1,1280 @@
+Immune regulation in the aging retina
+Mei Chen1, Chang Luo1,2, Jiawu Zhao1, Gayathri Devarajan3, and Heping Xu1,2,*
+1Centre for Experimental Medicine, School of Medicine, Dentistry & Biomedical Sciences, 
+Queen’s University Belfast, UK
+2Aier Eye Institute, Aier School of Ophthalmology, Central South University of China
+3Infection and Immunity, School of Medicine, University of Aberdeen, UK
+Abstract
+The retina is an immune privileged tissue, which is protected from external and internal insults by 
+its blood-retinal barriers and immune suppressive microenvironment. Apart from the avoidance 
+and tolerance strategies, the retina is also protected by its own defense system, i.e., microglia and 
+the complement system. The immune privilege and defense mechanisms work together to maintain 
+retinal homeostasis. During aging, the retina is at an increased risk of developing various 
+degenerative diseases such as age-related macular degeneration, diabetic retinopathy, and 
+glaucomatous retinopathy. Previously, we have shown that aging induces a para-inflammatory 
+response in the retina. In this review, we explore the impact of aging on retinal immune regulation 
+and the connection between homeostatic control of retinal immune privilege and para-
+inflammation under aging conditions and present a view that may explain why aging puts the 
+retina at risk of developing degenerative diseases.
+Keywords
+retinal degeneration; inflammation; blood retina barrier; microglia; complement; aging
+1 Introduction
+Avoidance , tolerance  and resistance  are strategies utilized by the host to protect it from 
+external and internal insults. Avoidance reduces the risk of exposure to danger (or 
+pathogens). Resistance reduces damage caused by pathogens, and tolerance reduces the 
+negative impact of the pathogen on host fitness without directly affecting the pathogen 
+burden ( Medzhitov et al., 2012 ). Resistance is active defense, whereas avoidance and 
+tolerance can be viewed as passive defense (although, immunological tolerance to specific 
+antigens is often achieved through an active mechanism). Homeostasis and functionality are 
+maintained at the tissue level also by these defense strategies. The retina, for example, 
+avoids pathogens and systemic inflammatory disturbance by insulating itself from the rest 
+*Corresponding to: Heping Xu, Centre for Experimental Medicine, School of Medicine, Dentistry & Biomedical Sciences, Queen’s 
+University Belfast, 97 Lisburn Road, Belfast, BT9 7BL, UK. heping.xu@qub.ac.uk.
+Authors contributions:
+Percentage of work contributed by each author in the production of the manuscript is as follows: Mei Chen: 28%, Chang Luo: 4%, 
+Jiawu Zhao: 4%, Gayathri Devarajan: 4%, Heping Xu: 60%Europe PMC Funders Group
+Author Manuscript
+Prog Retin Eye Res . Author manuscript; available in PMC 2019 September 01.
+Published in final edited form as:
+Prog Retin Eye Res . 2019 March ; 69: 159–172. doi:10.1016/j.preteyeres.2018.10.003.
+ Europe PMC Funders Author Manuscripts
+  Europe PMC Funders Author Manuscriptspart of the body using physical barriers, i.e., the blood retina barriers (BRBs). Its tolerance 
+strategy is to utilize specialized mechanisms to suppress inflammation and subsequent 
+immunopathology. Avoidance and tolerance together warrant the immune privilege status of 
+the retina. The resistance mechanism is operational when pathogens breach the BRBs, or 
+when danger molecules arise within the retina. Subsequently, pathogenic burden is reduced, 
+and danger molecules are eliminated so homeostasis can be maintained. Resistance is 
+attained by retinal microglia and the complement system when threats are mild and transient 
+(para-inflammation) ( Xu et al., 2009 ). Infiltrating immune cells further support the retina 
+when threat is over the threshold ( Chen and Xu, 2015 ).
+The average lifespan of human beings has increased dramatically with the improvement of 
+our health care and modernization of our society. Prevalence of age-related diseases, 
+including age-related visual loss has radically increased. Aging is believed to be an 
+important risk factor in the development of degenerative and angiogenic diseases, such as 
+age-related macular degeneration (AMD), diabetic retinopathy (DR) and glaucomatous 
+retinopathy, although, the etiology is yet to be elucidated ( Ardeljan and Chan, 2013 , Luu and 
+Palczewski, 2018 ). All the age-related retinal diseases have two features in common, the 
+disruption of retinal homeostasis and low-grade chronic inflammation (para-inflammation). 
+Previously, we discussed retinal para-inflammation in the aging eye ( Xu et al., 2009 ), which 
+represents the resistance strategy of the neuroretina against age-mediated endogenous 
+insults. In this article we discuss retinal immune regulation under aging conditions, with a 
+particular focus on retinal avoidance and tolerance strategies, and explore how aging puts the 
+retina at risk of developing various degenerative diseases.
+2 Retinal immune privilege
+A fine structure of retinal neurons is essential for visual function. This structural requirement 
+for function makes the retina extremely vulnerable to internal and external insults. In 
+addition, the retina has a poor renewal and repair capacity, alongside a low functional 
+autonomy. As a result, the consequences of even minor damage to the retina can be 
+devastating. Nature has developed specialized avoidance and tolerance strategies to 
+minimize and prevent retinal disturbance, e.g., retinal immune privilege ( Forrester and Xu, 
+2012 , Gregerson, 1998 , Streilein et al., 2002 ). Retinal cells (such as neurons) are privileged 
+from systemic immune surveillance. Intraocular compartments, such as the anterior 
+chamber, vitreous cavity and the subretinal space, are immune privileged sites. When foreign 
+antigens are exposed to these compartments they induce tolerance instead of immune 
+rejection ( Ferguson and Griffith, 1997 , Streilein, 1995 ). The mechanism that maintains 
+retinal immune privilege can be viewed as layered protections ( Caspi, 2006 ). BRBs provide 
+the first layer of protection to the retina. Once the barrier is breached, retinal cells operate 
+the second layer of protection by suppressing the local inflammatory response to reduce 
+immunopathology. In conjunction, the antigenic signals from pathogens in the intraocular 
+compartments are sent to the systemic immune system, and an antigen-specific tolerance or 
+a suppressive immune response is induced, which offers the third layer of protection.Chen et al. Page 2
+Prog Retin Eye Res . Author manuscript; available in PMC 2019 September 01.
+ Europe PMC Funders Author Manuscripts
+  Europe PMC Funders Author Manuscripts2.1 The blood-retinal barrier
+The retinal-immune barrier consists of three components. (1) Inner blood-retina barrier 
+(iBRB); formed by tight junctions between retinal vascular endothelial cells. (2) Outer 
+blood-retinal barrier (oBRB); formed by tight junctions between retinal pigment epithelial 
+(RPE) cells. (3) Blood-aqueous barrier; formed by tight junctions in the non-pigmented 
+epithelial layer of the ciliary body and the endothelium of the iris vasculature. These barriers 
+insulate the retina from exogenous pathogens, segregate the tissue from the systemic 
+immune system and avoid immune surveillance. A functional iBRB is maintained by the 
+neurovascular unit (NVU) ( Metea and Newman, 2007 ), which consists of vascular 
+endothelial cells, pericytes, glial cells, and neurons ( Muoio et al., 2014 ).
+2.2 Retinal immune suppression
+When pathogens break through the BRBs, the second layer of protection is triggered. The 
+retina employs a strategy to reduce the immune response which minimizes 
+immunopathology. This includes the induction of retinal cell tolerance to invading pathogens 
+and suppression of immune cell activation. For example, opportunistic pathogens can persist 
+as latent infections (although they can be reactivated, particularly in immunocompromised 
+individuals). Retinal immune suppression is achieved by various neuro-immune regulatory 
+proteins. These proteins control microglial or macrophage activation (e.g., via the CX3CL1, 
+CD200, CD47, and endocannabinoids pathways), T cell activation (e.g., via 
+thrombospondin-1, TGF- β, CTLA4, CTLA2, etc.) ( Horie et al., 2010 , Kawazoe et al., 2012 , 
+Mochizuki et al., 2013 , Sugita et al., 2008 , Sugita et al., 2009 , Zamiri et al., 2005 ), or 
+complement activation (via expression of various complement regulators such as CFH, 
+CD46, CD55, CD59, etc.), and induction of immune cell death (e.g., via the Fas ligand 
+(FasL) and Tumor Necrosis Factor-related apoptosis-inducing ligand (TRAIL)) ( Ferguson 
+and Griffith, 1997 , Ferguson and Griffith, 2007 , Kazama et al., 2008 ). Mechanisms related 
+to regulation of effector cells (i.e., immune cells and RPE cells) have been the main focus 
+when researching the second layer of protection. Whether or not the retina can also control 
+pathogens, for example, by restricting or reducing their toxic effects remains unknown.
+2.3 Intraocular antigen-induced systemic regulation
+When antigens are inoculated into the anterior chamber, vitreous cavity or subretinal space, 
+they can induce antigen-specific systemic immune suppression. Ocular F4/80+ macrophages 
+and intraocular levels of TGF β2 are crucial for the generation of antigen-specific, immune 
+suppressive T or B cells ( Egan et al., 1996 , Streilein, 1999 ). Anterior chamber-induced 
+immune deviation (ACAID) ( Streilein, 1995 ), vitreous cavity-induced immune deviation 
+(VCAID) and subretinal space-induced immune deviation ( Jiang et al., 1993 , Wenkel et al., 
+1999 ) are examples of the third layer of protection. This is important when the first and 
+second layers of protection fail, and antigens enter the intraocular compartment, for 
+example, in ocular injury. A controlled immune response to the invading antigen will 
+minimize immunopathology and may offer protection to foreign materials or proteins 
+inoculated into the eye through intraocular drug deliver or by gene therapy.
+Although multiple types of cells are involved in the layered protection of the neuronal retina 
+(Caspi, 2006 ), this review discusses predominately the role of microglia and the complement Chen et al. Page 3
+Prog Retin Eye Res . Author manuscript; available in PMC 2019 September 01.
+ Europe PMC Funders Author Manuscripts
+  Europe PMC Funders Author Manuscriptssystem in retinal immune regulation under aging conditions. The discussion on Muller glia, 
+astrocytes and endothelial cells is rather limited.
+3 The impact of age on retinal immune privilege
+3.1 Age-related changes in retinal barriers
+A functional iBRB is maintained by the NVU ( Metea and Newman, 2007 ). Senescence of 
+NVU-related cells may affect the integrity and function of the iBRB. An age-related 
+reduction in the number of astrocytes has been observed in the rat retina ( Mansour et al., 
+2008 ). Müller cells from aging eyes contain a great abundance of oxidized lipid (4-
+hydroxy-2-nonenal) ( Nag et al., 2011 ). Endothelial loss and cellular senescence of neurons 
+have been reported in the aging human retina ( Lopez-Luppo et al., 2017 ). Importantly, a 
+progressive structural and functional deterioration of the NVU has been observed in the 
+aging rat retina. This is characterized by thickening of the basement membrane, altered 
+length and orientation of desmin filaments of pericytes, widespread alpha-smooth muscle 
+actin (α-SMA) distribution ( Hughes et al., 2006 ), followed by capillary loss, aneurysms, and 
+distorted, leaky vessels ( Chan-Ling et al., 2007 , Hughes et al., 2006 ). Despite the structural 
+and functional deterioration of the iBRB, T or B cells were not detected in the normal aging 
+retina (Figure 1). Aged retinas present with mild microglial activation and complement 
+activation ( Chen et al., 2010 , Xu et al., 2009 ), which may result from age-related oxidative 
+damage or leakage of plasma proteins from the iBRB.
+Previously, we have shown that RPE cells undergo significant morphological changes where 
+they increase in size and become multinucleated during aging ( Chen et al., 2016 ). If the 
+enlarged cell fails to multinucleate it may collapse ( Chen et al., 2016 ). When triple-staining 
+of RPE flatmounts for F-actin, ZO-1 and claudin-1, we observed localized loss of ZO-1 but 
+not claudin-1 and F-actin in RPE cells of aged mice (Figure 2A), suggesting tight junction 
+disruption in the oBRB.
+Previously, we and others reported an age-dependent accumulation of subretinal phagocytes 
+(Combadiere et al., 2007 , Xu et al., 2008 ), which may result from the low-levels of RPE 
+damage. Recent evidence suggests that a proportion of subretinal Iba-1+ cells are recruited 
+from circulation ( Hu et al., 2015 , Sennlaub et al., 2013 ). Interestingly, CD3+ T cells (Figure 
+2B) were not detected in RPE flatmounts from mice between 16-24 months old. Isolectin-B4 
+labels active microglia ( Chen et al., 2010 , Chen et al., 2013 ) and a proportion of Iba-1+ cells 
+are Isolectin-B4+ (Figure 2C), suggesting the heterogeneous activation of subretinal 
+phagocytes.
+Structural alterations of the BRB suggest failure of the avoidance strategy, whereas 
+microglial activation and macrophage infiltration are an indication of active resistance in the 
+aging eye. Surprisingly, there is no retinal oedema or infiltration T or B lymphocytes in the 
+aging retina. A possible explanation is that BRB breakdown in the normal aging eye is 
+localized and transient, and the infiltrating T or B cells or leaking fluids are rapidly removed 
+from the neuronal retina. An age-dependent increase of the potassium channel (Kir4.1) and 
+water channel (aquaporin 4) has been observed in brain glial cells (astrocytes) ( Gupta and 
+Prasad, 2013 ). Whether they are also upregulated in the aging retina remains elusive. It is Chen et al. Page 4
+Prog Retin Eye Res . Author manuscript; available in PMC 2019 September 01.
+ Europe PMC Funders Author Manuscripts
+  Europe PMC Funders Author Manuscriptsalso possible that disrupting the barrier solely may not be sufficient to cause retinal oedema 
+or detectable levels of lymphocyte infiltration. Additional signals such as VEGF from an 
+ischemic retina or chemokines from an inflamed retina would be required. High levels of 
+inflammatory cytokines or retinal specific T cells/antibodies in the circulation may penetrate 
+the barrier and cause retinal inflammation and oedema. Such pathologies are seen in 
+experimental endotoxin induced uveoretinitis ( Rosenbaum et al., 1980 ) and retinal peptide 
+immunization induced experimental autoimmune uveoretinitis (EAU) ( Caspi et al., 1986 , 
+Chan et al., 1985 , Mochizuki et al., 1985 ). Patients with geographic atrophy do not exhibit 
+significant immune cell infiltration or macular oedema, despite the complete loss of the 
+oBRB at the lesion site. Within the atrophic area, photoreceptors are degenerated, and 
+oxygen consumption is reduced. Therefore, the macula unlikely suffers from ischemia and 
+will not send signals to vascular endothelial cells to induce leakage and macular oedema.
+3.2 The impact of age on retinal immune regulation
+Retinal cells possess immune regulatory properties which act as the second layer of retinal 
+protection ( Caspi, 2006 ) and can also be viewed as a tolerance strategy to maintain 
+homeostasis. During aging, retinal cells are subjected to increasing levels of oxidative stress, 
+which affects their neuronal functions and immune regulatory properties. Under normal 
+physiological conditions, neurons keep retinal microglia and the complement system under 
+control by producing various membrane and soluble forms of inhibitory molecules. When 
+circulating immune cells infiltrate the retina, these molecules can either induce the death of 
+the immune cells or convert them into immunosuppressive cells to reduce immunopathology.
+Microglia reside in the inner part of the neuronal retina, including the ganglion layer and the 
+inner and outer plexiform layers ( Chen and Xu, 2015 , Karlstetter et al., 2015 ). Microglia are 
+activated upon engagement with pathogens or damage-associated molecular patterns 
+(DAMPs) through various pathogen recognition receptors (PRRs), such as the Toll-like 
+receptors (TLRs) and Nod-like receptors (NLRs) ( Lehnardt et al., 2006 , Provis et al., 1995 ). 
+In particular, the Triggering Receptor Expressed on Myeloid cells 2 (TREM2) and DNAX 
+activation protein 12 (DAP12) signaling is essential for CNS homeostasis ( Colonna, 2003 , 
+Painter et al., 2015 ). Activation of TREM2-DAP12 initiates signal transduction pathways 
+that promote microglial activation and phagocytosis.
+Microglial activation is regulated by various signals from retinal neurons, such as the 
+chemokine CX3CL1 (fractalkine) ( A. E. Cardona et al., 2006 , Mizuno et al., 2003 , Raoul, 
+Keller et al., 2008 ), TGF- β (Paglinawan et al., 2003 ), endocannabinoids ( Battista et al., 
+2006 , Hernangomez et al., 2014 , Mecha et al., 2016 ), and nerve growth factor ( De Simone et 
+al., 2007 ). Additionally, various cell surface molecules expressed by neurons also play an 
+important role in controlling microglial activation by direct neuron–microglia interaction. 
+Examples of these regulatory signals include the CD200/CD200R ( Dick et al., 2003 , 
+Hernangomez et al., 2014 ) and CD47-SIRP ( Zhang et al., 2015 ) pathways and other 
+complex formations of triggering receptors expressed on myeloid cells and ligands on 
+neurons (Figure 7A).Chen et al. Page 5
+Prog Retin Eye Res . Author manuscript; available in PMC 2019 September 01.
+ Europe PMC Funders Author Manuscripts
+  Europe PMC Funders Author Manuscripts3.2.1 The TREM2-DAP12 pathway in the aging retina— TREM2 can recognize and 
+bind to various ligands including dead cells and exogenous pathogens. The primary role of 
+the TREM2-DAP12 complex is mediated through the Immunoreceptor Tyrosine-based 
+Activation Motifs (ITAM) of DAP12 ( Mecca et al., 2018 ). TREM2 is a key negative 
+regulator of autoimmunity and plays an important role in the inhibition of IL6 and TNF α. 
+TREM2 is also responsible for DAP12-induced inhibition of the inflammatory response 
+driven by TLR agonists ( Helming et al., 2008 , Turnbull et al., 2006 ). TREM2-DAP12 
+signaling is required to sustain the trophic function of microglia in the aging brain ( Poliani et 
+al., 2015 ). Furthermore, it plays a positive role in phagocytosis of dead neurons and is 
+critically involved in CNS homeostasis ( Piccio et al., 2007 ). TREM2 is a marker for recently 
+identified Disease Associated Microglia (DAM). DAM also express CD11c and CFSR, and 
+have reduced expression of CX3CR1 ( Keren-Shaul et al., 2017 ). DAM are only detected in 
+the diseased CNS, particularly around the lesion, where they phagocytize debris and protein 
+aggregates ( Keren-Shaul et al., 2017 ). TREM2 is essential for the transition of resting 
+microglia into active DAM ( Keren-Shaul et al., 2017 , Yeh et al., 2017 ).
+Exactly how aging impacts the TREM2-DAP12 signaling in the retina remains elusive. 
+Expression levels of TREM2 in microglia from the CNS are reduced in aged mice ( Hickman 
+and El Khoury, 2014 , Mecca et al., 2018 ). Since this signaling pathway is required for 
+microglial proliferation and survival ( Poliani et al., 2015 ), it is possible that a progressive 
+decline in TREM2 expression might impair the microglial response to damaged neurons. 
+Interestingly, retinal aging is accompanied by an increased number and density of microglia 
+(Chen et al., 2013 , Li et al., 2015 ). Further investigation into the dynamic change of TREM2 
+expression in the aging retina will help reveal its role in retinal immune regulation.
+3.2.2 The CX3CL1-CX3CR1 pathway in the aging retina— In the CNS, including 
+the neuronal retina, CX3CR1 is expressed by microglia and CX3CL1 by neurons as a 
+transmembrane protein ( Harrison et al., 1998 , Ludwig and Mentlein, 2008 ). The membrane 
+form of CX3CL1 in neurons function predominately as an integrin-type adhesion molecule 
+that can initiate signaling transduction, rather than a chemokine. The CX3CL1-CX3CR1 
+axis mediated neuron-microglia interaction plays an important role in modulating 
+physiological activities of the brain during development, adulthood and aging. CX3CL1-
+CX3CR1 signaling is known to be involved in synaptic pruning, promoting survival of 
+neurons and neural precursors, modulating synaptic transmission and plasticity. When 
+neuronal damage occurs, microglia rapidly react to protect or eliminate dead neurons. The 
+rescue process may be mediated by the production of soluble factors essential for neuron 
+survival, modulation of phagocytic activity or an indirect effect upon other cells in the retinal 
+parenchyma.
+The CX3CL1-CX3CR1 axis also controls microglial activation. Early in vitro studies 
+demonstrated that CX3CL1 could block LPS- and IFN γ-induced release of cytokines 
+(interleukin-1 β (IL-1β), TNFα, 8-isoprostane, nitric oxide (NO) and IL-6) in cultured 
+microglia ( Mizuno et al., 2003 , Zujovic et al., 2000 ). Under diabetic conditions, deletion of 
+CX3CR1 resulted in significantly higher levels of IL-1 β and VEGF expression along with 
+increased retinal microglial activation ( Cardona et al., 2015 ). CX3CR1 deficient mice 
+present an exaggerated microglial response to paraquat-mediated retinal damage with Chen et al. Page 6
+Prog Retin Eye Res . Author manuscript; available in PMC 2019 September 01.
+ Europe PMC Funders Author Manuscripts
+  Europe PMC Funders Author Manuscriptsexcessive expression of inflammatory cytokines (TNF α, iNOS, IL-1 β, CCL2) ( Chen, Luo et 
+al., 2013 ). Mononuclear phagocytes from CX3CR1 deficient mice express higher levels of 
+P2X7 which stimulate IL-1 β maturation, secretion and photoreceptor degeneration ( Hu et 
+al., 2015 ).
+During aging, the expression level of CX3CL1 is reduced, which is accompanied by 
+increased microglial activation ( Mecca et al., 2018 ). Aged CX3CR1 KO mice present with 
+photoreceptor degeneration and uncontrolled microglial activation and subretinal 
+accumulation ( Combadiere et al., 2007 ). Mononuclear cells with CX3CR1 deficiency 
+express higher levels of CCL2 which leads to excessive recruitment and accumulation of 
+neurotoxic subretinal macrophages. This process is known to be related to the development 
+of age-related photoreceptor degeneration in mice ( Sennlaub et al., 2013 ). Reduced levels or 
+loss of CX3CR1 signaling in the aging retina may confer the neurotoxic phenotype of 
+microglia, which may put the retina at risk of developing degenerative diseases.
+3.2.3 CD200-CD200R pathway in the aging retina— CD200 is a 41-47 kDa protein 
+belonging to the immunoglobulin (Ig) supergene family ( Barclay et al., 2002 , Wright et al., 
+2001 ). CD200 is expressed throughout the retinal layers and its expression increases during 
+inflammation, in both human and rat ( Dick et al., 2001 ). CD200 is also constitutively 
+expressed in the normal mouse retina, with high levels in the ganglion layer (GL) (Figure 
+3A). CD200R is detected at low levels in the ciliary body and inner retina, with a marked 
+increase in EAU ( Dick et al., 2001 ). Low levels of CD200R were also detected in the mouse 
+retina (Figure 3B). Interestingly, RPE cells (Arrows in Figure 3B) and corneal epithelial 
+cells also express CD200R (data not shown), suggesting that this pathway may also regulate 
+epithelial activation. In the CNS and retina, the CD200-CD200R interaction is 
+neuroprotective under inflammatory conditions ( Hoek et al., 2000 , Wright et al., 2000 ). 
+Deletion of CD200 results in myeloid cell and microglial dysregulation and enhanced 
+susceptibility to an autoimmune response ( Hoek et al., 2000 ). Blocking the CD200-CD200R 
+signaling pathway aggravates inflammation in EAU ( Banerjee and Dick, 2004 , Broderick et 
+al., 2002 ), whereas augmentation of the CD200R signaling suppresses inflammation and 
+reduces tissue damage ( Copland et al., 2007 ).
+We have found that the mRNA expression of CD200 was significantly reduced in the aging 
+(22 months) retina compared with that in the young (3 months) retina (Figure 3C). Retinal 
+CD200R expression, however, did not change with age (Figure 3D). Previous work has 
+reported an age-mediated reduction in CD200 mRNA expression in the hippocampus of rats 
+(Frank et al., 2006 ). Reduction in CD200 expression may weaken the inhibitory signal 
+leading to increased microglial activation in the aging retina. Interestingly, CD200 
+expression in circulating CD11b monocytes of patients with neovascular age-related macular 
+degeneration (nAMD) was reported to be increased compared to that in age-matched healthy 
+controls ( Singh et al., 2013 ). The biological significance of this observation in AMD 
+pathogenesis remains elusive.
+3.2.4 CD47-SIRP (CD172) pathway in the aging retina— CD47 and the signal 
+regulatory protein (SIRP, also known as CD172) is another neuron-microglia ligand-receptor 
+pathway that controls microglial response. CD47 is expressed by neurons, astrocytes, Chen et al. Page 7
+Prog Retin Eye Res . Author manuscript; available in PMC 2019 September 01.
+ Europe PMC Funders Author Manuscripts
+  Europe PMC Funders Author Manuscriptsendothelial cells and various immune cells. SIRP (CD172) is expressed predominately by 
+myeloid-derived cells and microglia in the CNS ( Barclay and Brown, 2006 , Brown and 
+Frazier, 2001 ). In the normal mouse retina, CD47 expression was found in the GL, inner 
+plexiform layer (IPL) and outer plexiform layer (OPL) (Figure 3E). SIRP was diffusively 
+expressed at low levels in the IPL, INL and OPL, although, high levels of expression were 
+observed in some cells in the INL (arrowheads in Figure 3F). The SIRP family consists of 
+SIRPα, SIRPβ, and SIRP γ as well as some other closely related proteins. In the brain, 
+CD47 and SIRP can be co-expressed in the same cells and their interaction might mediate 
+intracellular signaling in a bidirectional manner ( Zhang et al., 2015 ). CD47-SIRP interaction 
+recruits the tyrosine phosphatases SHP-1 and SHP-2 leading to inhibition of phagocytosis 
+and synthesis of the anti-inflammatory cytokine TGF- β (Nimmerjahn et al., 2005 ). 
+Surprisingly, despite the importance of the CD47-SIRP pathway in regulating CNS 
+homeostasis and inflammation, little is known about their role in the CNS/retinal aging and 
+age-related diseases. Using real-time RT-PCR, we did not observe any significant difference 
+in the mRNA expression levels of CD47 (Figure 3G) and SIRP (Figure 3H) between young 
+(3-months) and old (22-month) retinas.
+Apart from SIRP, CD47 in immune cells partners with integrins such as CD11b and binds 
+TSP-1, a secreted glycoprotein that plays an important role in inflammation and 
+angiogenesis. The CD47/TSP-1 interaction is known to induce the death of active T cells 
+and suppress inflammation ( Barclay and Van den Berg, 2014 , Pettersen, 2000 , Sarfati et al., 
+2008 ). A recent study has shown that the CD47/TSP-1 signaling pathway is important for 
+the elimination of subretinal mononuclear phagocytes in the aging eye ( Calippe et al., 2017 ). 
+Disruption of the pathway, for example, by CFH/CD11b-mediated interaction, inhibits 
+subretinal phagocyte elimination, which leads to retinal degeneration ( Calippe et al., 2017 ). 
+Further studies are required to understand the role of the CD47/SIRP/TSP-1 pathway in 
+retinal aging and age-related retinal diseases.
+3.2.5 The endocannabinoid system in the aging retina— Anandamide 
+(arachidonoyl-ethanolamide, AEA) and 2-arachidonoyl-glycerol (2-AG) (both are 
+endocannabinoids), cannabinoid receptors 1 and 2 (CB1 and CB2 receptors), as well as the 
+enzymes that control endocannabinoids synthesis or degradation (FAAH, MGL, and COX2) 
+have been detected in the retina, suggesting existence of the endocannabinoid system 
+(Schwitzer et al., 2016 , Yazulla, 2008 ). CB1 receptor is expressed in retinal neurons, Müller 
+cells, and microglia ( Straiker et al., 1999 ), whereas, the CB2 receptor is believed to be 
+expressed predominately by microglia in the CNS ( Lopez et al., 2011 ) and RPE cells in the 
+retina ( Wei et al., 2009 ). Activation of the CB1 and CB2 receptors in microglia induces an 
+alternative activation phenotype (M2), which reduces inflammation ( Mecha et al., 2016 ). 
+Activation of the CB2 receptor using a selective agonist (JWH-133) can suppress retinal 
+inflammation in the mouse model of EAU through down-regulating TLR4/MyD88 
+expression ( Xu, Cheng et al., 2007 ). In addition, the endocannabinoids or synthetic 
+cannabinoids can alleviate the proinflammatory response in Müller cells ( Krishnan and 
+Chatterjee, 2012 , Matias et al., 2006 ). The endocannabinoids-CB1/2 pathway is believed to 
+be an important immune regulatory mechanism which controls inflammation in the CNS and 
+the retina.Chen et al. Page 8
+Prog Retin Eye Res . Author manuscript; available in PMC 2019 September 01.
+ Europe PMC Funders Author Manuscripts
+  Europe PMC Funders Author ManuscriptsPrevious studies have shown that the expression of CB1/CB2 receptors ( Pascual, Gaveglio et 
+al., 2014 ), the levels of bioavailable 2-AG and the enzyme activity of fatty acid amide 
+hydrolase (FAAH) are reduced in the aging brain ( Pascual et al., 2013 , Pascual, Martin-
+Moreno et al., 2014 ). We have found that levels of 2-AG and AEA are increased with age in 
+normal WT mouse retinas (Figure 4A, 4B). CCL2 KO mice have a significantly higher level 
+of 2-AG at a younger age (3-month, Figure 4C), which decreases with age (Figure 4C). AEA 
+levels in the CCL2 KO mouse retina, however, was significantly lower at 3- and 18-month of 
+age compared with age-controlled WT mice (Figure 4D). Previously, we have shown that 
+CCL2 KO mice age-dependently develop retinal degeneration, which is accompanied by 
+increased microglial and complement activation ( Chen et al., 2011 ). Dysregulated 
+endocannabinoid expression may be related to uncontrolled microglial activation in CCL2 
+KO mice. High levels of AEA have been previously reported in the retina, ciliary body and 
+choroid of eyes donated by patients with diabetic retinopathy ( Matias et al., 2006 ). 
+Interestingly, 2-AG was only increased in the iris of the DR eyes ( Matias et al., 2006 ). High 
+levels of AEA were also observed in the choroid of AMD eyes compared with controls, 
+while the expression of 2-AG did not significantly change ( Matias et al., 2006 ). However, 
+the study did not consider age and other medical conditions of the donors, and the results 
+should be interpreted with caution. Nevertheless, the endocannabinoid system is critically 
+involved in retinal immune regulation, although, their role in age-mediated retinal para-
+inflammation and their contribution to age-related retinal degeneration requires further 
+investigation.
+3.2.6 The impact of age on RPE immune regulation— RPE cells maintain immune 
+privilege status of the subretinal space by segregating the retina from choroidal circulation 
+(through oBRB) and actively inhibiting immune activation (through expression of surface 
+ligands and soluble molecules) ( Kaestel et al., 2005 , Zamiri et al., 2006 , Zamiri et al., 2007 ). 
+RPE-derived inhibitory cues can induce the death of active immune cells or convert them 
+into immunosuppressive or regulatory cells ( Kaestel et al., 2005 , Mochizuki et al., 2013 ).
+During aging, RPE cells undergo significant morphological and functional changes. RPE 
+cell number declines ( Friedman and Ts'o, 1968 , Gao and Hollyfield, 1992 ) and their size 
+increase ( Chen et al., 2016 ), with many cells becoming binucleated or multinucleated ( Chen 
+et al., 2016 , Friedman and Ts'o, 1968 ). Their phagocytic and lysosomal activities also 
+decrease with age ( Wang et al., 2009 ), although the impact of age on their immune 
+regulatory functions remains is unknown. Normal healthy RPE cells can upregulate the 
+expression of IL-1 β, IL-6, arginase-1 and pentraxin 3 (PTX3) (Figure 5A, 5B), and down-
+regulate the expression of TNF α and IL-12 in macrophages (Figure 5A). Complement 
+inhibitor C1INH expression in macrophages can also be significantly upregulated by RPE 
+(Luo et al., 2018 ). Importantly, the ability of macrophages to phagocytose apoptotic T cells 
+is significantly increased after co-culturing with RPE cells (Figure 6A-C, E). The results 
+suggest that under normal physiological conditions, RPE cells are able to modulate 
+macrophage phenotype and function and promote their ability to remove debris.
+When RPE cells were pre-treated with oxidized photoreceptor outer segments (oxPOS), they 
+became multinucleated ( Chen et al., 2016 , Rajapakse et al., 2017 ) and acquired a senescent 
+phenotype. This was evident by the upregulation of senescence-associated genes (Apo J, Chen et al. Page 9
+Prog Retin Eye Res . Author manuscript; available in PMC 2019 September 01.
+ Europe PMC Funders Author Manuscripts
+  Europe PMC Funders Author Manuscriptsfibronectin, SM22, and osteonectin) ( Lueck et al., 2012 ) and β-galactosidase expression 
+(Luo et al., 2018 ). The oxPOS-induced senescent RPE cells expressed higher levels of 
+inflammatory mediators such as complement factor B (CFB) ( Chen et al., 2008 ), IL-1β, 
+IL-6, IL-8, CCL2 ( Higgins et al., 2003 ) and VEGF ( Lueck et al., 2012 ). Our recent study 
+suggests that oxPOS induces expression of the cell cycle inhibitor P27Kip1 in RPE cells 
+(Rajapakse et al., 2017 ), which may further explain their senescent phenotype. Macrophages 
+co-cultured with the senescent RPE cells expressed higher levels of IL-1 β, and IL-6 (Figure 
+5A), but lower levels of arginase-1 and PTX3 (Figure 5B), compared to macrophages co-
+cultured with normal RPE, indicating a shift towards an inflammatory phenotype. The 
+senescent RPE cells maintain the ability to promote macrophage phagocytic function. 
+Macrophages pre-treated with the senescent RPE phagocytosed the same amount of 
+apoptotic T cells compared to macrophages pre-treated with normal RPE cells (Figure 6C, 
+6D, 6E). Taken together, the results suggest that senescent RPE cells maintain immune 
+regulatory roles, but with reduced ability.
+3.3 The impact of age on retinal immune effectors
+The retinal immune effectors include innate immune cells (e.g., microglia, perivascular 
+macrophages and dendritic cells ( Chen and Xu, 2015 , Forrester et al., 2010 , Xu, Dawson et 
+al., 2007 ) and the complement system ( Xu and Chen, 2016 ). Here we discuss the impact of 
+age on retinal microglia and the complement system due to their recognised roles in age-
+related retinal degenerative and angiogenic diseases. Circulating monocytes may infiltrate 
+the aging retina via the fragile physical barriers (iBRB and oBRB) and differentiate into 
+microglia-like cells which participate in retinal defence. Direct evidence supporting the 
+existence of infiltrating macrophage in the normal aging retina is lacking. Therefore, the 
+topic is not discussed further in this review.
+3.3.1 Altered microglial response in the aging retina
+3.3.1.1 Microglial functional alterations in the aging retina:  Apart from the age-related 
+changes in the regulatory cues from neurons, astrocytes, Müller cells, and RPE cells, retinal 
+microglia also present age-related alterations. Under normal physiological conditions, 
+microglia patrol the surrounding microenvironment using their highly motile dendrites 
+(Figure 7A). The mobility of microglial dendrites reduces with age ( Damani et al., 2011 ). In 
+response to injury, aged microglia migrate to the site of damage slower than young microglia 
+(Damani et al., 2011 , Ma and Wong, 2016 ). After resolving inflammation and damage 
+repair, aged microglia disperse from the damaged site slower than young microglia ( Damani 
+et al., 2011 , Ma and Wong, 2016 ). Aging microglia also appear to have increased immune 
+vigilance ( Deczkowska et al., 2017 ) with dysregulated phagocytic activity ( Grabert et al., 
+2016 , Hickman et al., 2013 ). For example, aged microglia may phagocytize living neurons 
+(Zhao et al., 2015 ) or engage in excessive synaptic pruning through complement component 
+1q (C1q) leading to the damage of synaptic connections ( Lui et al., 2016 , Morrison and 
+Baxter, 2012 ). Aged microglia also display insufficient phagocytic activity towards apoptotic 
+bodies, protein aggregates and myelin, resulting in the gradual accumulation of potentially 
+toxic compounds which is a hallmark of age-related neurodegenerative diseases ( Safaiyan et 
+al., 2016 ). Furthermore, their plasticity to change from a pro-inflammatory to an anti-
+inflammatory phenotype is also reduced with age ( Harry, 2013 ). The underlying mechanism Chen et al. Page 10
+Prog Retin Eye Res . Author manuscript; available in PMC 2019 September 01.
+ Europe PMC Funders Author Manuscripts
+  Europe PMC Funders Author Manuscriptswhich leads to these functional changes in senescent microglia is not fully understood. One 
+explanation could be an intrinsic dysfunction of microglia resulting from age (see below). 
+Accumulation of oxidative insults in the aging brain and retinal microenvironment may 
+increase the workload of microglia, while the changes in retinal metabolism during aging 
+may affect the response of microglia to oxidative insults. Furthermore, the reduced 
+regulatory cues from neurons may also contribute to a dysregulated microglia response in 
+the aging retina (Figure 7B).
+3.3.1.2 Transcriptomic changes in aging microglia:  A recent transcriptomic analysis of 
+human cortical microglia revealed age-related reductions in the expression of genes involved 
+in the actin cytoskeleton system (e.g., TLN1, PFN1 EVL, ARPC1A,  etc.), sensome cell 
+surface receptors (e.g., P2RY12, IL6R, TLR10 ) and adhesion molecules (e.g., ICAM3, 
+ROBO2 ) (Galatro et al., 2017 ). These transcriptional changes may explain the age-related 
+alterations in microglial functions (i.e. phagocytosis, migration, immune response etc.). 
+Moreover, a genome-wide analysis of microglia from mouse brain has reported region-
+specific microglial transcriptional identities and heterogeneous microglial aging in different 
+regions ( Grabert et al., 2016 ). One study showed that aging caused a modest decline in the 
+expression of key signature genes of microglia across all forebrain regions, with a 
+significantly greater reduction in cerebellar microglia ( Grabert et al., 2016 ). The authors 
+suggested that microglial diversity may enable localized homeostatic functions which would 
+underlie region-specific sensitivities to microglial dysregulation and the involvement in age-
+related neurodegeneration ( Grabert et al., 2016 ). Retinal microglia are distributed in 
+different layers (GL, IPL and OPL) ( Chen and Xu, 2015 , Karlstetter et al., 2015 ) and 
+different regions (e.g., macula and periphery) of the retina. Dysregulated microglial 
+activation is known to be involved in all types of age-related retinal degenerative diseases 
+(AMD, DR, glaucomatous retinopathy, retinitis pigmentosa etc.), with each disease affecting 
+different layers/regions of the retina. Whether a regional- or layer-specific microglial aging 
+exists in the retina remains to be clarified.
+3.3.1.3 Age-related metabolic alteration and retinal microglial activation:  Cells 
+metabolize glucose, fatty acids or amino acids to generate ATP and other biomaterials to 
+support cellular function. Immune cell activation is critically controlled by metabolic 
+pathways ( Kelly and O'Neill, 2015 , Pearce et al., 2013 ). For example, quiescent and 
+alternatively activated M2 macrophages and microglia are fueled by mitochondrial oxidative 
+phosphorylation (OXPHOS), whereas proinflammatory M1 macrophages and microglia rely 
+on glycolysis to function ( Kelly and O'Neill, 2015 , Orihuela et al., 2016 , Pearce et al., 2013 ). 
+Although retina consumes high levels of oxygen (per gram tissue compared to other tissues) 
+for function, the oxygen tension, particularly in the outer layers of the retina is extremely 
+low (approximately 5 mmHg) ( Yu and Cringle, 2001 ). With age, retinal oxygen supply 
+further decreases due to reduced permeability of Bruch’s membrane and vascular basal 
+membrane and accumulation of drusen deposits ( Stefansson et al., 2011 ). Thus, the aging 
+retina suffers from low-grade chronic ischemia. It is unclear how age affects the supply of 
+retinal nutrients (e.g. glucose and fatty acids) as the ischemic condition will likely impair 
+mitochondrial respiration. A recent study has shown that glucose and amino acid 
+metabolism is significantly altered in the aging retina ( Wang et al., 2018 ). Oxaloacetate, a Chen et al. Page 11
+Prog Retin Eye Res . Author manuscript; available in PMC 2019 September 01.
+ Europe PMC Funders Author Manuscripts
+  Europe PMC Funders Author Manuscriptscritical metabolite in the TCA cycle and the malate-aspartate shuttle, were significantly 
+reduced. Metabolites from glycolysis and mitochondrial OXPHOS were diminished by a 
+half in old mouse retinas (73 weeks old) as compared with young retinas (6 weeks old), 
+indicating the impairment of glucose utilization ( Wang et al., 2018 ). Microglial activation is 
+likely to be affected by the impaired glycolysis and mitochondrial OXPHOS in the aging 
+retina.
+Macrophages and microglia are specialized in metabolizing fatty acids, an essential function 
+for eliminating cholesterols that they acquire through phagocytosis of dead cells. Cholesterol 
+metabolism and mitochondrial OXPHOS are impaired in aged macrophages ( Lin et al., 
+2018 ), leading to intracellular accumulation of oxidized cholesterols ( Lin et al., 2018 ). 
+Subretinal mononuclear phagocytes in the aging eye contain large amounts of 
+autofluorescent lipofuscins ( Luhmann et al., 2009 , Xu et al., 2008 ), which may result from 
+undigested fatty acids. Free fatty acids (e.g. cholesterol) can bind to and activate several 
+transcription factors, including liver X receptor α and β (LXRα and LXR β), retinoid X 
+receptor (RXR) and members of the peroxisome proliferator-activated receptor (PPAR) 
+family (PPAR α and PPAR γ), resulting in inflammatory gene expression ( Remmerie and 
+Scott, 2018 ). Dysregulated cholesterol metabolism in aged macrophages may underlie their 
+inflammatory phenotype. Further studies will be necessary to understand how microglial 
+activation in the aging retina is regulated by metabolic changes.
+3.3.2 Altered complement response in the aging retina— Previously, we and 
+others have shown that the retina has a complement regulatory system ( Chen and Xu, 2015 , 
+Xu et al., 2009 , Xu and Chen, 2016 ) and retinal cells, in particular microglia and RPE cells 
+can produce various complement proteins and regulators ( Anderson et al., 2010 , Luo et al., 
+2011 ). Under normal physiological conditions, retinal cells express relatively higher levels 
+of complement regulators (e.g., CFH, C1INH, and CD59) and lower levels of complement 
+proteins (e.g. C1q, C3, and CFB) ( Anderson et al., 2010 , Xu et al., 2009 ) (Figure 8A). 
+Complement expression has been shown to increase in the aging retina ( Anderson et al., 
+2010 , Chen et al., 2008 , Xu et al., 2009 ), meaning the complement system may be active in 
+the retinal immune defense against aging insults. Complement proteins such as C1q and the 
+C3 fragment C3b can opsonize debris and dead cells, as a result promoting their clearance 
+by phagocytes ( He et al., 2008 , Mevorach et al., 1998 , Takizawa et al., 1996 ).
+In the aging retina, the expression of complement regulators is generally down-regulated, 
+whereas the expression of complement proteins is up-regulated (Figure 8B). This may be 
+caused by multiple mechanisms. On the one hand, age-related oxidative insults can directly 
+modulate complement expression in retinal cells. For example, oxPOS can reduce the 
+expression of complement inhibitor CFH ( Chen et al., 2007 ) but increase the expression of 
+CFB in RPE cells ( Chen et al., 2008 ). On the other hand, the immune suppressive 
+microenvironment is altered during aging, which potentially disrupts the production of 
+various complement regulators (C4bp, C1INH, DAF and CD59) by RPE and microglia ( Luo 
+et al., 2011 , Luo et al., 2013 ). RPE cells can promote the expression of complement 
+regulators in macrophage ( Luo et al., 2018 ), but this ability is reduced when RPE undergoes 
+senescence ( Luo et al., 2018 ). Furthermore, inflammatory cytokines released by subretinal Chen et al. Page 12
+Prog Retin Eye Res . Author manuscript; available in PMC 2019 September 01.
+ Europe PMC Funders Author Manuscripts
+  Europe PMC Funders Author Manuscriptsmacrophages may upregulate the expression of complement proteins and down-regulate the 
+expression of complement regulators in RPE cells ( Luo et al., 2011 ) (Figure 8B).
+3.4 Age-related changes in intraocular compartment mediated systemic immune 
+regulation
+Once the antigens breach the ocular barriers and reach the immune privileged compartments 
+such as the anterior chamber, vitreous cavity and subretinal space, they can induce antigen-
+specific immune tolerance (e.g. ACAID and VCAID) to minimize ocular immunopathology 
+(Jiang et al., 1993 , Streilein, 1995 ). A previous study has found that aged C57BL/6 mice and 
+Royal College of Surgeon (RCS) rats both maintain ACAID. However, ACAID cannot be 
+induced in aged rd/rd mice, where the photoreceptors are degenerated ( Welge-Lussen et al., 
+1999 ). The loss of ACAID in aged rd/rd mice is known to be associated with lower levels of 
+TGFβ2 in the aqueous humour ( Welge-Lussen et al., 1999 ).
+Hyalocytes are the resident immune cells in the vitreous cavity and their density is increased 
+in aged mice ( Vagaja et al., 2012 ). Immune cells are normally absent in the subretinal space, 
+however, microglia and macrophages migrate there with age ( Combadiere et al., 2007 , 
+Raoul, Feumi et al., 2008 , Xu et al., 2008 ). An increased number of hyalocytes and 
+accumulation of subretinal phagocytes would undoubtedly affect immune regulation in the 
+vitreous cavity and the subretinal space. Whether aging directly affects the immune 
+deviation remains unclear. Previous studies have shown that retinal laser burn-induced 
+neuropathy can lead to loss of ACAID ( Qiao et al., 2009 ) through upregulation of substance 
+P (Lucas et al., 2012 ). The results suggest that the systemic immune regulatory function of 
+the eye may be lost in patients with retinal neuropathy. This would subsequently have 
+implications in the pathogenesis of various retinal diseases. Impaired or lost ocular chamber-
+induced immune deviation in AMD, DR or glaucoma could initiate a retinal antigen-specific 
+T or B cell response when retinal antigens are released into the ocular chamber from dead 
+cells. Indeed, autoantibodies have been detected in AMD ( Cherepanoff et al., 2006 , Gu et 
+al., 2003 ), DR ( Ahn et al., 2006 ) and glaucoma ( Tezel et al., 1999 , Tezel et al., 2004 , Wax, 
+Yang et al., 2001 , Wax, Tezel et al., 2001 ). The autoimmunity response, despite at low 
+levels, may further damage the neuronal retina. A recent study has shown that transient 
+elevation of intraocular pressure induces heat shock protein (HSP)-specific T cell infiltration 
+and sustained ganglion cell degeneration in glaucomatous mice and human glaucoma 
+patients ( Chen et al., 2018 ). The development of retinal autoantibodies or CD4 T cells in 
+these patients may be related to loss of ocular chamber-induced immune deviation.
+4 The impact of systemic inflammation in the aging retina
+A low level of peripheral systemic inflammation can induce neuroinflammation, which may 
+increase the susceptibility of neuronal degeneration. A previous study has shown that 
+intraperitoneal injection of LPS induced brain microglial activation and increased production 
+of pro-inflammatory cytokines (i.e. TNF α and IL-1 β) (Xie et al., 2017 ). Depletion of 
+circulating monocytes or blocking the CD200-CD200R pathway attenuated peripheral LPS-
+induced CNS inflammation ( Xie et al., 2017 ). The results suggest that peripheral 
+inflammation can be transmitted into the CNS. In the eye, it is well known that peripheral Chen et al. Page 13
+Prog Retin Eye Res . Author manuscript; available in PMC 2019 September 01.
+ Europe PMC Funders Author Manuscripts
+  Europe PMC Funders Author ManuscriptsLPS stimulation induces intraocular inflammation (uveitis) ( Rosenbaum et al., 1980 ). 
+Furthermore, intraperitoneal injection of LPS ( Vagaja et al., 2012 ) or topical application of 
+TLR9 or TLR7/8 agonists can induce low-levels of retinal inflammation including, increased 
+hyalocyte density ( Vagaja et al., 2012 ) and subretinal accumulation of activated microglia 
+(Chinnery et al., 2011 , Chinnery et al., 2015 ), suggesting that peripheral inflammation may 
+also be transmitted into the retina, although, the underlying mechanism remains elusive.
+Circulating immune cells and inflammatory mediators including complement proteins may 
+gain access to the retina through the choroid. The wall of the choriocapillaris facing Bruch’s 
+membrane is fenestrated with approximately 800 Å circular openings, which allow easy 
+movement of macromolecules into the extra-capillary compartment ( Anand-Apte, 2010 ). 
+During systemic inflammation, such as infection, pathogens and inflammatory mediators 
+(e.g. complement proteins, chemokines and cytokines) can escape from leaky vessels and 
+percolate through Bruch’s membrane to the basal side of the RPE leading to re-structuring 
+of tight junctions and breakdown of the oBRB. Access of peripheral pathogens or circulating 
+inflammatory molecules to the neuroretina may become easier in the aging eye due to weak 
+BRBs (Section 3.1 Figure 2A). Recent discovery of intraocular microbiota in the aqueous 
+humor of uveitis patients and soft drusen of AMD patients ( Wen et al., 2018 ) suggests that 
+the retina is not totally insulated from the peripheral circulation.
+Aging is associated with low-levels of systemic inflammation (inflammaging) ( Franceschi 
+and Campisi, 2014 , Goto, 2008 ) and infections occur frequently in aged people due to 
+immune senescence. It is possible that systemic inflammation, particularly from acute 
+infection in old people may cause low-levels of retinal inflammation, which may negatively 
+impact on retinal immune privilege.
+5 Conclusions and therapeutic implications
+With age, the three layers of protection that maintains retinal immune privilege undergo 
+substantial changes. Physical barriers, including the iBRB and oBRB appear to be weakened 
+due to age-related dysfunction of endothelial and glial cells in the neurovascular unit and 
+RPE (Table 1). Immune regulatory signals from retinal neurons or RPE cells are also altered. 
+CX3CL1 and CD200 expression in neurons is reduced, whereas, the production of 
+endocannabinoid 2-AG and AEA is increased in the aging retina. The ocular chamber-
+mediated systemic immune suppression (deviation) may be lost during aging due to reduced 
+TGFβ expression and immune cell infiltration into the chamber (Table 1). Reduction in 
+passive protection (i.e. avoidance and tolerance) makes the retina more susceptible to insults 
+such as oxidative stress in AMD, hyperglycemia in diabetes and elevated intraocular 
+pressure in glaucoma.
+The immune effectors (i.e. microglia and the complement system) that safeguard the retina 
+also undergo significant age-related changes. Age reduces the mobility of microglia, which 
+causes their phagocytic function to decline as well as their shift to a proinflammatory 
+phenotype when responding to danger molecules. In addition, the expression of complement 
+inhibitors is reduced, and the expression of complement activators is increased in the aging 
+retina (Table 1). Therefore, on the one hand, aged microglia have a reduced ability to carry Chen et al. Page 14
+Prog Retin Eye Res . Author manuscript; available in PMC 2019 September 01.
+ Europe PMC Funders Author Manuscripts
+  Europe PMC Funders Author Manuscriptsout their immune surveillance and synapse maintenance roles, leading to accumulation of 
+damaged neurons and debris. On the other hand, the proinflammatory response of microglia 
+and the complement system to damaged neurons and debris increases the immunopathology.
+In the degenerative retina (e.g. AMD and DR), barriers may be damaged at the lesion site 
+and immune suppressive pathways could be altered or lost (Table 1). However, patients can 
+remain asymptomatic for years at the early stages of the disease, suggesting that avoidance 
+and tolerance strategies are still functioning sufficiently to keep the retina privileged or 
+partially privileged from systemic immune attack. The defense system (e.g. retinal microglia 
+and the complement system) is likely to be activated constantly at low levels in the diseased 
+retina due to an increase in tissue damage from aging or diabetes (Table 1). Improving the 
+defense and tolerance mechanisms to maintain or restore retinal immune privilege in the 
+aging and degenerative retina would be a preferred approach for disease retardation or 
+prevention.
+Intraocular drug delivery is a well-accepted and widely-used approach for treating retinal 
+diseases. Cell-based therapies have shown promising effects in preclinical studies and phase 
+1/2 clinical trials for end-stage AMD patients ( Jones et al., 2017 ). The altered immune 
+privilege of the aging and degenerative retina may negatively affect the materials (e.g. cells, 
+drug carriers and genes) that are delivered into the vitreous cavity or subretinal space. 
+Thorough studies on the impact of retinal immune response to the materials may help to 
+improve the efficacy and success rate of intraocular drug, gene and cell therapy.
+Acknowledgements
+The work was funded by Fight for Sight (1361/1362; 1425/1426; 1574/1574; 5057/58), Dunhill Medical Trust 
+(R188/0211), and National Eye Research Center (SCIAD 061). The authors would like to thank Kevin Harkin for 
+helping with English expression.
+Abbreviations
+2-AG 2-arachidonoyl-glycerol
+ACAID anterior chamber-induced immune deviation
+AEA arachidonoyl-ethanolamide
+AMD age-related macular degeneration
+AQP4 aquaporin 4
+BRB blood retina barrier
+C1INH C1-inhibitor
+C1q complement component 1q
+CB1 cannabinoid receptor type 1
+CB2 cannabinoid receptor type 2Chen et al. Page 15
+Prog Retin Eye Res . Author manuscript; available in PMC 2019 September 01.
+ Europe PMC Funders Author Manuscripts
+  Europe PMC Funders Author ManuscriptsCCL2 chemokine (C-C motif) ligand 2
+CCR2 C-C chemokine receptor type 2
+CFB complement factor B
+CFH complement factor H
+CNS central nervous system
+CTLA2 cytokine T-lymphocyte-associated protein 2
+CTLA4 cytokine T-lymphocyte-associated protein 4
+CX3CL1 chemokine (C-X3-C motif) ligand 1
+CX3CR1 CX3C chemokine receptor 1
+DAM disease associated microglia
+DAMP damage-associated molecular pattern
+DAP12 DNAX activation protein 12
+EAU experimental autoimmune uveoretinitis
+FasL Fas ligand
+GL ganglion layer
+iBRB inner blood retina barrier
+INL inner nuclear layer
+IPL inner plexiform layer
+NVU neurovascular unit
+oBRB outer blood retinal barrier
+ONL outer nuclear layer
+OPL outer plexiform layer
+oxPOS oxidized photoreceptor outer segments
+POS photoreceptor outer segments
+RPE retinal pigment epithelium
+SIRP signal-regulatory protein
+SMA smooth muscle actin
+TGF transforming growth factor
+TREM2 triggering receptor expressed on myeloid cell 2Chen et al. Page 16
+Prog Retin Eye Res . Author manuscript; available in PMC 2019 September 01.
+ Europe PMC Funders Author Manuscripts
+  Europe PMC Funders Author ManuscriptsTLR Toll-like receptor
+TRAIL tumor Necrosis Factor-related apoptosis-inducing ligand
+TSP-1 thrombospondin 1
+VCAID vitreous cavity-induced immune deviation
+ZO-1 zonula occludens-1
+References
+Ahn BY , Song ES, Cho YJ, Kwon OW, Kim JK, Lee NG. Identification of an anti-aldolase 
+autoantibody as a diagnostic marker for diabetic retinopathy by immunoproteomic analysis. 
+Proteomics. 2006; 6:1200–1209. [PubMed: 16421937] 
+Anand-Apte B, H JG. Developmental Anatomy of the Retinal and Choroidal Vasculature. 
+Encyclopedia of the Eye. 2010:9–15.
+Anderson DH, Radeke MJ, Gallo NB, Chapin EA, Johnson PT, Curletti CR, Hancox LS, Hu J, Ebright 
+JN, Malek G, Hauser MA, et al. The pivotal role of the complement system in aging and age-related 
+macular degeneration: hypothesis re-visited. Prog Retin Eye Res. 2010; 29:95–112. [PubMed: 
+19961953] 
+Ardeljan D, Chan CC. Aging is not a disease: distinguishing age-related macular degeneration from 
+aging. Prog Retin Eye Res. 2013; 37:68–89. [PubMed: 23933169] 
+Banerjee D, Dick AD. Blocking CD200-CD200 receptor axis augments NOS-2 expression and 
+aggravates experimental autoimmune uveoretinitis in Lewis rats. Ocul Immunol Inflamm. 2004; 
+12:115–125. [PubMed: 15512981] 
+Barclay AN, Brown MH. The SIRP family of receptors and immune regulation. Nat Rev Immunol. 
+2006; 6:457–464. [PubMed: 16691243] 
+Barclay AN, Van den Berg TK. The interaction between signal regulatory protein alpha (SIRPalpha) 
+and CD47: structure, function, and therapeutic target. Annu Rev Immunol. 2014; 32:25–50. 
+[PubMed: 24215318] 
+Barclay AN, Wright GJ, Brooke G, Brown MH. CD200 and membrane protein interactions in the 
+control of myeloid cells. Trends Immunol. 2002; 23:285–290. [PubMed: 12072366] 
+Battista N, Fezza F, Finazzi-Agro A, Maccarrone M. The endocannabinoid system in 
+neurodegeneration. Ital J Biochem. 2006; 55:283–289. [PubMed: 17274532] 
+Broderick C, Hoek RM, Forrester JV , Liversidge J, Sedgwick JD, Dick AD. Constitutive Retinal 
+CD200 Expression Regulates Resident Microglia and Activation State of Inflammatory Cells 
+during Experimental Autoimmune Uveoretinitis. Am J Pathol. 2002; 161:1669–1677. [PubMed: 
+12414514] 
+Brown EJ, Frazier WA. Integrin-associated protein (CD47) and its ligands. Trends Cell Biol. 2001; 
+11:130–135. [PubMed: 11306274] 
+Calippe B, Augustin S, Beguier F, Charles-Messance H, Poupel L, Conart JB, Hu SJ, Lavalette S, 
+Fauvet A, Rayes J, Levy O, et al. Complement Factor H Inhibits CD47-Mediated Resolution of 
+Inflammation. Immunity. 2017; 46:261–272. [PubMed: 28228282] 
+Cardona AE, Pioro EP, Sasse ME, Kostenko V , Cardona SM, Dijkstra IM, Huang D, Kidd G, 
+Dombrowski S, Dutta R, Lee JC, et al. Control of microglial neurotoxicity by the fractalkine 
+receptor. Nat Neurosci. 2006; 9:917–924. [PubMed: 16732273] 
+Cardona SM, Mendiola AS, Yang YC, Adkins SL, Torres V , Cardona AE. Disruption of Fractalkine 
+Signaling Leads to Microglial Activation and Neuronal Damage in the Diabetic Retina. ASN 
+Neuro. 2015; 7doi: 10.1177/1759091415608204
+Caspi RR. Ocular autoimmunity: the price of privilege? Immunol Rev. 2006; 213:23–35. [PubMed: 
+16972894] Chen et al. Page 17
+Prog Retin Eye Res . Author manuscript; available in PMC 2019 September 01.
+ Europe PMC Funders Author Manuscripts
+  Europe PMC Funders Author ManuscriptsCaspi RR, Roberge FG, McAllister CG, el Saied M, Kuwabara T, Gery I, Hanna E, Nussenblatt RB. T 
+cell lines mediating experimental autoimmune uveoretinitis (EAU) in the rat. J Immunol. 1986; 
+136:928–933. [PubMed: 2416842] 
+Chan CC, Mochizuki M, Palestine AG, BenEzra D, Gery I, Nussenblatt RB. Kinetics of T-lymphocyte 
+subsets in the eyes of Lewis rats with experimental autoimmune uveitis. Cell Immunol. 1985; 
+96:430–434. [PubMed: 2943422] 
+Chan-Ling T, Hughes S, Baxter L, Rosinova E, McGregor I, Morcos Y , van Nieuwenhuyzen P, Hu P. 
+Inflammation and breakdown of the blood-retinal barrier during "physiological aging" in the rat 
+retina: a model for CNS aging. Microcirculation. 2007; 14:63–76. [PubMed: 17365662] 
+Chen H, Cho KS, Vu THK, Shen CH, Kaur M, Chen G, Mathew R, McHam ML, Fazelat A, Lashkari 
+K, Au NPB, et al. Commensal microflora-induced T cell responses mediate progressive 
+neurodegeneration in glaucoma. Nat Commun. 2018; 9
+Chen M, Forrester JV , Xu H. Dysregulation in retinal para-inflammation and age-related retinal 
+degeneration in CCL2 or CCR2 deficient mice. PLoS One. 2011; 6:e22818. [PubMed: 21850237] 
+Chen M, Forrester JV , Xu H. Synthesis of complement factor H by retinal pigment epithelial cells is 
+down-regulated by oxidized photoreceptor outer segments. Exp Eye Res. 2007; 84:635–645. 
+[PubMed: 17292886] 
+Chen M, Hombrebueno JR, Luo C, Penalva R, Zhao J, Colhoun L, Pandi SP, Forrester JV , Xu H. Age- 
+and Light-Dependent Development of Localised Retinal Atrophy in CCL2(-/-)CX3CR1(GFP/
+GFP) Mice. PLoS One. 2013; 8:e61381. [PubMed: 23637822] 
+Chen M, Luo C, Penalva R, Xu H. Paraquat-Induced Retinal Degeneration Is Exaggerated in 
+CX3CR1-Deficient Mice and Is Associated with Increased Retinal Inflammation. Invest 
+Ophthalmol Vis Sci. 2013; 54:682–690. [PubMed: 23299473] 
+Chen M, Muckersie E, Forrester JV , Xu H. Immune activation in Retinal Aging: A Gene Expression 
+Study. Invest Ophthalmol Vis Sci. 2010; 51:5888–5896. [PubMed: 20538981] 
+Chen M, Muckersie E, Robertson M, Forrester JV , Xu H. Up-regulation of complement factor B in 
+retinal pigment epithelial cells is accompanied by complement activation in the aged retina. Exp 
+Eye Res. 2008; 87:543–550. [PubMed: 18926817] 
+Chen M, Rajapakse D, Fraczek M, Luo C, Forrester JV , Xu H. Retinal pigment epithelial cell 
+multinucleation in the aging eye - a mechanism to repair damage and maintain homoeostasis. 
+Aging Cell. 2016
+Chen M, Xu H. Parainflammation, chronic inflammation, and age-related macular degeneration. J 
+Leukoc Biol. 2015; 98:713–725. [PubMed: 26292978] 
+Cherepanoff S, Mitchell P, Wang JJ, Gillies MC. Retinal autoantibody profile in early age-related 
+macular degeneration: preliminary findings from the Blue Mountains Eye Study. Clin Experiment 
+Ophthalmol. 2006; 34:590–595. [PubMed: 16925708] 
+Chinnery HR, McLenachan S, Humphries T, Kezic JM, Chen X, Ruitenberg MJ, McMenamin PG. 
+Accumulation of murine subretinal macrophages: effects of age, pigmentation and CX(3)CR1. 
+Neurobiol Aging. 2011; 33:1769–1776. [PubMed: 21570740] 
+Chinnery HR, Naranjo Golborne C, Leong CM, Chen W, Forrester JV , McMenamin PG. Retinal 
+Microglial Activation Following Topical Application of Intracellular Toll-Like Receptor Ligands. 
+Invest Ophthalmol Vis Sci. 2015; 56:7377–7386. [PubMed: 26574796] 
+Colonna M. TREMs in the immune system and beyond. Nat Rev Immunol. 2003; 3:445–453. 
+[PubMed: 12776204] 
+Combadiere C, Feumi C, Raoul W, Keller N, Rodero M, Pezard A, Lavalette S, Houssier M, Jonet L, 
+Picard E, Debre P, et al. CX3CR1-dependent subretinal microglia cell accumulation is associated 
+with cardinal features of age-related macular degeneration. J Clin Invest. 2007; 117:2920–2928. 
+[PubMed: 17909628] 
+Copland DA, Calder CJ, Raveney BJ, Nicholson LB, Phillips J, Cherwinski H, Jenmalm M, Sedgwick 
+JD, Dick AD. Monoclonal antibody-mediated CD200 receptor signaling suppresses macrophage 
+activation and tissue damage in experimental autoimmune uveoretinitis. Am J Pathol. 2007; 
+171:580–588. [PubMed: 17600119] 
+Damani MR, Zhao L, Fontainhas AM, Amaral J, Fariss RN, Wong WT. Age-related alterations in the 
+dynamic behavior of microglia. Aging Cell. 2011; 10:263–276. [PubMed: 21108733] Chen et al. Page 18
+Prog Retin Eye Res . Author manuscript; available in PMC 2019 September 01.
+ Europe PMC Funders Author Manuscripts
+  Europe PMC Funders Author ManuscriptsDe Simone R, Ambrosini E, Carnevale D, Ajmone-Cat MA, Minghetti L. NGF promotes microglial 
+migration through the activation of its high affinity receptor: modulation by TGF-beta. J 
+Neuroimmunol. 2007; 190:53–60. [PubMed: 17868907] 
+Deczkowska A, Matcovitch-Natan O, Tsitsou-Kampeli A, Ben-Hamo S, Dvir-Szternfeld R, Spinrad A, 
+Singer O, David E, Winter DR, Smith LK, Kertser A, et al. Mef2C restrains microglial 
+inflammatory response and is lost in brain ageing in an IFN-I-dependent manner. Nat Commun. 
+2017; 8
+Dick AD, Broderick C, Forrester JV , Wright GJ. Distribution of OX2 antigen and OX2 receptor within 
+retina. Invest Ophthalmol Vis Sci. 2001; 42:170–176. [PubMed: 11133863] 
+Dick AD, Carter D, Robertson M, Broderick C, Hughes E, Forrester JV , Liversidge J. Control of 
+myeloid activity during retinal inflammation. J Leukoc Biol. 2003; 74:161–166. [PubMed: 
+12885931] 
+Egan RM, Yorkey C, Black R, Loh WK, Stevens JL, Woodward JG. Peptide-specific T cell clonal 
+expansion in vivo following immunization in the eye, an immune-privileged site. J Immunol. 1996; 
+157:2262–2271. [PubMed: 8805623] 
+Ferguson TA, Griffith TS. The role of Fas ligand and TNF-related apoptosis-inducing ligand (TRAIL) 
+in the ocular immune response. Chem Immunol Allergy. 2007; 92:140–154. [PubMed: 17264490] 
+Ferguson TA, Griffith TS. A vision of cell death: insights into immune privilege. Immunol Rev. 1997; 
+156:167–184. [PubMed: 9176707] 
+Forrester JV , Xu H. Good news-bad news: the Yin and Yang of immune privilege in the eye. Front 
+Immunol. 2012; 3:338. [PubMed: 23230433] 
+Forrester JV , Xu H, Kuffova L, Dick AD, McMenamin PG. Dendritic cell physiology and function in 
+the eye. Immunol Rev. 2010; 234:282–304. [PubMed: 20193026] 
+Franceschi C, Campisi J. Chronic inflammation (inflammaging) and its potential contribution to age-
+associated diseases. J Gerontol A Biol Sci Med Sci. 2014; 69(Suppl 1):S4–9. [PubMed: 24833586] 
+Frank MG, Barrientos RM, Biedenkapp JC, Rudy JW, Watkins LR, Maier SF. mRNA up-regulation of 
+MHC II and pivotal pro-inflammatory genes in normal brain aging. Neurobiol Aging. 2006; 
+27:717–722. [PubMed: 15890435] 
+Friedman E, Ts'o MO. The retinal pigment epithelium. II. Histologic changes associated with age. 
+Arch Ophthalmol. 1968; 79:315–320. [PubMed: 5640854] 
+Galatro TF, Holtman IR, Lerario AM, Vainchtein ID, Brouwer N, Sola PR, Veras MM, Pereira TF, 
+Leite REP, Moller T, Wes PD, et al. Transcriptomic analysis of purified human cortical microglia 
+reveals age-associated changes. Nat Neurosci. 2017; 20:1162–1171. [PubMed: 28671693] 
+Gao H, Hollyfield JG. Aging of the human retina. Differential loss of neurons and retinal pigment 
+epithelial cells. Invest Ophthalmol Vis Sci. 1992; 33:1–17. [PubMed: 1730530] 
+Goto M. Inflammaging (inflammation + aging): A driving force for human aging based on an 
+evolutionarily antagonistic pleiotropy theory? Biosci Trends. 2008; 2:218–230. [PubMed: 
+20103932] 
+Grabert K, Michoel T, Karavolos MH, Clohisey S, Baillie JK, Stevens MP, Freeman TC, Summers 
+KM, McColl BW. Microglial brain region-dependent diversity and selective regional sensitivities 
+to aging. Nat Neurosci. 2016; 19:504–516. [PubMed: 26780511] 
+Gregerson DS. Immune privilege in the retina. Ocul Immunol Inflamm. 1998; 6:257–267. [PubMed: 
+9924922] 
+Gu X, Meer SG, Miyagi M, Rayborn ME, Hollyfield JG, Crabb JW, Salomon RG. 
+Carboxyethylpyrrole protein adducts and autoantibodies, biomarkers for age-related macular 
+degeneration. J Biol Chem. 2003; 278:42027–42035. [PubMed: 12923198] 
+Gupta RK, Prasad S. Early down regulation of the glial Kir4.1 and GLT-1 expression in 
+pericontusional cortex of the old male mice subjected to traumatic brain injury. Biogerontology. 
+2013; 14:531–541. [PubMed: 24026668] 
+Harrison JK, Jiang Y , Chen S, Xia Y , Maciejewski D, McNamara RK, Streit WJ, Salafranca MN, 
+Adhikari S, Thompson DA, Botti P, et al. Role for neuronally derived fractalkine in mediating 
+interactions between neurons and CX3CR1-expressing microglia. Proc Natl Acad Sci U S A. 
+1998; 95:10896–10901. [PubMed: 9724801] Chen et al. Page 19
+Prog Retin Eye Res . Author manuscript; available in PMC 2019 September 01.
+ Europe PMC Funders Author Manuscripts
+  Europe PMC Funders Author ManuscriptsHarry GJ. Microglia during development and aging. Pharmacol Ther. 2013; 139:313–326. [PubMed: 
+23644076] 
+He JQ, Wiesmann C, van Lookeren Campagne M. A role of macrophage complement receptor CRIg in 
+immune clearance and inflammation. Mol Immunol. 2008; 45:4041–4047.
+Helming L, Tomasello E, Kyriakides TR, Martinez FO, Takai T, Gordon S, Vivier E. Essential role of 
+DAP12 signaling in macrophage programming into a fusion-competent state. Sci Signal. 2008; 
+1:ra11. [PubMed: 18957693] 
+Hernangomez M, Carrillo-Salinas FJ, Mecha M, Correa F, Mestre L, Loria F, Feliu A, Docagne F, 
+Guaza C. Brain innate immunity in the regulation of neuroinflammation: therapeutic strategies by 
+modulating CD200-CD200R interaction involve the cannabinoid system. Curr Pharm Des. 2014; 
+20:4707–4722. [PubMed: 24588829] 
+Hickman SE, El Khoury J. TREM2 and the neuroimmunology of Alzheimer's disease. Biochem 
+Pharmacol. 2014; 88:495–498. [PubMed: 24355566] 
+Hickman SE, Kingery ND, Ohsumi TK, Borowsky ML, Wang LC, Means TK, El Khoury J. The 
+microglial sensome revealed by direct RNA sequencing. Nat Neurosci. 2013; 16:1896–1905. 
+[PubMed: 24162652] 
+Higgins GT, Wang JH, Dockery P, Cleary PE, Redmond HP. Induction of angiogenic cytokine 
+expression in cultured RPE by ingestion of oxidized photoreceptor outer segments. Invest 
+Ophthalmol Vis Sci. 2003; 44:1775–1782. [PubMed: 12657621] 
+Hoek RM, Ruuls SR, Murphy CA, Wright GJ, Goddard R, Zurawski SM, Blom B, Homola ME, Streit 
+WJ, Brown MH, Barclay AN, et al. Down-regulation of the macrophage lineage through 
+interaction with OX2 (CD200). Science. 2000; 290:1768–1771. [PubMed: 11099416] 
+Horie S, Sugita S, Futagami Y , Yamada Y , Mochizuki M. Human retinal pigment epithelium-induced 
+CD4+CD25+ regulatory T cells suppress activation of intraocular effector T cells. Clin Immunol. 
+2010; 136:83–95. [PubMed: 20350837] 
+Hu SJ, Calippe B, Lavalette S, Roubeix C, Montassar F, Housset M, Levy O, Delarasse C, Paques M, 
+Sahel JA, Sennlaub F, et al. Upregulation of P2RX7 in Cx3cr1-Deficient Mononuclear Phagocytes 
+Leads to Increased Interleukin-1beta Secretion and Photoreceptor Neurodegeneration. J Neurosci. 
+2015; 35:6987–6996. [PubMed: 25948251] 
+Hughes S, Gardiner T, Hu P, Baxter L, Rosinova E, Chan-Ling T. Altered pericyte-endothelial relations 
+in the rat retina during aging: implications for vessel stability. Neurobiol Aging. 2006; 27:1838–
+1847. [PubMed: 16387390] 
+Jiang LQ, Jorquera M, Streilein JW. Subretinal space and vitreous cavity as immunologically 
+privileged sites for retinal allografts. Invest Ophthalmol Vis Sci. 1993; 34:3347–3354. [PubMed: 
+8225870] 
+Jones MK, Lu B, Girman S, Wang S. Cell-based therapeutic strategies for replacement and 
+preservation in retinal degenerative diseases. Prog Retin Eye Res. 2017; 58:1–27. [PubMed: 
+28111323] 
+Kaestel CG, Lovato P, Odum N, Nissen MH, Ropke C. The immune privilege of the eye: human retinal 
+pigment epithelial cells selectively modulate T-cell activation in vitro. Curr Eye Res. 2005; 
+30:375–383. [PubMed: 16020268] 
+Karlstetter M, Scholz R, Rutar M, Wong WT, Provis JM, Langmann T. Retinal microglia: just 
+bystander or target for therapy? Prog Retin Eye Res. 2015; 45:30–57. [PubMed: 25476242] 
+Kawazoe Y , Sugita S, Keino H, Yamada Y , Imai A, Horie S, Mochizuki M. Retinoic acid from retinal 
+pigment epithelium induces T regulatory cells. Exp Eye Res. 2012; 94:32–40. [PubMed: 
+22116001] 
+Kazama H, Ricci JE, Herndon JM, Hoppe G, Green DR, Ferguson TA. Induction of immunological 
+tolerance by apoptotic cells requires caspase-dependent oxidation of high-mobility group box-1 
+protein. Immunity. 2008; 29:21–32. [PubMed: 18631454] 
+Kelly B, O'Neill LA. Metabolic reprogramming in macrophages and dendritic cells in innate immunity. 
+Cell Res. 2015; 25:771–784. [PubMed: 26045163] 
+Keren-Shaul H, Spinrad A, Weiner A, Matcovitch-Natan O, Dvir-Szternfeld R, Ulland TK, David E, 
+Baruch K, Lara-Astaiso D, Toth B, Itzkovitz S, et al. A Unique Microglia Type Associated with Chen et al. Page 20
+Prog Retin Eye Res . Author manuscript; available in PMC 2019 September 01.
+ Europe PMC Funders Author Manuscripts
+  Europe PMC Funders Author ManuscriptsRestricting Development of Alzheimer's Disease. Cell. 2017; 169:1276–1290.e17. [PubMed: 
+28602351] 
+Krishnan G, Chatterjee N. Endocannabinoids alleviate proinflammatory conditions by modulating 
+innate immune response in muller glia during inflammation. Glia. 2012; 60:1629–1645. [PubMed: 
+22807196] 
+Lehnardt S, Henneke P, Lien E, Kasper DL, V olpe JJ, Bechmann I, Nitsch R, Weber JR, Golenbock 
+DT, Vartanian T. A mechanism for neurodegeneration induced by group B streptococci through 
+activation of the TLR2/MyD88 pathway in microglia. J Immunol. 2006; 177:583–592. [PubMed: 
+16785556] 
+Li L, Eter N, Heiduschka P. The microglia in healthy and diseased retina. Exp Eye Res. 2015
+Lin JB, Sene A, Santeford A, Fujiwara H, Sidhu R, Ligon MM, Shankar V A, Ban N, Mysorekar IU, 
+Ory DS, Apte RS. Oxysterol Signatures Distinguish Age-Related Macular Degeneration from 
+Physiologic Aging. EBioMedicine. 2018; 32:9–20. [PubMed: 29903570] 
+Lopez EM, Tagliaferro P, Onaivi ES, Lopez-Costa JJ. Distribution of CB2 cannabinoid receptor in 
+adult rat retina. Synapse. 2011; 65:388–392. [PubMed: 20803619] 
+Lopez-Luppo M, Catita J, Ramos D, Navarro M, Carretero A, Mendes-Jorge L, Munoz-Canoves P, 
+Rodriguez-Baeza A, Nacher V , Ruberte J. Cellular Senescence Is Associated With Human Retinal 
+Microaneurysm Formation During Aging. Invest Ophthalmol Vis Sci. 2017; 58:2832–2842. 
+[PubMed: 28570738] 
+Lucas K, Karamichos D, Mathew R, Zieske JD, Stein-Streilein J. Retinal laser burn-induced 
+neuropathy leads to substance P-dependent loss of ocular immune privilege. J Immunol. 2012; 
+189:1237–1242. [PubMed: 22745377] 
+Ludwig A, Mentlein R. Glial cross-talk by transmembrane chemokines CX3CL1 and CXCL16. J 
+Neuroimmunol. 2008; 198:92–97. [PubMed: 18538418] 
+Lueck K, Hennig M, Lommatzsch A, Pauleikhoff D, Wasmuth S. Complement and UV-irradiated 
+photoreceptor outer segments increase the cytokine secretion by retinal pigment epithelial cells. 
+Invest Ophthalmol Vis Sci. 2012; 53:1406–1413. [PubMed: 22323489] 
+Luhmann UF, Robbie S, Munro PM, Barker SE, Duran Y , Luong V , Fitzke FW, Bainbridge JW, Ali 
+RR, MacLaren RE. The drusenlike phenotype in aging Ccl2-knockout mice is caused by an 
+accelerated accumulation of swollen autofluorescent subretinal macrophages. Invest Ophthalmol 
+Vis Sci. 2009; 50:5934–5943. [PubMed: 19578022] 
+Lui H, Zhang J, Makinson SR, Cahill MK, Kelley KW, Huang HY , Shang Y , Oldham MC, Martens 
+LH, Gao F, Coppola G, et al. Progranulin Deficiency Promotes Circuit-Specific Synaptic Pruning 
+by Microglia via Complement Activation. Cell. 2016; 165:921–935. [PubMed: 27114033] 
+Luo C, Chen M, Xu H. Complement gene expression and regulation in mouse retina and retinal 
+pigment epithelium/choroid. Mol Vis. 2011; 17:1588–1597. [PubMed: 21738388] 
+Luo C, Zhao J, Chen M, Xu H. The expression of C1 inhibitor (C1INH) in macrophages is upregulated 
+by retinal pigment epithelial cells - implication in subretinal immune privilege in the aging eye. 
+Aging (Albany NY). 2018
+Luo C, Zhao J, Madden A, Chen M, Xu H. Complement expression in retinal pigment epithelial cells 
+is modulated by activated macrophages. Exp Eye Res. 2013; 112C:93–101.
+Luu J, Palczewski K. Human aging and disease: Lessons from age-related macular degeneration. Proc 
+Natl Acad Sci U S A. 2018; 115:2866–2872. [PubMed: 29483257] 
+Ma W, Wong WT. Aging Changes in Retinal Microglia and their Relevance to Age-related Retinal 
+Disease. Adv Exp Med Biol. 2016; 854:73–78. [PubMed: 26427396] 
+Mansour H, Chamberlain CG, Weible MW 2nd, Hughes S, Chu Y , Chan-Ling T. Aging-related 
+changes in astrocytes in the rat retina: imbalance between cell proliferation and cell death reduces 
+astrocyte availability. Aging Cell. 2008; 7:526–540. [PubMed: 18489730] 
+Matias I, Wang JW, Moriello AS, Nieves A, Woodward DF, Di Marzo V . Changes in endocannabinoid 
+and palmitoylethanolamide levels in eye tissues of patients with diabetic retinopathy and age-
+related macular degeneration. Prostaglandins Leukot Essent Fatty Acids. 2006; 75:413–418. 
+[PubMed: 17011761] 
+Mecca C, Giambanco I, Donato R, Arcuri C. Microglia and Aging: The Role of the TREM2-DAP12 
+and CX3CL1-CX3CR1 Axes. Int J Mol Sci. 2018; 19doi: 10.3390/ijms19010318Chen et al. Page 21
+Prog Retin Eye Res . Author manuscript; available in PMC 2019 September 01.
+ Europe PMC Funders Author Manuscripts
+  Europe PMC Funders Author ManuscriptsMecha M, Carrillo-Salinas FJ, Feliu A, Mestre L, Guaza C. Microglia activation states and 
+cannabinoid system: Therapeutic implications. Pharmacol Ther. 2016; 166:40–55. [PubMed: 
+27373505] 
+Medzhitov R, Schneider DS, Soares MP. Disease tolerance as a defense strategy. Science. 2012; 
+335:936–941. [PubMed: 22363001] 
+Metea MR, Newman EA. Signalling within the neurovascular unit in the mammalian retina. Exp 
+Physiol. 2007; 92:635–640. [PubMed: 17434916] 
+Mevorach D, Mascarenhas JO, Gershov D, Elkon KB. Complement-dependent clearance of apoptotic 
+cells by human macrophages. J Exp Med. 1998; 188:2313–2320. [PubMed: 9858517] 
+Mizuno T, Kawanokuchi J, Numata K, Suzumura A. Production and neuroprotective functions of 
+fractalkine in the central nervous system. Brain Res. 2003; 979:65–70. [PubMed: 12850572] 
+Mochizuki M, Kuwabara T, McAllister C, Nussenblatt RB, Gery I. Adoptive transfer of experimental 
+autoimmune uveoretinitis in rats. Immunopathogenic mechanisms and histologic features. Invest 
+Ophthalmol Vis Sci. 1985; 26:1–9.
+Mochizuki M, Sugita S, Kamoi K. Immunological homeostasis of the eye. Prog Retin Eye Res. 2013; 
+33:10–27. [PubMed: 23108335] 
+Morrison JH, Baxter MG. The ageing cortical synapse: hallmarks and implications for cognitive 
+decline. Nat Rev Neurosci. 2012; 13:240–250. [PubMed: 22395804] 
+Muoio V , Persson PB, Sendeski MM. The neurovascular unit - concept review. Acta Physiol (Oxf). 
+2014; 210:790–798. [PubMed: 24629161] 
+Nag TC, Wadhwa S, Alladi PA, Sanyal T. Localization of 4-hydroxy 2-nonenal immunoreactivity in 
+aging human retinal Muller cells. Ann Anat. 2011; 193:205–210. [PubMed: 21454059] 
+Nimmerjahn A, Kirchhoff F, Helmchen F. Resting microglial cells are highly dynamic surveillants of 
+brain parenchyma in vivo. Science. 2005; 308:1314–1318. [PubMed: 15831717] 
+Orihuela R, McPherson CA, Harry GJ. Microglial M1/M2 polarization and metabolic states. Br J 
+Pharmacol. 2016; 173:649–665. [PubMed: 25800044] 
+Paglinawan R, Malipiero U, Schlapbach R, Frei K, Reith W, Fontana A. TGFbeta directs gene 
+expression of activated microglia to an anti-inflammatory phenotype strongly focusing on 
+chemokine genes and cell migratory genes. Glia. 2003; 44:219–231. [PubMed: 14603463] 
+Painter MM, Atagi Y , Liu CC, Rademakers R, Xu H, Fryer JD, Bu G. TREM2 in CNS homeostasis 
+and neurodegenerative disease. Mol Neurodegener. 2015; 10
+Pascual AC, Gaveglio VL, Giusto NM, Pasquare SJ. Cannabinoid receptor-dependent metabolism of 2-
+arachidonoylglycerol during aging. Exp Gerontol. 2014; 55:134–142. [PubMed: 24768821] 
+Pascual AC, Gaveglio VL, Giusto NM, Pasquare SJ. Aging modifies the enzymatic activities involved 
+in 2-arachidonoylglycerol metabolism. Biofactors. 2013; 39:209–220. [PubMed: 23281018] 
+Pascual AC, Martin-Moreno AM, Giusto NM, de Ceballos ML, Pasquare SJ. Normal aging in rats and 
+pathological aging in human Alzheimer's disease decrease FAAH activity: modulation by 
+cannabinoid agonists. Exp Gerontol. 2014; 60:92–99. [PubMed: 25456842] 
+Pearce EL, Poffenberger MC, Chang CH, Jones RG. Fueling immunity: insights into metabolism and 
+lymphocyte function. Science. 2013; 342
+Pettersen RD. CD47 and death signaling in the immune system. Apoptosis. 2000; 5:299–306. 
+[PubMed: 11227209] 
+Piccio L, Buonsanti C, Mariani M, Cella M, Gilfillan S, Cross AH, Colonna M, Panina-Bordignon P. 
+Blockade of TREM-2 exacerbates experimental autoimmune encephalomyelitis. Eur J Immunol. 
+2007; 37:1290–1301. [PubMed: 17407101] 
+Poliani PL, Wang Y , Fontana E, Robinette ML, Yamanishi Y , Gilfillan S, Colonna M. TREM2 sustains 
+microglial expansion during aging and response to demyelination. J Clin Invest. 2015; 125:2161–
+2170. [PubMed: 25893602] 
+Provis JM, Penfold PL, Edwards AJ, van Driel D. Human retinal microglia: expression of immune 
+markers and relationship to the glia limitans. Glia. 1995; 14:243–256. [PubMed: 8530182] 
+Qiao H, Lucas K, Stein-Streilein J. Retinal laser burn disrupts immune privilege in the eye. Am J 
+Pathol. 2009; 174:414–422. [PubMed: 19147817] Chen et al. Page 22
+Prog Retin Eye Res . Author manuscript; available in PMC 2019 September 01.
+ Europe PMC Funders Author Manuscripts
+  Europe PMC Funders Author ManuscriptsRajapakse D, Chen M, Curtis TM, Xu H. PKCzeta-dependent upregulation of p27kip1 contributes to 
+oxidative stress induced retinal pigment epithelial cell multinucleation. Aging (Albany NY). 
+2017; 9:2052–2068. [PubMed: 29016360] 
+Raoul W, Feumi C, Keller N, Lavalette S, Houssier M, Behar-Cohen F, Combadiere C, Sennlaub F. 
+Lipid-bloated subretinal microglial cells are at the origin of drusen appearance in CX3CR1-
+deficient mice. Ophthalmic Res. 2008; 40:115–119. [PubMed: 18421223] 
+Raoul W, Keller N, Rodero M, Behar-Cohen F, Sennlaub F, Combadiere C. Role of the chemokine 
+receptor CX3CR1 in the mobilization of phagocytic retinal microglial cells. J Neuroimmunol. 
+2008; 198:56–61. [PubMed: 18508131] 
+Remmerie A, Scott CL. Macrophages and lipid metabolism. Cell Immunol. 2018; 330:27–42. 
+[PubMed: 29429624] 
+Rosenbaum JT, McDevitt HO, Guss RB, Egbert PR. Endotoxin-induced uveitis in rats as a model for 
+human disease. Nature. 1980; 286:611–613. [PubMed: 7402339] 
+Safaiyan S, Kannaiyan N, Snaidero N, Brioschi S, Biber K, Yona S, Edinger AL, Jung S, Rossner MJ, 
+Simons M. Age-related myelin degradation burdens the clearance function of microglia during 
+aging. Nat Neurosci. 2016; 19:995–998. [PubMed: 27294511] 
+Sarfati M, Fortin G, Raymond M, Susin S. CD47 in the immune response: role of thrombospondin and 
+SIRP-alpha reverse signaling. Curr Drug Targets. 2008; 9:842–850. [PubMed: 18855618] 
+Schwitzer T, Schwan R, Angioi-Duprez K, Giersch A, Laprevote V . The Endocannabinoid System in 
+the Retina: From Physiology to Practical and Therapeutic Applications. Neural Plast. 2016; 2016
+Sennlaub F, Auvynet C, Calippe B, Lavalette S, Poupel L, Hu SJ, Dominguez E, Camelo S, Levy O, 
+Guyon E, Saederup N, et al. CCR2(+) monocytes infiltrate atrophic lesions in age-related 
+macular disease and mediate photoreceptor degeneration in experimental subretinal inflammation 
+in Cx3cr1 deficient mice. EMBO Mol Med. 2013; 5:1775–1793. [PubMed: 24142887] 
+Singh A, Falk MK, Hviid TV , Sorensen TL. Increased expression of CD200 on circulating CD11b+ 
+monocytes in patients with neovascular age-related macular degeneration. Ophthalmology. 2013; 
+120:1029–1037. [PubMed: 23410964] 
+Stefansson E, Geirsdottir A, Sigurdsson H. Metabolic physiology in age related macular degeneration. 
+Prog Retin Eye Res. 2011; 30:72–80. [PubMed: 20951826] 
+Straiker A, Stella N, Piomelli D, Mackie K, Karten HJ, Maguire G. Cannabinoid CB1 receptors and 
+ligands in vertebrate retina: localization and function of an endogenous signaling system. Proc 
+Natl Acad Sci U S A. 1999; 96:14565–14570. [PubMed: 10588745] 
+Streilein JW. Immunoregulatory mechanisms of the eye. Prog Retin Eye Res. 1999; 18:357–370. 
+[PubMed: 10192517] 
+Streilein JW. Immunological non-responsiveness and acquisition of tolerance in relation to immune 
+privilege in the eye. Eye. 1995; 9(Pt 2):236–240. [PubMed: 7556724] 
+Streilein JW, Ma N, Wenkel H, Ng TF, Zamiri P. Immunobiology and privilege of neuronal retina and 
+pigment epithelium transplants. Vision Res. 2002; 42:487–495. [PubMed: 11853765] 
+Sugita S, Horie S, Nakamura O, Futagami Y , Takase H, Keino H, Aburatani H, Katunuma N, Ishidoh 
+K, Yamamoto Y , Mochizuki M. Retinal pigment epithelium-derived CTLA-2alpha induces 
+TGFbeta-producing T regulatory cells. J Immunol. 2008; 181:7525–7536. [PubMed: 19017942] 
+Sugita S, Usui Y , Horie S, Futagami Y , Aburatani H, Okazaki T, Honjo T, Takeuchi M, Mochizuki M. 
+T cell suppression by programmed cell death 1 ligand 1 on retinal pigment epithelium during 
+inflammatory conditions. Invest Ophthalmol Vis Sci. 2009
+Takizawa F, Tsuji S, Nagasawa S. Enhancement of macrophage phagocytosis upon iC3b deposition on 
+apoptotic cells. FEBS Lett. 1996; 397:269–272. [PubMed: 8955361] 
+Tezel G, Edward DP, Wax MB. Serum autoantibodies to optic nerve head glycosaminoglycans in 
+patients with glaucoma. Arch Ophthalmol. 1999; 117:917–924. [PubMed: 10408457] 
+Tezel G, Yang J, Wax MB. Heat shock proteins, immunity and glaucoma. Brain Res Bull. 2004; 
+62:473–480. [PubMed: 15036560] 
+Turnbull IR, Gilfillan S, Cella M, Aoshi T, Miller M, Piccio L, Hernandez M, Colonna M. Cutting 
+edge: TREM-2 attenuates macrophage activation. J Immunol. 2006; 177:3520–3524. [PubMed: 
+16951310] Chen et al. Page 23
+Prog Retin Eye Res . Author manuscript; available in PMC 2019 September 01.
+ Europe PMC Funders Author Manuscripts
+  Europe PMC Funders Author ManuscriptsVagaja NN, Chinnery HR, Binz N, Kezic JM, Rakoczy EP, McMenamin PG. Changes in murine 
+hyalocytes are valuable early indicators of ocular disease. Invest Ophthalmol Vis Sci. 2012; 
+53:1445–1451. [PubMed: 22297487] 
+Wang AL, Lukas TJ, Yuan M, Du N, Tso MO, Neufeld AH. Autophagy and exosomes in the aged 
+retinal pigment epithelium: possible relevance to drusen formation and age-related macular 
+degeneration. PLoS One. 2009; 4:e4160. [PubMed: 19129916] 
+Wang Y , Grenell A, Zhong F, Yam M, Hauer A, Gregor E, Zhu S, Lohner D, Zhu J, Du J. Metabolic 
+signature of the aging eye in mice. Neurobiol Aging. 2018; 71:223–233. [PubMed: 30172221] 
+Wax MB, Tezel G, Kawase K, Kitazawa Y . Serum autoantibodies to heat shock proteins in glaucoma 
+patients from Japan and the United States. Ophthalmology. 2001; 108:296–302. [PubMed: 
+11158802] 
+Wax MB, Yang J, Tezel G. Serum autoantibodies in patients with glaucoma. J Glaucoma. 2001; 
+10:S22–4. [PubMed: 11890266] 
+Wei Y , Wang X, Wang L. Presence and regulation of cannabinoid receptors in human retinal pigment 
+epithelial cells. Mol Vis. 2009; 15:1243–1251. [PubMed: 19547718] 
+Welge-Lussen U, Wilsch C, Neuhardt T, Wayne Streilein J, Lutjen-Drecoll E. Loss of anterior 
+chamber-associated immune deviation (ACAID) in aged retinal degeneration (rd) mice. Invest 
+Ophthalmol Vis Sci. 1999; 40:3209–3214. [PubMed: 10586944] 
+Wen X, Hu X, Miao L, Ge X, Deng Y , Bible PW, Wei L. Epigenetics, microbiota, and intraocular 
+inflammation: New paradigms of immune regulation in the eye. Prog Retin Eye Res. 2018; 
+64:84–95. [PubMed: 29357307] 
+Wenkel H, Chen PW, Ksander BR, Streilein JW. Immune privilege is extended, then withdrawn, from 
+allogeneic tumor cell grafts placed in the subretinal space. Invest Ophthalmol Vis Sci. 1999; 
+40:3202–3208. [PubMed: 10586943] 
+Wright GJ, Jones M, Puklavec MJ, Brown MH, Barclay AN. The unusual distribution of the neuronal/
+lymphoid cell surface CD200 (OX2) glycoprotein is conserved in humans. Immunology. 2001; 
+102:173–179. [PubMed: 11260322] 
+Wright GJ, Puklavec MJ, Willis AC, Hoek RM, Sedgwick JD, Brown MH, Barclay AN. Lymphoid/
+neuronal cell surface OX2 glycoprotein recognizes a novel receptor on macrophages implicated 
+in the control of their function. Immunity. 2000; 13:233–242. [PubMed: 10981966] 
+Xie X, Luo X, Liu N, Li X, Lou F, Zheng Y , Ren Y . Monocytes, microglia, and CD200-CD200R1 
+signaling are essential in the transmission of inflammation from the periphery to the central 
+nervous system. J Neurochem. 2017; 141:222–235. [PubMed: 28164283] 
+Xu H, Chen M. Targeting the complement system for the management of retinal inflammatory and 
+degenerative diseases. Eur J Pharmacol. 2016
+Xu H, Chen M, Forrester JV . Para-inflammation in the aging retina. Prog Retin Eye Res. 2009; 
+28:348–368. [PubMed: 19560552] 
+Xu H, Chen M, Manivannan A, Lois N, Forrester JV . Age-dependent accumulation of lipofuscin in 
+perivascular and subretinal microglia in experimental mice. Aging Cell. 2008; 7:58–68. 
+[PubMed: 17988243] 
+Xu H, Cheng CL, Chen M, Manivannan A, Cabay L, Pertwee RG, Coutts A, Forrester JV . Anti-
+inflammatory property of the cannabinoid receptor-2-selective agonist JWH-133 in a rodent 
+model of autoimmune uveoretinitis. J Leukoc Biol. 2007; 82:532–541. [PubMed: 17537989] 
+Xu H, Dawson R, Forrester JV , Liversidge J. Identification of novel dendritic cell populations in 
+normal mouse retina. Invest Ophthalmol Vis Sci. 2007; 48:1701–1710. [PubMed: 17389502] 
+Yazulla S. Endocannabinoids in the retina: from marijuana to neuroprotection. Prog Retin Eye Res. 
+2008; 27:501–526. [PubMed: 18725316] 
+Yeh FL, Hansen DV , Sheng M. TREM2, Microglia, and Neurodegenerative Diseases. Trends Mol 
+Med. 2017; 23:512–533. [PubMed: 28442216] 
+Yu DY , Cringle SJ. Oxygen distribution and consumption within the retina in vascularised and 
+avascular retinas and in animal models of retinal disease. Prog Retin Eye Res. 2001; 20:175–208. 
+[PubMed: 11173251] Chen et al. Page 24
+Prog Retin Eye Res . Author manuscript; available in PMC 2019 September 01.
+ Europe PMC Funders Author Manuscripts
+  Europe PMC Funders Author ManuscriptsZamiri P, Masli S, Kitaichi N, Taylor AW, Streilein JW. Thrombospondin plays a vital role in the 
+immune privilege of the eye. Invest Ophthalmol Vis Sci. 2005; 46:908–919. [PubMed: 
+15728547] 
+Zamiri P, Masli S, Streilein JW, Taylor AW. Pigment epithelial growth factor suppresses inflammation 
+by modulating macrophage activation. Invest Ophthalmol Vis Sci. 2006; 47:3912–3918. 
+[PubMed: 16936104] 
+Zamiri P, Sugita S, Streilein JW. Immunosuppressive properties of the pigmented epithelial cells and 
+the subretinal space. Chem Immunol Allergy. 2007; 92:86–93. [PubMed: 17264485] 
+Zhang H, Li F, Yang Y , Chen J, Hu X. SIRP/CD47 signaling in neurological disorders. Brain Res. 
+2015; 1623:74–80. [PubMed: 25795378] 
+Zhao L, Zabel MK, Wang X, Ma W, Shah P, Fariss RN, Qian H, Parkhurst CN, Gan WB, Wong WT. 
+Microglial phagocytosis of living photoreceptors contributes to inherited retinal degeneration. 
+EMBO Mol Med. 2015; 7:1179–1197. [PubMed: 26139610] 
+Zujovic V , Benavides J, Vige X, Carter C, Taupin V . Fractalkine modulates TNF-alpha secretion and 
+neurotoxicity induced by microglial activation. Glia. 2000; 29:305–315. [PubMed: 10652441] Chen et al. Page 25
+Prog Retin Eye Res . Author manuscript; available in PMC 2019 September 01.
+ Europe PMC Funders Author Manuscripts
+  Europe PMC Funders Author ManuscriptsHighlights
+✧ Localized disruption of iBRB and oBRB exists in the normal aging retina.
+✧ Immune regulatory cues from neurons and RPE cells are altered in the aging 
+retina.
+✧ The clearance function of retinal microglia is reduced during aging.
+✧ Microglial response to DAMPs shifts towards an inflammatory phenotype 
+during aging.
+✧ The aging retina is more susceptible to further insults.Chen et al. Page 26
+Prog Retin Eye Res . Author manuscript; available in PMC 2019 September 01.
+ Europe PMC Funders Author Manuscripts
+  Europe PMC Funders Author ManuscriptsFigure 1. Immune cells in the aged retina.
+Retinal flatmounts from 24 months old C57BL/6J mice were stained for Iba-1 (green), 
+Isolectin B4 (blue), and CD3 (red in A) or B200 (red in B) and imaged by confocal 
+microscopy. Arrows indicating intravascular leukocytes.Chen et al. Page 27
+Prog Retin Eye Res . Author manuscript; available in PMC 2019 September 01.
+ Europe PMC Funders Author Manuscripts
+  Europe PMC Funders Author ManuscriptsFigure 2. Tight-junctions and subretinal immune cells in retinal pigment epithelial cells of the 
+aged eye.
+(A) RPE-choroidal flatmounts from 24 months old C57BL/6J mice were stained for 
+claudin-1 (Green), ZO-1 (red), and Phalloidin (blue) and imaged by confocal microscopy. 
+Arrows indicate area of ZO-1 loss with no defect in claudin-1 and F-actin (by phalloidin 
+labelling) expression. (B, C) RPE-choroidal flatmounts from 24 months old C57BL/6J mice 
+were stained for Iba-1 (Green) and CD3 (red in B) or isolectin B4 (red in C) and imaged by 
+confocal microscopy. Arrowheads: cells dual-positive for Iba-1 and isolectin B4.Chen et al. Page 28
+Prog Retin Eye Res . Author manuscript; available in PMC 2019 September 01.
+ Europe PMC Funders Author Manuscripts
+  Europe PMC Funders Author ManuscriptsFigure 3. The expression of CD200-CD200R and CD47-SIRP in mouse retina.
+(A, B) Confocal images showing CD200 (A) and CD200R (B) expression in the retina from 
+3 months old C57BL/6J mice. (C, D) mRNA expression levels of CD200 (C) and CD200R 
+(D) in the retina from 3 months (young) and 24 months (old) C57BL/6J mice. (E, F) 
+Confocal images showing CD47 (E) and SIRP (F) expression in the retina from 3 months 
+old C57BL/6J mice. (G, H) mRNA expression levels of CD47 (G) and SIRP (H) in the retina 
+from 3 months (young) and 24 months (old) C57BL/6J mice. Mean ± SEM, n = 5.Chen et al. Page 29
+Prog Retin Eye Res . Author manuscript; available in PMC 2019 September 01.
+ Europe PMC Funders Author Manuscripts
+  Europe PMC Funders Author ManuscriptsFigure 4. Age-related changes in endocannabinoids 2-AG and AEA in mouse retina.
+Retinal tissues from 3, 18 and 27 months old C57BL/6J and CCL2-/- mice were snap-frozen 
+and processed for measuring of 2-AG and AEA using liquid chromatography/mass 
+spectrometry. The values of 2-AG and AEA were normalized by tissue weights and total 
+protein content. (A) 2-AG levels in the retina of WT mice at different ages. (B) AEA levels 
+in the retina of WT mice at different ages. (C, D) Comparison of retinal 2-AG (C) and AEA 
+(D) levels between WT and CCL2-/- mice at different ages. N ≥ 6 mice. *, P<0.05.Chen et al. Page 30
+Prog Retin Eye Res . Author manuscript; available in PMC 2019 September 01.
+ Europe PMC Funders Author Manuscripts
+  Europe PMC Funders Author ManuscriptsFigure 5. The effect of RPE on macrophage gene expression.
+(A, B) Bone marrow-derived macrophages (BMDMs) and primary RPE cells were cultured 
+from 3 months old C57BL/6J mice. RPE cells were then treated with oxidized photoreceptor 
+outer segments (oxPOS) for 24 h. BMDMs were co-cultured with RPE cells for 7 h. Cells 
+were detached in ice-cold PBS with 2mM EDTA. Macrophages were then isolated by 
+CD11b MACS kit (Miltenyi Biotec, UK) and processed for real-time RT-PCR. (A) Genes 
+related to the inflammatory M1 phenotype. (B) Genes related to the M2 phenotype. Data 
+shown are gene fold changes compared with macrophages without RPE treatment. RPE(-) – Chen et al. Page 31
+Prog Retin Eye Res . Author manuscript; available in PMC 2019 September 01.
+ Europe PMC Funders Author Manuscripts
+  Europe PMC Funders Author ManuscriptsBMDMs alone; RPE(+) – BMDMs co-cultured with normal RPE cells; oxPOS RPE(+) – 
+BMDMs co-cultured with oxPOS-treated RPE cells. Mean ± SEM, n = 3. *, P<0.05; **, 
+P<0.01 compared with macrophages without RPE treatment. †, P<0.05 compared with 
+normal RPE treated macrophages.Chen et al. Page 32
+Prog Retin Eye Res . Author manuscript; available in PMC 2019 September 01.
+ Europe PMC Funders Author Manuscripts
+  Europe PMC Funders Author ManuscriptsFigure 6. The effect of RPE cells on macrophage phagocytosis.
+CD4+ T cells were isolated from 3 months old C57BL/6J mice and were labeled with 
+MitoTracker Orange. Apoptosis was induced by serum deprivation. Primary RPE cells were 
+treated with oxPOS for 24 h. Bone marrow-derived macrophages, either untreated, or pre-
+treated with normal RPE, or oxPOS-treated RPE, were labeled with Calcein AM. 
+Macrophages were then supplemented with apoptotic T cells (macrophage: T cell ratio = 
+1:10) for 24h. Remaining T cells were counted at the end of the study. (A) Apoptotic T cells 
+without macrophages. (B) Apoptotic T cells incubated with normal macrophages for 24 h. 
+(C) Apoptotic T cells incubated with normal RPE pre-treated macrophages. (D) Apoptotic T 
+cells incubated with macrophages that were pre-treated with oxPOS-treated RPE cells. 
+apoCD4 – apoptotic CD4 T cells; Mac – macrophages; Mac(RPE) – macrophages pre-
+treated with normal RPE cells; Mac(oxRPE) – macrophages pre-treated with oxPOS-treated 
+RPE cells. Mean ± SEM, n = 3. *, P<0.05. Scale bar = 50 μm.Chen et al. Page 33
+Prog Retin Eye Res . Author manuscript; available in PMC 2019 September 01.
+ Europe PMC Funders Author Manuscripts
+  Europe PMC Funders Author ManuscriptsFigure 7. Age-related alterations in retinal microglial activation and function.
+(A) Under normal physiological conditions, microglia patrol retinal microenvironment 
+through crawling dendrites. Microglia may be activated after engaging with Damage 
+Associated Molecular Patterns (DAMPs) by cell surface receptors such as TLRs, NLRs and 
+IL-1Rs. This activation process is tightly controlled by various signals from surrounding 
+neurons (e.g., CX3CL1-CX3CR1, CD200-CD200R, CD47-SIRP-1, etc.). (B) During aging, 
+oxidative stress damages retinal neurons leading to the weakening of negative regulatory 
+signals and the accumulation of DAMPs. This results in low-levels of sustained microglial 
+activation. In the meantime, sustained chronic oxidative stress also damages microglial 
+function.Chen et al. Page 34
+Prog Retin Eye Res . Author manuscript; available in PMC 2019 September 01.
+ Europe PMC Funders Author Manuscripts
+  Europe PMC Funders Author ManuscriptsFigure 8. Age-related changes in retinal complement expression.
+(A) Under normal physiological conditions, retinal cells, including microglia, RPE and 
+neurons express various complements and complement regulators. The expression levels of 
+complement inhibitors such as CFH, C1INH and CD59 is relatively higher than that of 
+complement components such as C3 and C5. Low levels of complement expression and 
+activation is critical for retinal homeostasis. (B) During aging, oxidative stress and low-
+levels of inflammation reduce the expression of complement inhibitors but increase the 
+expression of complement components (e.g., CFB and C3). BM – Bruch’s Membrane; RPE 
+– retinal pigment epithelium; CFB – complement factor B; CFH – complement factor H, 
+C1INH – C1 inhibitor; C4BP – C4 binding protein; M ϕ - macrophageChen et al. Page 35
+Prog Retin Eye Res . Author manuscript; available in PMC 2019 September 01.
+ Europe PMC Funders Author Manuscripts
+  Europe PMC Funders Author Manuscripts Europe PMC Funders Author Manuscripts
+  Europe PMC Funders Author ManuscriptsChen et al. Page 36Table 1
+Retinal defense mechanisms in normal aging and age-related disease conditions
+Defense strategies Young Retina Aging Retina Degenerative Retina
+Avoidance✧Intact iBRB and oBRB ✧Discrete breach of iBRB and oBRB, may be repaired 
+(transient).✧Substantial damage of iBRB and oBRB at the 
+lesion site, unable to repair.
+Tolerance✧Strong suppressive and tolerogenic 
+signals from neurons and RPE cells.
+✧Ocular compartment-mediated 
+immune deviation maintained 
+(ACAID, V AID, SRSID).✧Reduced: CD200, CX3CR1, TGF β, TREM2, others (?).
+✧Increased: IL-10, endocannabinoids, others (?)
+✧Ocular compartment-mediated immune deviation 
+maintained.✧Reduced or complete loss of inhibitory signals 
+from neurons and RPE cells at the lesion site. 
+The remaining neurons and RPE cells may 
+maintain immune suppressive with reduced 
+capacity.
+✧Loss of ocular compartment-mediated immune 
+deviation.
+Outcome on 
+Immune privilege✧Retina maintains as an immune 
+privileged tissue;
+✧Vitreous cavity and subretinal space 
+are immune privileged sites.✧Retina remains privileged, but at risk of immune attach 
+due to weak barriers and reduced suppressive capacity.
+✧Vitreous cavity and subretinal space remain as sites of IP, 
+but at risk of inducing inflammation due to low-level of 
+immune cell infiltration.✧Retina suffers from inflammatory attack at the 
+lesion site. The unaffected area may remain 
+partially privileged.
+✧Vitreous cavity (e.g., in DR) and subretinal 
+space (e.g., in AMD) may lose immune 
+regulatory capacity.
+Defense✧Resting microglia patrolling 
+microenvironment using motile 
+dendrites.
+✧Low-levels of complement 
+expression without overt complement 
+activation.✧Microglia undergo mild activation and low-levels of 
+proliferation.
+✧Microglia migrate to out retinal layers and subretinal 
+space.
+✧Low levels of macrophage infiltration (?)
+✧Low levels of complement activation in neuronal retina 
+and retina-choroid interface.✧Microglia activation.
+✧Immune cell (T cells, macrophages, 
+neutrophils, etc) infiltration.
+✧Dysregulated complement activation.
+OutcomesMaintain homeostasis Re-adjust homeostatic set point, vulnerable to further internal and 
+external insults.Tissue damage and destruction, loss of function.
+Prog Retin Eye Res . Author manuscript; available in PMC 2019 September 01.

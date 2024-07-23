@@ -1,0 +1,890 @@
+Clinical and biochemical footprints of inherited metabolic 
+disorders. VII. Ocular phenotypes
+Alejandro Garanto1,2, Carlos R. Ferreira3, Camiel J.F. Boon4, Clara D.M. van Karnebeek1,5, 
+Nenad Blau6
+1Department of Pediatrics, Amalia Children’s Hospital Radboud Center for Mitochondrial and 
+Metabolic Diseases, Radboud Institute for Molecular Life Sciences, Radboud University Medical 
+Center, Nijmegen, the Netherlands
+2Department of Human Genetics, Radboud Institute for Molecular Life Sciences, Radboud 
+University Medical Center, Nijmegen, the Netherlands
+3National Human Genome Research Institute, National Institutes of Health, Bethesda, MD, USA
+4Department of Ophthalmology, Leiden University Medical Center, Leiden, The Netherlands 
+and Amsterdam University Medical Centers, Academic Medical Center, Department of 
+Ophthalmology, University of Amsterdam, Amsterdam, The Netherlands
+5Departments of Pediatrics and Human Genetics, Emma Children’s Hospital, Amsterdam 
+University Medical Centers, Amsterdam, the Netherlands
+6Division of Metabolism, University Children’s Hospital, Zürich, Switzerland
+Abstract
+Ocular manifestations are observed in approximately one third of all inherited metabolic 
+disorders (IMDs). Although ocular involvement is not life-threatening, it can result in severe 
+vision loss, thereby leading to an additional burden for the patient. Retinal degeneration with 
+or without optic atrophy is the most frequent phenotype, followed by oculomotor problems, 
+involvement of the cornea and lens, and refractive errors. These phenotypes can provide valuable 
+clues that contribute to its diagnosis. In this issue we found 577 relevant IMDs leading to 
+ophthalmologic manifestations. This article is the seventh of a series attempting to create and 
+maintain a comprehensive list of clinical and metabolic differential diagnoses according to system 
+involvement.
+Keywords
+eye; inborn errors of metabolism; ocular phenotypes; inherited metabolic disorders; 
+ophthalmologic; retina; optic atrophy; IEMbase
+Correspondence: Dr. Alejandro Garanto, Departments of Pediatrics and Human Genetics, Radboud University Medical Center, 6525 
+GA Nijmegen, The Netherlands, alex.garanto@radboudumc.nl. 
+Publisher's Disclaimer: This is a PDF file of an unedited manuscript that has been accepted for publication. As a service to our 
+customers we are providing this early version of the manuscript. The manuscript will undergo copyediting, typesetting, and review 
+of the resulting proof before it is published in its final form. Please note that during the production process errors may be discovered 
+which could affect the content, and all legal disclaimers that apply to the journal pertain.
+HHS Public Access
+Author manuscript
+Mol Genet Metab . Author manuscript; available in PMC 2023 September 24.
+Published in final edited form as:
+Mol Genet Metab . 2022 April ; 135(4): 311–319. doi:10.1016/j.ymgme.2022.02.002.
+Author Manuscript Author Manuscript Author Manuscript Author Manuscript1. Introduction
+With this series of articles, we provide a comprehensive list of inherited metabolic disorders 
+(IMDs) associated with specific organ involvement. The previous six issues are associated 
+with movement disorders [ 1], metabolic liver disorders [ 2], psychiatric presentations [ 3], 
+cardiovascular diseases [ 4], cerebral palsy [ 5] and skin manifestations [ 6]. This article is the 
+seventh in this series and focuses on ocular phenotypes.
+The list follows the classification in the knowledgebase of IMDs (IEMbase) [ 7], the 
+proposed nosology of IMDs [ 8] and the international classification of IMDs (ICIMD) [ 9]. 
+Data source is the IEMbase ( http://www.iembase.org ).
+2. The eye
+The eye is the window to the world around us. Vision enables us to be able to read, 
+distinguish products at the supermarket, or recognize faces or emotions. Several studies have 
+shown that about one third of IMD cohorts had ophthalmological abnormalities [ 10,11], 
+resulting in partial or even total vision loss. These manifestations vary extremely and can 
+be congenital or “acquired”, appearing as the first symptom of an IMD or in the advanced/
+late stages of disease [ 12]. Some IMDs even present with an isolated ocular phenotype, 
+i.e., without developing clinically significant manifestations in other organs. Thus, detailed 
+clinical evaluation and targeted diagnostics are crucial to identify the metabolic disease, its 
+prognosis and possible treatment.
+The eye is located in the orbit and surrounded by the extraocular muscles that control the 
+movement of the eye itself as well as the eyelids. The anatomy of the eye is well-defined 
+and contains distinguishable structures (Figure 1). The anterior segment is the part of the eye 
+with the cornea on the most external side. The cornea is a transparent avascular tissue that 
+provides the strongest focusing power, and at the same time plays a role in protecting the 
+inner eye from the external environment [ 13]. The crystalline lens additionally contributes to 
+the focusing power of the eye. The iris controls the amount of light entering the eye [ 14]. 
+Behind the lens, we find the vitreous chamber filled with a clear and acellular gel called 
+the vitreous humor. The overall function of this compartment is to maintain the spherical 
+shape of the eye. In addition, it allows the light to pass without refraction and suspends the 
+lens, therefore playing an indirect role in focusing the light on the retina, which is located in 
+the posterior part of the eye. The retina is a complex and specialized multilayered neuronal 
+tissue consists of many subtypes of cells. In brief, the photosensitive cells (photoreceptors) 
+capture the light and transform it into chemical and electrical signals that travel through 
+the other layers of the retina until reaching the ganglion cells. Once there, those signals 
+travel to the brain through the optic nerve, which is formed by the axons of the ganglion 
+cells. Finally, the brain processes these signals and generates an image [ 15]. The pigmented 
+cell layer called the retinal pigment epithelium (RPE) protects the photosensitive cells from 
+overexposure to light as well as detoxifies and recycles certain proteins or compounds 
+derived from the visual cycle and photoreceptor function [ 15]. These cells together with the 
+retinal vascular endothelium form the blood-retinal barrier. All these different structures may 
+be affected in IMDs.Garanto et al. Page 2
+Mol Genet Metab . Author manuscript; available in PMC 2023 September 24.
+Author Manuscript Author Manuscript Author Manuscript Author ManuscriptOf all the IMDs with ocular phenotypes tabulated in the IEMbase (n=577, Supplemental 
+Table 1), approximately 30% show involvement of the frontal part of the eye (cornea 
+and lens) and around 50% of the neuroretina, with or without optic nerve involvement. 
+Oculomotor manifestations appear in about 200 IMDs (~40%). The major IMDs associated 
+with eye abnormalities are those related to lipid, carbohydrate, protein and metal 
+metabolism. In addition, all enzymes involved in the visual cycle lead to isolated retinal 
+abnormalities when mutated, despite the discrepancies between databases regarding their 
+inclusion as IMDs. Overall, these ocular defects have symmetrical bilateral involvement 
+[16,17]. Below we discuss some of the ocular phenotypes for a few IMDs.
+3. Signs and symptoms
+3.1. Extraocular structures: eyelids
+Manifestations in the anterior part of the eye are frequently visible and detectable by 
+external examination of the eye and the ocular adnexa. Ptosis  is the dropping of the 
+eyelid. This can be caused by either damage of the nerves or the extraocular muscles. 
+This sign is a common feature and despite being often overlooked it can lead to the 
+identification of a severe disorder when observed during childhood [ 18]. This common 
+feature is observed at all ages and can be unilateral or bilateral. Congenital ptosis of eyelid 
+has been associated with neuromuscular and mitochondrial diseases [ 19]. In addition, ptosis 
+has a higher prevalence in infantile cases of Pompe disease (a glycogen storage disease 
+caused by pathogenic variants in GAA ), in which bilateral involvement has been observed in 
+almost all cases as reported previously [ 20].
+3.2. Anterior segment: cornea, iris, pupil and lens
+Anterior segment manifestations can be readily detected on cursory eye examination using a 
+slit lamp microscope. Frequently, the ophthalmic phenotypes are associated with opacity or 
+clouding of the cornea or lens.
+IMDs often present corneal opacities  or clouding. In this condition, the cornea loses its 
+transparency and may even develop a cloudy/whitish appearance with advance disease. 
+As a result, they can cause irritation, blurry vision, photophobia (sensitivity to light) or 
+vision loss. Gaucher disease is caused by biallelic pathogenic variants in GBA1,  in which 
+all parts of the eye can be affected, but the white corneal opacities are most frequently 
+reported, probably due to the accumulation of deposits of glucocerebroside [ 21]. Corneal 
+opacities are also common to other lysosomal storage diseases. In fact, this distinctive 
+trait is a key player in early detection and diagnosis of X-linked Fabry disease ( GLA ), 
+since >70% of patients present with this symptom (cornea verticilata) [ 22]. Amongst the 
+majority of the mucopolysaccharidoses (MPS), congenital yellowish-grey color deposits of 
+glycosaminoglycans progressively accumulate in all the layers of the cornea thereby leading 
+to loss of visual acuity. This feature is often reported in type I, IV and VI MPS, but rarely 
+in type II, and also not detected in type III MPS [ 23]. The accumulation of lipids causing 
+corneal clouding is also found in patients with mucolipidoses [ 24]. In Wilson disease, a 
+defect in copper metabolism, a ring consisting of copper deposits can be observed in the 
+Descemet’s membrane and eventually encircling the cornea of both eyes in 65–95% of Garanto et al. Page 3
+Mol Genet Metab . Author manuscript; available in PMC 2023 September 24.
+Author Manuscript Author Manuscript Author Manuscript Author Manuscriptpatients [ 25]. This manifestation is known as Kayser-Fleischer rings . A second ophthalmic 
+sign caused by the deposition of copper in the anterior capsule of the lens, called sunflower 
+cataract, is observed in this disease. However, it is postulated that this manifestation is not 
+a pathognomonic sign of the disease [ 26]. Cystine crystals in the periphery of the cornea 
+appear as of 16 month and extend with the disease progression in all forms of cystinosis 
+[27–29].
+Coloboma  constitutes a tissue defect of the eye, that may affect the iris, retina, choroid 
+and/or optic disc. This condition occurs during eye development and can affect one 
+or both eyes, but not necessarily affecting the same region. A coloboma of the iris 
+is the most common type and mildest form of coloboma in IMDs. However, severe 
+colobomas can also be present and they virtually affect all ocular structures causing severe 
+visual dysfunction. Coloboma is frequently observed in patients suffering from congenital 
+disorders of glycosylation (CDG), such as SRD5A3-CDG [ 30,31]. This phenotype has also 
+been reported in uncontrolled maternal phenylketonuria and sporadic patients with other 
+CDGs such as ALG2-CDG, ALG3-CDG and PIGL-CDG (CHIME syndrome) [ 32,33,24].
+The iris is also affected by several IMDs. For instance, in albinism the iris is nearly 
+translucent due to lack of pigmentation. This iris transillumination, however, is not exclusive 
+to albinism, and is associated with other non-metabolic diseases. Albinism is caused by 
+mutations in 15 genes and besides the iris transillumination, patients also present refractive 
+errors like myopia, nystagmus and strabismus (see section 3.3), photophobia (sensitivity to 
+light) and poor vision amongst other symptoms [ 34]. Aniridia  is a congenital condition in 
+which the iris is not present. This phenotype has been reported in a large consanguineous 
+Italian family suffering from hyperprolinemia type I [ 35]. This study was published in 1976 
+and the gene associated with aniridia ( PAX6 ) was identified by positional cloning in 1991. 
+Therefore, it is plausible that eventually pathogenic variants in PAX6  were segregating 
+within the family, explaining this isolated case of a metabolic disease in combination with 
+aniridia. A diminished pupillary reflex  can be observed in several IMD. In a normal 
+situation, the pupil contracts in the presence of bright light to regulate the amount of light 
+entering the eye, and the opposite occurs in dim light conditions. This process is regulated 
+by a small group of photosensitive retinal ganglion cells and examples are described in 
+section 3.3.
+Cataract  is an opacification of the crystalline lens, leading to decreased vision. Although 
+they are commonly associated with ageing in the general population, in IMDs they may 
+already present congenitally, neonatally or at different ages in life as a consequence of the 
+biochemical defect.
+Several IMDs manifest congenital cataract in the majority of patients: peroxisomal 
+biogenesis disorders [ 36] and Lowe syndrome [ 37]. These can be initial signs that can 
+contribute to the identification of the IMD. Galactosemia is an inherited recessive disease 
+affecting galactose metabolism. In classical galactosemia, a significant percentage of 
+patients develop bilateral cataracts in the newborn period. The cause of opacities in the 
+lens is the accumulation of galactitol [ 38]. The type of cataract may be indicative of the 
+underlaying IMD: e.g. galactosemia patients typically show an ‘oil droplet’ aspect of the Garanto et al. Page 4
+Mol Genet Metab . Author manuscript; available in PMC 2023 September 24.
+Author Manuscript Author Manuscript Author Manuscript Author Manuscriptcataract in the nucleus of the lens [ 39]. This is one of the few symptoms that can be reversed 
+upon dietary galactose restriction if initiated early [ 40]. The number of IMDs including 
+cataract development in infancy and later stages increases compared to the congenital and 
+neonatal stages. Nevertheless, for some IMDs this manifestation can differentially help to 
+identify the metabolic cause. Some examples are sialidosis, alpha-mannosidosis, mevalonic 
+aciduria, Wilson disease (see above) or cerebrotendinous xanthomatosis (CTX). CTX is a 
+rare disease affecting the breakdown of cholesterol. Patients suffering from CTX present 
+early-onset cataract and chronic diarrhea. Remarkably, the ocular symptoms may precede 
+other neurological and systemic manifestations [ 41].
+Dislocation of the lens , also called ectopia lentis,  is another possible manifestation in IMDs. 
+Classical homocystinuria is an inherited autosomal recessive disease caused by pathogenic 
+variants in the CBS  gene. Lens dislocation is noticed in 35% of patients at 5 years of 
+age. This number dramatically increases to 90% at the age of 25 years [ 42]. In another 
+study, it was reported that 86% of patients were found to have ectopia lentis  [43]. Thus, 
+classical homocystinuria should be included in the differential diagnosis of lens dislocation 
+[44,45]. Due to weakness of the lens zonules, the lens of homocystinuria patients is typically 
+subluxated inferiorly, in contrast to patients with Marfan syndrome, in which the lens is 
+subluxated superiorly [ 46]. Similarly, lens dislocation is observed during the first year of life 
+in sulfite oxidase deficiency and molybdenum cofactor-deficient patients [ 47]. Other IMDs 
+can, in a very small percentage of patients, show lens dislocation. For example, ~5% of a 
+cohort of 58 patients with aminoacidopathies developed this condition [ 11].
+In some cases, these features may not be obvious during a general inspection due to the 
+discrete involvement. Therefore, more specialized examinations may be required to rule out 
+or identify mild corneal opacities, cataract or other anterior segment anomalies.
+3.3. Posterior segment: retina and optic nerve
+Involvement of the posterior eye relies more on the symptomatology described by the patient 
+(e.g., night blindness, tunnel vision, etc.) and in-depth ophthalmic evaluation by examining 
+the fundus of the eye.
+3.3.1. The Retina— Retinal degeneration , especially retinal dystrophy due to 
+monogenic inherited disorders, is often characterized by early-onset photoreceptor cell death 
+leading to progressive loss of vision. There are multiple subtypes of retinal dystrophy and 
+they are classified based on the first involved cell type in the pathology, the progression, 
+or the genetic cause. For instance, retinitis pigmentosa (RP) is one of the most common 
+retinal degeneration associated with IMDs. RP consists of the degeneration of rods, 
+followed by the death of cones. This leads to night blindness, and progressive loss of 
+peripheral vision (also called tunnel vision) that can ultimately result in total blindness. 
+At the ophthalmologic level, RP is characterized by abnormal dark pigment in the fundus, 
+decreased electrical activity of the photoreceptors (as measured by electroretinography), 
+progressive reduction in the peripheral visual field, and eventually central vision loss in 
+advanced disease. However, other subtypes of retinal degenerations can also be observed in 
+IMDs: The retina is a highly metabolically active tissue; thus, defects in energy metabolism Garanto et al. Page 5
+Mol Genet Metab . Author manuscript; available in PMC 2023 September 24.
+Author Manuscript Author Manuscript Author Manuscript Author Manuscriptcan have a dramatically detrimental effect. Isolated retinal diseases are often caused by 
+pathogenic variants in genes that affect exclusively the function of the retina. For example, 
+IMDs with isolated ocular manifestations can be caused by deficiency of the enzymes 
+involved in vitamin A metabolism, and therefore the visual cycle (i.e., RPE65, LRAT, 
+RDH12,  etc.). Pathogenic variants in these genes lead to Leber congenital amaurosis 
+(LCA), a congenital and severe form of retinal disease. Another example of IMD with a 
+predominant eye phenotype is ornithine aminotransferase (OAT) deficiency, which affects 
+the retina and secondarily the choroid in the form of gyrate atrophy . This condition 
+leads to progressive night blindness and peripheral vision loss from the first decade of 
+life onwards. Central vision and macular structure are usually preserved up to the fifth 
+decade of life, after which the macula can also become affected with consequent severe 
+vision loss [ 48,49]. Although the pathophysiology of the gyrate atrophy is not yet well 
+understood, several hypotheses have been postulated: direct toxic effect due to ornithine 
+accumulation or one of its metabolites; impairment of creatine biosynthesis due to high 
+levels of ornithine; or reduction of proline levels [ 50]. Regardless of the mechanism, 
+treatment with creatine supplementation did not halt progression of the disease [ 51]. 
+Dietary treatment, however, has been shown to slow down disease progression to varying 
+degrees, but is not preventative [ 49]. Remarkably, in hyperornithinemia-hyperammonemia-
+homocitrullinuria (HHH) syndrome, also characterized by high ornithine levels, no retinal 
+phenotype has been reported. Conversely, similar fundus characteristics in the presence of 
+normal ornithine levels are associated with iminoglycinuria. Iminoglycinuria is an autosomal 
+recessive metabolic disease caused by pathogenic variants in either SLC36A2, SLC6A20  or 
+SLC6A19,  which affects the renal reabsorption of glycine, proline and hydroxyproline. It is 
+a condition observed in newborns whose clinical features can subside after about 6 months 
+[52]. It is usually a benign disorder, though in some cases it can lead to gyrate atrophy 
+[53,54].
+In syndromic diseases, the eye can also be affected if the enzyme conducts a crucial 
+function in the retina. As highlighted before, RP is often the most commonly observed 
+retinal degeneration in many, but not all multisystemic IMDs. This is for example the 
+case of several CDG. Furthermore, it is known that photoreceptors require lipids to form 
+their outer segment discs, in which the visual phototransduction is initiated and the basis 
+of vision lies [ 46]. Ten percent of these discs are recycled every day; therefore, it is 
+expected that disruption of lipid metabolism would have a big impact on the retina. In fact, 
+complex lipid disorders like Sjögren-Larsson syndrome (SLS) show skin, brain, and eye 
+involvement. SLS patients present abnormal macular morphology and pigmentation with 
+early onset. Intraretinal crystals detected as hyperreflective dots are visible in the retinal 
+nerve fiber layer, inner plexiform layer and outer plexiform layer of both eyes [ 55]. With 
+the progression of the disease, the central part of the retina is damaged, leading to RPE 
+atrophy followed in some cases by neovascularization [ 55]. Pathogenic variants in the very 
+long-chain fatty acid elongase 4 ( ELOVL4 ) have been associated with retinal phenotypes. 
+Other hypothesized sphingolipid-related genes have been associated with RP. This is the 
+case of CERKL . Initially, it was believed that CERKL was a ceramide kinase [ 56] and 
+it was shown that its downregulation affected the levels of several sphingolipid species in Garanto et al. Page 6
+Mol Genet Metab . Author manuscript; available in PMC 2023 September 24.
+Author Manuscript Author Manuscript Author Manuscript Author Manuscriptthe mouse retina [ 57]. More recently, it has been shown that the CERKL protein regulates 
+mitochondrial function [ 58].
+Cherry-red spot  is a fundoscopic finding consisting of a small red circular shape in the 
+macula that can be a key finding when diagnosing an IMD. This aspect is the result of 
+a retinal edema caused by a central retinal artery occlusion or traumatic retinal ischemia. 
+A cherry-red spot appearance is common in Tay-Sachs disease, acid sphingomyelinase 
+deficiency, Sandhoff disease or galactosialidoses, and can be occasionally observed in 
+other sphingolipidoses/lipid storage diseases such as Gaucher, Farber or Krabbe diseases 
+[24,17,12,59]. In the latter case, retinal degeneration and optic atrophy are observed and can 
+lead to blindness in the late stages of the disease [ 60], although optic nerve enlargement 
+from globoid cell accumulation can also be seen.
+Another group of IMDs which often presents with retinal degeneration is neuronal ceroid 
+lipofuscinosis. For instance, patients suffering of CLN3 disease develop early ocular 
+symptoms that range from loss of visual acuity, color vision or peripheral vision that 
+can be accompanied by nyctalopia, nystagmus and photophobia. With progression of the 
+disease, the eyes remain normal except for the retina and optic nerve which degenerate [ 61]. 
+Another subtype of neuronal ceroid lipofuscinosis, CLN7 caused by pathogenic variants 
+in MFSD8 , is also characterized by progressive loss of vision due to retinal changes 
+described as “salt and pepper” appearance. However, the first symptoms in those patients 
+are generalized seizures (around 5 years of age) and within 2–3 years (around age 8) 
+visual impairment is observed [ 62]. Furthermore, in the case of MFSD8- associated retinal 
+phenotypes, the severity of the variant determines the degree of involvement ranging from 
+isolated degeneration of the macula to a syndromic neurological disease [ 63,64].
+Other diseases in which the retina is affected are errors in mitochondrial energy metabolism 
+(e.g. Kearns-Sayre syndrome), copper metabolism or cobalamin C deficiency, or some 
+congenital disorders of glycosylation, as well as albinism.
+3.3.2. The optic nerve— Optic atrophy  is a manifestation of the degeneration of the 
+optic nerve caused by multiple factors. It can result from damage of the optic nerve either 
+at the retinal ganglion cells, whose axons form the optic nerve, or in the path to the brain. 
+Other factors that can lead to optic atrophy are glaucoma, physical pressure on the optic 
+nerve or congenital malformation of the optic nerve. Often, this degeneration leads to 
+irreversible vision loss. Glaucoma is one of the most common causes of optic atrophy due 
+to abnormally high pressure in the eye. Aicardi-Goutières syndrome is caused by pathogenic 
+variants in the genes involved in nucleic acid metabolism ( SAMHD1, TREX1, RNASEH2A, 
+RNASEH2B  and RNASEH2C ) and can present with congenital glaucoma as part of the 
+disease manifestations [ 65]. Similarly, defects in the PEX  genes leading to peroxisome 
+biogenesis disorders in the Zellweger syndrome spectrum, are known to affect nearly every 
+organ, and in the eye, almost all parts can become involved. Patients suffering from these 
+diseases might present multiple ocular manifestations such as corneal clouding, cataracts, 
+glaucoma, retinal abnormalities and optic atrophy [ 66].Garanto et al. Page 7
+Mol Genet Metab . Author manuscript; available in PMC 2023 September 24.
+Author Manuscript Author Manuscript Author Manuscript Author ManuscriptBesides glaucoma, optic atrophy can also occur when the optic nerve has not been developed 
+properly due to an inflammatory process. Several IMDs present optic atrophy, especially 
+those resulting from defects in energy metabolism [ 67]. For instance, Leber hereditary 
+optic neuropathy is the most common mitochondrial genetic disease and patients present 
+severe loss of optic nerve fibers [ 68]. Similarly, defects in mitochondrial fusion genes, such 
+as OPA1  and OPA3 , cause autosomal dominant optic atrophy 1 (OPA1) and autosomal 
+dominant optic atrophy and cataract (ADOAC) or autosomal recessive Costeff syndrome, 
+respectively. In ADOAC, cataract can also be recognized in the first decade [ 69] and the 
+molecular mechanism is believed to be a dominant-negative effect. In Costeff syndrome, in 
+contrast, the mechanism appears to be haploinsufficiency [ 67].
+Another optic nerve-related symptom is a slow or absent pupillary reaction. A diminished 
+pupillary reflex  can indicate a retinal abnormality and can be seen in nicotinamide 
+mononucleotide adenylyltransferase 1 deficiency caused by pathogenic variants in 
+NMNAT1 , or lecithin retinol acyltransferase deficiency from variants in LRAT.  In contrast, 
+in other diseases with optic nerve involvement such as Leber hereditary optic neuropathy 
+(LHON) or mitochondrial encephalomyopathy, lactic acidosis, and stroke-like episodes 
+(MELAS), the pupillary light reflexes are to some extent preserved [ 70].
+Optic atrophies can also be found in mitochondrial energy metabolism defect such as Leigh 
+syndrome, in leukodystrophies, Menkes disease, or Friedreich ataxia amongst others.
+3.4. Oculomotor and refractive errors
+Oculomotor or eye movement manifestations are often reported as neurological symptoms 
+in IMDs [ 71]. Oculomotor errors are often caused by neuronal defects, but can also occur 
+due to abnormalities of the external ocular muscles. Refractive errors are caused by light 
+rays entering the eye but not focused on the retina, leading to blurred vision. Myopia  is 
+a common refractive error caused by the curvature of the cornea. Interestingly, almost all 
+homocystinuria patients suffer from myopia [ 72] and this trait is also prevalent in ornithine 
+aminotransferase deficiency patients [ 73]. This trait is also associated with albinism patients, 
+as previously described. High myopia is associated with severe degenerative abnormalities 
+of the posterior part of the eye, such as macular degeneration, retinal detachment, and even a 
+severe circumscribed outpouching of the wall of the globe called staphyloma [ 74].
+Strabismus  is the occasional or constant misalignment of the eyes when looking at an 
+object. It can be caused by muscle imbalance but also refractive errors. In IMDs, strabismus 
+and nystagmus are often present simultaneously. Nystagmus  is the involuntary movement 
+of the eye that has a peripheral (retina, optic nerve, and vestibular system) or central origin 
+(central visual pathways, cortex, cerebellum and midbrain). This condition can present in 
+different ways depending on the disease. For example, in Sandhoff disease, nystagmus 
+can be accompanied with impaired horizontal and vertical saccades [ 75]. In contrast, a 
+broad range of oculomotor manifestations, including nystagmus, strabismus and fixation 
+problems, can be observed in several CDG [ 31]. In some cohorts of patients suffering from 
+urea cycle disorders, nystagmus or strabismus have been observed in up to 33% of the 
+cases [ 11]. Morquio syndrome (MPS IV A) children can present nystagmus and it has been 
+suggested that these patients are slower in detecting visual targets and showed problems Garanto et al. Page 8
+Mol Genet Metab . Author manuscript; available in PMC 2023 September 24.
+Author Manuscript Author Manuscript Author Manuscript Author Manuscriptmaintaining fixation [ 76,77]. Progressive ophthalmoplegia  is another condition in which 
+eye movements are impaired. It can have multiple origins, usually with a neurological 
+or muscular cause. It has been reported in patients suffering from PMM2-CDG [ 31], 
+several mitochondrial disorders such as Kearns-Sayre syndrome [ 78], and Leigh syndrome 
+[79] and lysosomal disorders like Gaucher disease or Niemann-Pick disease type C [ 80]. 
+Comprehensive tables of nystagmus and other eye movement conditions in IMDs have been 
+reported elsewhere [ 71,19].
+4. Differential diagnosis
+Ophthalmic examinations are often non-invasive and can provide essential functional 
+and structural information about the eye. Initial standard ocular examination starts with 
+the assessment of visual acuity and pupillary reflex, followed by an ophthalmoscopic 
+examination. This technique allows the examination of the anterior segment (cornea, iris, 
+lens) as well as the posterior part back of the eye including the retina and the optic 
+disc. Another non-invasive structural test is optical coherence tomography (OCT), which 
+allows to cross-sectionally evaluate the retina. With this technology, high resolution images 
+are obtained to assess the retina and its layers at micrometer resolution. The functional 
+evaluations consist of color vision and visual field testing as well as electroretinography 
+(or in short ERG). The visual field test determines the area that the eye can see when 
+focusing on a central point to identify blind spots. ERG is a diagnostic test that is able 
+to record the electrical activity of the retina upon a light stimulation. By measuring these 
+currents, it is possible to elucidate the type of cells that are affected (e.g., preferentially rod 
+and/or cone photoreceptors), and provide diagnostic clues. The intraocular pressure can be 
+measured using tonometers and it is an important aspect in the evaluation of glaucoma. 
+Finally, fluorescein angiography is an invasive technique in which the administration 
+of a specific dye allows the examination of the blood flow in the retina and can be 
+combined with structural ophthalmoscopic examinations and fundus imaging. Overall, all 
+these measurements can contribute to the differential diagnosis of retinal diseases.
+However, the ocular manifestations in IMDs are extremely variable. While in many cases 
+the ocular phenotype is an early or late manifestation of a multi-organ metabolic disease, 
+in several IMDs only an isolated eye phenotype is observed. It has been postulated that 
+the differences in the diseases severity might be associated to the heterogeneity of the 
+gene expression and residual protein/enzyme activity [ 81]. The age at onset of the ocular 
+manifestations is also variable, but many ocular complications already manifest in the first 
+two decades, and sometimes even after birth. The cause of these ocular complications 
+can directly be linked to the lack of a function of an enzyme, toxic effects triggered by 
+abnormal metabolic products or accumulation of normal metabolites in the same pathway 
+[12]. Thus, the presence of other non-related eye phenotypes affecting the skin, hearing, 
+etc., might contribute to the diagnosis of the different syndromes. Of note, the co-existence 
+of neurological and ocular symptoms is common to a large proportion of IMDs, making 
+the differential diagnosis challenging [ 17]. Still, ocular findings not only can be extremely 
+useful to raise the suspicion and the establishment of an early diagnosis of IMDs in some 
+cases, but also to add clues that can help to better delineate the disease and its progression.Garanto et al. Page 9
+Mol Genet Metab . Author manuscript; available in PMC 2023 September 24.
+Author Manuscript Author Manuscript Author Manuscript Author ManuscriptSome ocular abnormalities are so rare and exclusive for certain IMDs that they can strongly 
+point to the exact diagnosis. For instance, reduced or absent tear production (alacrima) 
+is a rare symptom that can be associated with very few IMDs, therefore facilitating the 
+diagnosis of these rare diseases (e.g., claudin 10 deficiency, glycolate oxidase I deficiency, 
+PIGQ-CDG, GMPPA-CDG and N-glycanase 1 deficiency).
+An extremely unusual poking and rubbing of the eye, also known as Franceschetti’s oculo-
+digital sign, in babies or children might highly suggest a severe early-onset retinal dystrophy 
+called LCA. This condition causes early-onset blindness due to pathogenic variants in the 
+genes involved in the vitamin A/visual cycle pathway, and it is often accompanied by 
+nystagmus.
+Biochemical diagnosis and red flags
+An inherited metabolic disease should always be suspected when ocular features remain 
+unexplained, once more common etiologies such as infections, ageing and focal eye lesions 
+have been ruled out. Red flags suggesting that an ocular phenotype might be caused by 
+an IMD include: 1) early age at onset (the earlier the onset, the more likely a metabolic 
+etiology); 2) associated neurologic or extra-neurologic signs and symptoms; 3) dysmorphic 
+features and/or coarsening of features; 4) progressive neurodegeneration (+/− triggered by 
+catabolic stress); 5) consanguinity; 6) family history of similar disorder; 6) behavioral and/or 
+psychiatric diseases; 7) paroxysmal episodic events; and 8) other sensory disorders. A list 
+of laboratory investigations to aid in the diagnosis of the various listed IMDs is summarized 
+in Table 1. For more details see Supplemental Table 1. When aforementioned clinical 
+findings are present, a referral to a metabolic diseases specialist should be considered. The 
+metabolic physician can initiate appropriate workup by ordering some of the tests mentioned 
+in Table 1, depending on the specific combination of signs and symptoms. A referral to an 
+ophthalmologist is often warranted for an extensive ophthalmological screening. Conversely, 
+the ophthalmologist might raise suspicion of an IMD and refer to the metabolic physician 
+for further evaluation. Regardless, careful examination of all eye structures is required, and 
+the diagnostic approach, as with all IMDs, should prioritize treatable disorders [ 82].
+We categorized the signs and symptoms of metabolic disease presenting with 
+ophthalmologic features as: ‘Oculomotor involvement’, ‘Retinal involvement’, ‘Lens 
+involvement’, ‘Optic nerve involvement’, ‘Corneal involvement’, ‘Refractive errors’ and 
+‘Other’ (Supplemental Table 2).
+Oculomotor involvement, retinal involvement, optic nerve involvement and lens involvement 
+are the most common ocular abnormalities reported in 227/577 (~39%), 157/577 (~27%), 
+141/577 (~24%), 117/577 (~20%) of IMDs with ophthalmologic involvement, respectively, 
+followed by corneal involvement in 52/577 (~9%), and refractive errors in 32/577 (~6%) 
+(Figure 2). Of the signs and symptom in the group ‘Other’, most frequently reported among 
+all disorders are ‘Diminished visual activity (~80%), ‘Glaucoma’ (~37%), ‘Vision loss’ 
+(~33%), ‘Total blindness’ (~29%), ‘Microphthalmia’ (~22%), ‘Coloboma’ (~13%), ‘Ocular 
+albinism’ (~11%) and ‘Photophobia’ (~10%) (Supplemental Table 1). Some of them are, 
+however, specific for particular disorder groups, e.g., ‘Glaucoma’ in disorders of nucleotide Garanto et al. Page 10
+Mol Genet Metab . Author manuscript; available in PMC 2023 September 24.
+Author Manuscript Author Manuscript Author Manuscript Author Manuscriptand nucleic acid metabolism and disorders of peroxisomal biogenesis, or ‘Ocular albinism’ 
+in disorders of lysosome-related organelle biogenesis.
+It is often challenging, however, to identify an IMD based on an early ocular phenotype. 
+First, one third of all IMDs can present some type of ocular manifestation. Furthermore, 
+clinical ophthalmologic symptoms often overlap between different diseases. The overall 
+picture becomes more complicated if we consider that several IMDs present exclusively with 
+ocular defects, but at the same time, deficiencies in the same pathway can result in different 
+outcomes. In that sense, genetic analysis to pinpoint a specific genetic defect is a very 
+powerful tool to help in solving the puzzle [ 83]. Furthermore, identifying the genetic cause 
+of the disease can also contribute to determining a possible therapeutic intervention [ 84]. 
+Early management of ocular symptoms can improve the quality of life of these patients. 
+For instance, pathogenic variants in ELOVL4  can result in a dominant form of Stargardt 
+Disease 3 (STGD3) with only retinal involvement; pathogenic variants in the same gene 
+can lead to pseudo-Sjögren-Larsson syndrome or spinocerebellar ataxia type 34 [ 85]. This 
+is also the case of the OPA3 -associated diseases described previously. Other examples in 
+which genetics plays a crucial role to understand the outcome and progression of possible 
+multisystemic IMD include lysosomal storage diseases. For instance, pathogenic variants 
+in HGSNAT  and MFSD8  have been classified as severe or mild [ 86,87]. Severe variants 
+in these genes lead to MPS 3C (Sanfilippo syndrome type C) or CLN7, respectively; 
+mild variants, on the other hand, cause isolated retinitis pigmentosa (RP) or macular 
+degeneration, respectively. Thus, establishing proper genotype-phenotype correlations is 
+crucial for some IMDs.
+Isolated ocular manifestations are usually present as RP or LCA, and they are caused 
+by pathogenic variants in the IMD-related genes IMPDH1, NMNAT1, IDH3A, IDH3B, 
+SLC7A14  or LRAT  [88–93]. Interestingly, variants in the IMD-associated mitochondrial 
+genes MT-TH  and MT-TS2  have been associated with both RP and hearing loss, as is 
+the case for variants in ARSG  [94–96]. Furthermore, the optic nerve can be involved 
+in conditions caused by variants in genes associated with metabolic pathways such as 
+RTN4IP1, TMEM126A  (both leading to optic atrophy) and OAT  (causing gyrate atrophy)
+[97–99]. Variants in the glutamate metabotropic receptor 6 ( GRM6 ) are responsible 
+for congenital stationary blindness [ 100]. Except for IMPDH1  (autosomal dominant 
+inheritance) and mitochondrial genes, all other causal variants for metabolic conditions with 
+isolated ocular phenotypes are inherited in an autosomal recessive manner.
+In conclusion, a low threshold for ophthalmological evaluation is necessary for all IMDs, as 
+phenotypes have yet to be fully delineated, and repeated exams are often required to screen 
+for disease progression, especially since IMDs can have unpredictable courses [ 17].
+5. Prognosis and treatment
+Depending on the part of the eye affected, the symptoms and possible treatments will differ. 
+While some forms of involvement in the frontal part of the eye such as corneal opacity or 
+cataracts can be corrected by surgery (e.g., corneal transplants), in contrast the majority of 
+the defects in the neuroretina are not treatable yet. However, the eruption of genetic and Garanto et al. Page 11
+Mol Genet Metab . Author manuscript; available in PMC 2023 September 24.
+Author Manuscript Author Manuscript Author Manuscript Author Manuscriptmolecular therapies for the eye has shown that progression of photoreceptor degeneration 
+can be halted or slowed down, significantly improving the life of the patient [ 101]. In fact, 
+the first gene therapy was marketed for an autosomal recessive form of retinal degeneration 
+caused by variants in RPE65 , which is involved in the metabolism of the vitamin A [ 102]. 
+Furthermore, a customized RNA-based molecule (antisense oligonucleotide) for a patient 
+suffering CLN7 caused by a splicing variant in MFSD8  was delivered to the brain to 
+ameliorate the seizures [ 103]. Unfortunately, this child already lost her vision before the 
+initiation of treatment; still the delivery of these molecules to the eye has been shown to be 
+safe and well tolerated [ 104]. Currently, many other genetic therapies are being investigated 
+at preclinical and clinical levels. However, these potential treatments are often variant- or 
+gene-specific and aim to treat disease with only retinal manifestations. Unfortunately, for 
+most of IMDs the ocular phenotypes are often secondary and eclipsed by life-threatening 
+manifestations in other organs which require urgent intervention if possible.
+Supplemental Table 1 includes information on primary treatment options for the mentioned 
+IMDs, i.e., treatment that addresses at least one aspect of the pathophysiology of the 
+disease, when available. Strategies vary from vitamin/cofactor/amino acid supplements, 
+dietary restriction (e.g., protein, fat), chelation therapy, pharmacologic treatment, and organ 
+transplants. Often these interventions are disease modifying only. With the advent of stem 
+cell transplantation and genetic therapies, the future looks brighter as a cure is in sight. Early 
+diagnosis is essential, as this optimizes the window of opportunity; newborn screening has 
+proven an excellent tool for prevention altogether, but not all IMD are covered due to the 
+limited amount unique and stable biomarkers.
+6. Conclusion
+In this seventh issue we provided a comprehensive summary of ophthalmologic features 
+associated with IMDs. The full list can be accessed for free at http://www.iembase.org/
+gamuts  (last accessed 31-10-2021) and will be curated and updated on regular basis.
+Supplementary Material
+Refer to Web version on PubMed Central for supplementary material.
+Acknowledgements:
+This work was supported, in part, by the Intramural Research Program of the National Human Genome Research 
+Institute.
+References
+1. Ferreira CR, Hoffmann GF, Blau N (2019) Clinical and biochemical footprints of inherited 
+metabolic diseases. I. Movement disorders. Molecular genetics and metabolism 127 (1):28–30. 
+doi:10.1016/j.ymgme.2019.03.007 [PubMed: 30928149] 
+2. Ferreira CR, Cassiman D, Blau N (2019) Clinical and biochemical footprints of inherited 
+metabolic diseases. II. Metabolic liver diseases. Molecular genetics and metabolism 127 (2):117–
+121. doi:10.1016/j.ymgme.2019.04.002 [PubMed: 31005404] Garanto et al. Page 12
+Mol Genet Metab . Author manuscript; available in PMC 2023 September 24.
+Author Manuscript Author Manuscript Author Manuscript Author Manuscript3. Horvath GA, Stowe RM, Ferreira CR, Blau N (2020) Clinical and biochemical footprints of 
+inherited metabolic diseases. III. Psychiatric presentations. Molecular genetics and metabolism 130 
+(1):1–6. doi:10.1016/j.ymgme.2020.02.007 [PubMed: 32122747] 
+4. Ferreira CR, Blau N (2021) Clinical and biochemical footprints of inherited metabolic diseases. 
+IV . Metabolic cardiovascular disease. Molecular genetics and metabolism 132 (2):112–118. 
+doi:10.1016/j.ymgme.2020.12.290 [PubMed: 33388235] 
+5. Horvath GA, Blau N, Ferreira CR (2021) Clinical and biochemical footprints of inherited 
+metabolic disease. V . Cerebral palsy phenotypes. Molecular genetics and metabolism. doi:10.1016/
+j.ymgme.2021.03.008
+6. Carlos RF, Diego M, Nenad B (2021) Clinical and biochemical footprints of inherited 
+metabolic diseases. VI. Metabolic dermatoses. Molecular genetics and metabolism. doi:10.1016/
+j.ymgme.2021.07.005
+7. Lee JJY , Wasserman WW, Hoffmann GF, van Karnebeek CDM, Blau N (2018) Knowledge base 
+and mini-expert platform for the diagnosis of inborn errors of metabolism. Genetics in medicine : 
+official journal of the American College of Medical Genetics 20 (1):151–158. doi:10.1038/
+gim.2017.108
+8. Ferreira CR, van Karnebeek CDM, V ockley J, Blau N (2019) A proposed nosology of inborn errors 
+of metabolism. Genetics in medicine : official journal of the American College of Medical Genetics 
+21 (1):102–106. doi:10.1038/s41436-018-0022-8
+9. Ferreira CR, Rahman S, Keller M, Zschocke J, Group IA (2021) An international classification 
+of inherited metabolic disorders (ICIMD). Journal of inherited metabolic disease 44 (1):164–177. 
+doi:10.1002/jimd.12348 [PubMed: 33340416] 
+10. Tsagaraki DP, Evangeliou AE, Tsilimbaris M, Spilioti MG, Mihailidou EP, Lionis C, Pallikaris 
+I (2002) The significance of opthalmologic evaluation in the early diagnosis of inborn errors 
+of metabolism: the Cretan experience. BMC ophthalmology 2:2. doi:10.1186/1471-2415-2-2 
+[PubMed: 11950394] 
+11. Jafari N, Golnik K, Shahriari M, Karimzadeh P, Jabbehdari S (2018) Ophthalmologic Findings 
+in Patients with Neuro-metabolic Disorders. J Ophthalmic Vis Res 13 (1):34–38. doi:10.4103/
+jovr.jovr_242_16 [PubMed: 29403587] 
+12. Poll-The BT, Maillette de Buy Wenniger-Prick CJ (2011) The eye in metabolic diseases: clues 
+to diagnosis. European journal of paediatric neurology : EJPN : official journal of the European 
+Paediatric Neurology Society 15 (3):197–204. doi:10.1016/j.ejpn.2011.03.005
+13. Sridhar MS (2018) Anatomy of cornea and ocular surface. Indian J Ophthalmol 66 (2):190–194. 
+doi:10.4103/ijo.IJO_646_17 [PubMed: 29380756] 
+14. DelMonte DW, Kim T (2011) Anatomy and physiology of the cornea. Journal of cataract and 
+refractive surgery 37 (3):588–598. doi:10.1016/j.jcrs.2010.12.037 [PubMed: 21333881] 
+15. Kolb H (2003) How the retina works. American Scientist 91 (1):28–35. doi:citeulike-
+articleid:1560678
+16. Rajappa M, Goyal A, Kaur J (2010) Inherited metabolic disorders involving the eye: a clinic-
+biochemical perspective. Eye 24 (4):507–518. doi:10.1038/eye.2009.229 [PubMed: 19798114] 
+17. Poll-The BT, Maillette de Buy Wenniger-Prick LJ, Barth PG, Duran M (2003) The eye as a 
+window to inborn errors of metabolism. Journal of inherited metabolic disease 26 (2–3):229–244. 
+doi:10.1023/a:1024493318913 [PubMed: 12889663] 
+18. Pavone P, Cho SY , Pratico AD, Falsaperla R, Ruggieri M, Jin DK (2018) Ptosis in childhood: A 
+clinical sign of several disorders: Case series reports and literature review. Medicine (Baltimore) 
+97 (36):e12124. doi:10.1097/MD.0000000000012124 [PubMed: 30200099] 
+19. Davison JE (2020) Eye involvement in inherited metabolic disorders. Ther Adv Ophthalmol 
+12:2515841420979109. doi:10.1177/2515841420979109 [PubMed: 33447730] 
+20. Ravaglia S, Bini P, Garaghani KS, Danesino C (2010) Ptosis in Pompe disease: common 
+genetic background in infantile and adult series. J Neuroophthalmol 30 (4):389–390. doi:10.1097/
+WNO.0b013e3181f9a923 [PubMed: 21107130] 
+21. Eghbali A, Hassan S, Seehra G, FitzGibbon E, Sidransky E (2019) Ophthalmological 
+findings in Gaucher disease. Molecular genetics and metabolism 127 (1):23–27. doi:10.1016/
+j.ymgme.2019.02.002 [PubMed: 31047801] Garanto et al. Page 13
+Mol Genet Metab . Author manuscript; available in PMC 2023 September 24.
+Author Manuscript Author Manuscript Author Manuscript Author Manuscript22. Sodi A, Ioannidis AS, Mehta A, Davey C, Beck M, Pitz S (2007) Ocular manifestations of Fabry’s 
+disease: data from the Fabry Outcome Survey. The British journal of ophthalmology 91 (2):210–
+214. doi:10.1136/bjo.2006.100602 [PubMed: 16973664] 
+23. Del Longo A, Piozzi E, Schweizer F (2018) Ocular features in mucopolysaccharidosis: diagnosis 
+and treatment. Italian journal of pediatrics 44 (Suppl 2):125. doi:10.1186/s13052-018-0559-9 
+[PubMed: 30442167] 
+24. Michalski A, Leonard JV , Taylor DS (1988) The eye and inherited metabolic disease: a review. J R 
+Soc Med 81 (5):286–290. doi:10.1177/014107688808100517 [PubMed: 3290483] 
+25. Amalnath DS, Subrahmanyam DK (2012) Ocular signs in Wilson disease. Ann Indian Acad Neurol 
+15 (3):200–201. doi:10.4103/0972-2327.99716 [PubMed: 22919193] 
+26. Langwinska-Wosko E, Litwin T, Dziezyc K, Czlonkowska A (2016) The sunflower cataract 
+in Wilson’s disease: pathognomonic sign or rare finding? Acta Neurol Belg 116 (3):325–328. 
+doi:10.1007/s13760-015-0566-1 [PubMed: 26577266] 
+27. Gahl WA, Kuehl EM, Iwata F, Lindblad A, Kaiser-Kupfer MI (2000) Corneal crystals in 
+nephropathic cystinosis: natural history and treatment with cysteamine eyedrops. Molecular 
+genetics and metabolism 71 (1–2):100–120. doi:10.1006/mgme.2000.3062 [PubMed: 11001803] 
+28. Folz SJ, Trobe JD (1991) The peroxisome and the eye. Survey of ophthalmology 35 (5):353–368. 
+doi:10.1016/0039-6257(91)90185-i [PubMed: 1710072] 
+29. Tsilou E, Zhou M, Gahl W, Sieving PC, Chan CC (2007) Ophthalmic manifestations and 
+histopathology of infantile nephropathic cystinosis: report of a case and review of the literature. 
+Survey of ophthalmology 52 (1):97–105. doi:10.1016/j.survophthal.2006.10.006 [PubMed: 
+17212992] 
+30. Jaeken J, Lefeber DJ, Matthijs G (2020) SRD5A3 defective congenital disorder of glycosylation: 
+clinical utility gene card. European journal of human genetics : EJHG 28 (9):1297–1300. 
+doi:10.1038/s41431-020-0647-3 [PubMed: 32424323] 
+31. Morava E, Wosik HN, Sykut-Cegielska J, Adamowicz M, Guillard M, Wevers RA, Lefeber 
+DJ, Cruysberg JR (2009) Ophthalmological abnormalities in children with congenital disorders 
+of glycosylation type I. The British journal of ophthalmology 93 (3):350–354. doi:10.1136/
+bjo.2008.145359 [PubMed: 19019927] 
+32. Ferreira CR, Altassan R, Marques-Da-Silva D, Francisco R, Jaeken J, Morava E (2018) 
+Recognizable phenotypes in CDG. Journal of inherited metabolic disease 41 (3):541–553. 
+doi:10.1007/s10545-018-0156-5 [PubMed: 29654385] 
+33. Sparks SE, Krasnewich DM (1993) Congenital Disorders of N-Linked Glycosylation and Multiple 
+Pathway Overview. In: Adam MP, Ardinger HH, Pagon RA et al. (eds) GeneReviews((R)). Seattle 
+(WA),
+34. Martinez-Garcia M, Montoliu L (2013) Albinism in Europe. The Journal of dermatology 40 
+(5):319–324. doi:10.1111/1346-8138.12170 [PubMed: 23668539] 
+35. Fusco G, Carlomagno S, Romano A, Rinaldi E, Cedrola G, Cianciaruso L, Curto A, Rosolia 
+S, Auricchio G (1976) Type I hyperprolinemia in a family suffering from aniridia and severe 
+dystrophia of ocular tissues. Ophthalmologica Journal international d’ophtalmologie International 
+journal of ophthalmology Zeitschrift fur Augenheilkunde 173 (1):1–10. doi:10.1159/000307812
+36. Bell SJ, Oluonye N, Harding P, Moosajee M (2020) Congenital cataract: a guide to 
+genetic and clinical management. Therapeutic Advances in Rare Disease 1:2633004020938061. 
+doi:10.1177/2633004020938061 [PubMed: 37180497] 
+37. Loi M (2006) Lowe syndrome. Orphanet journal of rare diseases 1:16. 
+doi:10.1186/1750-1-172-1-16 [PubMed: 16722554] 
+38. Welling L, Bernstein LE, Berry GT, Burlina AB, Eyskens F, Gautschi M, Grunewald S, Gubbels 
+CS, Knerr I, Labrune P, van der Lee JH, MacDonald A, Murphy E, Portnoi PA, Ounap K, 
+Potter NL, Rubio-Gozalbo ME, Spencer JB, Timmers I, Treacy EP, Van Calcar SC, Waisbren 
+SE, Bosch AM, Galactosemia N (2017) International clinical guideline for the management of 
+classical galactosemia: diagnosis, treatment, and follow-up. Journal of inherited metabolic disease 
+40 (2):171–176. doi:10.1007/s10545-016-9990-5 [PubMed: 27858262] 
+39. Medsinge A, Nischal KK (2015) Pediatric cataract: challenges and future directions. Clinical 
+ophthalmology 9:77–90. doi:10.2147/OPTH.S59009 [PubMed: 25609909] Garanto et al. Page 14
+Mol Genet Metab . Author manuscript; available in PMC 2023 September 24.
+Author Manuscript Author Manuscript Author Manuscript Author Manuscript40. Stambolian D (1988) Galactose and cataract. Survey of ophthalmology 32 (5):333–349. 
+doi:10.1016/0039-6257(88)90095-1 [PubMed: 3043741] 
+41. Cruysberg JR (2002) Cerebrotendinous xanthomatosis: juvenile cataract and chronic diarrhea 
+before the onset of neurologic disease. Archives of neurology 59 (12):1975. doi:10.1001/
+archneur.59.12.1975-a [PubMed: 12470193] 
+42. Mudd SH, Skovby F, Levy HL, Pettigrew KD, Wilcken B, Pyeritz RE, Andria G, Boers GH, 
+Bromberg IL, Cerone R, et al. (1985) The natural history of homocystinuria due to cystathionine 
+beta-synthase deficiency. American journal of human genetics 37 (1):1–31 [PubMed: 3872065] 
+43. Skovby F, Gaustadnes M, Mudd SH (2010) A revisit to the natural history of homocystinuria 
+due to cystathionine beta-synthase deficiency. Molecular genetics and metabolism 99 (1):1–3. 
+doi:10.1016/j.ymgme.2009.09.009 [PubMed: 19819175] 
+44. Gus PI, Donis KC, Marinho D, Martins TF, de Souza CFM, Carloto RB, Leivas G, Schwartz 
+IVD (2021) Ocular manifestations in classic homocystinuria. Ophthalmic genetics 42 (1):71–74. 
+doi:10.1080/13816810.2020.1821384 [PubMed: 32940091] 
+45. Cruysberg JR, Boers GH, Trijbels JM, Deutman AF (1996) Delay in diagnosis of 
+homocystinuria: retrospective study of consecutive patients. Bmj 313 (7064):1037–1040. 
+doi:10.1136/bmj.313.7064.1037 [PubMed: 8898592] 
+46. Boers GH, Polder TW, Cruysberg JR, Schoonderwaldt HC, Peetoom JJ, Van Ruyven TW, 
+Smals AG, Kloppenborg PW (1984) Homocystinuria versus Marfan’s syndrome: the therapeutic 
+relevance of the differential diagnosis. The Netherlands journal of medicine 27 (6):206–212 
+[PubMed: 6462308] 
+47. Claerhout H, Witters P, Regal L, Jansen K, Van Hoestenberghe MR, Breckpot J, Vermeersch P 
+(2018) Isolated sulfite oxidase deficiency. Journal of inherited metabolic disease 41 (1):101–108. 
+doi:10.1007/s10545-017-0089-4 [PubMed: 28980090] 
+48. Takki KK, Milton RC (1981) The natural history of gyrate atrophy of the choroid and retina. 
+Ophthalmology 88 (4):292–301. doi:10.1016/s0161-6420(81)35031-3 [PubMed: 7254775] 
+49. Balfoort BM, Buijs MJN, Ten Asbroek A, Bergen AAB, Boon CJF, Ferreira EA, Houtkooper 
+RH, Wagenmakers M, Wanders RJA, Waterham HR, Timmer C, van Karnebeek CD, Brands MM 
+(2021) A review of treatment modalities in gyrate atrophy of the choroid and retina (GACR). 
+Molecular genetics and metabolism. doi:10.1016/j.ymgme.2021.07.010
+50. Ganesh A, Al-Murshedi F, Al-Zuhaibi S, Al-Thihli K (2017) Ocular Manifestations of Inborn 
+Errors of Metabolism. In: Levin A V , Enzenauer RW (eds) The Eye in Pediatric Systemic Disease. 
+Springer International Publishing, Cham, pp 359–460. doi:10.1007/978-3-319-18389-3_13
+51. Sipila I, Rapola J, Simell O, Vannas A (1981) Supplementary Creatine as a Treatment for 
+Gyrate Atrophy of the Choroid and Retina. New Engl J Med 304 (15):867–870. doi:Doi 10.1056/
+Nejm198104093041503 [PubMed: 7207523] 
+52. Bröer S (2009) Iminoglycinuria. In: Lang F (ed) Encyclopedia of Molecular 
+Mechanisms of Disease. Springer Berlin Heidelberg, Berlin, Heidelberg, pp 1033–1034. 
+doi:10.1007/978-3-540-29676-8_934
+53. Hayasaka S, Mizuno K, Yabata K, Saito T, Tada K (1982) Atypical gyrate atrophy of the 
+choroid and retina associated with iminoglycinuria. Archives of ophthalmology 100 (3):423–425. 
+doi:10.1001/archopht.1982.01030030425007 [PubMed: 7065959] 
+54. Saito T, Hayasaka S, Yabata K, Omura K, Mizuno K, Tada K (1981) Atypical gyrate atrophy 
+of the choroid and retina and iminoglycinuria. Tohoku J Exp Med 135 (3):331–332. doi:10.1620/
+tjem.135.331 [PubMed: 7314117] 
+55. Staps P, Cruysberg JRM, Roeleveld N, Willemsen M, Theelen T (2019) Retinal Morphology 
+in Sjogren-Larsson Syndrome on OCT: From Metabolic Crystalline Maculopathy to Early-
+Onset Macular Degeneration. Ophthalmol Retina 3 (6):500–509. doi:10.1016/j.oret.2019.01.023 
+[PubMed: 31174672] 
+56. Tuson M, Marfany G, Gonzalez-Duarte R (2004) Mutation of CERKL, a novel human ceramide 
+kinase gene, causes autosomal recessive retinitis pigmentosa (RP26). American journal of human 
+genetics 74 (1):128–138. doi:10.1086/381055 [PubMed: 14681825] Garanto et al. Page 15
+Mol Genet Metab . Author manuscript; available in PMC 2023 September 24.
+Author Manuscript Author Manuscript Author Manuscript Author Manuscript57. Garanto A, Mandal NA, Egido-Gabas M, Marfany G, Fabrias G, Anderson RE, Casas J, Gonzalez-
+Duarte R (2013) Specific sphingolipid content decrease in Cerkl knockdown mouse retinas. 
+Experimental eye research 110:96–106. doi:10.1016/j.exer.2013.03.003 [PubMed: 23501591] 
+58. Mirra S, Garcia-Arroyo R, E BD, Gavalda-Navarro A, Herrera-Ubeda C, Oliva C, Garcia-
+Fernandez J, Artuch R, Villarroya F, Marfany G (2021) CERKL, a retinal dystrophy gene, 
+regulates mitochondrial function and dynamics in the mammalian retina. Neurobiology of disease 
+156:105405. doi:10.1016/j.nbd.2021.105405 [PubMed: 34048907] 
+59. McGovern MM, Wasserstein MP, Aron A, Desnick RJ, Schuchman EH, Brodie SE (2004) Ocular 
+manifestations of Niemann-Pick disease type B. Ophthalmology 111 (7):1424–1427. doi:10.1016/
+j.ophtha.2003.10.034 [PubMed: 15234149] 
+60. Chen H, Chan AY , Stone DU, Mandal NA (2014) Beyond the cherry-red spot: Ocular 
+manifestations of sphingolipid-mediated neurodegenerative and inflammatory disorders. Survey 
+of ophthalmology 59 (1):64–76. doi:10.1016/j.survophthal.2013.02.005 [PubMed: 24011710] 
+61. Ouseph MM, Kleinman ME, Wang QJ (2016) Vision loss in juvenile neuronal ceroid lipofuscinosis 
+(CLN3 disease). Annals of the New York Academy of Sciences 1371 (1):55–67. doi:10.1111/
+nyas.12990 [PubMed: 26748992] 
+62. Mandel H, Katsanelson KC, Khayat M, Chervinsky I, Vladovski E, Iancu TC, Indelman M, 
+Horovitz Y , Sprecher E, Shalev SA, Spiegel R (2014) Clinico-pathological manifestations of 
+variant late infantile neuronal ceroid lipofuscinosis (vLINCL) caused by a novel mutation 
+in MFSD8 gene. European journal of medical genetics 57 (11–12):607–612. doi:10.1016/
+j.ejmg.2014.09.004 [PubMed: 25270050] 
+63. Khan KN, El-Asrag ME, Ku CA, Holder GE, McKibbin M, Arno G, Poulter JA, Carss K, 
+Bommireddy T, Bagheri S, Bakall B, Scholl HP, Raymond FL, Toomes C, Inglehearn CF, Pennesi 
+ME, Moore AT, Michaelides M, Webster AR, Ali M, Dis NB-R, Consortium IRD (2017) Specific 
+Alleles of CLN7/MFSD8, a Protein That Localizes to Photoreceptor Synaptic Terminals, Cause a 
+Spectrum of Nonsyndromic Retinal Dystrophy. Investigative ophthalmology & visual science 58 
+(7):2906–2914. doi:10.1167/iovs.16-20608 [PubMed: 28586915] 
+64. Roosing S, van den Born LI, Sangermano R, Banfi S, Koenekoop RK, Zonneveld-Vrieling 
+MN, Klaver CCW, van Lith-Verhoeven JJC, Cremers FPM, den Hollander AI, Hoyng CB 
+(2015) Mutations in MFSD8, Encoding a Lysosomal Membrane Protein, Are Associated with 
+Nonsyndromic Autosomal Recessive Macular Dystrophy. Ophthalmology 122 (1):170–179. 
+doi:10.1016/j.ophtha.2014.07.040 [PubMed: 25227500] 
+65. Gowda VK, Vegda H, Shivappa SK, Benakappa N (2020) Aicardi-Goutieres Syndrome Presenting 
+with Congenital Glaucoma. Indian J Pediatr 87 (8):652. doi:10.1007/s12098-020-03196-0
+66. Steinberg SJ, Dodt G, Raymond GV , Braverman NE, Moser AB, Moser HW (2006) 
+Peroxisome biogenesis disorders. Biochimica et biophysica acta 1763 (12):1733–1748. 
+doi:10.1016/j.bbamcr.2006.09.010 [PubMed: 17055079] 
+67. Huizing M, Brooks BP, Anikster Y (2005) Optic atrophies in metabolic disorders. Molecular 
+genetics and metabolism 86 (1–2):51–60. doi:10.1016/j.ymgme.2005.07.034 [PubMed: 16194617] 
+68. Chinnery PF, Johnson MA, Wardell TM, Singh-Kler R, Hayes C, Brown DT, Taylor RW, Bindoff 
+LA, Turnbull DM (2000) The epidemiology of pathogenic mitochondrial DNA mutations. Annals 
+of neurology 48 (2):188–193 [PubMed: 10939569] 
+69. Verny C, Amati-Bonneau P, Dubas F, Malthiery Y , Reynier P, Bonneau D (2005) An OPA3 gene 
+mutation is responsible for the disease associating optic atrophy and cataract with extrapyramidal 
+signs. Revue neurologique 161 (4):451–454 [PubMed: 15924081] 
+70. Fraser JA, Biousse V , Newman NJ (2010) The neuro-ophthalmology of mitochondrial disease. 
+Survey of ophthalmology 55 (4):299–334. doi:10.1016/j.survophthal.2009.10.002 [PubMed: 
+20471050] 
+71. Koens LH, Tijssen MAJ, Lange F, Wolffenbuttel BHR, Rufa A, Zee DS, de Koning TJ (2018) 
+Eye movement disorders and neurological symptoms in late-onset inborn errors of metabolism. 
+Movement disorders : official journal of the Movement Disorder Society 33 (12):1844–1856. 
+doi:10.1002/mds.27484 [PubMed: 30485556] 
+72. Taylor RH, Burke J, O’Keefe M, Beighi B, Naughton E (1998) Ophthalmic abnormalities 
+in homocystinuria: the value of screening. Eye 12 ( Pt 3a):427–430. doi:10.1038/eye.1998.100 
+[PubMed: 9775245] Garanto et al. Page 16
+Mol Genet Metab . Author manuscript; available in PMC 2023 September 24.
+Author Manuscript Author Manuscript Author Manuscript Author Manuscript73. Michaelides M, Holder GE, Moore AT (2013) Chapter 44 - Inherited retinal disorders. In: Hoyt 
+CS, Taylor D (eds) Pediatric Ophthalmology and Strabismus (Fourth Edition). W.B. Saunders, 
+London, pp 449–473.e442. doi:10.1016/B978-0-7020-4691-9.00044-3
+74. Ohno-Matsui K (2016) Pathologic Myopia. Asia Pac J Ophthalmol (Phila) 5 (6):415–423. 
+doi:10.1097/APO.0000000000000230 [PubMed: 27898445] 
+75. Masri A, Liao J, Kornreich R, Haghighi A (2014) Homozygous p.R284* mutation in HEXB 
+gene causing Sandhoff disease with nystagmus. European journal of paediatric neurology : 
+EJPN : official journal of the European Paediatric Neurology Society 18 (3):399–403. doi:10.1016/
+j.ejpn.2014.02.002 [PubMed: 24613245] 
+76. Kasmann-Kellner B, Weindler J, Pfau B, Ruprecht KW (1999) Ocular changes in 
+mucopolysaccharidosis IV A (Morquio A syndrome) and long-term results of perforating 
+keratoplasty. Ophthalmologica Journal international d’ophtalmologie International journal of 
+ophthalmology Zeitschrift fur Augenheilkunde 213 (3):200–205. doi:10.1159/000027420
+77. Romani C (2018) Cognitive impairments in inherited metabolic diseases: Promises 
+and challenges. Cogn Neuropsychol 35 (3–4):113–119. doi:10.1080/02643294.2017.1417249 
+[PubMed: 29741469] 
+78. Barrientos A, Casademont J, Grau JM, Cardellach F, Montoya J, Estivill X, Urbano-Marquez A, 
+Nunes V (1995) [Progressive external ophthalmoplegia and the Kearns-Sayre syndrome: a clinical 
+and molecular study of 6 cases]. Med Clin (Barc) 105 (5):180–184 [PubMed: 7630231] 
+79. Laugel V , This-Bernd V , Cormier-Daire V , Speeg-Schatz C, de Saint-Martin A, Fischbach M 
+(2007) Early-onset ophthalmoplegia in Leigh-like syndrome due to NDUFV1 mutations. Pediatr 
+Neurol 36 (1):54–57. doi:10.1016/j.pediatrneurol.2006.08.007 [PubMed: 17162199] 
+80. Cogan DG, Chu FC, Reingold D, Barranger J (1981) Ocular motor signs in 
+some metabolic diseases. Archives of ophthalmology 99 (10):1802–1808. doi:10.1001/
+archopht.1981.03930020676010 [PubMed: 7295130] 
+81. Iwata F, Kaiser-Kupfer MI (1994) Ocular manifestations of metabolic disorders. Current opinion in 
+ophthalmology 5 (6):79–83. doi:10.1097/00055735-199412000-00013 [PubMed: 10150832] 
+82. Hoytema van Konijnenburg EMM, Wortmann SB, Koelewijn MJ, Tseng LA, Houben R, StöcklerI-
+psiroglu S, Ferreira CR, van Karnebeek CDM (2021) Treatable inherited metabolic disorders 
+causing intellectual disability: 2021 review and digital app. Orphanet journal of rare diseases 16 
+(1):170. doi:10.1186/s13023-021-01727-2 [PubMed: 33845862] 
+83. Dragojlovic N, Elliott AM, Adam S, van Karnebeek C, Lehman A, Mwenifumbo JC, Nelson TN, 
+du Souich C, Friedman JM, Lynd LD (2018) The cost and diagnostic yield of exome sequencing 
+for children with suspected genetic disorders: a benchmarking study. Genetics in medicine : 
+official journal of the American College of Medical Genetics 20 (9):1013–1021. doi:10.1038/
+gim.2017.226
+84. Shen JJ, Wortmann SB, de Boer L, Kluijtmans LAJ, Huigen M, Koch J, Ross S, Collins CD, van 
+der Lee R, van Karnebeek CDM, Hegde MR (2021) The role of clinical response to treatment 
+in determining pathogenicity of genomic variants. Genetics in medicine : official journal of the 
+American College of Medical Genetics 23 (3):581–585. doi:10.1038/s41436-020-00996-9
+85. Agbaga MP, Stiles MA, Brush RS, Sullivan MT, Machalinski A, Jones KL, Anderson RE, Sherry 
+DM (2020) The Elovl4 Spinocerebellar Ataxia-34 Mutation 736T>G (p.W246G) Impairs Retinal 
+Function in the Absence of Photoreceptor Degeneration. Mol Neurobiol 57 (11):4735–4753. 
+doi:10.1007/s12035-020-02052-8 [PubMed: 32780351] 
+86. Haer-Wigman L, Newman H, Leibu R, Bax NM, Baris HN, Rizel L, Banin E, Massarweh 
+A, Roosing S, Lefeber DJ, Zonneveld-Vrieling MN, Isakov O, Shomron N, Sharon D, Den 
+Hollander AI, Hoyng CB, Cremers FP, Ben-Yosef T (2015) Non-syndromic retinitis pigmentosa 
+due to mutations in the mucopolysaccharidosis type IIIC gene, heparan-alpha-glucosaminide 
+N-acetyltransferase (HGSNAT). Human molecular genetics 24 (13):3742–3751. doi:10.1093/hmg/
+ddv118 [PubMed: 25859010] 
+87. Roosing S, van den Born LI, Sangermano R, Banfi S, Koenekoop RK, Zonneveld-Vrieling MN, 
+Klaver CC, van Lith-Verhoeven JJ, Cremers FP, den Hollander AI, Hoyng CB (2015) Mutations 
+in MFSD8, encoding a lysosomal membrane protein, are associated with nonsyndromic autosomal 
+recessive macular dystrophy. Ophthalmology 122 (1):170–179. doi:10.1016/j.ophtha.2014.07.040 
+[PubMed: 25227500] Garanto et al. Page 17
+Mol Genet Metab . Author manuscript; available in PMC 2023 September 24.
+Author Manuscript Author Manuscript Author Manuscript Author Manuscript88. Bowne SJ, Sullivan LS, Blanton SH, Cepko CL, Blackshaw S, Birch DG, Hughbanks-Wheaton 
+D, Heckenlively JR, Daiger SP (2002) Mutations in the inosine monophosphate dehydrogenase 
+1 gene (IMPDH1) cause the RP10 form of autosomal dominant retinitis pigmentosa. Human 
+molecular genetics 11 (5):559–568. doi:10.1093/hmg/11.5.559 [PubMed: 11875050] 
+89. Chiang PW, Wang J, Chen Y , Fu Q, Zhong J, Chen Y , Yi X, Wu R, Gan H, Shi Y , Chen Y , Barnett 
+C, Wheaton D, Day M, Sutherland J, Heon E, Weleber RG, Gabriel LA, Cong P, Chuang K, Ye 
+S, Sallum JM, Qi M (2012) Exome sequencing identifies NMNAT1 mutations as a cause of Leber 
+congenital amaurosis. Nature genetics 44 (9):972–974. doi:10.1038/ng.2370 [PubMed: 22842231] 
+90. Pierrache LHM, Kimchi A, Ratnapriya R, Roberts L, Astuti GDN, Obolensky A, Beryozkin A, 
+Tjon-Fo-Sang MJH, Schuil J, Klaver CCW, Bongers E, Haer-Wigman L, Schalij N, Breuning 
+MH, Fischer GM, Banin E, Ramesar RS, Swaroop A, van den Born LI, Sharon D, Cremers FPM 
+(2017) Whole-Exome Sequencing Identifies Biallelic IDH3A Variants as a Cause of Retinitis 
+Pigmentosa Accompanied by Pseudocoloboma. Ophthalmology 124 (7):992–1003. doi:10.1016/
+j.ophtha.2017.03.010 [PubMed: 28412069] 
+91. Hartong DT, Dange M, McGee TL, Berson EL, Dryja TP, Colman RF (2008) Insights from retinitis 
+pigmentosa into the roles of isocitrate dehydrogenases in the Krebs cycle. Nature genetics 40 
+(10):1230–1234. doi:10.1038/ng.223 [PubMed: 18806796] 
+92. Sugahara M, Oishi M, Oishi A, Ogino K, Morooka S, Gotoh N, Kang I, Yoshimura N (2017) 
+Screening for SLC7A14 gene mutations in patients with autosomal recessive or sporadic retinitis 
+pigmentosa. Ophthalmic genetics 38 (1):70–73. doi:10.3109/13816810.2015.1136336 [PubMed: 
+27028480] 
+93. Dev Borman A, Ocaka LA, Mackay DS, Ripamonti C, Henderson RH, Moradi P, Hall G, Black 
+GC, Robson AG, Holder GE, Webster AR, Fitzke F, Stockman A, Moore AT (2012) Early 
+onset retinal dystrophy due to mutations in LRAT: molecular analysis and detailed phenotypic 
+study. Investigative ophthalmology & visual science 53 (7):3927–3938. doi:10.1167/iovs.12-9548 
+[PubMed: 22570351] 
+94. Crimi M, Galbiati S, Perini MP, Bordoni A, Malferrari G, Sciacco M, Biunno I, Strazzer 
+S, Moggio M, Bresolin N, Comi GP (2003) A mitochondrial tRNA(His) gene mutation 
+causing pigmentary retinopathy and neurosensorial deafness. Neurology 60 (7):1200–1203. 
+doi:10.1212/01.wnl.0000055865.30580.39 [PubMed: 12682337] 
+95. Mansergh FC, Millington-Ward S, Kennan A, Kiang AS, Humphries M, Farrar GJ, Humphries 
+P, Kenna PF (1999) Retinitis pigmentosa and progressive sensorineural hearing loss caused by a 
+C12258A mutation in the mitochondrial MTTS2 gene. American journal of human genetics 64 
+(4):971–985. doi:10.1086/302344 [PubMed: 10090882] 
+96. Khateb S, Kowalewski B, Bedoni N, Damme M, Pollack N, Saada A, Obolensky A, Ben-Yosef 
+T, Gross M, Dierks T, Banin E, Rivolta C, Sharon D (2018) A homozygous founder missense 
+variant in arylsulfatase G abolishes its enzymatic activity causing atypical Usher syndrome in 
+humans. Genetics in medicine : official journal of the American College of Medical Genetics 20 
+(9):1004–1012. doi:10.1038/gim.2017.227 [PubMed: 29300381] 
+97. Angebault C, Guichet PO, Talmat-Amar Y , Charif M, Gerber S, Fares-Taie L, Gueguen N, 
+Halloy F, Moore D, Amati-Bonneau P, Manes G, Hebrard M, Bocquet B, Quiles M, Piro-Megy 
+C, Teigell M, Delettre C, Rossel M, Meunier I, Preising M, Lorenz B, Carelli V , Chinnery 
+PF, Yu-Wai-Man P, Kaplan J, Roubertie A, Barakat A, Bonneau D, Reynier P, Rozet JM, 
+Bomont P, Hamel CP, Lenaers G (2015) Recessive Mutations in RTN4IP1 Cause Isolated and 
+Syndromic Optic Neuropathies. American journal of human genetics 97 (5):754–760. doi:10.1016/
+j.ajhg.2015.09.012 [PubMed: 26593267] 
+98. Hanein S, Perrault I, Roche O, Gerber S, Khadom N, Rio M, Boddaert N, Jean-Pierre M, Brahimi 
+N, Serre V , Chretien D, Delphin N, Fares-Taie L, Lachheb S, Rotig A, Meire F, Munnich A, Dufier 
+JL, Kaplan J, Rozet JM (2009) TMEM126A, encoding a mitochondrial protein, is mutated in 
+autosomal-recessive nonsyndromic optic atrophy. American journal of human genetics 84 (4):493–
+498. doi:10.1016/j.ajhg.2009.03.003 [PubMed: 19327736] 
+99. Park JK, Herron BJ, O’Donnell JJ, Shih VE, Ramesh V (1992) Three novel mutations of the 
+ornithine aminotransferase (OAT) gene in gyrate atrophy. Genomics 14 (2):553–554. doi:10.1016/
+s0888-7543(05)80271-x [PubMed: 1427882] Garanto et al. Page 18
+Mol Genet Metab . Author manuscript; available in PMC 2023 September 24.
+Author Manuscript Author Manuscript Author Manuscript Author Manuscript100. Zeitz C, van Genderen M, Neidhardt J, Luhmann UF, Hoeben F, Forster U, Wycisk K, Matyas G, 
+Hoyng CB, Riemslag F, Meire F, Cremers FP, Berger W (2005) Mutations in GRM6 cause 
+autosomal recessive congenital stationary night blindness with a distinctive scotopic 15-Hz 
+flicker electroretinogram. Investigative ophthalmology & visual science 46 (11):4328–4335. 
+doi:10.1167/iovs.05-0526 [PubMed: 16249515] 
+101. Vazquez-Dominguez I, Garanto A, Collin RWJ (2019) Molecular Therapies for Inherited Retinal 
+Diseases-Current Standing, Opportunities and Challenges. Genes (Basel) 10 (9). doi:10.3390/
+genes10090654
+102. Darrow JJ (2019) Luxturna: FDA documents reveal the value of a costly gene therapy. Drug 
+discovery today 24 (4):949–954. doi:10.1016/j.drudis.2019.01.019 [PubMed: 30711576] 
+103. Kim J, Hu C, Moufawad El Achkar C, Black LE, Douville J, Larson A, Pendergast MK, Goldkind 
+SF, Lee EA, Kuniholm A, Soucy A, Vaze J, Belur NR, Fredriksen K, Stojkovska I, Tsytsykova 
+A, Armant M, DiDonato RL, Choi J, Cornelissen L, Pereira LM, Augustine EF, Genetti CA, Dies 
+K, Barton B, Williams L, Goodlett BD, Riley BL, Pasternak A, Berry ER, Pflock KA, Chu S, 
+Reed C, Tyndall K, Agrawal PB, Beggs AH, Grant PE, Urion DK, Snyder RO, Waisbren SE, 
+Poduri A, Park PJ, Patterson A, Biffi A, Mazzulli JR, Bodamer O, Berde CB, Yu TW (2019) 
+Patient-Customized Oligonucleotide Therapy for a Rare Genetic Disease. The New England 
+journal of medicine 381 (17):1644–1652. doi:10.1056/NEJMoa1813279 [PubMed: 31597037] 
+104. Cideciyan A V , Jacobson SG, Drack A V , Ho AC, Charng J, Garafalo A V , Roman AJ, Sumaroka 
+A, Han IC, Hochstedler MD, Pfeifer WL, Sohn EH, Taiel M, Schwartz MR, Biasutto P, Wit 
+W, Cheetham ME, Adamson P, Rodman DM, Platenburg G, Tome MD, Balikova I, Nerinckx F, 
+Zaeytijd J, Van Cauwenbergh C, Leroy BP, Russell SR (2019) Effect of an intravitreal antisense 
+oligonucleotide on vision in Leber congenital amaurosis due to a photoreceptor cilium defect. 
+Nature medicine 25 (2):225–228. doi:10.1038/s41591-018-0295-0Garanto et al. Page 19
+Mol Genet Metab . Author manuscript; available in PMC 2023 September 24.
+Author Manuscript Author Manuscript Author Manuscript Author ManuscriptFigure 1. 
+Schematic representation of the anatomy of the eye and the retina. Created with 
+BioRender.com .Garanto et al. Page 20
+Mol Genet Metab . Author manuscript; available in PMC 2023 September 24.
+Author Manuscript Author Manuscript Author Manuscript Author ManuscriptFigure 2. 
+Occurrence (%) of symptoms associated with disorders presenting with ocular phenotype in 
+10 categories of IMDs. The percentages for eye involvement were calculated using as the 
+denominator the total number of IMDs in each category presenting with any with ocular 
+phenotype. Heat scale ranges from red (0%) for diseases with no particular symptoms 
+reported to violet (100%) for diseases with particular symptoms occurring with highly 
+frequency within the disorders group. For definition of 10 categories of disorders affecting 
+eye see Supplemental Table 1. For interpretation of the references to color in this figure 
+legend, the reader is referred to the web version of this article.Garanto et al. Page 21
+Mol Genet Metab . Author manuscript; available in PMC 2023 September 24.
+Author Manuscript Author Manuscript Author Manuscript Author ManuscriptAuthor Manuscript Author Manuscript Author Manuscript Author ManuscriptGaranto et al. Page 22
+Table 1.
+Biochemical investigations in metabolic diseases affecting eye.
+Basic tests Profiles Special tests
+Blood count Amino acids (P,U) Iron (S)
+ASAT/ALAT (P) Organic acids (U) Transferrin (S)
+CK (P) Acylcarnitines (DBS, P) Ferritin (S)
+ALP (P) Sialotransferins (S) Zinc (S, U)
+LDH (P) Sterols (P) Manganese (B)
+CRP (P) Bile acids (U) Lysosomal Enzymes (S)
+Lactate (P) Oligosaccharides (U) Vitamins (S)
+Glucose (P) Mucopolysaccharides (U) Flavins (B)
+Ammonia (B) VLCFA (P) SAM & SAH (P)
+Copper (S,U) Lipid panel (S) Coagulation factors
+Ceruloplasmin (S) Biogenic amines (CSF) Immunoglobulins
+Cholesterol (P) Pterins (CSF) Interferon signature (PBMC)
+Triglycerides (P) Guanidino compounds (U,P,CSF) Polyols (P,U)
+Mol Genet Metab . Author manuscript; available in PMC 2023 September 24.

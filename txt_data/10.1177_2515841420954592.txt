@@ -1,0 +1,955 @@
+Therapeutic Advances in OphthalmologySpecial Collectionjournals.sagepub.com/home/oed 1
+Creative Commons CC BY: This article is distributed under the terms of the Creative Commons Attribution 4.0 License (https://creativecommons.org/licenses/by/4.0/) 
+which permits any use, reproduction and distribution of the work without further permission provided the original work is attributed as specified on the SAGE and Open 
+Access pages (https://us.sagepub.com/en-us/nam/open-access-at-sage).https://doi.org/10.1177/2515841420954592  
+https://doi.org/10.1177/2515841420954592
+Ther Adv Ophthalmol
+2020, Vol. 12: 1–28DOI: 10.1177/ 
+2515841420954592
+© The Author(s), 2020.  Rare Eye Diseases: looking outside the box
+Introduction
+Worldwide, approximately one in 1000 people are affected with genetic eye disease.
+1 In the United 
+Kingdom, one in 2500 children under the age of 1 year are diagnosed as blind or severely visually impaired with an estimated 33% having a genetic basis.
+2 Genetic eye disorders affect individuals of all 
+ages and encompass a broad spectrum of disease including developmental eye defects, corneal and reti-nal dystrophies, and hereditary optic  neuropathies, 
+with both nonsyndromic and syndromic forms. These rare diseases can affect all parts of the eye including the adnexa, ocular muscles, anterior chamber and posterior segment. They can be iso-lated, only affecting the eye, or found in association with systemic features, forming part of a syndrome. Developmental eye defects include microphthal-mia, anophthalmia and ocular coloboma (MAC), anterior segment dysgenesis, congenital cataracts, primary congenital glaucoma, retinal dysplasia and optic nerve hypoplasia. Inherited retinal disorders (IRDs) are a broad group of nonprogressive and progressive sight loss conditions characterised by a retinal degeneration. These include Leber congeni-tal amaurosis (LCA), severe early onset retinal dys-trophies, congenital stationary night blindness, achromatopsia, cone and rod dystrophies, retinitis pigmentosa (RP) and macular dystrophies. Together IRDs affect 11 per 50,000 children and are the commonest cause of blindness among work-ing age adults in the United Kingdom.
+3
+All inheritance patterns are represented for heredi-tary eye disorders, the vast majority of cases being caused by genetic defects involving a single gene. Mutations range from single nucleotide substitu-tions and insertions/deletions to whole gene or chro-mosomal rearrangements. Although digenic and multiallelic cases have been reported,
+4,5 there 
+remains little evidence for this being a significant cause of disease. Similarly, although environmental factors have been found to contribute to certain ocu-lar maldevelopment phenotypes, this is a small pro-portion.
+2 In one UK prospective study investigating Practical guide to genetic screening for inherited eye diseases
+Cécile Méjécase
+ , Samantha Malka, Zeyu Guan, Amy Slater, Gavin Arno  
+and Mariya Moosajee
+Abstract: Genetic eye diseases affect around one in 1000 people worldwide for which the 
+molecular aetiology remains unknown in the majority. The identification of disease-causing 
+gene variant(s) allows a better understanding of the disorder and its inheritance. There is now 
+an approved retinal gene therapy for autosomal recessive RPE65-retinopathy, and numerous 
+ocular gene/mutation-targeted clinical trials underway, highlighting the importance of 
+establishing a genetic diagnosis so patients can fully access the latest research developments 
+and treatment options. In this review, we will provide a practical guide to managing patients 
+with these conditions including an overview of inheritance patterns, required pre- and post-
+test genetic counselling, different types of cytogenetic and genetic testing available, with a 
+focus on next generation sequencing using targeted gene panels, whole exome and genome 
+sequencing. We will expand on the pros and cons of each modality, variant interpretation 
+and options for family planning for the patient and their family. With the advent of genomic 
+medicine, genetic screening will soon become mainstream within all ophthalmology 
+subspecialties for prevention of disease and provision of precision therapeutics.
+Keywords: family planning, genetic counselling, genetic screening, inherited eye disease, next 
+generation sequencing, whole exome sequencing and whole genome sequencing
+Received: 4 May 2020; revised manuscript accepted: 29 July 2020.Correspondence to:  
+Mariya Moosajee  
+Professor, Institute of 
+Ophthalmology, University College London, 11-43 Bath Street, London EC1V 9EL, UK. 
+Moorfields Eye Hospital 
+NHS Foundation Trust, London, UK 
+Great Ormond Street 
+Hospital for Children NHS Trust, London, UK 
+The Francis Crick Institute, 
+London, UK 
+m.moosajee@ucl.ac.uk
+Cécile Méjécase  
+Institute of Ophthalmology, University College London, London, UK
+Samantha Malka  
+Institute of Ophthalmology, University College 
+London, London, UK; 
+Moorfields Eye Hospital NHS Foundation Trust, London, UK
+Zeyu Guan  
+Moorfields Eye Hospital NHS Foundation Trust, London, UK
+Amy Slater  
+Royal Brompton and 
+Harefield NHS Foundation Trust, London, UK
+Gavin Arno  
+Institute of Ophthalmology, University College London, London, UK; Moorfields Eye Hospital NHS Foundation Trust, London, UK; Great Ormond Street Hospital for Children NHS 
+Trust, London, UK954592 OED0010.1177/2515841420954592Therapeutic Advances in OphthalmologyC Méjécase, S Malka
+research-article2020 2020
+ReviewTherapeutic Advances in Ophthalmology 12
+2 journals.sagepub.com/home/oed
+the incidence of MAC, only 2% of cases were con-
+sidered due to environmental influence such as maternal alcohol use or maternal vitamin A defi-ciency.
+6 Pathogenic variants in the mitochondrial 
+genome or autosomal genes encoding mitochondrial proteins may lead to mitochondrial disorders includ-ing inherited optic neuropathies.
+7 Rarer genetic 
+causes of disease include mosaicism and uniparental iso- and hetero-disomy.
+8–11
+There is considerable genetic and phenotypic het-erogeneity, and in some cases it can be extremely difficult to attribute a particular disease-causing gene unless molecularly confirmed, as this also has implications for future treatments and generations. With the first approved gene therapy for the IRDs caused by biallelic variants in the RPE65 gene,
+12 
+and several more genetic-based treatments emerg-ing, it is paramount that patients have access to the appropriate genetic testing. In this review, we pro-vide guidance on current and future practices for genetic testing of Mendelian eye disorders, how to interpret results and guide genetic counselling.
+How to identify patients who may benefit 
+from genetic screening?
+Family history and inheritance patterns
+A detailed clinical history and examination is of key importance to determine the likely aetiology of an eye disease. In suspected genetic eye disease, the clinical findings should guide which molecular investigations/genetic testing is most suitable to ascertain the possible cause. Hence, the dissection of disease features, onset, progres-sion and severity of symptoms for all affected family members, detailed pregnancy/birth his-tory, family history and consanguinity are key aspects. For example, an infant presenting with congenital cataract is less likely to be suffering from an inherited form if the mother developed an intrauterine infection with rubella during early pregnancy. The family history can help to deter-mine the inheritance pattern of Mendelian dis-ease such as autosomal dominant, autosomal recessive, X-linked or mitochondrial. Examination should involve a full ocular and systemic assess-ment, with accompanying investigations, such as neuroimaging or ocular ultrasound, and imaging, for example, anterior segment or retinal optical coherence tomography (OCT) and fundus auto-fluorescence (FAF). Any clinical features should be recorded using human phenotypic ontology (HPO) to provide a standardised form of charac-terisation which may guide diagnosis and man-agement
+13,14 (Box 1). Syndromic patients with 
+congenital eye malformations and learning diffi-culties are likely to have a chromosomal abnor-mality
+15 and may be best referred to a paediatrician 
+or clinical geneticist for further review and inves-tigation. Establishing a precise molecular diagno-sis for any genetic eye disease can only be achieved through genetic testing and this will allow the 
+Box 1. Importance of human phenotypic ontology (HPO). 
+HPO was first established in 2007 to unify phenotype description reported in the Online Mendelian Inheritance in Man (OMIM) 
+database.16 Over 13,000 clinical phenotype features are regrouped and described in HPO (https://hpo.jax.org/app/), each with a 
+unique identifier, in a ‘parent-child’ structure. An example of a small part of this structure is as follows:
+•  HP:0000478 Abnormality of the Eye
+° HP:0012372 Abnormal eye morphology
+ HP:0000589 Coloboma
+ HP:0100887 Abnormality of globe size
+° HP:0012373 Abnormal eye physiology
+ HP:0012632 Abnormal intraocular pressure
+ HP:0000501 Glaucoma
+It is important to note HPO encompasses individual clinical features which are then regrouped into one or more disease(s), it 
+can help to study the link with other pathologies and their genetic association.17 To apply HPO, the most specific terms based 
+on its definition (and not on its name) can be chosen to describe the observed clinical features, with the help of the website browser. The absence of some clinical features (i.e. investigated and not observed) can also be reported. The HPO description 
+will be then understandable by healthcare professionals and researchers, who work in close collaboration to solve the 
+molecular diagnosis of genetic eye disease patients. A list of HPO terms helps to identify the relevant genes/panels that need to be screened to aid diagnosis. If genetic testing reveals a variant(s) in a gene associated with a syndromic disorder, the HPO terms can help to confirm associated systemic phenotypes, expedite diagnosis and allow for the correct multidisciplinary team 
+to be involved.C Méjécase, S Malka et al.
+journals.sagepub.com/home/oed 3
+ clinician to stratify clinical risk in terms of prognosis, 
+co-morbidities, assemble the correct multidiscipli-nary team and advise on possible research and  clinical trials that may benefit the patient.
+Autosomal recessive disease. Autosomal  recessive 
+disease inheritance is defined by the presence of 
+biallelic variants on the genes located on an auto-some leading to disease. These variants range from point mutations, structural changes within a gene, or larger rearrangements/copy number variations encompassing several genes. Carriers of a single autosomal recessive pathogenic change are clinically unaffected. While there can be  variability between affected individuals, autoso-mal recessive inheritance does not discriminate between males and females, so both sexes are equally likely to be affected (Figure 1).
+Parents of an affected patient with an autosomal 
+recessive condition will usually either be unaffected carriers (with a single monoallelic pathogenic change) or be affected with the condition  themselves 
+(with biallelic pathogenic changes). Consanguinity in parents increases the risk of autosomal reces-sively inherited conditions. In non-consanguineous families, autosomal recessive diseases are not often seen in multiple generations and cases will be 
+Figure 1. Autosomal recessive inheritance. (a) Family tree highlighting autosomal recessive cone-rod 
+dystrophy caused by heterozygous nonsense variants in CERKL; c.1090C>T p.(Arg364*) and c.847C>T 
+p.(Arg283*). Circles represent women, squares men, diamonds relatives of unknown sex. Filled forms 
+represent affected individuals; unfilled forms unaffected individuals. Crossed forms represent deceased individuals. The ‘n’ in diamond form indicates an unknown number of relatives. (b) Widefield colour fundus 
+photograph of the right eye of the proband aged 61 years showing macular atrophy. (c) Widefield fundus 
+autofluorescence of the right eye showing a dense hypoautofluorescent (black) area corresponding to the area of atrophy within a surrounding hyperautofluorescent ring.Therapeutic Advances in Ophthalmology 12
+4 journals.sagepub.com/home/oed
+frequently simplex. For monoallelic carrier parent 
+couples, there is a 25% risk with each pregnancy of the child inheriting the disorder, a 25% chance of the child being unaffected and not carrying either of the pathogenic mutations and a 50% chance of the child being an unaffected carrier.
+All children of individuals affected with an autoso-
+mal recessive condition will inherit one allele with a pathogenic change from their affected parent and will therefore be a carrier for the condition. If this child’s other parent is not affected, nor a car-rier of a pathogenic change in the same gene, then the child will not be affected with the condition. The risk of an affected patient’s child inheriting the autosomal recessive condition is small and depends on the population frequency of the path-ogenic variant. The risk of a patient with the dis-ease passing this onto their child is less than 1%. These risks increase if there is consanguinity between the parents or a positive family history of the same condition in the unaffected parent.
+There are common pathogenic autosomal reces-
+sive genes seen in inherited eye diseases. For exam-ple, Stargardt disease is a macular dystrophy with a prevalence of ~1:8000–10,000  predominantly 
+caused by biallelic variants in ABCA4, which determine the onset and severity of the pheno-type.
+18,19 Some disease-causing variants in the 
+same gene can be associated with syndromic or nonsyndromic disorders, for example, USH2A  
+biallelic variants can be associated with type II Usher syndrome in 85% of cases, characterised by vision and hearing loss, or nonsyndromic RP in 20% of RP cases.
+20–22 Although the majority of 
+bilateral microphthalmia/anophthalmia cases are due to dominant monoallelic mutations, homozy-gous and compound heterozygous loss-of- function 
+variants are found in STRA6 and RAX.
+6,23,24
+Autosomal dominant disease. Autosomal domi-
+nant inheritance is defined by a disease or trait caused by a single heterozygous variant affecting one allele of an autosomal gene. As with autoso-mal recessive inheritance, these changes can be point mutations, structural changes within a gene, or larger rearrangements/copy number var-iations which encompass several genes. Autoso-mal dominant inheritance also does not discriminate between males and females, so both sexes are equally likely to be affected (Figure 2).
+Usually, individuals presenting with an autosomal 
+dominant condition will have a family history in keeping with dominant inheritance. In cases where there is no clear family history of the eye condi-tion, this can be due to reduced/non-penetrance, variable expressivity or a de novo sporadic patho-genic change in the patient (see below). Each affected individual has a 50% risk for each preg-nancy of passing the mutated allele, and therefore the condition, to their child. Consanguinity of parents and family history of the unaffected parent is not relevant in determining inheritance risks in an autosomal dominant disorder.
+Among the common pathogenic autosomal dom-
+inant genes seen in genetic eye diseases is RHO, first described in 1990, mutated in approximately 30% of autosomal dominant RP cases, with the most common variant p.Pro23His.
+25–29 OPA1 
+variants account for approximately 65–75% of autosomal dominant optic atrophy, which can be associated with extra-ocular features.
+30–32 PAX6 
+variants can cause aniridia, which affects 1:40,000–100,000 births, leading to a variable degree of iris and foveal hypoplasia, nystagmus, cataract, glaucoma and corneal keratopathy.
+33,34
+X-linked recessive disease. X-linked inheritance 
+relates to conditions that manifest as a result of a variant affecting a gene on the X-chromosome. Such conditions primarily affect men through the hemizygous pathogenic mutation, although female carriers can be asymptomatic, mildly symptomatic or display manifest signs of disease, for example, as seen in X-linked RP.
+35 In women, lyonization 
+occurs, commonly referred to as X-inactivation, meaning that one of the X chromosomes is active while the other is inactivated. This is a random pro-cess but if more healthy X chromosomes are inacti-vated in a carrier state, then a woman could be more clinically affected.
+Due to the potential for female asymptomatic carri-
+ers of X-linked recessive disease, it is possible for these conditions to appear to ‘skip’ generations on a pedigree through maternal carriers (Figure 3). A male patient with an X-linked recessive disorder will not pass the pathogenic mutation to any of his sons, but all of his daughters will be carriers. It is not possible for man to man transmission of an X-linked recessive condition. A female carrier of an X-linked recessive disorder has a 50% risk of pass-ing the pathogenic mutation to her children, so each of her sons has a 50% risk of being affected and each of her daughters has a 50% risk of being a carrier. It is therefore important to consider the possibility of X-linked disease in sporadic male C Méjécase, S Malka et al.
+journals.sagepub.com/home/oed 5
+cases or seemingly dominant pedigrees lacking man 
+to man transmission.
+Common X-linked recessive disorders in inher-
+ited eye diseases include choroideremia, a rare chorioretinal dystrophy (with a prevalence of one in 50,000–100,000) caused by mutations in CHM, characterised by progressive degeneration of the photoreceptors, retinal pigment epithe-lium (RPE) and choroid.
+36 Variants in RPGR are 
+the major cause of X-linked RP, which represents 8% of RP (with a prevalence of one in 3,000–7,000).
+37,38 Lenz microphthalmia  syndrome is a 
+X-linked disease characterised by cataracts and microphthalmia, associated with facial dysmor-phism, dental and cardiac defects, due to BCOR  
+variants.
+39
+X-linked dominant disease. An X-linked domi-
+nant condition is also caused by a pathogenic change on the X chromosome. Unlike X-linked recessive inheritance, a female’s healthy X chro-mosome does not compensate in an X-linked dominant case, so females and males can both be affected. Affected males of X linked domi-nant diseases are often more severely affected than heterozygous females and a number of such conditions are lethal in males during early life.
+Figure 2. Autosomal dominant inheritance. (a) Family tree highlighting autosomal dominant cataracts caused by a heterozygous 
+variant in CHMP4B, c.481G>C p.(Glu161Gln). Circles represent women, squares men. Filled forms represent affected individuals; 
+unfilled forms unaffected individuals. Crossed forms represent deceased individuals. The question mark in the circle form indicates 
+the phenotype is unknown. Anterior segment photograph of the (b) right and (c) left eye of the proband aged 9 years showing posterior polar cataracts.Therapeutic Advances in Ophthalmology 12
+6 journals.sagepub.com/home/oed
+A male patient with an X-linked dominant disor-
+der will not pass the pathogenic mutation to any of his sons, but all of his daughters will be affected. It is not possible for male to male trans-mission of an X-linked dominant condition. A female patient with an X-linked dominant disor-der has a 50% risk of passing the pathogenic mutation to her children, regardless of her child’s gender, so each child has a 50% risk of being affected. If a mother has had multiple miscar-riages of males, this can be an indicator of an X-linked dominant condition.
+X-linked dominant disorders are very rare. One 
+example is incontinentia pigmenti which is caused by pathogenic changes in the IKBKG gene. This condition usually only affects females, as it is only in rare cases that males survive.
+40
+Figure 3. X-linked recessive inheritance. (a) Family tree highlighting X-linked recessive choroideremia caused 
+by a heterozygous variant in CHM, c.126C>G p.(Tyr42*). Circles represent women, squares men, diamonds 
+relatives of unknown sex. Filled forms represent affected individuals; unfilled forms unaffected individuals. 
+Crossed forms represent deceased individuals. Numbers in diamond form indicate a number of relatives of unknown sex. (b) Widefield colour fundus photograph of the right eye of the proband aged 31 years showing 
+extensive chorioretinal atrophy with small pigment deposits. (c) Widefield fundus autofluorescence of the right 
+eye showing a small residual island of retina at the macula.C Méjécase, S Malka et al.
+journals.sagepub.com/home/oed 7
+Mitochondrial mode of inheritance
+Mitochondrial inheritance does not obey the clas-sic rules of Mendelian genetics. The mitochon-drial genome comprises a circular ~16.5 kb DNA genome (mtDNA) with 37 genes present in each mitochondrion. The human egg cells, but not sperm cells, contribute mitochondria to the devel-oping embryo; hence, children can only inherit mtDNA mutations from their mother. The sever-ity of the disease is related to the number of mutated mitochondrial DNA in each cell. Mitochondrial disease can affect each generation of a family, with both sexes equally likely to be affected. Of note, fathers do not pass traits associ-ated with changes in mtDNA to their children. Leber hereditary optic neuropathy (LHON)
+41 
+and maternally inherited diabetes and deafness (MIDD)
+42 are the most common mitochondrial 
+eye diseases, which affect the respiratory chain complex. Kearn Sayre syndrome, characterised by pigmentary retinopathy, ophthalmoplegia and extra-ocular features such as deafness, cerebellar ataxia and heart block, is due to a mtDNA deletion.
+43
+Other inheritance patterns and complexitiesMosaicism occurs when cells within a single indi-vidual comprise two or more different genotypes. Somatic mosaicism is a form of mosaicism which occurs following postzygotic mutation.
+44 Germline 
+mosaicism is a form of mosaicism which involves the gamete cells (i.e. sperm or egg). In autosomal domi-nant cases, germline mosaicism can explain multiple affected siblings from unaffected parents.
+45
+A de novo mutation is a genetic change that occurs 
+for the first time in an individual which is not pre-sent in the parents’ somatic cell DNA. This can be due to germline mosaicism in a parent or the mutation can occur in a fertilised egg during embryogenesis.
+45
+Uniparental disomy describes the phenomenon of an individual having two copies of a chromo-some, or part of a chromosome, from one parent without the equivalent copy from the other  parent.
+8–11 This duplication is usually the result of 
+a meiosis error46 and can be seen in one of two 
+forms: uniparental heterodisomy, where the off-spring is genotypically identical to a parent at a locus having inherited both alleles carried by the parent, or uniparental isodisomy, where the off-spring inherits two copies of a single allele/locus from one parent.Parental exclusion means the absence of cosegre-gation between the child and parental genotypes with the most likely scenario being non-paternity or adoption of the affected child. This should be checked for during the genetic consultation and must be taken into account during the genetic analysis to help identify the disease-causing defects.
+47
+Variable expressivity means that a pathogenic variant may be associated with varying degrees of phenotypic severity within individuals of the same family, for example, in autosomal dominant non-syndromic microphthalmia and ocular coloboma (Figure 4).
+Incomplete or reduced penetrance means that a 
+pathogenic variant does not always result in the patient being affected with the disease.
+48 For 
+example, PRPF31, which causes autosomal dom-
+inant RP, has been shown to exhibit variable expressivity and reduced penetrance, thus sever-ity of symptoms can vary significantly in affected relatives within the same family with some carri-ers being totally asymptomatic (Figure 5).
+49
+Pseudo-dominant inheritance describes families in which subsequent generations are affected by a recessive disorder and thus appear to follow a dom-inant inheritance pattern. Pseudo-dominance is more likely to occur in families with consanguinity or in recessive disorders where there may be a high carrier frequency of mutations (perhaps enriched in an isolated community or ethnicity).
+50 Vaclavik and 
+colleagues reported one consanguineous family where the father and two of his three children were affected with enhanced S-cone syndrome, the pedi-gree appeared autosomal dominant but genetic analyses identified a homozygous variant in NR2E3  
+which cosegregated with the phenotype, revealing a pseudo-dominant inheritance.
+50
+Disease-onset, severity and prognosis can differ between individuals sharing the same disease-  
+causing variants, known as inter- and intra- familial 
+ variability. Environmental factors, genetic  modifiers 
+or epigenetic influences may affect the clinical 
+phenotype and explain the difficulty in establish-ing genotype-phenotype  correlations.
+51,52 The 
+field of epigenetics and genetic modifiers is the 
+subject of much research, but clinically relevant discoveries are emerging, for example, in uveal melanoma, patients with a methylated EFS pro-motor have an increased risk of premature death compared with those with an unmethylated EFS Therapeutic Advances in Ophthalmology 12
+8 journals.sagepub.com/home/oed
+promotor.53 Moreover, some studies report that 
+CpG methylation influences mutation  occurrence.54 
+A multiomic approach to studying disease will 
+yield more information on inherited eye disorders than has previously been established, but as yet transcriptomics, metabolomics, proteomics and epigenomics still remain as research-based tests.
+55Genetic counselling (part 1) – informed consent and the role prior to genetic testingIf a genetic cause is suspected, the clinician should consider the following and discuss this with the patient and their family: (a) Would a molecular result reduce morbidity and mortality through established intervention or access to research? (b) 
+Figure 4. Autosomal dominant inheritance with variable expressivity. (a) Family tree with autosomal dominant 
+non-syndromic microphthalmia with ocular coloboma and variable expressivity between generations. No primary 
+findings following a microphthalmia, anophthalmia and coloboma (MAC) targeted gene panel of 97 genes. Less 
+than 10% of patients with MAC receive a molecular diagnosis. Circles represent women, squares men. Filled forms represent affected individuals; unfilled forms unaffected individuals. Crossed forms represent deceased individuals. (b) Right eye with unilateral right microphthalmia and iris coloboma with microcornea and (c) normal 
+left eye of father. (d) Right and (e) left eye of proband (son) with bilateral microphthalmia, iris coloboma and 
+microcornea.C Méjécase, S Malka et al.
+journals.sagepub.com/home/oed 9
+Provide an explanation for their symptoms, should 
+they wish to know? (c) Help to determine the prog-nosis? (d) Guide family planning?
+56 Genetic coun-
+sellors assist clinicians by supporting families with their decision-making on proceeding with genetic testing (Table 1). Depending upon location, genetic counsellors can be registered professionals who must adhere to national guidelines and poli-cies, for example, the Association of Genetic Nurses and Counsellors (UK) and the American College of Medical Genetics and Genomics (USA). They will discuss the concept of genetics, DNA and genetic testing in appropriate language and level of detail for the patients and any relevant family members. The genetic counsellor will discuss a patient’s motivations for undergoing the genetic testing, such as (a) more accurate diagnosis and prognosis, (b) confirmation of inheritance pattern and risks to other family members and (c) potential eligibility for clinical treatment trials, while manag-ing a patient’s expectations. The genetic counsellor will draw a detailed pedigree diagram (genogram), facilitate conversations and counsel patients regard-ing any ethical concerns (Table 2) and apprehen-sions they may have. Counselling a patient on inheritance and family risks prior to genetic testing can be challenging, as many Mendelian hereditary eye disorders can be inherited by more than one 
+Figure 5. Autosomal dominant with reduced penetrance. (a) Family tree with autosomal dominant retinitis pigmentosa (RP) caused 
+by a heterozygous variant in PRPF31, c.547G>T p.(Glu183*). The mother is clinically unaffected but was found to segregate the 
+variant: 50% of gene carriers can be non-penetrant showing no signs of RP. Circles represent women, squares men. Filled forms 
+represent affected individuals; unfilled forms unaffected individuals. Crossed forms represent deceased individuals. Double line represents consanguinity. (b) Widefield colour fundus photograph of the right eye of the proband aged 23 years showing retinal 
+vessel attenuation and scattered mid peripheral bone spicule pigmentation. (c) Widefield fundus autofluorescence of the right eye 
+showing areas of hypoautofluorescence outside the arcades with a perifoveal ring of hyperautofluorescence.Therapeutic Advances in Ophthalmology 12
+10 journals.sagepub.com/home/oed
+pattern of inheritance. Accurate discussions about 
+risks to family members and future generations are sometimes only possible after a molecular diagnosis has been obtained (Figure 6). Following the discus-sion with the genetic counsellor, a patient must make an autonomous decision whether they wish to go ahead with a genetic test (if relevant and available).
+Clinical genetic testing
+Clinical genetic testing encompasses next genera-tion sequencing (NGS), and cytogenetic testing. Ultimately, retrieving a molecular diagnosis allows both patients and health care professionals to have a better understanding of the disease, establish genotype–phenotype correlations, which will inform clinical management and help determine a prognosis. Each country has its own framework for genetic testing. In the United Kingdom, all clinical-grade genetic testing must be performed within the approval of the United Kingdom Accreditation Service (UKAS). This is the only national accreditation body that is recognised by the government, which inspects and accredits clinical laboratories against internationally agreed standards. Molecular results are interpreted, veri-fied and reported by Health and Care Professional (HPCP) registered clinical scientists. As of October 2018, all genetic testing within NHS England was reconfigured with the aim to provide a single national testing network, with genetic tests undertaken by one of seven genomic labora-tory hubs.
+57,58 To aid test selection, a National Genomic Test Directory for rare and inherited diseases has been curated detailing which test is available for each clinical indication (https://www.england.nhs.uk/publication/national-genomic-test-directories/). The Genomics England Panel app lists the genes included in the targeted gene panels.
+59 All genes classified as ‘Green’ in Panel 
+app have undergone review by a panel of experts and deemed to have enough evidence to be included on a diagnostic gene panel for a disease. In Europe, as in the United Kingdom, clinical genetic testing must be approved by the European co-operation for Accreditation (http://www.euro-pean-accreditation.org/) with some guidelines and advice provided by the European Society of Human Genetics (ESHG, https://www.eshg.org/index.php?id=home) and the European Reference Network for Rare Eye Disease (ERN-RED, https://www.ern-eye.eu/).
+60 In the United States, 
+Clinical laboratory Improvement Amendments (CLIA) provides validated laboratory procedures, while Clinical and Laboratory Standards Institute (CLSI) standardises tests.
+60,61
+For most ophthalmology conditions, sequencing of either a single gene, for example, PAX6 for aniridia in adults, or targeted gene panels, for example, genetically heterogeneous conditions such as retinal dystrophies, is typically recom-mended as the primary route of molecular analy-sis. For syndromic conditions alternative genetic testing methods such as genome wide copy num-ber variant (CNV) analysis by microarray may be more suitable.Table 1. Why pursue genetic testing?
+Situation Aim
+Diagnostic testing To establish a genetic diagnosis for an affected patient with no previously established individual or family 
+result.
+Confirmation testing To confirm a genetic diagnosis of an affected patient; this could be Sanger sequencing for a known 
+genetic result of an affected family member or confirmation in an NHS diagnostic laboratory of a result 
+found previously in research.
+Carrier testing To study the genotype for an unaffected family member of a patient with a known pathogenic change. These tests are most commonly performed in family members of patients with an autosomal dominant gene with reduced penetrance, or for women who are at risk of carrying an X-linked disorder.
+Predictive testing To study the genotype for asymptomatic relatives of affected individuals who are at risk of developing the condition themselves. Current UK guidelines are that asymptomatic children under the age of 16 should not undergo predictive testing for an adult onset disorder.
+Familial segregation 
+testingMight be useful for relatives of patients with an autosomal recessive disease, in order to confirm that two pathogenic mutations are in trans.C Méjécase, S Malka et al.
+journals.sagepub.com/home/oed 11
+Table 2. Ethics issues associated with genetic screening.
+Ethics issues
+Presymptomatic 
+testing in childrenA parent or guardian of a clinically unaffected child known to be at risk of a genetic eye disorder (e.g. a younger sibling of an affected patient) may wish to find out whether their child will develop the condition. 
+This raises ethical concerns, especially for conditions where there is no treatment or management 
+available and where the usual onset of symptoms is in adulthood. A parent making this decision on behalf of a child is removing the autonomy of the child to make its own decision. Genetic counsellor guidelines 
+state that presymptomatic testing in children will only be offered in cases where there is a clinical need 
+(e.g. treatment or prevention availability).
+Presymptomatic testing in adultsIf a patient is currently asymptomatic or only very mildly affected, there is the potential for a negative psychological impact of a positive result. This decision needs to be balanced against the anxiety of 
+inheriting a known diagnosis in a family and possible treatments or lifestyle adjustments.
+Choice and expectationsIt is important that genetic testing is presented to a patient as a choice, rather than mandatory, just like any other procedure for which the risks and benefits must be discussed to arrive at informed consent. The 
+clinician and genetic counsellor must make sure that a patient’s expectations regarding genetic testing and results are appropriately managed.
+Informed consent (capacity and phrasing)The informed consent process should be a two-way conversation between a genetic counsellor and a patient. This can lead to ethical challenges regarding patients of various educational backgrounds understanding the relevant genetic principles.
+a Some patients, such as those with severe learning 
+difficulties, might not have the ability to provide informed consent for genetic testing which leads to ethical 
+concerns about whether it is appropriate for family or medical professional to make a decision on their 
+behalf in cases where there is no clinical benefit or treatment option available for the patient.
+Identity An ethical issue that arises, particularly during family planning discussions, is that a patient might consider their diagnosis to form part of their identity. Therefore, discussions about ‘risks’ and reproductive options 
+might have implications on a patient’s feeling of self-worth. Using appropriate language and a patient-led 
+approach can help to minimise these problems, for example, a genetic counsellor may choose to talk about ‘chances’ of a patient’s child inheriting a condition rather than ‘risks’.
+Blame/responsibilityA positive genetic result may lead carrier parents to feel a burden of responsibility for their child’s diagnosis. This is something that should be considered and discussed before genetic testing is offered to a family.
+Family implicationsHaving a genetic diagnosis can lead to a patient learning of risks of other relatives developing the same disorder. Feedback of results needs to be handled carefully by a genetic counsellor and support should be offered to relevant family members. Family members can sometimes put pressure on an affected relative to pursue 
+genetic testing so that they can learn of their individual risks. It is important that the affected patient is making an 
+autonomous decision about genetic testing and is not merely responding to pressure from family members.
+Unexpected paternity or family relationshipsWhen genetic screening occurs in multiple family members, this can reveal a lack of paternity or other unexpected familial relationships of which the patient and other family members may not be aware.
+b
+Social and legal implicationsIf a patient obtains a genetic diagnosis, there can be social and legal implications which should be considered prior to a decision being made about testing. These implications can be worrying for patients 
+and include concerns about health/life insurance, driving and employment.
+Data ownership, 
+storage and privacySignificant ethical concerns, which are more relevant with the increase of whole exome/genome sequencing, relate to the data produced from genetic testing.
+b Key questions to be considered by patients 
+are: What data are stored? How and where is it stored? What methods are put in place to keep the data 
+secure? Who has access to the data and how can it be used? Concerns about data use and misuse are 
+a common concern of patients which genetic counsellors need to discuss in detail during the informed consent procedure.
+Incidental findings Genetic testing often gives rise to the possibility of unexpected incidental findings.
+b These could be syndromic 
+features linked to the clinical diagnosis, or linked to a separate diagnosis. This can be very distressing for a 
+patient and may require referrals to other specialist clinicians for screening, management or treatment.
+aTomlinson AN, Skinner D, Perry DL, et al. ‘Not tied up neatly with a bow’: professionals’ challenging cases in informed consent for genomic 
+sequencing. J Genet Couns 2016; 25: 62–72.
+bOrmond KE, Wheeler MT, Hudgins L, et al. Challenges in the clinical application of whole-genome sequencing. The Lancet 2010; 375: 1749–1751.Therapeutic Advances in Ophthalmology 12
+12 journals.sagepub.com/home/oed
+NGS
+The primary approach for the investigation of genetically heterogeneous eye disorders is through NGS. This uses massively parallel sequencing technology which enables the parallel sequencing of multiple targets from multiple samples (known as multiplexing),
+62 providing a cost-effective 
+method for genetic testing. One of the most fre-quently used platforms for NGS are those developed by Illumina; this is characterised by the method of DNA fragment amplification on a flow cell, known as ‘bridge amplification’.
+62 In brief, 
+NGS permits the sequencing of multiple short DNA fragments (averaging 150 bp in length), these fragments of DNA are then bioinformati-cally aligned to a reference genome. Variation between the aligned sequenced DNA and the ref-erence genome is identified or ‘called’, filtered for 
+Figure 6. Unclear inheritance – likely either X-linked recessive or autosomal recessive. (a) Consanguineous 
+family tree with retinitis pigmentosa (RP) caused by a homozygous variant in RPE65, c.253C>A p.(Arg85Ser). 
+Circles represent women, squares men, diamonds relatives of unknown sex. Filled forms represent affected 
+individuals; unfilled forms unaffected individuals. Crossed forms represent deceased individuals. Numbers in diamond or in square form indicate a number of relatives of unknown sex or of man, respectively. The question 
+mark indicates the phenotype is unknown. Double line represents consanguinity. (b) Widefield colour fundus 
+photograph of the right eye of the proband aged 42 years showing RPE granularity and subtle white dots. (c) Widefield fundus autofluorescence of the right eye showing characteristic lack of autofluorescence.C Méjécase, S Malka et al.
+journals.sagepub.com/home/oed 13
+quality and annotated [with data from external 
+databases such as population frequency informa-tion from the Genome Aggregation Database (gnomAD; https://gnomad.broadinstitute.org/)],
+63 
+before being analysed by a clinical scientist (see below).
+The use of NGS is now widely used, but there are 
+several different testing options available, which are defined by the capture method used to select and enrich the regions of interest in the DNA, prior to sequencing; these include (Figure 7) the following:
+1. Targeted gene panels or clinical exome;
+2. Whole exome sequencing (WES);3. Whole genome sequencing (WGS).
+Targeted gene panels or clinical exome. Targeted 
+sequencing utilises a DNA capture and enrich-
+ment chemistry that specifically selects regions of interest or post sequencing ‘virtual gene panel’ targeting to focus analysis on a smaller subset of genes.
+64–66 These panels are custom designed to 
+target exons and flanking intronic regions of genes previously reported to be associated with genetic eye diseases. In genetic diagnosis, targeted next-generation sequencing is also called a clinical exome. For example, a targeted gene panel, named the Oculome, was designed to screen 429 known eye-related disease causing genes follow-ing clinical exome capture and sequencing.
+64 
+Developed by a collaboration of experts with the aim of maximising the chances of detecting path-ogenic mutations with a single genetic test and chemistry, the Oculome is divided into subsets relating to the clinical presentation, for example, if a patient has congenital cataract, then the cata-ract and lens abnormalities subpanel will be selected. A study of 277 patients who had con-genital eye disorders screened with the Oculome provided a definitive diagnosis in 68 individuals (25% diagnostic rate).
+64 CNV analysis was also 
+performed by analysing and comparing the read depth of exons, but the identification of break-points was not possible unless within the covered regions: any CNVs of potential clinical interest require microarray analysis for  validation.
+64 A 
+similar inherited eye disease panel was developed, covering exons, flanking introns and 5′- or 
+Figure 7. Schematic highlighting the different coverage of NGS including targeted gene panels, whole 
+exome and genome sequencing. Gene 2 is not included in the targeted gene panel. The pale purple region 
+corresponds to a region difficult to sequence, not covered by NGS approaches, including whole genome 
+sequencing. Each horizontal bar, called a ‘read’, is aligned to the reference genome and this alignment allows the identification of variants and copy number variations (CNVs).Therapeutic Advances in Ophthalmology 12
+14 journals.sagepub.com/home/oed
+3′-untranslated regions with specific deep intronic 
+regions of 214 associated genes; of the 192 patients tested, a disease-causing variant was found in 51% of cases.
+65 Genes associated with 
+IRD were reported in the Retinal Information Network database (RetNet; https://sph.uth.edu/retnet/home.htm).
+The use of targeted gene panels is a cost effective 
+way to maximise coverage of relevant genomic regions and genes. The benefits including (a) sequencing targeted regions with a greater read depth, meaning that lower frequency variants or mosaicism are more likely to be detected; (b) gen-erating smaller data files requiring less computa-tional and bioinformatic processing and less data storage; and (c) variants identified are targeted and thus more likely to be clinically relevant.
+67 
+However, the biggest limitation of targeted gene panels is the frequency of their updates: if a novel gene or variant has been associated with a partic-ular genetic eye disease, it will not be sequenced until added, but this requires the redesigning, re-ordering and re-validation of the panel before clinical use.
+68 The most effective way to update 
+gene panels of newly discovered genes is by using whole exome or whole genome capture with vir-tual gene panel testing (see below). The valida-tion of novel candidate genes associated with inherited eye diseases relies upon the identifica-tion of disease-causing variants in candidate genes in multiple unrelated affected individuals. Candidate genes can be added to gene panels for identification of additional cases, which can help to diagnose rare conditions. However, this approach is less commonly used to identify novel gene defects compared with whole exome or genome sequencing.
+Useful online resources that will assist in under-
+standing the mode of inheritance, selection of dis-ease genes and the appropriate management include Genetics Home Reference (https://ghr.nlm.nih.gov/); Clinical Genome Resource (https://clinicalgenome.org/); and Gene Vision (www.gene.vision).
+WES. WES is defined by the selection, enrich-
+ment and sequencing of exons and flanking 
+intronic regions of known protein coding genes within the human genome, and permits the use of a single capture kit. Although the exome makes up a very small proportion of the genome (~1.5%), it is estimated that over 85% of disease causing variants are within protein coding regions.
+69,70 
+Interestingly, all exons are covered which allow the identification of novel gene defect(s) associ-ated with the disease.
+71–75 The exon coverage data 
+can be used to analyse CNV, by interrogation of read depth, and may help to identify a duplication or deletion in a gene previously reported to be associated with genetic eye diseases.
+49 This has 
+limitations in that the average read depth gener-ated by standard WES protocols may not be suf-ficient to characterise many loss or gains. In addition, inversions, translocations, complex and noncoding rearrangements are intractable and breakpoints are usually not covered making vali-dation more  difficult. Despite only accounting for 
+around 1.5% of the genome, the data generated are large. Access to a high-performance comput-ing (HPC) cluster and significant data storage can alleviate bioinformatic challenges and bottle-necks in the processing, analysis, storage and interpretation of the data.
+WGS. WGS far exceeds the targeted coverage 
+offered by the enrichment methods described 
+above. WGS methods omit polymerase chain reaction (PCR) amplification of targeted and exome capture, thereby enabling coverage of PCR-intractable genomic regions including GC rich exons.
+74,76–79  The complete coverage of the 
+genome, over 3 billion nucleotides and 20,000 genes, afforded by WGS allows the identifica-tion of previously noncovered variants such as CNVs, structural variations, intergenic and deep intronic variants.
+80–85 Recently, the 100,000 
+Genome Project was undertaken by Genomics England supported by NHS funding and infra-structure in England.
+86–88 The objective of this 
+project was to kick-start genomic medicine in the United Kingdom by generating genome data from 100,000 individuals across rare disease  
+and cancer to improve clinical diagnostics for patients.
+89 Of note, the cost of WGS and its 
+analyses and interpretation is far higher than for an exome.
+90 But as with WES or targeted gene 
+panel testing, exons and flanking intronic regions of genes can be screened first to identify any dis-ease-causing variants in these regions
+80 and thus, 
+these methods are currently favoured by clinical genetics service laboratories and researchers as the first-line approach, reserving the rest of the genome for only cases unsolved by targeted screening.C Méjécase, S Malka et al.
+journals.sagepub.com/home/oed 15
+Variant interpretation and reporting
+Analysis of NGS data. Following NGS, the raw 
+sequencing data are processed through bioinfor-matic pipelines in order to generate a human readable dataset of variants. There are numerous quality checks and controls in place to inform the scientist on the quality of the sequencing, align-ment and variant calling. The coverage indicates how well and what portion of a gene has been sequenced at a specified read depth. For example, if the coverage of a gene is reported to be 95% at 20×, this means that 95% of the gene has more than 20 sequencing reads mapping to it. This control ensures that all regions of interest are sequenced to an adequate depth.
+Bioinformatic pipelines. In brief, the bioinfor-
+matic pipelines have several steps characterised 
+by the following:
+1. Alignment: The mapping of the short sequencing reads to a reference genome achieved via tools such as BWA-mem 
+(http://bio-bwa.sourceforge.net/). This pro-duces a file known as a binary alignment file (BAM) which can be viewed using tools such as integrative genomics viewer (IGV; https://igv.org/), which is useful when assessing variants.
+2. Variant calling: The process of identifying variation between the sequenced DNA and the reference DNA, via tools such as Genome Analysis Toolkit (GATK, https://software.broadinstitute.org/gatk/). This produces a variant call file (VCF), which is a text file list-ing all variants identified, their genomic posi-tion, the nucleotide change observed, and additional information relating to the quality/confidence of the variant call.
+3. Variant annotation: The process of collat-ing and annotating each variant in the VCF with evidence from multisources required to aid interpretation
+63,91–98  (Table 3).
+4. Optional: Virtual panels and variant filter-ing to aid variant interpretation and reduce the number of variants requiring time inten-sive variant interpretation. Unlike targeted panels which specifically screen targeted regions, virtual panels are a bioinformatic filter applied post sequencing and variant calling, to filter and select variants within a defined list of genes or regions of interest. Virtual panels correspond to a list of regions,  frequently supplied in the form of a BED 
+file (a tab delimited file detailing the chromo-some, start and stop position in a standard-ised format) which aids analysis by restricting variants to the region of interest and reduce the risk of incidental findings. Virtual panels are often applied to large targeted panels, whole exome or genome sequenc-ing,
+64,71,72,80,99  and as this is a bioinformatics 
+approach, the panel can be easily edited to include or exclude genomic locations, recently published genes,
+71,72 candidate 
+genes, without the need to re-run sequenc-ing. Thus, variant lists can be filtered to remove common polymorphisms and focus on rare variants and those affecting highly conserved residues/domains among spe-cies.
+100 A lot of effort has been spent on 
+designing and curating the virtual panels for clinical genetic analysis and has resulted in collaborative projects such as the Genomics England Panel app project (https://pane-lapp.genomicsengland.co.uk/), which aims to curate lists of clinical relevant genes asso-ciated with different phenotypes, lists vetted and tiered by experts within the scientific and clinical community.
+59
+Variant interpretation. Following bioinformatic 
+processing, each variant identified is analysed to establish its possible association with the disease phenotype. Clear and concise phenotype informa-tion must be supplied with any genetics referral. All variants are analysed by a clinical scientist and independently checked by a second clinical scien-tist, using the information supplied through the annotation step of the bioinformatic pipeline (see above) and additional investigation of databases and publications. In general, data can be filtered following the mode of inheritance, the type of var-iants, the frequency in large-scale exome and genome sequencing datasets, the pathogenicity prediction, amino acid or nucleotide conservation across species, relevant tissue expression, protein localisation and prior related publications and mutation databases. The allele frequency filter should be applied considering the rarity of disease, inheritance of the gene/ mutation, and thus domi-
+nant disease analysis may differ from recessive dis-ease/gene filtering strategies. The variant rarity is the most important feature to help to identify the disease-causing variant. For example, if the fre -
+quency of an autosomal dominant disease is one in Therapeutic Advances in Ophthalmology 12
+16 journals.sagepub.com/home/oed
+10,000, then the frequency of variant must be less 
+than one in 10,000. Of note, the frequency of known mild mutations or reduced penetrant vari-ants might be higher, as the ABCA4 variant, c.5882G> A p.(Gly1961Glu) is highly frequent in 
+Somalians (~10%).
+19 A virtual panel can also be applied to focus the analyses on genes previously reported to be associated with the disease, recently published genes and candidate genes, which reduces the number of putative disease-causing variants. The number of variants is highly depend-ent on the applied methods and varies between Table 3. Variant annotation uses multiple sources.
+Genome aggregation 
+database (gnomAD)63https://gnomad.broadinstitute.org/Population database providing allele frequency for variants across different ethnic backgrounds. For each variant, each ethnicity and 
+each sex, number of homozygotes and allele frequency is calculated. 
+Rare variant frequency is below 1%.
+UCSC Genome browserhttps://genome.ucsc.edu/cgi-bin/hgTracks?db=hg38&positio
+n=lastDbPosAmino acid or nucleotide conservation, across 100 species. Highly 
+conserved amino acid/nucleotide is more likely important in protein 
+function, splicing, mRNA integrity and so on.
+ClinVar https://www.ncbi.nlm.nih.gov/clinvar/Disease association: variants reported in the literature.
+Human Gene Mutation 
+database (HGMD)http://www.hgmd.cf.ac.uk/ac/index.phpDisease association: variants reported in the literature.
+Sorting Intolerant From Tolerant 
+(SIFT)
+101http://sift.jcvi.org/ In silico prediction algorithms (non–splice site variants), based on 
+disease association, sequence homology, amino acid conservation across species and conserved region, amino acid physicochemical 
+characteristics, three dimensional structure. Variants can be 
+predicted as tolerated or deleterious.
+Polymorphism Phenotyping v2 
+(PolyPhen2)
+102http://genetics.bwh.harvard.
+edu/pph2/In silico prediction algorithms (non–splice site variants), based on disease association, sequence homology, amino acid conservation across species and conserved region, amino acid physicochemical 
+characteristics, three dimensional structure. Variants can be 
+predicted as benign, possibly or probably disease-causing.
+Align GVGD
+103,104 http://agvgd.hci.utah.edu/agvgd_input.phpIn silico prediction algorithms (non–splice site variants), based on 
+disease association, sequence homology, amino acid conservation 
+across species and conserved region, amino acid physicochemical characteristics, three dimensional structure. Variants are classified if 
+they most likely interfere with the function of the protein.
+MaxEntScan
+105,106 5′: http://hollywood.mit.
+edu/burgelab/maxent/
+Xmaxentscan_scoreseq.html
+3′: http://hollywood.mit.edu/burgelab/maxent/
+Xmaxentscan_scoreseq_acc.
+htmlIn silico prediction algorithms (splice site variants), based on consensus motif and maximum entropy principal. Higher score indicates a higher probability that the sequence being a splice site.
+Splice Site Prediction 
+by Neural Network 
+(NNSPLICE)
+106,107http://www.fruitfly.org/seq_tools/splice.htmlIn silico prediction algorithms (splice site variants), based on 
+generalised Hidden Markov Model (GHMM). Higher score indicates a 
+potential splice site.
+Human Splicing Finder (HSF)
+106,108http://www.umd.be/HSF/# In silico prediction algorithms (splice site variants), based on nucleotide conservation. Higher score indicates a potential splice site.
+Collection of this evidence is frequently undertaken by tools such as Alamut (https://www.interactive-biosoftware.com/alamut-batch/) or variant 
+effect predictor (VEP, https://www.ensembl.org/info/docs/tools/vep/index.html).GHMM, generalised Hidden Markov Model; HGMD, Human Gene Mutation database; HSF, Human Splicing Finder; NNSPLICE, Splice Site Prediction by Neural Network; SIFT, Sorting Intolerant From Tolerant.C Méjécase, S Malka et al.
+journals.sagepub.com/home/oed 17
+thousands to millions, which highlights the impor-
+tance of variant filtering to reduce the data to a manageable size.
+Variant pathogenicity interpretation has been 
+standardised and classified using the five-class system (Class 5 Pathogenic; 4 Likely pathogenic; 3 Variant of unknown clinical significance; 2 Likely benign; and 1 Benign) for small nucleotide variants and small insertions/deletions (indels)
+109 
+and this classification was also adapted for CNVs in single genes.
+110,111
+When no disease-causing variants are identified in known genes associated with inherited eye dis-orders, cases must be re-analysed for novel genes. High impact variants outside the panel can be uploaded to various data sharing platforms including GeneMatcher
+112 with the aim of identi-
+fying supporting data for causality of novel gene variants in similarly affected individuals for a large collaborative network of researchers. Moreover, syndromic genes or related gene pan-els may be considered, for example, if a patient has microphthalmia and anterior segment dys-genesis (ASD), if the MAC panel has no primary findings, the patient could also be screened with the ASD panel.
+113
+Cytogenetic testingCytogenetic testing can be used to verify NGS findings or to detect chromosomal abnormalities or CNVs.
+114 Cytogenetic testing can include karyo-
+typing, microarray-based comparative genomic hybridisation (array-CGH), fluorescent in situ  
+hybridisation (FISH, used to detect and localise the presence or absence of specific DNA sequences on a chromosome, for example, in ocular lym-phoma or melanoma
+115,116 ) and qualitative fluo-
+rescent polymerase chain reactions (QF-PCR, used to amplify specific regions of DNA to quan-tify and confirm the copy number in that specific region, previously reported with NGS approaches, and can identify common aneuploidies).
+117
+Array-CGH is a more detailed and sensitive tech-nique that looks for CNVs.
+114,118  Array-CGH can 
+detect abnormalities between 100,000 base pairs (100 kb) to more than 5,000,000 bp (5 Mb) by comparing with a normal reference genome.
+114 
+Studies have shown that array-CGH has shown to have higher detection rates for patients with syndromic-related ocular diseases and is often the initial genetic test performed in such individuals. Array-CGH is commonly used in children pre-senting with aniridia to detect a deletion involving the WT1 and PAX6 genes, if negative then Wilms 
+tumour, aniridia, genitourinary anomalies and mental retardation (WAGR) syndrome can be ruled out. Then single gene PCR-based sequenc-ing of PAX6 is undertaken to identify pathogenic variants causing isolated aniridia.
+34,119 Array-
+CGH has been found to be better at detecting CNVs in comparison with FISH and QF-PCR.
+120,121  
+It may also identify incidental findings for unre-lated genetic conditions; however, it is not able to detect balanced rearrangements or mosaicism.
+Karyotyping is one of the most conventional ways 
+of testing for chromosomal abnormalities.
+122,123  It 
+can only detect large anomalies (minimum size: 5–10 Mb) like deletions, inversions or duplica-tions.
+124,125  It is commonly used in prenatal test-
+ing for the detection of Down’s syndrome which is related to many ocular conditions including stra-bismus, refractive error, nystagmus, eyelid malpo-sition, corneal ectasias, iris nodules (Brushfield spots), presenile cataracts, glaucoma and retino-vascular anomalies.
+126–128
+Epigenetic testingThis is not yet considered an accredited clinical test in the United Kingdom for ophthalmic Mendelian disease, but can be conducted in research studies. Several approaches, such as methylation sensitive micro-arrays or bisulfite sequencing, exist to study the methylation profile in specific regions or across the whole genome.
+129 
+Methylation is an important epigenomic bio-marker that exerts a reversible chemical modifica-tion, most commonly at cytosine residue in CpG dinucleotide sequences in DNA. Methylation sensitive microarrays use methylation-sensitive restriction enzymes to identify methylated frag-ments.
+129 This approach needs a large quantity of 
+DNA (1–10 µg) to provide methylation profile at the whole genome level and to cover several hun-dred CpG islands. Bisulfite sequencing converts methylated cytosine into uracil in CpG sites.
+129 
+Specific fluorescent-labelled primers are designed to hybridise the unmethylated or methylated allele and the methylation profile is visualised by microarray hybridisation or by whole genome amplification.Therapeutic Advances in Ophthalmology 12
+18 journals.sagepub.com/home/oed
+Confirmation of variants
+Class 4 or 5 variants identified by NGS may be confirmed by Sanger sequencing, although more frequently this step is being omitted when scien-tists are confident in the quality reports from the NGS pipeline. Sanger sequencing is a targeted sequencing method able to sequence approxi-mately 500 bases at a time, after an amplification step by PCR of the region of interest. This approach is needed to confirm the variant and to perform segregation studies when DNA from affected and unaffected family members is avail-able. Any potential CNVs of clinical interest detected via NGS should be confirmed by a clini-
+cally validated method, such as multiplex liga-tion-dependent probe amplification (MLPA) to detect copy loss or gain of single exons of a gene, array-CGH (microarrays) or QF-PCR, and reported as an outcome of those tests.
+What does a genetic report look like and how is 
+it interpreted?Clinical genetic reports are formal documents communicating analytical results of a sample to the referring clinician and must conform to the Association for Clinical Genomic Science (ACGS) guidelines for best practice.
+130 All clinical reports 
+must be approved and authorised by a senior clini-cal scientist, prior to being sent to the referring cli-nician. Clinical reports clearly and concisely display the overall result, with further evidence used to reach the conclusion detailed below (Figure 8). It should be noted that only confirmed variants associated with the patient’s phenotype would be reported within the main body of the report (Box 2). Analysed variants classified as class 3 ‘Variants of uncertain clinical significance’ will frequently be listed in the appendix of the report.
+To ensure that reports communicate laboratory 
+results effectively and meet the user’s needs and best practice guidelines, it is advised that the body of the report include the following:
+ •Indication for the test/referral reason;
+ •Interpretation of result and appropriate clinical advice, where possible reports should integrate genetic data with the clini-cal information that has been provided by the referring clinician;
+ •Any references cited should be cited in full;
+ •Information relating to the test undertaken including the test sensitivity, possible limi-tations and gene panels applied; •If there were any issues with a sample or sample details.
+Clinical reports must also clearly document and identify the laboratory, patient (name, date of birth, NHS number, hospital number and sample number), referring clinician and individual writ-ing the report and the authoriser.
+Genetic counselling (part 2) – post-genetic 
+test inputOnce the genetic results have been received, the referring clinician should feed these back to the patient in an appropriate manner. They can offer access to potential therapies if available or refer to the correct multidisciplinary team if there are syn-dromic features to consider. For example, in patients with congenital cataracts, if a metabolic disease is detected such as cerebrotendinous xan-thomatosis caused by mutations in the CYP27A1 gene resulting in accumulation of cholestanol, replacement therapy with chenodeoxycholic acid normalises plasma levels and improves the neuro-logical and non-neurological symptoms. Patients with biallelic RPE65 variants causing autosomal recessive RPE65-retinopathy are now eligible for 
+the first approved retinal gene therapy called Luxturna or voretigene neparvovec.
+131 This treat-
+ment uses a modified adeno-associated virus (AAV) vector, containing human wildtype RPE65 cDNA under the control of a ubiquitous pro-moter, which is introduced to the subretinal space through vitrectomy and subretinal injection.
+132 
+The wildtype/healthy RPE65 is expressed in RPE 
+cells and leads to improved performance on the multi-luminance mobility test (MLMT) and full-field light sensitivity threshold (FST) up to 4 years, with ongoing monitoring. Where an approved treatment does not exist, there are numerous clinical trials in progress for ocular genetic-based therapies that can be shared with patients.
+131 A useful website to keep abreast of 
+clinical trials relating to a specific gene or condi-tion is ClinicalTrials.gov (https://clinicaltrials.gov). Not all the trials listed are ethically approved and caution must be taken when recommending a study but it can guide advice to patients.
+Some genetic results relating to the eye disorder 
+may change a diagnosis or can reveal a risk of other syndromic problems which may not have been evident previously. For example, some cili-opathy gene defects, such as IQCB1, can manifest with an IRD, but heralds a significant risk of C Méjécase, S Malka et al.
+journals.sagepub.com/home/oed 19
+Figure 8. Example of a clinical report. Clinical reports clearly display the overall result, with further 
+information of the evidence used to reach the conclusion. The name of the test laboratory will be at the top of 
+the report but this has been removed in this example. The clinical report must indicate the referring clinician 
+and their address (1); patient details (2); test/referral reason (3) in this case a patient presenting a suspected diagnosis of Stargardt disease; a result summary (4); further details (5) on the disease-causing variant(s), 
+the state of zygosity, the variant classification, the implication of results and further testing which must be 
+clearly explained at the future appointment; variant(s) details (6) which list the disease-causing variants and associated gene, its mode of inheritance, the gene reference, the variant classification and its evidences with 
+publication references; other variants of unknown pathogenic significance (7) identified with the test; and test 
+details (8) listing the genes screened and the depth and coverage reached.Therapeutic Advances in Ophthalmology 12
+20 journals.sagepub.com/home/oed
+Box 2. Guide to interpreting variant nomenclature.
+The identified variants must be reported using standardised nomenclature set out by the human genome variation society (HGVS, http://
+varnomen.hgvs.org/).133 Here is an example of how to interpret a variant, for example, ABCA4 NM_000350.2 c.5882G>A, p.(Gly1961Glu), the 
+mutation reported in Figure 8:
+1.  The gene name is written in italics and capital letters (ABCA4)
+2.  This is associated with a transcript reference sequence, starting with a NM number (NM_000350.2) which helps to relocate the variant if 
+required.
+3.  The nucleotide change is a indicated by the prefix ‘c’. for complementary DNA (cDNA) reference sequence, this is followed by the position of the variant counted from the first nucleotide A of the ATG start site (c.5882)
+4. At this position c.5882 the nucleotide change is written, in this case a G is changed to an A (G >A).
+5.  Next the effect on the protein is given denoted as ‘p’. for protein reference sequence. The original amino acid is given first and its position (counted from the start codon AUG or methionine, Met) followed by the result due to the nucleotide change. For example, p.(Gly1961Glu) denotes that in the protein sequence at amino acid position 1961 a glycine (Gly) was changed to a glutamic acid (Glu); this is a missense mutation.
+Further common examples, as nonsense, in splice site, deletion, duplication, insertion and deletion/insertion, are detailed in the table below.
+Common examples of variant nomenclature
+Type of mutation DNA level (c.) Protein level (p.)
+Substitution 
+(missense)c.612A>GcDNA; position substituted; reference nucleotide; >; mutated nucleotideAt position 612, the A nucleotide is changed to a Gp.(Ser45Thr)Protein; reference amino acid; position substituted; mutated amino acidAmino acid residue at position 45, a serine (Ser) is changed to a threonine (Thr)
+Substitution (nonsense)c.1257C>AcDNA; position substituted; reference nucleotide; >; mutated nucleotideAt position 1257, the C nucleotide is changed to an A(Tyr419*)Protein; reference amino acid; position substituted; stop codonAmino acid residue at position 419, a tyrosine (Tyr) is changed to a stop codon (* or Ter)
+Splice site c.6729+2A>GcDNA; position substituted; reference nucleotide; >; mutated nucleotideAt position 6729+2 (2 bp upstream of the exon within the intron), the A nucleotide is changed to a GSplice variants affect the splicing of the transcript resulting in retention of intronic DNA or entire exons being spliced out, resulting in abnormal protein which is not usually denoted
+Deletion c.186delGAcDNA; position deleted; deleted nucleotide/sAt position 186, the two consecutive nucleotides GA are deletedp.(Asn62Argfs*31)Protein; amino acid(s)+position(s) deleted; delAsparagine (Asn) at amino acid position 62 is changed to arginine (Arg). The deletion of two nucleotides leads to a frameshift (fs) where a stop codon (*) appears 31 amino acid residues after position 62
+Duplication c.754_756dupcDNA; position(s) duplicated; dupThe nucleotides between position 754 and 756 (included) are duplicatedp. Met252dupProtein; amino acid(s) + position(s) duplicated; dupThe methionine (Met) at position 252 is duplicated
+Insertion c.125_126insAACTcDNA; positions flanking; ins; inserted sequenceThe nucleotides AACT are inserted between the nucleotides 125 and 126Arg159_Pro160insLeuProtein; amino acids + positions flanking; ins; inserted sequenceA leucine (Leu) is inserted between the arginine at position 159 and the following amino acid proline (Pro) at position 160
+Deletion/Insertion c.345_366delinsGCCTcDNA; position(s) deleted; delins; inserted sequenceThe nucleotides between the position 345 and 366 (included) are deleted and the nucleotide GCCT are insertedArg159_Pro168delinsLeuProtein; amino acid(s)+position(s) deleted; delins; inserted sequenceThe amino acids between position 159 and 168 (included) are deleted and a leucine (Leu) is inserted.
+aIf the variant is upstream of the exon, the variant must be identified as the last nucleotide exon ‘+’ the position in the intron; if the variant is 
+downstream of the exon, the variant must be identified as the first nucleotide exon ‘−’ the position within the intron.C Méjécase, S Malka et al.
+journals.sagepub.com/home/oed 21
+kidney disease. These patients should be referred 
+to a relevant specialist for management, screening and metabolic tests.
+134 A genetic result can con-
+firm a severe diagnosis and reduced life expec-tancy, for example, Battens disease (CLN3) or Wolfram syndrome (WFS1). These cases will require complex management, including ongoing counselling support and referral to the relevant specialist teams.
+Genetic counsellors will help patients to interpret 
+and act upon these results, including segregation analysis, family planning options, incidental find-ings, cope with the emotional and psychological impact. In the event of a ‘positive’ autosomal recessive result where a pathogenic or likely path-ogenic cause of a patient’s condition has been identified, segregation analysis may be necessary. Segregation analysis evaluates the transmission of genetic changes within a family. Autosomal reces-sive results will be either a homozygous patho-genic change or compound heterozygous pathogenic changes. For compound heterozygous results to be meaningful, the two changes need to be on different alleles (in trans), but it can be pos-sible that the two mutations are on the same allele (in cis). A DNA sample from a relative – usually a 
+parent or child – can be tested for the two muta-tions and if the relative only carries one, rather than both or neither, it can be confirmed that the variants are in trans.
+Segregation analysis can also be useful in the 
+interpretation of autosomal dominant results, when a variant of uncertain significance has been found. Results from both affected and unaffected relatives can increase a variant’s likelihood of pathogenicity. The more relatives whose DNA can be tested, the stronger the evidence becomes. Also, for affected relatives, it is more meaningful, the more distant the relationship is from the proband. For segregation of autosomal dominant results, relatives DNA should be tested only for the presence or absence of the suspected variant.
+In the case of unsolved or negative (no primary 
+findings) results, a genetic counsellor should dis-cuss these with the patient and explain in clear terms what the reason for the negative result might be. This conversation with the patient could include limitations of technology used; the testing applied; and the current knowledge of causative genes. It should be made clear that the results do not exclude a genetic cause for the patient’s condition. Other available testing should be offered to the patient, if relevant, for example, if they have had a targeted gene panel, WGS may be the next suitable step. If a patient is receiving an unsolved result from whole genome or exome sequencing, it should also be explained that a genetic diagnosis may become available at a later date without further testing, as a result of subse-quent genetic discoveries.
+Family planning and reproductive options
+Genetic counsellors will be able to help patients with family planning. A pathogenic or likely patho-genic result will enable a genetic counsellor to pro-vide a patient with accurate risks to family members. When it is relevant, the genetic counsellor will also be able to discuss what reproductive options are available to patients or the parents of a patient, and refer them to a specialist clinical genetics unit when necessary. These family planning discussions will vary for each case and will be dependent upon the specific diagnosis, inheritance pattern, religious and cultural beliefs of the family. Options that may be available to patients are as follows:
+ •Conceiving naturally – Depending upon the severity of the condition, the percentage risk to the child and attitudes towards the diagnosis, parents may decide to conceive a child naturally. Other options may be costly, time-consuming, conflict with a patient’s religious or cultural beliefs or may not be available depending upon their diag-nosis and existing family situation. For example in the United Kingdom, preim-plantation diagnosis is only available to patients who meet a certain age (<40 years) and who do not currently have an unaf-fected child (see below).
+ •Gamete or embryo donation – Some patients or parents of patients decide to receive an egg, sperm or embryo donation which can decrease the risk of passing a condition to their child to a general population risk.
+ •Preimplantation genetic diagnosis (PGD) – If a patient or the parents of a patient meets certain criteria, PGD is a form of in vitro fer-tilisation where both parents donate sperm and eggs which are fertilised in the labora-tory to produce several embryos. These embryos are then tested to see whether they are free from the condition and then the healthy embryo(s) can be implanted into the mother. PGD authorisation differs through different countries. While PGD is regulated Therapeutic Advances in Ophthalmology 12
+22 journals.sagepub.com/home/oed
+by the doctors’ discretion in the United 
+States, PGD law varies in Europe.135 In 
+Italy, PGD was authorised for fertile couples who carried inherited diseases from 2015
+136 
+and in Switzerland, it is legal for specific dis-eases.
+135 In France, PGD is regulated by Loi 
+relative de la bioéthique, from the Agence de la Biomédecine, in 2004, and each use of PGD is examined by a Centre Pluridisciplinaire de Diagnostic Prénatal (CPDPN).
+135 In the 
+United Kingdom, there are strict guidelines for eligibility, including the following:
+°  The diagnosis in question must be seri-ous and on the approved Human Fertilisation and Embryology Authority (HFEA) list.
+°  The risk to the child of inheriting the condition must be greater than 10%, which usually means that patients with autosomal recessive conditions are not eligible (unless their partner is known to be a carrier). However, parents of a child with an autosomal recessive con-dition who are likely to have a 25% risk of having another child with the condi-tion would meet this criterion.
+°  The couple must not have an unaf-
+fected child already.
+°  Both parents must not have any known fertility problems.
+°  Both parents must be non-smokers.
+°  The female parent must have a healthy 
+body mass index (BMI: 19–30) and must be under the age of 40 at the time of treatment.
+ •Prenatal testing (and termination of preg-nancy) – After conceiving a child naturally, it can be possible to screen the foetus to see whether the child is affected with a condi-tion. For some developmental conditions (e.g. anophthalmia), a non-invasive detailed ultrasound can show the affected status of the child. For other conditions, invasive prenatal genetic tests such as chorionic vil-lus sampling or amniocentesis may be required in order to determine the affected status of the child which can carry a small risk of miscarriage. A new non-invasive pre-natal testing (NIPT) method is now availa-ble using a blood sample from a pregnant mother, this contains cell free DNA (cfDNA) from the placenta that carries the DNA of the foetus. This can be used to test for rare genetic diseases that are caused by single gene variation; the result is definitive and does not need to be confirmed by inva-sive tests. This is referred to as non-invasive prenatal diagnosis (NIPD).
+137 Parents can 
+use information gained from prenatal test-ing to decide whether or not to continue a pregnancy.
+ •Adoption
+ •To remain childless (or not to have any fur-ther children)
+ConclusionGenetic testing has significantly advanced over the past decade, moving from predominantly the research field to a well-scrutinised and monitored accredited clinical service for patients. There are increasing numbers of known disease-causing genes and variants that can be screened in parallel and at low cost. Diagnostic rates are increasing especially with NGS technologies such as WGS. With existing therapies such as voretigene nepar-vovec, and many emerging clinical trials investi-gating the use of gene or mutation-specific approaches such as gene replacement using viral vector delivery, small molecule drugs for non-sense mutation suppression and antisense oligo-nucleotides for splice modulation,
+131,138–140  a 
+molecular diagnosis is essential for patient eligi-bility. A positive molecular diagnosis also aids in gathering natural history data on the course of disease experienced by gene-specific cohorts in order to help with prognosis and establish out-come measures for response to treatments. For the patient and family themselves, knowing the cause of their condition can provide much com-fort, and it will support their family planning decisions.
+Conflict of interest statement
+The authors declared no potential conflicts of interest with respect to the research, authorship and/or publication of this article.
+Funding
+The authors disclosed receipt of the following financial support for the research, authorship, and/or publication of this article: This research was funded by the Wellcome Trust (205174/Z/16/Z), Retina UK, National Institute for Health Research (NIHR) Biomedical Research Centre at Moorfields Eye Hospital NHS Foundation Trust and UCL Institute of Ophthalmology. G.A. is supported by a Fight for Sight UK Early Career Investigator C Méjécase, S Malka et al.
+journals.sagepub.com/home/oed 23
+Award, National Institute for Health Research 
+(NIHR) Biomedical Research Centre at Great Ormond Street Hospital Institute of Child Health.
+ORCID iDs
+Cécile Méjécase 
+ https://orcid.org/0000-0003- 
+2532-4004
+Mariya Moosajee 
+  https://orcid.org/0000-0003- 
+1688-5360
+References
+ 1. Stone EM. Genetic testing for inherited eye disease. 
+Arch Ophthalmol 2007; 125: 205–212.
+ 2. Rahi JS and Cable N. Severe visual impairment and blindness in children in the UK. Lancet 
+2003; 362: 1359–1365.
+ 3. Hamblion EL, Moore AT and Rahi JS. Incidence and patterns of detection and 
+management of childhood-onset hereditary retinal disorders in the UK. Br J Ophthalmol 2012; 96: 360–365.
+ 4. Stuck MW, Conley SM and Naash MI. PRPH2/RDS and ROM-1: historical context, 
+current views and future considerations. Prog 
+Retin Eye Res 2016; 52: 47–63.
+ 5. Burkard M, Kohl S, Krätzig T, et al. Accessory heterozygous mutations in cone photoreceptor CNGA3 exacerbate CNG channel-associated retinopathy. J Clin Invest  
+2018; 128: 5663–5675.
+ 6. Harding M. The molecular basis of human anophthalmia and microphthalmia. J Dev Biol 2019; 7: 16.
+ 7. Pilz YL, Bass SJ and Sherman J. A review of mitochondrial optic neuropathies: from inherited to acquired forms. J Optom 2017; 10: 
+205–214.
+ 8. Pentao L, Lewis RA, Ledbetter DH, et al. Maternal uniparental isodisomy of chromosome 
+14: association with autosomal recessive rod monochromacy. Am J Hum Genet 1992; 50: 
+690–699.
+ 9. Roosing S, van den Born LI, Hoyng CB, et al. Maternal uniparental isodisomy of chromosome 
+6 reveals a TULP1 mutation as a novel cause 
+of cone dysfunction. Ophthalmology 2013; 120: 1239–1246.
+ 10. Thompson DA, Gyürüs P, Fleischer LL, et al. Genetics and phenotypes of RPE65 mutations in inherited retinal degeneration. Invest 
+Ophthalmol Vis Sci 2000; 41: 4293–4299. 11. Helm BM, Willer JR, Sadeghpour A, et al. 
+Partial uniparental isodisomy of chromosome 16 unmasks a deleterious biallelic mutation in 
+IFT140 that causes Mainzer-Saldino syndrome. 
+Hum Genomics 2017; 11: 16.
+ 12. Miraldi Utz V, Coussa RG, Antaki F, et al. Gene therapy for RPE65-related retinal disease. Ophthalmic Genet 2018; 39: 671–677.
+ 13. Köhler S, Carmody L, Vasilevsky N, et al. Expansion of the human phenotype ontology 
+(HPO) knowledge base and resources. Nucleic 
+Acids Res 2019; 47: D1018–D1027.
+ 14. Sergouniotis PI, Maxime E, Leroux D, et al. An ontological foundation for ocular phenotypes and rare eye diseases. Orphanet J Rare Dis 2019; 14: 8.
+ 15. Barber JCK, Rosenfeld JA, Foulds N, et al. 8p23.1 duplication syndrome; common, confirmed, and novel features in six further patients. Am J Med 
+Genet A 2013; 161A: 487–500.
+ 16. Robinson PN, Köhler S, Bauer S, et al. 
+The human phenotype ontology: a tool for annotating and analyzing human hereditary disease. Am J Hum Genet 2008; 83: 610–615.
+ 17. Robinson PN. Deep phenotyping for precision medicine. Hum Mutat 2012; 33: 777–780.
+ 18. Nassisi M, Mohand-Saïd S, Dhaenens C-M, et al. Expanding the mutation spectrum in 
+ABCA4: sixty novel disease causing variants 
+and their associated phenotype in a large French Stargardt cohort. Int J Mol Sci 2018; 19: 2196.
+ 19. Cremers FPM, Lee W, Collin RWJ, et al. Clinical spectrum, genetic complexity and therapeutic approaches for retinal disease 
+caused by ABCA4 mutations. Prog Retin Eye 
+Res. Epub ahead of print 9 April 2020. DOI: 10.1016/j.preteyeres.2020.100861.
+ 20. Ahmed ZM, Riazuddin S, Riazuddin S, et al. The molecular genetics of Usher syndrome. Clin Genet 2003; 63: 431–444.
+ 21. Gao F-J, Wang D-D, Chen F, et al. Prevalence 
+and genetic-phenotypic characteristics of 
+patients with USH2A mutations in a large cohort of Chinese patients with inherited retinal disease. Br J Ophthalmol. Epub ahead of print 18 March 2020. DOI: 10.1136/
+bjophthalmol-2020-315878.
+ 22. Lenassi E, Vincent A, Li Z, et al. A detailed 
+clinical and molecular survey of subjects with nonsyndromic USH2A retinopathy reveals an allelic hierarchy of disease-causing variants.  Eur J Hum Genet 2015; 23: 1318–1327.
+ 23. Harding P, Brooks BP, FitzPatrick D, et al. 
+Anophthalmia including next-generation Therapeutic Advances in Ophthalmology 12
+24 journals.sagepub.com/home/oed
+sequencing-based approaches. Eur J Hum Genet 
+2020; 28: 388–398.
+ 24. Eintracht J, Corton M, FitzPatrick D, et al. CUGC for syndromic microphthalmia including 
+next-generation sequencing-based approaches. 
+Eur J Hum Genet 2020; 28: 679–690.
+ 25. Farrar GJ, Kenna P, Redmond R, et al. Autosomal dominant retinitis pigmentosa: absence of the rhodopsin proline – histidine substitution (codon 23) in pedigrees from 
+Europe. Am J Hum Genet 1990; 47:  
+941–945.
+ 26. Farrar GJ, McWilliam P, Bradley DG, et al. 
+Autosomal dominant retinitis pigmentosa: 
+linkage to rhodopsin and evidence for genetic heterogeneity. Genomics 1990; 8: 35–40.
+ 27. Dryja TP, McGee TL, Hahn LB, et al. Mutations within the rhodopsin gene in patients 
+with autosomal dominant retinitis pigmentosa. 
+N Engl J Med 1990; 323: 1302–1307.
+ 28. Dryja TP, McGee TL, Reichel E, et al. A point 
+mutation of the rhodopsin gene in one form  
+of retinitis pigmentosa. Nature 1990; 343: 364–366.
+ 29. Daiger SP, Bowne SJ and Sullivan LS. Genes and mutations causing autosomal dominant retinitis pigmentosa. Cold Spring Harb Perspect 
+Med 2015; 5: a017129.
+ 30. Ham M, Han J, Osann K, et al. Meta-analysis 
+of genotype-phenotype analysis of OPA1 mutations in autosomal dominant optic atrophy. 
+Mitochondrion 2019; 46: 262–269.
+ 31. Lenaers G, Hamel C, Delettre C, et al. 
+Dominant optic atrophy. Orphanet J Rare Dis 
+2012; 7: 46.
+ 32. Jurkute N, Majander A, Bowman R, et al. 
+Clinical utility gene card for: inherited optic neuropathies including next-generation 
+sequencing-based approaches. Eur J Hum 
+Genet 2019; 27: 494–502.
+ 33. Lima Cunha D, Arno G, Corton M, et al. The 
+spectrum of PAX6 mutations and genotype-
+phenotype correlations in the eye. Genes 2019; 10: 1050.
+ 34. Moosajee M, Hingorani M and Moore AT. 
+PAX6-related aniridia. In: Adam MP, Ardinger 
+HH, Pagon RA, et al. (eds) GeneReviews
+®. 
+Seattle, WA: University of Washington, 1993, http://www.ncbi.nlm.nih.gov/books/NBK1360/ 
+(accessed 16 April 2020).
+ 35. Kurata K, Hosono K, Hayashi T, et al. X-linked 
+retinitis pigmentosa in Japan: clinical and genetic findings in male patients and female carriers. Int J Mol Sci 2019; 20: 1518.
+ 36. Mitsios A, Dubis AM and Moosajee M. Choroideremia: from genetic and clinical 
+phenotyping to gene therapy and future 
+treatments. Ther Adv Ophthalmol 2018; 10: 2515841418817490.
+ 37. Daiger SP. Perspective on genes and mutations causing retinitis pigmentosa. Arch Ophthalmol 2007; 125: 151–158.
+ 38. Ebenezer ND, Michaelides M, Jenkins SA, et al. 
+Identification of novel RPGR ORF15 mutations in X-linked progressive cone-rod dystrophy (XLCORD) families. Invest Ophthalmol Vis Sci 2005; 46: 1891–1898.
+ 39. Ng D, Thakker N, Corcoran CM, et al. Oculofaciocardiodental and Lenz 
+microphthalmia syndromes result from distinct 
+classes of mutations in BCOR. Nat Genet 2004; 36: 411–416.
+ 40. Moosajee M, Ali MA and Wong SC. Retinal angiography findings in male infant with incontinentia pigmenti and sickle cell trait. 
+JAMA Ophthalmol 2018; 136: e183140.
+ 41. Kim US, Jurkute N and Yu-Wai-Man P. Leber hereditary optic neuropathy – light at the end 
+of the tunnel? Asia-Pac J Ophthalmol 2018; 7: 242–245.
+ 42. Tsang SH, Aycinena ARP and Sharma T. Mitochondrial disorder: maternally inherited diabetes and deafness. Adv Exp Med Biol 2018; 
+1085: 163–165.
+ 43. Nelson I, Degoul F, Obermaier-kusser B, et al. 
+Mapping of heteroplasmic mitochondrial DNA deletions in Kearns-Sayre syndrome. Nucleic Acids Res 1989; 17: 8117–8124.
+ 44. Soliman SE, Racher H, Zhang C, et al. Genetics and molecular diagnostics in retinoblastoma 
+– an update. Asia-Pac J Ophthalmol 2017; 6: 
+197–207.
+ 45. Riera M, Wert A, Nieto I, et al. Panel-based whole exome sequencing identifies novel mutations in microphthalmia and anophthalmia 
+patients showing complex Mendelian 
+inheritance patterns. Mol Genet Genomic Med 2017; 5: 709–719.
+ 46. Engel E. Uniparental disomy revisited: the first twelve years. Am J Med Genet 1993; 46: 670–674.
+ 47. Méjécase C, Laurent-Coriat C, Mayer C, et al. Identification of a novel homozygous nonsense mutation confirms the implication of GNAT1 C Méjécase, S Malka et al.
+journals.sagepub.com/home/oed 25
+in rod-cone dystrophy. PLoS ONE 2016; 11: 
+e0168271.
+ 48. Cooper DN, Krawczak M, Polychronakos C, et al. Where genotype is not predictive 
+of phenotype: towards an understanding of the molecular basis of reduced penetrance in human inherited disease. Hum Genet 2013; 132: 1077–1130.
+ 49. Saini S, Robinson PN, Singh JR, et al. A novel 7 bp deletion in PRPF31 associated with 
+autosomal dominant retinitis pigmentosa with 
+incomplete penetrance in an Indian family. Exp Eye Res 2012; 104: 82–88.
+ 50. Vaclavik V, Chakarova C, Bhattacharya SS, et al. Bilateral giant macular schisis in a patient with enhanced S-cone syndrome from a family 
+showing pseudo-dominant inheritance. Br J 
+Ophthalmol 2008; 92: 299–300.
+ 51. Meyer KJ and Anderson MG. Genetic modifiers as relevant biological variables of eye disorders. Hum Mol Genet 2017; 26: R58–R67.
+ 52. Yan B, Yao J, Tao Z-F, et al. Epigenetics and ocular diseases: from basic biology to clinical study. J Cell Physiol 2014; 229: 825–833.
+ 53. Neumann LC, Weinhäusel A, Thomas S, 
+et al. EFS shows biallelic methylation in 
+uveal melanoma with poor prognosis as well as tissue-specific methylation. BMC Cancer  
+2011; 11: 380.
+ 54. Ali M, Venkatesh C, Ragunath A, et al. Mutation analysis of the KIF21A gene in an Indian family 
+with CFEOM1: implication of CpG methylation 
+for most frequent mutations. Ophthalmic Genet  
+2004; 25: 247–255.
+ 55. Kerr K, McAneney H, Smyth L, et al. Systematic review of differential methylation in rare 
+ophthalmic diseases. BMJ Open Ophthalmol 2019; 
+4: e000342.
+ 56. Ormond KE, Wheeler MT, Hudgins L, et al. Challenges in the clinical application of  whole-genome sequencing. Lancet 2010; 375: 1749–1751.
+ 57. Genomic lab hubs in United Kingdom, https://
+www.england.nhs.uk/genomics/genomic-
+laboratory-hubs/
+ 58. Barwell J, Snape K and Wedderburn S. The new genomic medicine service and implications for patients. Clin Med 2019; 19: 273–277.
+ 59. Genomics England PanelApp, https://panelapp.
+genomicsengland.co.uk/
+ 60. Sergouniotis PI. Inherited retinal disorders: using evidence as a driver for implementation. 
+Ophthalmologica 2019; 242: 187–194. 61. Gabriel LAR and Traboulsi EI. Genetic diagnostic methods for inherited eye diseases. Middle East Afr J Ophthalmol 2011; 18: 24–29.
+ 62. Heather JM and Chain B. The sequence of 
+sequencers: the history of sequencing DNA. 
+Genomics 2016; 107: 1–8.
+ 63. Exome Aggregation Consortium, Lek M, Karczewski KJ, et al. Analysis of protein-coding genetic variation in 60,706 humans. Nature 2016; 536: 285–291.
+ 64. Patel A, Hayward JD, Tailor V, et al. The oculome panel test: next-generation sequencing 
+to diagnose a diverse range of genetic 
+developmental eye disorders. Ophthalmology 2019; 126: 888–907.
+ 65. Consugar MB, Navarro-Gomez D, Place EM, et al. Panel-based genetic diagnostic testing for inherited eye diseases is highly accurate and 
+reproducible, and more sensitive for variant 
+detection, than exome sequencing. Genet Med 2015; 17: 253–261.
+ 66. Jiman OA, Taylor RL, Lenassi E, et al. Diagnostic yield of panel-based genetic testing in syndromic inherited retinal disease. Eur J 
+Hum Genet 2020; 28: 576–586.
+ 67. Jamuar SS and Tan E-C. Clinical application 
+of next-generation sequencing for Mendelian diseases. Hum Genomics 2015; 9: 10.
+ 68. Dietel M, Jöhrens K, Laffert MV, et al. A 2015 update on predictive molecular pathology and its role in targeted cancer therapy: a review 
+focussing on clinical relevance. Cancer Gene 
+Ther 2015; 22: 417–430.
+ 69. Rabbani B, Tekin M and Mahdieh N. The promise of whole-exome sequencing in medical genetics. J Hum Genet 2014; 59: 5–15.
+ 70. Broadgate S, Yu J, Downes SM, et al. Unravelling the genetics of inherited retinal 
+dystrophies: past, present and future. Prog Retin 
+Eye Res 2017; 59: 53–96.
+ 71. Méjécase C, Mohand-Saïd S, El Shamieh S, et al. A novel nonsense variant in REEP6 is involved in a sporadic rod-cone dystrophy case. Clin Genet 2018; 93: 707–711.
+ 72. Arno G, Agrawal SA, Eblimit A, et al. 
+Mutations in REEP6 cause  autosomal-recessive 
+retinitis pigmentosa. Am J Hum Genet 2016; 
+99: 1305–1315.
+ 73. Hull S, Owen N, Islam F, et al. Nonsyndromic retinal dystrophy due to bi-allelic mutations in the ciliary transport 
+gene IFT140. Invest Ophthalmol Vis Sci 2016; 
+57: 1053–1062.Therapeutic Advances in Ophthalmology 12
+26 journals.sagepub.com/home/oed
+ 74. Adams DR and Eng CM. Next-generation 
+sequencing to diagnose suspected genetic disorders. N Engl J Med 2018; 379:  
+1353–1362.
+ 75. El Shamieh S, Neuillé M, Terray A, et al. Whole-exome sequencing identifies KIZ as a ciliary gene associated with autosomal-recessive rod-cone dystrophy. Am J Hum Genet 2014; 94: 
+625–633.
+ 76. Lelieveld SH, Spielmann M, Mundlos S, et al. 
+Comparison of exome and genome sequencing technologies for the complete capture of protein-coding regions. Hum Mutat 2015; 36: 815–822.
+ 77. Meienberg J, Bruggmann R, Oexle K, et al. Clinical sequencing: is WGS the better WES? 
+Hum Genet 2016; 135: 359–362.
+ 78. Bentley DR, Balasubramanian S, Swerdlow 
+HP, et al. Accurate whole human genome sequencing using reversible terminator chemistry. Nature 2008; 456: 53–59.
+ 79. Kozarewa I, Ning Z, Quail MA, et al. 
+Amplification-free Illumina sequencing-library 
+preparation facilitates improved mapping and assembly of (G+C)-biased genomes. Nat Methods 2009; 6: 291–295.
+ 80. Lionel AC, Costain G, Monfared N, et al. Improved diagnostic yield compared with 
+targeted gene sequencing panels suggests a role 
+for whole-genome sequencing as a first-tier genetic test. Genet Med 2018; 20: 435–443.
+ 81. Van Cauwenbergh C, Van Schil K, Cannoodt R, et al. arrEYE: a customized platform for 
+high-resolution copy number analysis of coding and noncoding regions of known and candidate retinal dystrophy genes and retinal noncoding RNAs. Genet Med 2017; 19: 457–466.
+ 82. CNV Study Group, Van Schil K, Naessens S, et al. Mapping the genomic landscape of 
+inherited retinal disease genes prioritizes genes 
+prone to coding and noncoding copy-number variations. Genet Med 2018; 20: 202–213.
+ 83. Carss KJ, Arno G, Erwood M, et al. Comprehensive rare variant analysis via whole-
+genome sequencing to determine the molecular 
+pathology of inherited retinal disease. Am J Hum Genet 2017; 100: 75–90.
+ 84. Vaz-Drago R, Custódio N and Carmo-Fonseca M. Deep intronic mutations and human disease. Hum Genet 2017; 136: 1093–1111.
+ 85. Small KW, DeLuca AP, Whitmore SS, et al. 
+North Carolina macular dystrophy is caused by dysregulation of the retinal transcription factor PRDM13. Ophthalmology 2016; 123: 9–18. 86. Caulfield M, Davies J, Dennys M, et al. The 
+National Genomics Research and Healthcare Knowledgebase. London: Genomics England, 
+2019.
+ 87. Turnbull C, Scott RH, Thomas E, et al. The 
+100 000 Genomes project: bringing whole genome sequencing to the NHS. BMJ 2018; 361: k1687.
+ 88. The 100 000 Genomes project: bringing whole genome sequencing to the NHS. BMJ 2018; 
+361: k1952.
+ 89. Fiorentino A, Fujinami K, Arno G, et al. Missense variants in the X-linked gene PRPS1 
+cause retinal degeneration in females. Hum Mutat 2018; 39: 80–91.
+ 90. Schwarze K, Buchanan J, Taylor JC, et al.  
+Are whole-exome and whole-genome sequencing approaches cost-effective?  
+A systematic review of the literature.  
+Genet Med 2018; 20: 1122–1130.
+ 91. Ng PC. SIFT: predicting amino acid changes that affect protein function. Nucleic Acids Res 
+2003; 31: 3812–3814.
+ 92. Adzhubei IA, Schmidt S, Peshkin L, et al. A method and server for predicting damaging 
+missense mutations. Nat Methods 2010; 7: 
+248–249.
+ 93. Mathe E. Computational approaches for predicting the biological effect of p53 missense mutations: a comparison of three sequence analysis based methods. Nucleic Acids Res 2006; 
+34: 1317–1325.
+ 94. Tavtigian SV. Comprehensive statistical study of 452 BRCA1 missense substitutions with 
+classification of eight recurrent substitutions as neutral. J Med Genet 2005; 43: 295–305.
+ 95. Jian X, Boerwinkle E and Liu X. In silico tools for splicing defect prediction: a survey from the viewpoint of end users. Genet Med 2014; 16: 
+497–503.
+ 96. Yeo G and Burge CB. Maximum entropy 
+modeling of short sequence motifs with applications to RNA splicing signals. J Comput Biol 2004; 11: 377–394.
+ 97. Reese MG, Eeckman FH, Kulp D, et al. Improved splice site detection in genie. J 
+Comput Biol 1997; 4: 311–323.
+ 98. Desmet F-O, Hamroun D, Lalande M, et al. 
+Human splicing finder: an online bioinformatics 
+tool to predict splicing signals. Nucleic Acids Res 2009; 37: e67.
+ 99. Lee H, Deignan JL, Dorrani N, et al. Clinical exome sequencing for genetic identification of C Méjécase, S Malka et al.
+journals.sagepub.com/home/oed 27
+rare Mendelian disorders. JAMA 2014; 312: 
+1880–1887.
+ 100. Castle JC. SNPs occur in regions with less genomic sequence conservation. PLoS ONE 
+2011; 6: e20660.
+ 101. Ng PC. SIFT: predicting amino acid changes that affect protein function. Nucleic Acids Res 
+2003; 31: 3812–3814.
+ 102. Adzhubei IA, Schmidt S, Peshkin L, et al. A method and server for predicting damaging missense mutations. Nat Methods 2010; 7: 248–249.
+ 103. Mathe E. Computational approaches for 
+predicting the biological effect of p53 missense 
+mutations: a comparison of three sequence analysis based methods. Nucleic Acids Res 2006; 34: 1317–1325.
+ 104. Tavtigian SV. Comprehensive statistical study of 452 BRCA1 missense substitutions 
+with classification of eight recurrent 
+substitutions as neutral. J Med Genet 2005; 43: 295–305.
+ 105. Yeo G and Burge CB. Maximum entropy modeling of short sequence motifs with applications to RNA splicing signals. J Comput 
+Biol 2004; 11: 377–394.
+ 106. Jian X, Boerwinkle E and Liu X. In silico tools 
+for splicing defect prediction: a survey from the viewpoint of end users. Genet Med 2014; 16: 497–503.
+ 107. Reese MG, Eeckman FH, Kulp D, et al. Improved splice site detection in genie. J 
+Comput Biol 1997; 4: 311–323.
+ 108. Desmet F-O, Hamroun D, Lalande M, et al.  
+Human splicing finder: an online bioinformatics 
+tool to predict splicing signals. Nucleic Acids Res  
+2009; 37: e67.
+ 109. Richards S, Aziz N, Bale S, et al. Standards 
+and guidelines for the interpretation 
+of sequence variants: a joint consensus recommendation of the American College of Medical Genetics and Genomics and the Association for Molecular Pathology. Genet 
+Med 2015; 17: 405–424.
+ 110. Brandt T, Sack LM, Arjona D, et al. Adapting 
+ACMG/AMP sequence variant classification guidelines for single-gene copy number variants. Genet Med 2020; 22: 336–344.
+ 111. Brandt T, Sack LM, Arjona D, et al. 
+Correction: adapting ACMG/AMP sequence 
+variant classification guidelines for single-gene copy-number variants. Genet Med 2020; 22: 670–671. 112. Sobreira N, Schiettecatte F, Valle D, et al. GeneMatcher: a matching tool for connecting investigators with an interest in the same gene. 
+Hum Mutat 2015; 36: 928–930.
+ 113. Méjécase C, Hummel A, Mohand-Saïd S, et al. 
+Whole exome sequencing resolves complex phenotype and identifies CC2D2A mutations underlying non-syndromic rod-cone dystrophy. Clin Genet 2019; 95: 329–333.
+ 114. Speicher MR and Carter NP. The new 
+cytogenetics: blurring the boundaries with 
+molecular biology. Nat Rev Genet 2005; 6: 782–792.
+ 115. Tanimoto K, Sekiguchi N, Yokota Y, et al. Fluorescence in situ hybridization (FISH) analysis of primary ocular adnexal MALT 
+lymphoma. BMC Cancer 2006; 6: 249.
+ 116. Singh AD, Aronow ME, Sun Y, et al. Chromosome 3 status in uveal melanoma: a 
+comparison of fluorescence in situ hybridization and single-nucleotide polymorphism array. Invest Ophthalmol Vis Sci 2012; 53: 3331–3339.
+ 117. Cirigliano V. Clinical application of multiplex quantitative fluorescent polymerase chain 
+reaction (QF-PCR) for the rapid prenatal 
+detection of common chromosome aneuploidies. Mol Hum Reprod 2001; 7: 1001–1006.
+ 118. Shaw-Smith C, Redon R, Rickman L, et al. Microarray based comparative genomic hybridisation (array-CGH) detects 
+submicroscopic chromosomal deletions and 
+duplications in patients with learning disability/mental retardation and dysmorphic features.  J Med Genet 2004; 41: 241–248.
+ 119. Richardson R, Hingorani M, Van Heyningen V, et al. Clinical utility gene card for: aniridia. Eur 
+J Hum Genet 2016; 24: 4.
+ 120. Delahaye A, Bitoun P, Drunat S, et al. 
+Genomic imbalances detected by array-CGH in patients with syndromal ocular developmental anomalies. Eur J Hum Genet 2012; 20: 527–533.
+ 121. Blanco-Kelly F, Palomares M, Vallespín E, et al. Improving molecular diagnosis of aniridia 
+and WAGR syndrome using customized 
+targeted array-based CGH. PLoS ONE 2017; 12: e0172363.
+ 122. Maldžienė  Ž, Preikšaitienė E, Ignotienė S, et al. 
+A de novo pericentric inversion in chromosome 4 associated with disruption of PITX2 and 
+a microdeletion in 4p15.2 in a patient with 
+Axenfeld-Rieger syndrome and developmental delay. Cytogenet Genome Res 2017; 151: 5–9.
+ 123. Vasconcelos HM Jr, Vargas ME and Pennesi 
+ME. Multimodal imaging of ring 14 syndrome Therapeutic Advances in Ophthalmology 12
+28 journals.sagepub.com/home/oed
+associated maculopathy. Ophthalmic Genet 
+2019; 40: 541–544.
+ 124. Smeets DFCM. Historical prospective of human cytogenetics: from microscope to microarray. Clin Biochem 2004; 37: 439–446.
+ 125. Dugoff L, Norton ME and Kuller JA. The use of chromosomal microarray for prenatal diagnosis. Am J Obstet Gynecol 2016; 215: B2–B9.
+ 126. Stirn Kranjc B. Ocular abnormalities and systemic disease in Down syndrome: retrospective clinical study, University Eye Hospital, Ljubljana, Slovenia. Strabismus 2012; 20: 74–77.
+ 127. Woodhouse JM, Pakeman VH, Cregg M, et al. Refractive errors in young children with Down syndrome. Optom Vis Sci 1997; 74: 844–851.
+ 128. Wagner RS, Caputo AR and Reynolds RD. Nystagmus in Down syndrome. Ophthalmology 1990; 97: 1439–1444.
+ 129. Bibikova M and Fan J. Genome-wide DNA methylation profiling. Wiley Interdiscip Rev Syst Biol Med 2010; 2: 210–223.
+ 130. Best practice guidelines for analysis and interpretation of targeted next generation sequencing, https://www.acgs.uk.com/quality/best-practice-guidelines/
+ 131. Prado DA, Acosta-Acero M and Maldonado RS. Gene therapy beyond luxturna: a new horizon of the treatment for inherited retinal disease. Curr Opin Ophthalmol 2020; 31: 147–154.
+ 132. Patel U, Boucher M, de Léséleuc L, et al. 
+Voretigene neparvovec: an emerging gene 
+therapy for the treatment of inherited blindness. In: CADTH issues in emerging health technologies. Ottawa, ON, Canada: Canadian Agency for Drugs and Technologies in Health, 2016, http://www.ncbi.nlm.nih.gov/books/NBK538375/ 
+(accessed 16 July 2020).
+ 133. den Dunnen JT, Dalgleish R, Maglott DR,  
+et al. HGVS recommendations for the description of sequence variants: 2016 update. Hum Mutat 2016; 37: 564–569.
+ 134. Stone EM, Cideciyan AV, Aleman TS, et al. Variations in NPHP5 in patients with nonsyndromic leber congenital amaurosis and 
+Senior-Loken syndrome. Arch Ophthalmol 2011; 
+129: 81–87.
+ 135. Bayefsky MJ. Comparative preimplantation genetic diagnosis policy in Europe and the USA and its implications for reproductive tourism. Reprod Biomed Soc Online 2016; 3: 41–47.
+ 136. Riezzo I, Neri M, Bello S, et al. Italian law on medically assisted reproduction: do women’s autonomy and health matter? BMC Womens 
+Health 2016; 16: 44.
+ 137. Drury S, Hill M and Chitty LS. Cell-free fetal 
+DNA testing for prenatal diagnosis. Adv Clin Chem  
+2016; 76: 1–35.
+ 138. Ong T, Pennesi ME, Birch DG, et al. Adeno-associated viral gene therapy for inherited 
+retinal disease. Pharm Res 2019; 36: 34.
+ 139. Richardson R, Smart M, Tracey-White D, 
+et al. Mechanism and evidence of nonsense 
+suppression therapy for genetic eye disorders. 
+Exp Eye Res 2017; 155: 24–37.
+ 140. Collin RWJ and Garanto A. Applications of antisense oligonucleotides for the treatment of inherited retinal diseases. Curr Opin Ophthalmol 
+2017; 28: 260–266.
+Visit SAGE journals online 
+journals.sagepub.com/home/oed
+SAGE journals

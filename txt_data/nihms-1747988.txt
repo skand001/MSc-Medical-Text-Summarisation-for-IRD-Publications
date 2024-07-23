@@ -1,0 +1,179 @@
+IRD panels-caveat emptor-truly know your IRD panel
+Jose S. Pulido1,2,3, Rebecca Procopio1, Hiram Jimenez Davila1, Nicholas Bello1, Cristy 
+Ku4, Mark E Pennesi4, Paul Yang4, Aaron Nagiel5, Omar A. Mahroo6, Tomas S. Aleman7, 
+Ezequiel M. Salido8, Margaret Reynolds9
+1Department of Ophthalmology, Wills Eye Hospital, Thomas Jefferson University, Philadelphia, PA 
+19107, USA.
+2Department of Ophthalmology, Mayo Clinic, 200 First Street, SW, Rochester, MN 55905 USA.
+3Department of Molecular Medicine, Mayo Clinic, 200 First Street, SW, Rochester, MN 55905 
+USA.
+4Department of Ophthalmology, Casey Eye Institute, Oregon Health & Science University, 
+Portland, OR 97239, USA.
+5The Vision Center, Children’s Hospital Los Angeles, USC Roski Eye Institute, Keck School of 
+Medicine University of Southern California
+6UCL Institute of Ophthalmology, University College London, UK; Moorfields Eye Hospital 
+NHS Foundation Trust, London, UK; Department of Ophthalmology, Guy’s & St Thomas’ 
+NHS Foundation Trust, London, UK; Section of Ophthalmology, King’s College London, UK; 
+Physiology, Development and Neuroscience, University of Cambridge, Cambridge, UK.
+7Scheie Eye Institute at the Perelman Center for Advance Medicine and the Center for 
+Advanced Retinal and Ocular Therapeutics (CAROT), Department of Ophthalmology, University 
+of Pennsylvania Perelman School of Medicine, Philadelphia, PA, USA; The Children’s Hospital of 
+Philadelphia (CHOP), Philadelphia, PA, USA.
+8Department of Biochemistry, Ophthalmology and Visual Sciences, West Virginia University, 
+Morgantown, West Virginia 26506
+9Department of Ophthalmology and Visual Sciences, Washington University in St. Louis. St. 
+Louis, Missouri, USA.
+Keywords
+Inherited eye disease; retinal dystrophy; gene panel; gene testing; pathogenic variant; next 
+generation sequencing (NGS)
+Corresponding author: Margaret M. Reynolds, MD, Departments of Ophthalmology and Visual Sciences and Pediatrics, St. Louis 
+Children’s Hospital, Washington University School of Medicine, St. Louis, Missouri, One Children’s Place St. Louis, MO 63110, 
+Margaret.reynolds@wustl.edu. 
+Financial disclosures: no relevant financial disclosures from any author
+Competing interest statement: The authors declare that they have no competing interests.
+HHS Public Access
+Author manuscript
+Retina . Author manuscript; available in PMC 2023 January 01.
+Published in final edited form as:
+Retina . 2022 January 01; 42(1): 1–3. doi:10.1097/IAE.0000000000003319.
+Author Manuscript Author Manuscript Author Manuscript Author ManuscriptLess than a decade ago, genetic testing in inherited retinal disease (IRD) patients was reliant 
+on coverage by payors, which resulted in a very low rate of genotyping. Some tertiary 
+centers offered options for non-CLIA certified genetic testing on a research basis, but this 
+was not widely available to community practitioners, and research results could not be 
+disclosed clinically. Fortunately, the cost of genetic testing has decreased markedly and 
+the bioinformatics has improved as well. The number of genes covered in a typical next 
+generation sequencing (NGS) panel has more than tripled over the past decade to more than 
+300 genes. Currently, there are multiple labs offering these large panels, but with variations 
+in the number of genes covered and in specific cases, also the coverage of key genes. 
+Figure 1 demonstrates the overlap between five major panels as of June 1st 2021. Now some 
+companies are offering the panel testing “for free”. While the ability to solve the genetic 
+cause of disease in patients has been a valuable addition, we would like to point out some 
+potential pitfalls in their use with the hope of raising awareness with providers who order 
+these tests.
+Stone et al. have extensively discussed the problem of false discovery rate.1 With the number 
+of tests that are involved in a panel and the number of possible variants per test, the chances 
+of finding a positive test that is unrelated to the pathology is high. Stone et al. calculated that 
+if 301 non-mitochondrial genes are tested, the false discovery rate would be 128%, or 1.28 
+plausible disease-causing mutations per person.1 Therefore, careful pre-, and in some cases, 
+post-test phenotyping is crucial to interpreting genetic test results, especially when large 
+panels are utilized. A comprehensive, multimodal characterization that includes a detailed 
+clinical history, and, depending on the case, fundus photos, autofluorescence imaging, visual 
+fields, full-field psychophysics and electroretinograms will help avoid spurious conclusions 
+and increase the chances that a “positive” genetic test really is the underlying cause of 
+the pathology. Obtaining a pedigree and evaluating family members helps to determine if 
+the mode of inheritance is autosomal recessive, autosomal dominant, X-linked recessive, 
+X-linked dominant, or mitochondrial. In cases where the proband has more than one 
+presumed pathogenic variant, analyzing clinical data and family members—both affected 
+and unaffected—can help determine the implications of these variants.
+Physicians should be wary when genetic testing results do not comport with the clinical 
+findings. For example, the finding of variants in an autosomal recessive gene should 
+arouse suspicion when the patient has a strong family history of X-linked disease, or 
+conversely, physicians should keep an open mind for the possibility of an X-linked or 
+mitochondrial disease in families with a family history suggestive of autosomal dominant 
+(or even recessive) inheritance. It is also important to consider the possibility of an 
+autosomal dominant disorder with incomplete penetrance in a patient with no apparently 
+affected family members, in whom autosomal recessive inheritance has been presumed. 
+(For example, variants in PRPF31  are a frequent cause of autosomal dominant RP, and 
+incomplete penetrance is frequently encountered.) Finally, the finding of a non-syndromic 
+gene should be viewed cautiously in the context of a patient with multisystem features. 
+However, it is also crucial to maintain an open mind and realize that common genes 
+might sometimes present in uncommon or previously unrecognized manners, although often 
+reflecting common phenotypes modulated by disease severity, and thus, by the window 
+in time within the natural course of the disease when patients are examined. There are a Pulido et al. Page 2
+Retina . Author manuscript; available in PMC 2023 January 01.
+Author Manuscript Author Manuscript Author Manuscript Author Manuscriptgrowing number of genes previously reported only in syndromic retinal degenerations that 
+are now being associated with non-syndromic disease (e.g. BBS , CLN , etc.)2,3
+Another important aspect that has not been discussed in depth in the literature is the range 
+of the panel genes tested. Looking at the list from each company is initially daunting since 
+they appear to be so overwhelming and complete. However, ocular disease panels can vary 
+widely in testing strategy, with some including mitochondrial genes, copy number variant 
+detection, deep intronic sequencing, or testing for large insertions or deletions. As important 
+as not making a false discovery is not obtaining a false negative. False negatives can 
+occur from inadequate knowledge of all of the variants associated with a disease type. An 
+important example are the hypomorphic variants of ABCA4  that were initially disregarded 
+because they are relatively common in the Northern European population.4 Recently these 
+variants have been deemed to confer a milder form of the disease.4 On the other hand, 
+ABCA4- associated IRDs are also an example of the possibility for false positives calls. With 
+a relatively high prevalence of disease- causing and hypomorphic variants in the general 
+population, there is a risk for attributing disease to mono-allelic changes, whilst these may 
+be incidental; again, the specificity of the phenotype is important.
+False negatives can also occur if a specific panel does not test for a gene of interest. An 
+interesting illustration of this situation is testing for the RPGR  gene, which is well known 
+to the field and for which there are four ongoing gene therapy clinical trials. This gene 
+causes 40–70% of all cases of X-linked RP.1,5–8 Additionally, in a series from the USA 
+and from the UK, RPGR  was the third most common cause of inherited retinal disease 
+behind ABCA4  and RHO ,1,9 accounting for 6% of all IRD cases.1 The issue with RPGR 
+is that exon 15 is difficult to sequence with present techniques.10,11 At least one “free” 
+panel does not include it in its large list of tested genes. Imagine therefore, a male patient 
+with severe RP in his early 30s without a notable family history who undergoes testing to 
+determine if there is a chance that his children will have the disease. If the results of genetic 
+testing are inconclusive, he will be told that the chances that the children will be affected 
+is low because it probably is an autosomal recessive disease. However, an isolated case in 
+a man is an AD or an X-linked disorder in 5 to 10% of cases. In this case, if his disease 
+is from a mutation in RPGR  and it was not in the panel, he will not undergo appropriate 
+counseling regarding the implications for his offspring and siblings. Although a male with 
+RPGR -associated disease cannot pass on the variant to a son, his daughters will be obligate 
+carriers, and might be variably affected. He may also have female relatives of child-bearing 
+age for whom establishing carrier status might have implications in terms of consideration of 
+prenatal or preimplantation genetic diagnosis.
+Identifying the causative mutation is often viewed as the last step when in reality it is only 
+the first, after which counseling the patient and family regarding rehabilitation, progression 
+and treatment possibilities is a highly individualized science. It is also beneficial for the 
+family to understand the limitations of the test, i.e. a panel test does not test every gene. One 
+of the most challenging aspects in this field is to explain, after-the-fact, to the patient, often 
+an entire family, the meaning of variants of unknown significance. The possibility should be 
+given careful consideration, anticipated, and explained beforehand as part of the process of 
+ordering ‘all-inclusive’ panels. It can be helpful for the ordering physician to work with a Pulido et al. Page 3
+Retina . Author manuscript; available in PMC 2023 January 01.
+Author Manuscript Author Manuscript Author Manuscript Author Manuscriptgenetic counselor who can provide additional support in ensuring that the appropriate panel 
+is chosen and the patient understands the results in context. In fact, counseling is included 
+with one of the “free” testing programs.
+In summary, although the cost of testing is decreasing and the ability to determine a genetic 
+cause is increasing, it is paramount that the ordering physician be knowledgeable of the 
+limitations of the positive as well as the supposedly negative results. Both the genes and 
+variants that are known to be associated with disease are rapidly changing, and the panels 
+are constantly undergoing changes themselves. It is therefore incumbent on the doctor who 
+orders the test to understand the limitations of whichever panel he or she chooses.
+References:
+1. Stone EM, Andorf JL, Whitmore SS, et al. Clinically Focused Molecular Investigation of 1000 
+Consecutive Families with Inherited Retinal Disease. Ophthalmology 2017;124(9):1314–1331. 
+[PubMed: 28559085] 
+2. Ku CA, Hull S, Arno G, et al. Detailed clinical phenotype and molecular genetic findings in CLN3-
+associated isolated retinal degeneration. JAMA Ophthalmol 2017;135(7): 749–760. [PubMed: 
+28542676] 
+3. Weihbrecht K, Goar WA, Pak T, et al. Keeping an Eye on Bardet-Biedl Syndrome: A 
+Comprehensive Review of the Role of Bardet-Biedl Syndrome Genes in the Eye. Med Res Arch 
+2017;5(9).
+4. Zernant J, Lee W, Collison FT, et al. Frequent hypomorphic alleles account for a significant 
+fraction of ABCA4 disease and distinguish it from age-related macular degeneration. J Med Genet 
+2017;54(6):404–412. [PubMed: 28446513] 
+5. Sharon D, Sandberg MA, Rabe VW, Stillberger M, Dryja TP, Berson EL. RP2 and RPGR Mutations 
+and Clinical Correlations in Patients with X-Linked Retinitis Pigmentosa. Am J Hum Genet 
+2003;73(5): 1131–1146. [PubMed: 14564670] 
+6. Bader I, Brandau O, Achatz H, et al. X-linked retinitis pigmentosa: RPGR mutations in most 
+families with definite X linkage and clustering of mutations in a short sequence stretch of exon 
+ORF15. Investig Ophthalmol Vis Sci 2003;44(4): 1458–1463. [PubMed: 12657579] 
+7. Shu X, Black GC, Rice JM, et al. RPGR mutation analysis and disease: An update. Hum Mutat 
+2007;28(4):322–328. [PubMed: 17195164] 
+8. Pelletier V , Jambou M, Delphin N, et al. Comprehensive survey of mutations in RP2 and RPGR in 
+patients affected with distinct retinal dystrophies: Genotype-phenotype correlations and impact on 
+genetic counseling. Hum Mutat 2007;28(1):81–91. [PubMed: 16969763] 
+9. Pontikos N, Arno G, Jurkute N, et al. Genetic Basis of Inherited Retinal Disease in a Molecularly 
+Characterized Cohort of More Than 3000 Families from the United Kingdom. Ophthalmology 
+2020;127(10): 1384–1394. [PubMed: 32423767] 
+10. Li J, Tang J, Feng Y , et al. Improved Diagnosis of Inherited Retinal Dystrophies by High-Fidelity 
+PCR of ORF15 followed by Next-Generation Sequencing. J Mol Diagnostics 2016;18(6):817–824.
+11. Huang XF, Wu J, Lv JN, Zhang X, Jin ZB. Identification of false-negative mutations missed by 
+next-generation sequencing in retinitis pigmentosa patients: A complementary approach to clinical 
+genetic diagnostic testing. Genet Med 2015;17(4):307–311. [PubMed: 25569437] 
+12. Hulsen T, de Vlieg J, Alkema W. BioVenn – a web application for the comparison and visualization 
+of biological lists using area-proportional Venn diagrams. BMC Genomics 2008; 9:488. [PubMed: 
+18925949] 
+13. Calculate and Draw Custom Venn Diagrams. 2021. Available at: http://bioinformatics.psb.ugent.be/
+webtools/Venn/ . Accessed June 2, 2021.Pulido et al. Page 4
+Retina . Author manuscript; available in PMC 2023 January 01.
+Author Manuscript Author Manuscript Author Manuscript Author ManuscriptFigure 1. 
+Venn diagram showing the genes evaluated by 5 separate companies in their IRD panels 
+represented by size of the circle12Pulido et al. Page 5
+Retina . Author manuscript; available in PMC 2023 January 01.
+Author Manuscript Author Manuscript Author Manuscript Author Manuscript

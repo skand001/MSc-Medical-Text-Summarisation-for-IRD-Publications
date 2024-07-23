@@ -1,0 +1,587 @@
+Citation: Placidi, G.; Maltese, P .E.;
+Savastano, M.C.; D’Agostino, E.;
+Cestrone, V .; Bertelli, M.; Chiurazzi,
+P .; Maceroni, M.; Minnella, A.M.;
+Ziccardi, L.; et al. Retinitis
+Pigmentosa Associated with EYS
+Gene Mutations: Disease Severity
+Staging and Central Retina Atrophy.
+Diagnostics 2023 ,13, 850.
+https://doi.org/10.3390/
+diagnostics13050850
+Academic Editor: Isabel Pinilla
+Received: 31 December 2022
+Revised: 7 February 2023
+Accepted: 13 February 2023
+Published: 23 February 2023
+Copyright: © 2023 by the authors.
+Licensee MDPI, Basel, Switzerland.
+This article is an open access article
+distributed under the terms and
+conditions of the Creative Commons
+Attribution (CC BY) license (https://
+creativecommons.org/licenses/by/
+4.0/).
+diagnostics 
+Article
+Retinitis Pigmentosa Associated with EYS Gene Mutations:
+Disease Severity Staging and Central Retina Atrophy
+Giorgio Placidi1,2,†
+, Paolo Enrico Maltese3,†
+, Maria Cristina Savastano1,2,*, Elena D’Agostino1,
+Valentina Cestrone1, Matteo Bertelli3,4,5
+, Pietro Chiurazzi6,7
+, Martina Maceroni1,2
+,
+Angelo Maria Minnella1,2, Lucia Ziccardi8
+, Vincenzo Parisi8, Stanislao Rizzo1,2,9and Benedetto Falsini1,2
+1Ophthalmology Unit, Fondazione Policlinico Universitario Agostino Gemelli IRCCS, Largo Gemelli 8,
+00168 Rome, Italy
+2Ophthalmology Unit, Catholic University of the Sacred Heart, Largo Francesco Vito 1, 00168 Rome, Italy
+3MAGI’S LAB, 38068 Rovereto, Italy
+4MAGI EUREGIO, 39100 Bolzano, Italy
+5MAGISNAT, Atlanta Tech Park, 107 Technology Parkway, Peachtree Corners, GA 30092, USA
+6Medical Genetics, Fondazione Policlinico Universitario Agostino Gemelli IRCCS, Largo Gemelli 8,
+00168 Rome, Italy
+7Genomic Medicine, Catholic University of the Sacred Heart, Largo Francesco Vito 1, 00168 Rome, Italy
+8IRCCS-Fondazione Bietti, 00198 Rome, Italy
+9Consiglio Nazionale delle Ricerche, Istituto di Neuroscienze, 56127 Pisa, Italy
+*Correspondence: mariacristina.savastano@unicatt.it; Tel.: +39-0630-154-928
+† These authors contributed equally to this work.
+Abstract: Background. Eyes shut homolog (EYS) gene mutations are estimated to affect at least
+5% of patients with autosomal recessive retinitis pigmentosa. Since there is no mammalian model
+of human EYS disease, it is important to investigate its age-related changes and the degree of
+central retinal impairment. Methods. A cohort of EYS patients was studied. They underwent full
+ophthalmic examination as well as assessment of retinal function and structure, by full-ﬁeld and focal
+electroretinograms (ERGs) and spectral domain optical coherence tomography (OCT), respectively.
+The disease severity stage was determined by the RP stage scoring system (RP-SSS). Central retina
+atrophy (CRA) was estimated from the automatically calculated area of the sub-retinal pigment
+epithelium (RPE) illumination (SRI). Results. The RP-SSS was positively correlated with age, showing
+an advanced severity score ( 8) at an age of 45 and a disease duration of 15 years. The RP-SSS was
+positively correlated with the CRA area. LogMAR visual acuity and ellipsoid zone width, but not
+ERG, were correlated with CRA. Conclusions. In EYS-related disease, the RP-SSS showed advanced
+severity at a relative early age and was correlated with the central area of the RPE/photoreceptor
+atrophy. These correlations may be relevant in view of therapeutic interventions aimed at rescuing
+rods and cones in EYS-retinopathy.
+Keywords: retinal degeneration; EYS gene; disease staging; multimodal imaging; OCT; subretinal
+illumination; electroretinography
+1. Introduction
+Pathogenic variants in the eyes shut homolog (EYS) gene are estimated to affect at
+least 5% of patients with autosomal recessive retinitis pigmentosa (arRP) [ 1]. The gene is
+defective in several arRP populations worldwide [ 2–5]. EYS encodes a large extracellular
+protein [ 6] that in Drosophila promotes the formation of epithelial lumina, a selective
+space inside the rhabdomeres which isolates individual photoreceptor cells and is useful
+for their development [ 7]. In humans, the function of EYS is not yet fully understood.
+However, the protein product is thought to play a role in stabilizing ciliary axonemes in
+rods and cones and it is involved in the maintenance of photoreceptor cells [ 8]. Since
+there is no mammalian model of human EYS disease, it is important to investigate its
+Diagnostics 2023 ,13, 850. https://doi.org/10.3390/diagnostics13050850 https://www.mdpi.com/journal/diagnosticsDiagnostics 2023 ,13, 850 2 of 12
+age-related retinal changes in both structure and function, as well as the degree of central
+retina involvement.
+Recently, Iftikhar et al. [ 9] developed a simple and easily applicable classiﬁcation of
+disease severity in RP patients, with a score based on best corrected visual acuity (BCVA),
+Goldmann visual ﬁeld diameter and ellipsoid zone (EZ) width. This RP stage score system
+(RP-SSS) appeared to be readily applicable to different subtypes of RP . In particular, our
+group [ 10] recently applied the RP-SSS to the clinical and morphological features of USH2A
+related retinal degeneration. The USH2A severity score was reliably correlated with patient
+age as well as with several morphologic and functional parameters of retinal disease [10].
+In a previous study by Mcguigan et al. [ 11], EYS patients showed typically RP features.
+Although a residual foveal cone function could still be detected into the fourth, ﬁfth or
+sixth decade of life, the outer nuclear layer (ONL) thickness and EZ width progressively
+decreased. Determining the degree of retinal atrophy involving retinal pigment epithe-
+lium (RPE)/photoreceptors in the macular region may be particularly relevant either for
+visual prognosis or for the effects of potential treatments rescuing photoreceptors. An
+estimate of the area of central macular atrophy (CRA) can be obtained by the automatic
+determination of the area of sub-RPE illumination (SRI). The SRI identiﬁes bright areas
+of increased light transmission beneath the RPE, indicating RPE/outer retina atrophy,
+averaged over a circular area of 5 mm around the fovea by the automated spectral domain
+optical coherence tomography (SD-OCT) software. In age-related macular degeneration,
+the SRI was used to measure the area of RPE and outer retinal atrophy (RORA), established
+from an international consensus by Guymer et al. [12].
+The aim of the present study was to determine the disease severity stage in a cohort
+of ArRP patients carrying pathogenic variants in the EYS gene and to estimate, in these
+patients, the extent of CRA by using the automated SRI measurements.
+2. Materials and Methods
+This clinical study was performed in compliance with the ICH Guidelines for Good
+Clinical Practice, adhered to the tenets of the Declaration of Helsinki (1991) and was
+approved by the Ethics Committee/Institutional Review Board of the Catholic University
+of Rome, Italy (protocol #8383/15).
+After a detailed explanation regarding the study procedures, written informed con-
+sents for clinical and molecular analyses were obtained from all the adult subjects or
+relatives when the patient was a minor.
+All the reported clinical data were retrospectively re-evaluated.
+2.1. Subjects
+We enrolled 17 patients (8 male, 9 female; mean age: 50.5 years.; SD: 14.7) affected
+by RP due to variants in the EYS gene and followed at the Center for Inherited Retinal
+Degenerations of Fondazione Policlinico A. Gemelli, IRCCS. All patients were evaluated
+between November 2013 and December 2021 and met the following inclusion criteria:
+(1) clinical and genetic diagnosis of EYS-related RP; (2) good cooperation in psychophysical
+testing; (3) dioptric media clean enough to perform Spectral Domain-Optical Coherence
+Tomography (SD-OCT). Exclusion criteria were the presence of: (1) concomitant ocular
+(e.g., amblyopia, glaucoma) and systemic diseases; (2) poor cooperation in psychophys-
+ical testing; (3) severe ocular media opacities. EYS-related RP diagnosis was conﬁrmed
+through a genetic test and, whenever possible, a segregation analysis on available fam-
+ily members was performed. Seven patients were homozygous and the remaining eight
+were compound heterozygous for EYS variants. Molecular genetic data are reported in
+Table 1. The pathogenic variants in the EYS gene were detected using the Next Genera-
+tion Sequencing (NGS) technology. NGS was performed on a MiSeq personal sequencer
+(Illumina, San Diego, CA), following the molecular and bioinformatic strategy that we
+previously published [ 13,14]. Multiplex ligation-dependent probe ampliﬁcation (MLPA)
+(www.mrc-holland.com, (accessed on 1 December 2017) was also performed in one patientDiagnostics 2023 ,13, 850 3 of 12
+using the Beckman Coulter CEQ 8000 sequencer, and revealed the presence of a deletion
+in heterozygosity (c. (2135 _2204) _ (2351_2469) del) resulting in the loss of the exons 14
+and 15. All variants identiﬁed were evaluated according to American College of Medical
+Genetics and Genomics (ACMG) guidelines [ 15] with the help of the VarSome online tool
+(https://varsome.com/, (accessed on 24 May 2022) [ 16]. Molecular genetic data for each
+patient are detailed in Table 1.
+2.2. Clinical Assessment and Functional Evaluation
+All patients underwent a full ophthalmologic examination including detailed fam-
+ily history, anterior segment biomicroscopy, intraocular pressure measurement, BCVA
+measured with ETDRS charts, Goldmann visual ﬁeld using the V/4e target, SD-OCT
+with measurement of the EZ extension, scotopic and photopic full-ﬁeld electroretinogram
+(ERG) recordings and direct and indirect ophthalmoscopy. All patients had a typical RP
+phenotype. The data collected allowed the determination of the disease severity stage
+of all enrolled patients according to the cumulative score (CS) and grade indicated by
+Iftikhar et al [ 9]. Sub-groups of patients underwent a more detailed comprehensive electro-
+functional study. A total of 12 out of 17 patients performed 30 Hz submicrovolt ﬂicker
+ERG, (Retimax Advanced Plus, CSO, Scandicci, Italy)) with the assessment of response
+variability and signal-to-noise ratio (S/N), as already described in a previous article by
+Falsini et al. [10].
+Macular cone-mediated focal ERG (FERG) was recorded in 7 out of 17 patients using a
+published technique [ 17–20]. Brieﬂy, FERGs were recorded monocularly in response to a
+ﬂickering uniform red ﬁeld stimulus superimposed on an equiluminant steady adapting
+background. Off-line discrete Fourier analysis quantiﬁed the peak-to-peak amplitude of
+the response ﬁrst harmonic at 41 Hz.
+2.3. Morphological Analysis Using Retinal Advanced Multimodal Imaging
+All patients underwent advanced retinal analysis by SD-OCT using Zeiss Cirrus
+5000-HD-OCT Angioplex, sw version 10.0, (CarlZeiss, Meditec, Inc., Dublin, CA, USA).
+In two patients, the advanced imaging was not possible due to unstable ﬁxation. A High-
+Deﬁnition 5-Line Raster and a macular map (6 6 mm Macular Cube 512 128) were
+acquired. In order to obtain the most reliable measurements, two independent operators
+(M.C.S. and M.M.) measured the residual EZ extension on OCT horizontal scans using a
+caliper, as previously described [ 21]. The agreement rate between the two independent
+experts was equal to 89% (95% conﬁdence interval = 79–98%).
+The EZ extension was determined by the retinal points where the temporal and nasal
+EZ borders met the RPE becoming indistinguishable.
+The Advanced RPE post-processing analysis was used to automatically determine
+areas of sub-RPE illumination (SRI, measured in mm2) for increased light penetration
+through atrophic OR, RPE and choriocapillaris, by means of the sub-RPE algorithm. An
+automated SD-OCT software allowed detection of RPE atrophy in a 5 mm circular area
+around the fovea. The SRI was used to measure the RPE and outer retinal atrophy (RORA),
+as established in an international consensus by Guymer et al. [12].
+RORA corresponds to a region of signal hyper-transmission into the choroid resulting
+from the interruption of the RPE and OR and can be classiﬁed as complete and incomplete.
+If the signal hyper-transmission into the choroid does not exceed an area of 250 microns,
+RORA is deﬁned as incomplete (iRORA). RORA is complete (cRORA) when this value is
+higher and corresponds to geographic atrophy (GA).
+2.4. Statistical Analysis
+We analyzed both right and left eyes. In this study, we considered only the results from
+the right eyes for statistical analysis in order not to overestimate the statistical signiﬁcance
+andp-values. Analysis from right and left eyes showed substantially similar results.Diagnostics 2023 ,13, 850 4 of 12
+The data were analyzed by parametric or non-parametric analyses, depending on their
+distribution. Both Pearson’s correlation and Spearman rank order correlation were used.
+ERG data were log transformed to better approximate normal distribution. A pvalue of
+less than 0.05 was considered statistically signiﬁcant.
+Table 1. Molecular Genetic Data of EYS patients.
+ID Sex Nucleotide ChangeAmino Acid
+ChangeAllele
+StateVarsome ACMG Criteria dbSNP rs References
+1 M c.8411_8412insTT p.(Thr2805*) HOM LP PVS1 PM2 NA [11]
+2 F c.8598del p.(Gly2867Valfs*5) HOM P PVS1 PM2 PP5 rs1050742628 NA
+3M c.8161_8165del p.(Gln2721Alafs*24) HET LP PVS1 PM2 NA NA
+c.9405T>A p.(Tyr3135*) HET P PVS1 PM2 PP5 rs137853190 [6]
+4 M c.5928-2A>G HOM P PVS1 PM2 PP5 rs181169439 [2]
+5 Mc.5621dup p.(Pro1875Thrfs*8) HET LP PVS1 PM2 NA [22]
+c.8411_8412insTT p.(Thr2805*) HET LP PVS1 PM2 NA [11]
+6 Mc.8565_8568del p.(Asn2855Lysfs*5) HET P PVS1 PM2 PP5 rs1216993077 NA
+c.4073del p.(Pro1358Glnfs*23) HET LP PVS1 PM2 NA NA
+7 F c.5644+5G>T HOM LP PM2 PP3 NA NA
+8 Fc.4045C>T p.(Arg1349*) HET P PVS1 PM2 PP5 rs930421180 [2]
+c.4350_4356del p.(Ile1451Profs*3) HET PVS1 PM2 PP5 rs761238771 [2]
+9 F c.7919G>A p.(Trp2640*) HOM P PVS1 PM2 PP5 rs527236066 [2]
+10 Fc.403_423delinsCTTTT p.(Thr135Leufs*26) HET P PVS1 PM2 PP5 rs1582376398 [23]
+c.(2135_2204)_
+(2351_2469)delHET LP PVS1 PM2 NA NA
+11 Fc.(2137+1_2138-
+1)_(2259+1_2260-
+1)delHOM LP PVS1 PM2 NA [24]
+12 Mc.4045C>T p.(Arg1349*) HET P PVS1 PM2 PP5 rs930421180 [25]
+c.9299_9302del p.(Thr3100Lysfs*26) HET P PVS1 PM2 PP5 rs769824975 [26]
+13 F c.9328G>A p.(Gly3110Ser) HOM VUS PM2 PM5 PP3 NA NA
+14c.5621dup p.(Pro1875Thrfs*8) HET LP PVS1 PM2 NA [22]
+c.8411_8412insTT p.(Thr2805*) HET LP PVS1 PM2 NA [11]
+15 M c.5928-2A>G HOM P PVS1 PM2 PP5 rs181169439 [2]
+16 Fc.4219C>T p.(Gln1407*) HET LP PVS1 PM2 rs1421392730 NA
+del ex32-35 HET LP PVS1 PM2 NA NA
+17 Mc.1852G>A p.(Gly618Ser) HET VUS PM2 PP5 BP4 rs142450703 [2]
+c.1561_1563del p.(Asn521del) HET VUS PM2 PM4 PP5 rs747069281 NA
+c.2309A>C p.(Gln770Pro) HET VUS PM2 BP4 rs398123574 [27]
+Legend: F, female; M, male; HET, heterozygous; HOM, homozygous; in italics ,in cis variants; NA, not available;
+VUS, variant of unknown signiﬁcance; LP , likely pathogenic; P , pathogenic.
+3. Results
+Clinical results of individual patients are reported in Table 2. The results of RP-SSS,
+ERGs and iRORA area are reported in Supplementary Material (Table S1).
+Table 2. Demographic and clinical data of studied patients.
+Nr Sex OnsetAge of
+AssessmentDisease
+DurationRE LE
+BCV A
+(LogMAR)VF EZBCV A
+(LogMAR)VF EZ
+1 M 25 46 21  0.50 21 0  1.0 25 0
+2 F 42 75 33  2.70 0 0  0.50 10 0
+3 M 39 43 4 0.00 124 5251  0.10 131 5053
+4 M 18 42 24  3.70 0 0  3.70 0 0
+5 M 17 30 13  0.50 50 3321  0.18 43 641
+6 M 22 26 4 0.00 129 3576 0.00 133 3525
+7 F 20 62 42  0.92 17 2084  0.80 18 1337
+8 F 14 26 12 0.00 79 2197 0.00 80 2577
+9 F 25 49 24  0.70 120 2085  0.50 107 1556
+10 F 25 46 21  0.30 62 1549  0.30 60 1581
+11 F 43 68 25  2.70 17 0  2.70 0 0Diagnostics 2023 ,13, 850 5 of 12
+Table 2. Cont.
+Nr Sex OnsetAge of
+AssessmentDisease
+DurationRE LE
+BCV A
+(LogMAR)VF EZBCV A
+(LogMAR)VF EZ
+12 M 39 49 10  0.50 30 4075  0.40 16 4313
+13 F 30 65 35  0.70 18 0  0.50 16 0
+14 F 30 51 21  0.10 22 2018 0.00 25 2448
+15 M 14 69 55  3.70 0 0  3.70 0 N/A
+16 F 26 51 25  0.30 19 0  0.18 20 3395
+17 M 45 61 16  2.70 0 0  2.70 0 0
+Legend: F, female; M, male; RE, right eye; LE, left eye; BCVA, best corrected visual acuity; VF, visual ﬁeld; EZ,
+ellipsoid zone.
+Figure 1 shows typical macular appearance in an EYS patient with a mild (Pt #3)
+and an advanced RP-SSS (Pt #1) according to the staging classiﬁcation by Iftkhar [ 9]. In
+the advanced patient EZ is not detectable and ONL thickness is markedly reduced in
+comparison to the patient with an early stage of the disease. Figure 1 shows the SRI
+analysis in the macula obtained from the moderate (A) and the advanced (B) EYS patient.
+SRI area increases with disease severity.
+Diagnostics 2023 , 13, x FOR PEER REVIEW  6 of 14 
+ 
+ RP grade 1, cumulative score 1 (A)  RP grade 4, cumulative score 12 (B)  
+ 
+Figure 1. Images OCT B scan, sub-RPE slab and RPE profile of two patients with early stage RP (A) 
+and advanced  stage RP (B). In early stage RP (A), the ellipsoid  zone is preserved  in the foveal and 
+parafoveal  regions. In advanced  RP (B) the almost complete  loss of the ellipsoid  zone and marked 
+reduction  in the outer nuclear layer are observable.  
+Patient A has a RP-SSS of 1 and 12 corresponding  to grade 1 and 4, respectively.  
+This picture is associated  with changes in the sub-RPE slab (areas of increased  SRI) 
+within the 5 mm circle outlined in white. The red line shows the atrophic area closest to 
+the fovea.  
+The staging score was significantly  correlated  with age and disease duration  (r = 
+0.54, p < 0.01) as shown in Figure 2A,B. An age of 45 years and a disease duration  of 15 
+years corresponded  to the appearance  of an advanced  RP score (≥8). The data showed a 
+trend to saturate after the age of 50, indicating  a ceiling effect.  
+Figure 1. Images OCT B scan, sub-RPE slab and RPE proﬁle of two patients with early stage RP
+(A) and advanced stage RP ( B). In early stage RP ( A), the ellipsoid zone is preserved in the foveal and
+parafoveal regions. In advanced RP ( B) the almost complete loss of the ellipsoid zone and marked
+reduction in the outer nuclear layer are observable.Diagnostics 2023 ,13, 850 6 of 12
+Patient A has a RP-SSS of 1 and 12 corresponding to grade 1 and 4, respectively.
+This picture is associated with changes in the sub-RPE slab (areas of increased SRI)
+within the 5 mm circle outlined in white. The red line shows the atrophic area closest to
+the fovea.
+The staging score was signiﬁcantly correlated with age and disease duration (r = 0.54,
+p< 0.01) as shown in Figure 2A,B. An age of 45 years and a disease duration of 15 years
+corresponded to the appearance of an advanced RP score ( 8). The data showed a trend to
+saturate after the age of 50, indicating a ceiling effect.
+Diagnostics 2023 , 13, x FOR PEER REVIEW  7 of 14 
+ 
+ 
+20 30 40 50 60 70 800246810121416score
+Age at testing (years) 
+(A) 
+0 10 20 30 40 50 600246810121416score
+Disease Duration (years)
+ 
+(B) 
+Figure 2. Cumulative score (CS) from the right eye of each EYS patient plotted as a function of age
+at testing ( A) and disease duration ( B). It can be noted that the score increases linearly with both
+parameters. The r value is 0.54 ( p< 0.01).Diagnostics 2023 ,13, 850 7 of 12
+Figure 3 shows a scattergram of SRI area as a function of staging score. It can be noted
+that SRI area, and consequently the CRA severity, was positively correlated with severity
+score (r = 0.5, p< 0.05).
+Diagnostics 2023 , 13, x FOR PEER REVIEW  8 of 14 
+ 
+ Figure 2. Cumulative  score (CS) from the right eye of each EYS patient plotted as a function of age 
+at testing (A) and disease duration  (B). It can be noted that the score increases  linearly with both 
+parameters.  The r value is 0.54 (p < 0.01). 
+Figure 3 shows a scattergram  of SRI area as a function of staging score. It can be 
+noted that SRI area, and consequently  the CRA severity, was positively  correlated  with 
+severity score (r = 0.5, p < 0.05).  
+0 2 4 6 8 10 12 14 16-202468101214161820IRORA Area (mm2)
+score
+ 
+Figure 3. Results of correlation  analysis between SRI and CS. SRI showed a positive correlation  
+with CS. The r value is 0.5 (p < 0.05). 
+SRI did not show any significant  correlation  with 30 Hz Flicker or focal ERG amplitude.  
+Figure  4A,B shows  scattergrams  of SRI area as a function  of LogMAR  acuity  and EZ 
+extension.  SRI area was significantly  correlated  with  both  measurements  (r = 0.5, p < 
+0.01) . 
+Figure 3. Results of correlation analysis between SRI and CS. SRI showed a positive correlation with
+CS. The r value is 0.5 ( p< 0.05).
+SRI did not show any signiﬁcant correlation with 30 Hz Flicker or focal ERG amplitude.
+Figure 4A,B shows scattergrams of SRI area as a function of LogMAR acuity and EZ
+extension. SRI area was signiﬁcantly correlated with both measurements (r = 0.5, p< 0.01).
+Diagnostics 2023 , 13, x FOR PEER REVIEW  9 of 14 
+ 
+ 
+-2 0 2 4 6 8 10 12 14 16 18 20-5-4-3-2-10Acuity (LogMAR)
+IRORA Area (mm2) 
+(a) 
+-2 0 2 4 6 8 10 12 14 16 18 200100020003000400050006000EZ extension (microm)
+IRORA area (mm2)
+ 
+(b) 
+Figure 4. Cont .Diagnostics 2023 ,13, 850 8 of 12
+Diagnostics 2023 , 13, x FOR PEER REVIEW  9 of 14 
+ 
+ 
+-2 0 2 4 6 8 10 12 14 16 18 20-5-4-3-2-10Acuity (LogMAR)
+IRORA Area (mm2) 
+(a) 
+-2 0 2 4 6 8 10 12 14 16 18 200100020003000400050006000EZ extension (microm)
+IRORA area (mm2)
+ 
+(b) 
+Figure 4. Correlation analysis between SRI and BCVA ( a) and EZ extension ( b). SRI area gradually
+increases as visual acuity and/or ellipsoid zone extension decreases.
+4. Discussion
+The present study was designed to evaluate the severity stage of EYS disease patients,
+as determined by the RP-SSS [ 9], and to estimate the area of CRA (from a standardized
+method measuring the area of SRI in the macula) in relation to disease stage in the same
+patients. The results of our study showed a correlation between the stage of RP and the age
+and disease duration of patients. Such correlation revealed a severe stage at a relatively
+early age of 45, supporting the severity of the molecular pathology underlying this sub-type
+of RP .
+Previous scientiﬁc investigations concerning structure and function correlations in
+patients with biallelic mutations in the EYS gene support a rapid disease progression as
+a function of time. McGuigan et al. [ 11] evaluated a cohort of 15 patients by chromatic
+static perimetry, SD-OCT, and enface autoﬂuorescence imaging reporting anomalies in
+the outer nuclear retinal layer of the central retina with some exceptions in the foveal
+region. Furthermore, an analysis of the perifoveal region as a function of time showed that
+photoreceptor structural loss was followed by dysmorphology of the inner retina and loss
+of retinal pigment epithelial integrity. Based on their results, arRP caused by EYS mutation
+was considered a more rapidly progressive disease compared to other gene mutations
+causing arRP , such as the USH2A and MAK variants. Some authors suggested that a
+different phenotype and progression in EYS-related retinal degeneration could be related
+to the speciﬁc EYS genotype [ 26,28–31]. However, due to the limited number of patients
+examined, such correlations could not be veriﬁed and conﬁrmed in the present study.
+An important ﬁnding of this study is represented by the correlation of CRA area
+with RP-SSS. The increase in CRA area was positively correlated with a greater RP-SSS
+value, indicating an increase in the disease severity. In addition, it was correlated inversely
+with the EZ width and positively with LogMAR acuity. Although other morphological
+predictor factors of atrophy progression in OCT analysis have been reported [ 32], RORA is
+the result of multiple information on the status of EZ, outer segments of the photorecep-
+tors, interdigitation zone and RPE-Bruch’s membrane complex [ 33–35]. Recently, RORADiagnostics 2023 ,13, 850 9 of 12
+assessment has been considered not only for early diagnosis but also as a prognostic factor
+of AMD progression [ 21]. Indeed, the possibility of evaluating the progression of central
+atrophy growth could become a key element in the evolutionary study of RP . Currently,
+the detection of RORA ﬁnds an important application in eyes with age-related macular
+degeneration (AMD) [ 36]. Automated identiﬁcation of RORA using machine learning
+has also been described [ 37]. Extending the present approach to inherited retinal diseases
+would be important for predicting their natural history. Indeed, we already demonstrated
+in other studies how the SRI area, as a result of RORA, was correlated with the disease
+severity stage in patients with USH2A-related Retinitis Pigmentosa [10].
+Although EYS-related RP represents a rare disease, our sample did not include a high
+number of patients. This constitutes a limitation to our study. Further comparative studies
+using a similar methodology would be desirable in order to identify useful diagnostic and
+prognostic criteria to study the natural history of the EYS-related disease, which is currently
+still difﬁcult to predict.
+In our study population, no correlations were found between the stage of the disease
+and the ERG, both focal and 30 Hz ﬂicker ERG. Although in most cases the degenerative
+evolution of the disease proceeds from rod to cone photoreceptors and the cone loss
+is considered a secondary occurrence, the obtained ERG data show that a severe cone
+dysfunction may be present early in EYS patients. Similar to what is observed in patients
+with USH2A mutations [ 20], our study patients showed severely abnormal 30 Hz ﬂicker
+ERG and fERG, well in advance of other cone-related visual tests, such as visual acuity. This
+ﬁnding supports an early involvement of cone driven responses in EYS-related RP . This
+hypothesis is in agreement with McGuigan et al. [ 11] who reported the constant presence
+of anomalies in the outer nuclear retinal layer of the central retina in a cohort of patients
+with EYS mutations, except in some where only the foveal region appeared still preserved.
+It is important to specify that, although the number of patients who underwent a FERG
+in this study was 7 out of 15, all patients had abnormal ERG responses. Additionally, 30
+Hz Flicker ERG showed markedly reduced responses in all patients and was unrelated to
+other parameters. This latter ﬁnding indicates that in our patients a severe extrafoveal cone
+dysfunction was present, too.
+Although no treatments are available for EYS-related RP , many novel therapeutic
+approaches could represent potential therapeutic options in the future [ 38]. In view of the
+above, the correct identiﬁcation of useful outcome measures to evaluate the effectiveness
+of potential therapies in upcoming clinical trials is a goal to be achieved. Studies in this
+regard are still few and more will have to be conducted to strengthen our hypothesis.
+The data reported in this study qualiﬁes the SRI in the detection of iRORA as an
+important parameter concerning the rate of progression of retinal degeneration caused by
+biallelic mutations in the EYS gene.
+5. Conclusions
+This research has provided new information concerning patients affected by Retinitis
+Pigmentosa associated with EYS gene mutations. We used a known RP severity score and
+validated techniques for the detection of morpho-functional correlations. In particular, in
+EYS-related RP the severity score was positively correlated with the central retinal atrophy,
+the central visual acuity and the EZ extension and increases with age and disease duration.
+In contrast, due to the intrinsic characteristics of the disease, functional measures did not
+appear sensitive enough to reveal staging-based changes. Given the small size of our
+sample, further studies concerning the natural history of this kind of retinal dystrophy
+would be desirable.Diagnostics 2023 ,13, 850 10 of 12
+Supplementary Materials: The following supporting information can be downloaded at: https:
+//www.mdpi.com/article/10.3390/diagnostics13050850/s1, Table S1: Results of RP-SSS, ERGs and
+iRORA area of individual patients.
+Author Contributions: Conceptualization, B.F., G.P ., S.R. and M.C.S.; methodology, B.F., P .C., M.B.
+and P .E.M.; software, P .E.M., B.F. and G.P .; formal analysis, B.F. and M.C.S.; investigation, B.F., G.P .,
+E.D., V .C., A.M.M. and M.M.; data curation, G.P ., E.D. and V .C.; writing—original draft preparation,
+G.P ., M.C.S. and B.F.; writing—review and editing, B.F., G.P ., M.C.S., P .E.M., A.M.M., M.M., L.Z. and
+V .P .; supervision, S.R. and P .C.; project administration, B.F., S.R. and G.P . All authors have read and
+agreed to the published version of the manuscript.
+Funding: Unrestricted grant for Retinitis Pigmentosa studies from Retina Italia ODV .
+Institutional Review Board Statement: This study was approved by the Ethics Committee/Institutional
+Review Board of the Catholic University of Rome, Italy (protocol #8383/15). This research adhered to
+the tenets of the Declaration of Helsinki.
+Informed Consent Statement: Informed consent was obtained from all patients, after full and
+detailed explanation of the goals and procedures of the study.
+Data Availability Statement: Data available from authors.
+Acknowledgments: Supported by an unrestricted grant from Retina Italia ODV to BF Supported
+by ERN-eye (BF and SR). The contribution of Fondazione Bietti in this paper was supported by the
+Ministry of Health and Fondazione Roma.
+Conﬂicts of Interest: The authors declare no conﬂict of interest. The funders had no role in the design
+of the study; in the collection, analyses, or interpretation of data; in the writing of the manuscript, or
+in the decision to publish the results.
+Abbreviations
+ACMG American College of Medical Genetics and Genomics
+AMD Age-related macular degeneration
+arRP Autosomal recessive retinitis pigmentosa
+BCVA Best corrected visual acuity
+CRA Central retina atrophy
+cRORA Complete RORA
+CS Cumulative score
+ERG Electroretinogram
+EYS Eyes shut homolog
+EZ Ellipsoid zone
+F Female
+FERG Focal ERG
+GA Geographic atrophy
+HET Heterozygous
+HOM Homozygous
+iRORA Incomplete RORA
+LE Left eye
+LogMAR Logarithm of minimum angle of resolution
+LP Likely pathogenic
+M Male
+MLPA Multiplex ligation-dependent probe ampliﬁcation
+NA Not available
+NGS Next Generation Sequencing
+OCT Optical coherence tomography
+ONL Outer nuclear layer
+P Pathogenic
+RE Right eye
+RORA RPE and outer retinal atrophy
+RPE Retinal pigment epitheliumDiagnostics 2023 ,13, 850 11 of 12
+RP-SSS RP stage scoring system
+SD-OCT Spectral domain optical coherence tomography
+SRI Sub-retinal pigment epithelium illumination
+VF Visual Field
+VUS Variant of unknown signiﬁcance
+References
+1. Littink, K.W.; van den Born, L.I.; Koenekoop, R.K.; Collin, R.W.J.; Zonneveld, M.N.; Blokland, E.A.W.; Khan, H.; Theelen, T.;
+Hoyng, C.B.; Cremers, F.P .M.; et al. Mutations in the EYS Gene Account for Approximately 5% of Autosomal Recessive Retinitis
+Pigmentosa and Cause a Fairly Homogeneous Phenotype. Ophthalmology 2010 ,117, 2026–2033.e7. [CrossRef] [PubMed]
+2. Audo, I.; Sahel, J.-A.; Mohand-Saïd, S.; Lancelot, M.-E.; Antonio, A.; Moskova-Doumanova, V .; Nandrot, E.F.; Doumanov, J.;
+Barragan, I.; Antinolo, G.; et al. EYS Is a Major Gene for Rod-Cone Dystrophies in France. Hum. Mutat. 2010 ,31, E1406–E1435.
+[CrossRef] [PubMed]
+3. Numa, S.; Oishi, A.; Higasa, K.; Oishi, M.; Miyata, M.; Hasegawa, T.; Ikeda, H.O.; Otsuka, Y.; Matsuda, F.; Tsujikawa, A. EYS Is a
+Major Gene Involved in Retinitis Pigmentosa in Japan: Genetic Landscapes Revealed by Stepwise Genetic Screening. Sci. Rep.
+2020 ,10, 20770. [CrossRef] [PubMed]
+4. Arai, Y.; Maeda, A.; Hirami, Y.; Ishigami, C.; Kosugi, S.; Mandai, M.; Kurimoto, Y.; Takahashi, M. Retinitis Pigmentosa with EYS
+Mutations Is the Most Prevalent Inherited Retinal Dystrophy in Japanese Populations. J. Ophthalmol. 2015 ,2015 , 1–10. [CrossRef]
+5. Kim, Y.N.; Kim, Y.J.; Seol, C.A.; Seo, E.-J.; Lee, J.Y.; Yoon, Y.H. Genetic Proﬁle and Associated Characteristics of 150 Korean
+Patients with Retinitis Pigmentosa. J. Ophthalmol. 2021 ,2021 , 1–15. [CrossRef]
+6. Collin, R.W.J.; Littink, K.W.; Klevering, B.J.; van den Born, L.I.; Koenekoop, R.K.; Zonneveld, M.N.; Blokland, E.A.W.; Strom, T.M.;
+Hoyng, C.B.; den Hollander, A.I.; et al. Identiﬁcation of a 2 Mb Human Ortholog of Drosophila Eyes Shut/Spacemaker That Is
+Mutated in Patients with Retinitis Pigmentosa. Am. J. Hum. Genet. 2008 ,83, 594–603. [CrossRef]
+7. Husain, N.; Pellikka, M.; Hong, H.; Klimentova, T.; Choe, K.-M.; Clandinin, T.R.; Tepass, U. The Agrin/Perlecan-Related Protein
+Eyes Shut Is Essential for Epithelial Lumen Formation in the Drosophila Retina. Dev. Cell 2006 ,11, 483–493. [CrossRef]
+8. Alfano, G.; Kruczek, P .M.; Shah, A.Z.; Kramarz, B.; Jeffery, G.; Zelhof, A.C.; Bhattacharya, S.S. EYS Is a Protein Associated with
+the Ciliary Axoneme in Rods and Cones. PLoS ONE 2016 ,11, e0166397. [CrossRef]
+9. Iftikhar, M.; Lemus, M.; Usmani, B.; Campochiaro, P .A.; Sahel, J.A.; Scholl, H.P .N.; Shah, S.M.A. Classiﬁcation of Disease Severity
+in Retinitis Pigmentosa. Br. J. Ophthalmol. 2019 ,103, 1595–1599. [CrossRef]
+10. Falsini, B.; Placidi, G.; De Siena, E.; Savastano, M.C.; Minnella, A.M.; Maceroni, M.; Midena, G.; Ziccardi, L.; Parisi, V .; Bertelli, M.;
+et al. USH2A-Related Retinitis Pigmentosa: Staging of Disease Severity and Morpho-Functional Studies. Diagnostics 2021 ,11, 213.
+[CrossRef]
+11. McGuigan, D.; Heon, E.; Cideciyan, A.; Ratnapriya, R.; Lu, M.; Sumaroka, A.; Roman, A.; Batmanabane, V .; Garafalo, A.;
+Stone, E.; et al. EYS Mutations Causing Autosomal Recessive Retinitis Pigmentosa: Changes of Retinal Structure and Function
+with Disease Progression. Genes 2017 ,8, 178. [CrossRef] [PubMed]
+12. Guymer, R.H.; Rosenfeld, P .J.; Curcio, C.A.; Holz, F.G.; Staurenghi, G.; Freund, K.B.; Schmitz-Valckenberg, S.; Sparrow, J.; Spaide,
+R.F.; Tufail, A.; et al. Incomplete Retinal Pigment Epithelial and Outer Retinal Atrophy in Age-Related Macular Degeneration.
+Ophthalmology 2020 ,127, 394–409. [CrossRef] [PubMed]
+13. Maltese, P .E.; Orlova, N.; Krasikova, E.; Emelyanchik, E.; Cheremisina, A.; Kuscaeva, A.; Salmina, A.; Miotto, R.; Bonizzato,
+A.; Guerri, G.; et al. Gene-Targeted Analysis of Clinically Diagnosed Long QT Russian Families. Int. Heart J. 2017 ,58, 81–87.
+[CrossRef] [PubMed]
+14. Marceddu, G.; Dallavilla, T.; Guerri, G.; Manara, E.; Chiurazzi, P .; Bertelli, M. PipeMAGI: An Integrated and Validated Workﬂow
+for Analysis of NGS Data for Clinical Diagnostics. Eur. Rev. Med. Pharmacol. Sci. 2019 ,23, 6753–6765. [CrossRef]
+15. Richards, S.; Aziz, N.; Bale, S.; Bick, D.; Das, S.; Gastier-Foster, J.; Grody, W.W.; Hegde, M.; Lyon, E.; Spector, E.; et al. Standards
+and Guidelines for the Interpretation of Sequence Variants: A Joint Consensus Recommendation of the American College of
+Medical Genetics and Genomics and the Association for Molecular Pathology. Genet. Med. 2015 ,17, 405–424. [CrossRef] [PubMed]
+16. Kopanos, C.; Tsiolkas, V .; Kouris, A.; Chapple, C.E.; Albarca Aguilera, M.; Meyer, R.; Massouras, A. VarSome: The Human
+Genomic Variant Search Engine. Bioinformatics 2019 ,35, 1978–1980. [CrossRef] [PubMed]
+17. Galli-Resta, L.; Piccardi, M.; Ziccardi, L.; Fadda, A.; Minnella, A.; Marangoni, D.; Placidi, G.; Resta, G.; Falsini, B. Early Detection of
+Central Visual Function Decline in Cone–Rod Dystrophy by the Use of Macular Focal Cone Electroretinogram. Invest. Ophthalmol.
+Vis. Sci. 2013 ,54, 6560. [CrossRef]
+18. Galli-Resta, L.; Falsini, B.; Rossi, G.; Piccardi, M.; Ziccardi, L.; Fadda, A.; Minnella, A.; Marangoni, D.; Placidi, G.; Cam-
+pagna, F.; et al. Bilateral Symmetry of Visual Function Loss in Cone–Rod Dystrophies. Invest. Ophthalmol. Vis. Sci. 2016 ,57, 3759.
+[CrossRef]
+19. Abed, E.; Placidi, G.; Calandriello, L.; Piccardi, M.; Campagna, F.; Bertelli, M.; Minnella, A.M.; Savastano, M.C.; Falsini, B.
+Correlation of Macular Focal Electroretinogram with Ellipsoid Zone Extension in Stargardt Disease. J. Ophthalmol. 2017 ,2017 , 1–7.
+[CrossRef]Diagnostics 2023 ,13, 850 12 of 12
+20. Galli-Resta, L.; Placidi, G.; Campagna, F.; Ziccardi, L.; Piccardi, M.; Minnella, A.; Abed, E.; Iovine, S.; Maltese, P .; Bertelli, M.; et al.
+Central Retina Functional Damage in Usher Syndrome Type 2: 22 Years of Focal Macular ERG Analysis in a Patient Population
+from Central and Southern Italy. Invest. Ophthalmol. Vis. Sci. 2018 ,59, 3827. [CrossRef]
+21. Savastano, M.C.; Falsini, B.; Cozzupoli, G.M.; Savastano, A.; Gambini, G.; De Vico, U.; Minnella, A.M.; Placidi, G.; Piccardi, M.;
+Rizzo, S. Retinal Pigment Epithelial and Outer Retinal Atrophy in Age-Related Macular Degeneration: Correlation with Macular
+Function. JCM 2020 ,9, 2973. [CrossRef]
+22. Lunghi, C.; Galli-Resta, L.; Binda, P .; Cicchini, G.M.; Placidi, G.; Falsini, B.; Morrone, M.C. Visual Cortical Plasticity in Retinitis
+Pigmentosa. Invest. Ophthalmol. Vis. Sci. 2019 ,60, 2753. [CrossRef] [PubMed]
+23. Bandah-Rozenfeld, D.; Littink, K.W.; Ben-Yosef, T.; Strom, T.M.; Chowers, I.; Collin, R.W.J.; den Hollander, A.I.; van den Born, L.I.;
+Zonneveld, M.N.; Merin, S.; et al. Novel Null Mutations in the EYS Gene Are a Frequent Cause of Autosomal Recessive Retinitis
+Pigmentosa in the Israeli Population. Invest. Ophthalmol. Vis. Sci. 2010 ,51, 4387. [CrossRef] [PubMed]
+24. Jespersgaard, C.; Fang, M.; Bertelsen, M.; Dang, X.; Jensen, H.; Chen, Y.; Bech, N.; Dai, L.; Rosenberg, T.; Zhang, J.; et al. Molecular
+Genetic Analysis Using Targeted NGS Analysis of 677 Individuals with Retinal Dystrophy. Sci. Rep. 2019 ,9, 1219. [CrossRef]
+25. Eisenberger, T.; Neuhaus, C.; Khan, A.O.; Decker, C.; Preising, M.N.; Friedburg, C.; Bieg, A.; Gliem, M.; Issa, P .C.; Holz, F.G.; et al.
+Increasing the Yield in Targeted Next-Generation Sequencing by Implicating CNV Analysis, Non-Coding Exons and the Overall
+Variant Load: The Example of Retinal Dystrophies. PLoS ONE 2013 ,8, e78496. [CrossRef] [PubMed]
+26. Sengillo, J.D.; Lee, W.; Nagasaki, T.; Schuerch, K.; Yannuzzi, L.A.; Freund, K.B.; Sparrow, J.R.; Allikmets, R.; Tsang, S.H. A Distinct
+Phenotype of Eyes Shut Homolog (EYS)-Retinitis Pigmentosa Is Associated with Variants Near the C-Terminus. Am. J. Ophthalmol.
+2018 ,190, 99–112. [CrossRef]
+27. Neveling, K.; Collin, R.W.J.; Gilissen, C.; van Huet, R.A.C.; Visser, L.; Kwint, M.P .; Gijsen, S.J.; Zonneveld, M.N.; Wieskamp, N.; de
+Ligt, J.; et al. Next-generation Genetic Testing for Retinitis Pigmentosa. Hum. Mutat. 2012 ,33, 963–972. [CrossRef] [PubMed]
+28. Lo, J.-E.; Cheng, C.-Y.; Yang, C.-H.; Yang, C.-M.; Chen, Y.-C.; Huang, Y.-S.; Chen, P .-L.; Chen, T.-C. Genotypes Inﬂuence Clinical
+Progression in EYS -Associated Retinitis Pigmentosa. Trans. Vis. Sci. Tech. 2022 ,11, 6. [CrossRef]
+29. Katagiri, S.; Akahori, M.; Hayashi, T.; Yoshitake, K.; Gekka, T.; Ikeo, K.; Tsuneoka, H.; Iwata, T. Autosomal Recessive Cone–Rod
+Dystrophy Associated with Compound Heterozygous Mutations in the EYS Gene. Doc. Ophthalmol. 2014 ,128, 211–217. [CrossRef]
+30. Littink, K.W.; Koenekoop, R.K.; van den Born, L.I.; Collin, R.W.J.; Moruz, L.; Veltman, J.A.; Roosing, S.; Zonneveld, M.N.;
+Omar, A.; Darvish, M.; et al. Homozygosity Mapping in Patients with Cone–Rod Dystrophy: Novel Mutations and Clinical
+Characterizations. Invest. Ophthalmol. Vis. Sci. 2010 ,51, 5943. [CrossRef]
+31. Suvannaboon, R.; Pawestri, A.R.; Jinda, W.; Tuekprakhon, A.; Trinavarat, A.; Atchaneeyasakul, L. Genotypic and Phenotypic
+Proﬁles of EYS Gene-Related Retinitis Pigmentosa: A Retrospective Study. Sci. Rep. 2022 ,12, 21494. [CrossRef] [PubMed]
+32. Majander, A.; Sankila, E.; Falck, A.; Vasara, L.K.; Seitsonen, S.; Kulmala, M.; Haavisto, A.; Avela, K.; Turunen, J.A. Natural
+History and Biomarkers of Retinal Dystrophy Caused by the Biallelic TULP1 Variant c.148delG. Acta Ophthalmol. 2022 , aos.15252.
+[CrossRef] [PubMed]
+33. Pfau, M.; von der Emde, L.; de Sisternes, L.; Hallak, J.A.; Leng, T.; Schmitz-Valckenberg, S.; Holz, F.G.; Fleckenstein, M.; Rubin,
+D.L. Progression of Photoreceptor Degeneration in Geographic Atrophy Secondary to Age-Related Macular Degeneration. JAMA
+Ophthalmol. 2020 ,138, 1026. [CrossRef] [PubMed]
+34. Fleckenstein, M.; Mitchell, P .; Freund, K.B.; Sadda, S.; Holz, F.G.; Brittain, C.; Henry, E.C.; Ferrara, D. The Progression of
+Geographic Atrophy Secondary to Age-Related Macular Degeneration. Ophthalmology 2018 ,125, 369–390. [CrossRef]
+35. Schmidt-Erfurth, U.; Waldstein, S.M.; Klimscha, S.; Sadeghipour, A.; Hu, X.; Gerendas, B.S.; Osborne, A.; Bogunovic, H. Prediction
+of Individual Disease Conversion in Early AMD Using Artiﬁcial Intelligence. Invest. Ophthalmol. Vis. Sci. 2018 ,59, 3199.
+[CrossRef]
+36. Gigon, A.; Mosinska, A.; Montesel, A.; Derradji, Y.; Apostolopoulos, S.; Ciller, C.; De Zanet, S.; Mantel, I. Personalized Atrophy
+Risk Mapping in Age-Related Macular Degeneration. Trans. Vis. Sci. Tech. 2021 ,10, 18. [CrossRef]
+37. Chiang, J.N.; Corradetti, G.; Nittala, M.G.; Corvi, F.; Rakocz, N.; Rudas, A.; Durmus, B.; An, U.; Sankararaman, S.; Chiu, A.; et al.
+Automated Identiﬁcation of Incomplete and Complete Retinal Epithelial Pigment and Outer Retinal Atrophy Using Machine
+Learning. Ophthalmol. Retin. 2022 ,7, S246865302200392X. [CrossRef]
+38. Garcia-Delgado, A.B.; Valdes-Sanchez, L.; Morillo-Sanchez, M.J.; Ponte-Zuñiga, B.; Diaz-Corrales, F.J.; de la Cerda, B. Dissecting
+the Role of EYS in Retinal Degeneration: Clinical and Molecular Aspects and Its Implications for Future Therapy. Orphanet. J.
+Rare Dis. 2021 ,16, 222. [CrossRef]
+Disclaimer/Publisher’s Note: The statements, opinions and data contained in all publications are solely those of the individual
+author(s) and contributor(s) and not of MDPI and/or the editor(s). MDPI and/or the editor(s) disclaim responsibility for any injury to
+people or property resulting from any ideas, methods, instructions or products referred to in the content.

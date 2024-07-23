@@ -1,0 +1,1134 @@
+Murro  et al. Orphanet Journal of Rare Diseases          (2023) 18:223  
+https://doi.org/10.1186/s13023-023-02798-z
+REVIEW Open Access
+© The Author(s) 2023. Open Access  This article is licensed under a Creative Commons Attribution 4.0 International License, which 
+permits use, sharing, adaptation, distribution and reproduction in any medium or format, as long as you give appropriate credit to the 
+original author(s) and the source, provide a link to the Creative Commons licence, and indicate if changes were made. The images or 
+other third party material in this article are included in the article’s Creative Commons licence, unless indicated otherwise in a credit line 
+to the material. If material is not included in the article’s Creative Commons licence and your intended use is not permitted by statutory 
+regulation or exceeds the permitted use, you will need to obtain permission directly from the copyright holder. To view a copy of this 
+licence, visit http:// creat iveco mmons. org/ licen ses/ by/4. 0/. The Creative Commons Public Domain Dedication waiver (http:// creat iveco  
+mmons. org/ publi cdoma in/ zero/1. 0/) applies to the data made available in this article, unless otherwise stated in a credit line to the data.Orphanet Journal o f
+Rare Diseases
+A multidisciplinary approach to inherited 
+retinal dystrophies from diagnosis to initial 
+care: a narrative review with inputs from clinical 
+practice
+Vittoria Murro1,2†, Sandro Banfi3,4†, Francesco Testa5*†  , Giancarlo Iarossi6†, Benedetto Falsini7, Andrea Sodi2, 
+Sabrina Signorini8, Achille Iolascon9,10,11, Roberta Russo10,11, Dario Pasquale Mucciolo1,12, Roberto Caputo13, 
+Giacomo Maria Bacci13, Sara Bargiacchi14, Simona Turco15, Stefania Fortini15 and Francesca Simonelli5 
+Abstract 
+Background Non-syndromic inherited retinal dystrophies (IRDs) such as retinitis pigmentosa or Leber congenital 
+amaurosis generally manifest between early childhood and late adolescence, imposing profound long-term impacts 
+as a result of vision impairment or blindness. IRDs are highly heterogeneous, with often overlapping symptoms 
+among different IRDs, and achieving a definite diagnosis is challenging. This narrative review provides a clinical 
+overview of the non-syndromic generalized photoreceptor dystrophies, particularly retinitis pigmentosa and Leber 
+congenital amaurosis. The clinical investigations and genetic testing needed to establish a diagnosis are outlined, 
+and current management approaches are discussed, focusing on the importance of the involvement of an interdisci-
+plinary team from diagnosis and initial care to long-term follow-up and support.
+Results The effective management of IRDs requires a multidisciplinary, and ideally interdisciplinary, team of experts 
+knowledgeable about IRDs, with experienced professionals from fields as diverse as ophthalmology, neuropsychiatry, 
+psychology, neurology, genetics, orthoptics, developmental therapy, typhlology, occupational therapy, otolaryngol-
+ogy, and orientation and mobility specialties. Accurate clinical diagnosis encompasses a range of objective and sub -
+jective assessments as a prerequisite for the genetic testing essential in establishing an accurate diagnosis necessary 
+for the effective management of IRDs, particularly in the era of gene therapies. Improvements in genome sequencing 
+techniques, such as next-generation sequencing, have greatly facilitated the complex process of determining IRD-
+causing gene variants and establishing a molecular diagnosis. Genetic counseling is essential to help the individual 
+and their family understand the condition, the potential risk for offspring, and the implications of a diagnosis on visual 
+prognosis and treatment options. Psychological support for patients and caregivers is important at all stages of diag-
+nosis, care, and rehabilitation and is an essential part of the multidisciplinary approach to managing IRDs. Effective 
+communication throughout is essential, and the patient and caregivers’ needs and expectations must be acknowl-
+edged and discussed.
+†Vittoria Murro, Sandro Banfi, Francesco Testa and Giancarlo Iarossi 
+contributed equally.
+*Correspondence:
+Francesco Testa
+francesco.testa@unicampania.it
+Full list of author information is available at the end of the articlePage 2 of 13 Murro et al. Orphanet Journal of Rare Diseases          (2023) 18:223 
+Conclusion As IRDs can present at an early age, clinicians need to be aware of the clinical signs suggesting visual 
+impairment and follow up with multidisciplinary support for timely diagnoses to facilitate appropriate therapeutic 
+or rehabilitation intervention to minimize vision loss.
+Keywords  Inherited retinal diseases, Visual function, Clinical diagnosis, Molecular diagnosis, Multidisciplinary, Early-
+onset retinal dystrophy, Leber congenital amaurosis, Retinitis pigmentosa
+Introduction
+Non-syndromic inherited retinal dystrophies (inherited 
+retinal diseases; IRDs) form a large family of rare diseases 
+characterized by the progressive dysfunction and loss of 
+photoreceptors and retinal pigment epithelium (RPE), 
+leading to severe impairment of vision or blindness [1–4]. 
+The patterns of inheritance can be autosomal recessive, 
+autosomal dominant, X-linked, or even mitochondrial [2, 
+5].
+Two generalized photoreceptor dystrophies are more 
+likely to be encountered by pediatricians and ophthal -
+mologists in a routine clinical setting: retinitis pig -
+mentosa (RP), the most common IRD [6], and Leber 
+congenital amaurosis (LCA), which is one of the most 
+severe forms [7]. The onset of these conditions is usually 
+between early childhood and late adolescence [3, 8–10].
+Due to disease heterogeneity and the overlap of mani -
+festations among different IRDs, achieving a definite 
+clinical diagnosis is often difficult and requires a multi -
+disciplinary effort combining several different assessment 
+techniques [7, 11]. Determining IRD-causing gene vari -
+ants has also proven complex. However, recent improve -
+ments in genome sequencing techniques (notably, the 
+introduction of next-generation sequencing, NGS) have 
+considerably advanced the molecular diagnosis of IRDs 
+[10, 12, 13]. Consequently, establishing the genotype of 
+IRDs is increasingly considered an essential component 
+of the diagnostic workup [8]. The approval in 2017 of 
+voretigene neparvovec, a gene therapy indicated for the 
+treatment of adult and pediatric patients with “vision loss 
+due to inherited retinal dystrophy caused by confirmed 
+biallelic RPE65 mutations” [14, 15], has raised great 
+expectations and provided further support for the need 
+for molecular diagnosis [12, 16, 17].
+The field of IRDs is rapidly evolving, as other gene ther -
+apies are under development [1, 18]. These changes pose 
+new challenges to clinicians treating patients with IRDs, 
+including pediatricians, child neuropsychiatrists, and 
+general ophthalmologists. It has become apparent that 
+best-practice care for patients necessitates the involve -
+ment of a broad multidisciplinary team experienced in 
+the management of IRDs and including specialists in 
+retinal diseases, the genetics of hereditary retinal dystro -
+phies, vitreoretinal surgery, molecular biology, genetic 
+counseling, patient support, and other technical and bioinformatic aspects of IRDs. In fact, the ideal approach 
+should go beyond the multidisciplinary approach, in 
+which team members work independently on a common 
+issue within defined role responsibilities, to an interdisci -
+plinary one, where teams made up of various disciplines 
+work collaboratively towards a shared, patient-centered 
+outcome, with each discipline building on the expertise 
+of the others.
+This narrative review aims to provides a clinical over -
+view of the non-syndromic generalized photorecep -
+tor dystrophies, in particular RP and LCA. The clinical 
+investigations and genetic testing needed to establish a 
+confirmed diagnosis will be outlined, and current man -
+agement approaches will be discussed, focusing on the 
+importance of the involvement of an interdisciplinary 
+team from diagnosis and initial care through to long-
+term follow-up and support.
+Clinical overview
+Retinitis pigmentosa and LCA are the two IRDs more 
+commonly encountered in clinical practice. Accurate 
+clinical diagnosis of RP and LCA, as with other IRDs, 
+remains a key step in determining the etiopathogenesis of 
+IRDs and effectively managing these conditions. IRDs are 
+highly heterogeneous in phenotypes and genotypes [2, 
+19–21], and their diagnosis is complicated by the diver -
+sity of clinical presentations caused by mutations in a sin -
+gle gene or overlapping clinical phenotypes that can be 
+associated with mutations in different causative genes. 
+Therefore, it is recommended that the clinical diagnosis 
+is refined as much as possible using multiple assessment 
+tools. Patients and parents will have expectations that 
+a definitive diagnosis will be established and accurate 
+information offered on prognosis, risk of genetic trans -
+mission within the family, eligibility for treatment, or 
+admission to ongoing clinical trials.
+Retinitis pigmentosa
+Retinitis pigmentosa is the most common IRD, with a 
+worldwide prevalence of approximately 1:4000 [6, 22]. 
+The term describes a heterogeneous group of progressive 
+retinal dystrophies characterized by a primary degenera -
+tion of rod photoreceptors that progresses to the loss of 
+cone photoreceptors. Often a loss of night vision will Page 3 of 13
+ Murro et al. Orphanet Journal of Rare Diseases          (2023) 18:223 
+ 
+be the first symptom the patient notices, followed by 
+progressive concentric reduction of the visual field, ulti -
+mately resulting in central vision loss. However, there 
+is usually relative preservation of macula function until 
+an advanced stage of the disease [6, 23]. The majority 
+of forms of RP are associated with mutations of a single 
+gene and display autosomal dominant, autosomal reces -
+sive, X-linked or, more rarely, mitochondrial patterns of 
+inheritance [5, 6]. Patients with X-linked RP , represent -
+ing between 5 and 15% of patients with RP , tend to have 
+a more severe disease course than those with autosomal 
+recessive RP (50–60% of RP patients) [6]. The remain -
+ing 30–40% of RP patients have an autosomal dominant 
+form, which is associated with a better outcome in terms 
+of retaining central vision [6].
+Although the rhodopsin (RHO ) gene was the first gene 
+implicated in autosomal RP , the involvement of muta -
+tions in over 100 genes has since been identified [24], 
+and genetic overlap with other IRDs further complicates 
+the classification of RP [6]. The high number of genetic 
+mutations associated with RP accounts for the wide 
+heterogeneity exhibited by patients with the disease, 
+with additional implicated genes progressively added 
+as research into RP continues. However, RHO  remains 
+the gene most associated with autosomal dominant 
+RP , accounting for more than 30% of cases, followed by 
+PRPH2 , PRPF31 , and RP1 [6].
+Fundus abnormalities usually affect both eyes and are 
+symmetrical; they typically show bone spicule pigmen -
+tation, occurring mainly in the periphery (and/or mid-
+periphery), narrowing of the retinal vessels, and a waxy 
+optic nerve head pallor. These signs are hallmarks of the 
+condition [6, 25]. During the early stages of RP , when 
+bone spicule pigment deposition is absent or sparse, 
+vascular attenuation is minimal, and the appearance of 
+the optic disc is normal, the fundus may appear normal 
+on examination. Additionally, before the appearance of 
+the typical abnormalities of RP , nonspecific abnormali -
+ties such as vitreous changes (cellophane aspect due to 
+increased reflexes from the internal limiting membrane, 
+broadening of the foveal reflex, vitreous condensation), 
+and small, discrete, pale-colored local lesions may be 
+present at the level of the RPE in some patients. Further -
+more, the bone spicules at the fundus typical of RP do 
+not develop in all patients, and the degree of hyperpig -
+mentation can vary among patients. Macular complica -
+tions may develop in RP , including epiretinal membrane 
+formation, macular hole, and cystoid macular edema 
+(CME), reported in up to 50% of patients [26].
+The progression of RP is undertaken using visual 
+field analysis, visual acuity, fundus autofluorescence 
+(FAF) photography, and optical coherence tomography 
+(OCT). Multimodal imaging is increasingly being used to monitor the progression and severity of the disease. Sev -
+eral potential biomarkers have been identified, including 
+the width of the ellipsoid zone retinal thinning on OCT 
+or the diameter of the perifoveal hyperautofluorescent 
+ring [27–30].
+Leber congenital amaurosis
+Leber congenital amaurosis represents the most severe 
+form of IRD in infancy. It is typically characterized by 
+an early onset within the first months of life and from as 
+early as six weeks after birth with a profound visual def -
+icit, absence of fixation, and a range of other signs and 
+symptoms, including photophobia, nyctalopia, nystag -
+mus, roving eye movements, and the oculodigital sign, 
+together with a highly variable appearance of the fundus 
+[7, 31, 32]. A milder form, namely early-onset severe reti -
+nal dystrophy/severe early childhood onset retinal dys -
+trophy (EOSRD/SECORD), usually presents after infancy 
+and within the first five years of age, with a less severe 
+impact on visual acuity and relatively more preserved full 
+field electroretinogram (ffERG) responses according to 
+different genotype–phenotype correlations [32]. Nota -
+bly, despite a significant overlap of causative genes for the 
+two phenotypes, mutations in some genes like GUCY2D, 
+AIPL1, and CEP290 are more frequently associated with 
+LCA, whereas others such as RPE65, LR AT,  and RDH12 
+are commonly associated with EOSRD [33]. The ethnic 
+background of patients may influence the frequency of 
+mutations, with mutations in CEP290, GUCY2D, and 
+RPE65 showing a prevalence of approximately 10% or 
+higher, generally more frequent in Caucasian populations 
+[33–35]. Conversely, CRB1 mutations, associated with 
+13.6% of LCA cases, have been reported as the leading 
+causative genetic defect in the Chinese population, fol -
+lowed by mutations in GUCY2D [36]. LCA represents 
+approximately 5% of all IRDs, with a prevalence ranging 
+from 1/30,000 to 1/81,000 [7].
+The most common refractive error is hyperopia, par -
+ticularly when associated with mutations in GUCY2D; 
+high myopia has also been reported suggesting an 
+impaired process of emmetropization [31]. Associated 
+ocular features are keratoconus and juvenile cataracts 
+[7]. Gene mutation-dependent renal and olfactory dys -
+function have also been reported [31]. Fundus appear -
+ance presents high variability ranging from normal to 
+severely disrupted retinal architecture that may include 
+peripheral pigmentary retinopathy or macular atrophy 
+[7]. Electrophysiological tests may be key in assessing 
+patients with suspected LCA presenting nystagmus and 
+apparent normal fundus early in life; ffERG responses 
+are usually undetectable or severely reduced, although 
+a residual cone response has been reported in GUCY2D 
+mutation and a residual rod response in RPE65 [37]. Page 4 of 13 Murro et al. Orphanet Journal of Rare Diseases          (2023) 18:223 
+The improvements in retinal imaging technologies like 
+spectral domain OCT (SD-OCT) have revealed the spe -
+cific retinal structural alterations associated with a par -
+ticular genotype, allowing a better phenotype-genotype 
+characterization.
+In specific genetic mutations, such as GUCY2D, 
+CEP290, and RPE65, the central foveal structure may be 
+relatively preserved, which paves the way to potential 
+therapeutic strategies for genetic remodeling. The identi -
+fied genes account for about three-quarters of LCA cases, 
+and recent data from the Retinal Information Network 
+lists 26 genes associated with LCA [24]. The majority of 
+causative mutations in LCA have an autosomal recessive 
+pattern of inheritance (except for CRX , IMPDH1, and 
+OTX2 ) and can affect all of the molecular mechanisms 
+involved in vision: phototransduction (GUCY2D, AIPL1, 
+RD3, KCNJ13), retinoid cycle (RPE65, LR AT  , RDH12), cil -
+iary transportation (LCA5 , CEP290, RPGRIP1, SPATA7 , 
+TULP1, IQCB1), photoreceptor morphogenesis (CRX , 
+CRB1, GDF6, PRPH2 ), guanine synthesis (IMPDH1), and 
+photoreceptor differentiation (OTX2 ) [37]. However, the 
+underlying mechanism implicated in the LCA phenotype 
+of the recently-identified mutations in USP45 (LCA 19) 
+and other genes remains to be clarified [38].
+Multidisciplinary care of patients with inherited 
+retinal dystrophies
+Overview
+When a suspicion of an IRD is identified, the initial com -
+prehensive neurological, ophthalmologic, and perception 
+tests to identify the patient’s clinical profile will encom -
+pass the development profile of the child together with 
+the etiology of the visual disability, functional vision and 
+also neuropsychiatric aspects such as cognition, learn -
+ing, and socio-emotional aspects. The etiopathogenetic 
+diagnosis of the visual deficit begins the evaluation of any 
+associated neurological or systemic symptoms related to 
+syndromic forms of retinal dystrophy and is a prerequi -
+site for genetic testing.
+An accurate determination of the patient’s visual func -
+tion is critical, and objective and subjective measures 
+are used in combination. The diagnostic process should 
+involve an accurate medical history, with inquiries 
+about the existence of other family members with visual 
+impairment or systemic diseases (e.g., hearing loss, kid -
+ney diseases); assessment of visual acuity; fundus exami -
+nation; evaluation of the extent of vision loss via a visual 
+field test (Goldmann visual field); evaluation of retinal 
+activity using ffERG; retina assessment using imaging 
+techniques, namely OCT and FAF [6, 11, 39]. Although 
+ERG and Goldmann perimetry continue to be crucial 
+functional tests, retina imaging with OCT and FAF have 
+contributed significantly to our understanding of the retinal structure and degeneration and represent essen -
+tial diagnostic tools. A newer tool, the full-field stimulus 
+threshold (FST), an alternative test for assessing retinal 
+function in patients where ERG is not able to be per -
+formed or where ERG responses are undetectable, is also 
+making its way into clinical practice as a valuable tool for 
+further diagnostic investigations, such as the evaluation 
+of treatment effects [40], and is now widely available in 
+centers that manage IRDs [9].
+An ongoing exchange between child neuropsychia -
+trists, ophthalmologists, pediatricians, and geneticists is 
+crucial to establish and better define the different steps 
+of diagnosis jointly. Additional investigations such as 
+brain magnetic resonance imaging (MRI), electroen -
+cephalogram (EEG), metabolic examinations, abdomen 
+ultrasound, in particular in the presence of neurological 
+and systemic associated symptoms, and genetic analysis 
+may also be considered in order to differentiate non-syn -
+dromic from syndromic forms, such as ciliopathies (e.g., 
+Joubert’s syndrome) [41–43], and peroxisomal and mito -
+chondrial diseases [44, 45]. Neurological symptoms such 
+as hypotonia, neuromotor deficit, ataxia, epilepsy, and 
+auditory, skeletal, renal and hepatic abnormalities can be 
+further evaluated to confirm a diagnosis.
+Clinical investigations
+(a) Perimetry
+In the early stages of IRD photopic visual field may 
+appear complete. However, small relative scotomata may 
+be located in the region between 20° and 40° from the fix -
+ation point and will fuse progressively, with the appear -
+ance of a relatively dense annular scotoma in the area 
+between 20° to 45° from the fixation point [25]. During 
+the course of the disease, the annular scotoma extends 
+toward both the center and the periphery. Eventually, 
+tunnel vision will develop, with a central field between 
+5° and 10° around the fixation point. Kinetic perimetry is 
+most suitable for the assessment of peripheral visual field 
+loss.
+(b) Electroretinography
+The ERG technique measures the electrical activity of 
+retinal photoreceptor cells and provides information on 
+the activity of rod and cone cells in response to light. 
+Decreased electrical activity indicates a loss of photore -
+ceptor function.
+The use of ffERG for adults and, when necessary, 
+using abbreviated protocols in children, represents a 
+fundamental tool for diagnosing IRDs supported by 
+the guidelines of the International Society for Clinical Page 5 of 13
+ Murro et al. Orphanet Journal of Rare Diseases          (2023) 18:223 
+ 
+Electrophysiology of Vision (ISCEV) (http:// www. iscev.  
+org/ stand  ards). It reveals the characteristic loss of pho -
+toreceptor function, which occurs principally among 
+rod photoreceptors rather than cones in the early 
+stages of the disease [6 ]. Indeed, by comparing the loss 
+of rod- and cone-mediated responses, one can distin -
+guish between a disease involving primary rod photo -
+receptors and secondarily cones, like typical RP and 
+congenital stationary night blindness (CSNB), from a 
+primary dysfunction and degeneration of both rods and 
+cones, as in cone-rod dystrophies, and from a selective 
+dysfunction/degeneration of cones with no or minimal 
+involvement of rods, as in cone dystrophies, achro -
+matopsia, and blue cone monochromatism.
+ERG abnormalities precede occur in the early stages, 
+preceding night blindness symptoms and fundus abnor -
+malities in RP . An undetectable or at least severely 
+reduced ERG recording is typical in LCA [6 , 31, 32]. 
+ERG is also important for diagnosing atypical forms 
+without pigments from congenital hemeralopia. As the 
+disease progresses, ffERG may become non-record -
+able despite a residual visual field, in which case FST 
+provides a fast test while circumventing the fixation 
+requirement. Alternatively, a multifocal ERG (mfERG) 
+may still be able to elicit responses and help monitor 
+disease progression. Delayed responses in the mfERG 
+may predict visual field loss in a retina that otherwise 
+appears to be healthy [6 ].
+(c) Optical coherence tomography
+Optical coherence tomography allows the visualization 
+of the thinning or disappearance of retinal layers, includ -
+ing the photoreceptor layer of the posterior pole. The use 
+of OCT in IRDs has been well described, particularly in 
+RP , where histopathological changes are first shown by 
+a shortening of the photoreceptor outer segments [46], 
+with confirmation seen on SD-OCT imaging, that shows 
+disorganization of the outer retinal layers, first at the 
+interdigitation zone, then the ellipsoid zone (EZ), and 
+finally occurring at the external limiting membrane [47, 
+48]. In particular, in sector RP , OCT shows the differ -
+ences between the affected and non-affected retinal areas 
+[49].
+Disruption of the EZ zone is associated with a worse 
+prognosis in RP . More specifically, the restoration of nor -
+mal vision in terms of visual acuity can be expected in 
+patients with an EZ width of approximately 600 μm [50]. 
+As RP progresses, there is a thinning of the outer seg -
+ments accompanied by a decrease in the thickness of the 
+outer nuclear layer (ONL), the location of photorecep -
+tor cell nuclei. In the late stages of RP , there is a complete 
+loss of both the outer segment and the ONL [6, 51].In patients with RP , hyperreflective foci (HRF) are fre -
+quently found in the outer layers of the central macula, at 
+the edge of the atrophic outer retina, and in the choroid, 
+associated with a decrease in macular thickness accom -
+panied by visual impairment. The concomitant presence 
+of HRF could lead to more profound visual impair -
+ment and marked visual decline during monitoring [52]. 
+OCT imaging also has a role in diagnosing other macu -
+lar abnormalities, such as macular edema and atrophic 
+changes, that are present in up to 50% of patients with RP 
+[47, 48, 53].
+Changes in superficial and deep vascular density and 
+enlarged foveal avascular zone have been demonstrated 
+with OCT angiography (OCT-A) [54], which also allows 
+the study of the choroidal tissue, which it is not possible 
+to evaluate accurately using other imaging techniques: 
+choroidal thickness is significantly lower in the RP in 
+comparison normal subjects [55].
+In some LCA genotypes, OCT studies may ini -
+tially show relatively normal outer retinal morphology, 
+whereas normal or subnormal retinal and ONL thickness 
+may be observed in other patients; viable photoreceptor 
+the presence of viable photoreceptors appears to persist 
+until relatively later in the disease process [31, 32].
+(d) Fundus autofluorescence imaging
+Fundus autofluorescence is an essential diagnostic tool 
+for diagnosing and monitoring IRDs that can detect oth -
+erwise-undetectable disruptions in RPE metabolism.
+Lipofuscin in the RPE is the principal source of the 
+autofluorescent signal using short-wavelength (SW)-FAF 
+(blue or green light). Hyperautofluorescence is correlated 
+with metabolic dysfunction of the retina, and hypoauto -
+fluorescence is correlated with atrophy of the RPE [56–
+58] (Fig.  1). An abnormal foveal ring or curvilinear arc of 
+increased autofluorescence not visible on ophthalmos -
+copy is present in 50–60% of RP patients [48, 57]. Such an 
+hyperautofluorescent ring can represent a transition zone 
+between normal and abnormal retinal function, with 
+relatively normal function within the ring and absent 
+function outside it. More specifically, the hyperautofluo -
+rescent ring denotes an area of outer segment dysgenesis 
+and lipofuscin production, with progressive retinal thin -
+ning usually associated with loss of the ellipsoid zone at 
+(or close to) the inner edge of the ring [58] (Fig.  2). The 
+diameter of the ring grows smaller over time, in paral -
+lel with the reduction of the visual field [6, 48]. Recently, 
+ultra-wide field (UWF) imaging allowed the evaluation 
+of the FAF abnormalities of the retinal periphery and 
+revealed that the hypoautofluorescent areas at the FAF 
+examination co-localize with the visual field scotomata 
+seen on Goldmann perimetry in patients with RP [59, Page 6 of 13 Murro et al. Orphanet Journal of Rare Diseases          (2023) 18:223 
+60]. Other autofluorescence patterns, such as central 
+hyperautofluorescence, triple hyperautofluorescent rings 
+and paravascular hyperautofluorescent alterations, can 
+be observed in addition to the hyperfluorescent ring [57, 
+60, 61]. Certain retinal degenerations may also exhibit an 
+overall low FAF signal due to an enzymatic dysfunction 
+of the visual cycle, such as RPE65 Leber congenital amau -
+rosis and fundus albipunctatus [58, 6258, 62].
+Molecular diagnosis
+The goal of genetic testing is to achieve a molecular 
+diagnosis that allows a proper genotype–phenotype 
+correlation while confirming the clinical diagnosis and 
+distinguishing the IRD from other forms of retinal dis -
+ease. In addition to providing a more accurate progno -
+sis of the likely visual outcome, an accurate molecular 
+diagnosis facilitates developing appropriate follow-up 
+and rehabilitation, establishing eligibility for available 
+gene therapies, and estimating recurrence risk for future 
+offspring and other family members [2, 3, 8, 9]. The 
+proband’s parents should also be included in genetic test -
+ing when available. A molecular diagnosis also represents 
+the basis for planning effective genetic counseling for 
+affected families.Recent advances in molecular genetic techniques, such 
+as targeted multi-gene NGS sequencing using large gene 
+panels, have greatly aided and simplified molecular diag -
+nosis. However, the considerable variability and overlap 
+of disease presentation in patients with IRDs still pre -
+sent challenges in achieving an accurate molecular diag -
+nosis. Genetic laboratories must maintain the high level 
+of competence essential to provide accurate genotypic 
+characterization.
+Since its introduction, NGS-based genetic testing has 
+revolutionized the diagnosis of IRDs by facilitating the 
+identification of causative genes responsible for the dis -
+eases [10, 12, 13, 16]. It is now possible to identify the 
+pathogenic variants in up to 70%, or even more, of cases. 
+As of October 2022, over 280 genes causing IRD had 
+been identified [24]. The identified genes often encode 
+key molecules of retinal phototransduction and the visual 
+cycle.
+In the past years, a problem in identifying emerging 
+pathogenic variants was the lack of consensus between 
+laboratories. It was estimated that laboratories disa -
+greed in interpreting a variant in 17% of cases [63]. To 
+overcome this problem, guidelines for interpreting 
+sequence variants issued by the American College of 
+Fig. 1 Wide-field fundus photographs (A, B) and autofluorescence imaging (C, D) of the right and left eye of a patient with retinitis pigmentosa. 
+Wide-field fundus photographs showing widespread retinal dystrophy with pigment clumping, narrowing of retinal vessels and pale optic disc. 
+Fundus autofluorescence showing hyperautofluorescence ring at the macular region, widespread hypoautofluorescence abnormalities in mid and 
+far periphery and small optic disc drusen in both eyesPage 7 of 13
+ Murro et al. Orphanet Journal of Rare Diseases          (2023) 18:223 
+ 
+Medical Genetics and Genomics and the Association of 
+Molecular Pathology [64] provide criteria for the inter -
+pretation of the variant pathogenicity (for example, allele 
+frequency > 5%, in general, suggests benignity) [64]. How -
+ever, some exceptions exist (for example, mild ABCA4 
+variants with higher allele frequency values have been 
+identified in Stargardt disease) [65]. Several computa -
+tional predictive programs have been developed to aid in 
+interpreting sequence variants [64, 66, 67]. They provide 
+algorithms that help to determine the effect of a sequence 
+variant at the nucleotide and amino acid level, allow -
+ing the effect of the genetic variant on the primary and 
+alternative gene transcripts to be determined, along with 
+other genomic elements, including information on the 
+potential impact of the variant on the protein function.
+Variants that fail to meet the criteria for interpretation 
+are classified as “of uncertain significance” (VUS) [66]. 
+The resolution of VUS cases requires segregation analy -
+sis and collaboration between centers. Crosschecking information gathered from genetic testing across dif -
+ferent databases (Human Genome Mutation Database, 
+gnomAD, VarSome) is highly recommended. Variant 
+classification is dynamic, and classified variants need 
+periodic re-evaluation [68, 69].
+There remain limitations and unresolved issues relating 
+to genetic testing for IRDs. For about 30–40% of patients 
+with an IRD, the genetic cause remains unclear [70]. The 
+reasons for cases of genetically unsolved IRD include 
+the presence of mutations undetectable/uninterpret -
+able by NGS. For example, highly repetitive sequences 
+that require a dedicated Sanger approach, deep intronic 
+sequences that affect splicing mechanisms, small dele -
+tions/duplications that in some cases can also have an 
+impact on topological-associated domains in the genome, 
+VUS, unexpected phenotype-genotype correlations, and 
+novel IRD genes [8, 12, 71]. The interpretation of VUS 
+is challenging [72, 73] and will continue to be refined 
+through further research.
+Genetic counseling
+Genetic counseling allows the individual and families to 
+understand the condition and the potential risk for off -
+spring, aids informed reproductive decisions and helps 
+explain the implications of the diagnosis on visual prog -
+nosis and treatment options. While counseling after 
+genetic testing is essential to explain and interpret the 
+results obtained, patients and their families should also 
+receive counseling before testing so that the advantages 
+and potential disadvantages of a genetic test are under -
+stood in advance. Ideally, counseling by at least a medical 
+geneticist with in-depth knowledge of the genetic aspects 
+of IRDs, supported where possible by a genetic counse -
+lor, forms an effective two-way communication process 
+that helps those involved to understand the information, 
+make appropriate choices about the course of action that 
+needs to be followed and facilitates coming to terms with 
+the condition.
+As patients’ expectations and patient-reported out -
+comes are increasingly being considered in clinical trial 
+design in rare diseases [74, 75], it is important to inform 
+patients clearly, understand their expectations, and be 
+available for and ready to answer their questions [74, 76]. 
+A genetic test usually raises many questions in the minds 
+of a child’s parents. Without creating unrealistic expecta -
+tions, it should be explained that the genetic test is part 
+of the therapeutic process and may reveal the eligibility 
+for available and/or future treatments. The time taken 
+to provide effective genetic counseling is rewarded by a 
+greater sense of control over the condition for the patient 
+and their family.
+Fig. 2 Fundus photography and optical coherence tomography 
+(OCT)/ fundus autofluorescence (FAF) of pediatric patients 
+showing silent fundus images, but evocative OCT and FAF picture 
+of early-onset inherited retinal dystrophy (IRD). A, B: Fundus image 
+and FAF of early onset IRD in an 8-year-old child with rod-cone 
+dystrophy. Note the hyperautofluorescence ring at the posterior 
+pole in FAF. C, D: Fundus image and OCT scan of a 5-year-old 
+child with early-stage ABCA4 maculopathy. Note the thickening 
+of the outer limiting membrane (red arrows). E, F : Fundus image 
+of a 10-year-old child (brother of C, D) showing silent fundus image 
+but clear altered ellipsoid zone and macular atrophyPage 8 of 13 Murro et al. Orphanet Journal of Rare Diseases          (2023) 18:223 
+Disease management
+The multidisciplinary (or interdisciplinary) approach is 
+based on the biopsychosocial model (Fig.  3), which uses 
+biological, psychological, and sociological factors and 
+their complex interrelationships to understand the psy -
+chophysical health of the patient and guide the choice 
+of therapeutic intervention [77, 78]. It provides a uni -
+tary and global approach to the person and represents a 
+good platform for an interdisciplinary approach between 
+the various professions involved. IRDs require such an 
+approach from the developmental age and throughout 
+youth and young adulthood. The professionals involved 
+may differ at different stages of the subject’s age, and not 
+all participate at the same time in the process of care. In 
+reality, IRDs are chronic conditions in which the needs 
+of the person, family members, and caregivers change 
+across the different phases of life and with the progres -
+sion of the disease. Caregiving of individuals with IRDs 
+is long-term and needed for the person’s entire lifetime.
+The individual must be placed at the center of an ideal 
+circle around which the various professionals revolve 
+(Fig.  4) while, at the same time, the person participates in 
+their own course of treatment. It is important that emo -
+tional support is provided to the child and caregivers at 
+diagnosis and that a coordinated approach is followed to 
+guide the family through all stages of care and habilita -
+tion or rehabilitation and to facilitate the registration 
+process. This is designed to ensure appropriate benefits 
+and support are issued. In Italy, this role may be per -
+formed by genetic counselors and low vision specialists, although specific Eye Clinic Liaison Officers may form 
+part of the multidisciplinary team in some countries.
+This is person-centered care, a method of approach -
+ing illness and treatment recommended by the World 
+Health Organization [79], which sees health as an inter -
+play of physical, mental, and social well-being and not 
+merely the absence of disease or infirmity. This concept 
+of health correlates closely with perceived quality of 
+life. In all chronic conditions, the goal of treatment is to 
+contain the damage, slow, if possible, the progression of 
+the disease, and improve the person’s well-being.
+Caring for children with IRDs demands close col -
+laboration among an interdisciplinary team that may 
+include pediatricians, optometrists, ophthalmologists, 
+orthoptists, low vision specialists, medical geneticists, 
+child neuropsychiatrists, psychologists, developmental 
+therapists, typhlologists, educators, occupational thera -
+pists, orientation and mobility specialists, habilitators 
+(for the very young) and rehabilitators (for older chil -
+dren). The professionals involved should have in-depth 
+knowledge of the genetic aspects of IRDs and the man -
+agement of vision disorders beyond their knowledge of 
+syndromic disorders. This approach, recommended for 
+diagnosis, follow-up, and rehabilitation management, is 
+illustrated in Fig. 4 .
+Particularly in the first years of life, the functional 
+impact of vision impairment can manifest itself not 
+only with visual clinical signs such as nystagmus, low 
+vision, and abnormal behavior to light but also with 
+clinical signs regarding development such as reduced 
+emotional facial expression, motor initiative, and inter -
+active proactivity, stereotypies, lack of interest for 
+the environment. In older children, it is important to 
+look also for behavioral problems, reading difficulties, 
+reduced mobility, navigation difficulties (e.g., in dif -
+ferent light conditions of the environment), a cautious 
+attitude in orienting themselves in new spaces or inter -
+acting with peers that could be related to the vision 
+impairment.
+Vision plays a key role in a child’s overall development. 
+From this perspective, it is clear that congenital and/or 
+early-onset visual disorders could jeopardize the struc -
+turing of crucial functions: communicative-relational 
+(from the very earliest stages of the mother–child bond -
+ing process), cognitive-neuropsychological, motor (pos -
+tural control, action) [80] and spatial. The development 
+of the visually-impaired child has peculiarities and signs 
+of risk that are important to recognize in order to set up 
+good management, and it is also very important to know 
+not only how the eye functions but also how the person 
+functions [81]. We need to consider tasks such as read -
+ing, mobility, face recognition, social context, and qual -
+ity of life. These reasons reinforce the need to involve B
+Fig. 3 The biopsychosocial model provides a unitary and global 
+approach to the person and represents a good platform 
+for an interdisciplinary approach between the various professions 
+involved in managing patients with inherited retinal diseasesPage 9 of 13
+ Murro et al. Orphanet Journal of Rare Diseases          (2023) 18:223 
+ 
+the kind of broadly-skilled multidisciplinary or interdis -
+ciplinary team outlined above, starting at diagnosis and 
+continuing throughout the habilitation and rehabilitation 
+phases.
+Rehabilitation or habilitation, as appropriate according 
+to developmental age, often begins from the time of diag -
+nosis, and caring also extends to the entire family from 
+this time. Ideally, the intervention will be: (a) interdisci -
+plinary; (b) multisensory, with activities that encourage the integration of different perceptual information com -
+ing from the environment; (c) individualized, that is 
+based on the visual and developmental profile of the child 
+and his overall clinical picture; (d) multidimensional, 
+because its rehabilitation goals rely on collaboration 
+between professionals and caregivers across the differ -
+ent contexts of life and the entailing activities also related 
+to home, school and social settings [82]. Two broad cat -
+egories of intervention can be considered in determining Fig. 4 The patient-centered multidisciplinary team approach to vision rehabilitation in visually impaired children and young/young-adult persons 
+with inherited retinal dystrophies. The green circles identify the professionals dedicated exclusively to the subject in the developmental agePage 10 of 13 Murro et al. Orphanet Journal of Rare Diseases          (2023) 18:223 
+rehabilitation objectives; those targeting the develop -
+ment of visual and alternative sensory skills (e.g., touch, 
+hearing) and their functional use and those designed to 
+prevent or reduce a possible negative impact of the visual 
+impairment on overall development [82]. Visual support, 
+such as low vision aids, computer screen readers, audio -
+books, and tablet computer-based assistive technologies 
+such as optical character recognition, screen magnifiers, 
+or text-to-speech conversion, can help children compen -
+sate for diminishing visual function [82].
+Parents are offered psychological support to assist 
+their adjustment to and coping with the diagnosis while 
+sustaining the parent child-relationship and promoting 
+understanding of the child’s needs and means of expres -
+sion. As the patient grows, psychological care is planned 
+for them, either individually or in groups. Ultimately, 
+such an intervention aims to encourage independence in 
+the child and improve the quality of life, social participa -
+tion, and integration.
+In the young, young-adult subject, unlike the typical 
+management of developmental age, it is possible to iden -
+tify two multidisciplinary teams that intervene at differ -
+ent times: the “diagnostic team” and the “rehabilitation or 
+habilitation team” . The “diagnostic team” consists of the 
+ophthalmologist, the medical geneticist, and the psychol -
+ogist (Fig.  4). Where present in the team, the psychologist 
+is a fundamental figure in supporting communication at 
+the diagnosis and ensuring individual support is available 
+if necessary [83].
+Later, ocular disease progression requires starting with 
+vision rehabilitation [84]. In this phase of the treatment 
+process, the team consists of the ophthalmologist, the 
+psychologist, the orthoptist, the orientation and mobility 
+and personal autonomy instructor, the typhlologist, and 
+the computer scientist.
+The habilitation or rehabilitation project is timed and 
+individualized to the individual’s needs, requests, and 
+clinical condition [85], considering the patient’s emo -
+tional state and readiness to deal with the demands of the 
+rehabilitation process. As a key team member, the psy -
+chologist supports not only the person, family members, 
+and caregivers, but provides emotional support to other 
+team members to minimize potential burnout.
+The overall objective of vision rehabilitation is to assist 
+the subject to find the best strategies to take advantage 
+of their residual vision, promoting the integration of the 
+“new self” , which translates into an improvement in per -
+ceived well-being and quality of life.Summary
+• The effective management of inherited retinal dys -
+trophies (IRDs) requires close collaboration between 
+members of a multidisciplinary, or ideally an interdis -
+ciplinary, team of experts knowledgeable about IRDs, 
+including suitably experienced professionals from the 
+fields of ophthalmology, neuropsychiatry, psychol -
+ogy, neurology, genetics, orthoptics, developmental 
+therapy, typhlology, occupational therapy, otolaryn -
+gology, and/ orientation and mobility specialties.
+• As IRDs usually present at an early age, clinicians 
+need to be aware of the clinical signs suggesting vis -
+ual impairment and follow up with timely diagnoses 
+to facilitate appropriate therapeutic or rehabilitation 
+interventions to minimize vision loss.
+• The highly heterogeneous nature and overlapping of 
+manifestations among the different IRDs make reach -
+ing a definitive diagnosis difficult. Accurate clini -
+cal diagnosis is a prerequisite for genetic testing and 
+requires a range of objective and subjective assess -
+ment measures to ensure appropriate treatment and 
+optimization of outcomes.
+• The diagnostic process should involve taking an 
+accurate medical history, consideration of family his -
+tory, fundus examination, evaluation of visual acuity, 
+the extent of vision loss via a visual field test (Gold -
+mann visual field), retinal activity (full-field electro -
+retinogram), and retina assessment using imaging 
+using optical coherence tomography and fundus 
+autofluorescence. Full-field light sensitivity testing is 
+also a valuable tool for further diagnostic investiga -
+tion.
+• Establishing the genotype of IRDs is increasingly 
+considered essential in the diagnostic workup, par -
+ticularly since the introduction of voretigene nepar -
+vovec as an effective gene therapy for treating adult 
+and pediatric patients with vision loss due to IRDs 
+caused by confirmed biallelic mutations in the RPE65 
+gene.
+• The complex process of determining IRD-causing 
+gene variants to reach a molecular diagnosis takes 
+advantage of improvements in genome sequencing 
+techniques, notably next-generation sequencing.
+• Patients and their families must receive counseling 
+before and after genetic testing; effective communi -
+cation is essential, and patient and parents’ expecta -
+tions must be acknowledged and discussed.
+• Psychological support for patients and caregivers is 
+important at all stages of diagnosis, care, and reha -
+bilitation, and the child neuropsychiatrist plays an 
+essential role in managing IRDs.Page 11 of 13
+ Murro et al. Orphanet Journal of Rare Diseases          (2023) 18:223 
+ 
+• Comprehensive multidisciplinary care plans for 
+patients with IRD have been developed to provide 
+streamlined and patient-friendly access to clinical 
+and molecular diagnoses, accelerate access to avail -
+able therapeutic options and support, and for referral 
+to standardized clinical care and rehabilitation.
+• Despite the solid collective effort in the field of 
+advanced diagnosis and novel therapies for IRDs, fur -
+ther knowledge is required about the natural history 
+of the diseases that could be helpful to better evalu -
+ate treatment effects, particularly in these slowly 
+progressive diseases. Given the rarity of each form 
+of IRD, this usually needs the development of multi -
+centric studies designed with appropriate and robust 
+protocols.
+Conclusions
+Timely and accurate diagnosis and appropriate inter -
+disciplinary management involving ophthalmologists, 
+geneticists, and other medical specialists have important 
+implications for the overall development and life-long 
+visual function and quality of life of children with IRDs.
+Abbreviations
+CME  Cystoid macular edema
+EEG  Electroencephalogram
+EOSRD  Early-onset severe retinal dystrophy
+ERG  Electroretinogram
+EZ  Ellipsoid zone
+FAF  Fundus autofluorescence
+ffERG  Full-field electroretinogram
+FST  Full-field stimulus threshold
+HRF  Hyperreflective foci
+ISCEV  International Society for Clinical Electrophysiology of Vision
+IRD  Inherited retinal dystrophy
+LCA  Leber congenital amaurosis
+mfERG  Multifocal electroretinogram
+MRI  Magnetic resonance imaging
+NGS  Next-generation sequencing
+OCT  Optical coherence tomography
+OCT-A  OCT angiography
+ONL  Outer nuclear layer
+RP  Retinitis pigmentosa
+RPE  Retinal pigment epithelium
+SD-OCT  Spectral domain OCT
+SECORD  Severe early childhood onset retinal dystrophy
+UWF  Ultra-wide field
+VUS  Variant of uncertain significance
+Acknowledgements
+We thank Ray Hill, an independent medical writer who provided medical 
+writing support on behalf of Springer Healthcare. This was funded by Novartis 
+Farma Spa.
+Author contributions
+VM, SB, FT, GI and FS conceptualized this review. VM, SB, FT, FS, GI, BF, AS, SS, 
+AI, RR, DPM, RC, GMB, SBar, ST, SF contributed to the design and wrote parts 
+of this paper. DPM, GMB, ST and SF provided the figures. All authors reviewed 
+and approved the final version of the manuscript.Funding
+No funding was received for this study. Novartis Farma Spa funded medical 
+writing, but had no role in the collection, analysis and interpretation of data 
+and writing of the manuscript.
+Availability of data and materials
+Not applicable.
+Declarations
+Ethics approval and consent to participate
+Not applicable.
+Consent for publication
+Not applicable.
+Competing interests
+SB, GI, AS, GMB, SB, SS, ST acted as a speakers and consultants at webinars and 
+advisory board meetings organized by Novartis. SF, RC acted as speakers at 
+webinars organized by Novartis. RC acted as consultant for Kedrion, Medivis 
+and Santen.
+Author details
+1 Department of Neuroscience, Psychology, Drug Research and Child Health, 
+University of Florence, Florence, Italy. 2 Eye Clinic, Careggi Teaching Hospital, 
+Florence, Italy. 3 Telethon Institute of Genetics and Medicine (TIGEM), Pozzuoli, 
+NA, Italy. 4 Medical Genetics, Department of Precision Medicine, Univer -
+sity of Campania Luigi Vanvitelli, Naples, Italy. 5 Eye Clinic, Multidisciplinary 
+Department of Medical, Surgical and Dental Sciences, University of Campania 
+Luigi Vanvitelli, Naples, Italy. 6 Department of Ophthalmology, Bambino Gesù 
+Children’s Hospital, Rome, Italy. 7 Ophthalmology Unit, Fondazione Policlinico 
+Universitario A. Gemelli IRCCS, Rome, Italy. 8 Center of Child Neuro -Ophthal-
+mology, IRCCS, Mondino Foundation, Pavia, Italy. 9 Medical Genetics Unit, 
+Azienda Ospedaliera Universitaria Federico II, Naples, Italy. 10 Department 
+of Molecular Medicine and Medical Biotechnologies, University of Naples Fed-
+erico II, Naples, Italy. 11 CEINGE-Biotecnologie Avanzate, Naples, Italy. 12 Oph-
+thalmology Unit, San Jacopo Hospital, Pistoia, Italy. 13 Pediatric Ophthalmology 
+Unit, A. Meyer Children’s Hospital IRCCS, Florence, Italy. 14 Medical Genetics 
+Unit, Ospedale Pediatrico Meyer, Florence, Italy. 15 National Centre of Services 
+and Research for the Prevention of Blindness and Rehabilitation of the Visu-
+ally Impaired, International Agency for the Prevention of Blindness-IAPB Italy 
+Onlus, Fondazione Policlinico Universitario A. Gemelli IRCCS, Rome, Italy. 
+Received: 10 October 2022   Accepted: 5 July 2023
+References
+ 1. Chiu W, Lin TY, Chang YC, et al. An update on gene therapy for inherited 
+retinal dystrophy: experience in Leber congenital amaurosis clinical trials. 
+Int J Mol Sci. 2021;22(9):4534.
+ 2. den Hollander AI, Black A, Bennett J, Cremers FP . Lighting a candle in the 
+dark: advances in genetics and gene therapy of recessive retinal dystro -
+phies. J Clin Invest. 2010;120(9):3042–53.
+ 3. Hafler BP . Clinical progress in inherited retinal degenerations: Gene 
+therapy clinical trials and advances in genetic sequencing. Retina. 
+2017;37(3):417–23.
+ 4. Newton F, Megaw R. Mechanisms of photoreceptor death in retinitis 
+pigmentosa. Genes. 2020;11(10):1120.
+ 5. Rivolta C, Sharon D, DeAngelis MM, Dryja TP . Retinitis pigmentosa and 
+allied diseases: numerous diseases, genes, and inheritance patterns. Hum 
+Mol Genet. 2002;11(10):1219–27.
+ 6. Verbakel SK, van Huet RAC, Boon CJF, et al. Non-syndromic retinitis pig-
+mentosa. Prog Retin Eye Res. 2018;66:157–86.
+ 7. Huang CH, Yang CM, Yang CH, Hou YC, Chen TC. Leber’s congenital 
+amaurosis: current concepts of genotype-phenotype correlations. Genes. 
+2021;12(8):1261.Page 12 of 13 Murro et al. Orphanet Journal of Rare Diseases          (2023) 18:223 
+ 8. Aoun M, Passerini I, Chiurazzi P , et al. Inherited retinal diseases due to 
+RPE65 variants: from genetic diagnostic management to therapy. Int J 
+Mol Sci. 2021;22(13):7207.
+ 9. Chung DC, Bertelsen M, Lorenz B, et al. The natural history of inherited 
+retinal dystrophy due to biallelic mutations in the RPE65 gene. Am J 
+Ophthalmol. 2019;199:58–70.
+ 10. Jones KD, Wheaton DK, Bowne SJ, et al. Next-generation sequencing to 
+solve complex inherited retinal dystrophy: a case series of multiple genes 
+contributing to disease in extended families. Mol Vis. 2017;23:470–81.
+ 11. De Silva SR, Arno G, Robson AG, et al. The X-linked retinopathies: Physi-
+ological insights, pathogenic mechanisms, phenotypic features and 
+novel therapies. Prog Retin Eye Res. 2021;82:100898.
+ 12. Dockery A, Whelan L, Humphries P , Farrar GJ. Next-generation 
+sequencing applications for inherited retinal diseases. Int J Mol Sci. 
+2021;22(11):5684.
+ 13. Neveling K, Collin RW, Gilissen C, et al. Next-generation genetic testing 
+for retinitis pigmentosa. Hum Mutat. 2012;33(6):963–72.
+ 14. Apte RS. Gene therapy for retinal degeneration. Cell. 2018;173(1):5.
+ 15. European Medicines Agency (EMA) (2018) Luxturna (voretigene nepar -
+vovec) 5 x  1012 vector genomes/mL: Summary of product character -
+istics (SmPC). Last updated 30 Jan 2020. Available from: https:// www.  
+ema. europa. eu/ Accessed May 29 2020.
+ 16. Farrar GJ, Carrigan M, Dockery A, et al. Toward an elucidation of the 
+molecular genetics of inherited retinal degenerations. Hum Mol Genet. 
+2017;26(R1):R2–11.
+ 17. Sodi A, Banfi S, Testa F, et al. RPE65-associated inherited retinal diseases: 
+consensus recommendations for eligibility to gene therapy. Orphanet 
+J Rare Dis. 2021;16(1):257.
+ 18. Cho GY, Bolo K, Park KS, Sengillo JD, Tsang SH. Attenuation of inherited 
+and acquired retinal degeneration progression with gene-based tech-
+niques. Mol Diagn Ther. 2019;23(1):113–20.
+ 19. Perea-Romero I, Gordo G, Iancu IF, et al. Genetic landscape of 6089 
+inherited retinal dystrophies affected cases in Spain and their 
+therapeutic and extended epidemiological implications. Sci Rep. 
+2021;11(1):1526.
+ 20. Pontikos N, Arno G, Jurkute N, et al. Genetic basis of inherited retinal 
+disease in a molecularly characterized cohort of more than 3000 fami-
+lies from the United Kingdom. Ophthalmology. 2020;127(10):1384–94.
+ 21. Stone EM, Andorf JL, Whitmore SS, et al. Clinically focused molecular 
+investigation of 1000 consecutive families with inherited retinal dis-
+ease. Ophthalmology. 2017;124(9):1314–31.
+ 22. Hartong DT, Berson EL, Dryja TP . Retinitis pigmentosa. Lancet. 
+2006;368(9549):1795–809.
+ 23. Berson EL, Sandberg MA, Rosner B, Birch DG, Hanson AH. Natural 
+course of retinitis pigmentosa over a three-year interval. Am J Ophthal-
+mol. 1985;99(3):240–51.
+ 24. Retinal Information Network. RetNet data. Available from: https:// web.  
+sph. uth. edu/ RetNet/ home. htm (2023).
+ 25. Puech B, De Laey J-J, Holder GE. Inherited chorioretinal dystrophies: 
+a textbook and atlas. Heidelberg: Springer; 2014. https:// doi. org/ 10.  
+1007/ 978-3- 540- 69466-3.
+ 26. Strong S, Liew G, Michaelides M. Retinitis pigmentosa-associated 
+cystoid macular oedema: pathogenesis and avenues of intervention. Br 
+J Ophthalmol. 2017;101(1):31–7.
+ 27. Birtel TH, Birtel J, Hess K, et al. Analysis of imaging biomarkers and reti-
+nal nerve fiber layer thickness in RPGR-associated retinitis pigmentosa. 
+Graefes Arch Clin Exp Ophthalmol. 2021;259(12):3597–604.
+ 28. Iftikhar M, Usmani B, Sanyal A, et al. Progression of retinitis pigmen-
+tosa on multimodal imaging: the PREP-1 study. Clin Exp Ophthalmol. 
+2019;47(5):605–13.
+ 29. Phadikar P , Saxena S, Ruia S, Lai TY, Meyer CH, Eliott D. The potential of 
+spectral domain optical coherence tomography imaging based retinal 
+biomarkers. Int J Retina Vitreous. 2017;3(1):1–10.
+ 30. Takahashi VK, Takiuti JT, Jauregui R, et al. Correlation between B-scan 
+optical coherence tomography, en face thickness map ring and hyper -
+autofluorescent ring in retinitis pigmentosa patients. Graefe’s Arch Clin 
+Exp Ophthalmol. 2019;257:1601–9.
+ 31. den Hollander AI, Roepman R, Koenekoop RK, Cremers FP . Leber con-
+genital amaurosis: genes, proteins and disease mechanisms. Prog Retin 
+Eye Res. 2008;27(4):391–419. 32. Kumaran N, Moore AT, Weleber RG, Michaelides M. Leber congenital 
+amaurosis/early-onset severe retinal dystrophy: clinical features, 
+molecular genetics and therapeutic interventions. Br J Ophthalmol. 
+2017;101(9):1147–54.
+ 33. Coppieters F, Casteels I, Meire F, et al. Genetic screening of LCA in 
+Belgium: predominance of CEP290 and identification of potential 
+modifier alleles in AHI1 of CEP290-related phenotypes. Hum Mutat. 
+2010;31(10):E1709–66.
+ 34. Astuti GD, Bertelsen M, Preising MN, et al. Comprehensive genotyping 
+reveals RPE65 as the most frequently mutated gene in Leber congeni-
+tal amaurosis in Denmark. Eur J Hum Genet. 2016;24(7):1071–9.
+ 35. Sweeney MO, McGee TL, Berson EL, Dryja TP . Low prevalence of lecithin 
+retinol acyltransferase mutations in patients with Leber congenital 
+amaurosis and autosomal recessive retinitis pigmentosa. Mol Vis. 
+2007;13:588–93.
+ 36. Wang H, Wang X, Zou X, et al. Comprehensive molecular diagnosis of a 
+large Chinese Leber congenital amaurosis cohort. Invest Ophthalmol Vis 
+Sci. 2015;56(6):3642–55.
+ 37. Kondkar AA, Abu-Amero KK. Leber congenital amaurosis: current genetic 
+basis, scope for genetic testing and personalized medicine. Exp Eye Res. 
+2019;189:107834.
+ 38. Yi Z, Ouyang J, Sun W, et al. Biallelic mutations in USP45, encoding a deu-
+biquitinating enzyme, are associated with Leber congenital amaurosis. J 
+Med Genet. 2019;56(5):325–31.
+ 39. Heath Jeffery RC, Chen FK. Stargardt disease: multimodal imaging: a 
+review. Clin Exp Ophthalmol. 2021;49(5):498–515.
+ 40. Testa F, Melillo P , Della Corte M, et al. Voretigene neparvovec gene 
+therapy in clinical practice: treatment of the first two Italian pediatric 
+patients. Transl Vis Sci Technol. 2021;10(10):11.
+ 41. Romani M, Micalizzi A, Valente EM. Joubert syndrome: congenital cerebel-
+lar ataxia with the molar tooth. Lancet Neurol. 2013;12(9):894–905.
+ 42. Chen HY, Welby E, Li T, Swaroop A. Retinal disease in ciliopathies: recent 
+advances with a focus on stem cell-based therapies. Transl Sci Rare Dis. 
+2019;4(1–2):97–115.
+ 43. Mockel A, Perdomo Y, Stutzmann F, Letsch J, Marion V, Dollfus H. Retinal 
+dystrophy in Bardet–Biedl syndrome and related syndromic ciliopathies. 
+Prog Retin Eye Res. 2011;30(4):258–74.
+ 44. Kisilevsky E, Freund P , Margolin E. Mitochondrial disorders and the eye. 
+Surv Ophthalmol. 2020;65(3):294–311.
+ 45. Finsterer J, Zarrouk-Mahjoub S, Daruich A. The eye on mitochondrial 
+disorders. J Child Neurol. 2016;31(5):652–62.
+ 46. Milam AH, Li ZY, Fariss RN. Histopathology of the human retina in retinitis 
+pigmentosa. Prog Retin Eye Res. 1998;17(2):175–205.
+ 47. Liu G, Liu X, Li H, Du Q, Wang F. Optical coherence tomographic 
+analysis of retina in retinitis pigmentosa patients. Ophthalmic Res. 
+2016;56(3):111–22.
+ 48. Mucciolo DP , Murro V, Sodi A, et al. Peculiar clinical findings in young 
+choroideremia patients: a retrospective case review. Ophthalmologica. 
+2019;242(4):195–207.
+ 49. Verdina T, Greenstein VC, Tsang SH, et al. Clinical and genetic findings in 
+Italian patients with sector retinitis pigmentosa. Mol Vis. 2021;27:78–94.
+ 50. Sakai D, Takagi S, Hirami Y, Nakamura M, Kurimoto Y. Use of ellipsoid zone 
+width for predicting visual prognosis after cataract surgery in patients 
+with retinitis pigmentosa. Eye. 2022.
+ 51. Gong Y, Xia H, Zhang A, Chen LJ, Chen H. Optical coherence tomography 
+biomarkers of photoreceptor degeneration in retinitis pigmentosa. Int 
+Ophthalmol. 2021;41(12):3949–59.
+ 52. Huang CH, Yang CH, Lai YJ, et al. Hyperreflective foci as important 
+prognostic indicators of progression of retinitis pigmentosa. Retina. 
+2022;42(2):388–95.
+ 53. Makiyama Y, Oishi A, Otani A, et al. Prevalence and spatial distribution of 
+cystoid spaces in retinitis pigmentosa: investigation with spectral domain 
+optical coherence tomography. Retina. 2014;34(5):981–8.
+ 54. Jauregui R, Park KS, Duong JK, Mahajan VB, Tsang SH. Quantitative 
+progression of retinitis pigmentosa by optical coherence tomography 
+angiography. Sci Rep. 2018;8(1):13130.
+ 55. Sodi A, Lenzetti C, Murro V, et al. EDI-OCT evaluation of choroidal thick -
+ness in retinitis pigmentosa. Eur J Ophthalmol. 2018;28(1):52–7.
+ 56. Delori FC, Dorey CK, Staurenghi G, Arend O, Goger DG, Weiter JJ. In vivo 
+fluorescence of the ocular fundus exhibits retinal pigment epithelium 
+lipofuscin characteristics. Invest Ophthalmol Vis Sci. 1995;36(3):718–29.Page 13 of 13
+ Murro et al. Orphanet Journal of Rare Diseases          (2023) 18:223 
+ 
+•
+ fast, convenient online submission
+ •
+  thorough peer review by experienced researchers in your ﬁeld
+• 
+ rapid publication on acceptance
+• 
+ support for research data, including large and complex data types
+•
+  gold Open Access which fosters wider collaboration and increased citations 
+ maximum visibility for your research: over 100M website views per year •
+  At BMC, research is always in progress.
+Learn more biomedcentral.com/submissionsReady to submit y our researc h Ready to submit y our researc h  ?  Choose BMC and benefit fr om: ?  Choose BMC and benefit fr om: 
+ 57. Murakami T, Akimoto M, Ooto S, et al. Association between abnormal 
+autofluorescence and photoreceptor disorganization in retinitis pigmen-
+tosa. Am J Ophthalmol. 2008;145(4):687–94.
+ 58. Schmitz-Valckenberg S, Pfau M, Fleckenstein M, et al. Fundus autofluores-
+cence imaging. Prog Retin Eye Res. 2021;81:100893.
+ 59. Ogura S, Yasukawa T, Kato A, et al. Wide-field fundus autofluorescence 
+imaging to evaluate retinal function in patients with retinitis pigmentosa. 
+Am J Ophthalmol. 2014;158(5):1093–8.
+ 60. Oishi A, Ogino K, Makiyama Y, Nakagawa S, Kurimoto M, Yoshimura N. 
+Wide-field fundus autofluorescence imaging of retinitis pigmentosa. 
+Ophthalmology. 2013;120(9):1827–34.
+ 61. Murro V, Mucciolo DP , Sodi A, et al. Novel clinical findings in autosomal 
+recessive NR2E3-related retinal dystrophy. Graefes Arch Clin Exp Ophthal-
+mol. 2019;257(1):9–22.
+ 62. Schatz P , Preising M, Lorenz B, et al. Lack of autofluorescence in 
+fundus albipunctatus associated with mutations in RDH5. Retina. 
+2010;30(10):1704–13.
+ 63. Rehm HL, Berg JS, Brooks LD, et al. ClinGen—the clinical genome 
+resource. N Engl J Med. 2015;372(23):2235–42.
+ 64. Richards S, Aziz N, Bale S, et al. Standards and guidelines for the interpre -
+tation of sequence variants: a joint consensus recommendation of the 
+American College of Medical Genetics and Genomics and the Associa-
+tion for Molecular Pathology. Genet Med. 2015;17(5):405–24.
+ 65. Runhart EH, Khan M, Cornelis SS, et al. Association of sex with fre -
+quent and mild ABCA4 alleles in Stargardt disease. JAMA Ophthalmol. 
+2020;138(10):1035–42.
+ 66. Ghosh R, Oak N, Plon SE. Evaluation of in silico algorithms for use with 
+ACMG/AMP clinical variant interpretation guidelines. Genome Biol. 
+2017;18(1):225.
+ 67. Kopanos C, Tsiolkas V, Kouris A, et al. VarSome: the human genomic vari-
+ant search engine. Bioinformatics. 2019;35(11):1978–80.
+ 68. Deignan JL, Chung WK, Kearney HM, et al. Points to consider in the 
+reevaluation and reanalysis of genomic test results: a statement of the 
+American College of Medical Genetics and Genomics (ACMG). Genet 
+Med. 2019;21(6):1267–70.
+ 69. Hanany M, Sharon D. Allele frequency analysis of variants reported 
+to cause autosomal dominant inherited retinal diseases question the 
+involvement of 19% of genes and 10% of reported pathogenic variants. J 
+Med Genet. 2019;56(8):536–42.
+ 70. Li AS, MacKay D, Chen H, Rajagopal R, Apte RS. Challenges to routine 
+genetic testing for inherited retinal dystrophies. Ophthalmology. 
+2019;126(10):1466–8.
+ 71. Khan M, Cornelis SS, Pozo-Valero MD, et al. Resolving the dark matter of 
+ABCA4 for 1054 Stargardt disease probands through integrated genom-
+ics and transcriptomics. Genet Med. 2020;22(7):1235–46.
+ 72. Motta FL, Martin RP , Porto FBO, et al. Pathogenicity reclasssification of 
+RPE65 missense variants related to Leber congenital amaurosis and early-
+onset retinal dystrophy. Genes. 2019;11(1):24.
+ 73. Yang U, Gentleman S, Gai X, et al. Utility of in vitro mutagenesis of RPE65 
+protein for verification of mutational pathogenicity before gene therapy. 
+JAMA Ophthalmol. 2019;137(12):1381–8.
+ 74. Combs R, Hall G, Payne K, et al. Understanding the expectations 
+of patients with inherited retinal dystrophies. Br J Ophthalmol. 
+2013;97(8):1057–61.
+ 75. Lange R, Kumagai A, Weiss S, et al. Vision-related quality of life in adults 
+with severe peripheral vision loss: a qualitative interview study. J Patient 
+Rep Outcomes. 2021;5(1):7.
+ 76. McVeigh E, Jones H, Black G, Hall G. The psychosocial and service delivery 
+impact of genomic testing for inherited retinal dystrophies. J Community 
+Genet. 2019;10(3):425–34.
+ 77. Seery MD, Blascovich J, Weisbuch M, Vick SB. The relationship between 
+self-esteem level, self-esteem stability, and cardiovascular reactions to 
+performance feedback. J Pers Soc Psychol. 2004;87(1):133–45.
+ 78. Havelka M, Lucanin JD, Lucanin D. Biopsychosocial model–the integrated 
+approach to health and disease. Coll Antropol. 2009;33(1):303–10.
+ 79. World Health Organization (2016) Framework on integrated, people-
+centred health services. Available at: https:// www. who. int
+ 80. Fazzi E, Signorini SG, Lanners J. The effect of impaired vision on develop -
+ment. Clin Med Dev. 2010;186(1):162–73.
+ 81. Colenbrander A. Assessment of functional vision and its rehabilitation. 
+Acta Ophthalmol. 2010;88(2):163–73. 82. Morelli F, Aprile G, Cappagli G, et al. A multidimensional, multisensory and 
+comprehensive rehabilitation intervention to improve spatial functioning 
+in the visually impaired child: a community case study. Front Neurosci. 
+2020;14:768.
+ 83. Wakefield CE, Hanlon LV, Tucker KM, et al. The psychological impact 
+of genetic information on children: a systematic review. Genet Med. 
+2016;18(8):755–62.
+ 84. Markowitz SN. Principles of modern low vision rehabilitation. Can J Oph-
+thalmol. 2006;41(3):289–312.
+ 85. Rainey L, Elsman EBM, van Nispen RMA, van Leeuwen LM, van Rens G. 
+Comprehending the impact of low vision on the lives of children and 
+adolescents: a qualitative approach. Qual Life Res. 2016;25(10):2633–43.
+Publisher’s Note
+Springer Nature remains neutral with regard to jurisdictional claims in pub -
+lished maps and institutional affiliations.

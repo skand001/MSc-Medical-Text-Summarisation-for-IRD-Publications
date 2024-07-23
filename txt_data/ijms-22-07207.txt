@@ -1,0 +1,758 @@
+ International Journal of  
+Molecular Sciences
+Review
+Inherited Retinal Diseases Due to RPE65 Variants:
+From Genetic Diagnostic Management to Therapy
+Manar Aoun1, Ilaria Passerini2, Pietro Chiurazzi3,4
+, Marianthi Karali5,6
+, Irene De Rienzo7, Giovanna Sartor8,
+Vittoria Murro9, Natalia Filimonova10, Marco Seri8,11,*,†
+and Sandro Banﬁ6,12,*,†
+/gid00030/gid00035/gid00032/gid00030/gid00038/gid00001/gid00033/gid00042/gid00045 /gid00001
+/gid00048/gid00043/gid00031/gid00028/gid00047/gid00032/gid00046
+Citation: Aoun, M.; Passerini, I.;
+Chiurazzi, P .; Karali, M.; De Rienzo, I.;
+Sartor, G.; Murro, V .; Filimonova, N.;
+Seri, M.; Banﬁ, S. Inherited Retinal
+Diseases Due to RPE65 Variants:
+From Genetic Diagnostic
+Management to Therapy. Int. J. Mol.
+Sci.2021 ,22, 7207. https://doi.org/
+10.3390/ijms22137207
+Academic Editor: Stephanie
+C. Joachim
+Received: 18 May 2021
+Accepted: 29 June 2021
+Published: 5 July 2021
+Publisher’s Note: MDPI stays neutral
+with regard to jurisdictional claims in
+published maps and institutional afﬁl-
+iations.
+Copyright: © 2021 by the authors.
+Licensee MDPI, Basel, Switzerland.
+This article is an open access article
+distributed under the terms and
+conditions of the Creative Commons
+Attribution (CC BY) license (https://
+creativecommons.org/licenses/by/
+4.0/).1Novartis Farma, Largo Boccioni 1, 21040 Origgio, Italy; manar.aoun@novartis.com
+2Department of Genetic Diagnosis, Careggi Teaching Hospital, 50134 Florence, Italy;
+passerinii@aou-careggi.toscana.it
+3Istituto di Medicina Genomica, Universit àCattolica del Sacro Cuore, 00168 Rome, Italy;
+pietro.chiurazzi@unicatt.it
+4Fondazione Policlinico Universitario “A. Gemelli” IRCCS, UOC Genetica Medica, 00168 Roma, Italy
+5Eye Clinic, Multidisciplinary Department of Medical, Surgical and Dental Sciences,
+Universit àdegli Studi della Campania “Luigi Vanvitelli”, 80131 Naples, Italy; karali@tigem.it
+6Telethon Institute of Genetics and Medicine (TIGEM), 80078 Pozzuoli, Italy
+7Department of Ophthalmology, AOU-Careggi, 50234 Florence, Italy; derienzoi@aou-careggi.toscana.it
+8Medical Genetics Unit, IRCCS Azienda Ospedaliero-Universitaria di Bologna, 40138 Bologna, Italy;
+giovanna.sartor2@studio.unibo.it
+9Department of Neuroscience, Psychology, Drug Research and Child Health, University of Florence,
+Eye Clinic Careggi Teaching Hospital, 50234 Florence, Italy; vittoria.murro@uniﬁ.it
+10Novartis Pharma AG, Fabrikstrasse 6, CH-4002 Basel, Switzerland; natalia.ﬁlimonova@novartis.com
+11Department of Surgical and Medical Sciences, University of Bologna, 40138 Bologna, Italy
+12Medical Genetics, Department of Precision Medicine, University of Campania “Luigi Vanvitelli”,
+80138 Naples, Italy
+*Correspondence: marco.seri@unibo.it (M.S.); banﬁ@tigem.it (S.B.)
+† These authors contributed equally to this work.
+Abstract: Inherited retinal diseases (IRDs) are a heterogeneous group of conditions that include
+retinitis pigmentosa (RP) and Leber congenital amaurosis (LCA) and early-onset severe retinal
+dystrophy (EO[S]RD), which differ in severity and age of onset. IRDs are caused by mutations in
+>250 genes. Variants in the RPE65 gene account for 0.6–6% of RP and 3–16% of LCA/EORD cases.
+Voretigene neparvovec is a gene therapy approved for the treatment of patients with an autosomal
+recessive retinal dystrophy due to conﬁrmed biallelic RPE65 variants ( RPE65 -IRDs). Therefore,
+the accurate molecular diagnosis of RPE65 -IRDs is crucial to identify ‘actionable’ genotypes—i.e.,
+genotypes that may beneﬁt from the treatment—and is an integral part of patient management. To
+date, hundreds of RPE65 variants have been identiﬁed, some of which are classiﬁed as pathogenic or
+likely pathogenic, while the signiﬁcance of others is yet to be established. In this review, we provide
+an overview of the genetic diagnostic workup needed to select patients that could be eligible for
+voretigene neparvovec treatment. Careful clinical characterization of patients by multidisciplinary
+teams of experts, combined with the availability of next-generation sequencing approaches, can
+accelerate patients’ access to available therapeutic options.
+Keywords: inherited retinal diseases; RPE65 ; next-generation sequencing; variants of uncertain
+signiﬁcance; genetic testing; genetic counseling
+1. Introduction
+Inherited retinal diseases (IRDs) are a group of conditions that lead to a progressive
+loss of vision and have a combined prevalence between 1:3000 and 1:4000 [ 1,2]. IRDs
+are characterized by heterogeneity of genetic causes and phenotypic presentations [1,2].
+Retinitis pigmentosa (RP) is one of the most common IRDs [ 3]. In RP , the loss of photore-
+ceptors, primarily in the peripheral retina, results in the appearance of pigment deposits
+Int. J. Mol. Sci. 2021 ,22, 7207. https://doi.org/10.3390/ijms22137207 https://www.mdpi.com/journal/ijmsInt. J. Mol. Sci. 2021 ,22, 7207 2 of 14
+called bone spicules [ 4,5]. Depending on age at disease onset, severity, rate of progression
+and presenting phenotype, the most common IRDs associated with severe visual impair-
+ment in childhood are Leber congenital amaurosis (LCA) and early-onset severe retinal
+dystrophy (EO[S]RD), characterized by severe visual loss from birth or early infancy, wan-
+dering nystagmus, amaurotic pupils, and markedly reduced or non-recordable full-ﬁeld
+electroretinograms [6,7].
+Mutations in more than 250 different genes have been so far implicated as the cause
+of IRDs [ 1,2,8]. Among the genes responsible for IRDs, RPE65 gene variants can cause RP
+(RP20, OMIM # 613794) and LCA/EORD (LCA2, OMIM # 204100) [7,9,10].
+The natural history of RPE65 -IRDs is variable, with a typical onset between birth and
+ﬁve years of age [ 11,12]. Typically, patients with RPE65 -related IRD display a signiﬁcantly
+altered visual behavior (light staring with profound nyctalopia, nystagmus) [ 7], severely re-
+duced or nondetectable fundus autoﬂuorescence to 488 nanometers with relatively normal
+fundus appearance [ 13], absent electroretinogram or a residual 30Hz ﬂicker response [ 14],
+and a low hypermetropic or myopic refractive error [ 10]. While some patients have normal
+or near-normal visual acuity (VA) at young ages, it becomes distinctly impaired in the
+ﬁrst decade of life. VA then starts to deteriorate around 15–20 years of age, and declines
+more quickly after the age of 20. In many patients, the VA worsens to the levels of legal
+blindness (VA = 20/200) around the age of 16 years [ 12]. By the fourth decade, all patients
+in this report are legally blind, and many have no light perception (complete loss of vision).
+Milder disease phenotypes have been described in individuals with hypomorphic RPE65
+alleles [ 15–18]. In particular, unusual phenotypic manifestations of biallelic RPE65 muta-
+tions were detected in four families with fundus albipunctatus-like changes and in one
+family with high hyperopia [19].
+In the vast majority of cases, RPE65 -IRDs are autosomal recessive diseases. However,
+autosomal dominant inheritance pattern has been proposed by some authors in a small
+proportion of cases. [20–22].
+In 2017, voretigene neparvovec (Luxturna®, Spark Therapeutics, Philadelphia, PA,
+USA) gene therapy was approved by the US Food and Drug Administration for the
+treatment of patients with conﬁrmed biallelic RPE65 mutation-associated retinal dystrophy
+and viable retinal cells [ 23]. A year later, voretigene neparvovec was approved by the
+European Medicines Agency for a similar indication: the treatment of adult and pediatric
+patients with vision loss due to inherited retinal dystrophy caused by conﬁrmed biallelic
+RPE65 variants and who have sufﬁcient viable retinal cells [24].
+This article aims to review the evidence for the genetic basis of RPE65 -IRDs with a
+particular focus on the most appropriate approaches to molecular testing of patients that
+represent possible candidates for the RPE65 -gene supplementation therapy.
+2. Epidemiology of RPE65 -IRDs
+It is estimated that there are over 2.5 million individuals affected by IRDs world-
+wide [ 25], with RP being the most common form. The prevalence of RP is approximately
+1:4000 [ 3,26,27]. In particular, between 21% and 54% of IRD patients have RP [ 28,29]. On
+the other hand, the prevalence of LCA/EORD ranges from 1:30,000 to 1:80,000 [ 10,30].
+LCA/EORD accounts for approximately 5% of all IRDs, with reported numbers ranging
+from 2.59% to 22% [28–30].
+It is difﬁcult to accurately estimate RPE65 mutation prevalence rates, as previous
+studies included different patient populations, initial diagnoses, or assessment methods,
+and lack a common denominator (Table 1).Int. J. Mol. Sci. 2021 ,22, 7207 3 of 14
+Table 1. Epidemiology of Leber congenital amaurosis, retinitis pigmentosa, and RPE65 -inherited retinal diseases.
+Study Participants * Findings *
+Simonelli et al. 2007 [31]Italian patients with LCA/EORD
+N = 95RPE65 mutations in sample: n= 8 (8.4%)
+Stone et al. 2017 [32]Consecutive patients with IRD seen
+by a single physician
+N = 1000RPE65 mutations in the sample: n= 3
+Estimated frequency in the US general population:
+1:576667
+Avela et al. 2019 [28]Finnish children with IRD
+N = 68RP:n= 14 (21%)
+LCA/EORD: n= 15 (22%)
+Chung et al. 2019 [12]Patients with IRD due to biallelic
+mutations in RPE65
+N = 70LCA/EORD: n=39 (50.0%)
+RP:n= 6 (7.7%)
+Hanany et al. 2020 [33]Genotype data on six main world
+populationsAutosomal recessive IRD: 1:1380
+RP: 23%
+LCA/EORD: 7%
+Biallelic RPE65 :n= 15,620 individuals or 0.3% of
+all patients with IRD
+Holtan et al. 2020 [29]Norwegian patients with IRDN = 866
+N = 685 (living in the south-east
+of Norway)RP:n= 468 (54.0%)
+LCA/EORD: n= 45 (5.2%)
+RPE65 -related RP and LCA/EORD: 0.6%
+Minimum adjusted prevalence of IRD in the
+south-east of Norway: 1:3856
+Pontikos et al. 2020 [34]Patients with IRD
+Individuals: N = 4236RPE65 :n= 51 (1.2%)
+LCA/EORD: 3%
+Sharon et al. 2020 [35]Israeli patients with IRD
+Individuals: N = 3413RP: 43%
+LCA/EORD: 4%
+RPE65 : 1% of IRDs
+Whelan et al. 2020 [36]Irish patients with IRD
+N = 1004RP: 37.75%
+RPE65 : 7.41% of autosomal dominant RP
+LCA/EORD: 2.59%
+RPE65 : 6.25% of LCA/EORD
+Colombo et al. (2021) [37]Italian patients with RP
+N = 591AR-RP: 103/591 (17.5%)
+RPE65 : 2/103 (2%) of AR-RP
+Perea-Romero et al. (2021) [38]Spanish patients with IRD
+N = 6089 individuals (4403 families)Non-syndromic RP: 55.6% of families
+RPE65 : 23/666 (3%) of families with AR-RP
+AR-RP , autosomal recessive retinitis pigmentosa; EORD, early-onset retinal dystrophy; IRD, inherited retinal disease; LCA, Leber
+congenital amaurosis; RP , retinitis pigmentosa. * Studies were performed on diverse populations with a variety of initial diagnoses and
+experimental questions.
+RPE65 variants are responsible for 0.8–1.5% of IRD cases [ 34,39,40]. In the US, the
+frequency of people with RPE65 mutations was estimated to be 1:576,667, for a total
+of 563 people with such variants at any given time, or seven new cases per year [ 32].
+An analysis of genotype data from six major world populations predicted that there are
+15,620 individuals with biallelic RPE65 mutations, and that more than 60% of these will be
+from the African population [33].
+RPE65 mutations account for approximately 0.6–6% of RP cases and for 3–16% of
+LCA/EORD cases depending on the analyzed cohort [ 9,10,19,29,31,36–38,41,42]. The
+largest European study on the epidemiology of IRDs, which analyzed the genetic land-
+scape in a cohort of 6089 (4403 families) IRD patients in Spain, identiﬁed RPE65 mutations
+in 3% of families with autosomal recessive RP [ 38]. One Italian study reported RPE65
+variants in 8.4% of patients with LCA/EORD [ 31], which was higher than the published
+prevalence of RPE65 mutations in patients with LCA/EORD from countries in Northwest-
+ern Europe (1.7–6.1%) [ 6,43]. This could be because, in the Italian study, patients were
+preselected for clinical characteristics of RPE65 -associated disease, namely the diagnosisInt. J. Mol. Sci. 2021 ,22, 7207 4 of 14
+of LCA/EORD. Indeed, a later Italian study identiﬁed RPE65 mutations in 3.4% of IRD
+patients [ 41], whilst the latest publication reported a 2% prevalence of RPE65 mutations
+in patients with autosomal recessive RP [37]. According to the authors’ experience with a
+vast collection of patients from across the country, biallelic RPE65 mutations account for
+approximately 1–2% of all IRD patients referred for genetic testing in Italy, with 4–5 new
+cases identiﬁed every year (unpublished data). Recently, the European Vision Institute
+Clinical Research Network (EVICR.net) performed a multinational survey to understand,
+amongst other issues, the distribution of RPE65 -IRDs in Europe. In this survey, three-
+quarters of responding Italian centers reported following 1–5 patients with RPE65 -IRD and
+one-quarter reported following a total of 6–10 patients [44].
+3. Molecular Biology of RPE65
+In humans, the RPE65 gene is located on chromosome 1 (1p31), spanning over
+20 kb [26] .RPE65 includes 14 exons and encodes the retinal pigment epithelium-speciﬁc
+65 kDa protein (RPE65) [ 45,46], denominated retinoid isomerohydrolase RPE65 by the
+current nomenclature. RPE65 consists of 533 amino acids [ 45]. It is a highly conserved
+protein expressed at high levels exclusively in the retinal pigment epithelium (RPE) [ 45].
+There are two forms of RPE65, a membrane-bound form (mRPE65), a major form with
+palmytoylation, and a soluble form (sRPE65) [ 45,47]. RPE65 is involved in the visual cycle,
+a multi-step process through which light entering the eye is converted into electrical signals
+transmitted to the brain. When light reaches photosensitive pigments in the retina, it
+converts 11- cis-retinal to all- trans -retinal. RPE65 is an isomerase that re-converts all- trans -
+retinyl ester to 11- cis-retinol, ready for a new photoisomerisation event [ 45]. The absence
+of RPE65 causes a decrease in 11- cis-retinol levels and the accumulation of retinyl esters in
+the RPE [45].
+4. Sequence Variants in the RPE65 Gene: An Overview
+Only patients with biallelic mutations and viable photoreceptor cells are eligible
+for gene therapy. Gene therapy procedure for RPE65 -IRDs involves bilateral vitrectomy
+followed by subretinal injection [ 48]. Because of the risks associated with such a procedure,
+it is important to establish the pathogenicity of the underlying mutations conclusively and
+whether mutations are biallelic. Genetic diagnosis is critical to ensure that patients fulﬁl the
+eligibility criteria for treatment [ 49]. A key scope of the genetic diagnostic workup in IRDs
+is to identify which genotypes should be classiﬁed as pathogenic and, thus, ‘actionable’
+(i.e., likely to respond to the approved gene supplementation therapy), a concept parallel to
+that of ‘actionable’ mutations in cancer for which targeted therapies exist [ 50]. The presence
+of many complex and uncertain variants underscores the importance of undertaking
+exhaustive genetic screening.
+4.1. Variants
+RPE65 variants were ﬁrst linked to LCA/EORD in 1997 [ 51,52]. The heterogeneity
+of variants encountered was immediately apparent with Gu et al. reporting ﬁve different
+variations (a missense mutation [p.Pro363Thr], two point mutations affecting splicing and
+two small re-arrangements [ 51]), and Marlhens and colleagues describing two mutations
+(a single nucleotide deletion [c.1056delA] and missense mutation [p.Arg234*] [ 52]). Since
+then, a myriad of variants has been discovered, the pathogenicity of which have not always
+been established.
+Parallel to variant discovery, variant classiﬁcation within the spectrum of clinical
+signiﬁcance continues to evolve. In 2015, the American College of Medical Genetics
+and Genomics (ACMG) and the Association for Molecular Pathology issued guidelines
+that introduced standard terminology to group variants into ﬁve categories (“benign”,
+“likely benign”, “uncertain signiﬁcance”, likely pathogenic”, “pathogenic”) and described
+the process of category assignment based on the available evidence (e.g., population,
+computational, functional, and segregation data) [53].Int. J. Mol. Sci. 2021 ,22, 7207 5 of 14
+As of January 2021, more than 300 variations in the RPE65 gene are listed in the ClinVar
+database [ 54], of which approximately 65 are considered pathogenic, 40 likely pathogenic,
+and 100 of uncertain signiﬁcance. Most variations (>260) are single-nucleotide changes [ 54].
+Of note, the sample represented in ClinVar may be biased in favor of pathogenic variations
+since benign and likely benign variants are rarely reported in public databases. At the
+same time, 206 RPE65 variations are listed in the Leiden Open Variation (LOV) Database,
+102 of which classiﬁed as pathogenic or likely pathogenic and 29 as being of uncertain
+signiﬁcance [ 55]. The Genome Aggregation Database (gnomAD) entry for RPE65 contains
+120 synonymous single-nucleotide variants (SNVs), 284 missense SNVs and 24 SNVs
+marked as “putative loss-of-function” [56].
+The variant prevalence and characteristics of RPE65 were evaluated in 2240 IRD
+patients in a laboratory certiﬁed by Clinical Laboratory Improvement Amendments in the
+USA [ 39]. Eighteen patients (0.8%) had RPE65 -associated disease, of which 12 (67%) had
+at least one loss-of-function variant. Of the 35 variants identiﬁed in the study, two (5.7%)
+copy number variants (CNV; one single exon deletion and one deletion of the entire RPE65
+gene) were found [39].
+While older studies reported no correlations between speciﬁc RPE65 genotypes and
+phenotypes [ 57] or clinical course [ 58], a very recent study suggests that there is a rela-
+tionship between mutation type and the age of disease onset [ 59]. Patients carrying two
+missense alleles showed a later disease onset ( 1 year of age) than those with one or two
+truncating variants (<1 year of age; Log Rank test p< 0.05) [59].
+4.2. Variants of Uncertain Signiﬁcance Assessment
+Variants of uncertain signiﬁcance (VUS) pose a serious challenge in determining the
+eligibility to gene therapy in RPE65 -IRDs [ 48]. Nevertheless, Mahajan et al. reported no
+correlation between variant subtype or ACMG classiﬁcation and treatment response. Seven
+out of 29 patients from their series of patients with a conﬁrmed genetic diagnosis of biallelic
+RPE65 gene variants had at least one VUS, and all of them, including three patients with
+two VUSs, responded to gene supplementation therapy [60].
+Different approaches can be deployed to assess the pathogenicity of a VUS in the
+RPE65 gene. These include extended segregation studies, evaluation of the phenotype, in
+silico tools to predict protein conservation and functionality, and in vitro functional studies.
+Moreover, extended targeted or exome sequencing can be used to exclude the implication
+of other IRD genes in disease etiology.
+Segregation studies of all available relatives can be helpful in determining and re-
+classifying the pathogenicity of VUSs. Extended segregation analysis showed that the
+p.Phe83Leu and p.Gly187Glu VUS variants were found in families with IRDs: the former in
+ﬁve LCA/EORD patients from four unrelated families and the latter in seven patients from
+three unrelated families. Moreover, the two variants were more frequent in patients with
+LCA/EORD than in patients with other IRDs. To further conﬁrm their pathogenicity, the
+authors consulted eight gene variant databases and deployed 16 computational algorithms
+to analyze the putative variant impact on protein functionality, 15 of which identiﬁed the
+two variants as damaging. The overall classiﬁcation of p.Phe83Leu and p.Gly187Glu was
+thus changed from VUS to likely pathogenic [61].
+In the ACMG guidelines, a patient’s phenotype highly speciﬁc for the disease and a
+ﬁtting family history in diseases with monogenic etiology was considered a supporting
+criterion for classifying pathogenic variants (the PP4 criterion) [ 53]. The subsequent
+guidelines published by the UK’s Association for Clinical Genomic Science state that in
+some cases it may be appropriate to use PP4 at a moderate or strong level after excluding
+that other genes are implicated [ 62]. In the case of RPE65 -IRDs, the identiﬁcation of a
+compound heterozygous genotype with one VUS in a patient with a typical LCA/EORD
+phenotype (as detailed in the Introduction) in the absence of any alternative genetic cause,
+would be supportive of a VUS reclassiﬁcation to the ‘likely pathogenic’ category, especially,
+in the presence of appropriate allele segregation and in silico prediction.Int. J. Mol. Sci. 2021 ,22, 7207 6 of 14
+In silico pathogenicity prediction tools are generally integrated into the bioinformatic
+pipelines used for the analysis of next-generation sequencing (NGS)-based genetic test-
+ing. While useful, bioinformatic predictive methods (e.g., Polymorphism Phenotyping
+v2 (PolyPhen2), Sorting Intolerant From Tolerant (SIFT), or Deleterious Annotation of
+genetic variants using Neural Networks (DANN), to name just a few tools), and modeling
+are not as signiﬁcant in clinical practice (for a detailed list of tools see Richards et al.,
+2015 [ 53]). Philp and colleagues have developed and validated an algorithm termed “es-
+timate of pathogenic probability” (EPP) that predicts the pathogenicity of VUS based on
+its prevalence, segregation and predicted effects on protein structure [ 63]. In addition,
+Iancu and colleagues have recently developed a strategy for the reclassiﬁcation of VUS
+that considers ﬁve pathogenicity predictors, resulting in an algorithm able to correctly
+reclassify approximately 70% of VUS as pathogenic in validation datasets [ 64]. The ACMG
+algorithm has been updated to incorporate new evidence. Clearly, the classiﬁcation of VUS
+is a dynamic process that will continue to change as new data are acquired, stressing the
+importance of knowledge-sharing in the ﬁeld.
+In vitro studies are only performed in a research setting because they are labor-
+intensive and costly. They assess the consequences of mutations on protein abundance,
+localization and function, as well as the impact of splice site variants. A minimal in vitro
+visual cycle system in 293-F cells to assess the isomerization activity of RPE65 [65] com-
+bined with in vitro mutagenesis was recently used to ascertain the pathogenicity of RPE65
+VUSs prior to gene therapy. The results showed that the p.Gly104Val and p.Pro467Ser
+protein VUSs were catalytically inactive; indeed, affected patients underwent treatment
+and responded [ 48]. This example shows that enzymatic activity assessment in conjunction
+with in vitro mutagenesis may be useful to determine the pathogenicity of VUSs.
+4.3. Challenging RPE65-IRD Cases
+Although RPE65 -IRDs are monogenic conditions, some authors have cautiously sug-
+gested the possibility of a “double-hit” IRD etiology or a phenotype-modifying effect of
+co-existing mutations [ 58]. More work is needed to conﬁrm or reject such a hypothesis and
+to understand its impact on gene therapy eligibility.
+To conﬁrm the phase of putative compound heterozygous variants, both for accurate
+genetic counseling and, consequently, to conﬁrm eligibility for gene therapy, a segregation
+analysis of proband’s parents is required. Some patients appear to have a homozygous
+RPE65 mutation when ﬁrst tested. If the patient is homozygous for a known variant and
+the phenotype points to an RPE65 etiology, the need for segregation may be, in principle,
+less compelling. Nevertheless, segregation analysis of ‘homozygous’ variants is always
+recommended for a comprehensive deﬁnition of the genotype. Apparent homozygosity
+can be underlain by three scenarios: copy number variations leading to loss of heterozygos-
+ity [39,66], uniparental isodisomy [ 67], or true homozygosity due to the existence of genetic
+isolates, i.e., situations in which both parents carry the same mutation (more probable
+in isolated locations with a degree of inbreeding or in consanguineous families such as
+that described by [ 51]). Another possibility is that of encountering patients who carry
+two variants in cisrather than in trans , i.e., on the same allele, with the other allele being
+wild type. Such patients are not eligible for gene therapy for autosomal recessive diseases.
+Segregation studies and haplotype resolutions using long reads are an approach of choice
+to assign genetic variants to the homologous paternal and maternal chromosomes [68].
+Clearly, the collaborative efforts of international networks of experts in IRD genetics
+and the regular updating of public variant databases are highly recommended and will
+signiﬁcantly contribute to VUS classiﬁcation and unsolved case interpretation.
+5. Testing Strategy
+Genetic testing is the only way to make an accurate diagnosis of RPE65 -IRD and
+qualify the patient for gene therapy. The complexity of genetic testing can be addressed by
+forming multidisciplinary teams of experts knowledgeable about IRD genetics and variantInt. J. Mol. Sci. 2021 ,22, 7207 7 of 14
+interpretation to provide the best care for the patient. In Italy, and speciﬁcally in IRD genet-
+ics expert laboratories, these teams commonly comprise molecular biologists, laboratory
+technicians, and medical geneticists, and also include ophthalmologists, bioinformaticians,
+molecular geneticists and genetic counsellors. In fact, to conﬁrm the pathogenic potential
+of novel genes or variants, the diagnostic expert knowledge and basic science know-how
+must be combined to resolve the genotype, even in the most complex cases. A genetic
+diagnosis is necessary to fulﬁl the eligibility criteria as described in the recent consensus
+paper by the Italian IRD Working Group [ 49]. The stepwise procedure we describe here
+is a way of increasing genetic diagnostic sensitivity to assign a genetic diagnosis to most
+patients as shown by Stone at al., 2017 [ 32]. Comprehensive genetic testing in rare eye
+disorders (RED) is promoted by the ERN-EYE network, who emphasize the clinical need
+and relevance of genetic testing in RED [69].
+The choice of the testing strategy and the interpretation of variants are heavily in-
+ﬂuenced by the information that the requesting clinician provides to the laboratory. The
+clinician must communicate an accurate clinical diagnosis and pedigree information. Ide-
+ally, the request for a genetic test should also be accompanied by the general anamnesis,
+ocular anamnesis, including a description of retinal and extra-retinal clinical manifesta-
+tions (indicative of a syndrome), the family pedigree showing affected family members
+and pattern of inheritance, mention of consanguinity. This information will enable the
+correct phenotype–genotype correlations to be made and will point towards syndromic or
+non-syndromic disease.
+Advances in technology allow for the detection of the underlying genetic cause in up
+to 76% of patients with IRDs [ 32]. Genetic testing for RPE65 -IRDs can be performed by
+Sanger sequencing, especially when NGS methodologies are not available. However, in
+order to provide comprehensive testing, we believe it is necessary to include other IRD
+genes [ 32]. This is particularly valid in patients with VUS or when assessing eligibility to
+gene therapy [ 49]. In these cases, the extended panel sequencing is highly recommended.
+Brieﬂy, targeted panel-based methods are fast and cheap, but, in the case of negative
+ﬁndings, give no alternative genetic diagnosis. Whole-exome sequencing (WES) allows
+for the identiﬁcation of variants in all coding sequences and whole-genome sequencing
+(WGS) anywhere in the genome, albeit they cost more and require longer and more difﬁcult
+analysis than sequencing of a panel of genes.
+In the clinical setting, a diagnostic laboratory must be certiﬁed, ﬁtted with the latest
+equipment and experienced in state-of-art technologies (such as NGS, WES, multiplex
+ligation probe ampliﬁcation (MLPA), or Sanger sequencing) to guarantee the quality of
+diagnostic reports. The choice of test strategy also depends on the balance between cost,
+turnaround time, coverage and data storage capacities. Most commonly, the frontline
+technologies for accurate genetic diagnosis include an ocular NGS panel or clinical exome
+sequencing (CES; also used to diagnose other conditions) followed by targeted in silico
+analysis restricted to genes implicated in IRDs. The analysis of the remaining genes is
+performed only when the “virtual ocular panel” yields no genetic diagnosis and has the
+potential of discovering new genes responsible for the IRD phenotype. Such an approach
+could even reduce the time needed for genetic testing, as there is no need to perform a new
+sequencing but rather to re-analyze the already available data.
+The standard turnaround time for targeted testing is around 3–4 months. In patients in
+whom IRD-speciﬁc panels were used to no avail or in those with atypical phenotypes, the
+strategy foresees the use of CES or WES [ 70], or CES followed by WES [ 71]. Instead, WGS
+should be used in patients who have a phenotype that corresponds to a speciﬁc condition,
+but in whom no mutations were detected in the genes previously identiﬁed as responsible
+for that condition or those unresolved by WES [ 70,72]. For instance, in patients with a
+single (‘monoallelic’) pathogenic variant in RPE65 and a convincing clinical picture (RP or
+LCA/EORD), the sequencing of the entire gene is warranted to look for CNVs or complex
+structural variants, SNVs in noncoding regions (UTRs, promoter and potential regulatory
+elements), and deep-intronic (DI) variants. The number of cases with monoallelic RPE65Int. J. Mol. Sci. 2021 ,22, 7207 8 of 14
+pathogenic variants is rather low, and this approach is mainly used in a research context.
+On the contrary, DI variants constitute 2% of unique and 4% of all ABCA4 gene variants
+implicated in the pathogenesis of another autosomal recessive IRD, Stargardt disease.
+ABCA4 gene mutations being more common than those of RPE65 , it is not surprising that
+the contribution of DI variants emerged more readily in the pathogenesis of Stargardt
+disease [ 73]. As the costs and turnaround times of sequencing technologies decrease, and
+if the capacity to interpret the functional consequences of noncoding variants increases,
+the use of WGS in IRD diagnosis will become the method of choice in the clinical setting.
+Results conﬁrmation is still performed by Sanger sequencing. The EVICR.net survey
+shows that most responding centers in Europe use clinical-grade tests for diagnosing IRDs;
+few combine clinical- and research-grade approaches. The most commonly deployed
+methodologies were IRD-speciﬁc gene panels (67%), WES (49%) and diagnosis-directed
+Sanger sequencing (41%). At present, 41–80% of the IRD patients are genetically solved in
+69% of responding EVICR.net centers, and only 5% of the centers obtain a genetic diagnosis
+in 81–100% of their IRD patients [74].
+One drawback of NGS panels is that it is not usually possible to determine CNVs, for
+which MLPA analysis should be used, particularly if extended segregation analysis is not
+possible (e.g., the proband is an adopted single child). In a study of 677 individuals with
+retinal dystrophy, indications of a deletion or duplication seen in NGS data were conﬁrmed
+with MLPA, qPCR, or chromosome microarray [75].
+Segregation analysis is a fundamental element of the genetic testing strategy as dis-
+cussed in the section on Sequence variants. Therefore, it is important to acquire samples
+from parents at the time of the proband’s genetic testing. Although up-front analysis
+of three samples (trio analysis) rather than one increases the costs of testing, it may well
+become a standard procedure as costs come down. Figure 1 summarizes a proposed genetic
+diagnostic workup in RPE65 -IRDs.
+With the advent of third-generation sequencing (TGS) based on the generation of
+long reads, routine obtainment of reads of >10 kb became possible. Two technologies
+play prominent roles on the market: single-molecule real-time sequencing known as
+PacBio (Paciﬁc Biosciences) and nanopore sequencing (Oxford Nanopore Sequencing) [ 76].
+While PacBio is based on recording ﬂuorescence events corresponding to single nucleotide
+incorporation [ 77], nanopore sequencing measures ionic current changes when native
+single-stranded nucleic acid molecule passes through a nanopore [ 78]. Long reads require
+apposite analysis tools, a database of which has recently been created [ 76]. TGS is particu-
+larly suitable for genome assembly studies and for the identiﬁcation of structural variants
+(i.e., mutations that affect more than 50 base pairs), as reviewed in Xia and Zhou, 2020 [ 79]).
+In the context of genetic testing in IRDs, TGS will contribute to the unravelling of orphan
+cases (lack of segregation data) or in the above-mentioned cases of apparent homozygosity
+to understanding the cis/trans allelic phase.
+In the future, artiﬁcial intelligence (AI) may speed up the genetic testing process,
+improve the prediction of pathogenicity and the rate of resolved genetic diagnoses. AI
+approaches in clinical genomics target tasks that are time-consuming and error-prone
+using traditional methods. Accurate variant calling and classiﬁcation, genome annotation,
+functional modelling, and phenotype-to-genotype correspondence—or perhaps future
+genotype-to-phenotype prediction from genomic data alone—will increasingly be per-
+formed using AI [ 80]. So far, deep neural networks have been used to successfully predict
+the causative IRD gene in macular dystrophy caused by ABCA4 and RP1L1 gene aberration
+compared with RP caused by EYS gene aberration and normal subjects from spectral
+domain-optical coherence tomography data [ 34,81]. An increase in diagnostic yield will
+ultimately improve the rates of patients’ inclusion in clinical trials that lead to the approval
+of novel treatment options.Int. J. Mol. Sci. 2021 ,22, 7207 9 of 14
+Int. J. Mol. Sci. 2021 , 22, x FOR PEER REVIEW 9 of 15 
+ 
+  350 
+Figure 1. The summary of a proposed genetic diagnostic workup. * If benign or likely benign vari- 351 
+ants found, the search for a mutation(s) responsibl e for the phenotype should be extended to other 352 
+genes. CES, clinical exome sequencing; MLPA, multiplex ligation probe amplification; NGS, next- 353 
+generation sequencing; VUS, variant of uncertain significance; WES, whole-exome sequencing; 354 
+WGS, whole-genome sequencing.  355 
+With the advent of third-generation sequencing (TGS) based on the generation of 356 
+long reads, routine obtainment of reads of >10 kb became possible. Two technologies play 357 
+prominent roles on the market: single-molec ule real-time sequencing known as PacBio 358 
+(Pacific Biosciences) and nanopore sequenci ng (Oxford Nanopore Sequencing) [76]. While 359 
+PacBio is based on recording fluorescence ev ents corresponding to single nucleotide in- 360 
+corporation [77], nanopore sequencing measur es ionic current changes when native sin- 361 
+gle-stranded nucleic acid molecule passes through a nanopore [78]. Long reads require 362 
+Figure 1. The summary of a proposed genetic diagnostic workup. * If benign or likely benign
+variants found, the search for a mutation(s) responsible for the phenotype should be extended to
+other genes. CES, clinical exome sequencing; MLPA, multiplex ligation probe ampliﬁcation; NGS,
+next-generation sequencing; VUS, variant of uncertain signiﬁcance; WES, whole-exome sequencing;
+WGS, whole-genome sequencing.
+6. Role of Genetic Counseling
+Genetic counseling is deﬁned as “the process of helping people understand and
+adapt to the medical, psychological and familial implications of genetic contributions to
+disease” [ 82]. Importantly, in addition to educating patients about the genetic aspects
+of their condition, genetic counseling includes elements of psychotherapy [ 83]. Genetic
+counseling appears to be effective in educating patients about their condition, providing a
+greater sense of control and improving how patients assess and manage risk [84].Int. J. Mol. Sci. 2021 ,22, 7207 10 of 14
+For patients with IRDs, genetic counseling beneﬁts from both experiences on eye
+disorders and from an in-depth knowledge of genetic aspects. It is therefore highly rec-
+ommended that genetic counsellors have experience in ocular genetics or work in multi-
+disciplinary teams with expertise in the ﬁeld; in particular, counseling sessions conducted
+jointly by an ophthalmologist and a medical geneticist should be advocated [74].
+During genetic counseling scheduled prior to the test, patients have to grant informed
+consent for testing upon acquiring in-depth knowledge on the range of possible outcomes,
+the meaning and limitations of the test (such as the fact that in tests evaluating multiple
+genes, not all variants have a unique interpretation and that testing can produce an uncer-
+tain or unresolved outcome), logistical difﬁculties and waiting times. Also, implications for
+the family must be explained, including inheritance pattern and the possibility of prenatal
+diagnosis. Last but not least, counsellors have to address the issue of incidental ﬁndings,
+especially when whole-exome/genome testing is planned. An in silico (virtual) NGS
+panel approach excludes the possibility of incidental ﬁndings as only IRD genes are tested.
+However, if WES or WGS sequencing is used and incidental ﬁndings are encountered, the
+role of a genetic counsellor is crucial to address their consequences with patients and their
+families. A number of factors may make patients resistant to genetic testing, including
+ethical concerns, paternity issues, reluctance to involve family members and lack of infor-
+mation. Some patients fear being told that there is no cure (not so in RPE65 -IRDs); there
+may be irrational guilt in parents who feel responsible for passing on the disease, and fear
+of a genetic disease and denial also play a role.
+Communication with patients and their relatives is a delicate, albeit crucial, issue.
+Healthcare professionals need to take adequate time for genetic counseling (an average
+session lasts approximately 45 min) and patients have to feel free to talk about their ex-
+pectations, voice their doubts and be able to contact the professional in case of necessity.
+Sometimes several consultations are needed to enable patients to understand their condi-
+tions, feel empowered and make informed decisions. As many RPE65 -IRD patients are
+young children, talking to their parents/careers may prove harrowing for all participants
+of a counseling session.
+When test results are available, genetic counseling should concentrate on interpreting
+the results obtained, such as variants relevant and not relevant to the phenotype, iden-
+tiﬁcation of VUSs or unexpected diagnosis; in case of an uncertain result, the need for
+further analysis and involving relatives may be described. Post-test genetic counseling also
+discusses disease management (multidisciplinary care for syndromic patients) and thera-
+peutic options, clinical trial inclusion, or the possibility of testing other family members. If
+additional genetic workup is needed, the necessity of a further wait for a genetic diagnosis
+must be raised. As segregation analysis is often a key element in molecular diagnosis,
+patients with advanced IRDs and no family members for segregation analysis constitute a
+particular challenge for both genetic testing and counseling.
+7. Conclusions
+Gene therapy is now available for the treatment of RPE65 -IRDs. Therapies speciﬁc
+for other genotypes are being developed, and clinical trials of their safety and efﬁcacy
+are underway [ 85]. Only patients with a sufﬁcient number of viable retinal cells can truly
+beneﬁt from the therapy. Therefore, a timely and effective genetic testing strategy must be
+implemented to identify patients eligible for gene therapy by adopting an exhaustive step-
+wise procedure so that no patient is left without a genetic diagnosis. Furthermore, to ensure
+the best outcomes for patients, genetic counseling programs should be implemented. As
+phenotypes and genotypes frequently do not correlate, multidisciplinary teams involving
+clinicians, geneticists, counsellors, diagnostic laboratories, and basic researchers should
+form to study the relationships between them and to unravel the molecular/pathogenic
+mechanisms of each variant to classify VUSs correctly. Frequent interaction, continuous
+feedback, and collaboration will optimize patient management and maximize the beneﬁt
+for patients from available treatments.Int. J. Mol. Sci. 2021 ,22, 7207 11 of 14
+Author Contributions: M.A. conceived the work, convened an editorial board, and outlined the
+draft, whilst S.B. and M.S. conceptualized, structured, and supervised the drafting of the manuscript.
+All authors provided insights for the development of the manuscript, revised it for intellectual
+content and approved the ﬁnal version to be published. All authors have read and agreed to the
+published version of the manuscript.
+Funding: The authors received no external funding for this research.
+Institutional Review Board Statement: Not applicable.
+Informed Consent Statement: Not applicable.
+Data Availability Statement: Not applicable.
+Acknowledgments: We would like to thank Georgii Filatov and Alicja M. Gruszka of Springer
+Healthcare Communications, who prepared the outline (GF) and wrote the manuscript (AMG),
+and Vincenza Vinaccia of Novartis Pharmaceuticals Italy for the critical revision of the manuscript.
+Medical writing assistance was funded by Novartis Farma.
+Conﬂicts of Interest: M.A. and N.F. are employees of Novartis Pharmaceuticals, Italy and Region
+Europe. I.P ., P .C., M.K., I.D.R., V .M., M.S., and S.B. have served as experts on an advisory board
+for Novartis Pharmaceuticals, Italy and Region Europe. S.B. has received honoraria from Novartis
+Pharmaceuticals, Italy and Region Europe for holding seminars. G.S. declares no conﬂict of interest.
+References
+1. Rivolta, C.; Sharon, D.; DeAngelis, M.M.; Dryja, T.P . Retinitis pigmentosa and allied diseases: Numerous diseases, genes, and
+inheritance patterns. Hum. Mol. Genet. 2002 ,11, 1219–1227. [CrossRef]
+2. Royal Australian and New Zealand college of Ophthalmologists (RANZCO). Guidelines for the Assessment and Manage-
+ment of Patients with Inherited Retinal Diseases (IRD). Available online: https://ranzco.edu/wp-content/uploads/2020/05/
+RANZCO-Guidelines-for-the-assessment-and-management-of-patients-with-inherited-retinal-diseases-IRD.pdf (accessed on
+22 December 2020).
+3. Verbakel, S.K.; van Huet, R.A.C.; Boon, C.J.F.; den Hollander, A.I.; Collin, R.W.J.; Klaver, C.C.W.; Hoyng, C.B.; Roepman, R.;
+Klevering, B.J. Non-syndromic retinitis pigmentosa. Prog. Retin. Eye Res. 2018 ,66, 157–186. [CrossRef] [PubMed]
+4. Dias, M.F.; Joo, K.; Kemp, J.A.; Fialho, S.L.; da Silva Cunha, A., Jr.; Woo, S.J.; Kwon, Y.J. Molecular genetics and emerging therapies
+for retinitis pigmentosa: Basic research and clinical perspectives. Prog. Retin. Eye Res. 2018 ,63, 107–131. [CrossRef]
+5. Hamel, C. Retinitis pigmentosa. Orphanet J. Rare Dis. 2006 ,1, 40. [CrossRef] [PubMed]
+6. Hanein, S.; Perrault, I.; Gerber, S.; Tanguy, G.; Barbet, F.; Ducroq, D.; Calvas, P .; Dollfus, H.; Hamel, C.; Lopponen, T.; et al.
+Leber congenital amaurosis: Comprehensive survey of the genetic heterogeneity, reﬁnement of the clinical deﬁnition, and
+genotype-phenotype correlations as a strategy for molecular diagnosis. Hum. Mutat. 2004 ,23, 306–317. [CrossRef] [PubMed]
+7. Kumaran, N.; Moore, A.T.; Weleber, R.G.; Michaelides, M. Leber congenital amaurosis/early-onset severe retinal dystrophy:
+Clinical features, molecular genetics and therapeutic interventions. Br. J. Ophthalmol. 2017 ,101, 1147–1154. [CrossRef]
+8. Retinal Information Network. RetNet. Available online: https://sph.uth.edu/retnet/ (accessed on 8 April 2021).
+9. Tsang, S.H.; Sharma, T. Retinitis Pigmentosa (Non-syndromic). In Atlas of Inherited Retinal Diseases ; Tsang, S.H., Sharma, T., Eds.;
+Springer International Publishing: Cham, Swizerland, 2018; pp. 125–130.
+10. Tsang, S.H.; Sharma, T. Leber Congenital Amaurosis. Adv. Exp. Med. Biol. 2018 ,1085 , 131–137. [CrossRef]
+11. Chao, D.L.; Burr, A.; Pennesi, M. RPE65-Related Leber Congenital Amaurosi /Early-Onset Severe Retinal Dystrophy. In
+GeneReviews((R)) ; Adam, M.P ., Ardinger, H.H., Pagon, R.A., Wallace, S.E., Bean, L.J.H., Mirzaa, G., Amemiya, A., Eds.; University
+of Washington: Seattle WA, USA, 1993–2021.
+12. Chung, D.C.; Bertelsen, M.; Lorenz, B.; Pennesi, M.E.; Leroy, B.P .; Hamel, C.P .; Pierce, E.; Sallum, J.; Larsen, M.; Stieger, K.; et al.
+The Natural History of Inherited Retinal Dystrophy Due to Biallelic Mutations in the RPE65 Gene. Am. J. Ophthalmol. 2019 ,199,
+58–70. [CrossRef] [PubMed]
+13. Lorenz, B.; Wabbels, B.; Wegscheider, E.; Hamel, C.P .; Drexler, W.; Preising, M.N. Lack of fundus autoﬂuorescence to 488
+nanometers from childhood on in patients with early-onset severe retinal dystrophy associated with mutations in RPE65.
+Ophthalmology 2004 ,111, 1585–1594. [CrossRef] [PubMed]
+14. Jacobson, S.G.; Aleman, T.S.; Cideciyan, A.V .; Roman, A.J.; Sumaroka, A.; Windsor, E.A.; Schwartz, S.B.; Heon, E.; Stone, E.M.
+Deﬁning the residual vision in leber congenital amaurosis caused by RPE65 mutations. Invest. Ophthalmol. Vis. Sci. 2009 ,50,
+2368–2375. [CrossRef] [PubMed]
+15. Hull, S.; Holder, G.E.; Robson, A.G.; Mukherjee, R.; Michaelides, M.; Webster, A.R.; Moore, A.T. Preserved visual function in
+retinal dystrophy due to hypomorphic RPE65 mutations. Br. J. Ophthalmol. 2016 ,100, 1499–1505. [CrossRef] [PubMed]
+16. Li, Y.; Yu, S.; Duncan, T.; Li, Y.; Liu, P .; Gene, E.; Cortes-Pena, Y.; Qian, H.; Dong, L.; Redmond, T.M. Mouse model of human
+RPE65 P25L hypomorph resembles wild type under normal light rearing but is fully resistant to acute light damage. Hum. Mol.
+Genet. 2015 ,24, 4417–4428. [CrossRef]Int. J. Mol. Sci. 2021 ,22, 7207 12 of 14
+17. Lorenz, B.; Poliakov, E.; Schambeck, M.; Friedburg, C.; Preising, M.N.; Redmond, T.M. A comprehensive clinical and biochemical
+functional study of a novel RPE65 hypomorphic mutation. Invest. Ophthalmol. Vis. Sci. 2008 ,49, 5235–5242. [CrossRef]
+18. Samardzija, M.; von Lintig, J.; Tanimoto, N.; Oberhauser, V .; Thiersch, M.; Reme, C.E.; Seeliger, M.; Grimm, C.; Wenzel, A. R91W
+mutation in Rpe65 leads to milder early-onset retinal dystrophy due to the generation of low levels of 11-cis-retinal. Hum. Mol.
+Genet. 2008 ,17, 281–292. [CrossRef]
+19. Li, S.; Xiao, X.; Yi, Z.; Sun, W.; Wang, P .; Zhang, Q. RPE65 mutation frequency and phenotypic variation according to exome
+sequencing in a tertiary centre for genetic eye diseases in China. Acta Ophthalmol. (Copenh.) 2020 ,98, e181–e190. [CrossRef]
+20. Choi, E.H.; Suh, S.; Sander, C.L.; Hernandez, C.J.O.; Bulman, E.R.; Khadka, N.; Dong, Z.; Shi, W.; Palczewski, K.; Kiser, P .D.
+Insights into the pathogenesis of dominant retinitis pigmentosa associated with a D477G mutation in RPE65. Hum. Mol. Genet.
+2018 ,27, 2225–2243. [CrossRef]
+21. Hull, S.; Mukherjee, R.; Holder, G.E.; Moore, A.T.; Webster, A.R. The clinical features of retinal disease due to a dominant mutation
+in RPE65. Mol. Vis. 2016 ,22, 626–635.
+22. Jauregui, R.; Park, K.S.; Tsang, S.H. Two-year progression analysis of RPE65 autosomal dominant retinitis pigmentosa. Ophthalmic
+Genet. 2018 ,39, 544–549. [CrossRef]
+23. US Food and Drug Administration (FDA). Luxturna: Prescribing Information. Available online: https://www.fda.gov/media/
+109906/download (accessed on 4 November 2020).
+24. European Medicines Agency (EMA). Luxturna: EPAR—Product Information. Available online: https://www.ema.europa.eu/
+en/documents/product-information/luxturna-epar-product-information_en.pdf (accessed on 4 November 2020).
+25. Dockery, A.; Stephenson, K.; Keegan, D.; Wynne, N.; Silvestri, G.; Humphries, P .; Kenna, P .F.; Carrigan, M.; Farrar, G.J. Target
+5000: Target Capture Sequencing for Inherited Retinal Degenerations. Genes 2017 ,8, 304. [CrossRef] [PubMed]
+26. Hamel, C.P .; Tsilou, E.; Pfeffer, B.A.; Hooks, J.J.; Detrick, B.; Redmond, T.M. Molecular cloning and expression of RPE65, a novel
+retinal pigment epithelium-speciﬁc microsomal protein that is post-transcriptionally regulated in vitro .J. Biol. Chem. 1993 ,268,
+15751–15757. [CrossRef]
+27. Pagon, R.A. Retinitis pigmentosa. Surv. Ophthalmol. 1988 ,33, 137–177. [CrossRef]
+28. Avela, K.; Salonen-Kajander, R.; Laitinen, A.; Ramsden, S.; Barton, S.; Rudanko, S.L. The genetic aetiology of retinal degeneration
+in children in Finland—New founder mutations identiﬁed. Acta Ophthalmol. 2019 ,97, 805–814. [CrossRef]
+29. Holtan, J.P .; Selmer, K.K.; Heimdal, K.R.; Bragadottir, R. Inherited retinal disease in Norway—A characterisation of current
+clinical and genetic knowledge. Acta Ophthalmol. 2020 ,98, 286–295. [CrossRef] [PubMed]
+30. Koenekoop, R.K. An overview of Leber congenital amaurosis: A model to understand human retinal development. Surv.
+Ophthalmol. 2004 ,49, 379–398. [CrossRef] [PubMed]
+31. Simonelli, F.; Ziviello, C.; Testa, F.; Rossi, S.; Fazzi, E.; Bianchi, P .E.; Fossarello, M.; Signorini, S.; Bertone, C.; Galantuomo, S.; et al.
+Clinical and molecular genetics of Leber’s congenital amaurosis: A multicenter study of Italian patients. Invest. Ophthalmol. Vis.
+Sci.2007 ,48, 4284–4290. [CrossRef] [PubMed]
+32. Stone, E.M.; Andorf, J.L.; Whitmore, S.S.; DeLuca, A.P .; Giacalone, J.C.; Streb, L.M.; Braun, T.A.; Mullins, R.F.; Scheetz, T.E.;
+Shefﬁeld, V .C.; et al. Clinically Focused Molecular Investigation of 1000 Consecutive Families with Inherited Retinal Disease.
+Ophthalmology 2017 ,124, 1314–1331. [CrossRef]
+33. Hanany, M.; Rivolta, C.; Sharon, D. Worldwide carrier frequency and genetic prevalence of autosomal recessive inherited retinal
+diseases. Proc. Natl. Acad. Sci. USA 2020 ,117, 2710–2716. [CrossRef] [PubMed]
+34. Pontikos, N.; Arno, G.; Jurkute, N.; Schiff, E.; Ba-Abbad, R.; Malka, S.; Gimenez, A.; Georgiou, M.; Wright, G.; Armengol, M.; et al.
+Genetic Basis of Inherited Retinal Disease in a Molecularly Characterised Cohort of More Than 3000 Families from the United
+Kingdom. Ophthalmology 2020 ,127, 1384–1394. [CrossRef] [PubMed]
+35. Sharon, D.; Ben-Yosef, T.; Goldenberg-Cohen, N.; Pras, E.; Gradstein, L.; Soudry, S.; Mezer, E.; Zur, D.; Abbasi, A.H.; Zeitz, C.; et al.
+A nationwide genetic analysis of inherited retinal diseases in Israel as assessed by the Israeli inherited retinal disease consortium
+(IIRDC). Hum. Mutat. 2020 ,41, 140–149. [CrossRef]
+36. Whelan, L.; Dockery, A.; Wynne, N.; Zhu, J.; Stephenson, K.; Silvestri, G.; Turner, J.; O’Byrne, J.J.; Carrigan, M.; Humphries,
+P .; et al. Findings from a Genotyping Study of Over 1000 People with Inherited Retinal Disorders in Ireland. Genes 2020 ,11, 105.
+[CrossRef]
+37. Colombo, L.; Maltese, P .E.; Castori, M.; El Shamieh, S.; Zeitz, C.; Audo, I.; Zulian, A.; Marinelli, C.; Benedetti, S.; Costantini,
+A.; et al. Molecular Epidemiology in 591 Italian Probands With Nonsyndromic Retinitis Pigmentosa and Usher Syndrome. Invest.
+Ophthalmol. Vis. Sci. 2021 ,62, 13. [CrossRef] [PubMed]
+38. Perea-Romero, I.; Gordo, G.; Iancu, I.F.; Del Pozo-Valero, M.; Almoguera, B.; Blanco-Kelly, F.; Carreno, E.; Jimenez-Rolando, B.;
+Lopez-Rodriguez, R.; Lorda-Sanchez, I.; et al. Genetic landscape of 6089 inherited retinal dystrophies affected cases in Spain and
+their therapeutic and extended epidemiological implications. Sci. Rep. 2021 ,11, 1526. [CrossRef] [PubMed]
+39. Alastalo, T.-P .; Kämpjärvi, K.; Guidugli, L.; Känsäkoski, J.; Wells, K.; Västinsalo, H.; Sarantaus, L.; Salmenperä, P .; Myllykangas, S.;
+Sankila, E.-M.K.; et al. Prevalence and genetic characteristics of RPE65-associated retinal disease. Invest. Ophthalmol. Vis. Sci.
+2019 ,60, 400.
+40. Wigman, L.; van Zelst-Stams, W.A.; Pfundt, R.; van den Born, L.I.; Klaver, C.C.; Verheij, J.B.; Hoyng, C.B.; Breuning, M.H.; Boon,
+C.J.; Kievit, A.J.; et al. Diagnostic exome sequencing in 266 Dutch patients with visual impairment. Eur. J. Hum. Genet. 2017 ,25,
+591–599. [CrossRef]Int. J. Mol. Sci. 2021 ,22, 7207 13 of 14
+41. Bernardis, I.; Chiesi, L.; Tenedini, E.; Artuso, L.; Percesepe, A.; Artusi, V .; Simone, M.L.; Manfredini, R.; Camparini, M.;
+Rinaldi, C.; et al. Unravelling the Complexity of Inherited Retinal Dystrophies Molecular Testing: Added Value of Targeted
+Next-Generation Sequencing. BioMed Res. Int. 2016 ,2016 , 6341870. [CrossRef]
+42. den Hollander, A.I.; Roepman, R.; Koenekoop, R.K.; Cremers, F.P . Leber congenital amaurosis: Genes, proteins and disease
+mechanisms. Prog. Retin. Eye Res. 2008 ,27, 391–419. [CrossRef]
+43. Yzer, S.; Leroy, B.P .; De Baere, E.; de Ravel, T.J.; Zonneveld, M.N.; Voesenek, K.; Kellner, U.; Ciriano, J.P .; de Faber, J.T.;
+Rohrschneider, K.; et al. Microarray-based mutation detection and phenotypic characterisation of patients with Leber congenital
+amaurosis. Invest. Ophthalmol. Vis. Sci. 2006 ,47, 1167–1176. [CrossRef]
+44. Lorenz, B.; Tavares, J.; van den Born, L.I.; Marques, J.P .; Scholl, H.P .N.; EVICR.net Group. Current management of patients with
+RPE65 mutation-associated inherited retinal degenerations (IRDs) in Europe. Results of a multinational survey by the European
+Vision Institute Clinical Research Network EVICR.net. Ophthalmic Res. 2021 . [CrossRef]
+45. Cai, X.; Conley, S.M.; Naash, M.I. RPE65: Role in the visual cycle, human retinal disease, and gene therapy. Ophthalmic Genet.
+2009 ,30, 57–62. [CrossRef]
+46. Travis, G.H.; Golczak, M.; Moise, A.R.; Palczewski, K. Diseases caused by defects in the visual cycle: Retinoids as potential
+therapeutic agents. Annu. Rev. Pharmacol. Toxicol. 2007 ,47, 469–512. [CrossRef] [PubMed]
+47. Jin, M.; Yuan, Q.; Li, S.; Travis, G.H. Role of LRAT on the retinoid isomerase activity and membrane association of Rpe65. J. Biol.
+Chem. 2007 ,282, 20915–20924. [CrossRef]
+48. Yang, U.; Gentleman, S.; Gai, X.; Gorin, M.B.; Borchert, M.S.; Lee, T.C.; Villanueva, A.; Koenekoop, R.; Maguire, A.M.; Bennett,
+J.; et al. Utility of In Vitro Mutagenesis of RPE65 Protein for Veriﬁcation of Mutational Pathogenicity Before Gene Therapy. JAMA
+Ophthalmol. 2019 , 1–9. [CrossRef] [PubMed]
+49. Sodi, A.; Banﬁ, S.; Testa, F.; Della Corte, M.; Passerini, I.; Pelo, E.; Rossi, S.; Simonelli, F. Italian IRD Working Group. RPE65-
+associated inherited retinal diseases: Consensus recommendations for eligibility to gene therapy. Orphanet J. Rare Dis. 2021 ,
+16, 257. [CrossRef]
+50. Carr, T.H.; McEwen, R.; Dougherty, B.; Johnson, J.H.; Dry, J.R.; Lai, Z.; Ghazoui, Z.; Laing, N.M.; Hodgson, D.R.; Cruzalegui,
+F.; et al. Deﬁning actionable mutations for oncology therapeutic development. Nat. Rev. Cancer 2016 ,16, 319–329. [CrossRef]
+51. Gu, S.M.; Thompson, D.A.; Srikumari, C.R.; Lorenz, B.; Finckh, U.; Nicoletti, A.; Murthy, K.R.; Rathmann, M.; Kumaramanickavel,
+G.; Denton, M.J.; et al. Mutations in RPE65 cause autosomal recessive childhood-onset severe retinal dystrophy. Nat. Genet. 1997 ,
+17, 194–197. [CrossRef] [PubMed]
+52. Marlhens, F.; Bareil, C.; Griffoin, J.M.; Zrenner, E.; Amalric, P .; Eliaou, C.; Liu, S.Y.; Harris, E.; Redmond, T.M.; Arnaud, B.; et al.
+Mutations in RPE65 cause Leber’s congenital amaurosis. Nat. Genet. 1997 ,17, 139–141. [CrossRef] [PubMed]
+53. Richards, S.; Aziz, N.; Bale, S.; Bick, D.; Das, S.; Gastier-Foster, J.; Grody, W.W.; Hegde, M.; Lyon, E.; Spector, E.; et al. Standards
+and guidelines for the interpretation of sequence variants: A joint consensus recommendation of the American College of Medical
+Genetics and Genomics and the Association for Molecular Pathology. Genet. Med. 2015 ,17, 405–424. [CrossRef] [PubMed]
+54. National Center for Biotechnology Information (NCBI). ClinVar. Available online: https://www.ncbi.nlm.nih.gov/clinvar/
+?term=rpe65%5Bgene%5D (accessed on 5 January 2021).
+55. Leiden University Medical Center. LOVD. Available online: https://databases.lovd.nl/shared/variants/RPE65/unique?search_
+var_status=%3D%22Marked%22%7C%3D%22Public%22#object_id=VariantOnTranscriptUnique%2CVariantOnGenome&id=
+RPE65&order=VariantOnTranscript%2FDNA%2CASC&search_transcriptid=00018066&page_size=500&page=1 (accessed on
+5 January 2021).
+56. Karczewski, K.J.; Francioli, L.C.; Tiao, G.; Cummings, B.B.; Alföldi, J.; Wang, Q.; Collins, R.L.; Laricchia, K.M.; Ganna, A.;
+Birnbaum, D.P .; et al. The mutational constraint spectrum quantiﬁed from variation in 141,456 humans. Nature 2020 ,581, 434–443.
+[CrossRef]
+57. Chung, D.C.; Trzupek, K.; Wellman, J.; High, K. Absence of genotype-phenotype correlations in RPE65 gene mutations associated
+with autosomal recessive retinal dystrophy. Invest. Ophthalmol. Vis. Sci. 2015 ,56, 2891.
+58. Pierrache, L.H.M.; Ghafaryasl, B.; Khan, M.I.; Yzer, S.; van Genderen, M.M.; Schuil, J.; Boonstra, F.N.; Pott, J.W.R.; de Faber, J.;
+Tjon-Fo-Sang, M.J.H.; et al. Longitudinal Study of Rpe65-Associated Inherited Retinal Degenerations. Retina 2020 ,40, 1812–1828.
+[CrossRef]
+59. Lopez-Rodriguez, R.; Lantero, E.; Blanco-Kelly, F.; Avila-Fernandez, A.; Martin Merida, I.; del Pozo-Valero, M.; Perea-Romero, I.;
+Zurita, O.; Jim énez-Rolando, B.; Swaﬁri, S.T.; et al. RPE65/-related retinal dystrophy: Mutational and phenotypic spectrum in 45
+affected patients. medRxiv 2021 . [CrossRef]
+60. Mahajan, V .; Bennett, J.; Maguire, A.M.; Haller, J.A.; Leroy, B.P .; Sohn, E.H.; Drack, A.V .; Yu, Z.-F.; Tillman, A.; Ciulla, T.A.; et al.
+RPE65 Mutation subtype effects on baseline visual function and treatment response in phase 3 voretigene neparvovec trial. In
+Proceedings of the American Academy of Ophthalmology Meeting, Chicago, IL, USA, 27–30 October 2018.
+61. Motta, F.L.; Martin, R.P .; Porto, F.B.O.; Wohler, E.S.; Resende, R.G.; Gomes, C.P .; Pesquero, J.B.; Sallum, J.M.F. Pathogenicity
+Reclasssiﬁcation of RPE65 Missense Variants Related to Leber Congenital Amaurosis and Early-Onset Retinal Dystrophy. Genes
+2019 ,11, 24. [CrossRef]
+62. Ellard, S.; Baple, E.L.; Callaway, A.; Berry, I.; Forrester, N.; Turnbull, C.; Owens, M.; Eccles, D.M.; Abbs, S.; Scott, R.; et al. ACGS
+Best Practice Guidelines for Variant Classiﬁcation in Rare Disease 2020. Available online: https://www.acgs.uk.com/media/11
+631/uk-practice-guidelines-for-variant-classiﬁcation-v4-01-2020.pdf (accessed on 5 January 2021).Int. J. Mol. Sci. 2021 ,22, 7207 14 of 14
+63. Philp, A.R.; Jin, M.; Li, S.; Schindler, E.I.; Iannaccone, A.; Lam, B.L.; Weleber, R.G.; Fishman, G.A.; Jacobson, S.G.; Mullins,
+R.F.; et al. Predicting the pathogenicity of RPE65 mutations. Hum. Mutat. 2009 ,30, 1183–1188. [CrossRef]
+64. Iancu, I.-F.; Avila-Fernandez, A.; Arteche, A.; Trujillo-Tiebas, M.J.; Riveiro-Alvarez, R.; Almoguera, B.; Martin-Merida, I.; Del
+Pozo-Valero, M.; Perea-Romero, I.; Corton, M. Prioritizing variants of uncertain signiﬁcance for reclassiﬁcation using a rule-based
+algorithm in inherited retinal dystrophies. NPJ Genom. Med. 2021 ,6, 1–9. [CrossRef] [PubMed]
+65. Redmond, T.M.; Poliakov, E.; Yu, S.; Tsai, J.Y.; Lu, Z.; Gentleman, S. Mutation of key residues of RPE65 abolishes its enzymatic
+role as isomerohydrolase in the visual cycle. Proc. Natl. Acad. Sci. USA 2005 ,102, 13658–13663. [CrossRef]
+66. Ellingford, J.M.; Horn, B.; Campbell, C.; Arno, G.; Barton, S.; Tate, C.; Bhaskar, S.; Sergouniotis, P .I.; Taylor, R.L.; Carss, K.J.; et al.
+Assessment of the incorporation of CNV surveillance into gene panel next-generation sequencing testing for inherited retinal
+diseases. J. Med. Genet. 2018 ,55, 114–121. [CrossRef]
+67. Thompson, D.A.; McHenry, C.L.; Li, Y.; Richards, J.E.; Othman, M.I.; Schwinger, E.; Vollrath, D.; Jacobson, S.G.; Gal, A. Retinal
+dystrophy due to paternal isodisomy for chromosome 1 or chromosome 2, with homoallelism for mutations in RPE65 or MERTK,
+respectively. Am. J. Hum. Genet. 2002 ,70, 224–229. [CrossRef] [PubMed]
+68. Mantere, T.; Kersten, S.; Hoischen, A. Long-Read Sequencing Emerging in Medical Genetics. Front. Genet. 2019 ,10, 426. [CrossRef]
+69. Black, G.C.; Sergouniotis, P .; Sodi, A.; Leroy, B.P .; Van Cauwenbergh, C.; Liskova, P .; Gronskov, K.; Klett, A.; Kohl, S.; Taurina,
+G.; et al. The need for widely available genomic testing in rare eye diseases: An ERN-EYE position statement. Orphanet J. Rare
+Dis. 2021 ,16, 142. [CrossRef] [PubMed]
+70. Weisschuh, N.; Mayer, A.K.; Strom, T.M.; Kohl, S.; Glockle, N.; Schubach, M.; Andreasson, S.; Bernd, A.; Birch, D.G.; Hamel,
+C.P .; et al. Mutation Detection in Patients with Retinal Dystrophies Using Targeted Next Generation Sequencing. PLoS ONE 2016 ,
+11, e0145951. [CrossRef]
+71. Martin-Sanchez, M.; Bravo-Gil, N.; Gonzalez-Del Pozo, M.; Mendez-Vidal, C.; Fernandez-Suarez, E.; Rodriguez-de la Rua, E.;
+Borrego, S.; Antinolo, G. A Multi-Strategy Sequencing Workﬂow in Inherited Retinal Dystrophies: Routine Diagnosis, Addressing
+Unsolved Cases and Candidate Genes Identiﬁcation. Int. J. Mol. Sci. 2020 ,21, 9355. [CrossRef] [PubMed]
+72. Zeitz, C.; Michiels, C.; Neuille, M.; Friedburg, C.; Condroyer, C.; Boyard, F.; Antonio, A.; Bouzidi, N.; Milicevic, D.; Veaux, R.; et al.
+Where are the missing gene defects in inherited retinal disorders? Intronic and synonymous variants contribute at least to 4% of
+CACNA1F-mediated inherited retinal disorders. Hum. Mutat. 2019 ,40, 765–787. [CrossRef] [PubMed]
+73. Cremers, F.P .M.; Lee, W.; Collin, R.W.J.; Allikmets, R. Clinical spectrum, genetic complexity and therapeutic approaches for retinal
+disease caused by ABCA4 mutations. Prog. Retin. Eye Res. 2020 ,79, 100861. [CrossRef]
+74. Lorenz, B.; Tavares, J.; van den Born, L.I.; Marques, J.P .; Scholl, H.P .N. Current management of Inherited Retinal Degenerations
+(IRD) patients in Europe. Results of a multinational survey by the European Vision Institute Clinical Research Network EVICR.net.
+Ophthalmic Res. 2021 . [CrossRef]
+75. Jespersgaard, C.; Fang, M.; Bertelsen, M.; Dang, X.; Jensen, H.; Chen, Y.; Bech, N.; Dai, L.; Rosenberg, T.; Zhang, J.; et al. Molecular
+genetic analysis using targeted NGS analysis of 677 individuals with retinal dystrophy. Sci. Rep. 2019 ,9, 1219. [CrossRef]
+76. Amarasinghe, S.L.; Su, S.; Dong, X.; Zappia, L.; Ritchie, M.E.; Gouil, Q. Opportunities and challenges in long-read sequencing
+data analysis. Genome Biol. 2020 ,21, 30. [CrossRef]
+77. Rhoads, A.; Au, K.F. PacBio Sequencing and Its Applications. Genom. Proteom. Bioinform. 2015 ,13, 278–289. [CrossRef]
+78. Wang, Y.; Yang, Q.; Wang, Z. The evolution of nanopore sequencing. Front. Genet. 2014 ,5, 449. [CrossRef]
+79. Xiao, T.; Zhou, W. The third generation sequencing: The advanced approach to genetic diseases. Transl. Ped. 2020 ,9, 163–173.
+[CrossRef]
+80. Dias, R.; Torkamani, A. Artiﬁcial intelligence in clinical and genomic diagnostics. Genome Med. 2019 ,11, 70. [CrossRef]
+81. Fujinami-Yokokawa, Y.; Pontikos, N.; Yang, L.; Tsunoda, K.; Yoshitake, K.; Iwata, T.; Miyata, H.; Fujinami, K. Japan Eye Genetics
+Consortium. Prediction of Causative Genes in Inherited Retinal Disorders from Spectral-Domain Optical Coherence Tomography
+Utilising Deep Learning Techniques. J. Ophthalmol. 2019 ,2019 , 1691064. [CrossRef] [PubMed]
+82. Resta, R.; Biesecker, B.B.; Bennett, R.L.; Blum, S.; Hahn, S.E.; Strecker, M.N.; Williams, J.L.; National Society of Genetic Counselors’
+Deﬁnition Task Force. A new deﬁnition of Genetic Counseling: National Society of Genetic Counselors’ Task Force report. J.
+Genet. Couns. 2006 ,15, 77–83. [CrossRef] [PubMed]
+83. Austin, J.; Semaka, A.; Hadjipavlou, G. Conceptualising genetic counseling as psychotherapy in the era of genomic medicine. J.
+Genet. Couns. 2014 ,23, 903–909. [CrossRef]
+84. Madlensky, L.; Trepanier, A.M.; Cragun, D.; Lerner, B.; Shannon, K.M.; Zierhut, H. A rapid systematic review of outcomes studies
+in genetic counseling. J. Genet. Couns. 2017 ,26, 361–378. [CrossRef]
+85. Haﬂer, B.P . Clinical Progress in Inherited Retinal Degenerations: Gene Therapy Clinical Trials and Advances in Genetic Sequencing.
+Retina 2017 ,37, 417–423. [CrossRef] [PubMed]

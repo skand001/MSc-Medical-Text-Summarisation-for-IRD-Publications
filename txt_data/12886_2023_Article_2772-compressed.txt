@@ -1,0 +1,668 @@
+Li et al. BMC Ophthalmology           (2023) 23:25  
+https://doi.org/10.1186/s12886-023-02772-0
+RESEARCH
+© The Author(s) 2023. Open Access This article is licensed under a Creative Commons Attribution 4.0 International License, which 
+permits use, sharing, adaptation, distribution and reproduction in any medium or format, as long as you give appropriate credit to the 
+original author(s) and the source, provide a link to the Creative Commons licence, and indicate if changes were made. The images or 
+other third party material in this article are included in the article’s Creative Commons licence, unless indicated otherwise in a credit line 
+to the material. If material is not included in the article’s Creative Commons licence and your intended use is not permitted by statutory 
+regulation or exceeds the permitted use, you will need to obtain permission directly from the copyright holder. To view a copy of this 
+licence, visit http://  cr
+eat iv
+eco mmons
+. or
+g/ licen  ses/ b
+y/4. 0/
+. The Creative Commons Public Domain Dedication waiver (http://  cr
+eat iv
+eco 
+mmons.  or
+g/ publi  cdoma  in/ z
+ero/1.  0/
+) applies to the data made available in this article, unless otherwise stated in a credit line to the data.Open AccessBMC Ophthalmology
+Thicknesses of the retina and choroid 
+in children with retinitis pigmentosa
+Cheng  Li, Chunxia  Peng, Chengyue  Zhang  and Ningdong  Li* 
+Abstract  
+Purpose  To compare the retinal thicknesses (RT) and choroidal thicknesses (CT) in retinitis pigmentosa (RP) children 
+with those of health
+y children using enhanced depth imaging (EDI) optical coherence tomography (OCT). The RT and 
+CT in different genetic subgroups of autosomal dominant RP (ADRP) and X-linked inheritance RP (XLRP) were further 
+studied to investigate the characteristics of retinal and choroidal changes in the early stages of RP .
+Method  A retr
+ospective analysis was performed on a group of patients with RP who underwent EDI-OCT. Thirty-two 
+children (64 eyes) with RP and 28 age- and refraction-matched healthy children (56 eyes) were included in the study. 
+Seven of the 32 RP children (14 eyes) had X-linked inheritance RP , and 10 (20 eyes) had autosomal dominant inherit-
+ance RP . RT and CT were measured by optical coherence tomography and compared between the 32 children with 
+RP and 28 controls and between 7 XLRP and 10 ADRP children.
+Result  Among the 32 children with RP
+, there were 18 males and 14 females with an average age of 6.6  ± 2.4 y
+ears. 
+The mean RT was smaller in the RP group than in the control group at all of the locations. The mean temporal CT was 
+smaller in the RP group (243.76  ± 60.82  μm) than in the control g
+roup (275.23  ± 40.92  μm) 
+(P = 0.001), while there was 
+no sig
+nificant thinning on the foveal or nasal side.
+The best-corrected visual acuity of the XLRP group (0.40  ± 0.19) was worse than that of the ADRP g
+roup (0.68  ± 0.21) 
+(
+P = 0.001), but the disease duration was the same (P  = 0.685). T
+he mean foveal RT was smaller in the XLRP group 
+(173.85  ± 22.87  μm) than in the ADRP gr
+oup (192.20  ± 9.70 μm) 
+(P = 0.003), while there was no sig
+nificant thinning at 
+the other locations we studied. The mean temporal CT was smaller in the XLRP group (211.21  ± 69.41  μm) than in the 
+ADRP gr
+oup (274.45  ± 57.91  μm) 
+(P = 0.007); CT measur
+ements in XLRP children showed a more severe reduction on 
+the temporal side.
+Conclusion  The chor
+oid in RP children was preferentially smaller on the temporal side of the macula, and retinal 
+thinning was relatively extensive. Children with RP have strong clinical and genetic heterogeneity. The XLRP children 
+demonstrated greater RT reduction at the fovea and greater CT reduction at the temporal side of the macula than the 
+ADRP children. Our findings also provide evidence that the changes in thicknesses may be indicative of the greater 
+severity of XLRP versus ADRP in the early stage.
+Keywords  Retinitis pig
+mentosa, Retinal and choroidal thicknesses, XLRP and ADRP
+Introduction
+Retinitis pigmentosa (RP) is an inheritable retinal disor -
+der with an estimated prevalence of 1 in 4000  ~ 5000 in t he 
+global population [1 ]. It can be inherited in an autosomal 
+dominant (AD), autosomal recessive (AR), X-linked (XL), 
+or digenic pattern [2 ]. Night blindness usually presents as an *Correspondence:
+Ningdong  Li
+lnd30@163.com
+D
+epartment of  Ophthalmology
+, Beijing Children’s Hospital, Capital 
+Medical University, National Center for  Childr
+en’s Health, No.56 Nanlishi 
+Road, Xicheng District, Beijing  100045, ChinaPage 2 of 9 Li et al. BMC Ophthalmology           (2023) 23:25 
+early symptom of RP , followed by a progressive contraction 
+of the peripheral visual field. The patient’s central vision may 
+be preserved in the early stage but will decrease over time, 
+ultimately resulting in complete blindness when cone cell 
+function is lost entirely. Fundus changes are typically char -
+acterized as a waxy pallor of the optic disc with narrowing 
+of re
+tinal blood vessels and formation of bone spicule–like 
+pigment deposits at the mid-periphery of the retina. The 
+electrophysiological response of the patient’s retina in an 
+electroretinogram (ERG) may be diminished or absent.
+RP has strong clinical and genetic heterogeneity, with 
+diverse inheritance patterns, disease-causing genes and 
+clinical features. The expressivity of the causative genes is 
+variable among patients with different inheritance patterns 
+and different gene mutations. In the early stage of RP , visual 
+impairment is believed to be milder in AD patients, who 
+have a relatively late onset of illness and retain their central 
+vision into adulthood, than in XL patients, who have a more 
+severe disease course, especially for affected males [3 ].
+Although RP is caused by mutations in many genes, the 
+final pathway of pathological change is apoptosis of the 
+photoreceptor cells (PRC) and the retinal pigment epithe -
+lium (RPE). The PRC and RPE atrophy due to loss of cells 
+as t
+he disease progresses; this degradation ultimately leads 
+to structural changes in the whole retina. The choroid 
+lies adjacent to the retina and supplies it with abundant 
+oxygen, blood and nutrients to meet the high metabolic 
+demands of the PRC and RPE. When the retina undergoes 
+structural changes, the choroid, which is entirely com -
+posed of vascular tissue, may be involved in retinal ves -
+sel narrowing. In this study, we evaluated the anatomical 
+change
+s in the retina and choroid in patients with autoso -
+mal dominant RP (ADRP) and X-linked RP (XLRP).
+Materials and methods
+Participants
+We conducted a retrospective study including thirty-two chil -
+dren (64 eyes) with RP and 28 age- and refraction-matched healt
+hy children (56 eyes). Patients with XLRP and ADRP 
+who were under 12  years 
+of age were recruited for this study. 
+The diagnosis of RP was based on the following criteria: (1) 
+reduction or extinction of electrophysiological responses 
+recorded in an ERG; and (2) typical fundus changes on reti -
+noscopic examination. Children in the healthy control group 
+had no e ye di
+seases except for some refractive errors. Patients 
+were divided into the XLRP and ADRP groups according 
+to their disease-causing genes. The duration of symptoms 
+and onset age of XLRP and ADRP were matched (shown in 
+Table  1). All participants underwent ophthalmologic exami -
+nations, including evaluations of best-corrected visual acuity 
+using Sne
+llen charts, slit-lamp examination of the anterior 
+segment of each eye, and examination of the vitreous and 
+fundus by ophthalmoscopy and photography [4 ]. Refractive 
+error was examined using a Welch Allyn VS100 apparatus. 
+Full-field ERGs were recorded using the RETI-scan 21 sys -
+tem (Roland company, Germany) according to the standards 
+of the In
+ternational Society for Clinical Electrophysiology of 
+Vision (http://  w
+ww. i
+scev.  or
+g).
+Patients were excluded if they had myopia of more 
+than 6 dioptres (D), hyperopia higher than 3 D, astig -
+matism higher than 3 D, cataracts, macular oedema 
+or e pir
+etinal membrane, because these factors might 
+interfere with the accurate measurement of the reti -
+nal and choroidal thicknesses [5 ]. Thi s st udy complied 
+with the tenets of the Declaration of Helsinki and was 
+approved by the Ethics Committee of the Beijing Chil -
+dren’s Hospital.
+OCT examinations
+OCT measurements were obtained using a Spectralis 
+OCT apparatus with a wavelength of 870  nm (Heide
+l-
+berg Engineering GmbH, Germany) in enhanced depth 
+imag ing (E
+DI) acquisition mode. One section through 
+the macular fovea and the optic disc, composed of 100 
+averaged scans, was obtained. All children were sched -
+uled for examination in the afternoon. A horizontal 
+Table  1 Demographic characteristics of the participants
+Abbreviations: XLRP X-linked RP , ADRP Autosomal dominant RP , BCVA  Best-corrected visual acuityControl group
+(n = 28, 56 ey
+es)RP group
+(n = 32, 64 ey
+es)P value RP(n  = 17 with tw o gene type)
+XLRP
+(n = 7, 14 ey
+es)ADRP
+(n = 10, 20 ey
+es)P value
+Sex (male/female) 15/13 18/14 P = 0.602 5/2 6/4 P = 0.627
+B
+CVA – – – 0.40 ± 0.19 0.68 ± 0.21 P = 0.001
+A
+ge (years) 7.1 ± 2.2 6.6 ± 2.4 P = 0.314 5.1 ± 0.89 6.1 ± 2.1 P = 0.314
+Disease duration (y
+ears) – – – 2.57 ± 1.13 2.4 ± 1.07 P = 0.685
+Spher
+ical equivalent −1.20  ± 3.65 −
+1.93 ± 4.88 P = 0.303 – – –
+G
+enotypes – – – RP2, RPGR TOPOR, PRPF8, PRPF31, 
+RHO, HK1, PRPF4, RDH12
+RPE65, SEMA4A–Page 3 of 9
+ Li et al. BMC Ophthalmology           (2023) 23:25 
+ 
+high-resolution line scan passing through the fovea in 
+primary gaze was chosen for detailed analysis. The thick -
+nesses of the retina and choroid were measured manu -
+ally using the calliper function in the Heidelberg reader 
+sof
+tware [6]. The retinal thickness (RT) was measured 
+between the inner limiting membrane and the outer 
+border of the RPE, and thickness measurements were 
+obtained at the fovea and at 1000  μm and 3000  μm nasal 
+and t
+emporal to the centre of the fovea in a horizontal 
+section [7]. The choroid thickness (CT) was measured 
+from the outer border of the RPE vertically to the inner 
+scleral border at the fovea and at 1000  μm and 3000  μm 
+nasal 
+and temporal to the centre of the fovea in a hori -
+zontal section (shown in Fig.  1) [ 8]. Both the RT and CT 
+were measured by the same experienced physician; the 
+measurements were repeated three times and averaged.Molecular diagnosis
+Three millilitres of peripheral venous blood was col -
+lected from the patients and their matched control par -
+ticipants. The patient’s DNA was extracted from the 
+lym
+phocytes according to a standard protocol (Roche 
+Biochemical, Inc.). Exome sequencing was performed 
+by the commercial Myogenomic Company (Beijing, 
+China). Sequences were analysed using the Seqman 
+program in DNASTAR software (DNASTAR Inc., Mad -
+ison, WI). The online tools Polyphen-2 and SIFT were 
+us
+ed to predict the possible impact on the structure 
+and function of a protein after an amino acid substitu -
+tion. Mutations were named following the nomencla -
+ture recommended by the Human Genomic Variation 
+So
+ciety (HGVS). According to the ACMG criteria, the 
+gene variants in our study were pathogenic.
+Fig.  1 Measurement map of the thicknesses of the retina and choroid. The retinal thickness (RT) is the distance between the inner limiting 
+membrane and the out
+er border of the RPE; the choroid thickness (CT) is measured from the outer border of the RPE vertically to the inner scleral 
+border. M: foveal thickness; N1: thickness 1000  μm nasal to the f
+ovea; N2: thickness 3000  μm nasal to the f
+ovea; T1: thickness 1000  μm temporal t
+o 
+the fovea; T2: thickness 3000  μm temporal t
+o the foveaPage 4 of 9 Li et al. BMC Ophthalmology           (2023) 23:25 
+Statistics
+The retinal and choroidal thicknesses were compared 
+between different groups. Statistical analysis was per -
+formed using a statistical software package (SPSS, ver -
+sion 23.0; IBM, Armonk, NY, USA). Frequency and 
+des
+criptive statistics were used for data analysis. Demo -
+graphic and clinical characteristics, including age, CT 
+and R T
+, were compared using independent sample t 
+tests. All the data were normally distributed, and sex 
+was compared using the chi-squared test. Differences 
+were considered significant if p  < 0.05.
+Results
+Sixty-four eyes of 32 children with RP (18 males and 14 
+females) and 56 eyes of 28 healthy controls (15 males 
+and 13 females) were included in the study. A flowchart 
+of patient recruitment is shown in Fig.  2. There was no 
+significant difference in age, sex, or spherical equivalent 
+between the RP and control groups (shown in Table  1). 
+Fourteen eyes of 7 children with X-linked inheritance 
+(5 males and 2 females) and 20 eyes of 10 children with 
+autosomal dominant inheritance (6 males and 4 females) 
+were included in the study and allocated to the XLRP and 
+ADRP groups, respectively (Table 1).
+There were significant differences in the RT between 
+the RP group and the control group (p  = 0.000) at all 
+of t
+he measured points (Table  2). In the RP group, the 
+mean CT 3000  μm to t
+he temporal side of the fovea was 
+243.76  ± 60.82  μm, while the c
+orresponding measure -
+ment in the control group was 275.23  ± 40.92  μm; this 
+difference was significant (p  < 0.05; show
+n in Table  3). There was no significant thinning in the other locations 
+we studied. We found that the CT measurements of RP 
+children showed a more severe reduction on the tempo -
+ral side. Macular thicknesses and sub-macular CT of the 
+RP g
+roup and the control group were presented in Fig.3.
+The mean RT of the XLRP and ADRP group are pre -
+sented in Table  2. Ther e were significant differences in 
+the foveal RT between the two groups (p  = 0.003). 
+The 
+foveal RT of XLRP patients was less than that of ADRP 
+patients (Fig.3), but there was no significant differ -
+ence at 1000  μm or 3000  μm fr om the fovea. We found 
+that retinal degeneration at the macula was more obvi -
+ous in children with XLRP than in children with ADRP . 
+The mac ul
+ar thicknesses were positively correlated with 
+BCVA in XLRP and ADRP respectively (Fig.4). The vis -
+ual acuity of the XLRP group was worse than that of the 
+ADR
+P group (Table  2), which also indicates that XLRP 
+leads to seriously damage.
+The mean CT of the XLRP and ADRP group are pre -
+sented in Table  3. The C T of t he XLRP group 3000  μm to  
+the temporal side of the fovea was smaller than that of the 
+ADRP group, while there was no significant thinning in the 
+other locations we studied (p  = 0.007). We f
+ound that the 
+CT measurements of the XLRP children showed a more 
+severe reduction on the temporal side than those of ADRP 
+children. The temporal thinning of the choroid was more 
+pronounced in children with RP and XLRP than in the con -
+trol and ADRP groups, respectively. There were positive 
+cor
+relations between macular thicknesses and sub-choroi -
+dal thicknesses in RP group (Fig.5 ). Some c linical data from 
+2 patients with XLRP and ADRP are shown in Fig. 6 .
+Fig.  2 Flowchart of the paediatric participants with RP .(Abbreviations: RP: retinitis pigmentosa; OCT: optical coherence tomography; XLRP: X-linked 
+inher
+itance RP; ADRP: autosomal dominant inheritance RP)Page 5 of 9
+ Li et al. BMC Ophthalmology           (2023) 23:25 
+ 
+Discussion
+Our results suggest that the thickness of the retina of 
+RP children is smaller than that of the control group 
+and that the RT at the fovea is smaller in XLRP children 
+than in ADRP children. There are diurnal variations in 
+the retina and choroid measurements, so we carried 
+out our OCT examinations in the afternoon [9 ]. The decrease in the RT with the progression of RP is due to 
+progressive degeneration of the rod and cone cells; the 
+typical early changes in RP are represented by short -
+ening of the outer segments of photoreceptors, with 
+gradu
+al degeneration of the cones [10]. In a study by 
+Yildirim, M.A., the RT of RP patients was significantly 
+lower than that of normal subjects [11]. The disease Table  2 Retinal thicknesses of each group
+Abbreviations: M Foveal thickness, N1 Thickness 1000  μm nasal to the f ovea, N2 Thickness 3000  μm nasal to the f ovea, T1 Thickness 1000  μm tempor al to the fovea, T2 
+Thickness 3000  μm tempor
+al to the fovea. XLRP X-linked RP , ADRP Autosomal dominant RPRetinal 
+thicknesses 
+(μm)Control
+(n = 28, 56 eyes)RP
+(n = 32, 64 eyes)P value RP (n = 17, 34 eyes)
+XLRP (n  = 7, 14 ey
+es) ADRP (n  = 10, 20 ey
+es) P value
+T2 250.89  ± 12.00 200.75  ± 40.23 0.000
+199.57  ± 43.03 211.80  ± 29.78 0.344
+T1 316.00  ± 14.03 270.09  ± 36.23 0.000
+260.92  ± 40.22 281.70  ± 23.73 0.067
+M 203.14  ± 15.44 186.88  ± 30.46 0.000
+173.85  ± 22.87 192.20  ± 9.70 0.003*
+N1 327.25  ± 14.45 284.45  ± 43.12 0.000 270.14  ± 48.77 295.45  ± 24.17 0.054
+N2 281.89  ± 25.08 235.06  ± 40.12 0,000
+228.92  ± 29.77 249.50  ± 34.47 0.080
+Table  3 Choroidal thick nesses of each group
+Choroid
+thicknesses 
+(μm)Control
+(n = 28, 56 eyes)RP
+(n = 32, 64 eyes)P Value RP with confirmed gene mutations
+XLRP (n  = 7, 14 ey
+es) ADRP (n  = 10, 20 ey
+es) P value
+T2 275.23  ± 40.92
+243.76  ± 60.82
+0.001*211.21  ± 69.41 274.45  ± 57.91 0.007*
+T1 284.19  ± 43.93 262.61  ± 78.75 0.072 222.78  ± 94.02 279.05  ± 69.13 0.053
+M 271.69  ± 50.29
+260.17  ± 88.00
+0.390 235.35  ± 108.05 290.15  ± 68.87 0.080
+N1 238.94  ± 52.22
+231.87  ± 90.79
+0.609 203.78  ± 98.34 249.00  ± 70.61 0.128
+N2 145.12  ± 43.09
+145.53  ± 79.27
+0.973 121.57  ± 72.73 149.30  ± 63.05 0.245
+Fig.  3 Macular thicknesses and Sub-macular choroidal thicknesses (CT) in control group and retinitis pigmentosa (RP) group and different genetic 
+subg
+roups. a There were significant differences in the macular thicknesses between the control group and the RP group (p  = 0.000). T
+he foveal RT of 
+X-linked retinitis pigmentosa (XLRP) patients was less than that of autosomal dominant retinitis pigmentosa (ADRP) patients (p  = 0.003). b
+ There was 
+no significant thinning on sub-macular CT between the control group and the RP group, and between XLRP and ADRPPage 6 of 9 Li et al. BMC Ophthalmology           (2023) 23:25 
+affects the entire retina but shows regional variation 
+in the severity of degeneration [12]. Thus, the RT val -
+ues obtained in our study indicated that the severity of 
+damage ne
+ar the macula was greater in the XLRP group 
+than in the ADRP group. The reduction in the thickness 
+in the macular area is more serious in children with an 
+XLRP genotype than in those with an ADRP genotype. 
+Our findings also provided evidence that the changes in 
+thicknesses may be representative of the greater sever -
+ity of XLRP versus ADRP in the early stage.Thinning on t
+he temporal side of the choroid was more 
+obvious in RP than in healthy children and in XLRP than 
+in ADRP children. This choroidal thickening is different 
+from that in children with simple myopia, for whom it 
+begins in central foveal regions [13]. The choroid pro -
+vides nutrition to outer retinal structures and plays a 
+signific
+ant role in the pathophysiology of RP [14]. The 
+CT is significantly lower in RP patients than in normal 
+controls [15, 16]. As the sub-choroidal thicknesses thin -
+ning, the macular thicknesses become smaller in RP . 
+Fig.  4 Best-corrected visual acuity (BCVA) and macular or sub-macula choroidal thicknesses. a There were positive correlations between BCVA 
+and macular thick
+nesses in retinitis pigmentosa (RP) group while no correlations with sub-macula choroidal thicknesses. b There were positive 
+correlations between BCVA and macular thicknesses, and between BCVA and sub-macula choroidal thicknesses in X-linked RP group. c There were 
+positive correlations between BCVA and macular thicknesses, and between BCVA and sub-macula choroidal thicknesses in autosomal dominant RP 
+group
+Fig.  5 Correlations between macular thicknesses and sub-macular choroidal thicknesses. a There were no correlations between macular 
+thick
+nesses and sub-macular choroidal thicknesses in control group. b and c There were positive correlations between macular thicknesses and 
+sub-macular choroidal thicknesses in retinitis pigmentosa group and X-linked retinitis pigmentosa group. d There was no correlations between 
+macular thicknesses and sub-macular choroidal thicknesses in autosomal dominant retinitis pigmentosa groupPage 7 of 9
+ Li et al. BMC Ophthalmology           (2023) 23:25 
+ 
+Histopathological studies have confirmed that poor cho -
+roidal blood flow leads to thinning of the choroid, which 
+als
+o leads to photoreceptor damage. The loss of photore -
+ceptors results in decreased oxygen demand and a conse -
+quent reduction in the blood supply. The quantification 
+of C
+T could reflect changes in ocular vascular perfusion [17]. Our results suggest that the temporal flow is more 
+likely to be affected. Therefore, retinal degeneration may 
+stimulate choroidal atrophy, and conversely, choroidal 
+changes may worsen the degeneration of the outer ret -
+ina. This may also explain why XLRP patients develop 
+sy
+mptoms earlier and have more severe impairment than 
+ADRP patients.
+Fig.  6 Ocular fundus and OCT images, ERGs and gene assays of 2 patients with X-linked retinitis pigmentosa (XLRP) and autosomal dominant 
+r
+etinitis pigmentosa (ADRP). Case 1 XLRP (a, c, e, g), male, 6  years old
+, night blindness for 2  years
+. Best-corrected visual acuity (BCVA): R: 0.6, L: 0.7. 
+His uncle, mother and grandmother had RP . Case 2 ADRP (b, d, f, h), male, 7  years old
+, mild night blindness, with family history. BCVA: R:1.0, L:1.0. His 
+mother and grandmother had RP . Case 1 (XLRP) showed more pigment on the ocular fundus image, a thinner photoreceptor layer on OCT imaging, 
+more obvious ellipsoid band disappearance (area between yellow arrows) and a smaller electrophysiology signal than case 2 (ADRP), as well as 
+more serious functional lossPage 8 of 9 Li et al. BMC Ophthalmology           (2023) 23:25 
+The severity of the disease is closely related to its heter -
+ogeneous genetic basis. The severe forms of RP are within 
+the c
+ategory of X-linked retinitis pigmentosa. Patients 
+are characterized by a severe phenotype even in the early 
+stages of disease development [18], with earlier onset of 
+night blindness, more rapid constriction of visual fields 
+and, eventually, more severe loss of central acuity than 
+in autosomal dominant retinitis pigmentosa [19]. Most 
+affected males exhibit early-onset symptoms, with night 
+blindness in the first decade, a reduction in the visual 
+field in the second decade, and rapid progression towards 
+blindness (worse than approximately 20/200) by 40  years
+ 
+of age [20]. The majority of mutations that cause XLRP 
+lead to abnormal protein distribution in the cell [21]. As 
+the disease progresses, it affects the function of tubulin 
+and ciliary structures and causes increasing damage to 
+structures and function [22]. A number of retinal proteins 
+are required for cilia-dependent outer segment transport, 
+generation or maintenance [23]. The abnormality of the 
+connecting cilia could result in decreased protein trans -
+port from the inner to the outer photoreceptor [24].
+Two genoty
+pes of XLRP are common in the clinic: RPGR 
+and RP2. RPGR is characterized by conserved guanine 
+nucleotide exchange factors. The protein localizes to the 
+outer segment of photoreceptors. RPGR defects can occur 
+at multiple steps in material transport towards the distal 
+outer segment [23]. Due to the importance of these path -
+ways in photoreceptor development and survival, mutations 
+in RP
+GR might disrupt the interactions and lead to retinal 
+degeneration. Mutations in RP2 cause the second most fre -
+quent form of XLRP [21]. The gene products show homology 
+wit
+h human cofactor C, which acts as a GTPase-activating 
+protein in the final step of beta-tubulin folding. RP2 also 
+interacts with ADP-ribosylation factor-like 3 (ARL3), which 
+acts as a microtubule-associated small GTP-binding pro -
+tein that localizes to the sensory cilia of photoreceptors [23]. 
+Mut
+ations in RP2 lead to the accumulation of incorrectly 
+folded photoreceptor- or neuron-specific tubulin isoforms, 
+resulting in the progressive degeneration of the retina.
+ADRP is a relatively mild form of RP . The gene muta -
+tions associated with ADRP can result in altered pro -
+tein activity, endoplasmic reticulum dysfunction due to 
+misf
+olded mutant protein molecules, mistrafficking and 
+mislocalization of the mutant protein, and even adverse 
+effects on the proper functioning of the wild-type pro -
+tein, thus affecting the homeostasis of cells and ulti-
+mately resulting in their death [25]. ADRP includes 30 
+genoty p
+es, such as RHO mutations. RHO mutations are 
+associated with two phenomena: interference with the 
+function of normal rhodopsin and intrinsic toxicity of the 
+mutant protein. Most of the mutations lead to opsin mis -
+folding and instability, leading to a relatively mild disease 
+phenoty p
+e [26].In conclusion, the choroid in RP children becomes 
+thinner preferentially on the temporal side of the macula, 
+and thinning of the retina is relatively extensive. Children 
+with RP have strong clinical and genetic heterogeneity. 
+The XLRP children demonstrated greater RT reduction 
+at the fovea and greater CT reduction at the temporal 
+side of the macula than the ADRP children. Our findings 
+also provided evidence that the changes in thicknesses 
+may be indicative of the greater severity of XLRP versus 
+ADRP in the early stage.
+This study has some limitations. The retinal and cho -
+roidal thicknesses were measured manually, which may 
+cr
+eate a potential bias. The study sample size was small, 
+and larger studies should be conducted. Axial length 
+can interfere with accurate retinal and choroidal thick -
+ness measurements, and our future research should be 
+more c
+omprehensive. As this was a retrospective study, 
+the data are prone to bias. Additionally, further studies 
+should investigate whether the refractive state of children 
+with XLRP and children with ADRP affects retinal thick -
+ness. We should also perform more refined genetic data 
+analy s
+es, which may reveal other factors contributing to 
+the diagnosis and prognosis of RP . Further studies might 
+enhance our clinical evaluation of such patients.
+Acknowledgements
+We thank Doctor Man Hu for the data collection.
+Authors’ contributions
+Cheng Li: Acquisition data, analysis and interpretation of data, drafting the 
+article. Chunxia Peng, Chengyue Zhang: Acquisition of data and revision of the 
+article. Ningdong Li: Conception of the study, acquisition of data, and revision 
+of the article. The author(s) read and approved the final manuscript.
+Funding
+No funds, grants, or other support was received.
+Availability of data and materials
+The datasets generated and/or analysed during the current study are not pub-
+licly available because the follow-up research, including treatment and effect 
+on these patients, is still ongoing, but they are available from the correspond-
+ing author upon reasonable request.
+Declarations
+Ethics approval and consent to participate
+This study complied with the tenets of the Declaration of Helsinki and was 
+approved by the Ethics Committee of the Beijing Children’s Hospital. Informed 
+consent was obtained from the parents or legal guardians of all subjects in 
+the study.
+Consent for publication
+Not applicable in the article.
+Competing interests
+The authors declare that they have no competing interests.
+Received: 14 August 2022   Accepted: 4 January 2023
+Page 9 of 9
+ Li et al. BMC Ophthalmology           (2023) 23:25 
+ 
+•
+ fast, convenient online submission
+ •
+  thorough peer review by experienced researchers in your ﬁeld
+• 
+ rapid publication on acceptance
+• 
+ support for research data, including large and complex data types
+•
+  gold Open Access which fosters wider collaboration and increased citations 
+ maximum visibility for your research: over 100M website views per year •
+  At BMC, research is always in progress.
+Learn more biomedcentral.com/submissionsReady to submit y our researc h Ready to submit y our researc h  ?  Choose BMC and benefit fr om: ?  Choose BMC and benefit fr om: 
+References
+ 1. Yu D
+-Y, Cringle SJ. Retinal degeneration and local oxygen metabolism. 
+Exp Eye Res. 2005;80(6):745–51.
+ 2. Wang D
+Y, et al
+. Gene mutations in retinitis pigmentosa and their clinical 
+implications. Clin Chim Acta. 2005;351(1–2):5–16.
+ 3. Daiger, S.P
+., S.J. Bowne, and L.S. Sullivan, Genes and mutations causing 
+autosomal dominant retinitis Pigmentosa. Cold Spring Harb Perspect 
+Med, 2014. 5(10).
+ 4. Colombo L, et  al
+. Choroidal thickness analysis in patients with usher 
+syndrome type 2 using EDI OCT. J Ophthalmol. 2015;2015:189140.
+ 5. Tan R, et  al
+. Choroidal vascularity index in retinitis Pigmentosa: an OCT 
+study. Ophthalmic Surg Lasers Imaging Retina. 2018;49(3):191–7.
+ 6. Liu G, et  al
+. Optical coherence tomographic analysis of retina in retinitis 
+Pigmentosa patients. Ophthalmic Res. 2016;56(3):111–22.
+ 7. Oh JK, et  al
+. Optical coherence tomography in the evaluation of retinitis 
+pigmentosa. Ophthalmic Genet. 2020;41(5):413–9.
+ 8. Aknin I, P
+radat P . Choroidal thickness in healthy eyes using enhanced 
+depth imaging optical coherence tomography and comparison with 
+cases of retinitis pigmentosa. J Fr Ophtalmol. 2018;41(10):933–8.
+ 9. Alanazi M, et  al
+. Regional distribution of Choroidal thickness and diurnal 
+variation in Choroidal thickness and axial length in young adults. Clin 
+Ophthalmol. 2021;15:4573–84.
+ 10. Sabbaghi H, et  al
+. Choroidal thickness in different types of inherited 
+retinal dystrophies. J Ophthalmic Vis Res. 2020;15(3):351–61.
+ 11. Yildir
+im MA, et  al
+. Analysis of the retinal nerve Fiber layer in retini-
+tis Pigmentosa using optic coherence tomography. J Ophthalmol. 
+2015;2015:157365.
+ 12. Milam AH, et  al
+. Concentric retinitis pigmentosa: clinicopathologic cor-
+relations. Exp Eye Res. 2001;73(4):493–508.
+ 13. Read SA, C
+ollins MJ, Vincent SJ, Alonso-Caneiro D. Choroidal thickness 
+in myopic and nonmyopic children assessed with enhanced depth 
+imaging optical coherence tomography. Invest Ophthalmol Vis Sci. 
+2013;54(12):7578–86.
+ 14. Chhablani J, 
+Wong IY, Kozak I. Choroidal imaging: a review. Saudi J Oph-
+thalmol. 2014;28(2):123–8.
+ 15. Sodi A, et  al
+. EDI-OCT evaluation of choroidal thickness in retinitis pig-
+mentosa. Eur J Ophthalmol. 2018;28(1):52–7.
+ 16. Ayt
+on LN, Guymer RH, Luu CD. Choroidal thickness profiles in retinitis 
+pigmentosa. Clin Exp Ophthalmol. 2013;41(4):396–403.
+ 17. Adhi M, et  al
+. Analysis of the morphology and vascular layers of the cho-
+roid in retinitis pigmentosa using spectral-domain OCT. Ophthalmic Surg 
+Lasers Imaging Retina. 2013;44(3):252–9.
+ 18. Stefan 
+Veltel AW. RPGR and RP2: targets for the treatment of X-linked 
+retinitis pigmentosa? Expert Opin Ther Targets. 2009;13(10):1239–51.
+ 19. Aguir
+re GD, et  al
+. Retinal histopathology of an XLRP carrier with a muta-
+tion in the RPGR exon ORF15. Exp Eye Res. 2002;75(4):431–43.
+ 20. Tsang SH, Shar
+ma T. X-linked Retinitis Pigmentosa. Adv Exp Med Biol. 
+2018;1085:31–5.
+ 21. Sch
+wahn U, Paland N, Techritz S, Lenzner S, Berger W. Mutations in the 
+X-linked RP2 gene cause intracellular misrouting and loss of the protein. 
+Hum Mol Genet. 2001;10(11):1177–83.
+ 22. Lyrak
+i R, Megaw R, Hurd T. Disease mechanisms of X-linked retinitis 
+pigmentosa due to RP2 and RPGR mutations. Biochem Soc Trans. 
+2016;44(5):1235–44.
+ 23. Mur
+ga-Zamalloa C, Swaroop A, Khanna H. Multiprotein complexes of 
+retinitis Pigmentosa GTPase regulator (RPGR), a ciliary protein mutated in 
+X-linked retinitis Pigmentosa (XLRP). Adv Exp Med Biol. 2010;664:105–14.
+ 24. Berson EL, Adamian M. Ultrastruc
+tural findings in an autopsy eye 
+from a patient with Usher’s syndrome type II. Am J Ophthalmol. 
+1992;114(6):748–57.
+ 25. Narasimhan I, et  al
+. Autosomal dominant retinitis pigmentosa with 
+toxic gain of function: mechanisms and therapeutics. Eur J Ophthalmol. 
+2020;31(2):304–20.
+ 26. Le
+win AS, Rossmiller B, Mao H. Gene augmentation for adRP mutations in 
+RHO. Cold Spring Harb Perspect Med. 2014;4(9):a017400.
+Publisher’s Note
+Springer Nature remains neutral with regard to jurisdictional claims in pub-
+lished maps and institutional affiliations.

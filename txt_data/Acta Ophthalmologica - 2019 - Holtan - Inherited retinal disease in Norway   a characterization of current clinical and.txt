@@ -1,0 +1,892 @@
+Inherited retinal disease in Norway –a
+characterization of current clinical and genetic
+knowledge
+Josephine Prener Holtan,1,2Kaja Kristine Selmer,3,4Ketil Riddervold Heimdal3and
+Ragnhei ður Bragad /C19ottir1,2
+1Department of Ophthalmology, Oslo University Hospital, Oslo, Norway
+2University of Oslo, Oslo, Norway
+3Department of Medical Genetics, Oslo University Hospital, Oslo, Norway
+4Department of Research and Development, Oslo University Hospital, Oslo, Norway
+ABSTRACT.
+Purpose: The purpose of this study was to characterize current clinical and
+genetic knowledge of patients with inherited retinal disease in Norway and give
+an estimate of the prevalence. These data are necessary to identify patients
+eligible for new personalized medicines, to facilitate genetic counselling for their
+families and to plan clinical follow-up.
+Methods: A patient registry including clinical and genetic data was established.
+Clinical data were retrieved during 2003 –2018. Genetic testing was performed in
+the period 2007 –2018.
+Results: The material included 866 patients with 41 clinical diagnoses at the cut-oﬀ
+date. The most prevalent diseases were as follows: retinitis pigmentosa (54%),
+Stargardt macular dystrophy (6.5%) and Leber congenital amaurosis (5.2%). A
+genetic diagnosis was identiﬁed in 32% of patients. In total, 207 disease-causing
+variantsin56geneswerereported.Themostcommonlyreporteddisease-causinggenes
+were ABCA4, USH2A andBEST1 . The estimated adjusted minimum prevalence of
+inherited retinal disease in the south-east region of Norway was 1: 3,856 (2.6/10 000).
+Conclusion: This population-based study demonstrated an estimated prevalence
+for all inherited retinal diseases in south-east Norway and described the
+distribution of clinical diagnoses, onset of symptoms, inheritance patterns and
+genetic data and thereby expands our knowledge of inherited retinal disease in
+Norway. The newly established registry and biobank will support patient
+feasibility for future clinical trials, treatment selection and counselling of families.
+Key words: clinical characterization – genetic diseases – inherited retinal disease – preva-
+lence – registry
+Acta Ophthalmol. 2020: 98: 286–295
+ª2019 The Authors. Acta Ophthalmologica published by John Wiley & Sons Ltd on behalf of Acta Ophthalmologica
+Scandinavica Foundation.
+This is an open access article under the terms of the Creative Commons Attribution-NonCommercial-NoDerivs
+License, which permits use and distribution in any medium, provided the original work is properly cited, the use is non-
+commercial and no modiﬁcations or adaptations are made.
+doi: 10.1111/aos.14218
+Introduction
+Inherited retinal disease (IRD) is
+among the most common cause ofdebilitating low vision and blindness
+in children and young adults (Bunce
+et al. 2010). Inherited retinal disease
+(IRD) is a highly heterogeneous groupof genetic diseases characterized by
+degeneration of the retina. The many
+subtypes are classiﬁed according to
+mode of inheritance, age at onset of
+symptoms, rate of disease progression,
+principal site of retinal dysfunction
+(rods, cones, retinal pigment epithe-
+lium, inner retina and choroid) and
+association with syndromes (Puech
+et al. 2014). The knowledge of genetic
+causes of IRD is steadily increasing,
+and alterations in more than 300 genes
+and loci are now known to cause IRD (
+www.retnet.org). Through knowledge
+of the genetic defects, underlying dis-
+ease-causing pathologic mechanisms
+are increasingly elucidated (Allikmets
+1997; Gu et al. 1997; Riise 1998; Men-
+des et al. 2005).
+Numerous therapeutic approaches
+are currently being investigated in pre-
+clinical studies and clinical trials,
+including innovative gene-speciﬁc
+vision-restoring therapies, cell trans-
+plantations, optogenetics, artiﬁcial reti-
+nal prostheses and pharmacological
+agents (Narfstrom et al. 2003; Hoﬀ-
+man et al. 2004; Bainbridge et al. 2008;
+Hauswirth et al. 2008; Maguire et al.
+2008; Busskamp et al. 2010; Jinek et al.
+2012; Klassen et al. 2012; Bennett et al.
+2016; MacLaren et al. 2016; Stingl
+et al. 2017).
+The ﬁrst gene therapy of IRD has
+been approved by the Food and Drug
+Administration and European Medici-
+nes Agency (Bennett et al. 2016; Apte
+2018), and two retinal prostheses are
+286Acta Ophthalmologica 2020
+commercially available (Stingl et al.
+2017; Ferlauto et al. 2018). Accurate
+clinical characterization (phenotype)and genetic characterization (genotype)
+are very important for the selection of
+the most suitable treatment options.Since these treatments are customized
+according to the speciﬁc phenotype and
+genotype, systematic registration ofgenetic and clinical data of patients
+with IRD is highly warranted.
+The purpose of this study was to
+characterize current clinical and geneticknowledge of patients with IRD living
+in Norway and estimate the prevalence.
+To fulﬁl this purpose, a comprehensiveregistry with high data integrity of
+clinical and genetic data, linked with
+biological material, was established,thus providing a foundation for the
+assessment of current and future
+healthcare needs for this patient popu-lation and assuring early treatmentwith new therapies.
+Materials and Methods
+Registry design and establishment of the
+biobank of IRD
+To enable systematic characterization
+of clinical and genetic data, a registry
+was created. The following qualityparameters were pursued: (1) the reg-
+istry should be accurate and compre-
+hensive, including patient informationthat adequately describes the geneticbackground, the disease phenotype andpatient status/disease progression over
+time; (2) the solution must securely
+prevent inadvertent data access, pro-vide data integrity and create unique
+and retrievable patient codes linked to
+the Norwegian national register oﬃcewith a secure link key to allow for
+accurate updates and follow-up; (3) the
+registry must have the ability to createdetailed reports linked to Orpha codes;
+and (4) there must be export possibil-
+ities of data to statistical programs andother database solutions, assuring thatan expansion to include all inherited
+ophthalmic diseases and other causes
+of visual impairment will be possible inlater phases of this project. The registry
+was created in the patient registry
+solution MedInsight, which fulﬁlledall listed requirements. The registry
+was established in MedInsight in 2016.
+Six basic information fans were
+included: (1) family history with familyidentiﬁer (ID) number, parents’ birth-
+place, consanguinity between parents
+and registration of other family mem-bers with the same disease including
+registry ID; (2) patient’s medical his-
+tory including other illnesses, hearingstatus, syndromic features, regular
+medication, age at onset of symptoms
+and self-reported perception of vision;(3) clinical examination including clin-
+ical diagnosis, visual acuity, general
+ophthalmic examination with detailson status of the vitreous, optic disc,fundus pigmentation, macula and ves-
+sels; (4) technical examinationincluding electroretinography (ERG),
+electrooculography (EOG), optical
+coherence tomography (OCT) andultra-wide-ﬁeld autoﬂuorescence (UW-
+AF); (5) genetic status with mode of
+inheritance, genetic analysis method,date of analysis, results of genetic
+analysis and if the patient is genetically
+solved; and (6) treatment of retinaldisease or other ophthalmic conditions.
+Access to the registry is restricted to
+personnel involved in clinical follow-up, according to Norwegian privacylegislation. The registry is approved by
+the patient data security unit, Oslo
+University Hospital.
+The biobank of IRD was created in
+2016 after approval from the Regional
+Ethics Committee, south-east Norway,REK #2015/1584. The biobank is
+linked to the registry through a sepa-
+rate code list and includes biologicalmaterial from patients and their par-ents, when available. Each sample is
+uniquely coded enabling linkage to
+patient data through the code list.Biological material is stored for future
+genetic testing of patients who are not
+genetically solved. Parental DNA isused to validate genetic results when
+needed.
+Participants
+Clinical data collection of IRD patients
+was initiated in 2003, after approvalfrom the patient data security unit,
+Oslo University Hospital (Fig. 1). The
+Fig. 1. Timeline for data collection up to cut-oﬀ date for present study, 17 March 2018. Registration of clinical data was initiated in 2003 after
+approval from the patient data security unit, Oslo University Hospital. Patients were included after clinical assessment and electroretinography at the
+Department of Ophthalmology, Oslo University Hospital. In 2016, the registry was established in registration software MedInsight, thereby enabli ng
+export of detailed clinical and genetic data reports. Genetic testing was initiated in 2007. The biobank of inherited retinal disease was establishe da t
+Oslo University Hospital in 2016. After cut-oﬀ date of this study, genetic testing with HTS approach and full gene panels has been available at two
+Norwegian laboratories. Genetically unresolved patients plan to be analysed with full gene-panel HTS approach. Registration in the registry ofinherited retinal disease is ongoing.
+287Acta Ophthalmologica 2020
+ 17553768, 2020, 3, Downloaded from https://onlinelibrary.wiley.com/doi/10.1111/aos.14218 by Test, Wiley Online Library on [23/06/2024]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+data collected since 2003 were vali-
+dated and collected through medical
+records and manually recorded in thenewly established registry of IRD.
+Inclusion criteria for registration in
+the registry of IRD are living patientswith a clinical diagnosis of IRD either
+isolated or systemic/syndromic. Multi-
+factorial disorders, such as age-relatedmacular degeneration, are excluded
+from the registry. The clinical diagnosis
+is obtained by ophthalmic examina-tion, ERG and EOG results, OCT,ultra-wide-ﬁeld retinal images (UW-
+AF), visual ﬁeld examination and in
+some cases ﬂuorescein angiography.
+Inclusion criteria for the present
+study were living patients registered in
+the registry of IRD at the cut-oﬀ date of17 March 2018. Female carriers of X-
+linked dystrophies were excluded from
+the present study as well as patients witha diagnosis of Leber hereditary opticneuropathy and isolated optic atrophy.
+Norway is divided into four health
+regions: south-east, north, west andcentral. Patients from all four health
+regions are in the registry, but only
+patients who live in the south-eastregion are routinely referred to Oslo
+University Hospital for electrophysio-
+logical diagnosis of IRD. The popula-tion in the south-east region of Norway
+is 2.98 million people and constitutes
+55% of the total Norwegian popula-tion (ssb.no). For prevalence calcula-tions in this study, only patients living
+in the south-east region were included.
+To validate prevalence calculations,data were also collected from the Nor-
+wegian Patient Registry (NPR). All
+Norwegian citizens have a unique per-sonal identiﬁcation number (PIN) that
+follows them throughout life. Norwe-
+gian Patient Registry (NPR) is linkedto this PIN and contains information
+of all persons who either have received
+treatment or are waiting for treatmentin specialist health care through regis-tration of ICD-10 codes. Data linked
+to individual patients have been avail-
+able from the NPR since 2008.
+This study was conducted after
+approval from the patient data security
+unit, Oslo University Hospital. Allparticipants (including patient’s par-
+ents) included in the biobank of IRD
+provided written informed consent forthe storage of biological material in thebiobank and for genetic analysis. The
+study followed the tenets of the Decla-
+ration of Helsinki.Genetic testing and inheritance patterns
+Genetic testing of IRD patients in Nor-way was initiated in 2007 after initiative
+from the Norwegian Retinitis Pigmen-
+tosa Association and last author (RB)(Fig. 1). Gene-panel testing for IRDwas at the time not available in Norway;
+therefore, arrayed primer extension
+(APEX) from Asper Ophthalmics wasselected ( www.asperbio.com). From
+2007 to 2016, the genetic testing was
+primarily performed using APEX. Withthis method, each patient was tested for
+a panel of known disease-causing muta-
+tions (pathogenic variants). The panelwas selected based on the patient’sclinical diagnosis and presumed inheri-
+tance pattern. The panels were fre-
+quently updated, for example, thepanel for autosomal recessive retinitis
+pigmentosa consisted in 2007 of ﬁve
+genes and 518 known pathogenic vari-ants and single-nucleotide polymor-
+phisms (SNPs, deﬁned by Asper
+Ophthalmics as DNA sequence varia-tion that occurs in at least 1% of the
+population and is nonpathogenic or
+possibly nonpathogenic). In 2016, thesame panel consisted of 28 genes and 709known pathogenic variants and SNPs.
+In 2016, APEX was replaced with
+genetic testing of gene panels sequencedwith high-throughput sequencing
+(HTS) techniques. The HTS subgene
+panels were, as APEX subpanels,designed based on clinical diagnosis
+and presumed inheritance pattern. In
+2017, the HTS panel for autosomalrecessive retinitis pigmentosa consistedof 39 genes. The content of both the
+variant panels (APEX) and the gene
+panels (HTS) thus changed frequentlyduring the 11 years of testing, as they
+were updated to the current status of
+knowledge, and a complete list of allvariants and genes tested over time is
+therefore not available for this study.
+Genetic testing during this 11-year
+period was primarily performed using
+Asper Ophthalmics (APEX or HTS).
+When analysis of relevant genes orpanels was available, within the Nor-wegian healthcare system, genetic anal-
+ysis was performed by Norwegian
+laboratories. In some cases, patient-initiated genetic testing was performed
+in other countries. The genetic testing
+method used was not always describedin the results rapport, and for these
+cases, the method is in the registry
+listed as ‘not known’.Variants found by HTS were inter-
+preted by Asper Ophthalmics using
+ClinVar classiﬁcation status and popu-lation frequencies from the ExAC and
+the gnomAD website. Prediction of
+pathogenicity was analysed by AsperOphthalmics using SiftRank, LrtRank,
+MutTasterRank, MutAssesorRank,
+ProveanRank, MetaSvmRank,MetaLrRank and Genomic Evolution-
+ary Rate Proﬁling parameter rank.
+Variants found by APEX were classiﬁedas mutations or SNPs. Variants foundby HTS were classiﬁed as benign, likely
+benign, likely pathogenic and patho-
+genic (Richards et al. 2015). Correspon-dence between genotype and phenotype
+was evaluated by the ophthalmic and
+clinical genetics team before concludingon the genetic diagnosis.
+Genetically solved cases were
+deﬁned as the identiﬁcation of patho-genic variant(s) that explained the rel-evant phenotype and inheritance
+pattern in the family. When only one
+pathogenic variant was found in apatient with assumed recessive inheri-
+tance, the patient was classiﬁed as not
+solved.
+Mode of inheritance was classiﬁed
+into three steps: ﬁrstly, patients were
+classiﬁed as familial or sporadic cases.Secondly in familial cases, inheritance
+pattern autosomal recessive (AR) was
+assigned when there were multipleaﬀected siblings with nonaﬀected par-ents, autosomal dominant (AD) was
+assigned in nonconsanguineous fami-
+lies with vertical transmission of thedisease to both males and females, and
+X-linked (XL) was assigned to families
+with multiple aﬀected males connectedthrough (healthy) females or an
+aﬀected male and a female carrier.
+Finally, the inheritance mode wasmodiﬁed after results from genetic
+testing, both in sporadic and in familial
+cases. Sporadic cases that were genet-ically unsolved were classiﬁed as ofunknown inheritance.
+Results
+Prevalence of inherited retinal disease in
+south-east Norway
+On 1 January 2018, a total of 855
+patients were registered. Of these, 685
+were alive and living in the south-eastregion of Norway out of a populationof 2 977 723 people at the time
+(ssb.no). We estimated the minimum
+288Acta Ophthalmologica 2020
+ 17553768, 2020, 3, Downloaded from https://onlinelibrary.wiley.com/doi/10.1111/aos.14218 by Test, Wiley Online Library on [23/06/2024]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+prevalence of IRD in the south-east
+region, all ages, to 1: 4347 (2.3/10 000).
+Due to a left truncation bias in agedistribution and a presumed delayed
+registration and diagnosis of children
+under the age of 16 (Figs 2, 3), preva-lence calculations were also made forthe age group 16 –66 years. Of the 2.9
+million people in the south-east region,
+1 982 174 were aged 16 –66 years
+(ssb.no). In total, 514 patients aged
+16–66 years were registered with a
+clinical diagnosis IRD on 1 January2018, giving an estimated adjustedminimum prevalence of IRD in the
+south-east region, 1: 3856 (2.6/10 000).
+A total of 483 individuals with
+generalized retinal dystrophies (iso-
+lated and syndromic retinitis pigmen-
+tosa, Leber congenital amaurosis,cone-rod dystrophy and chorioretinal
+dystrophy) were alive and living in the
+south-east region, corresponding to anestimated minimum prevalence of 1:
+6165 (1.6/10 000). For the age group
+16–66 years, there were a total of 368
+patients registered with generalizedretinal dystrophy, living in the south-
+east region, giving an estimated
+adjusted minimum prevalence of 1:5386 (1.9/10 000)
+A total of 164 individuals with
+inherited macula dystrophies (achro-matopsia, Best’s vitelliform dystrophy,
+cone dystrophy, Stargardt macular
+dystrophy, X-linked retinoschisis andmacular dystrophy other) were aliveand living in the south-east region
+corresponding to an estimated mini-
+mum prevalence of 1: 18 268 (6/100 000). For the age group 16 –
+66 years (134 patients), the adjusted
+minimum prevalence was calculated to1:14 792 (7/100 000).
+For comparison, data from NPR
+demonstrated that 3638 were registeredwith the ICD-10 code H35.5 for
+inherited retinal disease in the period
+2008 –2016. Of those, 1559 were living
+in the south-east region out of apopulation of 2 773 976 (1 January
+2017) (ssb.no) resulting in a prevalence
+of 1: 1779 (5.6/10 000).
+Characterization of the study population
+Clinical data
+Clinical data of 866 living individuals
+with IRD from 832 families wereavailable for analysis. A total of 41
+distinct clinical diagnoses in 15 cate-
+gories were observed (Table 1). Themost prevalent clinical diagnoses wereretinitis pigmentosa (54%), Stargardt
+macular dystrophy (6.5%) and Leber
+congenital amaurosis (5.2%).(Table 2).
+Age at onset of symptoms ranged
+from the ﬁrst year of life to 83 years,with a mean age at onset of 20.2 years.
+In total, 330 (50%) patients had onset
+of symptoms in childhood before theage of 16 years (Fig. 2). Patients with aclinical diagnosis of achromatopsia,
+Bardet –Biedl syndrome, congenital sta-
+tionary night blindness, Leber
+Fig. 2. Distribution of age at onset of symptoms of patients included in the study. Of the 866
+patients included, data on self-reported age of onset of symptoms were available in 660 patients. Intotal, 330 patients had onset of symptoms before the age of 16 years.
+Fig. 3. Box plot of patient-reported age at onset of symptoms (in years) in each clinical diagnosis
+category. Of 866 included patients, data on self-reported age at onset of symptoms were available
+in 660 patients. In each box plot, the lower and upper boundary of the box represent the ﬁrst
+quartile (i.e., 25th percentile) and the third quartile (i.e., 75th percentile) of the data, respectively;the horizontal black line in the box is the median; the X in the box is the mean; the lower and
+upper whiskers are the lowest and highest values of the data that are not outliers. Any circle
+outside the whiskers is an outlier (i.e., the data value is greater than 1.5 interquartile ranges awayfrom the ﬁrst and third quartiles) Abbreviations: CSNB: congenital stationary night blindness;LCA: Leber congenital amaurosis.
+289Acta Ophthalmologica 2020
+ 17553768, 2020, 3, Downloaded from https://onlinelibrary.wiley.com/doi/10.1111/aos.14218 by Test, Wiley Online Library on [23/06/2024]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+congenital amaurosis and ocular albin-
+ism all reported an onset of symptomsbetween the ﬁrst year of life to
+18 years. Patients with retinitis pig-
+mentosa demonstrated a mean age atonset of 24.4 years and median of
+20.0 years, onset ranging from 0 to
+83 years (Fig. 3).
+Demographic data
+The patients were born between 1927and 2017, and 452 (52%) were men.The mean age was 42.7 years. In total,
+730 (84%) patients were under the ageof 65 years, 318 (37%) under the age of
+35 years and 91 (10%) under the age of15 years at the time of cut-oﬀ (Fig. 4).
+Parents’ birthplace was included in
+715 patient cases (83%). Of those, 546(76.4%) had two parents born in Nor-
+way, 41 (5.7%) had one Norwegian
+parent and one parent originating fromanother country, and 25 (2.9%) had
+parents that originated from another
+European country. The remaining 15%had parents originating from countriesoutside Europe. A total of 40 countries
+of origin were observed.Of all patients in the registry, 691
+(80%) were from the south-east health
+region in Norway. Patients from the
+three remaining health regions weredistributed as follows: central (72; 8%),
+north (27; 3%) and west (58; 7%).
+Inheritance
+The clinical inheritance pattern was AR
+in 26.1% of patients, AD in 12.2%, XLin 4.5%, mitochondrial in 0.2% andunknown in the remaining 56.9% of the
+study population. Due to lack of par-
+ental testing, no patients were registeredwith conﬁrmed de novo variants. The
+four health regions showed a similar
+distribution of inheritance patterns.Autosomal recessive (AR) inheritance
+ranged from 22% in the northern region
+to 33% in the western region. Inheri-tance patterns in patient cases whereboth parents originated from Norway
+were AR in 25.6%, and in cases where
+parents originated from the same coun-try outside of Europe, the rate of reces-
+sive classiﬁcation was 37.6.%. In 49
+(6%) patient cases, consanguinitybetween parents was reported. Of the
+546 patient cases where both parents
+were born in Norway, 46% (241 patientcases) reported that the parents were
+born in the same county. Of the 241
+patient cases, 26% (63 patient cases)were conﬁrmed to have autosomalrecessive disease. Distribution of inher-
+itance patterns is shown in Table 3.Table 1. The 41 phenotypes were grouped into 15 clinical diagnosis categories.
+Clinical diagnosis category Phenotypes included in categories
+Achromatopsia Achromatopsia, incomplete achromatopsia
+Bardet –Biedl syndrome Bardet –Biedl syndrome
+Best’s vitelliform dystrophy Best’s vitelliform dystrophy, autosomal recessive bestrophinopathyCone dystrophy Cone dystrophy
+Cone-rod dystrophy Cone-rod dystrophy
+Congenital stationary night
+blindnessCongenital stationary night blindness, congenital stationary night blindness with fundus albipunctatus
+Chorioretinal dystrophy Central areolar choroidal dystrophy, choroidal dystrophy, choroideremia, Sveinsson chorioretinal atrophy,
+pigmented paravenous chorioretinal dystrophy, paramacular choriocapillaris atrophy
+Leber congenital amaurosis Leber congenital amaurosisMacula dystrophy, Other Benign concentric annular macular dystrophy, blue-cone monochromatosis, Stargardt-like pattern dystrophy, adult
+foveomacular vitelliform dystrophy
+Ocular albinism Ocular albinism, oculocutaneous albinismRetinitis pigmentosa, isolated Retinitis pigmentosa (all inheritance forms), reticular pattern dystrophy, retinitis punctata albescens, peric entral
+retinitis pigmentosa, paravenous retinitis pigmentosa, unilateral retinitis pigmentosa, sector retinitis pigmentosa
+Retinitis pigmentosa
+syndromic, otherAlstrom’s syndrome, Joubert syndrome, Kearns-Sayre syndrome, PHARCO syndrome, Senior-Loken syndrome,
+Stickler syndrome, axial spondylometaphyseal dysplasia, Kjellin syndrome, Aagenaes syndrome, unknownsyndromes
+Usher syndrome Usher syndrome (all types included)
+Stargardt macular dystrophy Stargardt macular dystrophyX-linked retinoschisis X-linked retinoschisis
+The table shows which phenotypes were included in each category.
+Table 2. Percentage of total patients in each of the 15 clinical diagnosis categories with sex
+distribution.
+Clinical diagnosis category n= (% of total) Men
+Retinitis pigmentosa, isolated 468 (54.0%) 49%
+Stargardt macular dystrophy 56 (6.5%) 46%
+Leber congenital amaurosis 45 (5.2%) 49%
+Usher syndrome 39 (4.5%) 51%Cone-rod dystrophy 35 (4.0%) 54%Best’s vitelliform dystrophy 35 (4.0%) 60%
+Macula dystrophy, other 31 (3.6%) 58%
+Cone dystrophy 27 (3.1%) 56%X-linked retinoschisis 20 (2.3%) 100%Bardet –Biedl syndrome 18 (2.1%) 33%
+Achromatopsia 17 (2.0%) 59%
+Congenital stationary night blindness 17 (2.0%) 82%Retinitis pigmentosa syndromic, other 16 (1.8%) 50%
+Ocular albinism 15 (1.7%) 73%
+Chorioretinal dystrophy 15 (1.7%) 53%Diagnosis uncertain 21 (1.4%) 50%Total 866 52%
+290Acta Ophthalmologica 2020
+ 17553768, 2020, 3, Downloaded from https://onlinelibrary.wiley.com/doi/10.1111/aos.14218 by Test, Wiley Online Library on [23/06/2024]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+Genetic data
+A total of 650 patients were genetically
+tested. Of those, 207 (32.0%) were
+classiﬁed as genetically solved. Theoverall genetically solved rate for
+APEX was 24.0% (102 out of 427
+patients, 16 patients with nonresultingAPEX performed before HTS) and for
+HTS 38.5% (50 out of 130 patients)
+(Fig. 5). The genetically solved ratewas over 70% in the clinical categoriesachromatopsia, Bardet –Biedl syn-
+drome, Best’s vitelliform dystrophy,
+Stargardt macular dystrophy and X-linked retinoschisis. However, under
+20% were genetically solved among
+patients with clinical diagnoses ofchorioretinal dystrophy, macula dys-
+trophy and retinitis pigmentosa
+(Table 4). Genetic testing had beenperformed in less than 50% of patients
+with clinical diagnoses of chorioretinal
+dystrophy and congenital stationarynight blindness (Fig. 6).
+A total of 56 genes with 207
+pathogenic variants were identiﬁed.Of the 207 variants, 37 variants were
+not found in ClinVar ( www.ncbi.nlm.
+nih.gov/clinvar/) or HGMD (Human
+Gene Mutation Database, Professional2019.1). HGMD/ClinVar classiﬁed the
+identiﬁed variants as pathogenic in
+84% and likely pathogenic in 14% ofcases. Two variants had been reclassi-
+ﬁed to likely benign or benign since
+original classiﬁcation was performedby Asper Ophthalmics (a list of allvariants is available in Table S1).
+Most variants (89%) were nonrecur-
+rent and found in fewer than fourpatients. The most frequent pathogenic
+variants were missense (56.0%) fol-
+lowed by frameshift (20.8%), nonsense(14.0%), splice (8.2%) and others
+(1.0%). The most prevalent gene
+reported with pathogenic variant(s)was ABCA4 (MIM: 601691) which
+was observed in 69 patients (20.4%).
+The second most prevalently reportedgene was USH2A (MIM:608400) which
+was seen in 66 patients (19.5%), of
+these nine were classiﬁed as geneticallysolved. The remaining 57 patients
+showed a single heterozygous patho-
+genic or likely pathogenic variant. Thethird most prevalently reported gene
+wasBEST1 (MIM:607854) which was
+seen in 22 patients (6.5%) of geneticallytested patients. Of the 22 patients for
+whom a pathogenic BEST1 variant was
+found, ﬁve patients had autosomalrecessive bestrophinopathy.
+Genes that were associated with
+more than one clinical diagnosis wereABCA4, PRPH2, GUCY2D,RPGRIP1, USH2A and CACNA1F .
+Associated genes in each clinical diag-
+nosis category are presented in Table 4.
+Correlation of age at onset of symp-
+toms to the ﬁve most prevalently
+aﬀected genes showed a broad rangeof onset in ABCA4-, BEST1-, RHO-
+andUSH2A- associated retinal dystro-
+phies. Patients with RS1-associated
+retinal disease had onset of symptomsbefore the age of 10 years (Fig. 7).
+Of the 659 patients who were genet-
+ically unsolved or not geneticallytested, biological material is available
+for 360 (55%) in the biobank. Biolog-
+ical material from at least one parent isavailable in 137 (38%) of the unsolved
+patient cases.
+Discussion
+This is the ﬁrst population-based anal-
+ysis and published estimated preva-lence for allIRD in south-east
+Norway. To adjust for left truncation
+bias and a delayed registration ofchildren under 16 years, an estimated
+adjusted minimum prevalence for all
+IRD was also calculated, which leadsto a higher estimated prevalence. Tofurther validate the data, we compared
+prevalence data from NPR with our
+data and can conclude that the esti-mated minimum prevalence of allIRD
+in south-east Norway is between 1:
+1779 and 1: 4347. A population-basedestimated prevalence of allIRD has to
+our knowledge not been reported
+before and can therefore not be com-pared to other studies.
+The estimated adjusted minimum
+prevalence for generalized retinal dys-trophy was found in the present studyto be 1: 5386 (1.9/10 000). In compar-
+ison, Grondahl found in Norway in
+1987 a lower prevalence (1: 8069), butthis estimate was based on a smaller
+population sample (815 000) (Gron-
+dahl 1987). In Denmark, an estimate
+Fig. 4. Number of patients in each age category (years) at cut-oﬀ date (17 March 2018).
+Table 3. Inheritance pattern and genetic status for all patient cases.
+Inheritance patternGenetic status
+Solved Not solved Not genetically tested Total
+Autosomal recessive 133 81 12 226
+Autosomal dominant 54 24 28 106X-linked 19 8 12 39Mitochondrial 1 1 0 2
+Not known 0 329 164 493
+Total 207 443 216 866
+291Acta Ophthalmologica 2020
+ 17553768, 2020, 3, Downloaded from https://onlinelibrary.wiley.com/doi/10.1111/aos.14218 by Test, Wiley Online Library on [23/06/2024]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+of prevalence for generalized retinal
+dystrophy was found to be 1: 3454
+(Bertelsen et al. 2014) and was basedon data from the entire population (5.6
+million). In Denmark, data on IRD
+have been collected since the 1850s,whereas the data in our study have
+only been collected since 2003, possibly
+leading to the diﬀerences in estimates.In other international epidemiological
+studies, prevalence estimates show
+great variation, ranging from 1: 750to 1: 7000 (Ammann et al. 1965;Bundey & Crews 1984; Bunker et al.
+1984; Nangia et al. 2012; You et al.
+2013). Population diﬀerences may bethe cause of this variation; however,
+these studies diﬀer in inclusion criteria
+and population size, which may alsoaﬀect the prevalence estimates.
+The clinical distribution of pheno-
+types in our study (retinitis pigmentosa54.0%, Stargardt macular dystrophy6.5%, Leber congenital amaurosis
+5.2%) is comparable to what was
+reported in the Australian inheritedretinal disease register (retinitis pig-
+mentosa 61.0%, Stargardt macular
+dystrophy 9.9%, cone/cone-rod dystro-phy 4.4%) (De Roach et al. 2013).
+Cone dystrophy and cone-rod dystro-
+phy represented two diﬀerent clinicaldiagnosis categories in the present
+study; in the Australian study, these
+were combined into one clinical diag-nosis category resulting in a moreprevalent subgroup.
+Our results showed a distribution of
+inheritance pattern similar to what wasreported from the Danish Retinitis
+Pigmentosa Registry (Bertelsen et al.
+2014). However, in the Danish studydistribution of inheritance pattern
+showed a lower percentage of AD cases
+(6%) and a lower percentage ofunknown inheritance pathway (45%)
+compared to the present study. This
+diﬀerence is most likely due to the lowrate of genetically solved patients inthis study as well as a possible ascer-
+tainment bias.
+Only 32% of the patients were
+classiﬁed as genetically solved. Other
+studies of IRD report somewhat higher
+diagnostic yield, with detection ratesfrom 39% to 76% (O’Sullivan et al.
+2012; Eisenberger et al. 2013; Huang
+et al. 2015; Ellingford et al. 2016; Patelet al. 2016; Tiwari et al. 2016; Carsset al. 2017; Khan et al. 2017; Stone
+et al. 2017). High-throughput sequenc-
+ing (HTS) had a higher diagnostic yieldFig. 5. Flow chart demonstrating genetic status in all 866 patients including method. *16 patients
+had nonresulting APEX performed before HTS. Abbreviations: APEX: arrayed primer extension;
+HTS: high-throughput sequencing; MLPA: multiplex ligation-dependent probe ampliﬁcation.
+Unknown methods include patients who have been genetically tested in other countries, by owninitiative, and the method used was not provided in the rapport.
+Table 4. Percentage of genetically solved and associated genes within each clinical diagnosis
+category.
+Clinical diagnosis
+categoryGenetically solved %
+(n= solved/tested) Associated genes
+Achromatopsia 70% ( n= 7/10) ATF6, CNGA3, CNGB3, PDE6H
+Bardet –Biedl
+syndrome77% ( n= 13/17) BBS1, BBS10, BBS2
+Best’s vitelliform
+dystrophy92% ( n= 22/24) BEST1
+Cone dystrophy 40% ( n= 8/20) ABCA4, ALMS1, GUCY2D, KCNV2,
+Cone-rod dystrophy 33% ( n= 9/27) ABCA4, CACNA1F, PDE6B, RPGRIP1, USH2A
+Congenital
+stationary night
+blindness43% ( n= 3/7) CACNA1F, NYX
+Chorioretinal
+dystrophy20% ( n= 1/5) PRPH2
+Leber congenital
+amaurosis27% ( n= 12/44) AIPL1, CEP290, CRB1, CRX, GUCY2D, IQCB1,
+LRAT, NMNAT1, PRPH2 RDH12, RPGRIP1
+Macula dystrophy,
+other12% ( n= 2/17) ABCA4, PRPH2
+Ocular albinism 22% ( n= 2/9) LRMDA(C10orf11), OCA2, TYR,
+Retinitis
+pigmentosa17% ( n= 60/349) AR:ABCA4, CERKL, CNGA1, CRB1, EYS,
+IMPG2, MERKT, PDE6A, PDE6B, RGR,
+RLBP1, RPE65, TULP1, USH2A AD:IMPDH1,
+KLHL7, NRL, PRPH2, RHO, RP1, TOPORSXL:RP2, RPGR
+Retinitis
+pigmentosa,
+syndromic, other33% ( n= 4/12) ABHD12, C21orf2, SPG11, USH2A
+Usher syndrome 26% ( n= 9/34) ADGRV1, CDH23, MYO7A-USH1, PCDH15-
+USH1F, USH1C, USH2A
+Stargardt macular
+dystrophy81% ( n= 43/53) ABCA4
+X-linked
+retinoschisis86% ( n= 12/14)
+RS1
+Diagnosis uncertain 0% ( n= 0/8) -
+AD, autosomal dominant; AR, autosomal recessive; XL, X-linked.
+292Acta Ophthalmologica 2020
+ 17553768, 2020, 3, Downloaded from https://onlinelibrary.wiley.com/doi/10.1111/aos.14218 by Test, Wiley Online Library on [23/06/2024]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+than APEX. The diagnostic yield of
+APEX is limited by the correct selec-
+tion of the subpanel as well as number
+of genes and known pathogenic vari-ants on the panel at the time of testing.Both the number of genes and known
+pathogenic variants in the APEXpanels did increase over the 9-year
+period they were used, but despite
+this, the diagnostic yield was low. The
+HTS approach was similarly limitedby correct selection of subpanel thatwas determined by clinical diagnosis
+and presumed inheritance pattern,thereby increasing risk of selecting
+the wrong panel of genes. This limita-
+tion is reﬂected in the slightly lowerdetection rate of HTS in this study.
+Thereby, demonstrating that the
+heterogeneity in IRD most likelyrequires HTS diagnostic methods with
+gene panels including all IRD disease-
+causing genes to achieve higher diag-nostic yields. However, for patients
+with phenotypes strongly associated
+with a single gene, as ABCA4 -associ-
+ated retinal dystrophies, Sangersequencing of a single gene can be
+beneﬁcial. This was conﬁrmed in this
+study by the fact that phenotypes thatwere clinically distinct and related to
+only one gene had a higher genetically
+solved rate such as Best’s vitelliformdystrophy, Stargardt macular dystro-
+phy and X-linked retinoschisis com-
+pared to phenotypes with geneticheterogeneity such as retinitis pigmen-tosa, cone-rod dystrophy, cone dys-
+trophy and Leber congenital
+amaurosis. An exception was Bardet –
+Biedl syndrome where 18 disease-caus-
+ing genes are known (OMIM #
+209900) and where diagnostic yieldwas as high as 13/17 (77%). The
+higher diagnostic yield in Bardet –Biedl
+syndrome is most likely due to exten-sive international research of Norwe-
+gian patients with this syndrome
+(Riise 1998; Hjortshoj et al. 2010).
+The rate of genetically solved
+patients in this study is low. The reason
+for this is most likely that the patients
+were genetically tested over a period of11 years, during which knowledge
+about genetic causes of IRD has grown
+dramatically. As such, the patientshave been tested with a range of
+diﬀerent approaches with highly diﬀer-
+ent sensitivity. Unfortunately, many ofthe patients in our cohort have not yet
+been retested with up-to-date methods,
+which render the cohort with an overalllow diagnostic yield.
+Despite the low rate of genetically
+solved patients, the study does conﬁrm
+genetic and allelic heterogeneity in IRDpatients in Norway, with a total of 207
+pathogenic variants in 56 genes.
+The most prevalent genes with
+pathogenic variants were ABCA4 ,
+USH2A and BEST1 . Other genetic
+cohort studies of IRD have alsodemonstrated a high prevalence ofABCA4 and USH2A (Huang et al.
+2015; Carss et al. 2017; Stone et al.
+2017).
+Fig. 6. Percentage of genetically solved/not genetically solved/not genetically tested/not known in
+each clinical diagnosis category. Not genetically solved indicates either that no pathogenic variant
+has been found or only one variant has been found in a non-dominant phenotype. Not knownindicates that the results of the genetic testing are inconclusive.
+Fig. 7. Box plot of age at onset of symptoms correlated to the ﬁve most prevalent genes ( ABCA4,
+USH2A, BEST1, RHO, RS1 ) found by genetic testing of the study population of patients with
+inherited retinal disease. In total, there were 866 patients included in the study; however, this ﬁgure
+only represents patients that were genetically solved, with a retinal dystrophy associated with oneof the ﬁve most prevalent genes and registered age at onset was available, which in total was 154patients. In each box plot, the lower and upper boundary of the box represent the ﬁrst quartile
+(i.e., 25th percentile) and the third quartile (i.e., 75th percentile) of the data, respectively; the
+horizontal black line in the box is the median; the X in the box is the mean; the lower and upperwhiskers are the lowest and highest values of the data that are not outliers. Any circle outside thewhiskers is an outlier (i.e., the data value is greater than 1.5 interquartile ranges away from the ﬁrst
+and third quartiles).
+293Acta Ophthalmologica 2020
+ 17553768, 2020, 3, Downloaded from https://onlinelibrary.wiley.com/doi/10.1111/aos.14218 by Test, Wiley Online Library on [23/06/2024]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+In 83% of the patients where patho-
+genic or likely pathogenic variants in
+the USH2A gene were found, the
+patient was classiﬁed as genetically
+unsolved. Due to a high carrier fre-
+quency of variants in USH2A in the
+European population (1/70) (Besnard
+et al. 2014), it is uncertain if the vari-
+ants found in the USH2A gene in these
+patients are part of the genetic cause.
+BEST1 has, to our knowledge, not
+before been reported within a top threeprevalence in a study population. Thephenotype –genotype correlation of
+Best’s vitelliform dystrophy is in many
+patients very distinct and may haveincreased the likelihood of selecting the
+correct gene subpanel. Further, 17 out
+of 22 patients were solved with APEXand the high prevalence of BEST1 may
+be due to a more complete variant list
+than was found in other gene lists inAPEX at the time of testing, thusleading to a biased result in our study.
+BEST1 retinopathies are primarily
+dominant; therefore, it was remarkablethat ﬁve out of 22 patients had patho-
+genic variants in both alleles, indicating
+that a higher prevalence of recessiveBEST1 variants may be present in the
+Norwegian population. It should be
+noted that this study included only 22patients with BEST1 variants and the
+high number of recessive inheritance
+should be carefully interpreted. Morecomplete genetic data and inclusion ofmore patients are needed to determine
+the signiﬁcance of this ﬁnding.
+Depending on the expressivity of the
+pathogenic genetic variants, one gene
+can cause great clinical variability. This
+was highlighted in this study by thegreat variation in age at onset of
+symptoms for the most prevalent
+genes. To thoroughly investigate thisvariation and genotype –phenotype cor-
+relations in the Norwegian population,
+the newly established registry withdetailed clinical data will be exploredtogether with the addition of more
+complete genetic data sets.
+The ﬁrst gene-speciﬁc vision-restor-
+ing therapy for an IRD has been
+approved by the US Food and Drug
+Administration and European Medici-nes Agency. Patients with bi-allelic
+pathogenic variants in RPE65
+(MIM:180069) and a retinal dystrophyare eligible for this treatment (Bennettet al. 2016; Apte 2018). For the phe-
+notype-isolated retinitis pigmentosa
+and Leber congenital amaurosis, 0.6%were RPE65 related in our study pop-
+ulation. Despite being a very rare
+disorder, pathogenic RPE65 variants
+have been reported in Denmark to be
+the most prevalent cause of Leber
+congenital amaurosis (16%) (Astutiet al. 2016). In North America, it is
+reported to cause 1 –2% of all autoso-
+mal recessive retinitis pigmentosa cases(Apte 2018). It is likely that some of the
+patients with early-onset retinitis pig-
+mentosa or Leber congenital amaurosisthat are not genetically solved in ourstudy population harbour a RPE65
+pathogenic variant.
+This study’s main limitation is
+incomplete geographic coverage, skew-
+ness in age distribution and a low rate
+of genetically solved patients. Asdemonstrated, the older population is
+underrepresented in the registry and
+therefore also in this study. Thereseems to be a delay in diagnosis andregistration of younger patients, since
+age at onset of symptoms in 50% of
+patients was reported to be before16 years; however, this does not corre-
+late with the age distribution of the
+study population. Inclusion in the reg-istry is ongoing, and with time, these
+shortcomings are expected to be cor-
+rected. Genetic testing of the studypopulation has been performed over a
+period of 11 years, and the broad
+diﬀerences in genetic testing techniquesand gene panels did, as demonstrated,decrease the genetically solved rate of
+the study population. By utilizing the
+biobank of IRD, genetically unresolvedpatients will be genetically reanalysed.
+Conclusion
+Using a newly established high-quality
+registry of IRD patients, this study
+provides the ﬁrst comprehensive clini-cal and genetic characterization of IRD
+in the Norwegian population with
+minimum prevalence estimates. Theregistry establishes a foundation for
+indispensable research for these blind-
+ing diseases, giving us new knowledgeof phenotypes and genetic causes in
+this patient group in Norway.
+References
+Allikmets R (1997): A photoreceptor cell-
+speciﬁc ATP-binding transporter gene
+(ABCR) is mutated in recessive Stargardt
+macular dystrophy. Nat Genet 17: 122.Ammann F, Klein D & Franceschetti A
+(1965): Genetic and epidemiological investi-
+gations on pigmentary degeneration of theretina and allied disorders in Switzerland. JNeurol Sci 2: 183 –196.
+Apte RS (2018): Gene therapy for retinal
+degeneration. Cell 173:5 .
+Astuti GD, Bertelsen M, Preising MN et al.
+(2016): Comprehensive genotyping reveals
+RPE65 as the most frequently mutated genein Leber congenital amaurosis in Denmark.Eur J Hum Genet 24: 1071 –1079.
+Bainbridge JW, Smith AJ, Barker SS et al.
+(2008): Eﬀect of gene therapy on visualfunction in Leber’s congenital amaurosis. NEngl J Med 358: 2231 –2239.
+Bennett J, Wellman J, Marshall KA et al.
+(2016): Safety and durability of eﬀect ofcontralateral-eye administration of AAV2
+gene therapy in patients with childhood-
+onset blindness caused by RPE65 mutations:a follow-on phase 1 trial. Lancet 388: 661 –
+672.
+Bertelsen M, Jensen H, Bregnhoj JF & Rosen-
+berg T (2014): Prevalence of generalizedretinal dystrophy in Denmark. OphthalmicEpidemiol 21: 217 –223.
+Besnard T, Garcia-Garcia G, Baux D et al.
+(2014): Experience of targeted Usher exomesequencing as a clinical test. Mol Genet
+Genomic Med 2:3 0–43.
+Bunce C, Xing W & Wormald R (2010):
+Causes of blind and partial sight certiﬁca-tions in England and Wales: April 2007-
+March 2008. Eye (Lond.) 24: 1692 –1699.
+Bundey S & Crews SJ (1984): A study of
+retinitis pigmentosa in the City of Birming-ham. I Prevalence. J Med Genet 21: 417 –420.
+Bunker CH, Berson EL, Bromley WC, Hayes
+RP & Roderick TH (1984): Prevalence ofretinitis pigmentosa in Maine. Am J Oph-thalmol 97: 357 –365.
+Busskamp V, Duebel J, Balya D et al. (2010):
+Genetic reactivation of cone photoreceptorsrestores visual responses in retinitis pigmen-
+tosa. Science 329: 413 –417.
+Carss KJ, Arno G, Erwood M et al. (2017):
+Comprehensive rare variant analysis viawhole-genome sequencing to determine the
+molecular pathology of inherited retinal
+disease. Am J Hum Genet 100:7 5–90.
+De Roach JN, McLaren TL, Paterson RL,
+O’Brien EC, Hoﬀmann L, Mackey DA,
+Hewitt AW & Lamey TM (2013): Establish-
+ment and evolution of the AustralianInherited Retinal Disease Register and
+DNA Bank. Clin Exp Ophthalmol 41: 476 –
+483.
+Eisenberger T, Neuhaus C, Khan AO et al.
+(2013): Increasing the yield in targeted next-
+generation sequencing by implicating CNV
+analysis, non-coding exons and the overallvariant load: the example of retinal dystro-phies. PLoS ONE 8: e78496.
+Ellingford JM, Barton S, Bhaskar S et al.
+(2016): Whole genome sequencing increases
+molecular diagnostic yield compared withcurrent diagnostic testing for inherited reti-
+nal disease. Ophthalmology 123: 1143 –1150.
+294Acta Ophthalmologica 2020
+ 17553768, 2020, 3, Downloaded from https://onlinelibrary.wiley.com/doi/10.1111/aos.14218 by Test, Wiley Online Library on [23/06/2024]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+Ferlauto L, Airaghi Leccardi MJI, Chenais
+NAL et al. (2018): Design and validation of
+a foldable and photovoltaic wide-ﬁeldepiretinal prosthesis. Nat Commun 9: 992.
+Grondahl J (1987): Estimation of prognosis
+and prevalence of retinitis pigmentosa and
+Usher syndrome in Norway. Clin Genet 31:
+255–264.
+Gu SM, Thompson DA, Srikumari CR et al.
+(1997): Mutations in RPE65 cause autoso-mal recessive childhood-onset severe retinaldystrophy. Nat Genet 17: 194 –197.
+Hauswirth WW, Aleman TS, Kaushal S et al.
+(2008): Treatment of leber congenital amau-rosis due to RPE65 mutations by ocularsubretinal injection of adeno-associated
+virus gene vector: short-term results of a
+phase I trial. Hum Gene Ther 19: 979 –990.
+Hjortshoj TD, Gronskov K, Philp AR, Nishi-
+mura DY, Riise R, Sheﬃeld VC, Rosenberg
+T & Brondum-Nielsen K (2010): Bardet-Biedl syndrome in Denmark –report of 13
+novel sequence variations in six genes. Hum
+Mutat 31: 429 –436.
+Hoﬀman DR, Locke KG, Wheaton DH, Fish
+GE, Spencer R & Birch DG (2004): Arandomized, placebo-controlled clinical trial
+of docosahexaenoic acid supplementation
+for X-linked retinitis pigmentosa. Am JOphthalmol 137: 704 –718.
+Huang XF, Huang F, Wu KC et al. (2015):
+Genotype-phenotype correlation and muta-tion spectrum in a large cohort of patientswith inherited retinal dystrophy revealed by
+next-generation sequencing. Genet Med 17:
+271–278.
+Jinek M, Chylinski K, Fonfara I, Hauer M,
+Doudna JA & Charpentier E (2012): A
+programmable dual-RNA-guided DNA
+endonuclease in adaptive bacterial immu-nity. Science 337: 816 –821.
+Khan KN, Chana R, Ali N, Wright G, Webster
+AR, Moore AT & Michaelides M (2017):
+Advanced diagnostic genetic testing in inher-ited retinal disease: experience from a single
+tertiary referral centre in the UK National
+Health Service. Clin Genet 91:3 8–45.
+Klassen H, Tucker BA, Liew CG, La C
+OURM
+& Wang HC (2012): Stem cells in large
+animal models of retinal and neurological
+disease. Stem Cells Int 2012: 460504.MacLaren RE, Bennett J & Schwartz SD
+(2016): Gene therapy and stem cell trans-
+plantation in retinal disease: the New Fron-tier. Ophthalmology 123: S98 –S106.
+Maguire AM, Simonelli F, Pierce EA et al.
+(2008): Safety and eﬃcacy of gene transfer
+for Leber’s congenital amaurosis. N Engl JMed 358: 2240 –2248.
+Mendes HF, van der Spuy J, Chapple JP &
+Cheetham ME (2005): Mechanisms of celldeath in rhodopsin retinitis pigmentosa:implications for therapy. Trends Mol Med
+11: 177 –185.
+Nangia V, Jonas JB, Khare A & Sinha A
+(2012): Prevalence of retinitis pigmentosa inIndia: the Central India Eye and Medical
+Study. Acta Ophthalmol 90: e649 –e650.
+Narfstrom K, Katz ML, Ford M, Redmond
+TM, Rakoczy E & Bragadottir R (2003): In
+vivo gene therapy in young and adult
+RPE65-/- dogs produces long-term visualimprovement. J Hered 94:3 1–37.
+O’Sullivan J, Mullaney BG, Bhaskar SS et al.
+(2012): A paradigm shift in the delivery of
+services for diagnosis of inherited retinaldisease. J Med Genet 49: 322 –326.
+Patel N, Aldahmesh MA, Alkuraya H et al.
+(2016): Expanding the clinical, allelic, and
+locus heterogeneity of retinal dystrophies.Genet Med 18: 554 –562.
+Puech B, De Laey JJ, Holder GE (2014):
+Inherited Chorioretinal Dystrophies: a Text-book and Atlas. Berlin, Heidelberg: SpringerBerlin Heidelberg: Berlin, Heidelberg.
+Richards S, Aziz N, Bale S et al. (2015):
+Standards and guidelines for the interpreta-tion of sequence variants: a joint consensusrecommendation of the American College of
+Medical Genetics and Genomics and the
+Association for Molecular Pathology. GenetMed 17: 405 –424.
+Riise R (1998): Laurence-Moon-Bardet-Biedl
+syndrome. Clinical, electrophysiological and
+genetic aspects. Acta Ophthalmol ScandSuppl 1: 28.
+Stingl K, Schippert R, Bartz-Schmidt KU
+et al. (2017): Interim results of a multicentertrial with the new electronic subretinalimplant alpha AMS in 15 patients blind
+from inherited retinal degenerations. Front
+Neurosci 11: 445.Stone EM, Andorf JL, Whitmore SS et al.
+(2017): Clinically Focused Molecular Inves-
+tigation of 1000 Consecutive Families withInherited Retinal Disease. Ophthalmology124: 1314 –1331.
+Tiwari A, Bahr A, Bahr L et al. (2016): Next
+generation sequencing based identiﬁcation ofdisease-associated mutations in Swiss patients
+with retinal dystrophies. Sci Rep 6: 28755.
+You QS, Xu L, Wang YX et al. (2013):
+Prevalence of retinitis pigmentosa in NorthChina: the Beijing Eye Public Health Care
+Project. Acta Ophthalmol 91: e499 –e500.
+Received on November 22nd, 2018.
+Accepted on July 23rd, 2019.
+Correspondence:
+Josephine Prener Holtan
+Department of OphthalmologyOslo University HospitalPost-box 4956
+Nydalen, NO-0424 Oslo
+NorwayTel: +4722118589
+Fax: +4722119989
+Emails: josephih@uio.no; jospre@ous-hf.no
+The authors thank S. Lerdal for technical assistanceand work with the registry and biobank of IRD.
+The authors thank Asper Ophthalmics; the Depart-
+ment of Medical Genetics, Haukeland UniversityHospital; the Department of Medical Genetics,Oslo University Hospital; and the Department of
+Medical Genetics, University Hospital of North
+Norway, for providing genetic analysis.
+The authors report no conﬂict of interest. Author
+J.P. Holtan and R. Bragadottir are advisors for the
+Norwegian advisory board for Luxturna, Novartis.
+Supporting Information
+Additional Supporting Information
+may be found in the online version of
+this article:
+Table S1. List of genetic variants found
+in IRD patients, Norway, 2018.
+295Acta Ophthalmologica 2020
+ 17553768, 2020, 3, Downloaded from https://onlinelibrary.wiley.com/doi/10.1111/aos.14218 by Test, Wiley Online Library on [23/06/2024]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License

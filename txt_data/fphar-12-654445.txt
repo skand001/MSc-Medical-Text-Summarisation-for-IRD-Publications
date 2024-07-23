@@ -1,0 +1,521 @@
+ATP and Adenosine in the Retina and
+Retinal Diseases
+Shan-Shan Ye1, Yong Tang2,3* and Jian-Tao Song1*
+1Eye Hospital, China Academy of Chinese Medical Sciences, Beijing, China,2International Collaborative Centre on Big Science
+Plan for Purinergic Signalling, Chengdu University of Traditional Chinese Medicine, Chengdu, China,3Acupuncture and
+Chronobiology Key Laboratory of Sichuan Province, Chengdu, China
+Extracellular ATP and its ultimate degradation product adenosine are potent extracellular
+signaling molecules that elicit a variety of pathophysiological pathways in retina through theactivation of P2 and P1 purinoceptors, respectively. Excessive build-up of extracellularATP accelerates pathologic responses in retinal diseases, whereas accumulation ofadenosine protects retinal cells against degeneration or in ﬂammation. This mini-review
+focuses on the roles of ATP and adenosine in three types of blinding diseases includingage-related macular degeneration (AMD), glaucoma, and diabetic retinopathy (DR).Several agonists and antagonists of ATP receptors and adenosine receptors (ARs)have been developed for the potential treatment of glaucoma, DR and AMD:antagonists of P2X7 receptor (P2X7R) (BBG, MRS2540) prevent ATP-inducedneuronal apoptosis in glaucoma, DR, and AMD; A1 receptor (A1R) agonists (INO-8875) lower intraocular pressure in glaucoma; A2A receptor (A2AR) agonists(CGS21680) or antagonists (SCH58261, ZM241385) reduce neuroin ﬂammation in
+glaucoma, DR, and AMD; A3 receptor (A3R) agonists (2-Cl-lB-MECA, MRS3558)protect retinal ganglion cells (RGCs) from apoptosis in glaucoma.
+Keywords: ATP, adenosine, age-related macular degeneration, glaucoma, diabetic retinopathy
+INTRODUCTION
+Purines and their derivatives, most notably adenosine and ATP, are the key molecules controlling
+intracellular energy homoeostasis and nucleotide synthesis ( Huang et al., 2021 ). High concentrations
+of ATP are present within cells and ATP is released into the extracellular milieu during cellulardamage or death. Extracellular ATP acts at P2 receptors, including ligand-gated ion channel (P2X1-7) receptors and metabotropic G-protein linked purinergic receptors (P2Y1,2,4,6,11-14) ( Jacobson
+et al., 2020 ;Illes et al., 2021 ), whereas adenosine acts at P1 G protein-coupled receptors, classi ﬁed into
+four subtypes: A1R, A2AR, A2BR and A3R ( Santiago et al., 2020 ). Expression of several P1 and P2
+receptors were detected in the retina ( Figure 1 )(Ventura et al., 2019 ). ATP and adenosine
+metabolizing in the extracellular conditions mediate pathologic process within the retina
+(Figure 1 ). ATP signaling is tightly regulated by ectonucleotidases including ectonucleoside
+triphosphate diphosphohydrolases (NTPDases) such as CD39, which rapidly hydrolyses ATPand ADP to AMP ( Dwyer et al., 2020 ). And then 5 ′-ectonucleotidase CD73 degrades AMP to
+adenosine ( Dwyer et al., 2020 ). Commonly, ATP and adenosine acting at their respective receptors
+generate opposite responses ( Kukulski et al., 2011 ;Sanderson et al., 2014 ;Jacobson et al., 2020 ;Illes
+et al., 2021 ). Excessive extracellular ATP released from stressed retinal cells is recognized as an
+endogenous danger signal in retinal injury or age-related macular degeneration (AMD), glaucoma,and diabetic retinopathy (DR) ( Notomi et al., 2011 ;Niyadurupola et al., 2013 ). In this review, weEdited by:
+Henning Ulrich,
+University of São Paulo, Brazil
+Reviewed by:
+Anna Lisa Giuliani,
+University of Ferrara, Italy
+Elisabetta Coppi,
+University of Florence, Italy
+*Correspondence:
+Jian-Tao Song
+jangts@163.com
+Yong Tang
+tangyong@cdutcm.edu.cn
+Specialty section:
+This article was submitted to
+Experimental Pharmacology and Drug
+Discovery,
+a section of the journal
+Frontiers in Pharmacology
+Received: 16 January 2021
+Accepted: 25 May 2021
+Published: 15 June 2021
+Citation:
+Ye S-S, Tang Y and Song J-T (2021)
+ATP and Adenosine in the Retina and
+Retinal Diseases.
+Front. Pharmacol. 12:654445.
+doi: 10.3389/fphar.2021.654445
+Frontiers in Pharmacology | www.frontiersin.org June 2021 | Volume 12 | Article 654445 1MINI REVIEW
+published: 15 June 2021
+doi: 10.3389/fphar.2021.654445focused on the mutual or opposite roles of ATP and adenosine in
+retinal cells linked to the three types of blinding diseases (AMD,glaucoma, and DR), as well as emphasized the therapeutic
+potential of agonists and antagonists of ATP receptors and
+ARs for these diseases.
+ATP AND ADENOSINE IN THE RETINA
+ATP and Adenosine in the Retinal Neuronal
+Cell Death or Survival
+ATP is released from all main types of retinal neurons
+(horizontal, bipolar, amacrine, and ganglion cells) being a co-transmitter with inhibitory (GABA), or excitatory (glutamate)
+neurotransmitters, and neuropeptides ( Ward et al., 2010 ). Similar
+to glutamate excitotoxicity, high levels of extracellular ATPreleased by stressed cells activate P2 receptors on neighboringneurons causing in ﬂux of calcium. The cytotoxic calcium
+overload is induced by overactivation of P2X receptorsevoking calcium in ﬂux through receptors themselves or
+through voltage-gated calcium channels and by activation ofP2Y receptors that induces a sustained calcium in ﬂux
+following rapid transient release of calcium from internalstores ( Fletcher, 2010 ;Aplin et al., 2014 ;Fowler et al., 2014 ).
+Much attention has been attracted to P2X7R which forms largeplasma membrane pores that mediate cytolysis and
+inﬂammasome-dependent cell death ( Fowler et al., 2014 ).
+Under pathological conditions, the upregulation of P2X7Rpredisposes retinal neurons to damage. For instance, theincreased level of extracellular ATP caused by the elevation ofthe intraocular pressure in glaucomatous eyes chronicallyactivates P2X7R thus leading to death of a subpopulation ofRGCs ( Zhang et al., 2007 ). Apart from the ATP released from the
+retinal cells to cause cell death, exogenous administration of ATPalso impairs retinal cells ( Puthussery and Fletcher, 2009 ). Further
+evidence demonstrated that the BzATP- (P2X7R agonists)-mediated Ca
+2+increases is 112-fold higher compared to ATP
+in cultured RGCs, when both agonists were used at 10 µM; 62-
+fold at 30 μM; and 23-fold at 100 µM. BzATP led to a
+concentration-dependent reduction in the number of cells witha median lethal dose of 35 µM, which was prevented by theP2X7R antagonists BBG and oxidized ATP, rather than 30 µMsuramin (a nonselective P2 receptor antagonist) ( Zhang et al.,
+2005 ). Moreover, high concentrations of ATP injected into the
+eyes of rodents ( Puthussery and Fletcher, 2009 ) or feline ( Aplin
+et al., 2014 ) model also lead to rapid irreversible loss of
+FIGURE 1 | In the left, schematic representation illustrating the expression of P2 and P1 receptors ( Ventura et al., 2019 ).P, Pigment epithelium cell; R, rod cell; C,
+cone cell; H, horizontal cell; B, bipolar cell; M, Müller cell; A, amacrine cell; G, ganglion cell. In the right, ATP and adenosine metabolizing in the e xtracellular conditions and
+mediate pathologic process within the retina. Extracellular ATP is hydrolyzed to ADP, AMP, adenosine by the activity of CD39 and CD73. Extracellular ATP and
+adenosine interact, therefore causing their activation, with P2 (P2X, P2Y) and P1 (A1, A2A, A2B, A3) purinergic receptors, respectively. On one hand , Calcium-
+dependent cell death pathways due to increased ATP or glutamate and in ﬂammasome-dependent cell death pathway induced by P2X7 pore formation accompanied
+with activation of apoptosis-inducing factor, both contribute to retinal cells death or apoptosis. Extracellular ATP stimulates retinal microgli a activity to release neurotoxic
+factors, (e.g.TNF- α,I L - 1 β) exerting pro-in ﬂammatory action. Stimulation of P2X7R raises lysosomal pH (blue arrows) in RPE cells and lowers autophagy, which contribute
+to lysosomal alkalinization and lipofuscin accumulation. On the other hand, A1R and A3R inhibit adenylyl cyclase decreasing intracellular cyclic a denosine
+monophosphate (cAMP) levels (red arrows) while A2AR and A2BR activate adenylyl cyclase increasing intracellular cAMP levels (blue arrows). Adenos ine acting at A1R
+signi ﬁcantly decreases the glutamate-induced calcium in ﬂux (red arrows) contributing to cell survival. Adenosine exerts anti-in ﬂammatory action, as well as decreases
+lysosome pH (red arrows). Moreover, A1R opening the potassium and chloride channels, increases the ﬂuid clearance from the edematous retina via increased extrusion
+into the blood of ionic osmolytes.
+Frontiers in Pharmacology | www.frontiersin.org June 2021 | Volume 12 | Article 654445 2Ye et al. Purinergic Signaling and Retinaphotoreceptor. Intravitreal injection of 50 mM ATP causes
+signiﬁcant loss of visual function within 1 day and loss of 50%
+of photoreceptor cell within 1 week in eyes of rats ( Vessey et al.,
+2014 ). Thirty hours after 100 μL intravitreal injection of ATP with
+a concentration of 55 mM in a feline model, widespread
+photoreceptor cell death took place ( Aplin et al., 2014 ); and
+injection of ATP with concentrations of 11, 22, or 55 mM causedloss of retinal function and gross changes in retinal structurewithin 2 weeks.
+Adenosine protects neurons against hyperexcitation and
+glutamate toxicity by inhibiting presynaptic voltage-dependentcalcium channels thus reducing transmitter release of glutamate,acetylcholine, and ATP ( Chen et al., 2014 ;Santos-Rodrigues et al.,
+2015 ), or inhibiting N-methyl-
+D-aspartate (NMDA) receptors
+(Hartwick et al., 2004 ). Adenosine modulates RGC function
+and confers general neuroprotection through A 1R(Lu et al.,
+2017 ). Acting at A3R adenosine inhibits P2X7-induced
+increases in calcium and apoptosis of RGCs ( Boia et al., 2020 ).
+In isolated rat RGCs, adenosine (10 and 100 μM) signi ﬁcantly
+decreased the glutamate-induced calcium in ﬂux, which was
+blocked by A1R antagonist 8-cyclopentyl-1,3-dipropylxanthine(DPCPX) ( Hartwick et al., 2004 ). Chronic activation of A2AR
+dependent cAMP signaling prevents glutamate-induced celldeath in chick retinal neurons and photoreceptors ( Paes-de-
+Carvalho et al., 2003 ). Stimulation of A3R by either
+endogenous or synthesized agonist (2-Cl-lB-MECA or
+MRS3558) can reduce calcium response to NMDA receptor
+activation in retinal ganglion cells ( Zhang et al., 2010 ). These
+data suggest that the adenosine exerts an inhibitory in ﬂuence on
+retinal neurons by modulating excitatory glutaminergic signaling,thus promoting retinal neural cells survival. Stimulation of A1Rwith the agonist N-Cyclopentiladenosine (CPA) protectedagainst photoreceptor cell death in light-induced retinaldegeneration model probably due to the presynaptic inhibitionof glutamate release and the modulation of NMDA receptoractivity ( Soliño et al., 2018 ). This protective capacity of adenosine
+at photoreceptor cell is consistent with neuromodulator role of
+adenosine in glutaminergic signaling.
+ATP and Adenosine in the Retinal Pigment
+Epithelium (RPE) Cell Degeneration
+ATP can be released at sites of in ﬂammation and upregulate
+P2X7R expression in human epithelial cells; P2X7R mRNA andprotein are also expressed in retinal pigment epithelium (RPE)cells ( Yang et al., 2011 ). Therefore, ATP released during
+pathologic conditions increases P2X7 expression in the RPEand thus increases the vulnerability of RPE cells to
+extracellular ATP-induced cell death. Both endogenous P2X7
+agonist ATP and the synthetic, P2X7 agonist BzATP increasedintracellular Ca
+2+by extracellular Ca2+inﬂux and induced
+apoptosis of RPE cells. These effects are inhibited by P2X7antagonist OxATP but not by the P2 receptor antagonistsuramin ( Yang et al., 2011 ), indicating that ATP induced RPE
+apoptosis by activation of P2X7R. Stimulation of P2X7 alsoactivates p38, which induces secretion of monocytechemoattractant protein-1 (MCP-1), interleukin 8 (IL-8), andvascular endothelial growth factor (VEGF); IL-8 and VEGF
+promote angiogenesis leading to choroidal neovascularization,a hallmark of wet AMD ( Fowler et al., 2014 ). Balance between
+extracellular ATP and adenosine alters lysosomal activity of RPE
+cells and the production of lipofuscin. Stimulation of P2X7R
+raises lysosomal pH in RPE cells and decreases autophagy, whichcontributes to lysosomal alkalinization ( Guha et al., 2013 ) and
+digestion impairment of peroxidized photoreceptor lipids,resulting in accumulation of lipofuscin and formation oflipoprotein-containing drusen beneath the RPE ( Guha et al.,
+2013 ). Conversely, adenosine stimulating A2AR reacidi ﬁes
+lysosomes. The mechanism underlying restoration of acidiclysosomal pH may be linked to the elevation of cytoplasmiccAMP following stimulation of adenosine A2AR ( Liu et al., 2008 ).
+In summary, elevation of adenosine signaling represents a
+positive response of RPE cells to AMD.
+ATP and Adenosine in the Müller Cell
+Volume
+Müller cells intimately contact neurons and non-neural
+structures providing for uptake of neurotransmitters fromextracellular space, as well as controlling retinal potassium andwater homeostasis to maintain the extracellular space volume(Bringmann et al., 2006 ). Activation of P2X7 depolarizes Müller
+cells, thus decreasing the rate of the glial glutamate uptake
+resulting in elevated extracellular glutamate levels.
+Glutamatergic neurotransmission evokes ion currents whichlead to osmotic imbalances and a swelling of neuronal cellsbodies and synapses ( Vogler et al., 2013 ). Intense neuronal
+activity also decreases extracellular osmolarity due to theactivity-dependent decrease in extracellular sodium chloridewhich is approximately twice as large as the increase inextracellular potassium ( Vogler et al., 2013 ). Then, decreased
+extracellular osmolarity and the uptake of neuron-derivedosmolytes contribute to Müller cells swelling and retinaledema ( Vogler et al., 2013 ). Under this hypoosmotic
+conditions, passive potassium ef ﬂux through Kir4.1 channels
+and activation of a purinergic signal transduction cascade(consecutive ATP and adenosine from Müller cells) are twomain mechanisms preventing swelling of Müller cells(Pannicke et al., 2004 ). Release of ATP from Müller cells is
+central to maintain water dynamics in the retina, whilepreventing this release causes retinal swelling and edema(Reichenbach and Bringmann, 2016 ). On the other hand,
+adenosine acting at A1R results in the opening of potassiumand chloride channels that allow ion ef ﬂux thus increasing ﬂuid
+clearance from the edematous retina ( Schwartz et al., 2016 ).
+Osmo-mechanosensitive release of ATP from Müller cells is
+impaired in diabetic retinopathy (DR). In contrast, glutamate-induced release of ATP from Müller cells remains protectiveagainst osmotic swelling. Various receptor ligands such asvascular endothelial growth factor (VEGF) induce a release ofglutamate from Müller cells thus contributing to purinergicsignaling involved in the inhibition of osmotic swelling (likeabove) ( Reichenbach and Bringmann, 2016 ;Schwartz et al.,
+2016 ). Extracellular ATP is converted by NTPDase2 to ADP
+Frontiers in Pharmacology | www.frontiersin.org June 2021 | Volume 12 | Article 654445 3Ye et al. Purinergic Signaling and Retinathat activates P2Y1, further facilitating release of adenosine by
+nucleoside transporters and ultimately inhibit cell swelling(Weick et al., 2005 ). These data suggest that extracellular ATP
+contributes to neuronal hyperexcitation and edema development
+under pathological conditions, whereas VEGF-induced glutamate
+and glutamatergic-purinergic signaling (especially adenosinesignaling) prevent retinal edema. Therefore, activation ofP2Y1R or A1R would be considered as a potential strategy forthe control of retinal edema.
+ATP and Adenosine in the Microglial Activity
+Microglia contribute to retinal in ﬂammation, migrating toward
+the region of injury where they phagocyte pathogens. However,excessive or prolonged activation of microglial reactivity cancause chronic microgliosis and loss of autoregulatory
+mechanisms thus leading to retinal in ﬂammation and
+degeneration ( Kerur et al., 2013 ;Santiago et al., 2020 ).
+Extracellular ATP stimulates retinal microgliosis in response tooverstimulated glutamatergic transmission which is apathogenetic factor in hypoxia, glaucoma, DR, andphotoreceptor degeneration ( Liu et al., 2016 ;Loukovaara et al.,
+2017 ). Reactive microglia promote the release of neurotoxic
+factors such as tumor necrosis factor- α(TNF- α), IL-1 β,
+oxygen and nitrogen free radicals, and Fas-ligand, contributingto neuronal and photoreceptor cell degeneration ( Baudouin et al.,
+2020 ). Upregulation of TNF- α, IL-1 β, and IL-6 that occurs
+following P2X7 activation induces RGCs death under elevated
+intraocular pressure ( Sugiyama et al., 2013 ). Therefore,
+suppression of microglia reactivity has protective effects.
+Adenosine possesses anti-in ﬂammatory properties in retina
+(Aires et al., 2019a ;Aires et al., 2019b ). The increased adenosine
+at inﬂamed sites can protect against cellular damage by activating
+A2AR ( Ibrahim et al., 2011 ), by inhibiting release of TNF- αfrom
+microglia induced by hypoxia and lipopolysaccharide, and byinhibiting microgliosis ( Jamwal et al., 2019 ). Cannabidiol, an
+anti-in ﬂammatory molecule, prevents the adenosine uptake and
+subsequently activates adenosine A2AR to inhibit retinal
+microglia activation ( Liou et al., 2008 ). Considering the
+contribution of neuroin ﬂammation for the pathophysiology of
+retinal degeneration, therapies focused on pro-in ﬂammatory
+ATP and immunosuppressive adenosine and their receptorsare signi ﬁcant to retinal blinding diseases.
+THERAPEUTIC POTENTIAL OF ATP AND
+ADENOSINE IN RETINAL DISEASES
+Glaucoma
+Increased vitreal concentration of ATP has been identi ﬁed as a
+contributing factor in the death of ganglion cells and observed inanimal models and humans with glaucoma ( Reigada et al., 2008 ),
+the second leading cause of blindness in the world, accompaniedby elevated intraocular pressure (IOP), death of RGC, andincreased in ﬂammatory response ( Baudouin et al., 2020 ). ATP
+modulates retinal neurotransmission, affecting retinal blood ﬂow
+and intraocular pressure. The ATP analog β,γ-methylene ATP is
+more effective in reducing intraocular pressure (40%) thanmuscarinic agonists such as pilocarpine (25%) and
+β-adrenoceptor blockers (30%), raising the potential for the
+use of purinergic agents in glaucoma ( Burnstock, 2006 ). In
+chronic glaucoma, ATP is released via pannexin hemichannels
+in astrocytes of the optic nerve and stimulates P2X7R that can
+lead to cell death in the retina ( Beckel et al., 2014 ). Antagonists of
+the P2X7R prevent neuronal apoptosis in the retina induced byATP. At present, the P2X7R antagonists Brilliant Blue G (BBG)and MRS2540 have been proved to be useful in treating glaucoma(Sakamoto et al., 2015 ;Dong et al., 2018 ). Agonists of P2Y2
+receptor (P2Y2R) and P2Y6 receptor (P2Y6R) decrease IOP(Markovskaya et al., 2008 ;Ginsburg-Shmuel et al., 2012 ;
+Jacobson and Civan, 2016 ). Topically applied P2Y6R agonist
+UDP reduced rabbit IOP by 17%, while TG46, a potent agonist ofthe P2Y6R, administered topically decreased IOP in rabbits by
+45% ( Markovskaya et al., 2008 ;Ginsburg-Shmuel et al., 2012 ).
+Treatment with A1R agonists (such as INO-8875) lowers IOP
+by enhancing aqueous humor out ﬂow ( Lu et al., 2017 ). A2AR
+agonist CGS21680 decreased retinal in ﬂammation in a mouse
+model of traumatic optic neuropathy ( Ahmad et al., 2013 ). A3R
+agonists such as 2-Cl-lB-MECA ( Galvao et al., 2015 ;Boia et al.,
+2020 ) and MRS3558 ( Jacobson and Civan, 2016 ) protect RGCs
+from apoptosis induced by ATP and other factors that activate theP2X7R. Therefore, targeting this receptor might be bene ﬁcial for
+glaucoma affecting RGCs. Selective A
+2AR antagonist (SCH58261)
+suppressed elevated pressure-induced in ﬂammation, oxidative
+stress, and cell death in retinal cells ( Aires et al., 2019a ), as
+well as prevented RGC death from high intraocular pressure-induced transient ischemic injury ( Madeira et al., 2016 ).
+Intravitreal injection of A2AR antagonist ZM241385 reducedmicrogliosis and downregulated the proin ﬂammatory cytokines
+expression in rat model ( Liu et al., 2016 ). These apparent
+contradictory results might be explained by the type of injuryinﬂicted, different modes of drug administration, and the cell
+types involved. This issue is signi ﬁcant because effects mediated
+by A2AR are bidirectional, depending on the target cell ( Dai and
+Zhou, 2011 ). Another interesting study indicated that the
+relationship between intake of caffeine, a nonselective
+antagonist of ARs, and glaucoma was null, but greaterconsumption of caffeine was associated with higher prevalenceof IOP and glaucoma ( Kim et al., 2020 ).
+Diabetic Retinopathy
+DR is another major cause of blindness, accompanied by chronic
+inﬂammation, neuronal and glial dysfunctions, and cell death.
+Metabolic disorders and hyperglycemia may lead to change ofintracellular and extracellular nucleotide levels ( Loukovaara et al.,
+2017 ). Extracellular ATP induces formation of P2X7R pores and
+cell death in retinal microvessels in the model of DR ( Burnstock
+and Novak, 2013 ;Burnstock, 2018 ), suggesting that purinergic
+vasotoxicity plays a crucial role in microvascular cell death, afeature of DR. With respect to extracellular ADO in DR, it wasdemonstrated that triamcinolone, used clinically for the rapidresolution of diabetic macular edema, can induce the release andformation of endogenous adenosine and subsequently activateA1R receptors resulting in ion ef ﬂux through potassium and
+chloride channels and prevention of osmotic swelling ( Wurm
+Frontiers in Pharmacology | www.frontiersin.org June 2021 | Volume 12 | Article 654445 4Ye et al. Purinergic Signaling and Retinaet al., 2008 ). A1R-dependent mechanism may contribute to the
+inhibition effect of triamcinolone on osmotic swelling of Müllerglial cells in retinas ( Uckermann et al., 2005 ;Wurm et al., 2008 ).
+Using A2AR agonist CGS21680 decreased hyperglycemia-
+induced retinal cell death, and reduced tumor necrosis factor-
+αrelease in activated microglia in DR ( Ibrahim et al., 2011 ).
+Intravitreal injection of the A2AR antagonist SCH58261protected the retina against microglial reactivity andneuroin ﬂammation, rescued retinal vascular leakage, reduced
+retinal cell death and the loss of retinal ganglion cells inducedby diabetes ( Aires et al., 2019b ).
+Furthermore, caffeine could reduce RPE cells monolayer
+permeability after exposure to high glucose anddesferoxamine, and prevent outer blood-retinal barrier(BRB) damage by inhibiting apoptotic cell death ( Maugeri
+et al., 2017 ). Neuroprotective effect of caffeine on RPE cell
+monolayer is likely to be mediated through the antagonism ofA2AR. This study provides a potential innovative drug fordiabetic macular edema (DME). Nevertheless, another studycarried out on chick embryo retinas showed that caffeineexposure raised A2AR expression at 18 and 24 h, whiledecreased A2AR expression after 48 h ( Brito et al., 2016 ).
+Retinas exposed to caffeine had increased levels ofphosphorylated extracellula r signal-regulated kinase and
+cAMP-response element bind ing protein, but decreased
+protein expression of tyrosine hydroxylase, calbindin and
+choline acetyltransferase ( Brito et al., 2016 ). Such
+m o d u l a t o r yr o l eo fc a f f e i n ei nr e t i n a sm i g h tb ed i r e c t l yassociated with regulation of adenosine system, as well asdifferent neurotransmitter systems. To further con ﬁrm the
+protective effect of caffeine is mediated by antagonism on AR,future works are needed to evaluate the caffeine ’s effect on
+expression of AR and AR-associated downstreameffector genes.
+Age-Related Macular Degeneration (AMD)
+AMD is responsible for ∼9% of all cases of blindness worldwide
+(Stahl, 2020 ). The disease is characte rized by pathological
+alteration in the RPE and loss of photoreceptor cell ( Stahl,
+2020 ). Activation of P2X7R induces extracellular Ca2+inﬂux
+and lysosomal alkalinization in the RPE leading to apoptosis
+and degeneration ( Yang et al., 2011 ;Fletcher, 2020 ). In wet
+AMD with sub-retinal hemorrhage , the release of extracellular
+ATP induced severe photoreceptor cell loss and the vitreoussamples of AMD patients show ed higher extracellular ATP
+levels. All hallmarks of photoreceptor cell apoptosis wereprevented by a selective P2X7R antagonist BBG ( Notomi
+et al., 2011 ,2013 ), encouraging the potential application of
+BBG as a neuroprotective agent in retinal degeneration linked
+to excessive extracellular ATP. Stimulation of A2AR withspeci ﬁc agonists CGS21680 can reacidify damaged
+lysosomes ( Liu et al., 2008 ). Nevertheless, A2AR antagonist,
+SCH58261 decreases upregula tion of the expression of pro-
+inﬂammatory mediators in human microglial cells, as well as
+decreases the in ﬂammatory response, ult imately increasing
+the clearance of apoptotic photoreceptor cells ( Madeira et al.,
+2018 ).CONCLUSION
+In this review, current information on the roles of extracellular
+ATP and adenosine involved in the pathophysiological processeswithin retina demonstrated that extracellular ATP acts as aneurotransmitter while adenosine exerts an inhibitoryinﬂuence on retinal neuron by modulating excitatory
+glutaminergic signaling. Very large concentrations ofextracellular ATP cause cell death while adenosine promotescell survival in retinal neural cells and RPE cells. What ’s more,
+extracellular ATP and adenosine balance lysosomal activity in
+RPE cells, as well as Müller cells volume; pro-in ﬂammatory ATP
+and immunosuppressive adenosine maintain retinal microgliaactivation linked to neuroin ﬂammation and retinal degeneration.
+Once excessive, extracellular ATP released from retinal cellsduring in ﬂammation, oxidative and osmotic stress, ischemic
+hypoxia, mechanical stimulation, and cell injury aggravatedthe development of AMD, glaucoma, and DR.
+Based on the commonly harmful role of extracellular ATP
+and the protective role of adenosine described above, it iswell established that inhibition of P2 receptors or activation of
+P1 receptors are possible way to treat retinal diseases. In
+particular, P2X7-targeted therapy protects retinal cells fromdegeneration and the P2X7 antagonist BBG is an approvedadjuvant in ocular surgery. Selective agonists of ARs, especiallyA1R and A3R which prevent in ﬂammation, neuronal
+hyperexcitation and P2X7 activation, are demonstrated bymultiple studies in vitro or vivo to lower intraocular pressure,
+reduce neuroin ﬂammation and apoptosis. However, con ﬂicting
+data are available regarding a potential use of A2A antagonistsfor the protection from retinal degeneration. Bene ﬁcial or
+male ﬁcent effects of caffeine, a nonselective antagonist of
+A2AR, have been demonstrated by different studies dependent
+on different time windows of caffeine response or animaldevelopment phase, even though available study proposed thatcaffeine could be considered as innovative therapeutic drug formacular edema.
+However, what is the role of other purinergic receptors in
+retina and retinal diseases remains unclear. For instance, manydrugs targeting purine metabolism or purinergic signaling havebeen developed. The US FDA database shows that severalapproved purinergic signaling target-related drugs, includingadenosine and caffeine citrate injection, are mainly used in the
+cardiovascular system ( Huang et al., 2021 ). In addition,
+Gefapixant (AF-219) (P2X3R antagonist) is used for thechronic cough. However, the dinucleotide Up4U (diuridinetetraphosphate), marketed Diquas (P2Y2R agonist), is theonly drug used in clinical practice for ocular diseases (dryeye). Notably, P2Y12 receptor (P2Y12R) antagonists havebeen widely used as platelet inhibitors to preventthromboembolism. But currently no clinical trials on the useof P2Y12 antagonists in retinal disease have been performedeven though P2Y12 antagonists could be helpful to retinalmicrovascular disorders in DR. It is worthy of further studyand discussion.
+ATP and adenosine acting independently as receptor
+ligands, are interrelated as adenosine is a hydrolytic product
+Frontiers in Pharmacology | www.frontiersin.org June 2021 | Volume 12 | Article 654445 5Ye et al. Purinergic Signaling and Retinaof ATP by the activity of ectonucleotidases CD39 and CD73
+in the retina. Right now few studies on the presence ofectonucleotidases in the retina are present in the literature,therefore deeper insights into these ectonucleotidases (CD39
+and CD73) in mediating purinergic signaling and interacting
+with the immune system in relation to retinal pathophysiologymight markedly promote our understanding in ATP andadenosine within retina and develop therapeutic modalities totreat retinal diseases.
+AUTHOR CONTRIBUTIONS
+S-SY drafted the manuscript. All authors made critical revisionand editing, and ﬁnal approval of the submission.FUNDING
+This work was supported by grants from Capital Health
+Development Scienti ﬁc Research Special Project (2016-2-4138),
+Eye Hospital of China Academy of Chinese Medical SciencesScienti ﬁc Research fund (201607), the Project First-Class
+Disciplines Development of Chengdu University of TraditionalChinese Medicine (CZYHW1901), and Science and TechnologyProgram of Sichuan Province, China (2019YFH0108).
+ACKNOWLEDGMENTS
+We are grateful to Prof. Alexei Verkhratsky for the correction andgreat comments on this manuscript.
+REFERENCES
+Ahmad, S., Fatteh, N., El-Sherbiny, N. M., Naime, M., Ibrahim, A. S., El-Sherbini,
+A. M., et al. (2013). Potential Role of A2A Adenosine Receptor in Traumatic
+Optic Neuropathy. J. Neuroimmunol. 264, 54 –64. doi:10.1016/j.jneuroim.2013.
+09.015
+Aires, I. D., Boia, R., Rodrigues-Neves, A. C., Madeira, M. H., Marques, C.,
+Ambrósio, A. F., et al. (2019a). Blockade of Microglial Adenosine A2AReceptor Suppresses Elevated Pressure-Induced In ﬂammation, Oxidative
+Stress, and Cell Death in Retinal Cells. Glia 67 (5), 896 –914. doi:10.1002/
+glia.23579
+Aires, I. D., Madeira, M. H., Boia, R., Rodrigues-Neves, A. C., Martins, J. M.,
+Ambrósio, A. F., et al. (2019b). Intravitreal Injection of Adenosine A ReceptorAntagonist Reduces Neuroin ﬂammation, Vascular Leakage and Cell Death in
+the Retina of Diabetic Mice. Sci. Rep. 9 (1), 17207. doi:10.1038/s41598-019-
+53627-y
+Aplin, F. P., Luu, C. D., Vessey, K. A., Guymer, R. H., Shepherd, R. K., and Fletcher,
+E. L. (2014). ATP-induced Photoreceptor Death in a Feline Model of RetinalDegeneration. Invest. Ophthalmol. Vis. Sci. 55 (12), 8319 –8329. doi:10.1167/
+iovs.14-15732
+Baudouin, C., Kolko, M., Melik-Parsadaniantz, S., and Messmer, E. M. (2020).
+Inﬂammation in Glaucoma: From the Back to the Front of the Eye, and beyond.
+Prog. Retin. Eye Res. [Epub ahead of print], 100916. doi:10.1016/j.preteyeres.
+2020.100916
+B e c k e l ,J .M . ,A r g a l l ,A .J . ,L i m ,J .C . ,X i a ,J . ,L u ,W . ,C o f f e y ,E .E . ,e ta l .( 2 0 1 4 ) .
+Mechanosensitive Release of Adenosine 5 ’-triphosphate through
+Pannexin Channels and Mechanosensitive Upregulation of PannexinChannels in Optic Nerve Head Astroc ytes: a Mechanism for Purinergic
+Involvement in Chronic Strain. Glia 62 (9), 1486 –1501. doi:10.1002/glia.
+22695
+Boia, R., Salinas-Navarro, M., Gallego-Ortega, A., Galindo-Romero, C., Aires,
+I. D., Agudo-Barriuso, M., et al. ( 2020). Activation of Adenosine A3
+Receptor Protects Retinal Ganglion Cells from Degeneration Induced byOcular Hypertension. Cell Death Dis. 11 (5), 401. doi:10.1038/s41419-020-
+2593-y
+Bringmann, A., Pannicke, T., Grosche, J., Francke, M., Wiedemann, P., Skatchkov,
+S. N., et al. (2006). Müller Cells in the Healthy and Diseased Retina. Prog. Retin.
+Eye Res. 25 (4), 397 –424. doi:10.1016/j.preteyeres.2006.05.003
+Brito, R., Pereira-Figueiredo, D., Socodato, R., Paes-de-Carvalho, R., and Calaza, K.
+C. (2016). Caffeine Exposure Alters Adenosine System and Neurochemical
+Markers during Retinal Development. J. Neurochem. 138 (4), 557 –570. doi:10.
+1111/jnc.13683
+Burnstock, G. (2006). Pathophysiology and Therapeutic Potential of Purinergic
+Signaling. Pharmacol. Rev. 58 (1), 58. doi:10.1124/pr.58.1.5
+Burnstock, G. (2018). The Therapeutic Potential of Purinergic Signalling. Biochem.
+Pharmacol. 151, 157 –165. doi:10.1016/j.bcp.2017.07.016Burnstock, G., and Novak, I. (2013). Purinergic Signalling and Diabetes. Purinergic
+Signal. 9 (3), 307 –324. doi:10.1007/s11302-013-9359-2
+Chen, J. F., Lee, C. F., and Chern, Y. (2014). Adenosine Receptor Neurobiology:
+Overview. Int. Rev. Neurobiol. 119, 1 –49. doi:10.1016/B978-0-12-801022-8.
+00001-5
+Dai, S. S., and Zhou, Y. G. (2011). Adenosine 2A Receptor: a Crucial
+Neuromodulator with Bidirectional Effect in Neuroin ﬂammation and Brain
+Injury. Rev. Neurosci. 22 (2), 231 –239. doi:10.1515/RNS.2011.020
+Dong, L., Hu, Y., Zhou, L., and Cheng, X. (2018). P2X7 Receptor Antagonist
+Protects Retinal Ganglion Cells by Inhibiting Microglial Activation in a RatChronic Ocular Hypertension Model. Mol. Med. Rep. 17 (2), 2289 –2296. doi:10.
+3892/mmr.2017.8137
+Dwyer, K. M., Kishore, B. K., and Robson, S. C. (2020). Conversion of Extracellular
+ATP into Adenosine: a Master Switch in Renal Health and Disease. Nat. Rev.
+Nephrol. 16 (9), 509 –524. doi:10.1038/s41581-020-0304-7
+Fletcher, E. L. (2020). Advances in Understanding the Mechanisms of Retinal
+Degenerations. Clin. Exp. Optom. 103 (6), 723. doi:10.1111/cxo.13146
+Fletcher, E. L. (2010). Mechanisms of Photoreceptor Death during Retinal
+Degeneration. Optom. Vis. Sci. 87 (4), 269 –275. doi:10.1097/OPX.
+0b013e3181c9132b
+Fowler, B. J., Gelfand, B. D., Kim, Y., Kerur, N., Tarallo, V., Hirano, Y., et al. (2014).
+Nucleoside Reverse Transcriptase Inhibitors Possess Intrinsic Anti-
+inﬂammatory Activity. Science 346 (6212), 1000 –1003. doi:10.1126/science.
+1261754
+Galvao, J., Elvas, F., Martins, T., Cordeiro, M. F., Ambrósio, A. F., and Santiago, A.
+R. (2015). Adenosine A3 Receptor Activation Is Neuroprotective againstRetinal Neurodegeneration. Exp. Eye Res. 140, 65 –74. doi:10.1016/j.exer.
+2015.08.009
+Ginsburg-Shmuel, T., Haas, M., Grbic, D., Arguin, G., Nadel, Y., Gendron, F. P.,
+et al. (2012). UDP Made a Highly Promising Stable, Potent, and Selective P2Y6-Receptor Agonist upon Introduction of a Boranophosphate Moiety. Bioorg.
+Med. Chem. 20 (18), 5483 –5495. doi:10.1016/j.bmc.2012.07.042
+Guha, S., Baltazar, G. C., Coffey, E. E., Tu, L. A., Lim, J. C., and Beckel, J. M. (2013).
+Lysosomal Alkalinization, Lipid Oxidation, and Reduced Phagosome ClearanceTriggered by Activation of the P2X7R. FASEB J. 27 (11), 4500 –4509. doi:10.
+1096/fj.13-236166
+Hartwick, A. T., Lalonde, M. R., Barnes, S., and Baldridge, W. H. (2004). Adenosine
+A1-Receptor Modulation of Glutamate-Induced Calcium In ﬂux in Rat Retinal
+Ganglion Cells. Invest. Ophthalmol. Vis. Sci. 45 (10), 3740 –3748. doi:10.1167/
+iovs.04-0214
+Huang, Z., Xie, N., Virgilio, F. D., Ulrich, H., Semyanow, A., Verkhratsky, A., et al.
+(2021). From Purines to Purinergic Signalling: Molecular Functions andHuman Diseases. Signal. Transduction Targeted Ther. 6 (1), 162. doi:10.
+1038/s41392-021-00553-z
+Ibrahim, A. S., El-Shishtawy, M. M., Zhang, W., Caldwell, R. B., and Liou, G. I.
+(2011). A( ₂A) Adenosine Receptor (A( ₂A)AR) as a Therapeutic Target in
+Diabetic Retinopathy. 178 (5), 2136 –2145. doi:10.1016/j.ajpath.2011.01.018
+Frontiers in Pharmacology | www.frontiersin.org June 2021 | Volume 12 | Article 654445 6Ye et al. Purinergic Signaling and RetinaIlles, P., Müller, C. E., Jacobson, K. A., Grutter, T., Nicke, A., Fountain, S. J., et al.
+(2021). Update of P2X Receptor Properties and Their Pharmacology: IUPHARReview 30. Br. J. Pharmacol. 178 (3), 489 –514. doi:10.1111/bph.15299
+Jacobson, K. A., and Civan, M. M. (2016). Ocular Purine Receptors as Drug Targets
+in the Eye. J. Ocul. Pharmacol. Ther. 32 (8), 534 –547. doi:10.1089/jop.2016.0090
+Jacobson, K. A., Delicado, E. G., Gachet, C., Kennedy, C., von Kügelgen, I., Li, B.,
+et al. (2020). Update of P2Y Receptor Pharmacology: IUPHAR Review 27. Br.
+J. Pharmacol. 177 (11), 2413 –2433. doi:10.1111/bph.15005
+Jamwal, S., Mittal, A., Kumar, P., Alhayani, D. M., and Al-Aboudi, A. (2019).
+Therapeutic Potential of Agonists and Antagonists of A1, A2a, A2b and A3Adenosine Receptors. Curr. Pharm. Des. 25 (26), 2892 –2905. doi:10.2174/
+1381612825666190716112319
+Kerur, N., Hirano, Y., Tarallo, V., Fowler, B. J., Bastos-Carvalho, A., Yasuma, T.,
+et al. (2013). TLR-independent and P2X7-dependent Signaling Mediate AluRNA-Induced NLRP3 In ﬂammasome Activation in Geographic Atrophy.
+Invest. Ophthalmol. Vis. Sci. 54 (12), 7395 –7401. doi:10.1167/iovs.13-12500
+Kim, J., Aschard, H., Kang, J. H., Lentjes, M. A. H., Do, R., Wiggs, J. L., et al. (2020).
+Intraocular Pressure, Glaucoma, and Dietary Caffeine Consumption: A Gene-Diet Interaction Study from the UK Biobank. Ophthalmology doi:10.1016/j.
+ophtha.2020.12.009
+Kukulski, F., Lévesque, S. A., and Sévigny, J. (2011). Impact of Ectoenzymes on P2
+and P1 Receptor Signaling. Adv. Pharmacol. 61, 263 –299. doi:10.1016/B978-0-
+12-385526-8.00009-6
+Liou, G. I., Auchampach, J. A., Hillard, C. J., Zhu, G., Yousufzai, B., Mian, S., et al.
+(2008). Mediation of Cannabidiol Anti-in ﬂammation in the Retina by
+Equilibrative Nucleoside Transporter and A2A Adenosine Receptor. Invest.
+Ophthalmol. Vis. Sci. 49 (12), 5526 –5531. doi:10.1167/iovs.08-2196
+Liu, J., Lu, W., Reigada, D., Nguyen, J., Laties, A. M., and Mitchell, C. H. (2008).
+Restoration of Lysosomal pH in RPE Cells from Cultured Human and
+ABCA4(-/-) Mice: Pharmacologic Approaches and Functional Recovery.
+Invest. Ophthalmol. Vis. Sci. 49 (2), 772 –780. doi:10.1167/iovs.07-0675
+Liu, X., Huang, P., Wang, J., Yang, Z., Huang, S., Luo, X., et al. (2016). The Effect of
+A2A Receptor Antagonist on Microglial Activation in Experimental Glaucoma.Invest. Ophthalmol. Vis. Sci. 57 (3), 776 –786. doi:10.1167/iovs.15-18024
+Loukovaara, S., Sandholm, J., Aalto, K., Liukkonen, J., Jalkanen, S., and Yegutkin,
+G. G. (2017). Deregulation of Ocular Nucleotide Homeostasis in Patients withDiabetic Retinopathy. J. Mol. Med. (Berl) 95 (2), 193 –204. doi:10.1007/s00109-
+016-1472-6
+Lu, L. J., Tsai, J. C., and Liu, J. (2017). Novel Pharmacologic Candidates for
+Treatment of Primary Open-Angle Glaucoma. Yale J. Biol. Med. 90 (1),
+111 –118. doi:10.26443/mjm.v2i1.718
+Madeira, M. H., Boia, R., Elvas, F., Martins, T., Cunha, R. A., Ambrósio, A. F., et al.
+(2016). Selective A2A Receptor Antagonist Prevents Microglia-MediatedNeuroin ﬂammation and Protects Retinal Ganglion Cells from High
+Intraocular Pressure-Induced Transient Ischemic Injury. Transl. Res. 169,
+112 –128. doi:10.1016/j.trsl.2015.11.005
+M a d e i r a ,M .H . ,R a s h i d ,K . ,A m b r ó s i o ,A .F . ,S a n t i a g o ,A .R . ,a n dL a n g m a n n ,T .
+(2018). Blockade of Microglial Adenosine A2A Receptor Impacts
+Inﬂammatory Mechanisms, Reduces ARPE-19 Cell Dysfunction and
+Prevents Photoreceptor Loss In Vitro .Sci. Rep.
+8 (1), 2272. doi:10.1038/
+s41598-018-20733-2
+Markovskaya, A., Crooke, A., Guzmán-Aranguez, A. I., Peral, A., Ziganshin, A. U.,
+and Pintor, J. (2008). Hypotensive Effect of UDP on Intraocular Pressure inRabbits. Eur. J. Pharmacol. 579, 93 –97. doi:10.1016/j.ejphar.2007.10.040
+Maugeri, G., D ’Amico, A. G., Rasà, D. M., La Cognata, V., Saccone, S., Federico, C.,
+et al. (2017). Caffeine Prevents Blood Retinal Barrier Damage in a Model, In
+Vitro , of Diabetic Macular Edema. J. Cel. Biochem. 118 (8), 2371 –2379. doi:10.
+1002/jcb.25899
+Niyadurupola, N., Sidaway, P., Ma, N., Rhodes, J. D., Broadway, D. C., and
+Sanderson, J. (2013). P2X7 Receptor Activation Mediates Retinal GanglionCell Death in a Human Retina Model of Ischemic Neurodegeneration. Invest.
+Ophthalmol. Vis. Sci. 54 (3), 2163 –2170. doi:10.1167/iovs.12-10968
+Notomi, S., Hisatomi, T., Kanemaru, T., Takeda, A., Ikeda, Y., Enaida, H., et al.
+(2011). Critical Involvement of Extracellular ATP Acting on P2RX7 PurinergicReceptors in Photoreceptor Cell Death. Am. J. Pathol. 179 (6), 2798 –2809.
+doi:10.1016/j.ajpath.2011.08.035
+Notomi, S., Hisatomi, T., Murakami, Y., Terasaki, H., Sonoda, S., Asato, R., et al.
+(2013). Dynamic Increase in Extracellular ATP Accelerates Photoreceptor CellApoptosis via Ligation of P2RX7 in Subretinal Hemorrhage. 8 (1), e53338.
+doi:10.1371/journal.pone.0053338
+Paes-de-Carvalho, R., Maia, G. A., and Ferreira, J. M. (2003). Adenosine Regulates
+the Survival of Avian Retinal Neurons and Photoreceptors in Culture.Neurochem. Res. 28 (10), 1583 –1590. doi:10.1023/a:1025686812298
+Pannicke, T., Iandiev, I., Uckermann, O., Biedermann, B., Kutzera, F., Wiedemann,
+P., et al. (2004). A Potassium Channel-Linked Mechanism of Glial Cell Swellingin the Postischemic Retina. 26 (4), 493 –502. doi:10.1016/j.mcn.2004.04.005
+Puthussery, T., and Fletcher, E. (2009). Extracellular ATP Induces Retinal
+Photoreceptor Apoptosis through Activation of Purinoceptors in Rodents.J. Comp. Neurol. 513 (4), 430 –440. doi:10.1002/cne.21964
+Reichenbach, A., and Bringmann, A. (2016). Role of Purines in Müller Glia. J. Ocul.
+Pharmacol. Ther. 32 (8), 518 –533. doi:10.1089/jop.2016.0131
+Reigada, D., Lu, W., Zhang, M., and Mitchell, C. H. (2008). Elevated Pressure
+Triggers a Physiological Release of ATP from the Retina: Possible Role forPannexin Hemichannels. Neuroscience 157 (2), 396 –404. doi:10.1016/j.
+neuroscience.2008.08.036
+Sakamoto, K., Endo, K., Suzuki, T., Fujimura, K., Kurauchi, Y., Mori, A., et al.
+(2015). P2X7 Receptor Antagonists Protect against N-Methyl-D-Aspartic Acid-Induced Neuronal Injury in the Rat Retina. Eur. J. Pharmacol. 756, 52 –58.
+doi:10.1016/j.ejphar.2015.03.008
+Sanderson, J., Dartt, D. A., Trinkaus-Randall, V., Pintor, J., Civan, M. M.,
+Delamere, N. A., et al. (2014). Purines in the Eye: Recent Evidence for thePhysiological and Pathological Role of Purines in the RPE, Retinal Neurons,Astrocytes, Müller Cells, Lens, Trabecular Meshwork, Cornea and LacrimalGland. Exp. Eye Res. 127, 270 –279. doi:10.1016/j.exer.2014.08.009
+Santiago, A., Madeira, M., Boia, R., Aires, I., Rodrigues-Neves, A., Santos, P., et al.
+(2020). Keep an Eye on Adenosine: Its Role in Retinal In ﬂammation.
+Pharmacol. Ther. 210, 1 –22. doi:10.1016/j.pharmthera.2020.107513
+Santos-Rodrigues, A. D., Pereira, M. R., Brito, R., de Oliveira, N. A., and Paes-de-
+Carvalho, R. (2015). Adenosine Transporters and Receptors: Key Elements forRetinal Function and Neuroprotection. Vitam. Horm. 98, 487 –523. doi:10.
+1016/bs.vh.2014.12.014
+Schwartz, S. G., Scott, I. U., Stewart, M. W., and Flynn, H. W. (2016). Update on
+Corticosteroids for Diabetic Macular Edema. Clin. Ophthalmol. 10, 1723 –1730.
+doi:10.2147/OPTH.S115546
+Soliño, M., López, E. M., Rey-Funes, M., Loidl, C. F., Larrayoz, I. M., Martínez, A.,
+et al. (2018). Adenosine A1 Receptor: A Neuroprotective Target in LightInduced Retinal Degeneration. PLoS One 13 (6), e0198838. doi:10.1371/
+journal.pone.0198838
+Stahl, A. (2020). The Diagnosis and Treatment of Age-Related Macular
+Degeneration. Dtsch. Arztebl. Int. 117, 513 –520. doi:10.3238/arztebl.2020.0513
+Sugiyama, T., Lee, S. Y., Horie, T., Oku, H., Takai, S., Tanioka, H., et al. (2013).
+P2X ₇Receptor Activation May Be Involved in Neuronal Loss in the Retinal
+Ganglion Cell Layer after Acute Elevation of Intraocular Pressure in Rats. Mol.
+Vis.19, 2080 –2091.
+Uckermann, O., Kutzera, F., Wolf, A., Pannicke, T., Reichenbach, A., Wiedemann, P.,
+et al. (2005). The Glucocorticoid Triam cinolone Acetonide Inhibits Osmotic
+Swelling of Retinal Glial Cells via Sti mulation of Endogenous Adenosine
+Signaling. J. Pharmacol. Exp. Ther. 315 (3), 1036 –1045. doi:10.1124/jpet.105.092353
+Ventura, A. L. M., Dos Santos-Rodrigues, A., Mitchell, C. H., and Faillace, M. P.
+(2019). Purinergic Signaling in the Retina: From Development to Disease. Brain
+Res. Bull. 151 (unde ﬁned), 92 –108. doi:10.1016/j.brainresbull.2018.10.016
+Vessey, K. A., Greferath, U., Aplin, F. P., Jobling, A. I., Phipps, J. A., Ho, T., et al.
+(2014). Adenosine Triphosphate-Induced Photoreceptor Death and RetinalRemodeling in Rats. J. Comp. Neurol. 522 (13), 2928 –2950. doi:10.1002/cne.
+23558
+Vogler, S., Grosche, A., Pannicke, T., Ulbricht, E., Wiedemann, P., Reichenbach, A.,
+et al. (2013). Hypoosmotic and Glutamate-Induced Swelling of Bipolar Cells inthe Rat Retina: Comparison with Swelling of Müller Glial Cells. J. Neurochem.
+126 (3), 372 –381. doi:10.1111/jnc.12307
+Ward, M. M., Puthussery, T., Vessey, K. A., and Fletcher, E. L. (2010). The Role of
+Purinergic Receptors in Retinal Function and Disease. Adv. Exp. Med. Biol. 664,
+385 –391. doi:10.1007/978-1-4419-1399-9_44
+Weick, M., Wiedemann, P., Reichenbach, A., and Bringmann, A. (2005).
+Resensitization of P2Y Receptors by Growth Factor-Mediated Activation of
+the Phosphatidylinositol-3 Kinase in Retinal Glial Cells. 46 (4), 1525 –1532.
+doi:10.1167/iovs.04-0417
+Frontiers in Pharmacology | www.frontiersin.org June 2021 | Volume 12 | Article 654445 7Ye et al. Purinergic Signaling and RetinaWurm, A., Iandiev, I., Hollborn, M., Wiedemann, P., Reichenbach, A.,
+Zimmermann, H., et al. (2008). Purinergic Receptor Activation InhibitsOsmotic Glial Cell Swelling in the Diabetic Rat Retina. Exp. Eye Res. 87 (4),
+385 –393. doi:10.1016/j.exer.2008.07.004
+Y a n g ,D . ,E l n e r ,S .G . ,C l a r k ,A .J . ,H u g h e s ,B .A . ,P e t t y ,H .R . ,a n dE l n e r ,V .M .( 2 0 1 1 ) .
+Activation of P2X Receptors Induces Apoptosis in Human Retinal PigmentEpithelium. Invest. Ophthalmol. Vis. Sci. 52 (3), 1522 –1530. doi:10.1167/iovs.10-6172
+Zhang, M., Hu, H., Zhang, X., Lu, W., Lim, J., Eysteinsson, T., et al. (2010). The A3
+Adenosine Receptor Attenuates the Calcium Rise Triggered by NMDAReceptors in Retinal Ganglion Cells. Neurochem. Int. 56 (1), 35 –41. doi:10.
+1016/j.neuint.2009.08.011
+Zhang, X., Li, A., Ge, J., Reigada, D., Laties, A. M., and Mitchell, C. H. (2007). Acute
+Increase of Intraocular Pressure Releases ATP into the Anterior Chamber. Exp.
+Eye Res. 85 (5), 637 –643. doi:10.1016/j.exer.2007.07.016Zhang, X., Zhang, M., Laties, A. M., and Mitchell, C. H. (2005). Stimulation of
+P2X7 receptors elevates Ca2+ and kills retinal ganglion cells. Invest.
+Ophthalmol. Vis. Sci. 46 (6), 2183 –2191. doi:10.1167/iovs.05-0052
+Conﬂict of Interest: The authors declare that the research was conducted in the
+absence of any commercial or ﬁnancial relationships that could be construed as a
+potential con ﬂict of interest.
+Copyright © 2021 Ye, Tang and Song. This is an open-access article distributed under
+the terms of the Creative Commons Attribution License (CC BY). The use,distribution or reproduction in other forums is permitted, provided the original
+author(s) and the copyright owner(s) are credited and that the original publication
+in this journal is cited, in accordance with accepted academic practice. No use,distribution or reproduction is permitted which does not comply with these terms.
+Frontiers in Pharmacology | www.frontiersin.org June 2021 | Volume 12 | Article 654445 8Ye et al. Purinergic Signaling and Retina

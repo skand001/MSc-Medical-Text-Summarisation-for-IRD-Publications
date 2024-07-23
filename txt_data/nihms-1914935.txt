@@ -1,0 +1,1001 @@
+Phagocytosis in the retina promotes local insulin production in 
+the eye
+J. Iker Etchegaray1,2,3, Shannon Kelley1,2,3, Kristen Penberthy1,2, Laura Karvelyte1,2,3, 
+Yosuke Nagasaka4, Sofia Gasperino1,2,3, Soumen Paul5, Vikram Seshadri5, Michael 
+Raymond1,2, Ana Royo Marco2, Jonathan Pinney1,2, Marta Stremska2,3, Brady Barron1,2,3, 
+Christopher Lucas1,2,6, Nishikant Wase7, Yong Fan8, Emil Unanue3, Bijoy Kundu5, Tal 
+Burstyn-Cohen9, Justin Perry10, Jayakrishna Ambati4,11, Kodi S. Ravichandran1,2,9,12, ✉
+1Center for Cell Clearance, University of Virginia, Charlottesville, VA, USA
+2Department of Microbiology, Immunology, and Cancer Biology, University of Virginia, 
+Charlottesville, VA, USA
+3Department of Pathology and Immunology, Washington University School of Medicine, St. Louis, 
+MO, USA
+4Center for Advanced Vision Science, University of Virginia, Charlottesville, VA, USA
+5Department of Radiology and Medical Imaging, University of Virginia, Charlottesville, VA, USA
+6University of Edinburgh, Edinburgh, UK
+7Biomolecular Analysis Facility, University of Virginia, Charlottesville, VA, USA
+8Drexel University, Philadelphia, PA, USA
+9Hadassah Medical School, Hebrew University of Jerusalem, Jerusalem, Israel
+10Memorial Sloan Kettering Cancer Center, New York, NY, USA
+11Ophthalmology, University of Virginia, Charlottesville, VA, USA
+✉Correspondence and requests for materials  should be addressed to Kodi S. Ravichandran, kodi@wustl.edu.
+Author contributions
+J.I.E. and K.S.R. designed all experiments and wrote and composed the manuscript. J.I.E. performed most of the experiments. 
+S.K. performed all immunoblots. K.P. performed RNA-seq of MerTK KO mice. L.K. assisted with eye dissections. Y .N. and J.A. 
+conducted ERG experiments. S.G. provided input and generated figures. S.P., V .S. and B.K. carried out PET experiments. M.R., C.L. 
+and E.U. provided conceptual advice and/or helped with specific experiments. A.R.M. helped with the RPE phagocytosis assay. J. 
+Pinney analyzed RNA-seq data and mined public datasets. M.S. assisted with ELISAs. B.B. performed glucose tolerance assays. N.W. 
+performed metabolomics. Y .F. provided Ins2f/f mice. T.B.-C. conducted mouse insulin immunofluorescence assays. J. Perry analyzed 
+metabolomics data and gave conceptual advice.
+Competing interests
+The authors declare no competing interests.
+Additional information
+Extended data  is available for this paper at https://doi.org/10.1038/s42255-022-00728-0 .
+Supplementary information  The online version contains supplementary material available at https://doi.org/10.1038/
+s42255-022-00728-0 .
+Peer review information  Nature Metabolism  thanks the anonymous reviewers for their contribution to the peer review of this work. 
+Primary Handling Editor: Christoph Schmitt in collaboration with the Nature Metabolism  team.
+Reprints and permissions information  is available at www.nature.com/reprints .
+HHS Public Access
+Author manuscript
+Nat Metab . Author manuscript; available in PMC 2023 August 26.
+Published in final edited form as:
+Nat Metab . 2023 February ; 5(2): 207–218. doi:10.1038/s42255-022-00728-0.
+Author Manuscript Author Manuscript Author Manuscript Author Manuscript12VIB/UGent Inflammation Research Centre, and Biomedical Molecular Biology, Ghent University, 
+Ghent, Belgium
+Abstract
+The retina is highly metabolically active, relying on glucose uptake and aerobic glycolysis. 
+Situated in close contact to photoreceptors, a key function of cells in the retinal pigment 
+epithelium (RPE) is phagocytosis of damaged photoreceptor outer segments (POS). Here we 
+identify RPE as a local source of insulin in the eye that is stimulated by POS phagocytosis. 
+We show that Ins2 messenger RNA and insulin protein are produced by RPE cells and that this 
+production correlates with RPE phagocytosis of POS. Genetic deletion of phagocytic receptors 
+(‘loss of function’) reduces Ins2, whereas increasing the levels of the phagocytic receptor MerTK 
+(‘gain of function’) increases Ins2 production in male mice. Contrary to pancreas-derived systemic 
+insulin, RPE-derived local insulin is stimulated during starvation, which also increases RPE 
+phagocytosis. Global or RPE-specific Ins2 gene deletion decreases retinal glucose uptake in 
+starved male mice, dysregulates retinal physiology, causes defects in phototransduction and 
+exacerbates photoreceptor loss in a mouse model of retinitis pigmentosa. Collectively, these 
+data identify RPE cells as a phagocytosis-induced local source of insulin in the retina, with the 
+potential to influence retinal physiology and disease.
+In the retina, a group of RPE cells reside in close apposition to the photoreceptors 
+to form the outer blood–retinal barrier. The RPE critically contributes to photoreceptor 
+metabolic homeostasis in multiple ways; taking up glucose from circulation and passing 
+it to photoreceptors, and to allow glucose ‘pass-through’, RPE cells express GLUT1, a 
+glucose transporter, on both basolateral and apical membranes1,2. Photoreceptors are highly 
+metabolically active and glucose is almost entirely metabolized through aerobic glycolysis3. 
+RPE cells also have a specialized metabolism that utilizes lactate, the by-product of aerobic 
+glycolysis by the photoreceptors2. Lack of proper glucose uptake by the retina can impair 
+vision and contribute to diseases such as retinitis pigmentosa4–6.
+RPE performs another critical function in retinal physiology: phagocytosis of photoreceptors 
+that undergo damage during the day due to light. The RPE uptake of POS is circadian 
+regulated and starts around dawn/light onset7. The ingested POS also fuel RPE and retina 
+metabolism8,9. Mer tyrosine kinase (MerTK)-dependent POS phagocytosis not only spares 
+glucose from being consumed by the RPE8, but upregulates GLUT1 (ref. 9) to allow more 
+glucose to be taken up from circulation into the retina; however, the mechanisms by which 
+POS phagocytosis modulates retina metabolism directly are still poorly understood.
+Insulin is a peptide hormone produced by the pancreas upon feeding and promotes uptake 
+of glucose (and other metabolic substrates) by tissues. Although lack of pancreatic insulin 
+contributes to diseases of the retina10 the role of circulating insulin on signaling within 
+the retina is less clear. Indeed, multiple lines of research have shown the retina to be 
+‘insensitive’ to systemic insulin; injection of insulin into the portal vein of rats leads to 
+insulin receptor (InsR) phosphorylation in muscle but not in the retina11. Radioactively 
+labeled insulin (injected directly into the cilioretinal artery of cows) does not cross into the 
+retina12 and insulin protein levels and InsR phosphorylation in the retina of rats does not Iker Etchegaray et al. Page 2
+Nat Metab . Author manuscript; available in PMC 2023 August 26.
+Author Manuscript Author Manuscript Author Manuscript Author Manuscriptchange, regardless of whether the animal has been fed or fasted11,13. Additionally, ablating 
+pancreatic insulin does not change retinal insulin protein levels and instead, leads to an 
+increase in glucose levels within the eye14. Paradoxically, however, research has shown that 
+InsR signaling in the retina is crucial to homeostasis15.
+Here, we discover phagocytosis by the RPE as a trigger for local insulin generation in the 
+retina, especially under conditions of nutrient scarcity/starvation when systemic insulin is 
+low and this RPE-derived insulin promotes retinal glucose uptake and retinal homeostasis.
+RPE as a source of insulin in the eye
+MerTK is a key tyrosine kinase receptor, expressed by the RPE, involved in phagocytosis of 
+photoreceptors and retinal homeostasis16,17. Previously, we observed transgenic expression 
+of another phagocytic receptor (BAI1) cannot rescue retinal degeneration in MerTK 
+knockout (KO) mice18, in part due to unique gene signatures induced by MerTK. Re-
+analyzing the RNA-seq dataset18, we noted that one of the down-regulated genes in 
+RPE from MerTK knockout mice was Ins2, which encodes insulin (Fig. 1a). Mice have 
+two insulin-encoding genes Ins1 and Ins2, both expressed in the pancreas19. In our RPE 
+RNAseq dataset, Ins1 was undetectable in wild-type (WT) and MerTK KO mice. We did 
+not detect altered expression of other factors linked to growth and metabolism, such as 
+insulin-like growth factor-1, insulin-like growth factor-2, transforming growth factor (TGF)-
+β1, TGF- β2 or TGF- β3, vascular endothelial growth factor or fibroblast growth factor (Fig. 
+1a). Comparing Ins2 expression among different tissues, the eye had the second highest 
+expression after the pancreas (Fig. 1b and Extended Data Fig. 1a). The thymus expresses 
+Ins2 as part of establishing T-cell tolerance to insulin20 and thymic Ins2 levels were lower 
+than the eye.
+When we compared Ins2 expression in purified RPE versus the whole retina, Ins2 was 
+predominantly expressed in the RPE (Fig. 1c). Notably, expression of Ins2 was detectable 
+in purified and cultured primary RPE ex vivo (devoid of other cell types); in contrast, Ins2 
+was undetectable in mouse embryonic fibroblasts (Fig. 1d). Further, in situ hybridization 
+(RNAScope) showed Ins2 expression primarily in the RPE with little expression in the rest 
+of retina (Fig. 1e).
+To further confirm RPE expression of Ins2, we crossed YFP-reporter mice to Best1- Cre 
+mice (where the Cre recombinase is expressed under the Bestrophin1  promoter). As 
+Best1- Cre expression is not 100% penetrant within the RPE population1,21, we purified 
+YFP-expressing RPE cells via flow cytometry, isolated their nuclei and performed PCR 
+with reverse transcription (RT–PCR) (Extended Data Fig. 1b)21. Ins2 expression was readily 
+detected in the purified RPE nuclei, comparable to MerTK  (Fig. 1f). In the same conditions, 
+rhodopsin , a photoreceptor-specific gene18, was undetectable (Fig. 1f). Further, purified RPE 
+only expressed Ins2 (not Ins1) (Fig. 1c).
+To genetically ablate Ins2 gene expression in the RPE, we crossed mice carrying floxed 
+Ins2 alleles (Ins2f/f) with Best1 -Cre. Despite Best1- Cre expression in the RPE being not 
+fully penetrant (refs. 1,21 and Extended Data Fig. 1b), RPE from Best1 -Cre Ins2f/f mice Iker Etchegaray et al. Page 3
+Nat Metab . Author manuscript; available in PMC 2023 August 26.
+Author Manuscript Author Manuscript Author Manuscript Author Manuscripthad decreased Ins2 mRNA (Fig. 1g). As control, we crossed Ins2f/f mice to rhodopsin 
+promoter driven-Cre ( Rhod -Cre), targeting the photoreceptors. RPE from Rhod -Cre Ins2f/f 
+mice did not show a decrease in Ins2 (Extended Data Fig. 1c), confirming RPE-specific Ins2 
+expression.
+At the protein level, insulin was detected by ELISA using protein extracts from purified 
+RPE (Fig. 1h); further, immunofluorescence on retinal sections revealed insulin protein 
+within the RPE (Fig. 1h). To assess insulin secretion by the RPE, we measured C-peptide 
+2, a by-product of proinsulin processing that gets co-released with insulin and is used as a 
+common metric for insulin release22. Supernatants of isolated eye cups ex vivo contained 
+C-peptide 2 (Fig. 1i). Further, treatment with potassium chloride (KCl), an inducer of 
+pancreatic insulin release, enhanced C-peptide 2 levels in the eye cup supernatants (Fig. 1i). 
+These data revealed that RPE can produce and release insulin.
+We also examined insulin expression in the RPE of primates via different approaches. 
+Mining an existing macaque retinal single-cell RNA-seq data indicated Ins mRNA in 
+the RPE and RPE ‘like’ cells23 (Extended Data Fig. 2). Further, insulin expression was 
+detectable in the RPE of human retinal sections (Fig. 1j). C-peptide was also detected 
+in the human retina (Extended Data Fig. 1d). These multiple orthogonal pieces of data 
+demonstrated RPE as a source of Ins2 mRNA and insulin protein in the eye.
+RPE insulin is regulated differently from systemic insulin
+While pancreatic insulin release is induced by feeding, both Ins1 and Ins2 transcript levels 
+plummet during starvation24,25, leading to a decrease in circulating/systemic insulin26. 
+Using mice fed normally or starved for 10–14 h, we isolated blood, retina and RPE to 
+analyze C-peptide and Ins2 mRNA (Fig. 2a). Starvation caused C-peptide levels to drop 
+in the blood, yet C-peptide in the retina remained stable (Fig. 2b). Further, Ins2 mRNA 
+increased 4-6-fold in the RPE under nutrient-poor conditions (Fig. 2b) contrasting with 
+pancreatic Ins1 and Ins2 (refs. 25,27).
+To confirm these observations genetically, we used global Ins2 knockout mice (which avoids 
+partial deletion in the Best1-Cre-Ins2f/f mice). Previous studies have shown that global 
+Ins2 KO  mice have no defects in systemic blood insulin due to continued expression 
+of Ins1 in the pancreas28,29. RPE from Ins2 KO mice lacked Ins2 mRNA (Fig. 2c), 
+without a compensatory increase in Ins1 (Extended Data Fig. 3a). Consistent with previous 
+reports28,29, Ins2 KO mice showed no defects in glucose tolerance test (readout of insulin 
+function) or circulating C-peptide levels (Fig. 2d). When we analyzed the interphotoreceptor 
+matrix (IPM), the extracellular space between the RPE and the retina30, C-peptide was 
+detectable in control mice during starvation and this was lost in the Ins2 KO (Fig. 2e). 
+Further, in protein lysates from purified RPE, C-peptide was detected by ELISA in control 
+mice but not Ins2 KO mice (Fig. 2e). These data demonstrate that RPE-dependent local 
+insulin generation in the eye is due to Ins2 and is regulated independently of systemic 
+(pancreatic) insulin.Iker Etchegaray et al. Page 4
+Nat Metab . Author manuscript; available in PMC 2023 August 26.
+Author Manuscript Author Manuscript Author Manuscript Author ManuscriptInsulin binds to the insulin receptor (InsR), triggering InsR phosphorylation and 
+upregulation of the glucose transporter type 4 (GLUT4). To probe whether RPE-derived 
+insulin could signal to the retina, we measured InsR phosphorylation and GLUT4 
+upregulation in the retina of control and Ins2 KO mice under fed or conditions when 
+systemic insulin is low (starved). InsR phosphorylation was comparable between control 
+and Ins2 KO mice under fed conditions; however, under starved conditions, InsR 
+phosphorylation as well as GLUT4 were still detectable in the control retina; importantly, 
+this signal was lost in Ins2 KO mice (Fig. 2f). Thus, RPE-derived insulin promotes insulin 
+signaling in the retina when circulating insulin is low. We observed no difference between 
+control and Ins2 KO mice in InsR phosphorylation in muscle and adipose tissues (Extended 
+Data Fig. 3b).
+As another approach, we treated mice with streptozotocin (STZ), which causes loss of 
+pancreatic β-cells (thereby inducing diabetes) and examined their retinas (Extended Data 
+Fig. 4a). Despite hyperglycemia at 4 weeks after STZ treatment (blood glucose levels of 
+>600 mg dl−1 and minimal circulating C-peptide levels, Extended Data Fig. 4b), there was 
+comparable InsR phosphorylation in the retina of untreated and STZ-treated WT mice, in 
+fed or starved states. Further, STZ-treated Ins2 KO mice had lower InsR phosphorylation 
+(Extended Data Fig. 4c) (the residual InsR phosphorylation may arise from light-induced 
+InsR auto-phosphorylation that is insulin-independent31). While the STZ data are consistent 
+with the observations above, we interpret this cautiously, as reports suggests that STZ-
+induced hyperglycemia can impact retinal homeostasis10,32.
+Phagocytosis upregulates insulin expression by the RPE
+RPE-mediated phagocytosis of the POS (around light onset) is necessary for photoreceptor 
+homeostasis33, as it removes damaged photoreceptors from the previous day8,9. To test 
+whether Ins2 expression in the RPE might be linked to phagocytosis, we first asked whether 
+starvation impacts RPE phagocytosis. Notably, photoreceptor outer segment internalization 
+by the RPE (measured by immunofluorescence on retinal slices) was increased under 
+starvation conditions at ~2 h after light onset, correlating with the reported peak of diurnal 
+phagocytosis34 (Fig. 3a and Extended Data Fig. 5a). To address this further, we designed and 
+optimized a new flow cytometry-based assay to measure in vivo POS phagocytosis by the 
+RPE (Fig. 3b) that enables scoring thousands of RPE cells for phagocytosed photoreceptor-
+derived rhodopsin. Starvation/was not due to impaired rhodopsin degradation, as rhodopsin 
+degradation by RPE occurred normally at different time points after light onset (Extended 
+Data Fig. 5b).
+Phagocytosis of POS by the RPE starts around light onset, peaks 2 h later and declines 
+throughout the day34,35. We isolated eyes from mice at different times and quantified Ins2 
+mRNA in the RPE (Fig. 3c). Ins2 mRNA closely mirrored phagocytosis kinetics, with 
+insulin increasing around light onset (6:00 in our vivarium), peaking 2 h after (8:00) and 
+declining throughout the day (Fig. 3c). InsR phosphorylation and GLUT4 upregulation also 
+changed with time of day, peaking 1 h after light onset (7:00) and declining throughout the 
+day (Fig. 3d); however, in Ins2 KO mice, the time of day did not affect InsR phosphorylation Iker Etchegaray et al. Page 5
+Nat Metab . Author manuscript; available in PMC 2023 August 26.
+Author Manuscript Author Manuscript Author Manuscript Author Manuscriptor GLUT4 levels in the retina, linking diurnal changes in signaling with local insulin 
+secretion by the RPE.
+If RPE phagocytosis were linked to Ins2 induction, we asked whether this would be affected 
+by loss of specific phagocytic receptors (Fig. 3e). To test this, we first used mice carrying 
+a global deletion of MerTK17,36, a key phagocytic receptor for RPE phagocytosis37 (KO 
+strain originally generated by the Lemke group). RPE from the MerTK  KO mice had near 
+complete ablation of Ins2 expression (Fig. 3e). Retinas from MerTK  KO mice also trended 
+toward lower InsR phosphorylation and significantly decreased GLUT4 and C-peptide levels 
+compared to control mice (Extended Data Fig. 5c). As multiple receptors can impact RPE 
+phagocytosis, we also tested mice deficient in another phagocytic receptor CD36 (ref. 38). 
+RPE from CD36  KO mice also showed decreased Ins2 expression (Fig. 3e). The mice used 
+in these studies were of an age when their retinas were morphologically intact without 
+retinal damage17.
+To complement the above studies, we also used a ‘gain of function’ approach. Cleavage 
+of the ectodomain of MerTK on the RPE is one mechanism by which POS phagocytosis 
+decreases over time after light onset30. We used a knock-in mouse strain where key cleavage 
+residues within MerTK have been modified, rendering it cleavage-resistant (MerTKCR; 
+Extended Data Fig. 5d)39. Notably, RPE from MerTKCR mice displayed an increase in 
+phagocytosis of POS compared to controls (Fig. 3f) and this correlated with greater Ins2 
+expression (Fig. 3f). Testing whether insulin itself might promote RPE phagocytosis, we 
+did not detect a difference in RPE phagocytosis between control and Ins2 KO mice 
+(Extended Data Fig. 5e), suggesting that insulin production was downstream of POS uptake. 
+Collectively, these data demonstrate that phagocytic receptors and diurnally regulated RPE 
+phagocytosis promote Ins2 gene expression by the RPE.
+Linkage of RPE-derived Ins2 to physiology and disease
+The best known physiological effect of insulin on tissues is the stimulation of glucose 
+uptake through GLUT4 upregulation9. Induction of local insulin signaling in the retina is 
+most pronounced under starved/low systemic insulin conditions; therefore, we measured 
+glucose uptake in the eye via positron emission tomography (PET). Specifically, starved WT 
+or Ins2 KO mice were intravenously given radiolabeled [18F]fluorodeoxyglucose (FDG; a 
+non-hydrolysable form of glucose that does not stimulate systemic insulin) and the uptake 
+of [18F]FDG was measured in the eye (Fig. 4a). FDG uptake was decreased in the Ins2 
+KO mice compared to control mice (Fig. 4a). To further confirm that this reduction in 
+glucose uptake was attributable to insulin from the RPE, we imaged Best1 -Cre Ins2f/f mice. 
+Again, FDG uptake was decreased in the eyes of Best1 -Cre Ins2f/f mice (Fig. 4a). We also 
+performed dynamic PET imaging, which is a qualitative assay performed over time. Using 
+this approach, we again saw a decrease in total signal for FDG and glucose uptake was 
+also slower when measured over time (Fig. 4b, Supplementary Video 1 and Extended Data 
+Fig. 6). To complement PET imaging, we also measured total glucose in the retina of fed 
+and starved mice; again, the global Ins2 KO mice and Best1 -Cre Ins2f/f mice exhibited 
+decreased total glucose in the retina under starved conditions (Fig. 4c). Notably, when mice 
+had been fed ad libitum, glucose levels in the retina did not change compared to control Iker Etchegaray et al. Page 6
+Nat Metab . Author manuscript; available in PMC 2023 August 26.
+Author Manuscript Author Manuscript Author Manuscript Author Manuscript(Fig. 4c). Thus, RPE-derived insulin influences retinal glucose uptake, a key aspect of retinal 
+physiology.
+Most of the glucose consumed by photoreceptors is converted to lactate through aerobic 
+glycolysis rather than undergoing oxidative phosphorylation3. When we measured lactate 
+under starved conditions, total lactate levels in the retina of Ins2 KO mice were significantly 
+decreased in both global Ins2 KO and Best1 -Cre Ins2f/f mice compared to controls (Fig. 4d). 
+As expected, we did not see a decrease in lactate levels in the retina of mice fed ad libitum 
+(Fig. 4d).
+To better understand the impact of RPE-derived insulin on metabolic homeostasis of the 
+retina, we performed untargeted metabolomics on retinas, as well as on purified RPE from 
+control and Ins2 KO mice under starved/low systemic insulin conditions. Retinas of Ins2 
+KO mice showed alterations in >40 metabolites compared to control mice (Fig. 5a). Notably, 
+many of the metabolites decreased in Ins2 KO retinas are known to be regulated by insulin 
+in other insulin-responsive tissues40. Again, lactate came up as a metabolite decreased in 
+the retinas of Ins2 KO mice (Fig. 5a,b). Another modified pathway in Ins2 KO mice was 
+amino acid metabolism (Extended Data Fig. 7a,b), with the amino acid serine being one 
+of the metabolites decreased in Ins2 KO retinas (Fig. 5a,b). Due to high demand for serine 
+in neural tissues, glycolysis-derived serine provides the largest contribution to intracellular 
+serine stores in the retina41. Strikingly, retinas of starved Ins2 KO mice showed both a 
+decrease in serine as well as metabolites that depend on serine for their synthesis, such as 
+glycine and folate cycle-derived methionine42 (Fig. 5a,b). Thus, loss of local RPE-derived 
+insulin can have a broad impact on retinal metabolism, particularly on metabolites linked to 
+retinal homeostasis. Metabolomics of purified RPE from starved WT and Ins2 KO mice did 
+not show significant changes in metabolites, suggesting that the RPE-derived insulin may act 
+in a paracrine rather than autocrine fashion (Extended Data Fig. 8a–c).
+As another test of retinal physiology, we performed electroretinography (ERG) to measure 
+electrical changes in the retina in response to light, under fed and starved conditions in 
+control and Ins2 KO mice. In the retina, photoreceptor cells synapse onto bipolar cells and 
+inhibit their electrical activity under dark conditions; in response to light, photoreceptor 
+cells become silenced allowing bipolar cells to become active. This can be observed as the 
+a-wave and b-wave, whose amplitude in the electroretinogram is a measure of photoreceptor 
+and bipolar cell activity, respectively (Fig. 5c). While the b-wave amplitude in control mice 
+remained unchanged in fed versus starved conditions (Fig. 5c), the b-wave amplitude in Ins2 
+KO mouse retina significantly increased in starved compared to fed conditions (Fig. 5c). We 
+observed no obvious change in a-wave amplitude in control versus Ins2 KO mice (Extended 
+Data Fig. 9), likely due to compensatory reasons. These data suggest that Ins2 KO retinas 
+have a defect in visual processing/response to light under starved conditions.
+Retinitis pigmentosa is a human retinal disease characterized by initial degeneration of 
+rod cells, the photoreceptors responsible for overall light sensing, causing night blindness. 
+This is followed by progressive loss of cone cells, which mediate color vision. The 
+combined loss of rods and cones leads to progressive blindness. Death of cone cells has 
+been attributed to defects in glucose homeostasis4–6. Independently, defects in light-induced Iker Etchegaray et al. Page 7
+Nat Metab . Author manuscript; available in PMC 2023 August 26.
+Author Manuscript Author Manuscript Author Manuscript Author ManuscriptInsR activation31,43, as well as downstream signaling pathways44, have been implicated in 
+cone degeneration. As loss of RPE-derived insulin affects glucose homeostasis and insulin 
+signaling in the eye, we asked whether loss of Ins2 affects cone viability in the rd1 mouse 
+model of retinitis pigmentosa4. For this, we crossed the Ins2 KO mice to rd1 mutant mice 
+and asked whether cone loss might be increased in the rd1/ Ins2 KO mice. Compared to rd1 
+mice, cone cell numbers in rd1 Ins2 KO mice were substantially reduced by 8 weeks (Fig. 
+5d). These data suggest that RPE-derived insulin is important for maintaining cone viability 
+in a model of retinal disease.
+Discussion
+The data presented in this work provide several insights. First, multiple orthogonal pieces 
+of evidence reveal RPE cells as a source of local Ins2 in the retina. Second, insulin 
+produced in the RPE is modulated by phagocytosis (a key function of the RPE), with 
+specific phagocytic receptors linked to RPE phagocytosis influencing Ins2 induction; this 
+also suggests that failures in RPE-mediated phagocytosis, besides the defective removal 
+of damaged POS, may have broader consequences to metabolic homeostasis of the retina, 
+including serine metabolism. As we were revising this work, a new study45 reported that 
+the MerTK KO strain used here17,36 (and also used by numerous investigators over many 
+years) has reduced expression of another TAM receptor, Tyro3. In this study45, the authors 
+further showed that generically ablating Tyro3 together with conditional deletion of MerTK 
+can phenocopy the retinal deficits characteristic of the original MerTK KO line. Relevant 
+to our current work, although the reduced Tyro3 expression may have contributed to the 
+decreased Ins2 expression we see in the MerTK KO mice, it is notable that Tyro3 is 
+also a phagocytic receptor. Further, we took two additional orthogonal approaches in our 
+work that further support the notion that phagocytosis is linked to insulin production: the 
+CD36 null mice, which show a decrease in Ins2 expression and the ‘gain of function’ with 
+the MerTK cleavage-resistant mice that shows an increase in insulin production. Third, 
+while RPE-derived insulin (similar to pancreatic insulin) is important for promoting glucose 
+uptake in the retina, RPE-derived insulin is regulated differently from systemic insulin 
+during starvation and starvation also promotes phagocytosis by the RPE. Of note, multiple 
+previous studies have noted the retina as insensitive to systemic insulin11,12. Our data 
+suggest that insensitivity of the retina to systemic insulin may in part arise from local insulin 
+produced by the RPE. Fourth, in mice lacking Ins2 (with normal circulating glucose levels 
+via continued expression of Ins1), there is exacerbated cone death in a mouse model of 
+retinitis pigmentosa, highlighting the importance of RPE-derived insulin in mitigating retinal 
+degeneration. In our studies we found that the human retina also produces insulin; however, 
+there are no reports of the RPE being a target of autoimmune destruction in type 1 diabetes. 
+As the retina is considered to be immune privileged, one aspect of future research will be 
+to address how the local insulin production in the eye may impact autoimmune outcomes in 
+type 1 diabetes. Collectively, the data presented in this work advance the concept that the 
+RPE provide a local source of insulin in the eye and this has functional relevance to retinal 
+physiology, retinal metabolic homeostasis and in limiting retinal disease.Iker Etchegaray et al. Page 8
+Nat Metab . Author manuscript; available in PMC 2023 August 26.
+Author Manuscript Author Manuscript Author Manuscript Author ManuscriptMethods
+Reagents
+The reagents used for different parts of this work were obtained from the indicated 
+suppliers as follows: RNAProtect cell reagent (QIAGEN, 76526), NucleoSpin RNA isolation 
+kit (Macherey Nagel, 740955), Quanti-Tect reverse transcription kit (QIAGEN, 205313) 
+and Taqman probes (Thermo Fisher): Ins2 (Mm00731595_gH), Mer (Mm00434920_m1), 
+rhodopsin  (Mm01184405_m1) and Ins1 (Mm01950294_s1). Antibodies used were anti-
+insulin (Agilent, IR002), anti-insulin (Cell Signaling, 3014), anti-C-peptide (Phoenix 
+Pharmaceuticals, H-035-03), anti-Cre recombinase (Millipore, MAB3120), anti-rhodopsin 
+(Abcam, ab98887), anti-cone arrestin (Millipore, AB15282), anti-phospho insulin receptor- β 
+(Tyr1150/1151) (19H7) (Cell Signaling, 3024), anti-insulin receptor- β (Novus Biologicals, 
+NBP2 12793), anti-Glut4 (Alomone Labs, AGT 024), anti- β actin HRP (Sigma, A3854) 
+and anti-rabbit IgG HRP (GE Healthcare, NA934V). We also used Halt Phosphatase 
+inhibitor (Thermo Fisher, 1862495), Halt Protease inhibitor (Thermo Fisher, 1862209), 
+ultrasensitive mouse insulin ELISA (Mercodia, 10-1249-01), mouse C-peptide ELISA 
+(CrystalChem, 90050), rat/mouse C-peptide 2 ELISA (Millipore, EZRMCP2), glucose 
+Glo Assay (Promega, J602), lactate Glo Assay (Promega, J5021) and eBioscience Foxp3 
+Transcription Factor Staining Buffer Set (Thermo Fisher, 00-5523-00).
+Mice
+Mice were housed in a vivarium with a 14-10-h light–dark cycle, with lights on at 6:00 and 
+turning off at 20:00. They receive an ad libitum diet (unless otherwise noted for individual 
+experiments) of regular chow and are kept at 72 °F and 40% humidity. C57BL/6J, Best1 -Cre 
+(strain 017557), YFPflox-stop-flox (strain 006148), rhodopsin -Cre (015850), CD36  KO (strain 
+019006) and Rd1 (strain 000656) mice were acquired from Jackson Laboratories and bred 
+in our facilities. MerTK KO mouse strain36 was acquired from Jackson Laboratories (strain 
+011122) and backcrossed to C57BL/6J for six generations. Controls for MerTK KO and 
+CD36  were WT littermates. Ins2f/f mice46 were generated as previously described and were 
+crossed to Best1 -Cre or rhodopsin -Cre47 strains. Controls for these mice were Best1 -Cre, 
+rhodopsin -Cre and/or Ins2f/f. Ins2 KO mice used in these experiments came from a mix 
+of Ins2f/f crossed to E2A-Cre (from Jackson Laboratories) in which progeny were selected 
+for global loss of Ins2f/f and were then backcrossed to C57BL/6J to remove E2A-Cre or 
+from Nod.Ins2null ( Jackson laboratories) backcrossed to C57BL/6J for four generations 
+(diabetes in NOD mice predominantly affects females and autoimmunity is lost with just one 
+backcross). Control for these mice were C57BL/6J for Ins2f/f and WT littermate control for 
+Ins2null. Mer cleavage-resistant mice have been described previously39. Controls for these 
+mice were WT littermates. Rd1 mice were crossed to Ins2null mice and Rd1 littermates 
+were used as controls. Rd1 and Rd1 Ins2null were then dissected at 8 weeks of age. Only 
+male mice were used in these experiments. All animals were killed between 9–12 weeks; 
+two exceptions were MerTK KO mice (and respective controls), which were killed at 4 
+weeks of age before onset of any retinal complications, and Ins2 KO (and control) used for 
+metabolomics, which were killed at 10–18 weeks. All animal procedures were approved by 
+and performed according to guidelines of the Institutional Animal Care and Use Committee 
+at the University of Virginia.Iker Etchegaray et al. Page 9
+Nat Metab . Author manuscript; available in PMC 2023 August 26.
+Author Manuscript Author Manuscript Author Manuscript Author ManuscriptGene expression analysis
+RNA isolation for RPE.— Isolation of RPE for gene expression analysis was conducted 
+as previously described with a few modifications48. Mice were killed with CO 2 and eyes 
+were enucleated. Eyes were then further dissected in ice-cold PBS to carefully remove lens, 
+cornea, iris and retina. The eye cup (containing RPE/sclera/choroid) was then moved toa 
+microcentrifuge tube containing 100 µl of ice-cold RNAProtect cell reagent and left on ice 
+for 20 min. During this time, a tube containing the eye cup was gently tapped at intervals of 
+5 min. After, the eye cup was removed and cells were spun at 4 °C for 5 min at 700 g leaving 
+an RPE pellet behind. RNAProtect cell reagent was removed and subsequent RNA isolation 
+was performed using the NucleoSpin RNA isolation kit (Macherey Nagel).
+Nuclear isolation from RPE and RNA extraction.— RPE cells were isolated as 
+previously described49. YFP+ RPE cells were sorted with a FACS Aria Fusion cell sorter. 
+Cells were then spun down at 1,000 g for 5 min at 4 °C and hydrated in 1 ml cells lysis 
+buffer with protease inhibitors (1% Tween40, 2 mM MgCl 2, 10 mM β-glycerophosphate, pH 
+7 and 5% glycerol) and incubated for 5 min on ice. Thereafter 1 ml water was added and 
+cells were again incubated for 5 min on ice. Cells were then broken up with a glass Dounce 
+homogenizer using a tight inserting pestle until nuclei were liberated. Lysates were layered 
+on top of a two-step sucrose cushion containing 20 ml lower cushion (500 mM sucrose, 2 
+mM MgCl 2, 25 mM KCl, 65 mM β-glycerophosphate, pH 7 and 5% glycerol) and 10 ml 
+upper cushion (340 mM sucrose, 2 mM MgCl 2, 25 mM KCl, 65 mM β-glycerophosphate, 
+pH 7 and 5% glycerol), spun down at 1,000 g for 10 min at 4 °C and supernatant was 
+discarded. Crude nuclei were resuspended in a desired amount of upper cushion solution. 
+Subsequent downstream RNA isolation was performed using the NucleoSpin RNA isolation 
+kit (Macherey Nagel).
+RNA Isolation for other tissue.— All other tissue except retina were dissected and 
+homogenized using a PRO200 homogenizer (Proscientific). Retinas were homogenized 
+by pipetting up and down with a p200 pipetman. After homogenization, subsequent 
+downstream RNA isolation was performed using the NucleoSpin RNA isolation kit 
+(Macherey Nagel).
+Primary RPE cell culture RNA isolation.— Primary RPE cell culture was performed 
+as previously described49. RPE and immortalized mouse embryonic fibroblasts were then 
+grown for 2–4 weeks, after which homogenization and RNA isolation was performed using 
+the NucleoSpin RNA isolation kit (Macherey Nagel).
+RT–PCR.— Complementary DNA synthesis was performed using Quanti-Tect reverse 
+transcription kit (QIAGEN). FC and expression-level gene analysis for target and 
+housekeeping genes was performed using Taqman probes (Applied Biosystems) run on a 
+StepOnePlus Real Time PCR System (Applied Biosystems).
+Retinal cryotissue sections for RNAScope and IHC
+Mice were killed with CO 2 and eyes were enucleated. Retinal tissue cryosections were 
+prepared from enucleated eyes as previously described50. RNAScope was performed Iker Etchegaray et al. Page 10
+Nat Metab . Author manuscript; available in PMC 2023 August 26.
+Author Manuscript Author Manuscript Author Manuscript Author Manuscriptusing the V2 Multiplex-Fluorescent assay (ACDbio) per manufacturer’s instructions. 
+Immunohistochemistry (IHC) was performed as previously described50. Representative 
+images were taken using a Zeiss LSM 880 confocal microscope.
+RPE protein isolation and analysis
+Protein isolates from RPE were obtained as previously described51. Insulin ELISA was 
+performed per manufacturer’s instructions using Ultrasensitive Mouse Insulin ELISA 
+(Mercodia). C-peptide ELISA was performed as per manufacturer’s instructions using the 
+Mouse C-peptide (CrytalChem) and Rat/Mouse C-peptide 2 (Millipore) ELISA kits.
+KCl induced release of insulin in the eye cup
+Eyes were enucleated and retinas were removed from the eye cups in Krebs–Ringer–
+bicarbonate–HEPES buffer (KRB). Eye cups were then incubated in fresh KRB at 37 
+°C for 5 min, KRB was removed and replaced with fresh KRB at 5 mM or 50 mM 
+KCl concentration for 10 min at 37 °C. Supernatant was collected and then probed for 
+C-peptide-2 through ELISA.
+Human tissue samples
+De-identified human surgical enucleation specimens were obtained from the University 
+of Virginia Department of Pathology archives via the auspices of the University of 
+Virginia Biorepository and Tissue Research Facility. A protocol for utilization of de-
+identified archival paraffin-embedded specimens was approved by the University of Virginia 
+Institutional Review Board. Informed consent from donors was waived. All staining on 
+human tissue samples used formalin-fixed, paraffin-embedded tissue sections.
+Inter photoreceptor matrix protein isolation
+Mice were killed with CO 2 and eyes were enucleated on a dry dish. Lens and vitreous humor 
+were then dissected out and then the retina was delicately separated from the rest of the eye 
+cup. Soluble proteins from the retina interphotoreceptor matrix of each retina were washed 
+out in 80 µl of HBSS without Ca2+/Mg2+ with protease and phosphatase inhibitors for 20 
+min on a shaker (500 r.p.m.) at 4 °C. Isolate was then centrifuge at 14,000 g for 5 min 
+at 4 °C. Supernatant was then collected and subsequent C-peptide ELISA (CrystalChem) 
+was performed as per manufacturer’s instructions. Results were normalized to the protein 
+concentration from each supernatant.
+Glucose tolerance test
+Dextrose (1.5 g kg−1) was prepared, sterile filtered and injected intraperitoneally. The 
+glucose excursion was monitored over a 2-h time course and compared between genotypes. 
+Tail vein blood samples were analyzed by glucometer (OneTouch Verio Flex) at 0, 15, 45, 60 
+and 120 min following dextrose injection. The cumulative glycemic excursion was evaluated 
+as the area under the curve.Iker Etchegaray et al. Page 11
+Nat Metab . Author manuscript; available in PMC 2023 August 26.
+Author Manuscript Author Manuscript Author Manuscript Author ManuscriptImmunoprecipitation
+Equal amounts of protein lysate were incubated overnight at 4 °C with anti-insulin receptor-
+β antibody (10 g mg−1 lysate, Novus Biologicals, NBP2 12793) and pre-washed SureBeads 
+Protein G Magnetic Beads (Bio-Rad). Unbound protein and antibody were removed, and 
+protein bead complexes were washed per manufacturer instructions. Bound protein was 
+eluted in Laemmli sample buffer containing β-mercaptoethanol and incubated at 70 °C for 
+10 min.
+Immunoblotting of retina, muscle and fat
+Protein lysates were prepared from isolated tissue using RIPA lysis buffer with added Halt 
+Protease and Phosphatase Inhibitor Cocktail (Thermo Scientific). Equal amounts of protein 
+lysate were loaded in TGX Precast gels (Bio-Rad) or in-house-made 7% polyacrylamide 
+gels, then subjected to SDS–PAGE. Protein was transferred onto PVDF membranes using 
+the Trans Blot Turbo transfer system (Bio-Rad). After transfer, blots were blocked for 
+1–3 h in 5% dry milk in TBST at room temperature, then probed using anti-phospho 
+insulin receptor β (Tyr1150/1151) (19H7) (1:1,000 dilution, Cell Signaling, 3024), anti-
+insulin receptor β (1:5,000 dilution, Novus Biologicals, NBP2 12793), anti-Glut4 (1:1,000 
+dilution, Alomone Labs AGT, 024), anti- β actin HRP (1:15,000 dilution, Sigma, A3854) and 
+Amersham ECL anti-rabbit IgG HRP (1:5,000 dilution, GE Healthcare, NA934V). In some 
+experiments, primary and secondary antibodies were diluted in SignalBoost Immunoreaction 
+Enhancer kit solutions (Millipore Sigma). Blots were exposed using Western Lightning Plus 
+ECL kit (PerkinElmer) or SuperSignal West Femto ECL kit (Thermo Scientific). Images 
+were collected on the ChemiDoc Touch imagining system and analyzed using ImageLab 
+software (Bio-Rad).
+Streptozotocin treatment
+Diabetes was induced by intraperitoneal injections of a freshly prepared solution of STZ in 
+0.1 M citrate buffer (pH 4.4) at 60 mg kg−1 body weight once a day for 5 d in male mice at 
+4–6 weeks of age. Control mice were injected with only citrate buffer. Diabetic mice were 
+then maintained for 4 weeks after the last injection of STZ before retinas were dissected 
+and processed for immunoprecipitation. All diabetic mice processed for this experiment had 
+non-fasting glucose levels >600 mg dl−1.
+RPE dissociation and phagocytosis assay with flow cytometry
+Mice were killed with CO 2 and eyes were enucleated. Eyes were then further dissected 
+in ice-cold PBS to carefully remove lens, cornea, iris and retina. The eye cup (containing 
+RPE/sclera/choroid) was then moved to a microcentrifuge tube containing 100 µl of 200 
+U ml−1 of pre warmed Collagenase IV . The microcentrifuge containing the eye cup was 
+then submerged in 37 °C water bath for 12 min and the tube was gently tapped every 
+2 min. After, the reaction was quenched in flow cytometry sample buffer and the eye 
+cup was removed. Microcentrifuge tube containing dissociated RPEs was then spun at 
+400g at 4 °C for 5 min. Supernatant was removed and cells were treated with fixation 
+solution (100 µl) from Foxp3 eBio kit (1:4 fixative:diluent) for 30 min room temperature. 
+Cells were subsequently washed with permeabilization buffer (Foxp3 eBio kit) 1:10 in Iker Etchegaray et al. Page 12
+Nat Metab . Author manuscript; available in PMC 2023 August 26.
+Author Manuscript Author Manuscript Author Manuscript Author ManuscriptdH20, resuspended in permeabilization buffer for 15 min and then incubated with anti-
+rhodopsin antibody at 4 °C for 1 h. Cells were then spun at 400 g for 5 min, washed 1× in 
+permeabilization buffer and then incubated with secondary antibody for 30 min. Cells were 
+then washed 1× with permeabilization buffer, 1× with flow cytometry sample buffer and 
+finally resuspended in flow cytometry sample buffer. Cells were then run on a AttuneNxT 
+Flow Cytometer. The gating strategy used is shown in Supplementary Fig. 1.
+RPE phagocytosis analysis using IHC
+Retinas from starved and fed mice dissected 2 h after light onset were stained with anti-
+rhodopsin (Abcam). Imaging was conducted with a Zeiss Axio Observer and quantification 
+was performed using ImageJ. Quantification of phagocytosis was measured by the amount 
+of rhodopsin immunoreactivity in the RPE divided by pixels (middle panel) and presented as 
+phagosomes per area on the y axis. Quantification of the number of phagosomes in RPE was 
+done by counting rhodopsin puncta in the RPE (right). A representative image was taken 
+using a Zeiss LSM 880 confocal microscope.
+PET imaging
+All mice were fasted overnight the day before PET/CT scan. The mice were anesthetized 
+using isoflurane and oxygen mixture (inhalation anesthesia, 5% ratio during induction, later 
+reduced to 2%). The animals were given [18F]FDG (4.0 ± 2.8 MBq) via intraperitoneal 
+injection. After a 45-min injection, static PET/CT imaging was performed for 15–20 min 
+followed by a 10-min CT scan using the Albira Si small animal tri-modal PET/CT/SPECT 
+scanner (Bruker). PET images were reconstructed as previously described52. Image co-
+registration and analysis was performed using PMOD 4.1 (PMOD Technologies). Averaged 
+standard uptake values (SUVs) were derived for each volume of interest (VOI) and data 
+are reported as percent injected dose per ml (%ID ml−1). Datasets were fully corrected for 
+random coincidences, scatter and attenuation. Images were smoothed with a Gaussian filter 
+(1.35 mm in both directions).
+PET image data analysis
+The images were normalized as SUVs using the formula SUV = decay of the corrected mean 
+tissue activity concentration (Bq ml−1) / (injected dose (Bq) × body weight (g)). A VOI 
+was manually drawn around left and right retina using PMOD 4.1, Pview. The maximal 
+SUV was calculated for the corresponding VOIs. To control for potential effects of insulin 
+ablation on total glucose levels, values were similarly obtained for the liver and retina and 
+the values were then normalized to those of the liver. The normalized values are those 
+presented in Fig. 4 as a percent uptake relative to WT.
+Dynamic PET imaging
+Mice were imaged using Albira Si Tri-modal PET/SPECT/CT scanner. The Albira PET 
+imager is a three-ring scanner with an axial field of view (FOV) of 150 mm and transaxial 
+FOV of 80 mm. The volumetric spatial resolution of the PET system ranges from 0.41–
+0.87 mm3 at the axial center with a sensitivity of 11% at the center of the FOV . The 
+noise equivalent count rate for the mouse phantom was measured to be 486 kcps at 23 Iker Etchegaray et al. Page 13
+Nat Metab . Author manuscript; available in PMC 2023 August 26.
+Author Manuscript Author Manuscript Author Manuscript Author ManuscriptMBq. Dynamic FDG PET imaging of the mice were performed using a similar protocol 
+as described earlier53. Rate of FDG uptake, Ki (and kinetic rate constants) and total blood 
+volume were computed in MatLab (MathWorks) as described previously54.
+Retina whole glucose and lactate luciferase assay
+Mice were killed with CO 2 and eyes were enucleated. Lens and vitreous humor were then 
+dissected out and then the retina was delicately separated from the rest of the eye cup. 
+Retinas were then processed and analyzed with Promega Glucose or Lactate Glo luciferase 
+kit per manufacturer’s instructions. A lactate value in the Best1 -Cre Ins2f/f dataset was 
+thrown out due to extreme variability.
+Metabolite extraction
+Mice were fasted overnight and killed with avertin after light onset. Five replicates each of 
+both retinal and RPE tissues (from WT and KO mice) were collected and dissected, flash 
+frozen and stored at −80 °C until extraction. Tissues were thawed on ice. Approximately 400 
+µl of cold methanol was added to along with four steel balls (Fischer Brand; diameter 2.4 
+mm) and shaken vigorously in Fischer Brand Bead Mill 24 at speed of 5 Hz, three cycles of 
+20 s each with 10 s rest. Tubes were further vortexed and shaken at 900 r.p.m. for 30 min at 
+4 °C in temperature controlled thermal shaker. After adding 200 µl of chloroform and 400 µl 
+of water, the top aqueous phase was recovered as metabolite mixture. Metabolite extract was 
+dried overnight in speedVac and reconstituted in 100 µl of 0.1% FA. A total of 10 µl from 
+each tube was removed to create a pooled quality control (QC) sample that was injected at 
+the beginning and end of the mass spectrometry (MS) sequence and additional QC samples 
+were injected after every five sample injections.
+Untargeted metabolite analysis
+Untargeted metabolite analysis was performed on a Thermo Orbitrap IDX Tribrid MS 
+at Biomolecular Analysis Facility, University of Virginia, School of Medicine. Samples 
+were transported to the MS via a Thermo Vanquish UHPLC and separation of the polar 
+metabolites was achieved using Waters BEH C18 column (Waters Corp; 2.1 × 150 mm; 1.7 
+µm) maintained at 30 °C. A conventional data-dependent acquisition mode was used for 
+data acquisition and samples were randomized during extraction and analysis on the mass 
+spectrometer. The injection volume was 5 µl. For the 15-min gradient, the standard mobile 
+phase for RPLC was Buffer A = 0.1% formic acid in water and Buffer B = 0.1% formic acid 
+in methanol in electrospray ionization (ESI) positive and negative mode. The linear gradient 
+elution was as follows: 0–8 min 50% B, 8–13 min held at 98% B, and 13.1–15.0 min revert 
+to 0% B to re-equilibrate for the next injection. ESI source conditions were set as follows: 
+ion source type was H-ESI; positive ion voltage was set at 3,500 and negative was set at 
+2,500. Sheath gas was set at 35 and auxiliary gas was set at 7. Ion transfer tube temperature 
+was set at 275 °C and vaporizer temperature was set at 320 °C.
+Data were acquired in full MS mode (1 µscan) at a resolution of 120,000 with a scan range 
+of 67–1,000 m/z at a normalized AGC target of 25% and 50 ms of maximum injection 
+time was allowed. RF lens amplitude was set at 35%. Tandem MS/MS performed by 
+applying quadrupole isolation with an isolation window of 1.6 m/z. Activation type was Iker Etchegaray et al. Page 14
+Nat Metab . Author manuscript; available in PMC 2023 August 26.
+Author Manuscript Author Manuscript Author Manuscript Author Manuscriptset at HCD and masses were fragmented with HCD Assisted Collision Energy (%) of 
+15,35,50. Fragment masses were detected by Orbitrap at a resolution of 30,000. A total of 
+20 × 2 sample runs (negative and positive mode), ten QC runs (5 × 2 negative and positive 
+mode) and 4 × 2 blanks (negative and positive) tandem MS/MS runs were acquired. Thermo 
+*.RAW files were converted to an Open Source *.mzML format using msConvert software 
+(http://proteowizard.sourceforge.net/download.html ) and brought into MS-DIAL software 
+for analysis ( http://prime.psc.riken.jp/compms/msdial/main.html )55,56.
+MS-DIAL analysis parameters were as follows: MS1 tolerance was set at 0.01 Da and 
+Ms2 tolerance at 0.025 Da. Data were collected from 0–15 min at a mass range from 
+50–1,000 Da. Peak detection was performed with a minimum peak height of 1 × 105 and 
+mass slice width of 0.1 Da. Metabolites were identified by searching the MS2 spectra in 
+the MS-DIAL public database (290,915 records for positive and 36,848 entries for negative 
+mode; v.14) using a mass tolerance of 0.01 Da for MS1 and 0.05 Da for MS/MS with 
+identification score cutoff of 60%. Additionally, peaks were also searched against a library 
+from IROA Technologies (in both positive and negative mode) with a mass tolerance of 
+0.01, identification cutoff of 90% and RT tolerance of 0.5 min (MS Metabolite Library of 
+Standards; http://iroatech.com/ ). For peak alignment maximum retention tolerance was set 
+at 0.2 min. Alignment data for all the samples with annotated and unknown identification 
+was exported to MS-CleanR R package (refs. 54,55). Using MS-CleanR blank injection 
+signal subtraction, background ion drift removal and unusual mass defect filtering, peaks 
+with relative s.d. threshold >30% based on QC were removed. Further data were manually 
+examined and curated to remove duplicates and identification was confirmed based on 
+MS-Finder (using a formula and structure search). Further data processing for statistical 
+analysis, univariate and multivariate analysis was performed in R.
+Electroretinography
+ERG was performed as previously described57. Briefly, scotopic ERG was performed 
+on 13-24-week-old mice. Mice were dark-adapted overnight before the experiments and 
+anesthetized by intraperitoneal injection of 100 mg kg−1 ketamine hydrochloride. The pupils 
+were dilated with tropicamide (1%) and phenylephrine (2.5%) eye drops. ERG was recorded 
+using a Ganzfeld ERG (Phoenix laboratories). Scotopic combined responses were obtained 
+using the LabScribe software (Phoenix Laboratories) under dark-adapted conditions (no 
+background illumination, 0 cd m−2) in response to white-flash stimuli ranging from −1.7 
+to 1.0 log cd s m−2 with 20 responses averaged for each stimulus. The amplitude of 
+b-wave  was measured as the difference between the a-wave  min and the b-wave  max.
+Retina whole mounts for Rd1 and Rd1 Ins2 KO mice
+Mice were killed with CO 2 and eyes were enucleated. Retinal tissue cryosections were 
+prepared from enucleated eyes as previously described50. IHC using cone arrestin antibodies 
+was performed as previously described50. Imaging was conducted with a Leica DMi 8 
+Thunder/TIRF microscope and quantification of the number of cones in the center retina was 
+performed using ImageJ. The center retina was defined as a 1-mm diameter circle with the 
+optic nerve in the center.Iker Etchegaray et al. Page 15
+Nat Metab . Author manuscript; available in PMC 2023 August 26.
+Author Manuscript Author Manuscript Author Manuscript Author ManuscriptStatistical analysis
+All box and whiskers plots show minimum to maximum with all independent replicates 
+included, the horizontal line within the box depicting the median and the box extending from 
+the 25th to 75th percentiles. Statistical tests were performed using GraphPad Prism v.8 as 
+indicated in figure legends. Outlier data points were identified using the ROUT method with 
+Q = 1%, with the exception of Extended Data Fig. 4b, where Grubbs with an α of 0.2 was 
+used. No statistical tests were used to determine sample size.
+Reporting summary
+Further information on research design is available in the Nature Portfolio Reporting 
+Summary linked to this article.
+Extended Data
+Extended Data Fig. 1 |. Expression of Ins2 mRNA and Protein Within the RPE Cells of the Eye.
+a. RT–PCR of Ins2 from mRNA isolated from different mouse tissues. n = 3 mice used for 
+each tissue. **p < .01, one-way ANOV A on ranks. b. Flow cytometry panels showing YFP+ 
+gating strategy for isolated RPE from Best1 -Cre/YFPflox-STOP-flox mice. c. Representative 
+image of two independent experiments showing immunofluorescence analysis at 40x 
+magnification on mouse retina from Rhodopsin -Cre Ins2f/f mice using antibodies against Cre 
+(green) (left). RT–PCR of Ins2 mRNA in RPE of Rhodopsin -Cre Ins2f/f shows no change in 
+the expression of the Ins2 transcript compared to control (right). n = 2 mice used for each 
+genotype. d. Representative image of immunofluorescence analysis at 60x magnification 
+on human retina using antibodies against C-peptide (magenta) with brightfield microscopy. 
+Merge shows that C-peptide, a byproduct of insulin secretion and a metric of insulin release, 
+is present and located in the retina. Plots are presented as in Fig. 1.Iker Etchegaray et al. Page 16
+Nat Metab . Author manuscript; available in PMC 2023 August 26.
+Author Manuscript Author Manuscript Author Manuscript Author ManuscriptExtended Data Fig. 2 |. Data Mining / Reanalysis of scRNAseq Data from Macaque Retinas 
+Reveals Ins2 mRNA Expression in RPE and RPE-like Cells.
+a. UMAP plot showing different cell types with the RPE-like cell clusters labeled. b. 
+Violin plot showing normalized expression levels of TPM2, a RPE cell gene marker, for 
+all samples. The clusters with the highest TPM2 expression overlay with the clusters we 
+defined as containing RPE-like cells. c. Violin plot showing normalized expression levels of 
+INS in one young male monkey sample (YM2). The detectable expression of INS in YM2 
+was restricted to RPE-like cells.
+Extended Data Fig. 3 |. Ins1 mRNA and Insulin Receptor Phosphorylation in Ins2 KO mice.
+a. RT–PCR of Ins1 fold change in mRNA of isolated RPE from control and Ins2 KO mice. 
+n = 8 mice used for each genotype. b. Insulin receptor was immunoprecipitated from various 
+tissue lysates of control and Ins2 KO mice that were starved overnight. Phosphorylation 
+status of the InsR was probed using phospho-specific InsR antibodies via immunoblotting 
+and quantified as the ratio of p-InsR to total InsR. n = 2 mice for control vs Ins2 KO. Plots 
+are presented as in Fig. 1.
+Extended Data Fig. 4 |. InsR Phosphorylation Decreases in the Retina of Ins2 KO, but not 
+Control, Streptozotocin (STZ) Treated Mice.Iker Etchegaray et al. Page 17
+Nat Metab . Author manuscript; available in PMC 2023 August 26.
+Author Manuscript Author Manuscript Author Manuscript Author Manuscripta. Schematic of streptozotocin (STZ) treatment. b. ELISA measuring C-peptide levels in 
+blood of control, control STZ-treated, and Ins2 KO STZ-treated mice starved mice. N = 6 
+mice for control and N = 4 mice for STZ-treated Control and STZ-treated Ins2 KO. *p < .05, 
+one-way ANOV A with Dunnet’s multiple comparisons test. c. Insulin receptor (InsR) was 
+immunoprecipitated from retina tissue lysates of control, control STZ-treated, and Ins2KO 
+STZ-treated mice, starved overnight (left) or control and control STZ-treated mice fed 
+ad libitum (right). Phosphorylation status of the InsR was probed using phospho-specific 
+antibodies (Tyr1150/1151) via immunoblotting and quantified as the ratio of p-InsR to total 
+InsR, normalized to untreated WT mice. N = 3 mice for all conditions. *p < 05, one-way 
+ANOV A with Tukey’s multiple comparison’s test. Plots are presented as in Fig. 1.
+Extended Data Fig. 5 |. RPE Phagocytosis Increases in Starved Mice vs Fed and is not Changed 
+in Ins2 KO Mice.
+a. Quantification of OS phagocytosis by the RPE 2 hours after light onset using 
+immunohistochemistry. Quantification of phagocytosis was measured by the amount of 
+Rhodopsin immunoreactivity in the RPE divided by pixels and presented as phagosomes 
+per area on the y-axis (left). Quantification of the number of phagosomes in RPE was done 
+by counting Rhodopsin puncta in the RPE (right). n = 3 mice used for each condition. *p 
+≤ .05 paired two-tailed t-test. b. Western blot against Rhodopsin on isolated RPE protein 
+lysates from fed and starved mice at 8 am and 10 am (left). Right panel is quantification 
+of the blot to evaluate POS degradation showing 10 am band intensity as a percent of 8 am 
+(peak phagocytosis) band intensity (right). n = 2 mice used for each time point. c. Insulin 
+receptor was immunoprecipitated from lysates of retina from control and MerTK KO mice 
+that were starved overnight. The lysates were probed for InsR phosphorylation or GLUT4 
+levels by immunoblotting. C-peptide 2 levels were determined by ELISA. N = 6 mice for 
+each condition. *p < .05 paired two-tailed t-test. d. Schematic of WT and cleavage-resistant 
+‘gain of function’ MerTKCR mice with altered cleavage sites indicated (left). e. Phagocytosis 
+quantification of ingested photoreceptor outer segments using flow cytometry on isolated 
+RPE stained with antibody against rhodopsin from Control and Ins2 KO mice two hours 
+after light onset. n = 7 mice used for each genotype. Plots are presented as in Fig. 1.Iker Etchegaray et al. Page 18
+Nat Metab . Author manuscript; available in PMC 2023 August 26.
+Author Manuscript Author Manuscript Author Manuscript Author ManuscriptExtended Data Fig. 6 |. Loss of Ins2 leads to decreased eye glucose uptake as measured by 
+Dynamic in vivo PET.
+a. Quantification of Dynamic in vivo  PET imaging for 18[F]FDG glucose uptake in the eyes 
+of control and Ins2 KO mice after 18[F]FDG injection.
+Extended Data Fig. 7 |. Untargeted Metabolomics Reveals Changes in Global Metabolism of 
+Retinas from WT vs Ins2 Knockout Mice.
+a. Enrichment analysis of metabolites from untargeted metabolomics for control over Ins2 
+KO retinas (using KEGG database). Data are representative of four biological replicates. 
+b. Impact analysis of specific metabolic pathways down (left) and up (right) in control vs 
+Ins2 KO retinas using KEGG database. Pathway significance was determined using Fisher’s 
+Exact Tests.Iker Etchegaray et al. Page 19
+Nat Metab . Author manuscript; available in PMC 2023 August 26.
+Author Manuscript Author Manuscript Author Manuscript Author ManuscriptExtended Data Fig. 8 |. Untargeted Metabolomics of RPE from WT and Ins2 Knockout Mice 
+reveals Minimal Changes in Global metabolism.
+a. V olcano plot from untargeted metabolomics of RPE representing statistically enriched or 
+reduced metabolites in the RPE of control mice relative to those of Ins2 KO using Fisher’s 
+exact test. False Discovery rate (FDR, p < 0.1) is shown in red, absolute value of the Lo g2 
+fold change of 0.3 (1.2 fold change) in orange, and those in blue meet both criteria. Data are 
+representative of 4 biological replicates. b. Enrichment analysis of metabolites using KEGG 
+database from untargeted metabolomics for control over Ins2 knockout RPE cells. c. Impact 
+analysis of specific metabolic pathways in control vs Ins2 KO RPE using KEGG database. 
+Pathway significance was determined using Fisher’s Exact Tests.Iker Etchegaray et al. Page 20
+Nat Metab . Author manuscript; available in PMC 2023 August 26.
+Author Manuscript Author Manuscript Author Manuscript Author ManuscriptExtended Data Fig. 9 |. a-wave Amplitude in the Retina of Fed. or Starved Control and Ins2 KO 
+Mice.
+a. Schematic of scotopic electroretinogram (ERG) on mouse retina to detect visual 
+processing in response to light (top). Quantification of a-wave amplitude in ERG of WT 
+and Ins2 KO mice under fed and starved condition (bottom). n = 8 mice for WT, n = 4 mice 
+for Ins2 KO mice.
+Supplementary Material
+Refer to Web version on PubMed Central for supplementary material.
+Acknowledgements
+We thank members of the Ravichandran laboratory as well as B. Gelfand and R. Lindsay for input and critical 
+reading of the manuscript. We thank E. Thorpe and I. Tabas for the MerTKCR mice, J. Mandell for human Iker Etchegaray et al. Page 21
+Nat Metab . Author manuscript; available in PMC 2023 August 26.
+Author Manuscript Author Manuscript Author Manuscript Author Manuscriptretinal samples and E. Nandrot and R. Rajala for advice on specific protocols. Figure schematics were created 
+using BioRender images as templates. This work was supported by grants to K.S.R. from the National Institute of 
+General Medical Sciences (R35GM122542), National Institute of Allergy and Infectious Diseases (R01AI159551), 
+the National Heart, Lung and Blood Institute (P01HL120840), the Center for Cell Clearance/University of Virginia 
+and Bone and Joint Canada Investigator funds from the Washington University School of Medicine to J.I.E. via NEI 
+F32 (EY031211) and T32AI7496-23. J.A. is a cofounder of DiceRx, iVeena Holdings, iVeena Delivery Systems, 
+and Inflammasome Therapeutics; has been a consultant for Abbvie, Boehringer-Ingelheim, Olix Pharmaceuticals, 
+Retinal Solutions, and Saksin LifeSciences; and is named as an inventors on patent applications filed by his 
+university, all unrelated to this work. J.A. has received support from the UV A Strategic Investment Fund, National 
+Institutes of Health (NIH) grants (R01EY028027, R01EY029799, R01EY031039, R01AG082108), DuPont Guerry, 
+III, Professorship, and a gift from Mr. and Mrs. Eli W. Tullis.
+Data availability
+Untargeted metabolomics data can be found at www.metabolomic-sworkbench.org , 
+with project ID PR001193 or visit at https://doi.org/10.21228/M8H419 . Untargeted 
+metabolomics data were analyzed using the MetabolAnalyst v.5.0 platform ( https://
+www.metaboanalyst.ca/ ). Source data are provided with this paper.
+References
+1. Swarup A et al. Modulating GLUT1 expression in retinal pigment epithelium decreases glucose 
+levels in the retina: impact on photoreceptors and Müller glial cells. Am. J. Physiol. Cell Physiol 
+316, C121–C133 (2019). [PubMed: 30462537] 
+2. Kanow MA et al. Biochemical adaptations of the retina and retinal pigment epithelium support a 
+metabolic ecosystem in the vertebrate eye. eLife 6, e28899 (2017). [PubMed: 28901286] 
+3. Winkler BS Glycolytic and oxidative metabolism in relation to retinal function. J. Gen. Physiol 77, 
+667–692 (1981). [PubMed: 6267165] 
+4. Punzo C, Kornacker K & Cepko CL Stimulation of the insulin/mTOR pathway delays cone death in 
+a mouse model of retinitis pigmentosa. Nat. Neurosci 12, 44–52 (2009). [PubMed: 19060896] 
+5. Aït-Ali N et al. Rod-derived cone viability factor promotes cone survival by stimulating aerobic 
+glycolysis. Cell 161, 817–832 (2015). [PubMed: 25957687] 
+6. Wang W et al. Two-step reactivation of dormant cones in retinitis pigmentosa. Cell Rep 15, 372–385 
+(2016). [PubMed: 27050517] 
+7. Young RW & Bok D Participation of the retinal pigment epithelium in the rod outer segment 
+renewal process. J. Cell Biol 42, 392–403 (1969). [PubMed: 5792328] 
+8. Adijanto J et al. The retinal pigment epithelium utilizes fatty acids for ketogenesis: implications 
+for metabolic coupling with the outer retina. J. Biol. Chem 289, 20570–20582 (2014). [PubMed: 
+24898254] 
+9. Wang W et al. Metabolic deregulation of the blood-outer retinal barrier in retinitis pigmentosa. Cell 
+Rep 28, 1323–1334 (2019). [PubMed: 31365873] 
+10. Lynch SK & Abràmoff MD Diabetic retinopathy is a neurodegenerative disorder. Vis. Res 139, 
+101–107 (2017). [PubMed: 28408138] 
+11. Reiter CEN et al. Characterization of insulin signaling in rat retina in vivo and ex vivo. Am. J. 
+Physiol. Endocrinol. Metab 285, E763–E774 (2003). [PubMed: 12799319] 
+12. James CR & Cotlier E Fate of insulin in the retina: an autoradiographic study. Br. J. Ophthalmol 
+67, 80–88 (1983). [PubMed: 6336953] 
+13. Zolov SN et al. Insulin-like growth factor-2 regulates basal retinal insulin receptor activity. J. Biol. 
+Chem 10.1016/j.jbc.2021.100712 (2021).
+14. Tarchick MJ et al. Endogenous insulin signaling in the RPE contributes to the maintenance of rod 
+photoreceptor function in diabetes. Exp. Eye Res 180, 63–74 (2019). [PubMed: 30543793] 
+15. Rajala A, Tanito M, Le YZ, Kahn CR & Rajala RVS Loss of neuroprotective survival signal in 
+mice lacking insulin receptor gene in rod photoreceptor cells. J. Biol. Chem 283, 19781–19792 
+(2008). [PubMed: 18480052] Iker Etchegaray et al. Page 22
+Nat Metab . Author manuscript; available in PMC 2023 August 26.
+Author Manuscript Author Manuscript Author Manuscript Author Manuscript16. Edwards RB & Szamier RB Defective phagocytosis of isolated rod outer segments by RCS rat 
+retinal pigment epithelium in culture. Science 197, 1001–1003 (1977). [PubMed: 560718] 
+17. Burstyn-Cohen T et al. Genetic dissection of TAM receptor-ligand interaction in retinal pigment 
+epithelial cell phagocytosis. Neuron 76, 1123–1132 (2012). [PubMed: 23259948] 
+18. Penberthy KK et al. Context-dependent compensation among phosphatidylserine-recognition 
+receptors. Sci. Rep 7, 14623 (2017). [PubMed: 29116131] 
+19. Soares MB et al. RNA-mediated gene duplication: the rat preproinsulin I gene is a functional 
+retroposon. Mol. Cell. Biol 5, 2090–2103 (1985). [PubMed: 2427930] 
+20. Anderson MS et al. Projection of an immunological self shadow within the thymus by the aire 
+protein. Science 298, 1395–1401 (2002). [PubMed: 12376594] 
+21. Iacovelli J et al. Generation of Cre transgenic mice with postnatal RPE-specific ocular expression. 
+Invest. Ophthalmol. Vis. Sci 52, 1378–1383 (2011). [PubMed: 21212186] 
+22. Van Cauter E, Mestrez F, Sturis J & Polonsky KS Estimation of insulin secretion rates from C-
+peptide levels. Comparison of individual and standard kinetic parameters for C-peptide clearance. 
+Diabetes 41, 368–377 (1992). [PubMed: 1551497] 
+23. Wang S et al. Deciphering primate retinal aging at single-cell resolution. Protein Cell 10.1007/
+s13238-020-00791-x (2020).
+24. Giddings SJ, Chirgwin J & Permutt MA The effects of fasting and feeding on preproinsulin 
+messenger RNA in rats. J. Clin. Invest 67, 952–960 (1981). [PubMed: 6162861] 
+25. Boland BB et al. β-cell control of insulin production during starvation-refeeding in male rats. 
+Endocrinology 159, 895–906 (2018). [PubMed: 29244064] 
+26. Unger RH, Eisentraut AM & Madison LL The effects of total starvation upon the levels 
+of circulating glucagon and insulin in man. J. Clin. Invest 42, 1031–1039 (1963). [PubMed: 
+13995385] 
+27. Giddings SJ & Carnaghi LR The two nonallelic rat insulin mRNAs and pre-mRNAs are regulated 
+coordinately in vivo. J. Biol. Chem 263, 3845–3849 (1988). [PubMed: 2831207] 
+28. Duvillié B et al. Phenotypic alterations in insulin-deficient mutant mice. Proc. Natl Acad. Sci. USA 
+94, 5137–5140 (1997). [PubMed: 9144203] 
+29. Leroux L et al. Compensatory responses in mice carrying a null mutation for Ins1 or Ins2. Diabetes 
+50, S150 (2001). [PubMed: 11272179] 
+30. Law A-L et al. Cleavage of Mer tyrosine kinase (MerTK) from the cell surface contributes to the 
+regulation of retinal phagocytosis. J. Biol. Chem 290, 4941–4952 (2015). [PubMed: 25538233] 
+31. Rajala RVS & Anderson RE Light regulation of the insulin receptor in the retina. Mol. Neurobiol 
+28, 123–138 (2003). [PubMed: 14576451] 
+32. Sachdeva MM Retinal neurodegeneration in diabetes: an emerging concept in diabetic retinopathy. 
+Curr. Diab. Rep 21, 65 (2021). [PubMed: 34902066] 
+33. Bok D & Hall MO The role of the pigment epithelium in the etiology of inherited retinal dystrophy 
+in the rat. J. Cell Biol 49, 664–682 (1971). [PubMed: 5092207] 
+34. LaVail MM Rod outer segment disk shedding in rat retina: relationship to cyclic lighting. Science 
+194, 1071–1074 (1976). [PubMed: 982063] 
+35. Nandrot EF et al. Loss of synchronized retinal phagocytosis and age-related blindness in mice 
+lacking αvβ5 integrin. J. Exp. Med 200, 1539–1545 (2004). [PubMed: 15596525] 
+36. Lu Q et al. Tyro-3 family receptors are essential regulators of mammalian spermatogenesis. Nature 
+398, 723–728 (1999). [PubMed: 10227296] 
+37. D’Cruz PM et al. Mutation of the receptor tyrosine kinase gene MerTK in the retinal dystrophic 
+RCS rat. Hum. Mol. Genet 9, 645–651 (2000). [PubMed: 10699188] 
+38. Ryeom SW, Sparrow JR & Silverstein RL CD36 participates in the phagocytosis of rod outer 
+segments by retinal pigment epithelium. J. Cell Sci 109, 387–395 (1996). [PubMed: 8838662] 
+39. Cai B et al. MerTK cleavage limits proresolving mediator biosynthesis and exacerbates tissue 
+inflammation. Proc. Natl Acad. Sci. USA 113, 6526–6531 (2016). [PubMed: 27199481] 
+40. Villa E et al. mTORC1 stimulates cell growth through SAM synthesis and m6A mRNA-dependent 
+control of protein synthesis. Mol. Cell 10.1016/j.molcel.2021.03.009 (2021).Iker Etchegaray et al. Page 23
+Nat Metab . Author manuscript; available in PMC 2023 August 26.
+Author Manuscript Author Manuscript Author Manuscript Author Manuscript41. Sinha T, Ikelle L, Naash MI & Al-Ubaidi MR The intersection of serine metabolism and cellular 
+dysfunction in retinal degeneration. Cells 10.3390/cells9030674 (2020).
+42. Ducker GS & Rabinowitz JD One-carbon metabolism in health and disease. Cell Metab 25, 27–42 
+(2017). [PubMed: 27641100] 
+43. Rajala A, Wang Y & Rajala RVS Activation of oncogenic tyrosine kinase signaling promotes 
+insulin receptor-mediated cone photoreceptor survival. Oncotarget 7, 46924–46942 (2016). 
+[PubMed: 27391439] 
+44. Venkatesh A et al. Activated mTORC1 promotes long-term cone survival in retinitis pigmentosa 
+mice. J. Clin. Invest 125, 1446–1458 (2015). [PubMed: 25798619] 
+45. Akalu YT et al. Tissue-specific modifier alleles determine MerTK loss-of-function traits. eLife 11, 
+e80530 (2022). [PubMed: 35969037] 
+46. Fan Y et al. Thymus-specific deletion of insulin induces autoimmune diabetes. EMBO J 28, 2812–
+2824 (2009). [PubMed: 19680229] 
+47. Li S et al. Rhodopsin-iCre transgenic mouse line for Cre-mediated rod-specific gene targeting. 
+Genesis 41, 73–80 (2005). [PubMed: 15682388] 
+48. Xin-Zhao Wang C, Zhang K, Aredo B, Lu H & Ufret-Vincenty RL Novel method for the rapid 
+isolation of RPE cells specifically for RNA extraction and analysis. Exp. Eye Res 102, 1–9 (2012). 
+[PubMed: 22721721] 
+49. Fernandez-Godino R, Garland DL & Pierce EA Isolation, culture and characterization of primary 
+mouse RPE cells. Nat. Protoc 11, 1206–1218 (2016). [PubMed: 27281648] 
+50. Venkatesh A, Ma S, Langellotto F, Gao G & Punzo C Retinal gene delivery by rAA V and DNA 
+electroporation. Curr. Protoc. Microbiol 10.1002/9780471729259.mc14d04s28 (2013).
+51. Wei H, Xun Z, Granado H, Wu A & Handa JT An easy, rapid method to isolate RPE cell protein 
+from the mouse eye. Exp. Eye Res 145, 450–455 (2016). [PubMed: 26424220] 
+52. Sheybani ND et al. ImmunoPET-informed sequence for focused ultrasound-targeted mCD47 
+blockade controls glioma. J. Control. Release 331, 19–29 (2021). [PubMed: 33476735] 
+53. Zhong M & Kundu BK Optimization of a model corrected blood input function from dynamic 
+FDG-PET images of small animal heart in vivo. IEEE Trans. Nucl. Sci 60, 3417–3422 (2013). 
+[PubMed: 24741130] 
+54. Huang Q, Massey JC, Mińczuk K, Li J & Kundu BK Non-invasive determination of blood input 
+function to compute rate of myocardial glucose uptake from dynamic FDG PET images of rat 
+heart in vivo: comparative study between the inferior vena cava and the left ventricular blood pool 
+with spill over and partial volume corrections. Phys. Med. Biol 64, 165010 (2019). [PubMed: 
+31307015] 
+55. Tsugawa H et al. MS-DIAL: data-independent MS/MS deconvolution for comprehensive 
+metabolome analysis. Nat. Methods 12, 523–526 (2015). [PubMed: 25938372] 
+56. Tsugawa H et al. A cheminformatics approach to characterize metabolomes in stable-isotope-
+labeled organisms. Nat. Methods 16, 295–298 (2019). [PubMed: 30923379] 
+57. Narendran S et al. Nucleoside reverse transcriptase inhibitors and Kamuvudines inhibit myloid- β 
+induced retinal pigmented epithelium degeneration. Signal Transduct. Target Ther 6, 1–9 (2021). 
+[PubMed: 33384407] Iker Etchegaray et al. Page 24
+Nat Metab . Author manuscript; available in PMC 2023 August 26.
+Author Manuscript Author Manuscript Author Manuscript Author ManuscriptFig. 1 |. Expression of Ins2 mRNA and protein within the RPE.
+a, Ins2 detection in RNA-seq of RPE from WT and MerTK  KO mice. While Ins2 was 
+lower in MerTK  KO mice, other growth factors were unaltered (false discovery rate (FDR) 
+≤ 0.5). Scale corresponds to z score. n = 4 mice per genotype. b, Ins2 expression in different 
+tissues by RT–PCR. n = 3 mice per tissue. HPRT, hypoxanthine-guanine phosphoribosyl 
+transferase. c, RT–PCR comparing Ins2 expression in retina versus RPE (middle) and Ins1 
+versus Ins2 in RPE (right). n = 4 mice. d, Ins2 mRNA in primary cultured RPE cells 
+(n = 6 mice) and control mouse embryonic fibroblasts ( n = 3). e, Schematic of RPE and 
+photoreceptors (left). Representative image of three independent experiments showing Ins2 
+transcript (magenta) within RPE of mouse retina via confocal microscopy using RNAScope 
+Multiplex-Fluorescent assay at ×60 magnification (right). A scrambled ‘nonsense’ negative 
+probe was used as control. f, Isolated nuclei of RPE contain Ins2 mRNA. Schematic of 
+RPE purification and nuclei isolation from Best1 -Cre/YFPflox-STOP-flox mice (left). Analysis 
+of indicated genes by RT–PCR (right). n = 4 mice used for rhodopsin  and Ins2, n = 2 
+mice for MerTK . g, Ins2 expression in RPE from Best1 -Cre Ins2f/f mice. n = 6 mice 
+control, n = 7 Best1 -Cre Ins2f/f. h, ELISA of insulin in protein lysates of RPE. n = 4 mice 
+(left). Representative image of three independent experiments showing immunofluorescence 
+on mouse retina using anti-insulin or isotype-control antibody (red) and DAPI for cell 
+nuclei (right). RPE is outlined in white. i, Isolated eye cups (RPE/choroid/sclera) of WT 
+mice were treated with KCl and supernatants were analyzed for C-peptide-2 by ELISA. 
+j, Representative immunofluorescence image of human retina stained with anti-insulin 
+(magenta) with brightfield microscopy showing RPE (appearing black due to pigment 
+granules). Isotype antibody was used as control. Bar graphs are mean ± s.e.m. Box and 
+whiskers show minimum to maximum values, center denotes median and the bounds denote 
+the 25th to 75th percentiles. * P ≤ 0.05,** P ≤ 0.01,*** P ≤ 0.001, one-way analysis of Iker Etchegaray et al. Page 25
+Nat Metab . Author manuscript; available in PMC 2023 August 26.
+Author Manuscript Author Manuscript Author Manuscript Author Manuscriptvariance (ANOV A) with Tukey’s multiple comparisons test ( b), unpaired two-tailed t-test 
+(c,g–i) and nonparametric Mann–Whitney U-test (d,f).Iker Etchegaray et al. Page 26
+Nat Metab . Author manuscript; available in PMC 2023 August 26.
+Author Manuscript Author Manuscript Author Manuscript Author ManuscriptFig. 2 |. Ins2 expression in the RPE is regulated differently from systemic insulin.
+a, Schematic for measuring C-peptide and Ins2 mRNA in fed and starved (10–14 h) 
+conditions (left) and C-peptide cleavage during insulin synthesis (right). b, ELISA for 
+C-peptide in blood and protein lysates from retina of fed (ad libitum) and starved mice. Y 
+axis shows percentage of C-peptide found in fed mice. n = 5 mice for fed condition, n = 
+4 mice for starved. RT–PCR comparing Ins2 expression in RPE from fed or starved mice 
+(right). n = 8 mice per condition. c, RT–PCR measuring Ins2 in RPE from control and Ins2 
+KO mice. n = 6 mice per genotype. d, Glucose tolerance assay (readout of insulin function) 
+measuring circulating glucose levels over time in WT and Ins2 KO mice starved and then 
+given glucose intraperitoneally (top). n = 4 mice per genotype. ELISA for C-peptide in 
+blood of control and Ins2 KO mice shows no difference between genotypes (bottom). n = 4 
+mice per genotype. e, Schematic of the IPM (left). IPM was isolated from WT and Ins2 KO 
+mice and the secreted C-peptide in IPM was measured by ELISA (middle). n = 4 mice per 
+genotype. ELISA of C-peptide in lysates of RPE from WT and Ins2 KO mice (right). n = 4 
+mice WT, n = 3 Ins2 KO. f, Insulin receptor was immunoprecipitated from retina lysates of 
+control and Ins2 KO mice, either fed or starved. InsR tyrosine phosphorylation was assessed 
+using phospho-specific InsR antibodies via immunoblotting and quantified as the ratio of 
+p-InsR to total InsR. Retina lysates were also probed for GLUT4 and quantified as the ratio 
+of GLUT4 to actin (normalized to control). n = 4 mice for fed, n = 6 starved conditions. 
+Plots are presented as in Fig. 1. * P ≤ 0.05,** P ≤ 0.01,*** P ≤ 0.001, unpaired two-tailed 
+t-test (b) and paired two-tailed t-test (f).Iker Etchegaray et al. Page 27
+Nat Metab . Author manuscript; available in PMC 2023 August 26.
+Author Manuscript Author Manuscript Author Manuscript Author ManuscriptFig. 3 |. Phagocytosis upregulates Ins2 expression in the RPE.
+a, Representative image of three independent experiments showing immunofluorescence 
+analysis with anti-rhodopsin (magenta) on retina sections 2 h after light onset (peak 
+phagocytosis time) from fed and starved (10–14 h) mice. Sections were counterstained with 
+4,6-diamidino-2-phenylindole (DAPI) (blue). RPE is outlined in white. b, Flow cytometry-
+based phagocytosis assay on isolated fixed and permeabilized RPE stained with rhodopsin, 
+from fed or starved mice, obtained 2 h after light onset. Phagocytosis was measured as 
+% of rhodopsin+ RPE within total RPE. n = 3 mice per condition. c, RT–PCR for Ins2 
+expression in RPE from fed mice at different times of the day. Lights on at 6:00 and lights 
+off at 20:00. n = 8, 7, 7, 7, 3 and 3 mice used for times of 5:00, 6:00, 8:00, 15:00, 20:00 
+and 1:00, respectively. FC, fold change. d, InsR immunoprecipitated from retina lysates, 
+at different times of day from overnight starved control and Ins2 KO mice, were probed 
+using phospho-specific InsR antibodies. The same retina lysates were probed for GLUT4. 
+Values were normalized to the average of control across all time points. n = 3 mice for each 
+time point. e, Schematic of phagocytic receptors used in POS recognition (left). RT–PCR 
+for Ins2 in RPE isolated from WT and MerTK  KO or CD36  KO mice 2 h after light onset 
+(right). n = 10 and 11 mice for WT versus MerTK  KO and n = 6 and 5 mice for WT 
+versus CD36  KO. f, Phagocytosis quantification using flow cytometry on isolated RPE from 
+WT and MerTKCR mice (middle). n = 3 mice used per genotype. RT–PCR measuring Ins2 
+expression in isolated RPE from WT and MerTKCR (right). n = 14 and 10 mice for WT 
+and MerTKCR, respectively. Plots are presented as in Fig. 1. * P ≤ 0.05,** P ≤ 0.01,*** P 
+≤ 0.001, **** P ≤ 0.0001, one-way ANOV A ( c), two-way ANOV A with Tukey’s multiple 
+comparisons test ( d), unpaired two-tailed t-test (e,f RT–PCR) and paired two-tailed t-test (f 
+phagocytosis quantification).Iker Etchegaray et al. Page 28
+Nat Metab . Author manuscript; available in PMC 2023 August 26.
+Author Manuscript Author Manuscript Author Manuscript Author ManuscriptFig. 4 |. Loss of Ins2 decreases glucose uptake and alters retinal homeostasis.
+a, Schematic of PET imaging (left). Parametric [18F]FDG glucose PET Ki uptake map in 
+the eye of control and Ins2 KO mice (middle). Red intensity indicates glucose uptake in 
+tissue and blue intensity indicates glucose levels in blood. Boxes outline eyes and inset 
+represents a coronal view of eyes from uptake map. Quantification of glucose uptake in eyes 
+of control and Ins2 KO or Best1 -Cre Ins2f/f mice using static PET imaging (right). Values 
+on the y axis are % glucose uptake relative to control. n = 6 mice control and Ins2 KO, n 
+= 7 mice control and Best1 -Cre Ins2f/f. *P ≤ 0.05, unpaired t-test. b, Snap shots of dynamic 
+in vivo PET imaging for [18F]FDG glucose uptake in the eye at 36, 60, 300 and 1,800 
+seconds after [18F]FDG injection. Red intensity indicates glucose uptake. c, Quantification 
+of glucose levels in isolated retina of fed or starved control, Ins2 KO or Best1-Cre Ins2f/f 
+mice using luciferase glucose detection assay. Values on the y axis are presented as % of 
+glucose relative to control. n = 4 starved control and Ins2 KO mice, n = 8 starved control and 
+Best1-Cre Ins2f/f mice, n = 6 fed control and Ins2 KO and n = 9 fed control and Best1-Cre 
+Ins2f/f mice. * P ≤ 0.05 permutation test, ** P ≤ 0.01 unpaired t-test. d, Schematic of lactate 
+generation in photoreceptors (left). Quantification of lactate in isolated retina of fed or 
+starved control mice, Ins2 KO or Best1-Cre Ins2f/f mice, using luciferase lactate detection 
+assay. Values on the y axis are % lactate relative to control. n = 10 mice used for starved 
+control and Ins2 KO, n = 4 and 3 mice for starved control and Best1-Cre Ins2f/f and n = 
+3 mice fed control and Best1-Cre Ins2f/f. *P ≤ 0.05 unpaired t-test for Ins2 KO, * P ≤ 0.05 
+nonparametric Mann–Whitney U-test for Best1-Cre Ins2f/f. Plots are presented as in Fig. 1.Iker Etchegaray et al. Page 29
+Nat Metab . Author manuscript; available in PMC 2023 August 26.
+Author Manuscript Author Manuscript Author Manuscript Author ManuscriptFig. 5 |. Ins2 regulates retinal metabolic homeostasis and retinal disease.
+a, Schematic of untargeted metabolomics of retinas and RPE from starved WT and Ins2 KO 
+mice (left). V olcano plot from untargeted metabolomics of retinas representing statistically 
+enriched or reduced metabolites in retinas of control mice relative to those of Ins2 KO 
+(right) using Fisher’s exact test. FDR P < 0.1 in red, absolute value of the log2 fold change 
+(FC) of 0.3 (1.2 fold change) in orange and blue meets both criteria. Data are representative 
+of four biological replicates. b, Schematic of select glucose-dependent metabolic pathways 
+in photoreceptors (right). Aerobic glycolysis in photoreceptors leads to the production of 
+lactate from glucose. Glucose in photoreceptors can be converted to serine, which is crucial 
+for glycine production and the folate methionine cycle. Metabolomic analysis reveals that 
+these metabolites are decreased in Ins2 KO retinas compared to WT (left). * P < 0.05, ** P < 
+0.01 two-sided Wald two-sample t-test. Data are representative of four biological replicates. 
+c, Schematic of scotopic ERG on mouse retina to detect visual processing in response to 
+light (top). Quantification of b-wave amplitude in ERG of WT and Ins2 KO mice under fed 
+and starved condition (bottom). Representative ERG traces for control and Ins2 KO (bottom 
+right) n = 8 mice for WT, n = 4 mice for Ins2 KO mice. * P ≤ 0.05 two-way ANOV A 
+with Fisher’s LSD test. d, Schematic of the rd1 mouse model of retinitis pigmentosa (left). 
+Representative image of immunofluorescence on the center retina of 8-week-old rd1 and 
+Ins2 KO.rd1 mice using antibodies against arrestin in cone cells (top). Thresholding of 
+immunofluorescence images (bottom), where pixels above a certain value are replaced with 
+a black pixel. Quantification of the number of cones located in the center retina of rd1 and 
+Ins2 KO.rd1 mice (right). n = 4 mice for both genotypes. * P ≤ 0.05 unpaired t-test. Plots are 
+presented as in Fig. 1.Iker Etchegaray et al. Page 30
+Nat Metab . Author manuscript; available in PMC 2023 August 26.
+Author Manuscript Author Manuscript Author Manuscript Author Manuscript

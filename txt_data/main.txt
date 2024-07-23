@@ -1,0 +1,909 @@
+ARTICLE
+Comprehensive Rare Variant Analysis via
+Whole-Genome Sequencing to Determine the
+Molecular Pathology of Inherited Retinal Disease
+Keren J. Carss,1,2,18Gavin Arno,2,3,4,18Marie Erwood,1,2Jonathan Stephens,1,2Alba Sanchis-Juan,1,2
+Sarah Hull,3,4Karyn Megy,1,2Detelina Grozeva,2,5Eleanor Dewhurst,1,2Samantha Malka,3,4
+Vincent Plagnol,6Christopher Penkett,1,2Kathleen Stirrups,1,2Roberta Rizzo,4Genevieve Wright,4
+Dragana Josifova,2,7Maria Bitner-Glindzicz,2,8Richard H. Scott,2,9Emma Clement,2,10Louise Allen,2,11
+Ruth Armstrong,2,12Angela F. Brady,2,13Jenny Carmichael,2,12Manali Chitre,2,12
+Robert H.H. Henderson,2,4,10Jane Hurst,2,10Robert E. MacLaren,2,4,14Elaine Murphy,2,15
+Joan Paterson,2,12Elisabeth Rosser,2,10Dorothy A. Thompson,2,16Emma Wakeling,2,13
+Willem H. Ouwehand,1,2Michel Michaelides,2,3,4Anthony T. Moore,2,3,4,17NIHR-BioResource Rare
+Diseases Consortium, Andrew R. Webster,2,3,4,19and F. Lucy Raymond2,5,19,*
+Inherited retinal disease is a common cause of visual impairment and represents a highly heterogeneous group of conditions. Here, we
+present ﬁndings from a cohort of 722 individuals with inherited retinal disease, who have had whole-genome sequencing (n ¼605),
+whole-exome sequencing (n ¼72), or both (n ¼45) performed, as part of the NIHR-BioResource Rare Diseases research study. We identiﬁed
+pathogenic variants (single-nucleotide variants, indels, or structural variants) for 404/722 (56%) individuals. Whole-genome sequencing
+gives unprecedented power to detect three categories of pathogenic variants in particular: structural variants, variants in GC-rich regions,
+which have signiﬁcantly improved coverage compared to whole-exome sequencing, and variants in non-coding regulatory regions. Inaddition to previously reported pathogenic regulatory variants, we have identiﬁed a previously unreported pathogenic intronic variant
+inCHM in two males with choroideremia. We have also identiﬁed 19 genes not previously known to be associated with inherited
+retinal disease, which harbor biallelic predicted protein-truncating variants in unsolved cases. Whole-genome sequencing is an increasinglyimportant comprehensive method with which to investigate the genetic causes of inherited retinal disease.
+Introduction
+Inherited retinal disease (IRD) describes a phenotypically
+heterogeneous group of conditions consequent upon
+dysfunction and/or degeneration of the neural retina or
+retinal pigment epithelium, resulting in visual impairment.IRD is the most common cause of severe visual impairmentamong working-age individuals in the UK.
+1Determining
+the genetic cause of IRD in affected individuals allows accu-rate assessment of risk of the disease to other family mem-bers, provides useful prognostic information for affectedindividuals, and can provide much-needed insight and un-
+derstanding of the disease for those affected. Furthermore,
+genetic stratiﬁcation of affected individuals is increasinglybeing used to direct speciﬁc treatment options, includingclinical trials of medicines and restoration of protein func-
+tion through gene therapy trials.
+2
+Whole-exome sequencing (WES) of large cohorts of indi-
+viduals has transformed research into rare Mendelian dis-eases in recent years by facilitating discovery of pathogenicvariants, newly described disease-associated genes, andother insights into the genetic architecture of rare dis-eases.
+3–5Whole-genome sequencing (WGS) has thus far
+typically been employed on a smaller scale and has demon-
+strated advantages over other methods.6,7Large-scale
+projects such as the Genomics England 100,000 GenomeProject are also beginning to use WGS to investigate rarediseases.
+IRD represents a particularly good clinical phenotype to
+provide comprehensive investigation by high-throughput
+1Department of Haematology, University of Cambridge, NHS Blood and Transplant Centre, Cambridge CB2 0PT, UK;2NIHR BioResource - Rare Diseases,
+Cambridge University Hospitals NHS Foundation Trust, Cambridge Biomedical Campus, Cambridge CB2 0QQ, UK;3UCL Institute of Ophthalmology, Uni-
+versity College London, London EC1V 9EL, UK;4Moorﬁelds Eye Hospital, London EC1V 2PD, UK;5Department of Medical Genetics, Cambridge Institute
+for Medical Research, University of Cambridge, Cambridge CB2 0XY, UK;6University College London Genetics Institute, London WC1E 6BT, UK;7Clinical
+Genetics Department, Guy’s Hospital, Great Maze Pond, London SE1 9RT, UK;8UCL Great Ormond Street Institute of Child Health, 30 Guilford Street,
+London WC1N 1EH, UK;9North East Thames Regional Genetics Service, Great Ormond Street Hospital, London WC1N 3JH, UK;10Great Ormond Street
+Hospital for Children, Great Ormond Street, London WC1N 3JH, UK;11Department of Ophthalmology, Cambridge University Hospitals NHS Foundation
+Trust, Cambridge Biomedical Campus, Cambridge CB2 0QQ, UK;12Departments of Medical Genetics and Paediatric Neurology, Cambridge University Hos-
+pitals NHS Foundation Trust, Cambridge Biomedical Campus, Cambridge CB2 0QQ, UK;13North West Thames Regional Genetics Service, London North
+West Healthcare NHS Trust, Watford Road, Harrow HA1 3UJ, UK;14Nufﬁeld Laboratory of Ophthalmology, University of Oxford, John Radcliffe Hospital,
+Oxford OX3 9DU, UK;15Charles Dent Metabolic Unit, National Hospital for Neurology and Neurosurgery, Queen Square, London WC1N 3BG, UK;16Clin-
+ical and Academic Department of Ophthalmology, Great Ormond Street Hospital for Children, London WC1N 3JH, UK;17Ophthalmology Department,
+UCSF School of Medicine, University of California San Francisco, San Francisco, CA 94158, USA
+18These authors contributed equally to this work
+19These authors contributed equally to this work
+*Correspondence: ﬂr24@cam.ac.uk
+http://dx.doi.org/10.1016/j.ajhg.2016.12.003 .
+The American Journal of Human Genetics 100, 75–90, January 5, 2017 75/C2112017sequencing technologies because it exhibits a high degree
+of phenotypic, genetic, and allelic heterogeneity, withmore than 250 genes and loci associated with autosomal-dominant, autosomal-recessive, X-linked, and mitochon-drial inheritance (RetNet), and it is often difﬁcult to predictthe disease-associated gene from an individual’s pheno-type alone.
+8IRD is therefore among the many rare diseases
+that are increasingly being investigated through high-
+throughput sequencing.9–12These technologies are also
+transforming clinical practice by being incorporated intodiagnostic services.
+13,14Most of these studies have used
+targeted pull-down of a predetermined panel of knowngenes, which are limited not only in that they cover onlycertain genes, but also because they cannot reliably detectstructural variants (SVs). WES, on the other hand, is not
+limited to known disease-associated genes, but coverage
+is generally variable across the exome, negatively affectingvariant detection compared to targeted gene paneltesting.
+15PCR-free WGS should overcome the disadvan-
+tages of WES and targeted gene panels, although the re-maining challenge will be in handling the large amountof data generated and variant interpretation. Indeed, arecent study compared WGS to targeted gene panels and
+found that WGS improves the pathogenic variant detec-
+tion rate by facilitating detection of SVs and variants inregulatory regions.
+16
+The aims of the current study were three-fold. First, to
+identify pathogenic variants in a large cohort of individ-uals with IRD, including intractable cases in which previ-ous investigations had not yielded a diagnosis. Second,to explore advantages and disadvantages of WGS as a
+tool with which to investigate IRD. Third, to identify
+candidate IRD-associated genes and provide new insightsinto phenotypes and the genetic architecture of IRD.Here we present a cohort of 722 individuals with IRDwho have had high-throughput sequencing as part of theNIHR-BioResource Rare Diseases research study.
+Subjects and Methods
+Cohort
+722 individuals with IRD were recruited to the NIHR BioResource
+Rare Diseases research study. All participants provided written
+informed consent and the study was approved by the East ofEngland Cambridge South national institutional review board
+(13/EE/0325). Most of the individuals (n ¼657) were recruited
+at the Inherited Eye Disease clinics, Moorﬁelds Eye Hospital NHSFoundation Trust (London, UK). The remainder were recruited at
+Cambridge University Hospitals NHS Foundation Trust (Cam-
+bridge, UK), Great Ormond Street Hospital For Children NHSFoundation Trust (London, UK), Guy’s And St Thomas’ NHS Foun-dation Trust (London, UK), London North West Healthcare NHS
+Trust (London, UK), and University College London Hospitals
+NHS Foundation Trust (London, UK).
+Most individuals had undergone some previous genetic testing
+using routine diagnostic approaches: direct Sanger sequencing of
+highly suggestive genes based on clinical characteristics, directsequencing of candidate genes in gene discovery projects, andarrayed primer extension (APEX, Asper Biotech Ltd.) assays for
+retinitis pigmentosa (MIM: 268000) and Leber congenital amau-
+rosis (LCA [MIM: 204000]). Individuals with no likely pathogenic
+variant detected by these methods were recruited to the studyalthough systematic documentation of pre-screening of all caseswas not available. 152 individuals of the cohort had no pre-
+screening performed.
+High-Throughput Sequencing
+WES and WGS were performed as previously described.17,18
+Genome build GRCh37 was used for mapping and variant calling.
+SVs were identiﬁed in the individuals who had WGS using twoindependent algorithms: Isaac Copy Number Variant Caller(Canvas, Illumina), which identiﬁes copy number gains and dele-
+tions based on read depth, and Isaac Structural Variant Caller
+(Manta, Illumina), which identiﬁes translocations, deletions, tan-dem duplications, insertions, and inversions based on both paired
+read fragment spanning and split read evidence.
+19
+To identify the likely ethnicity of each individual, a principal-
+component analysis was performed on WGS data from individuals
+of various ethnicities in the 1000 Genomes project with 20,000
+single-nucleotide variants (SNVs) using PLINK.20The location of
+the center of the cluster of each ethnicity was then calculated,and a likely ethnicity assigned to each of the WGS samples based
+on the closest cluster.
+Variant Interpretation
+To facilitate variant interpretation, a list of reported IRD-associatedgenes was assembled, including genes associated with syndromic
+forms of IRD or albinism, from various sources including RetNetand literature searches. This list was manually curated accordingto published evidence of pathogenicity to compile a shortlist of
+224 high-conﬁdence IRD-associated genes ( Table S1 ).
+21
+To identify pathogenic variants, a two-step variant ﬁltering pro-
+tocol was designed, utilizing automated ﬁltering followed by
+manual review. For SNVs and indels, automated ﬁltering identiﬁed
+variants that fulﬁl the following criteria: passes standard Illuminaquality ﬁlters in >80% of the whole NIHR BioResource Rare Dis-
+eases cohort (n ¼6,688); predicted to be a high impact, medium
+impact, or splice region variant, or present in the HGMD Pro data-base;
+22and has minor allele frequency (MAF) <0.01 in control
+datasets including the NIHR BioResource Rare Diseases cohort
+and the Exome Aggregation Consortium (ExAC) database.23If a
+variant is present in the HGMD Pro database, a higher MAFthreshold of 0.1 was used. Finally, we identiﬁed just those variants
+that affect an IRD-associated gene. In one individual (G002628)
+with hypomagnesemia and retinitis pigmentosa, we interrogatedknown hypomagnesemia-associated genes in addition to IRD-
+associated genes. For SVs in the WGS data, automated ﬁltering
+identiﬁed variants that fulﬁl the following criteria: passes standardIllumina quality ﬁlters, overlaps at least one exon, does not over-
+lap known benign SVs in healthy cohorts,
+24has MAF <0.01 in
+the NIHR BioResource Rare Diseases cohort, and affects an IRD-associated gene.
+Manual review of all the variants that passed the automated
+ﬁltering was then performed. The variant is considered to be path-
+ogenic if it fulﬁls the following criteria. First, the genotype and fre-quency of the variant is consistent with the expected mode of in-
+heritance of the individual’s family (if known) and with the
+expected mode of inheritance of the gene. Second, the phenotypeof the individual is consistent with the phenotype known to be
+76 The American Journal of Human Genetics 100, 75–90, January 5, 2017associated with the gene. Third, the variant is predicted to result in
+truncation of the protein, or it is predicted to be damaging to the
+protein using scores such as CADD,25or it has previously been re-
+ported as pathogenic in HGMD Pro. Fourth, the variant appears tobe of good quality upon examination of the sequencing reads withIntegrative Genomics Viewer (IGV).
+26Fifth, the variant affects the
+Ensembl canonical transcript or a known retinal transcript.
+Variant Conﬁrmations
+A subset of the pathogenic SNVs and indels was conﬁrmed by
+Sanger sequencing using standard protocols. For SVs, Sangersequencing was performed across the predicted breakpoints to
+generate a unique junction fragment sequence. Genotyping using
+HumanCoreExome-24 v.1.0 BeadChip (Illumina) was also per-formed, followed by SV identiﬁcation using GenomeStudio and
+cnvPartition software (Illumina). Sequences of all primers are
+available on request.
+Comparing Coverage of WGS and WES Datasets
+Protein-coding regions of the Ensembl canonical transcript of eachautosomal IRD-associated gene were split into 50 bp bins. Themean GC% of each bin was calculated using data available from
+the UCSC Genome Browser. The mean coverage of each bin was
+calculated across a sample of 100 individuals with IRD in theNIHR BioResource Rare Diseases cohort (WGS data) and also in
+the ExAC cohort, for which per-base coverage has been previously
+published on 10% of the cohort.
+23We used the ExAC WES dataset
+for the comparison of the coverage of IRD-associated genes, ratherthan the WES data generated as part of this study, because ExAC
+was used as a frequency control set in this study and because it
+is based on >60,000 individuals.
+Coverage data are presented as relative to the mean coverage of
+all bins (34.4 3in the WGS dataset and 65.6 3in ExAC). Coverage
+for each observed range of GC content (20%–30%, 30%–40%,40%–50%, 50%–60%, 60%–70%, 70%–80%, and 80%–90%) was
+compared using one-tailed Mann-Whitney U tests. p values were
+corrected for testing of seven observed ranges of GC content.
+Variant Analysis in CHM
+Two individuals with a clinical diagnosis of choroideremia
+(MIM: 303100) in whom no pathogenic coding variant wasfound underwent intronic variant analysis of CHM ([MIM:
+300390]; ENST00000357749.2, GRCh37/hg19 chrX: 85,116,185–
+85,302,566). Intronic variants in CHM that passed standard qual-
+ity ﬁlters and had a MAF %0.01 in the UK10K WGS cohort and
+the NIHR BioResource Rare Diseases cohort were prioritized for
+analysis. Splice site prediction of the reference and alternate se-quences were compared using Human Splice Finder V3.0 (HSF)
+and NNSPLICE0.9.
+27,28We identiﬁed a candidate variant that
+was conﬁrmed by direct Sanger sequencing of genomic DNAfrom affected members of both families and an obligate carrier.Reverse-transcription PCR (RT-PCR) spanning CHM exons 4–5
+was carried out on total RNA isolated from peripheral blood mono-
+nuclear cells.
+Identiﬁcation of Genes Containing Likely Biallelic
+Predicted Protein-Truncating Variants in UnsolvedCases
+Variants (SNVs, indels, and large deletions) were identiﬁed that ful-
+ﬁl the following criteria: in an unsolved case where an individualhas undergone WGS, are high impact and autosomal, the genotypeis consistent with autosomal-recessive inheritance, have MAF <
+0.001 in the control datasets described, are in the Ensembl canon-
+ical transcript, are in a gene that contains no homozygous predicted
+protein-truncating variants in the ExAC database, and appear to bereal on examination in IGV. This analysis was not limited to IRD-associated genes, but included all protein-coding genes.
+Results
+In a Highly Heterogeneous Cohort of Individuals with
+Inherited Retinal Disease, High-ThroughputSequencing Achieves a Pathogenic Variant DetectionRate of 56%High-throughput sequencing was performed on a cohortof 722 individuals with IRD, as part of the NIHR-Bio-
+Resource Rare Diseases research study. 605 of the individ-
+uals had WGS, 72 had WES, and an additional 45 hadboth. For WGS average coverage was 37 3(SD¼2.7),
+with a minimum of 95% of each genome covered to at least153. For WES average target coverage was 43 3(SD¼14.9),
+with 83% of target bases covered to at least 15 3.
+The cohort is phenotypically heterogeneous, and the
+most frequent phenotypes are retinitis pigmentosa
+(n¼311), retinal dystrophy (n ¼101), cone-rod dystrophy
+(n¼53), Stargardt disease (n ¼45), macular dystrophy
+(n¼37), and Usher syndrome (n ¼37). The majority of in-
+dividuals are unrelated probands (714/722), and there arethree parent-offspring pairs and one pair of siblings. The ma-jority of the cohort had a negative result for a genetic test,such as single-gene Sanger sequencing or targeted genepanel sequencing, prior to enrolment in the current study.
+To identify the pathogenic variants, rare, coding, and
+high-quality variants, including large deletions, in 224genes that are known to be associated with IRD wereconsidered. The likely cause of IRD was identiﬁed in 404/722 individuals, corresponding to a pathogenic variantdetection rate of 56% ( Tables 1 andS2). A further 5% of in-
+dividuals (36/722) have been classiﬁed as partially solved.These individuals either have a single likely pathogenic
+variant in a known gene associated with recessive IRD
+and in keeping with the individual’s phenotype, morethan two heterozygous variants in a gene associated withrecessive IRD, or a variant that explains only part of thephenotype ( Table S2 ). The remaining 282/722 (39%) of in-
+dividuals remain without a complete or partial moleculardiagnosis.
+By using WES alone we were able to identify pathogenic
+variants in 59/117 (50%) individuals. Subsequently, 45 of
+the 58 individuals who were unsolved by WES underwentWGS, and we identiﬁed or conﬁrmed pathogenic variantsin a further 14 ( Table 1 ). For three individuals the bait for
+the variant location was absent from the capture kit (RocheNimbleGen, SeqCap EZ Exome v.3), for two individualseach had a large deletion not called by WES, and in one in-dividual, a large indel was also not called by WES. For three
+more individuals, the variant was called by WES but the
+quality was poor. For the remaining ﬁve individuals,
+The American Journal of Human Genetics 100, 75–90, January 5, 2017 77although the variants were identiﬁed by WES, they were
+not the expected mode of inheritance for the family, andtherefore WGS was performed to exclude more plausiblecause of disease by including analysis of copy-number var-iants and exons of high GC content.
+The pathogenic variant detection rate also varies de-
+pending on the phenotype of the individual ( Table 2 ).
+For example, 168/311 (54%) of individuals with retinitis
+pigmentosa have been solved, which is similar to the over-
+all rate; 31/37 (84%) of individuals with Usher syndromehave been solved but only 6/21 (29%) of individualswith cone dystrophy have been solved. Also, individualswho had not had any genetic test prior to this study hada notably higher pathogenic variant detection rate thanthe overall rate. Of 152 individuals who had no pre-screening, including individuals with a diagnosis of reti-
+nitis pigmentosa, cone dystrophy, or congenital stationary
+night blindness, 96 were solved (63%), suggesting that ourcohort is enriched for intractable cases.
+The pathogenic variant detection rate within our cohort
+also varies depending on the ethnicity of the individual(Table 3 ). Likely ethnicity was estimated from the WGS
+data. Only 13/43 (30%) of individuals of African ancestrywere solved, compared to 259/467 (55%) of individuals
+of European ancestry and 70/123 (57%) of individuals of
+South Asian ancestry. Higher genetic diversity in Africanpopulations, combined with underrepresentation of non-European populations in control datasets, result in anexcess of rare and apparently rare variation in theseindividuals, rendering variant interpretation more chal-lenging.
+23,29There was a median of 12 rare coding variants
+in IRD-associated genes for manual review in individuals of
+European ancestry and 30 in individuals of African
+ancestry. Interestingly, in individuals of South Asianancestry, 59/89 pathogenic variants (66%) were homozy-gous, compared to only 82/446 (18%) in individuals ofEuropean ancestry. This is likely due to increased rates ofconsanguinity in South Asian populations, and probablyexplains why they have comparable pathogenic variantdetection rates to individuals of European ancestry in
+this study, despite also being underrepresented in control
+databases of allele frequencies.The genes in which pathogenic variants are most
+frequently found are summarized in Table 4 .ABCA4
+(MIM: 601691) is implicated in 73/440 solved or partially
+solved cases (17%). In total, 796 pathogenic alleles wereidentiﬁed in 95 different known IRD-associated genes. Ofthese alleles, 687 (86.3%) are autosomal recessive, 72(9%) are autosomal dominant, 35 (4.4%) are X-linkedhemizygous, and 2 (0.3%) are X-linked monoallelic.Some of the pathogenic alleles are homozygous, andsome occur in more than one individual in the cohort,
+thus there are 537 different pathogenic alleles. Of these,
+499 (92.9%) are exonic SNVs or indels, 30 (5.6%) are largedeletions overlapping at least one exon, 6 (1.1%) are SNVsor indels that are synonymous or in regulatory regions,and 2 (0.4%) are tandem duplications overlapping at leastone exon. 291/537 (54.2%) are previously unreported inpublically available databases emphasizing the allelic het-erogeneity of IRD, and the rest have been previously re-
+ported and are in the HGMD Pro database.
+22
+We performed conﬁrmatory Sanger sequencing and
+segregation in families in a subset of variants. Of 177 allelesSanger sequenced, all were conﬁrmed. Of these, 52 weretested in at least one additional informative family mem-ber, and segregated as expected. In ﬁve of the individualswhose case is unsolved, a pathogenic variant was identiﬁedby a different method concurrent to this study. Four of
+these are variants in highly repetitive regions requiring
+speciﬁc optimized Sanger sequencing protocols, forTable 1. Pathogenic Variant Detection Rates by Sequencing
+Technology
+Sequencing
+MethodTotal
+CasesCases
+SolvedCases Partially
+SolvedCases
+Unsolved
+WGS 605 331 (55%) 31 (5%) 243 (40%)
+WES 72 59 (82%) 3 (4%) 10 (14%)
+WES and WGS 45 14 (31%) 2 (4%) 29 (64%)TOTAL 722 404 (56%) 36 (5%) 282 (39%)
+WES alone solved 59/117 (50%) cases. Subsequently, 45 of the 58 cases that
+are unsolved by WES also underwent WGS. Partially solved cases have either
+one likely pathogenic variant in a gene with biallelic inheritance or more
+than two heterozygous variants in a gene with biallelic inheritance, or a variant
+that appears to explain only part of the phenotype.Table 2. Pathogenic Variant Detection Rate by Phenotype
+PhenotypeTotal
+CasesCases
+SolvedCases Partially
+SolvedCases
+Unsolved
+RP 311 168 (54%) 11 (4%) 132 (42%)
+RD 101 55 (54%) 5 (5%) 41 (41%)
+CRD 53 29 (55%) 3 (6%) 21 (40%)Stargardt 45 27 (60%) 10 (22%) 8 (18%)
+Macular dystrophy 37 18 (49%) 1 (3%) 18 (49%)
+Usher 37 31 (84%) 2 (5%) 4 (11%)Other 27 10 (37%) 0 (0%) 17 (63%)
+CSNB 26 23 (88%) 0 (0%) 3 (12%)
+Cone dystrophy 21 6 (29%) 1 (5%) 14 (67%)
+Multiple 21 6 (29%) 3 (14%) 12 (57%)
+LCA 18 16 (89%) 0 (0%) 2 (11%)Achromatopsia 9 6 (67%) 0 (0%) 3 (33%)
+Albinism 8 6 (75%) 0 (0%) 2 (25%)
+FEVR 8 3 (38%) 0 (0%) 5 (62%)TOTAL 722 404 (56%) 36 (5%) 282 (39%)
+Abbreviations: RP, retinitis pigmentosa; RD, retinal dystrophy; CRD, cone-rod
+dystrophy; other, any phenotype with frequency of less than eight; CSNB,
+congenital stationary night blindness; multiple, more than one phenotype
+including syndromic cases; LCA, Leber congenital amaurosis; FEVR, familial
+exudative vitreoretinopathy.
+78 The American Journal of Human Genetics 100, 75–90, January 5, 2017example RPGR (MIM: 312610) exon ORF15 , and one is
+a heteroplasmic variant in the mitochondrial genome,which was apparent retrospectively in the WGS data butwas not identiﬁed by the variant caller.
+Pathogenic Structural Variants Are an Important
+Cause of IRD, and Their Detection Is Facilitated
+by WGS
+There are 33 SVs (31 deletions and 2 tandem duplications)that are pathogenic in 31 individuals ( Table S2 ). Each SV
+was further investigated using either SNP genotypingarray, direct Sanger sequencing of a unique PCR ampliﬁedproduct spanning the predicted breakpoints, or bothtechniques. 23 (70%) have been conﬁrmed by Sangersequencing of the breakpoint, 6 (18%) have been
+conﬁrmed by both Sanger sequencing the breakpoint
+and SNP genotyping array, 2 (6%) have been conﬁrmedby genotyping only, and 2 (6%) have not yet beenconﬁrmed by an alternative method, although visual in-spection of the IGV plots predict a deletion. In sevenSVs, conﬁrmatory Sanger sequencing of PCR generatedproducts over the breakpoint also revealed an insertion(1–51 bps) at the breakpoint of the variants predicted by
+the algorithms.
+The Manta algorithm, which identiﬁes structural vari-
+ants based on both paired read fragment spanning andsplit read evidence, predicts the correct breakpoints with100% accuracy in 13/26 SVs that were called by Mantaand have been conﬁrmed by Sanger sequencing. It predictsthe correct breakpoints to within 3 bp in 21/26 SVs. Inter-estingly, we have identiﬁed one identical SV in two unre-
+lated individuals. G001296 and W000139 both have 15:
+89,750,128–89,757,489del, which overlaps exons 7–9 ofRLBP1 (MIM: 180090). In G001296 the deletion is hetero-
+zygous and occurs in conjunction with a second patho-genic variant, and in W000139 it is homozygous. It doesnot occur in any other individual in the NIHR BioResourceRare Diseases cohort.
+Case study one illustrates the power of WGS to
+detect SVs. Two likely pathogenic heterozygous vari-
+ants were identiﬁed in EYS (MIM: 612424) in indivi-dual W000325, who presented with typical retinitis
+pigmentosa. The variants are a missense variantENST00000503581.1; c.6473T >C (p.Leu2158Pro) that is
+predicted to be damaging by CADD (phred-scaledCADD score ¼23.5) and has not been reported
+before in public databases, and a 55 kb deletion
+(chr6: 65,602,819–65,658,187del), conﬁrmed by Sanger
+sequencing, which overlaps exons 15–18 (c.2260-2380_2847-6084del). If transcribed, this large deletionis predicted to lead to a frameshift and premature termi-nation in exon 19 (p.Arg949Ilefs*4). This individual hadundergone WES analysis prior to WGS analysis, fromwhich it was not possible to identify the pathogenic dele-tion ( Figure 1 ).
+Case study two is an interesting example of likely unipa-
+rental isodisomy discovered through analysis of SVs. Indi-vidual W000170 presented with an atypical early-onsetform of retinal dystrophy. A homozygous in-frame combi-nation indel in KCNV2 (MIM: 607604) was ﬁrst identiﬁed:
+ENST00000382082.3; c.222_232delGGACCAGCAGGinsGGTCACCACCACCTTGG (ENSP00000371514.3; p.Asp75_Gln77delinsValThrThrThrLeu). The mother of the individ-
+ual is heterozygous for this indel, and the father is
+homozygous for the reference allele. By visual inspectionTable 3. Pathogenic Variant Detection Rate by Ethnicity
+Likely
+EthnicityTotal
+CasesCases
+SolvedCases Partially
+SolvedCases
+Unsolved
+EUR 467 259 (55%) 23 (5%) 185 (40%)
+SAS 123 70 (57%) 4 (3%) 49 (40%)
+AFR 43 13 (30%) 4 (9%) 26 (60%)EAS 13 1 (8%) 1 (8%) 11 (85%)
+AMR 4 2 (50%) 1 (25%) 1 (25%)
+TOTAL 650 345 (53%) 33 (5%) 272 (42%)
+Likely ethnicity estimated from WGS data using principal component analysis.
+Table includes individuals who had WGS only. Abbreviations: EUR, European;SAS, South Asian; AFR, African; EAS, East Asian; AMR, Ad Mixed American.Table 4. Number of Solved and Partially Solved Cases by Gene
+Gene Total Cases Cases Solved Cases Partially Solved
+ABCA4 73 57 16
+USH2A 61 50 11
+EYS 16 15 1
+RP1 16 16 0
+CACNA1F 13 13 0
+RPGR 13 13 0
+CRB1 12 11 1
+CNGB1 98 1
+MYO7A 88 0
+PDE6B 88 0
+BBS1 77 0
+CERKL 77 0
+CNGB3 77 0
+PROM1 77 0
+RHO 77 0
+CDHR1 66 0
+CLN3 66 0
+PRPF31 66 0
+PRPH2 66 0
+RP2 55 0
+TRPM1 55 0
+Only genes with pathogenic variants in ﬁve or more individuals are shown.
+The American Journal of Human Genetics 100, 75–90, January 5, 2017 79of the surrounding region using the IGV software,26a
+homozygous tandem duplication was identiﬁed (chr9:
+2,717,844–2,718,030dup), ﬂanking the indel ( Figure 2 ),
+which was conﬁrmed by Sanger sequencing. Further inves-tigation revealed a long run of homozygosity with approx-imate coordinates chr9: 2,100,000–27,400,000. Takentogether, we consider that the most likely explanation forthese observations is homozygosity for the KCNV2 disease
+allele due to partial maternal uniparental isodisomy of
+chromosome 9.
+Case study three is an interesting example of overlap-
+ping compound heterozygous deletions. IndividualW000164 presented with typical retinitis pigmentosa.Two likely pathogenic overlapping heterozygous dele-tions were identiﬁed by WGS. The ﬁrst (chr6:64,475,599–64,501,270del) encompasses exons 38–40 ofEYS and the second (chr6: 64,491,812–64,513,698del)
+encompasses exons 38–39 of EYS (Figure 3 ). Sanger
+sequencing conﬁrmed both deletions. This example illus-trates the value of algorithms that use paired read frag-ment spanning evidence such as Manta. Only these areable to provide characterization of breakpoints to a singlebase pair resolution. WES or indeed read depth analysisalone of WGS (e.g., the Canvas algorithm) would failto characterize the breakpoints precisely, rendering
+Sanger sequencing conﬁrmation or family analysis
+more difﬁcult.
+Figure 1. Case Study 1: WGS, Compared
+to WES, Increases Power to Detect SVs(A) One individual (W000325) withretinitis pigmentosa has a pathogenic
+heterozygous deletion within EYS
+(6:656,02,819–65,658,187). IGV plotsshowing the deleted region in both WGS
+and WES data in the individual. The dele-
+tion was identiﬁed by WGS due to thedrop in coverage and increased distance
+between mate-paired reads. However, it
+was not identiﬁed from WES data.(B) The individual also has a pathogenicmissense variant ENST00000503581.1;
+c.6473T >C (p.Leu2158Pro).
+WGS Improves Coverage of GC-
+Rich Regions Compared to WESIn the current study, we haveobserved increased power to detectvariants in GC-rich regions. To assessthe possible impact of this, we calcu-lated the average coverage of exonsof known IRD-associated genes, split
+into 50 bp bins, in our WGS dataset
+and in the ExAC WES dataset. Forexons of IRD-associated genes with aGC content of 45%–65%, the averagecoverage by read depth of sequenceusing WES is higher than for WGS.The calling of SNV exonic variants
+in this range is not signiﬁcantly different for WES and
+WGS. Comparing WES from ExAC, we ﬁnd signiﬁcantly
+higher coverage in our WGS dataset in bins with GC <
+30% or >70% ( Figure 4 ). Additionally, the variability of
+coverage in our WGS data is much less than that of theExAC dataset. This uniformity of coverage is one of themain factors that make WGS particularly powerful for SVdetection. Calling SVs in WES where the variance of readdepth is so great is unreliable ( Figure 1 A).
+Case study four illustrates the clinical relevance of this
+improvement in coverage. Individual G004991 presentedwith Leber congenital amaurosis. Pathogenic compoundheterozygous variants were identiﬁed in the ﬁrst codingexon of GUCY2D (MIM: 600179), which is 76% GC
+(Figure 5 ). The variants are an in-frame deletion
+(ENST00000254854.4; c.238_252delGCCGCCGCCCGCCTG [p.Ala80_Leu84del]) not previously reported in
+publically available databases and a previously re-
+ported missense variant (ENST00000254854.4; c.307G >A
+[p.Glu103Lys]).
+30This exon is not covered in the capture
+kit used for WES, and had WES been used rather thanWGS to investigate this individual, neither pathogenicvariant would have been identiﬁed. Furthermore, visual in-spection of the sequencing reads using IGV demonstratesbiallelic inheritance of the two variants, since they occur
+within 70 nucleotides and are never observed on the
+same 150 bp read.
+80 The American Journal of Human Genetics 100, 75–90, January 5, 2017Figure 2. Case Study 2: Identiﬁcation by WGS of Pathogenic Tandem Duplication and Likely UPD
+One individual (W000170) with atypical, early-onset retinal dystrophy, has a homozygous pathogenic tandem duplication withinKCNV2 , likely due to partial maternal uniparental isodisomy of chromosome 9.
+(A) IGV plot showing the 184 bp tandem duplication of 9: 2,717,844–2,718,028 in WGS data.
+(B) The tandem duplication was conﬁrmed by PCR and Sanger sequencing. The arrows represent the positions of the primers.(C) There is a ~25 Mb region of homozygosity in chromosome 9 in this individual, which encompasses KCNV2 . Approximate coordi-
+nates of this region of homozygosity are 9:2,100,000–27,400,000.
+(D) Sanger sequencing also conﬁrms a homozygous combined in-frame insertion/deletion in KCNV2 , within the tandem duplica-
+tion: ENST00000382082.3; c.222_232delGGACCAGCAGGinsGGTCACCACCACCTTGG (ENSP00000371514.3; p.Asp75_Gln77delins-
+ValThrThrThrLeu). The mother of the affected individual is heterozygous for this variant, but the father is homozygous for the reference
+allele (not shown).
+The American Journal of Human Genetics 100, 75–90, January 5, 2017 81WGS Allows Identiﬁcation of Pathogenic Variants in
+Non-coding RegionsIn our cohort, three different pathogenic non-coding SNVs
+were identiﬁed. For example, in G008165, who presented
+with Stargardt disease, one intronic SNV was identiﬁed inABCA4 intrans with a previously reported synonymous
+SNV , 1:94466602C >T (ENST00000370225.3; c.6342G >A),
+that results in a premature donor splice site that truncatesexon 46.
+31The heterozygous intronic variant was
+1:94476951A >G (ENST00000370225.3; c.5461 /C010T>C),
+which has also been previously reported and causes aber-
+rant splicing.32This variant was found in 16 individuals,
+all of whom presented with typical features of ABCA4 reti-
+nopathy, and thus represents a signiﬁcant portion of diseasealleles. In two of these individuals this variant is homozy-gous, in a further nine individuals it occurs in conjunctionwith a second heterozygous likely pathogenic allele, and inﬁve, we have identiﬁed no second likely pathogenic alleleand the individuals remain partially solved. This variant is
+rare in both ExAC (MAF ¼2.2310
+/C04,n oh o m o z y g o t e s )
+and the whole NIHR BioResource Rare Diseases cohort(MAF¼1.8310
+/C03, no homozygotes other than the two
+described here).
+In another example, individual G001035, who presented
+with Usher syndrome, the deep intronic USH2A (MIM:
+608400) variant 1:216064540T >C (ENST00000307340.3;
+c.7595 /C02144A >G) was identiﬁed. This is heterozygous
+and occurs in conjunction with a second heterozygous
+likely pathogenic allele. It has been previously reported,and results in the retention of a pseudoexon, which causes
+a frameshift and premature truncation of the protein.33
+Finally, in two unrelated males with a clinical diagnosis
+of choroideremia (G001372 and G007713), we identiﬁed
+a deep intronic variant in CHM that has not been previ-
+ously reported. Both individuals had previously undergoneCHM screens, which were negative, and no convincing
+pathogenic coding variant was found in any IRD-associ-ated gene in either individual upon analysis of the WGSdata. Given the unequivocal diagnosis of choroideremiain these individuals and the single genetic cause of choroi-
+deremia, the sequence of these case subjects was selected
+for interrogation of rare non-coding variants in CHM
+(chrX: 85,116,185–85,302,566). We hypothesized that adeep intronic variant may act as a null variant by alteringsplicing as previously described.
+34
+A rare (MAF %0.01) deep intronic hemizygous variant
+was identiﬁed in G001372 in the genomic region ofCHM : chrX: 85,220,593T >C (ENST00000357749.2;
+c.315–1536A >G). Individual G007713 had three rare in-
+tronic variants, including the same chrX: 85,220,593T >C
+variant. This variant is absent in the UK10K genome proj-ect dataset and the 1000 Genomes dataset.
+29,35The variant
+was conﬁrmed in both individuals by direct Sangersequencing, and it was also conﬁrmed in an affectedmale cousin of G007713 and in the heterozygous state inthe mother of G007713.
+Splice prediction analysis using HSF
+27and NNSPLICE0.928
+demonstrated the likely introduction of a cryptic splice
+Figure 3. Case Study 3: Identiﬁcation and Characterization of Compound Heterozygous Deletions in EYSby WGS
+(A) One individual (W000164) with retinitis pigmentosa has compound heterozygous deletions in EYS, shown by the green dashed lines.
+(B) Sanger sequencing conﬁrmed both deletions. Sequencing across the breakpoint (vertical dashed line) of deletion 2 is shown.
+82 The American Journal of Human Genetics 100, 75–90, January 5, 2017acceptor site by this variant (HSF consensus value: 92.66,
+NNSPLICE0.9 score 0.94). The presence of a strong donorsite (HSF consensus value: 84.71, NNSPLICE0.9 score: 0.89,sequence atgcaag gtaaactg) 224 bp downstream of the
+cryptic acceptor site suggested that a cryptic exon could arise
+from this variant ( Figure 6 ).
+To conﬁrm this, we used RT-PCR ampliﬁcation spanning
+exons 4–5 of CHM from G001372, G007713, and the
+heterozygous mother of G007713. This demonstrated afragment approximately 200 bp larger than expected (2fragments in the heterozygous mother). Upon sequencingof the fragments, the predicted cryptic exon was
+conﬁrmed. The variant is predicted to lead to a premature
+termination codon after 9 altered amino acid residues(p.Ser105Argfs*10).
+Monoallelic Variants in Genes Associated with a
+Recessive Mode of InheritanceInterpreting single heterozygous variants in recessive IRD-associated genes presents a challenge, as it is typically difﬁ-
+cult to distinguish between a case in which a second path-
+ogenic allele in the same gene has been missed from a casein which the individual is just a carrier of the single hetero-zygous variant and the real cause of disease lies elsewhere.In our cohort there are only 16 individuals (2%) who havea single heterozygous likely pathogenic variant in a reces-sive IRD-associated gene. Of these, 12 are in ABCA4 and
+one is in each of CEP290 (MIM: 610142), CNGB1 (MIM:
+600724), GUCY2D , and CRB1 (MIM: 604210). These indi-
+viduals all have phenotypes that are strongly indicativeof variants in the gene in question, and the identiﬁed
+variant in each case is either a predicted protein-truncatingvariant or a missense previously reported as being patho-genic. We excluded the possibility that these individualshave an additional previously reported pathogenic deepintronic variant. The probability is high that at leastsome of these 16 partially solved individuals harbor a sec-
+ond pathogenic variant in the same gene, perhaps in a reg-
+ulatory region, that remains elusive. This cohort is undercontinuing investigation to identify further variants,including variants in regulatory regions. The proportionof individuals who have a single likely pathogenic variantin an autosomal-recessive gene in this study is lower thanpreviously reported (2%).
+16This may reﬂect a combination
+of detailed specialist phenotyping to reduce phenocopies
+and the comprehensive exon and non-coding coverage
+achieved using WGS.
+Identiﬁcation of Genes Containing Likely Biallelic
+Predicted Protein-Truncating Variants in UnsolvedCasesWe performed further investigation of 247 individuals, inwhom no pathogenic variants were detected in the knownIRD-associated genes, and whose family history is not
+inconsistent with recessive disease. These were screened
+for any gene containing R2 predicted protein-truncating
+alleles, including SVs. This yielded a list of 19 genes in 16individuals ( Tables 5 and S3). None occurred in more
+than one individual, but three individuals have variantsin two genes. Segregation has not been performed on thedouble heterozygous variants. None of these genes containany homozygous predicted protein-truncating variants in
+the ExAC dataset, suggesting that they may not tolerate
+biallelic loss-of-function variation.
+Discussion
+Overall, we have identiﬁed pathogenic variants for 404/
+722 individuals with IRD in the NIHR-BioResource Rare
+Diseases study, which is a pathogenic variant detectionrate of 56%. Factors that inﬂuence this rate within ourcohort include the phenotype of the individual, forexample individuals with Usher syndrome are substan-tially more likely to receive a molecular diagnosis than in-dividuals with retinitis pigmentosa. There are severalpossible reasons for this. First, it may be that a higher pro-
+portion of Usher syndrome genes overall have been identi-
+ﬁed than retinitis pigmentosa genes. Second, more speciﬁcphenotypes can suggest a smaller number of candidategenes; retinitis pigmentosa is far more genetically hetero-geneous than Usher syndrome. Third, it is more difﬁcultto distinguish pathogenic monoallelic variants from themany rare benign inherited monoallelic variants than itis to distinguish pathogenic biallelic variation; therefore,
+phenotypes that are predominantly recessive tend to
+have higher pathogenic variant detection rates. Also, it
+Figure 4. Regions of IRD-Associated Genes that Are Low or High
+in GC Content Have Signiﬁcantly Higher Coverage in WGS Data
+than in the ExAC WES ProjectCoverage was calculated across protein-coding regions of auto-
+somal IRD-associated genes (Ensembl canonical transcript), split
+into 50 bp bins. Coverage shown is relative to the average coverageof each dataset. Error bars show standard deviation. *p <1310
+/C015.
+The American Journal of Human Genetics 100, 75–90, January 5, 2017 83may be that individuals with some phenotypes were more
+likely to undergo some pre-screening prior to enrolment inthe project, which would exclude individuals with variantsin known genes and likely reduce the pathogenic variantdetection rate.
+Our pathogenic variant detection rate of 56% with WGS
+is comparable to those previously reported in other similarstudies of IRD, which ranges between 39% and 70%.
+9–14,16
+Factors that inﬂuence differences between these ratesinclude the technology used and the degree of pre-screening performed on the cohort, as well as the pheno-types included and the ethnic distribution of the cohortas discussed. Our detection rate of 50% using WES in 117individuals is perhaps lower than expected due to theWES depth of coverage of 43 3used compared to diag-
+nostic laboratory median coverage of >803that is recom-
+mended.
+36Our observation that the subset of our cohort
+who had no pre-screening had a higher pathogenic variantdetection rate than the overall rate suggests that our cohortis enriched for intractable cases and that the overall rate of56% is an underestimate compared with what would be ex-pected if WGS was used as the ﬁrst-line test.
+We have observed that using primarily WGS instead of
+WES or targeted gene panels has improved our power to
+detect three categories of variants in particular: SVs, vari-
+ants in GC-rich regions, and variants in regulatory regions.Previous studies have also observed that WGS is superior toWES for the detection of SVs, particularly small deletions(e.g., single exon deletions).
+6,37,38This is due to high uni-
+formity of coverage achieved with WGS and the veryhigh probability that the breakpoints of a SV will becovered by WGS reads. With WGS, therefore, precise char-
+acterization of the SV to single base pair resolution is often
+possible, without any further investigation.Our study also supports previous reports that PCR-free
+sequencing protocols, such as WGS, capture genomic re-gions that are particularly high or low in GC contentmuch more effectively than methods such as WES and tar-geted gene panels, which require a PCR ampliﬁcationstep.
+36,37GC-rich regions tend to be poorly covered by
+methods that require a PCR ampliﬁcation step due totheir high stability and consequent resistance to standard
+denaturation protocols, and variant calling suffers as a
+consequence.
+39–41
+The WGS analysis identiﬁed three intronic variants that
+would not have been identiﬁed by standard WES withoutspeciﬁc prior knowledge. The interpretation of these vari-ants required the availability of sequence from a largenumber of internal controls (~3,000 alleles from theNIHR BioResource Rare Diseases consortium) and external
+WGS controls (~8,000 alleles from UK10K). Frequency data
+on non-coding variants comparable to the ExAC datasetfor coding variants is needed and will transform rare dis-ease non-coding variant interpretation. Clinical WES plat-forms can be designed to target known pathogenic variantsin regulatory regions in addition to the exome footprint.
+42
+However, they require regular redesign to capture newly re-ported non-coding pathogenic variants, and they do not
+give the option of identifying pathogenic deep intronic
+variants that have not been previously reported.
+Regarding limitations of WGS, highly repetitive regions
+generally still remain poorly covered in our WGS data,due to the difﬁculty of uniquely mapping the reads inthese regions to the genome. This has previously been re-ported
+16and is also a problem for targeted gene panels
+and WES.12,13This is an important issue for IRD, due to
+the existence of clinically important repetitive regions
+such as RPGR ORF15 , which is highly repetitive and is a
+Figure 5. Case Study 4: Identiﬁcation of Pathogenic Variants by WGS in GC-Rich Regions Not Covered by WES
+One individual (G004991) with Leber congenital amaurosis has pathogenic compound heterozygous variants ENST00000254854.4;
+c.238_252delGCCGCCGCCCGCCTG (p.Ala80_Leu84del) and ENST00000254854.4; c.307G >A (p.Glu103Lys) in exon 1 of GUCY2D ,
+which is 76% GC-rich. This exon is not covered by WES in our cohort, as demonstrated by the WES data of a control sample shown
+here. It is also not well covered in ExAC.
+84 The American Journal of Human Genetics 100, 75–90, January 5, 2017mutational hotspot that constitutes one of the most com-
+mon causes of X-linked retinitis pigmentosa.43Although
+in the future increasing read lengths and improved readmapping algorithms are likely to result in improvedcoverage over these regions, currently they must still besequenced separately using optimized PCR ampliﬁcationand Sanger sequencing protocols to exclude the possibilityof them harboring pathogenic variants. WGS also remains
+costlier than targeted gene panels or WES, and so currently
+costs more per diagnosis.
+44With the cost of WGS
+continuing to fall and the emergence of large-scale WGSprojects such as the Genomics England 100,000 GenomeProject, WGS is an increasingly important tool for investi-gating genetic causes of rare diseases, including IRD, inclinical practice as well as research, and is likely to becomethe preferred ﬁrst-line test in the future.
+45
+This project has already contributed to novel insights
+into the genetic architecture and phenotypic spectrum ofIRD. We have identiﬁed a distinctive electroretinogramphenotype, predominantly involving the cone pathways,in two individuals with variants in CACNA2D4 (MIM:
+608171).
+46Additionally, an individual from this study
+with biallelic IFT140 (MIM: 614620) variants, along with
+additional case subjects, expanded the known phenotypic
+spectrum of IFT140 -associated disease, which was origi-
+nally reported as a severe syndromic ciliopathy and isnow known to also cause non-syndromic retinitis pigmen-tosa.
+18Several other individuals in our cohort with vari-
+ants in both RGR (MIM: 600342) and CDHR1 (MIM:
+609502) led to the discovery that a recessive retinal disor-der previously associated with a homozygous variant inRGR is more likely to be caused by the variant in CDHR1 ,
+which is in complete linkage disequilibrium with the orig-
+inally reported variant.
+47
+There are many possible reasons why 282/722 (39%) of
+our cohort remain as yet unsolved. Some may have patho-genic variants that have not been called by the variantcalling software because, for example, they are in regionsof poor coverage such as repetitive regions. Others mayhave pathogenic variants that were called but not manu-
+ally reviewed because they did not pass one of our ﬁlters.
+Some are likely to have pathogenic variants in genes asso-
+Figure 6. The Deep Intronic CHM Variant
+c.315-1536A >G Results in the Inclusion of
+a Cryptic Exon(A) Sequence of the cryptic exon included
+by the deep intronic CHM variant
+chrX:85,220,593T >C (ENST00000357749.2;
+c.315-1536A >G).
+(B) RT-PCR showing increased size of frag-
+ment due to inclusion of the cryptic exon.
+ciated with IRD that are not on our
+list of IRD-associated genes. Forsome unsolved individuals, the causeof their disease may be more complexthan Mendelian inheritance and may
+be oligogenic or inﬂuenced by environmental factors.
+Finally, it is likely that a proportion of unsolved individualshave pathogenic variants in regulatory regions, rather thanin coding exons. Regulatory variation is known to be animportant cause of IRD.
+11,31,33,48,49Having used WGS
+for the majority of our cohort, we are well placed toinvestigate this class of variation. However, interpretationof regulatory variation remains a signiﬁcant challenge.
+Experimental veriﬁcation of speciﬁc variants is particularly
+difﬁcult as many IRD-associated genes are restricted toexpression in the retina, making functional conﬁrmationof the effects of any candidate regulatory variation chal-lenging. Our investigation of potentially pathogenic regu-latory variation is ongoing.
+We have identiﬁed 19 genes that contain likely biallelic,
+predicted protein-truncating variants in unsolved individ-
+uals with IRD, including CROCC (MIM: 615776), IRX5
+(MIM: 606195), and NUMB (MIM: 603728) that have
+known roles in retinal development and function.
+50,51
+These may represent strong candidates for previouslyunreported recessive IRD-associated genes ( Table S3 ). Iden-
+tiﬁcation of at least two additional individuals with likelypathogenic variants is necessary to provide sufﬁcient sup-portive evidence of any of these genes being associated
+with IRD.
+In conclusion, we present here a large cohort of indi-
+viduals with IRD who have had WGS, and we haveachieved a pathogenic variant detection rate of 56%.We have identiﬁed three categories of pathogenic variantthat WGS substantially improves the detection of: SVs,variants in GC-rich regions, and variants in regulatory re-gions. Studying a cohort of this size using WGS provides
+new insights into phenotypes and the genetic architec-
+ture of IRD. In the future, WGS is likely to become thepreferred choice of test with which to investigate thegenetic causes of IRD.
+Accession Numbers
+The accession number for the high-throughput sequencing data
+reported in this paper is EGAD00001002656 as a subset of the
+NIHR BioResource Rare Disease Consortium Data.
+The American Journal of Human Genetics 100, 75–90, January 5, 2017 85Table 5. High-Impact, Likely Biallelic Variants in 19 Genes in Unsolved Cases
+Individual Phenotype Sex Ethnicity Gene Variant genomic Variant HGVSc Variant HGVSp GT Consequence Description
+G001284 multiple F SAS SCAPER 15:76998312G >A ENST00000563290.1; c.2179C >T p.Arg727Ter 0/1 stop_gained S-phase cyclin A-associated
+protein in the ER
+G001284 multiple F SAS SCAPER 15:77064214CA >C ENST00000563290.1; c.1116delT p.Val373SerfsTer21 0/1 frameshift S-phase cyclin A-associated protein
+in the ER
+G001298 RD F SAS FUT5 19:5867071G >T ENST00000252675.5; c.666C >A p.Tyr222Ter 1/1 stop_gained fucosyltransferase 5 (alpha (1,3)
+fucosyltransferase)
+G001298 RD F SAS PODNL1 19:14046820C >CAGCT ENST00000339560.5;
+c.374_377dupAGCTp.Gln127AlafsTer119 1/1 frameshift podocan-like protein 1-like
+G001411 RP M AFR NAALADL1 11:64812774G >GC ENST00000358658.3; c.2191dupG p.Ala731GlyfsTer9 0/1 frameshift N-acetylated alpha-linked acidic
+dipeptidase-like 1
+G001411 RP M AFR NAALADL1 11:64822078G >A ENST00000358658.3; c.736C >T p.Arg246Ter 0/1 stop_gained N-acetylated alpha-linked acidic
+dipeptidase-like 1
+G005002 CRD M SAS WASF3 13:27216381GTGTTTT
+CAATTTTCAGATTGTG
+AACCA >GENST00000335327.5; c. /C010-14_
+3delTTTTCAATTTTCAGATTGT
+GAACCATGNA 1/1 splice_acceptor WAS protein family, member 3
+G005019 Usher F SAS PLD4 14:105395186GC >G ENST00000392593.4; c.388delC p.Gln130ArgfsTer108 0/1 frameshift phospholipase D family, member 4
+G005019 Usher F SAS PLD4 14:105398102CTGTCC
+CCA>CENST00000392593.4;
+c.937_944delTGTCCCCAp.Cys313GlyfsTer167 0/1 frameshift phospholipase D family, member 4
+G005203 RP F SAS FAM71A 1:212799206T >TGCAG ENST00000294829.3;
+c.991_994dupGGCAp.Thr332ArgfsTer88 1/1 frameshift family with sequence similarity 71,
+member A
+G005251 cone
+dystrophyM SAS POMZP3 7:76240807T >TG ENST00000310842.4; c.538dupC p.Gln180ProfsTer14 1/1 frameshift POM121 and ZP3 fusion
+G005492 RP F EUR IRX5 16:54967694CTAAAG >C ENST00000394636.4;
+c.1362_1366delTAAAGp.Lys455ProfsTer19 1/1 frameshift iroquois homeobox 5
+G005513 Stargardt M EUR ITIH2 10:7776934CT >C ENST00000358415.4; c.1838delT p.Leu613ArgfsTer5 0/1 frameshift inter-alpha-trypsin inhibitor
+heavy chain 2
+G005513 Stargardt M EUR ITIH2 10:7780709CAT >C ENST00000358415.4;
+c.2084_2085delATp.His695ArgfsTer5 0/1 frameshift inter-alpha-trypsin inhibitor
+heavy chain 2
+G005514 RP M AFR SLC37A3 7:140064249G >A ENST00000326232.9; c.334C >T p.Arg112Ter 1/1 stop_gained solute carrier family 37, member 3
+G007696 CRD M SAS NUMB 14:73746066G >GC ENST00000355058.3; c.1162dupG p.Ala388GlyfsTer6 1/1 frameshift numb homolog ( Drosophila )
+G007696 CRD M SAS FAM57B 16:30038139GC >G ENST00000380495.4; c.234delG p.Gln79AsnfsTer43 1/1 frameshift family with sequence similarity 57,
+member B
+G007723 RP M SAS FOXI2 10:129536034AC >A ENST00000388920.4; c.498delC p.Asp166GlufsTer87 1/1 frameshift forkhead box I2
+G008152 RP M EUR CROCC 1:17292217G >A ENST00000375541.5; c.4406 /C01G>A NA 1/1 splice_acceptor ciliary rootlet coiled-coil, rootletin
+W000146 RP F EUR CCZ1B 7:6844600C >A ENST00000316731.8; c.1075G >T
+ENST00000375541.5; c.4406 /C01G>Ap.Glu359Ter 1/1 stop_gained CCZ1 vacuolar protein trafﬁcking and
+biogenesis associated homolog B
+(S. cerevisiae )
+(Continued on next page )
+86 The American Journal of Human Genetics 100, 75–90, January 5, 2017Supplemental Data
+Supplemental Data include three tables and can be found with this
+article online at http://dx.doi.org/10.1016/j.ajhg.2016.12.003 .
+Consortia
+Members of the NIHR-BioResource Rare Diseases Consortium are
+Timothy Aitman, Hana Alachkar, Sonia Ali, Louise Allen, DavidAllsup, Gautum Ambegaonkar, Julie Anderson, Richard Antrobus,
+Ruth Armstrong, Gavin Arno, Gururaj Arumugakani, Soﬁe Ashford,
+William Astle, Antony Attwood, Steve Austin, Chiara Bacchelli,Tamam Bakchoul, Tadbir K. Bariana, Helen Baxendale, David Ben-
+nett, Claire Bethune, Shahnaz Bibi, Maria Bitner-Glindzicz, Marta
+Bleda, Harm Boggard, Paula Bolton-Maggs, Claire Booth, John R.Bradley, Angie Brady, Matthew Brown, Michael Browning, Chris-
+tine Bryson, Siobhan Burns, Paul Calleja, Natalie Canham, Jenny
+Carmichael, Keren Carss, Mark Caulﬁeld, Elizabeth Chalmers, AnitaChandra, Patrick Chinnery, Manali Chitre, Colin Church, Emma
+Clement, Naomi Clements-Brod, Virginia Clowes, Gerry Coghlan,
+Peter Collins, Nichola Cooper, Amanda Creaser-Myers, Rosa Da-Costa, Louise Daugherty, Sophie Davies, John Davis, Minka DeVries, Patrick Deegan, Sri V.V. Deevi, Charu Deshpande, Lisa Devlin,
+Eleanor Dewhurst, Rainer Dofﬁnger, Natalie Dormand, Elizabeth
+Drewe, David Edgar, William Egner, Wendy N. Erber, Marie Erwood,Tamara Everington, Remi Favier, Helen Firth, Debra Fletcher, Fran-
+ces Flinter, James C. Fox, Amy Frary, Kathleen Freson, Bruce Furie,
+Abigail Furnell, Daniel Gale, Alice Gardham, Michael Gattens, NeetiGhali, Pavandeep K. Ghataorhe, Rohit Ghurye, Simon Gibbs, Kim-
+berley Gilmour, Paul Gissen, Sarah Goddard, Keith Gomez, Pavel
+Gordins, Stefan Gra ¨f, Daniel Greene, Alan Greenhalgh, Andreas
+Greinacher, Soﬁa Grigoriadou, Detelina Grozeva, Scott Hackett,Charaka Hadinnapola, Rosie Hague, Matthias Haimel, Csaba Hal-
+magyi, Tracey Hammerton, Daniel Hart, Grant Hayman, Johan
+W.M. Heemskerk, RobertHenderson, Anke Hensiek, Yvonne Hensk-ens, Archana Herwadkar, Simon Holden, Muriel Holder, Susan
+Holder, Fengyuan Hu, Aarnoud Huissoon, Marc Humbert, Jane
+Hurst, Roger James, Stephen Jolles, Dragana Josifova, Rashid Kazmi,David Keeling, Peter Kelleher, Anne M. Kelly, Fiona Kennedy, David
+Kiely, Nathalie Kingston, Ania Koziell, Deepa Krishnakumar, Taco
+W. Kuijpers, Dinakantha Kumararatne, Manju Kurian, Michael A.Laffan, Michele P. Lambert, Hana Lango Allen, Allan Lawrie, Sara
+Lear, Melissa Lees, Claire Lentaigne, Ri Liesner, Rachel Linger, Hilary
+Longhurst, Lorena Lorenzo, Rajiv Machado, Rob Mackenzie, RobertMacLaren, Eamonn Maher, Jesmeen Maimaris, Sarah Mangles, AniaManson, Rutendo Mapeta, Hugh S. Markus, Jennifer Martin, Larah-
+mie Masati, Mary Mathias, Vera Matser, Anna Maw, Elizabeth
+McDermott, Coleen McJannet, Stuart Meacham, Sharon Meehan,Karyn Megy, Sarju Mehta, Michel Michaelides, Carolyn M. Millar,
+Shahin Moledina, Anthony Moore, Nicholas Morrell, Andrew
+Mumford, Sai Murng, Elaine Murphy, Sergey Nejentsev, Sadia Noor-ani, Paquita Nurden, Eric Oksenhendler, Willem H. Ouwehand, So-
+ﬁa Papadia, Soo-Mi Park, Alasdair Parker, John Pasi, Chris Patch,
+Joan Paterson, Jeanette Payne, Andrew Peacock, Kathelijne Peer-linck, Christopher J. Penkett, Joanna Pepke-Zaba, David J. Perry,Val Pollock, Gary Polwarth, Mark Ponsford, Waseem Qasim, Isabella
+Quinti, Stuart Rankin, Julia Rankin, F. Lucy Raymond, Karola Re-
+hnstrom, Evan Reid, Christopher J. Rhodes, Michael Richards, Syl-via Richardson,Alex Richter, IreneRoberts,MatthewRondina,Elisa-
+beth Rosser, Catherine Roughley, Kevin Rue-Albrecht, Crina
+Samarghitean, Alba Sanchis-Juan, Richard Sandford, Saikat Santra,Ravishankar Sargur, Sinisa Savic, Sol Schulman, Harald Schulze,Table 5. Continued
+Individual Phenotype Sex Ethnicity Gene Variant genomic Variant HGVSc Variant HGVSp GT Consequence Description
+W000278 other F SAS OR2M7 1:248487484AG >A ENST00000317965.2; c.386delC p.Pro129LeufsTer2 1/1 frameshift olfactory receptor, family 2,
+subfamily M, member 7
+W000375 RP M SAS PRTFDC1 10:25231367T >C ENST00000320152.6; c.49 /C02A>G NA 1/1 splice_acceptor phosphoribosyl transferase domain
+containing 1
+W000375 RP M SAS UBAP1L 15:65395024T >G ENST00000559089.1; c.121 /C02A>C NA 1/1 splice_acceptor ubiquitin associated protein 1-like
+Genomic coordinates refer to genome build GRCh37. Analysis is limited to cases that underwent WGS in whom pathogenic variants in known genes were not d etected and whose family history is not inconsistent with
+recessive inheritance of disease. Abbreviations: RP, retinitis pigmentosa; RD, retinal dystrophy; CRD, cone-rod dystrophy; other, any phenotype with frequency of fewer than eight individuals; multiple, more than one pheno-
+type including syndromic cases.
+The American Journal of Human Genetics 100, 75–90, January 5, 2017 87Richard Scott, Marie Scully, Suranjith Seneviratne, Carrock Sewell,
+Olga Shamardina, Debbie Shipley, Ilenia Simeoni, Suthesh Sivapa-
+laratnam, Kenneth Smith, Aman Sohal, Laura Southgate, Simon
+Staines, Emily Staples, Hans Stauss, Penelope Stein, Jonathan Ste-phens, Kathleen Stirrups, Sophie Stock, Jay Suntharalingam, R.Campbell Tait, Kate Talks, Yvonne Tan, Jecko Thachil, James Tha-
+venthiran, Ellen Thomas, Moira Thomas, Dorothy Thompson,
+Adrian Thrasher, Marc Tischkowitz, Catherine Titterton, Cheng-Hock Toh, Mark Toshner, Carmen Treacy, Richard Trembath, Salih
+Tuna, Wojciech Turek, Ernest Turro, Chris Van Geet, Marijke Velt-
+man, Julie Vogt, Julie von Ziegenweldt, Anton Vonk Noordegraaf,Emma Wakeling, Ivy Wanjiku, Timothy Q. Warner, Evangeline
+Wassmer, Hugh Watkins, AndrewWebster, Steve Welch, SarahWest-
+bury, John Wharton, Deborah Whitehorn, Martin Wilkins, LisaWillcocks, Catherine Williamson, Geoffrey Woods, John Wort, Ni-
+gel Yeatman, Patrick Yong, Tim Young, and Ping Yu.
+Acknowledgments
+This work was supported by The National Institute for Health
+Research England (NIHR) for the NIHR BioResource – Rare Diseasesproject (grant number RG65966). The Moorﬁelds Eye Hospital
+cohort of patients and clinical and imaging data were ascertained
+and collected with the support of grants from the National Institutefor Health Research Biomedical Research Centre at Moorﬁelds EyeHospital, National Health Service Foundation Trust, and UCL Insti-
+tute of Ophthalmology, Moorﬁelds Eye Hospital Special Trustees,
+Moorﬁelds Eye Charity, the Foundation Fighting Blindness (USA),and Retinitis Pigmentosa Fighting Blindness. M.M. is a recipient
+of an FFB Career Development Award. E.M. is supported by
+UCLH/UCL NIHR Biomedical Research Centre. F.L.R. and D.G.are supported by Cambridge NIHR Biomedical Research Centre.
+Received: September 1, 2016
+Accepted: November 29, 2016
+Published: December 29, 2016
+Web Resources
+Ensembl Genome Browser, http://www.ensembl.org/index.html
+European Genome-phenome Archive (EGA), https://www.ebi.ac.
+uk/ega
+ExAC Browser, http://exac.broadinstitute.org/
+IGV, http://www.broadinstitute.org/igv/
+Ocular Genomics Institute, https://oculargenomics.meei.harvard.
+edu/index.php/ret-trans/110-human-retinal-transcriptome
+OMIM, http://www.omim.org/
+PLINK, http://pngu.mgh.harvard.edu/~purcell/plink/
+RetNet – Retinal Information Network, https://sph.uth.edu/
+retnet/home.htm
+The 100,000 Genomes Project, https://www.genomicsengland.co.
+uk/the-100000-genomes-project
+UCSC Genome Browser, http://genome.ucsc.edu
+UK10K Consortium, http://www.uk10k.org/
+References
+1.Liew, G., Michaelides, M., and Bunce, C. (2014). A comparison
+of the causes of blindness certiﬁcations in England and Wales
+in working age adults (16-64 years), 1999-2000 with 2009-2010. BMJ Open 4, e004015.2.Ellingford, J.M., Sergouniotis, P.I., Lennon, R., Bhaskar, S., Wil-
+liams, S.G., Hillman, K.A., O’Sullivan, J., Hall, G., Ramsden,
+S.C., Lloyd, I.C., et al. (2015). Pinpointing clinical diagnosis
+through whole exome sequencing to direct patient care: acase of Senior-Loken syndrome. Lancet 385, 1916.
+3.Fitzgerald, T.W., Gerety, S.S., Jones, W.D., van Kogelenberg,
+M., King, D.A., McRae, J., Morley, K.I., Parthiban, V., Al-Turki,
+S., Ambridge, K., et al.; Deciphering Developmental DisordersStudy (2015). Large-scale discovery of novel genetic causes of
+developmental disorders. Nature 519, 223–228.
+4.Yang, Y., Muzny, D.M., Reid, J.G., Bainbridge, M.N., Willis, A.,
+Ward, P.A., Braxton, A., Beuten, J., Xia, F., Niu, Z., et al. (2013).
+Clinical whole-exome sequencing for the diagnosis of mende-
+lian disorders. N. Engl. J. Med. 369, 1502–1511.
+5.Beaulieu, C.L., Majewski, J., Schwartzentruber, J., Samuels,
+M.E., Fernandez, B.A., Bernier, F.P., Brudno, M., Knoppers,
+B., Marcadier, J., Dyment, D., et al.; FORGE Canada Con-sortium (2014). FORGE Canada Consortium: outcomes of a2-year national rare-disease gene-discovery project. Am. J.
+Hum. Genet. 94, 809–817.
+6.Gilissen, C., Hehir-Kwa, J.Y., Thung, D.T., van de Vorst, M.,
+van Bon, B.W.M., Willemsen, M.H., Kwint, M., Janssen, I.M.,
+Hoischen, A., Schenck, A., et al. (2014). Genome sequencing
+identiﬁes major causes of severe intellectual disability. Nature511, 344–347.
+7.Stavropoulos, D.J., Merico, D., Jobling, R., Bowdin, S., Mon-
+fared, N., Thiruvahindrapuram, B., Nalpathamkalam, T., Pellec-chia, G., Yuen, R.K.C., Szego, M.J., et al. (2016). Whole-genomesequencing expands diagnostic utility and improves clinical
+management in paediatric medicine. Nat. Genomic Med. 1,
+15012.
+8.Berger, W., Kloeckener-Gruissem, B., and Neidhardt, J. (2010).
+The molecular basis of human retinal and vitreoretinal dis-
+eases. Prog. Retin. Eye Res. 29, 335–375.
+9.Huang, X.-F., Huang, F., Wu, K.-C., Wu, J., Chen, J., Pang, C.-P.,
+Lu, F., Qu, J., and Jin, Z.-B. (2015). Genotype-phenotype corre-
+lation and mutation spectrum in a large cohort of patientswith inherited retinal dystrophy revealed by next-generation
+sequencing. Genet. Med. 17, 271–278.
+10.Patel, N., Aldahmesh, M.A., Alkuraya, H., Anazi, S., Alsharif, H.,
+Khan, A.O., Sunker, A., Al-Mohsen, S., Abboud, E.B., Nowilaty,S.R., et al. (2016). Expanding the clinical, allelic, and locus het-
+erogeneity of retinal dystrophies. Genet. Med. 18, 554–562.
+11.Eisenberger, T., Neuhaus, C., Khan, A.O., Decker, C., Preising,
+M.N., Friedburg, C., Bieg, A., Gliem, M., Charbel Issa, P., Holz,
+F.G., et al. (2013). Increasing the yield in targeted next-gener-
+ation sequencing by implicating CNV analysis, non-codingexons and the overall variant load: the example of retinal dys-
+trophies. PLoS ONE 8, e78496.
+12.Tiwari, A., Bahr, A., Ba ¨hr, L., Fleischhauer, J., Zinkernagel,
+M.S., Winkler, N., Barthelmes, D., Berger, L., Gerth-Kahlert,
+C., Neidhardt, J., and Berger, W. (2016). Next generation
+sequencing based identiﬁcation of disease-associated muta-tions in Swiss patients with retinal dystrophies. Sci. Rep. 6,
+28755.
+13.O’Sullivan, J., Mullaney, B.G., Bhaskar, S.S., Dickerson, J.E., Hall,
+G . ,O ’ G r a d y ,A . ,W e b s t e r ,A . ,R a m s d e n ,S . C . ,a n dB l a c k ,G . C .(2012). A paradigm shift in the delivery of services for diagnosis
+of inherited retinal disease. J. Med. Genet. 49, 322–326.
+14. Khan, K.N., Chana, R., Ali, N., Wright, G., Webster, A.R.,
+Moore, A.T., and Michaelides, M. (2016). Advanced diagnostic
+genetic testing in inherited retinal disease: experience from a
+88 The American Journal of Human Genetics 100, 75–90, January 5, 2017single tertiary referral centre in the UK National Health Ser-
+vice. Clin. Genet. Published online May 10, 2016. http://dx.
+doi.org/10.1111/cge.12798 .
+15.Consugar, M.B., Navarro-Gomez, D., Place, E.M., Bujakowska,
+K.M., Sousa, M.E., Fonseca-Kelly, Z.D.Z.D., Taub, D.G., Janes-sian, M., Wang, D.Y., Au, E.D., et al. (2015). Panel-based genetic
+diagnostic testing for inherited eye diseases is highly accurate
+and reproducible, and more sensitive for variant detection,than exome sequencing. Genet. Med. 17, 253–261.
+16.Ellingford, J.M., Barton, S., Bhaskar, S., Williams, S.G., Sergou-
+niotis, P.I., O’Sullivan, J., Lamb, J.A., Perveen, R., Hall, G.,Newman, W.G., et al. (2016). Whole genome sequencing in-
+creases molecular diagnostic yield compared with current
+diagnostic testing for inherited retinal disease. Ophthal-mology 123, 1143–1150.
+17.Westbury, S.K., Turro, E., Greene, D., Lentaigne, C., Kelly,
+A.M., Bariana, T.K., Simeoni, I., Pillois, X., Attwood, A., Austin,S., et al.; BRIDGE-BPD Consortium (2015). Human phenotypeontology annotation and cluster analysis to unravel genetic
+defects in 707 cases with unexplained bleeding and platelet
+disorders. Genome Med. 7, 36.
+18.Hull, S., Owen, N., Islam, F., Tracey-White, D., Plagnol, V.,
+Holder, G.E., Michaelides, M., Carss, K., Raymond, F.L., Rozet,
+J.-M., et al. (2016). Nonsyndromic retinal dystrophy due to bi-allelic mutations in the ciliary transport gene IFT140 . Invest.
+Ophthalmol. Vis. Sci. 57, 1053–1062.
+19.Chen, X., Schulz-Trieglaff, O., Shaw, R., Barnes, B., Schle-
+singer, F., Ka ¨llberg, M., Cox, A.J., Kruglyak, S., and Saunders,
+C.T. (2016). Manta: rapid detection of structural variants and
+indels for germline and cancer sequencing applications. Bioin-
+formatics 32, 1220–1222.
+20.Purcell, S., Neale, B., Todd-Brown, K., Thomas, L., Ferreira,
+M.A.R., Bender, D., Maller, J., Sklar, P., de Bakker, P.I.W.,
+Daly, M.J., and Sham, P.C. (2007). PLINK: a tool set forwhole-genome association and population-based linkage ana-
+lyses. Am. J. Hum. Genet. 81, 559–575.
+21.Wright, C.F., Fitzgerald, T.W., Jones, W.D., Clayton, S., McRae,
+J.F., van Kogelenberg, M., King, D.A., Ambridge, K., Barrett,
+D.M., Bayzetinova, T., et al.; DDD study (2014). Genetic diag-
+nosis of developmental disorders in the DDD study: a scalableanalysis of genome-wide research data. Lancet 385, 1305–1314.
+22.Stenson, P.D., Mort, M., Ball, E.V., Shaw, K., Phillips, A., and
+Cooper, D.N. (2014). The Human Gene Mutation Database:
+building a comprehensive mutation repository for clinicaland molecular genetics, diagnostic testing and personalized
+genomic medicine. Hum. Genet. 133, 1–9.
+23.Lek, M., Karczewski, K.J., Minikel, E.V., Samocha, K.E., Banks,
+E., Fennell, T., O’Donnell-Luria, A.H., Ware, J.S., Hill, A.J.,
+Cummings, B.B., et al.; Exome Aggregation Consortium
+(2016). Analysis of protein-coding genetic variation in60,706 humans. Nature 536, 285–291.
+24.Zarrei, M., MacDonald, J.R., Merico, D., and Scherer, S.W.
+(2015). A copy number variation map of the human genome.Nat. Rev. Genet. 16, 172–183.
+25.Kircher, M., Witten, D.M., Jain, P., O’Roak, B.J., Cooper, G.M.,
+and Shendure, J. (2014). A general framework for estimating
+the relative pathogenicity of human genetic variants. Nat.Genet. 46, 310–315.
+26.Thorvaldsdo ´ttir, H., Robinson, J.T., and Mesirov, J.P. (2013).
+Integrative Genomics Viewer (IGV): high-performance geno-mics data visualization and exploration. Brief. Bioinform.
+14, 178–192.27.Desmet, F.O., Hamroun, D., Lalande, M., Collod-Be ´roud, G.,
+Claustres, M., and Be ´roud, C. (2009). Human Splicing Finder:
+an online bioinformatics tool to predict splicing signals. Nu-
+cleic Acids Res. 37
+, e67.
+28.Reese, M.G., Eeckman, F.H., Kulp, D., and Haussler, D. (1997).
+Improved splice site detection in Genie. J. Comput. Biol. 4,
+311–323.
+29.Auton, A., Brooks, L.D., Durbin, R.M., Garrison, E.P., Kang,
+H.M., Korbel, J.O., Marchini, J.L., McCarthy, S., McVean,
+G.A., Abecasis, G.R.; and 1000 Genomes Project Consortium
+(2015). A global reference for human genetic variation. Nature526, 68–74.
+30.Henderson, R.H., Waseem, N., Searle, R., van der Spuy, J., Rus-
+sell-Eggitt, I., Bhattacharya, S.S., Thompson, D.A., Holder,G.E., Cheetham, M.E., Webster, A.R., and Moore, A.T.
+(2007). An assessment of the apex microarray technology in
+genotyping patients with Leber congenital amaurosis andearly-onset severe retinal dystrophy. Invest. Ophthalmol.Vis. Sci. 48, 5684–5689.
+31.Braun, T.A., Mullins, R.F., Wagner, A.H., Andorf, J.L., John-
+ston, R.M., Bakall, B.B., Deluca, A.P., Fishman, G.A., Lam,B.L., Weleber, R.G., et al. (2013). Non-exomic and synony-
+mous variants in ABCA4 are an important cause of Stargardt
+disease. Hum. Mol. Genet. 22, 5136–5145.
+32.Sangermano, R., Bax, N.M., Bauwens, M., van den Born, L.I.,
+De Baere, E., Garanto, A., Collin, R.W.J., Goercharn-Ramlal,
+A.S.A., den Engelsman-van Dijk, A.H.A., Rohrschneider, K.,et al. (2016). Photoreceptor progenitor mRNA analysis revealsexon skipping resulting from the ABCA4 c.5461-10T /Cm u -
+tation in Stargardt disease. Ophthalmology 123, 1375–1385.
+33.Vache ´, C., Besnard, T., le Berre, P., Garcı ´a-Garcı ´a, G., Baux, D.,
+Larrieu, L., Abadie, C., Blanchet, C., Bolz, H.J., Millan, J., et al.
+(2012). Usher syndrome type 2 caused by activation of an
+USH2A pseudoexon: implications for diagnosis and therapy.Hum. Mutat. 33, 104–108.
+34.van den Hurk, J.A.J.M., van de Pol, D.J.R., Wissinger, B., van
+Driel, M.A., Hoefsloot, L.H., de Wijs, I.J., van den Born, L.I.,Heckenlively, J.R., Brunner, H.G., Zrenner, E., et al. (2003).
+Novel types of mutation in the choroideremia ( CHM) gene:
+a full-length L1 insertion and an intronic mutation activatinga cryptic exon. Hum. Genet. 113, 268–275.
+35.Walter, K., Min, J.L., Huang, J., Crooks, L., Memari, Y., McCar-
+thy, S., Perry, J.R.B., Xu, C., Futema, M., Lawson, D., et al.;
+UK10K Consortium (2015). The UK10K project identiﬁesrare variants in health and disease. Nature 526, 82–90.
+36.Lelieveld, S.H., Spielmann, M., Mundlos, S., Veltman, J.A., and
+Gilissen, C. (2015). Comparison of exome and genomesequencing technologies for the complete capture of pro-
+tein-coding regions. Hum. Mutat. 36, 815–822.
+37.Turner, T.N., Hormozdiari, F., Duyzend, M.H., McClymont,
+S.A., Hook, P.W., Iossifov, I., Raja, A., Baker, C., Hoekzema,
+K., Stessman, H.A., et al. (2016). Genome sequencing of
+autism-affected families reveals disruption of putative non-coding regulatory DNA. Am. J. Hum. Genet. 98, 58–74.
+38.Belkadi, A., Bolze, A., Itan, Y., Cobat, A., Vincent, Q.B., Anti-
+penko, A., Shang, L., Boisson, B., Casanova, J.-L., and Abel,
+L. (2015). Whole-genome sequencing is more powerful thanwhole-exome sequencing for detecting exome variants. Proc.
+Natl. Acad. Sci. USA 112, 5473–5478.
+39.Hoischen, A., Gilissen, C., Arts, P., Wieskamp, N., van der
+Vliet, W., Vermeer, S., Steehouwer, M., de Vries, P., Meijer,
+R., Seiqueros, J., et al. (2010). Massively parallel sequencing
+The American Journal of Human Genetics 100, 75–90, January 5, 2017 89of ataxia genes after array-based enrichment. Hum. Mutat. 31,
+494–499.
+40.Benjamini, Y., and Speed, T.P. (2012). Summarizing and cor-
+recting the GC content bias in high-throughput sequencing.Nucleic Acids Res. 40, e72.
+41.Chilamakuri, C.S.R., Lorenz, S., Madoui, M.-A., Voda ´k, D.,
+Sun, J., Hovig, E., Myklebost, O., and Meza-Zepeda, L.A.
+(2014). Performance comparison of four exome capture sys-tems for deep sequencing. BMC Genomics 15, 449.
+42.Patwardhan, A., Harris, J., Leng, N., Bartha, G., Church, D.M.,
+Luo, S., Haudenschild, C., Pratt, M., Zook, J., Salit, M., et al.(2015). Achieving high-sensitivity for clinical applications us-
+ing augmented exome sequencing. Genome Med. 7, 71.
+43.Pusch, C.M., Broghammer, M., Jurklies, B., Besch, D., and Ja-
+cobi, F.K. (2002). Ten novel ORF15 mutations conﬁrm muta-
+tional hot spot in the RPGR gene in European patients with
+X-linked retinitis pigmentosa. Hum. Mutat. 20, 405.
+44. McRae, J.F., Clayton, S., Fitzgerald, T.W., Kaplanis, J., Prig-
+more, E., Rajan, D., Sifrim, A., Aitken, S., Akawi, N., Alvi, M.,
+et al. (2016). Prevalence, phenotype and architecture of devel-
+opmental disorders caused by de novo mutation. bioRxiv.http://dx.doi.org/10.1101/049056 .
+45.Chiang, J.P., Lamey, T., McLaren, T., Thompson, J.A., Mont-
+gomery, H., and De Roach, J. (2015). Progress and prospectsof next-generation sequencing testing for inherited retinal
+dystrophy. Expert Rev. Mol. Diagn. 15, 1269–1275.
+46.Ba-Abbad, R., Arno, G., Carss, K., Stirrups, K., Penkett, C.J.,
+Moore, A.T., Michaelides, M., Raymond, F.L., Webster, A.R.,and Holder, G.E. (2016). Mutations in CACNA2D4 cause
+distinctive retinal dysfunction in humans. Ophthalmology
+123, 668–71.e2.
+47.Arno, G., Hull, S., Carss, K., Dev-Borman, A., Chakarova, C.,
+Bujakowska, K., van den Born, I., Robson, A.G., Holder, G.E.,Michaelides, M., et al. (2016). Reevaluation of the retinal dys-
+trophy due to recessive alleles of RGR with the discovery of a
+cis-acting mutation in CDHR1. Invest. Ophthalmol. Vis. Sci.57, 4806–4813.
+48.M a y e r ,A . K . ,R o h r s c h n e i d e r ,K . ,S t r o m ,T . M . ,G l o ¨ckle, N.,
+Kohl, S., Wissinger, B., and Weisschuh, N. (2016). Homozy-gosity mapping and whole-genome sequencing reveals
+a deep intronic PROM1 mutation causing cone-rod dys-
+t r o p h yb yp s e u d o e x o na c t i v a t i o n .E u r .J .H u m .G e n e t . 24,
+459–462.
+49.den Hollander, A.I., Koenekoop, R.K., Yzer, S., Lopez, I.,
+Arends, M.L., Voesenek, K.E.J., Zonneveld, M.N., Strom,T.M., Meitinger, T., Brunner, H.G., et al. (2006). Mutations inthe CEP290 (NPHP6) gene are a frequent cause of Leber
+congenital amaurosis. Am. J. Hum. Genet. 79, 556–561.
+50.Yang, J., Liu, X., Yue, G., Adamian, M., Bulgakov, O., and Li, T.
+(2002). Rootletin, a novel coiled-coil protein, is a structural
+component of the ciliary rootlet. J. Cell Biol. 159, 431–440.
+51.Cheng, C.W., Chow, R.L., Lebel, M., Sakuma, R., Cheung,
+H.O.L., Thanabalasingham, V., Zhang, X., Bruneau, B.G.,
+Birch, D.G., Hui, C.C., et al. (2005). The Iroquois homeobox
+gene, Irx5, is required for retinal cone bipolar cell develop-ment. Dev. Biol. 287, 48–60.
+90 The American Journal of Human Genetics 100, 75–90, January 5, 2017

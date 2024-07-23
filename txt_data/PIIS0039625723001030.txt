@@ -1,0 +1,1799 @@
+Available online at www.sciencedirect.com 
+journal homepage: www.elsevier.com/locate/survophthal 
+Review article 
+Macular neovascularization in inherited retinal 
+diseases: A review 
+Rachael C. Heath Jeffery, MChD, MPH a,b,  
+Fred K. Chen, PhD, FRANZCO a,b,c,d,⁎ 
+a Centre for Ophthalmology and Visual Science (Lions Eye Institute), The University of Western Australia, 
+Nedlands, WA, Australia 
+b Royal Victorian Eye and Ear Hospital (Centre for Eye Research Australia), East Melbourne, VIC, Australia 
+c Ophthalmology, Department of Surgery, The University of Melbourne, East Melbourne, VIC, Australia 
+d Department of Ophthalmology, Royal Perth Hospital, Perth, WA, Australia    
+article info  
+Article history: 
+Received 3 March 2023 
+Revised 25 July 2023 
+Accepted 31 July 2023 
+Available online 6 August 2023  
+Keywords: 
+Choroidal neovascular membrane 
+Macular dystrophy 
+Stargardt disease 
+Retinitis pigmentosa 
+Sorsby fundus dystrophy 
+Late -onset retinal degeneration 
+Doyne honeycomb retinal 
+dystrophy 
+Pseudoxanthoma elasticum 
+Autosomal recessive 
+bestrophinopathy 
+Peripherinopathy abstract  
+Inherited retinal diseases (IRDs ) are the most common cause of blindness in working -age 
+adults. Macular neovascularization (MNV ) may be a presenting feature or occurs as a late - 
+stage complication in several IRDs. We performed an extensive literature review on MNV 
+associated with IRDs. MNV is a well -known complication of Sorsby fundus dystrophy and 
+pseudoxanthoma elasticum. Those with late -onset Stargardt disease may masquerade as 
+exudative age-related macular degeneration (AMD ) when MNV is the presenting feature. 
+Peripherinopathies may develop MNV that responds well to a short course of anti -vascular 
+endothelial growth factor (anti -VEGF ) therapy, while bestrophinopathies tend to develop 
+MNV in the early stages of the disease without vision loss. Enhanced S-cone syndrome 
+manifests type 3 MNV that typically regresses into a subfoveal fibrotic nodule. MNV is only 
+a rare complication in choroideraemia and rod-cone dystrophies. Most IRD-related MNVs 
+exhibit a favorable visual prognosis requiring less intensive regimens of anti -vascular en-
+dothelial growth factor therapy compared to age-related macular degeneration. We discuss 
+the role of key imaging modalities in the diagnosis of MNV across a wide spectrum of IRDs 
+and highlight the gaps in our knowledge with respect to the natural history and prognosis 
+to pave the way for future directions of research. 
+© 2023 The Author (s). Published by Elsevier Inc. This is an open access article under the CC 
+BY license (http://creativecommons.org/licenses/by/4.0/ ).   
+0039 -6257/© 2023 The Author (s). Published by Elsevier Inc. This is an open access article under the CC BY license (http://creative -
+commons.org/licenses/by/4.0/ ). 
+https ://doi.org/10.1016/j.survophthal.2023.07.007  
+]]]]  ]]]]]] 
+⁎ Corresponding author: Fred K. Chen, PhD, FRANZCO, Lions Eye Institute, 2 Verdun Street, Nedlands, WA, Australia. 
+E-mail address: fredchen@lei.org.au (F.K. Chen ). SUR VEY OF OPHTHALMOLOGY 69 (2023) 1–23 1.  Overview 
+Inherited retinal diseases (IRDs) comprise a heterogenous group 
+of monogenic diseases exhibiting autosomal dominant or re-
+cessive, X-linked, and mitochondrial inheritance patterns. 
+Despite the approval of voretigene neparvovec-rzyl (Luxturna™), 
+for an extremely rare form of RPE65-associated retinopathy, this 
+group of diseases remains the most common cause of blindness 
+in working-age adults.67,102 Sight-threatening complications, 
+such as cystoid macular edema, foveoschisis, macular hole, 
+macular pucker, vitelliform lesions, foveal atrophy, and macular 
+neovascularization (MNV), occur across a spectrum of IRDs. The 
+widespread availability of anti-vascular endothelial growth 
+factor (anti-VEGF) agents has led to their frequent use in IRD- 
+related MNV, often with little or no level III evidence of effi-
+cacy.15,143 It is imperative that we understand the natural history 
+of IRD-related MNV to avoid overtreatment, as these lesions may 
+be stable for long periods after a short course of anti-VEGF 
+therapy, in contrast to those associated with age-related macular 
+degeneration (AMD). To date, IRD-related MNV has mostly been 
+described in case series111 with variable use of multimodal 
+imaging to describe the size and nature of the vascular network. 
+In a series of 8 IRD-related MNV cases, followed for 6–148 
+months, Marano and coworkers111 emphasized their favorable 
+visual prognosis without treatment. This cannot be generalized 
+to all IRDs, given that it was published prior to the widespread 
+safe and efficacious use of anti-VEGF therapy. The authors de-
+scribed the natural history of MNVs associated with Best vitelli -
+form dystrophy, pattern dystrophies, gyrate atrophy (GA), and 
+retinitis pigmentosa (RP) in which the MNV lesion generally 
+underwent spontaneous regression to a small, focal fibrotic scar 
+resulting in only mild visual impairment. Nevertheless, these 
+findings mirrored prior observations of MNV associated with 
+fundus flavimaculatus,26,89,100 reticular dystrophy,113,181 and 
+pattern dystrophy.28,110 With the advent of multimodal imaging 
+in recent years to phenotype IRDs,52,64,128 it is timely to review 
+the literature on IRD-related MNV to facilitate an accurate diag -
+nosis and an understanding of the role of observation or anti- 
+VEGF therapy. This review is divided into 3 sections focusing on 
+IRDs with (1) drusen-like lesions resembling AMD; (2) centrifugal 
+progression often characterized by macular flecks, vitelliform 
+deposits, or other patterns of pigmentation; and (3) those with 
+centripetal progression characterized by early widespread retinal 
+involvement, encroaching into the macula in the late stages. In 
+this review, the consensus nomenclature for reporting neovas -
+cular AMD will be adopted for describing IRD-related MNV.177 For 
+each condition, a brief description of the clinical features is fol-
+lowed by the MNV imaging characteristics, treatment options, 
+and outcomes.  
+2.  Drusen-like lesions resembling AMD 
+Three rare dominant IRDs share causative genes that are 
+integral to extracellular matrix integrity. These are often 
+considered phenocopies of AMD due to their characteristic 
+subretinal deposits resembling reticular pseudodrusen and 
+soft drusen. 
+Sorsby fundus dystrophy (SFD, MIM#136900) is a fully pe-
+netrant macular disease with systemic associations due to pathogenic sequence variants in TIMP3 (MIM#188826) located 
+on chromosome 22q12.3.189 TIMP3 encodes the third of a 4- 
+member family of tissue inhibitor metalloproteinases. A total 
+of 18 distinct sequence variants in TIMP3 have been identified 
+with most being missense mutations in the C-terminal do-
+main (exon 5) except for p.(Ser38Cys), the truncating variant 
+p.(Glu139 *), and the splice variant c.439–2dupA.98,131 
+Doyne honeycomb retinal dystrophy (DHRD, MIM#126600), 
+also known as malattia leventinese or familial dominant drusen, 
+is another fully penetrant disease due to a single variant p. 
+(Arg345Trp) in the EFEMP1 (MIM#601548) gene located on chro -
+mosome 2p16.1,179 coding the third of a family of 6 extracellular 
+matrix glycoproteins (Fibulin 3). 
+Late-onset retinal degeneration (LORD, MIM#605670) is a 
+fully penetrant Bruch membrane disease due to pathogenic 
+sequence variants in C1QTNF5 (MIM#608752) located on 
+chromosome 11q23.3,63 a secreted and membrane-associated 
+protein responsible for adhesion between the retinal pigment 
+epithelial cells and the retinal pigment epithelium (RPE) layer 
+and the Bruch membrane. To date, 6 amino acid substitutions 
+at positions, 163, 180, 186, 188, 190, and 216, have been as-
+sociated with LORD or GA-like choroidal dystrophy.25,82,178 
+The p.(Ser163Arg) is the most common founder mutation 
+encountered.96 Variable phenotypes have been reported be-
+tween these variants, which may account for differences in 
+the risk of MNV formation.193,194 Fig. 1 demonstrates the un-
+ique clinical phenotypes of these 3 AMD masquerades.  
+2.1.  SFD 
+SFD presents in the fourth decade to the fifth decade with a 
+visual impairment from MNV or macular atrophy.173 Clini -
+cally, patients often report impaired vision in low lighting 
+with central scotomas or peripheral visual field defects re-
+lated to expanding geographic atrophy, MNV, or both. On 
+multimodal imaging, reticular pseudodrusen56 are frequently 
+observed in the sixth decade of life, progressing to diffuse 
+elevation of the retinal pigment epithelium (RPE) from Bruch 
+membrane.83 
+MNV is found in over 60% of SFD, and most have bilateral 
+sequential lesions separated by a median onset of 3 years.12,170 
+MNV may be type 1, type 2, or a variant of polypoidal choroidal 
+vascularization in the mid-periphery.22,36,57,91 Optical coherence 
+tomography (OCT) and OCT angiography (OCTA) have been 
+used to noninvasively demonstrate MNV and its regression 
+after treatment in SFD.126 Although the underlying pathophy -
+siology of TIMP3 mutations remains unknown, animal and in 
+vitro studies have suggested both gain and loss of function re-
+sulting in altered TIMP3 turnover and reduced metalloprotei -
+nase inhibitory activity. Downstream effects of altered TIMP3 
+function may include increased VEGF binding to VEGF receptor 
+274,151 and the loss of inhibition of 2 enzymes, disintegrin and 
+metalloproteinase 17 (ADAM17), which facilitate the release of 
+tumor necrosis factor alpha, resulting in proinflammatory and 
+proangiogenic effects.171 This may explain the high risk of MNV 
+and the potential extraocular associations in SFD.105,118 
+Argon laser, photodynamic therapy (PDT), steroids, anti- 
+VEGF agents, and anti-tumor necrosis factor alpha biologics 
+have been described as treatments (Table 1). The initial 2 have 2 SUR VEY OF OPHTHALMOLOGY 69 (2023) 1–23   now been abandoned in favor of anti -VEGF agents due to their 
+poor visual outcomes.12,170 Sivaprasad and coworkers12,170 hy-
+pothesized that the abnormal RPE-Bruch membrane complex 
+may accelerate recurrent MNV formation following laser, and 
+the thickened Bruch membrane may limit penetration of PDT. 
+They noted a short -term (6 month ) benefit in combining jux-
+tascleral depot administration of anecortave, an anti -angio -
+genic analog of cortisol acetate, with an intravitreal anti -VEGF 
+agent.12,170 Others have also noted limited benefit from 
+PDT.145,191 The long -term data (> 5 years ) on bevacizumab and 
+ranibizumab have demonstrated safety and efficacy although 
+intraocular inflammation has been associated with the off-label 
+use of bevacizumab.11,12,47,50,58,78,79,81,117,126,185 There remains no 
+consensus on dosing regimens despite a treat and extend protocol being advocated by Kaye and coworkers79 and Tso-
+kolas and coworkers.185 Conversely, Gliem and coworkers57 and 
+Baston and coworkers12 recommended monthly monitoring 
+and pro re nata injection to reduce the treatment burden. 
+Spaide176 recently reported the use of subcutaneous adali -
+mumab (an inhibitor of tumor necrosis factor alpha ), as a mo-
+lecularly targeted approach. He described a 35-year -old woman 
+with bilateral aggressive MNV initially treated with intravitreal 
+4-mg triamcinolone and later bevacizumab. Over a follow -up 
+period of 18 months, there were no signs of disease activity 
+once the patient was switched to adalimumab.176 Further in-
+vestigations into the use of other anti -tumor necrosis factor 
+alpha agents, such as etanercept, infliximab, certolizumab 
+pegol, and golimumab, are now warranted. 
+Fig. 1 – Illustrative cases of Sorsby fundus dystrophy (SFD) (A–D), Doyne honeycomb retinal dystrophy (DHRD) (E–H), and late- 
+onset retinal degeneration (I–M). Optos imaging of a 47-year-old male with nyctalopia and scotomas showed parafoveal 
+atrophy (A) and speckled hyperautofluorescence surrounding central hypoautofluorescent patches (B). Optical coherence 
+tomography (OCT) showed diffuse and irregular elevation of the retinal pigment epithelium (RPE) secondary to Bruch’s 
+membrane-RPE separation in the parafoveal (C) and foveal regions (D). SFD was suspected and confirmed with a pathogenic 
+TIMP3 variant identified. Optos imaging of an asymptomatic 51-year-old male showed small macular drusen and drusen at 
+the disc margin (E), which were hyperautofluorescent (F). OCT showed a nodular elevation of the RPE at the site of the disc 
+margin (G), which must be distinguished from peripapillary hyperreflective ovoid mass-like structures (PHOMSs) that are 
+hyperreflective lateral bulges from distended axons due to axoplasmic stasis and resides above the RPE (H). Genetic analysis 
+confirmed DHRD due to the known EFEMP1 mutation. Optos imaging of a 61-year-old female with nyctalopia showed 
+peripheral white dots (I, inset) and specked hyperautofluorescence in the macular region (J). OCT showed subretinal discrete 
+deposits corresponding to the white dots and diffuse elevation of the RPE (K). Anterior zonules were long (L), and there was 
+diffuse thickening of the Bruch membrane (M). Genetic analysis confirmed late-onset retinal degeneration due to a C1QTNF5 
+mutation.   3 SUR VEY OF OPHTHALMOLOGY 69 (2023) 1–23   Table 1 – Summary of Treatment Outcomes in Drusen-like Lesions Resembling Age-related Macular Degeneration.          
+Disease Author Treatment Demographics at Onset 
+of MNV 
+(Case #) Baseline VA Final VA Follow-Up 
+Duration Comments  
+Sorsby Fundus Dystrophy Gemenetzi 
+et al.50 Bevacizumab OD (6) 
+PDT + Bevacizumab OS (3) 34 F 
+OD → OS 20/200 (OD) 
+20/20 (OS) 20/160 (OD) 
+20/20 (OS) 33 m p.Ser204Cys. Onset separated by 3 years 
+between 2 eyes.   
+Bevacizumab OD (1) 44 F 
+OD only 20/200 (OD) 20/20 (OD) 12 w p.Ser204Cys  
+Gray et al.58 Bevacizumab OS (3) 38 F 
+OS only 20/20 (OS) 20/20 (OS) 14 m p.Ser181Cys. Extrafoveal MNV  
+Balaskas et al.11 PDT OS 
+Ranibizumab OD (14) 41 M 
+OS → OD 6/18 (OS) 
+6/5 (OD) 6/60 (OS) 
+6/15 (OD) 4 y p.Ser204Cys. MNV developed in fellow eye 2 
+years after first eye.  
+Fung et al.47 PDT + Bevacizumab OD (6) 44 M 
+OD 20/40 (OD) 20/25 (OD) 4 y p.Tyr159Cys  
+Gliem et al.57 Bevacizumab OS (35) 45 M (VI.5) 
+OD 20/20 (OD) 20/20 (OD) 6 y p.Tyr182Cys. Pro re nata regime.   
+Bevacizumab OS (1) 54 (III.4) 
+OS 20/25 (OS) 20/20 (OS) 12 m p.Ser204Cys.   
+Bevacizumab OU (2) 56 (III.8) 
+OS → OD 20/32 (OS) 20/20 (OS) 8 m p.Ser204Cys. Fellow eye developed PCV nasal 
+to disc.  
+Keller et al.81 PDT + Ranibizumab OS (3) 32 M 
+OS → OD NR (OU) CF (OS) 
+20/30 (OD) 5 y PDT followed by 3 doses of ranibizumab in OS 
+and 7 recurrences of MNV in OD.   
+Ranibizumab 28 M 
+OS 20/200 (OS) 
+NR (OD) 20/50 (OS) 
+20/200 (OD) 4 y 26 recurrences of MNV between OU, all 
+treated with ranibizumab Subfoveal scar.  
+Mohla et al.126 Bevacizumab (2) 52 F 
+OD 20/200 (OD) 20/60 (OD) 7 m p.Ser204Cys. 4 weeks apart.  
+Menassa et al.117 Ranibizumab 
+(6 OD, 5 OS) 38 M 
+OS → OD 20/200 (OS) 
+20/20 (OD) 20/200 (OS) 
+20/25 (OD) 5 y p.Ser204Cys. MNV developed in OD 5 years 
+later.  
+Tsokolas et al.185 Bevacizumab (24 OD, 42 OS) 34 F 
+OD → OS NR (OU) 20/400 (OD) 
+20/40 (OS)  p.Ser204Cys. Prior PDT in OS.   
+Bevacizumab 
+(5 OD, 79 OS) 36 F 
+OD → OS 20/25 (OD) 
+20/20 (OS) 20/200 (OD) 
+20/120 (OS) 6 y p.Ser204Cys 
+Doyne Honeycomb Retinal 
+Dystrophy Pager et al.138 Surgical excision OS 34 M 
+OS 20/100 (OS) 20/20 (OS) 2 m No fluorescein leakage on follow-up.  
+Ladas et al.82 Focal laser OD 45 M 
+OD 20/800 (OD) 20/20 (OD) 3 y ICG-guided argon green laser on parapapillary 
+and perifoveal polypoidal lesions.  
+Dantas et al.39 Observation OD 
+PDT OS 39 F 
+OD → OS 20/800 (OD) 
+20/25 (OS) 20/800 (OD) 
+20/60 (OS) 5 y Type 2 MNV in OD progressed to subretinal 
+fibrosis 
+OS VA dropped to 20/60 with SRF due to type 
+2 MNV.  
+Sohn et al.172 Bevacizumab OS 56 F 
+OS only 20/250 (OS) 20/50 (OS) 1 y Type 1 MNV, 2 doses given.   
+Bevacizumab OS 39 F 
+OS only 20/200 (OS) 20/20 (OS) 2 y Type 1 MNV, 7 doses given.   
+Observation OD 41 M 
+OD only 20/20 (OD) 20/120 (OD) 6 y Type 1 MNV evolved into disciform scar. 
+(continued on next page)  4 SUR VEY OF OPHTHALMOLOGY 69 (2023) 1–23   Table 1 – (continued)           
+Disease Author Treatment Demographics at Onset 
+of MNV 
+(Case #) Baseline VA Final VA Follow-Up 
+Duration Comments   
+Patel et al.144 Bevacizumab OS (5) 65 F 
+OS only 20/200 (OS) 20/400 (OS) 4 m Monthly interval with no change in MNV area 
+on OCTA.  
+Enomoto et al.42 Bevacizumab OS (20) 
+Ranibizumab OD (2) 41 M 
+OS → OD 20/40 (OS) 
+20/20 (OD) 20/200 (OS) 
+NR (OS) 15 y Pro re nata regime.  
+Sheyanth 
+et al.169 Aflibercept OU (3) 67 F 
+OU 20/100 (OD) 
+20/30 (OS) 20/100 (OD) 
+20/30 (OS) 3 m Monthly interval with no change in 
+angiography leakage. 
+Late-Onset Retinal 
+Degeneration Ayyagari et al.9 Focal laser OS 
+Observation OD 58 F (IV-11) 
+OS → OD 20/20 (OD) 
+20/200 (OS) CF (OD) 
+CF (OS) 3 y Recurrence adjacent to treated area 
+eventually became subfoveal.   
+Focal laser OS 64 F (IV-8) 
+OS only 20/20 (OS) 20/300 (OS) 1 y Recurrence at margin 3 months later.  
+Mandal & 
+Lotery109 Ranibizumab OS 
+Bevacizumab OD 54 F 
+OS → OD 6/7.5 (OD) 
+6/24 (OS) 6/38 (OD) 
+6/24 (OS) 17 m p.Ser163Arg. Recurrence in both eyes at 17- 
+month follow-up treated with bevacizumab.  
+Keenan et al.80 Observation OU 57 F (V-33) 
+OD → OS NR NR 8 y p.Ser163Arg. Peripheral MNV with 
+hemorrhage, not treated.   
+Observation OU 55 M (V-34) 
+OU 20/20 (OD) 
+20/20 (OS) 20/20 (OD) 
+20/20 (OS) 4 y p.Ser163Arg. Peripheral MNV seen with ICGA, 
+not treated.   
+Observation OU 60 F (V-41) 
+OU 20/500 (OD) 
+20/32 (OS) NA No FU p.Ser163Arg. Peripheral MNV seen with ICGA 
+with no exudation. OD VA loss due to 
+atrophy.   
+Observation OU 60 F (V-42) 
+OU 20/20 (OD) 
+20/20 (OS) NA No FU p.Ser163Arg. Peripheral MNV seen with ICGA 
+with no exudation. 
+OS = left eye; OD = right eye; OU = both eyes; PDT = photodynamic therapy; PCV = polypoidal choroidal vascularization; OCTA = optical coherence tomography angiography; MNV = macular neo -
+vascularization; ICGA = indocyanine green angiography; NR = not reported.    5 SUR VEY OF OPHTHALMOLOGY 69 (2023) 1–23   2.2.  DHRD 
+DHRD typically presents in the fourth decade to fifth decade 
+with mild visual impairment that often progresses to severe 
+impairment of acuity (< 20/200) from geographic atrophy or 
+MNV.93 The mutant EFEMP1 is misfolded and subsequently 
+accumulates within the RPE and between the RPE and Bruch 
+membrane. Although not entirely understood, animal studies 
+have shown increased basal lamina deposits, excessive 
+complement C3 activation, and generalized RPE and chor -
+oidal abnormalities, setting the scene for MNV forma -
+tion.45,115,116 Clinically, small white radially orientated 
+drusen are seen in the perimacular region, as described by 
+Vogt originally,43,147,187 progressing to the more typical ma-
+cular drusen that appear in a honeycomb arrangement as 
+described by Doyne.40 The pathognomonic hyperauto -
+fluorescent disc margin drusen of DHRD174 are distinct from 
+optic disc drusen or peripapillary hyperreflective ovoid mass- 
+like structures.65 Peripapillary hyperreflective ovoid mass- 
+like structures are hyperreflective bulges of axons herniating 
+laterally over the disc margin, secondary to axoplasmic 
+stasis, which rests upon the RPE/basement membrane com -
+plex (Fig. 1H). Conversely, optic disc drusen are hypore -
+flective structures within the optic nerve head that projects a 
+hyperreflective border. In contrast, disc margin drusen are 
+nodular elevations of the RPE adjacent to the Bruch mem -
+brane opening (Fig. 1G). The formation of confluent drusen 
+with a honeycomb appearance is also accompanied by a 
+diffuse elevation of the RPE layer. 
+In a large series of 24 patients from 19 families with DHRD, 
+only 1 developed MNV, whereas the majority lost vision from 
+macular atrophy.120 Serra and coworkers167 compared OCTA 
+features with fundus photography, fluorescein angiography, 
+indocyanine green angiography (ICGA), and OCT in 4 patients 
+with DHRD. They found that OCTA identified flow signals in 3 
+eyes with exudative MNV, while other multimodal imaging 
+did not demonstrate any leakage. 45,115,116 
+Reports of treatment in DHRD-related MNV remain limited 
+to surgical excision, argon laser, PDT, and anti-VEGF therapy 
+(Table 1). Pager and coworkers described subretinal surgery 
+in a case presenting with acute vision loss due to an active 
+MNV.138 Although the surgically excised submacular tissue 
+failed to show histologic evidence of MNV, clinical assess -
+ment 2 months after surgery demonstrated restoration of 
+visual acuity from 20/100–20/20 and no evidence of fluor -
+escein leakage on angiography. A case report by Ladas and 
+coworkers82 illustrated the unusual coexistence of a poly -
+poidal choroidal vascularization variant of MNV in a patient 
+with DHRD. Here, indocyanine green angiography-guided 
+argon laser was performed on the active peripapillary and 
+perifoveal polypoidal lesions. The authors noted a favorable 
+anatomic and functional outcome 3 years posttreatment with 
+a visual acuity of 20/20 in the treated eye. Dantas and cow -
+orkers39 also reported effective treatment with a single PDT 
+application followed for 34 weeks. Sohn and coworkers172 
+reported 2 cases of MNV responding to 2 and 7 doses of 
+bevacizumab followed for 15 and 30 months, respectively. 
+Visual acuities in the affected eyes improved from 20/250 to 
+20/50 and from 20/200 to 20/20, respectively. Enomoto and 
+coworkers reported a case of bilateral sequential MNV separated by 9 years with a 15-year follow-up.42 One eye de-
+veloped scarring despite 20 bevacizumab injections, while 
+the MNV in the fellow eye was stabilized with only 2 ranibi -
+zumab injections over a 5-year period. Patel and coworkers144 
+explored the utility of OCTA in IRDs complicated by MNV 
+including a case of DHRD. They found that, after 5 intravitreal 
+bevacizumab injections, the MNV remained largely un-
+changed with respect to vessel area on OCTA despite a re-
+duction in subretinal fluid (SRF) and continued visual acuity 
+decline over 16 weeks. Sheyanth and coworkers found no 
+change in visual acuity or angiographic leak in a patient re-
+ceiving bilateral aflibercept for MNV after 3 doses.169 These 
+case report and series illustrated the variable treatment re-
+sponses in DHRD. Fig. 2 illustrates a case of DHRD-related 
+MNV responding well to anti-VEGF therapy.  
+2.3.  LORD 
+LORD typically presents with delayed dark adaptation and 
+reduced vision in low lighting during the fifth decade to the 
+sixth decade, accompanied by numerous yellow-white sub-
+retinal deposits in the peripheral and perifoveal regions. 
+Central vision is gradually lost by the seventh decade from 
+advancing chorioretinal atrophy through the fovea. Similar to 
+SFD, reticular pseudodrusen are commonly seen in the sixth 
+decade to the seventh decade with spontaneous regression 
+by the eighth decade.24 Despite histopathological evidence of 
+a thickened Bruch membrane,63,92,121 spectral domain-OCT 
+has not demonstrated increased RPE elevation with advan -
+cing disease.83 A unique anterior segment feature includes 
+the long anterior zonules with peripupillary iris transillumi -
+nation defects.97,180 Borooah and coworkers proposed a sta-
+ging system (stages 1–3) based on patient age, anterior and 
+posterior segment findings, and the presence of sight-threa -
+tening complications such as MNV or atrophy.23 
+MNV has been shown to involve both the macular and 
+peripheral retina.9,24,109,155 Borooah and coworkers reviewed 
+cases of stage 3 LORD and found several reports of sudden 
+and severe visual decline likely associated with MNV;23 
+however, choroidal neovascularization may be asympto -
+matic and remain peripheral, as demonstrated by Keenan 
+and coworkers using widefield ICG angiography and OCTA.80 
+The mutant protein is thought to act in a dominant negative 
+manner, whereby the wildtype protein is depleted through 
+oligomerization with the mutant protein. Animal models 
+suggest variability in the dominant negative mechanisms 
+amongst different variants.193 Therefore, the molecular me-
+chanisms leading to RPE dysfunction, Bruch membrane de-
+posits, and subsequent atrophy and MNV formation remain 
+unclear.92,121 
+Focal laser and anti-VEGF therapies have been described 
+for the treatment of LORD-related MNV (Table 1). Ayyagari 
+and coworkers described the use of focal laser for MNV in 3 
+sisters from a dominant pedigree with LORD.9 There was a 
+prompt response from 2 separate MNV lesions in the same 
+eye within days of the laser; however, new MNVs developed 
+over subsequent months, at the margins of the treated areas 
+that eventually encroached into the subfoveal region. No-
+tably, even with a low-energy laser setting, there was com -
+plete ablation of the RPE and choriocapillaris indicating a 6 SUR VEY OF OPHTHALMOLOGY 69 (2023) 1–23   vulnerability of these layers in LORD. Mandal and Lotery re-
+ported anti -VEGF use in LORD -related MNV demonstrating 
+clinical efficacy with a course of 3 monthly injections using 
+ranibizumab and bevacizumab.109 Although macular fluid 
+resolved promptly, the MNV recurred bilaterally 17 months 
+later.109 Ganesth and coworkers described a single aflibercept 
+injection in a patient with LORD -related MNV.48 Importantly, 
+not all LORD -related MNV requires treatment as some of 
+these are type 1 nonexudative membranes.80  
+3.  Centrifugal diseases, including vitelliform 
+and pattern dystrophies 
+This group of disorders demonstrates a macular predilec -
+tion with greater cone than the rod system involvement in 
+electrophysiology. The centrifugal IRDs associated with 
+MNV include ABCA4 -related retinopathy (MIM#601691 ) or 
+Stargardt disease, PRPH2 -related retinopathy (MIM#179605 ) or 
+peripherinopathies, BEST1 -related retinopathy (MIM#607854 ) 
+or bestrophinopathies, mutations in DHS6S1, upstream 
+from the PRDM13 gene, (MIM#616842 ) or North Carolina 
+macular dystrophy, and ABCC6 -associated retinopathy 
+(MIM#603234 ) or angioid streaks complicating pseudox -
+anthoma elasticum (PXE ).  
+3.1.  ABCA4 -associated retinopathy or Stargardt disease 
+Stargardt disease is the most common IRD,158 accounting for 
+12% of IRD-related blindness.67 Although macular atrophy is 
+the predominant cause of visual loss, there is increasing re-
+cognition that MNV can lead to significant visual impair -
+ment.64,89 Cases of foveal sparing atrophy with subfoveal 
+MNV in late -onset disease may easily be misdiagnosed as 
+AMD due to the resemblance between flecks and drusen on 
+fundus examination.69,190 To date, only a few case reports and series have described 
+the use of laser photocoagulation,89 PDT,75,86,175 and anti - 
+VEGF therapy14,16,152 in patients with phenotypes suggestive 
+of Stargardt disease, albeit some with incomplete genotyping 
+(Table 2). Focal laser is no longer recommended because of 
+collateral damage to the vulnerable RPE. Although the results 
+of PDT were varied, they were, in general, better than the 
+outcomes seen in neovascular AMD. The number of PDT 
+sessions ranged from 1 to 12 with variable visual outcomes 
+from 20/200 to 20/20. Ranibizumab has been reported to be 
+efficacious in reducing macular fluid in some patients with a 
+final VA outcome ranging from 20/400 to 20/30; however, 
+Battaglia Parodi and coworkers16 raised concerns that VEGF 
+inhibition may accelerate atrophy growth in Stargardt -re-
+lated MNV due to the vulnerability of the lipofuscin -rich RPE. 
+OCTA studies have shown profound choroidal flow signal 
+voids within the inner choroidal vasculature in Stargardt 
+disease compared to AMD. Rarefaction of the choriocapillaris 
+flow signals also extended beyond RPE atrophy in Stargardt 
+disease.1129,157 Thus, studies using OCTA in a genotyped 
+Stargardt disease cohort with MNV are essential to determine 
+the natural history and the role of anti -VEGF therapy. Fig. 3 
+illustrates a case of Stargardt disease -related MNV re-
+sponding to anti -VEGF with late visual loss secondary to 
+progressive macular atrophy.  
+3.2.  Pattern dystrophies 
+Pattern dystrophy is a term used to describe 5 phenotypically 
+distinct disorders, namely, adult -onset foveomacular vitelliform 
+dystrophy, butterfly -shaped pigment dystrophy, reticular dys-
+trophy, multifocal pattern dystrophy simulating Stargardt dis-
+ease, and fundus pulverulentus. Three of these phenotypes are 
+known to be associated with PRPH2 -related retinal dystrophy 
+(peripherinopathies ), whereas adult -onset foveomacular vitelli -
+form dystrophy is known to be associated with pathogenic 
+Fig. 2 – Optos pseudocolor and autofluorescence imaging of a 79-year-old female with genetically confirmed Doyne 
+honeycomb retinal dystrophy showing numerous macular drusen and peripapillary atrophy in the right eye (A, B). OCT 
+showed subretinal hyperreflective material and intraretinal cystoid changes consistent with macular neovascularization (C). 
+Visual acuity declined from 6/15–6/60 over a 5-month period of observation with worsening of the cystoid spaces (D). After 3 
+monthly ranibizumab injections, macular fluid resolved (E). The patient received a total of 35 injections using a treat and 
+extend protocol gradually stretching the interval to 12-weekly with no recurrence of fluid at 7 years (F). Visual acuity declined 
+to 6/38 due to early foveal atrophy.   7 SUR VEY OF OPHTHALMOLOGY 69 (2023) 1–23   Table 2 – Summary of Treatment Outcomes in Stargardt Disease and PRPH2-Associated Retinal Disease.          
+Disease Author Treatment Demographics at 
+Onset of MNV 
+(Case #) Baseline VA Final VA Follow-Up 
+Duration Comments  
+Stargardt Disease Klein et al.89 Xenon 
+photocoagulation (2) 53 F 
+OS only 20/200 (OS) 20/200 (OS) 8 y Recurrences documented.   
+Observation 14 F 
+OS only CF (OS) NR NR No treatment given.  
+Cheng et al.35 PDT (2) 40 F 
+OS only 6/120 (OS) 6/24 (OS) 3 y Onset during third trimester of pregnancy Sessions 3 
+months apart.  
+Souied et al.175 PDT (1) 71 F 
+OD 20/80 (OD) 20/32 (OD) 21 m    
+PDT (3) 74 F 
+OD 20/160 (OD) 20/100 (OD) 15 m    
+PDT (2) 70 F 
+OS 20/63 (OS) 20/50 (OS) 24 m   
+Kim et al.87 PDT (12 OD, 2 OS) 41 F 
+OD → OS 20/30 (OD) 
+20/20 (OS) 20/20 (OD) 
+20/20 (OS) 31 m Fellow eye developed MNV at 31 months.  
+Japiassu et al.75 PDT (2) 53 M 
+OU 20/30 (OD) 
+20/40 (OS) 20/30 (OD) 
+20/50 (OS) 6 m   
+Battaglia Parodi 
+et al.15 Ranibizumab (6 OD, 9 OS) 52 M 
+OU 20/32 (OD) 
+20/63 (OS) 20/100 (OD) 
+20/200 (OS) 30 m Pro re nata regimen.  
+Battaglia Parodi 
+et al.16 Ranibizumab (9) Case 1 20/60 20/200 24 m Atrophy enlarged from 5.2 to 7.6 mm2.   
+Ranibizumab (11) Case 2 20/60 20/30 24 m Atrophy enlarged from 0.1 to 1.0 mm2.   
+Ranibizumab (14) Case 3 20/50 20/200 24 m Atrophy enlarged from 1.7 to 4.1 mm2.  
+Querques 
+et al.152 Ranibizumab (3) 26 M 
+OD 20/800 (OD) 20/400 (OD) 6 m Monthly interval. 
+Peripherinopathies Xu et a.192 Ranibizumab (9) 50 M 
+OD 20/20 (OD) 20/20 (OD) 6 y p.Tyr184* 
+Pattern dystrophy with flecks.  
+Bianco et al.20 Ranibizumab (2) 47 M (IX.1) 
+OD 20/25 (OD) 20/25 (OD) 4 y p.Pro210Ser. Pattern dystrophy with flecks.   
+Ranibizumab (6) 46 F (X.1) 
+OD 20/20 (OD) 20/20 (OD) 5 y p.Met23Argfs*15. Pattern dystrophy with flecks.  
+Miyata et al.125 Ranibizumab (11) 
+Bevacizumab (2) 
+Pegaptanib (2) 
+Aflibercept (19) 56 F 
+OS 20/50 (OS) 20/100 (OS) 8 y p.Gly137Asp. RP phenotype. PRN treatment regimen 
+for 2 years then switched to bimonthly regimen for 6 
+years. 
+OS = left eye; OD = right eye; OU = both eyes; PDT = photodynamic therapy; RP = retinitis pigmentosa; MNV = macular neovascularization; PRN = pro re nata. NR = not reported.    8 SUR VEY OF OPHTHALMOLOGY 69 (2023) 1–23   variants in BEST1,77 IMPG1 , and IMPG2.119 Peripherinopathies will 
+be discussed separately below given their variable phenotypes. 
+Butterfly -shaped pigment dystrophy can also be associated with 
+CTNNA1 variants.161 Pattern dystrophy seen with myotonic 
+dystrophy has been associated with MNV.197 The increasing 
+use of OCT and OCTA has improved the detection of types 
+1 and 3 MNV in adult -onset foveomacular vitelliform dys-
+trophy76,103,144,153,154 by allowing direct visualization of flow sig-
+nals within the MNV network.149 A large retrospective case 
+series reported stable visual acuity in adult -onset foveomacular 
+vitelliform dystrophy -related MNV with ranibizumab therapy;123 
+however, spontaneous resolution of MNV in pattern dystrophy 
+has also been described emphasizing the need for caution when 
+interpreting favorable results in interventional case series.5 MNV 
+and its treatment with anti -VEGF therapy have also been re-
+ported in cases of North Carolina macular dystrophy10 and a 
+genetically uncharacterized cone dystrophy.60 
+Peripherinopathy can manifest as butterfly pattern dys-
+trophy, vitelliform macular dystrophy, central areolar chor -
+oidal dystrophy, pattern dystrophy simulating fundus 
+flavimaculatus, and RP.66 Symptoms and age of onset vary 
+depending on the phenotype with some patients remaining 
+asymptomatic. MNV occurs frequently in peripherinopathy 
+pedigrees affecting 5%–18% of cases.85,88,186 Oishi and cow -
+orkers137 reported 40 Japanese patients from 30 families with 
+PRPH2 -associated retinal dystrophy and found MNV in only 2 
+patients (5%, aged 49 and 55) with an RP phenotype, of which 
+one had concurrent high myopia. Antonelli and coworkers7 
+examined 28 subjects from 11 unrelated families carrying 
+pathogenic heterozygous PRPH2 variants and found MNV in 5 patients (18% ) of which extensive chorioretinal atrophy was 
+found in 2, pattern dystrophy in 2, and central areolar chor -
+oidal dystrophy in 1. The authors concluded that OCTA was 
+highly informative for MNV detection despite the presence of 
+extensive chorioretinal atrophy. 
+Single cases of clinically suspected or genetically confirmed 
+that PRPH2 -associated retinal dystrophy has illustrated excellent 
+long -term visual outcomes over a 7-year period with a single 
+session of PDT17,99 or only a few anti -VEGF injections 
+(Table 2).44,99,134,186,192 One of the 2 patients reported by Oishi and 
+coworkers developed bilateral sequential MNV 8 years apart and 
+received > 60 anti -VEGF injections over 13 years.137 Despite bi-
+lateral anti -VEGF therapy, visual acuity declined to 20/100 and 
+20/50 due to progressive atrophy.125,137 Bianco and coworkers20 
+reported 2 of 19 patients (11% ) aged 46 and 47 years with mul -
+tifocal pattern dystrophy to exhibit exudative MNV receiving 
+only 6 and 2 anti -VEGF injections, respectively, to maintain a 
+visual acuity of 20/20 and 20/25 over 4–5 years. OCTA may play a 
+role in identifying asymptomatic type 1 MNV44 and monitoring 
+for disease recurrence with a pro re nata treatment regimen.192 
+Phenotypic risk factors for MNV formation in PRPH2 remain 
+unknown as the current literature consists of only a small case 
+series.68 Fig. 4 illustrates a case of stable type 1 MNV in PRPH2 - 
+related retinal dystrophy after 1 year of anti -VEGF therapy.  
+3.3.  Bestrophinopathies 
+Dominant and recessive bestrophinopathies exhibit over -
+lapping clinical features146 including Best vitelliform macular 
+Fig. 3 – Spectralis 55° fundus autofluorescence imaging of an 81-year-old man with genetically confirmed Stargardt disease 
+showing hyperautofluorescent flecks in the macular and peripapillary region (A) and central atrophy that expanded 6 years 
+later to involve the fovea (B). OCT imaging at presentation showed subfoveal type 1 macular neovascularization with 
+subretinal hyperreflective material causing visual decline to 6/30 (C). At 1 month after the first injection, the fluid resolved 
+with improved visual acuity to 6/15 (D). The macula remained dry at 16 weeks. E: OCT scans after a total of 28 injections at 6 
+years showed no fluid (E). Note that the juxtafoveal atrophy encroaching into the fovea limited the visual acuity to only 6/19. 
+OCT angiography at baseline showed no obvious flow signal at the site of the pigment epithelial detachment (PED) (F). Once 
+fluid resolved, flow signals within the PED were better visualized showing a neovascular network.   9 SUR VEY OF OPHTHALMOLOGY 69 (2023) 1–23   dystrophy with multifocal vitelliform lesions, which may be 
+accompanied by 1, 2, or 3 type MNV.72,84,124,165,196 These can 
+be exudative (typically in the early stages, 2–3) or non -
+exudative (usually in the late stages, 4–5). 21 
+With clinical examination alone, MNV was found in only 
+2%–9% of BVMD.37,122,127 Using spectral domain -OCT, a larger 
+case series of recessive bestrophinopathies by Kim and cow -
+orkers87 and Khan and coworkers31 showed 10% and 14% of 
+patients, respectively, exhibiting features suspicious of MNV (i.e., 
+pigment epithelial detachment with or without focal choroidal 
+excavation ). OCTA has improved the detection of MNV144,168 
+with Guduru and coworkers59 reporting 6 of 10 (60% ) patients 
+and Battaglia Parodi and coworkers18 showing that 24 of 66 (36% ) 
+eyes had MNV, most observed with stage 4 and 5 lesions. It is 
+now recognized that MNV is no longer confined to stage 6 dis-
+ease as once proposed.49 MNV can be observed in earlier stages 
+potentially altering the natural course of vitelliform lesions.38,62 
+For example, Han and coworkers showed that 63% of eyes with 
+Gass stage 2 vitelliform lesions had OCTA evidence of MNV. A 
+new classification was proposed, whereby MNV may form in 
+stage 2 or 3 in response to impaired choroidal perfusion as de-
+monstrated by Guduru and coworkers in their OCTA study.59 
+Initially, the MNV was covered by intact RPE forming a type 1 
+configuration with stable visual acuity. Loss of RPE integrity with 
+or without a breakthrough of the MNV (type 2) leads to reabsorption of the subretinal deposit and collapse of the vi-
+telliform lesion resulting in the visual loss (stage 4). Reversal to 
+stage 2 or 3 with recovery of vision may occur when RPE integrity 
+is restored through spontaneous or anti -VEGF -induced MNV re-
+gression. Han and coworkers found 2 structural features to be 
+associated with MNV: subretinal pillars and focal choroidal ex-
+cavation.59 
+In a retrospective review of 14 eyes from 12 patients (11 
+with BVMD ), Khan and coworkers84 reported that MNV was 
+typically active prior to stage 4, developing at a mean age of 
+15.5 years (range: 6–72 ). Over a median follow -up period of 2.8 
+years, they reported a high rate of spontaneous regression of 
+BEST1 -related MNV although active treatment with in-
+travitreal bevacizumab was associated with statistically 
+better visual acuity outcomes (logMAR ) than observation 
+alone (−0.46 versus 0.17, Table 3). Here, 7 eyes were treated 
+with intravitreal bevacizumab, while 7 eyes underwent ob-
+servation. Interestingly, most patients only required a single 
+intravitreal injection (median 1, range: 1–10 ). Similarly, 
+Miyagi and coworkers showed no significant visual gain with 
+ranibizumab in patients with BVMD (Table 3).115 
+In a retrospective case series of 27 unrelated recessive 
+bestrophinopathy patients, Casalino and coworkers31 re-
+ported SRF in 75% at presentation with almost 50% of the SRF 
+located within the subfoveal region. Importantly, SRF did not 
+Fig. 4 – Color fundus photo (A) and fundus autofluorescence images (B) of a 63-year-old female with genetically confirmed 
+peripherinopathy showing multifocal pattern dystrophy that simulates fundus flavimaculatus. An OCT scan at age 61 
+showed an asymptomatic subfoveal vitelliform lesion (C), which remained stable until age 63 when she presented with new 
+onset distortion due to an acute increase in subfoveal hyperreflective material secondary to an exudative macular 
+neovascularization (D). At 1 year, after receiving 10 anti-VEGF injections using a treat and extend regimen, her visual acuity 
+was 6/7.5, and there was no macular fluid at 10 weeks posttreatment (E). Treatment was withheld and visual acuity was 
+maintained at 6/7.5 for the following 4 years after cessation of anti-VEGF therapy. OCT angiography showed a flow signal 
+within the shallow vascularized PED indicating the persistence of the nonexudative type 1 macular neovascularization (F).   10 SUR VEY OF OPHTHALMOLOGY 69 (2023) 1–23   Table 3 – Summary of Treatment Outcomes Bestrophinopathies and Pseudoxanthoma Elasticum.          
+Disease Author Treatment Demographics at Onset 
+of MNV 
+(Case #) Baseline VA Final VA Follow-Up Duration Comments  
+Bestrophinopathy Miyagi 
+et al.115 Bevacizumab (12) 51 M OD BVMD 20/40 Unknown Unknown p.Pro297Thr 
+Ranibizumab  
+(2) + PDT 76 M OD BVMD 20/250 20/250 108 m p.Arg218His 
+Ranibizumab (2) 35 F OD BVMD 20/40 20/20 2 m p.Leu100Pro      
+No improvement despite anti-VEGF 
+treatment.      
+MNV developed in 1 BVMD patient despite 
+anti-VEGF treatment.  
+Khan et al.31 Bevacizumab (1)  9 OD 20/32 20/65 18 m p.Arg218Cys, ARB  
+Bevacizumab (1)  20 OS 20/40 20/140 18 m p.Ser16Phe, ARB  
+Bevacizumab (10) 24 OD 20/80 20/80 48 m p.Arg105Gly, ARB 
+Bevacizumab (2) 28 OD 20/32 20/200 24 m p.Phe298Val, ARB 
+Bevacizumab (1) 18 OD 20/40 20/200 12 m Not known, ARB 
+Bevacizumab (1) 10 OD 20/32 20/140 10 m Not known, ARB 
+Bevacizumab (3) 19 OD 20/32 20/200 10 m Not known, ARB      
+SRF present at final follow-up in all eyes. 
+Pseudoxanthoma 
+Elasticum Gliem et al.53 Aflibercept 15 patients 
+Mean age 53 (22–65) 20/32 20/32 12 m One injection then monthly PRN 
+Mean #injection = 6.7  ±  2.6 at 12 months 
+5 with persistent or reactivated MNV at the 
+final visit.  
+Iacono et al.70 Bevacizumab 15 patients 
+Mean age 59  ±  10 20/28 20/50 36 m Mean #injection = 5.2  ±  2.7 (1–10) at 36 
+months.  
+Lai et al.94 Ranibizumab 
+Sham 18 patients 
+9 patients NR 
+NR +11 letters 
+-3.5 letters 2 m Treatment effect of 14.6 letters of 
+ranibizumab compared to sham.  
+Sekfali 
+et al.166 Aflibercept 13 patients 
+14 eyes 20/50 20/63 12 m Persistence of fluid in 39% after switching.  
+Tilleul 
+et al.183 Ranibizumab 27 patients 
+35 eyes 
+Mean age 64  ±  14 20/43 14% gained 3 
+lines 
+49% no change 
+37% lost 3 lines 49 m 
+(8–66 m) Mean #injection = 9.9  ±  7.2 (2–26) at 48 
+months. 
+Persistent angiographic leak in 23%.  
+Torres-Costa 
+et al.184 Ranibizumab 
+Bevacizumab 
+Aflibercept 29 patients 
+39 eyes 
+Mean age 53  ±  12 20/63 20/50 48 m 
+(36–135) Mean #injection = 10.8  ±  9.0 (2–44) at 48 
+months.  
+Rohart 
+et al.160 Ranibizumab 
+Aflibercept 
+Bevacizumab 23 patients 
+33 eyes 
+Mean age 57  ±  8 20/50 20/100 109 m + /- 42 m Mean #injection = 21  ±  25 at end of 
+follow-up. 
+anti-VEGF = anti-vascular endothelial growth factor; OS = left eye; OD = right eye; PDT = photodynamic therapy; ARB = autosomal recessive bestrophinopathy; MNV = macular neovascularization; 
+BVMD = Best vitelliform macular dystrophy; NR = not reported; PRN = pro re nata.    11 SUR VEY OF OPHTHALMOLOGY 69 (2023) 1–23   change significantly over time in 3 patients with type 2 MNV 
+and 1 with type 1 MNV. Type 3 MNV has been reported in 
+recessive bestrophinopathy although the accompanying 
+macular fluid was not responsive to anti -VEGF therapy. This 
+suggests a disrupted blood -retina barrier or RPE pump dys-
+function.196 Indications for treating MNV remain con -
+troversial due to our evolving understanding of the life cycle 
+of MNV in relation to the formation of a vitelliform lesion and 
+the presence of SRF. Some advocate for a conservative ap-
+proach guided by fluorescein leakage,141 while others re-
+commend a trial of anti -VEGF when a transition from stage 2/ 
+3 to stage 4 occurs. Here, the intent is to reconstitute SRF and 
+the vitelliform lesion.62 Fig. 5 illustrates a case of fluctuating 
+MNV activity in a recessive bestrophinopathy case observed 
+over 10 years without treatment.  
+3.4.  PXE 
+Angioid streaks in PXE represent breaks in a calcified Bruch 
+membrane, which predisposes to the formation of multifocal 
+MNV in up to 86% of patients51,55 The natural history of un-
+treated MNV in PXE is poor, with visual acuities declining to 
+< 20/200 in the fourth decade to the fifth decade due to the 
+development of a disciform scar and atrophy.54 
+A literature review of 54 studies (> 160 cases ) using anti - 
+VEGF therapy or PDT for PXE -related MNV showed a 6-line 
+improvement in visual acuity with both treatment mod -
+alities.54 While laser photocoagulation of extrafoveal lesions 
+provided similar results to PDT, the authors cautioned against its use due to frequent MNV recurrences and laser - 
+induced scotomas.160 There was no benefit in combining 
+PDT with anti -VEGF therapy.54 More recent prospective 
+interventional case series and randomized controlled trials 
+support the safety and efficacy of anti -VEGF monotherapy 
+across all 3 agents (bevacizumab, aflibercept, and ranibi -
+zumab ),53,70,94,142,166 while long -term (> 4 years ) retrospective 
+case series demonstrated that visual acuity can be main -
+tained with close monitoring and retreatment for MNV re-
+currences.160,166,183,184 A summary of the outcome data from 
+these prospective and retrospective studies is summarized in  
+Table 3. Fig. 6 illustrates a case of PXE with prompt response 
+to 2 anti -VEGF injections with no recurrence after 2 years.  
+4.  Centripetal diseases including choroidal 
+dystrophies 
+This group of disorders has a predilection for early peripheral 
+retinal involvement with rod greater than cone system dys-
+function on electrophysiology. The centripetal IRDs of most 
+interest with respect to MNV are those associated with NR2E3 
+(MIM#694485 ) or enhanced S-cone syndrome (ESCS ) and CHM 
+(MIM#399389 ) or choroideremia.  
+4.1.  ESCS or Goldmann -Favre syndrome 
+Patients with ESCS typically manifest early onset nyctalopia 
+with increased sensitivity to blue light. Visual acuity often 
+remains stable, and electroretinography shows a slow 
+Fig. 5 – Optos imaging of a 9-year-old boy with a genetically confirmed recessive bestrophinopathy showing extensive 
+multifocal subretinal vitelliform lesions (A) that were hyperautofluorescent (B). Visual acuity declined from 6/15–6/19 during 
+10 years of observation. This was associated with a reduction in the vitelliform lesions and subsequent formation of 
+subfoveal fibrotic scar (C, D). OCT at baseline showed intraretinal cystoid changes with subretinal fluid and vitelliform 
+deposits (E). At age 13, subretinal hyperreflective material was noted adjacent to the fovea (F). A month later, a well-defined 
+PED was noted (G). Six months later, the PED collapsed, accompanied by the resolution of intraretinal and subretinal fluid (H). 
+Intraretinal cystoid changes returned gradually and after 10 years, and there was cystoid cavitation in the macula (I). En face 
+OCT angiography shows a neovascular network (J) that corresponded to the flow signal within the collapsed PED (K). This 
+flow signal persisted with a recurrence of subretinal and intraretinal fluid 2 months later (L).   12 SUR VEY OF OPHTHALMOLOGY 69 (2023) 1–23   decline in parallel to age-related changes.30 Color funduscopy 
+shows nummular pigmentary changes along the vascular 
+arcades at the level of the RPE in 86%, yellow -white dots in 
+57%, foveomacular schisis in 41%, torpedo -like lesion in 11%, 
+and circumferential subretinal fibrosis in 7%.30 
+In a recent large case series, Alsalamah and coworkers4 
+reported subretinal fibrosis in 47% of their cohort and pro-
+posed 2 types of stable subretinal fibrotic reactions: a central 
+macular unifocal fibrotic nodule and circumferential sub-
+retinal fibrosis. Nowilaty and coworkers hypothesized that 
+the former is closely related to the formation and/or regres -
+sion of type 3 MNV,106,136,195 as demonstrated by FA or OCTA. 
+These 2 phenotypes of subretinal fibrosis do not coexist in 
+the same eye. Retinochoroidal anastomosis has been ob-
+served in children as young as 2 years of age. 
+Active lesions demonstrating hemorrhage and exudation 
+have been treated with anti -VEGF agents with limited struc -
+tural and functional improvement. In all cases, the type 3 
+MNV evolved into a central macular unifocal fibrotic nodule 
+surrounded by a depigmented halo.4136 One patient in Now -
+ilaty and coworkers’ series received a subretinal tissue 
+plasminogen activator for the displacement of a massive 
+subretinal hemorrhage associated with a type 3 MNV re-
+sulting in marked visual improvement. These peculiar sub-
+retinal fibrotic reactions within the central or paramacular 
+region may lead to a misdiagnosis of inflammatory eye disease in a pediatric cohort.4135 Given the recent findings of 
+type 3 MNV in ESCS, further OCTA investigations should be 
+considered when re-examining previously published cases of 
+choroidal neovascularization (i.e., type 1 or type 2 
+MNV ).19,27,32,95,114,133,135,162 The role of anti -VEGF therapy in 
+active type 3 MNV remains uncertain. However, a trial of anti - 
+VEGF therapy may have a role in those with acute visual 
+decline secondary to exudative and hemorrhagic type 3 MNV.  
+Fig. 7 illustrates an unusual combination of central and cir-
+cumferential multifocal subretinal fibrotic lesions in the 
+same eye of a patient with ESCS. The central lesions were 
+type 3 MNV based on OCTA.  
+4.2.  Choroideremia and choroideremia carriers 
+MNV is a known, but rare, complication seen in choroider -
+emia and CHM carriers. Untreated MNV tends to result in 
+subretinal fibrosis.41,148,159,163 Similarly, untreated MNV in 
+CHM carriers results in poor visual outcomes, as shown in 2 
+previous reports;41 however, Compos -Pavon and Torres - 
+Pena29 reported spontaneous resolution of MNV in a 30-year - 
+old man with choroideremia, who presented with a visual 
+acuity 20/100 and an associated macular hemorrhage. By 
+6 months, the MNV had resolved, and vision improved to 
+20/25. 
+Fig. 6 – Optos imaging of a 46-year-old woman with genetically confirmed pseudoxanthoma elasticum showing angioid 
+streaks (A) and peripapillary hyperautofluorescent subretinal deposits (B). Two years later, she presented with new onset 
+distortion in the left eye due to a subfoveal hemorrhage (C, D). En face OCTA at baseline showed a normal deep vascular 
+plexus (E) and a subfoveal nonexudative vascularized PED as shown by the central flow signal (F) within the PED (G). Two 
+years later, OCT imaging showed subretinal hyperreflective material from the bleed due to active type 1 macular 
+neovascularization. This resolved after receiving 2 ranibizumab injections and visual acuity was maintained at 6/6 at 2 years 
+after treatment.   13 SUR VEY OF OPHTHALMOLOGY 69 (2023) 1–23   Luttrell and Breazeale104 reported laser photocoagulation 
+of an extrafoveal MNV in an 11-year -old boy with choroider -
+emia, and vision improved from 20/200 to 20/30. Two reports 
+of bevacizumab in 13-year -old boys with MNV showed that 
+visual acuity could be maintained with 6 and 10 injections, 
+respectively, over a 1-year period.34,139 Ranjan and coworkers 
+reported that only 5 ranibizumab injections were required 
+over a 3-year period to treat a 13-year -old male with subfoveal 
+MNV secondary to choroideremia;156 however, Patel and 
+coworkers144 reported a case of a 14-year -old boy with chor -
+oideremia requiring bevacizumab injections every 4–8 weeks 
+initially in the left eye. Over a period of 16 months, he re-
+ceived a total of 13 injections, and his vision improved from 
+20/200 to 20/50. At 24 months, no injection was administered, 
+and his vision again dropped to 20/100 with an increase in 
+SRF. OCTA in this case showed a persistent flow signal within 
+the subretinal tissue unlike other reported cases where the 
+MNV lesions resolved completely. Ang and coworkers6 de-
+scribed a 44-year -old choroideremia carrier with a subfoveal 
+MNV located at the edge of myopic chorioretinal atrophy. 
+Macular fluid responded promptly to anti -VEGF injections, 
+but recurrences over 2 years and 10 months required a total 
+of 14 injections. Given the severe myopic chorioretinal 
+atrophy and the location of the new vessel, it may be more     likely that the MNV was secondary to myopia. Fig. 8 illus -
+trates a case of a female CHM carrier with type 2 MNV re-
+sponding promptly to anti -VEGF treatment with no 
+recurrence following 2 years of observation.  
+4.3.  Other choroidal dystrophies and RP 
+Three choroidal dystrophies have been associated with MNV: 
+GA (MIM#258870 ), Bietti crystalline corneoretinal dystrophy 
+(MIM#210370 ), and dominant RPE65 -related chorioretinal 
+dystrophy (RP87, MIM#618697 ). Furthermore, 10 cases of ge-
+netically uncharacterized RP have reported MNV. 
+GA, caused by a deficiency in the vitamin B6-dependent 
+mitochondrial matrix enzyme ornithine ketoacid amino -
+transferase, has been associated with subfoveal MNV.112 
+Chatziralli and coworkers33 reported a 35-year -old male with 
+GA responding promptly to 3 ranibizumab injections with no 
+recurrence of SRF at 6 months. His visual acuity improved 
+from 6/60 to 6/48. Inanc and coworkers71 reported a 20-year - 
+old man with bilateral MNV responding to a single dose of 
+bevacizumab with no additional treatment required at 1 year. 
+Bietti crystalline corneoretinal dystrophy is caused by 
+biallelic mutations in CYP4V2 and results in altered fatty acid 
+metabolism. Bietti crystalline corneoretinal dystrophy has 
+Fig. 7 – Optos imaging (A) of an 18-year-old male with genetically confirmed enhanced S-cone syndrome showing an 
+unusual co-occurrence of central bifocal (2 white arrows in insert) and circumferential multifocal nodular fibrotic lesions. 
+There were peripapillary hyperautofluorescent subretinal deposits (B). Three years later, there was no significant change (C, 
+D). OCT angiography of the deep vascular plexus shows dilated vessels feeding and draining the 2 central nodular fibrotic 
+lesions (E), which had internal flow signals in the outer retina slab (F). Flow signals can be seen connecting the vascular 
+structures within the 2 fibrotic nodules with the retinal vasculature (G, H), indicating a type 3 macular neovascularization 
+(MNV). His visual acuity remained at 6/9.5 in the right eye with no anti-VEGF treatment.   14 SUR VEY OF OPHTHALMOLOGY 69 (2023) 1–23   been associated with peripapillary choroidal neovascular -
+ization8 and MNV46,61,90,101,108,111,130,182,188 Several cases re-
+ported the presence of subretinal fibrosis at presentation 
+suggestive of a self-limiting natural history61,90 Other case 
+reports demonstrated regression of MNV to a fibrotic scar 
+with anti -VEGF therapy.46,108,130,182 Given the similar anato -
+mical outcomes, it remains to be seen if anti -VEGF therapy is 
+superior to observation. 
+Dominant RPE65 -related chorioretinal dystrophy has been 
+shown to develop MNV in 1 member of an Australian family 
+harboring the RPE65 p.(Asp477Gly ) variant.140 The coin -
+heritance of a BEST1 p.(Arg13Cys ) may have contributed to 
+the formation of this stable MNV lesion over 4 years of ob-
+servation. To date, only 10 cases of ungenotyped RP have 
+been reported to develop MNV. Seven13,35,73,107,111 had type 2 
+MNV, and 3 had type 3 MNV.2132,164 These cases were treated 
+with laser photocoagulation,111 PDT,35 or anti -VEGF 
+agents2,13,107,164 with variable visual outcomes. Type 2 MNV 
+secondary to RP required between 1 and 5 injections during 
+the first year,13,107 while type 3 MNV required 8–10 injec -
+tions.3164 As previously discussed, MNV secondary to PRPH2 - related RP may require more intensive and ongoing use of 
+anti -VEGF agents.125,137 Fig. 9 illustrates a case of dominant 
+RP and an x-linked RP carrier with untreated MNV.  
+4.4.  Iatrogenic MNV secondary to gene therapy 
+Advancements in subretinal gene therapy hold promise for the 
+stabilization and even reversal of some IRDs. Recent progress in 
+clinical trials and regulatory approval of subretinal voretigene 
+neparvovec gene therapy (Luxturna™ ) for RPE65 -associated re-
+tinopathy requires clinicians to be aware of any potential com -
+plications following these surgical procedures. Traumatic MNV 
+has been reported with vitreoretinal surgery. Price and cow -
+orkers150 documented a case of iatrogenic MNV developing 1 
+month post Luxturna™ surgery. Intraoperatively, a small sub-
+retinal hemorrhage was noted beneath the retinotomy site. 
+Postoperatively, multimodal imaging was able to identify a break 
+in Bruch membrane at the retinotomy site outside the macula 
+region. Notably, the 16-year -old remained asymptomatic and the 
+MNV regressed spontaneously without treatment. 
+Fig. 8 – Optos imaging of a 58-year-old female choroideremia carrier showing diffuse chorioretinal atrophy (A) and large 
+well-defined regions of RPE atrophy throughout the fundus (B). Near-infrared reflectance at baseline showed a central island 
+of RPE remaining supporting a visual acuity of 6/7.5 (C). This small island reduced in size over 4 years (D) when she returned 
+with a sudden reduction in vision to 6/15. OCT at baseline showed central preservation of the outer nuclear layers in the 
+fovea (E). A subfoveal hyperreflective lesion developed 4 years later coinciding with acute vision loss (F). OCT angiography 
+showed loss of the choriocapillaris outside the central RPE island (G) and a small speck of flow signal within the type 2 
+macular neovascularization. This hyperreflective lesion resolved after 2 ranibizumab injections, and visual acuity was 
+maintained at 6/12 without further injections for another 2 years.   15 SUR VEY OF OPHTHALMOLOGY 69 (2023) 1–23   5.  Conclusions 
+This review highlights the diverse phenotypic spectrum of 
+IRD-related MNV and the clinical utility of multimodal ima -
+ging including OCTA for the accurate diagnosis and mon -
+itoring of treatment responses and documenting the natural 
+history. To date, OCTA has enabled the detection, char -
+acterization, and quantification of CNV size and facilitated an 
+assessment of treatment responses in patients with IRDs 
+despite their often distorted intraretinal and subretinal ar-
+chitecture. Although the literature contains reports of spon -
+taneous MNV regression, most have demonstrated the 
+resolution of intraretinal fluid and SRF in response to in-
+travitreal anti -VEGF treatment. Given the rarity of many IRDs, 
+international collaboration is required to harness adequate 
+sample sizes for randomized controlled trials examining structural and functional outcomes using well -defined treat -
+ment protocols. Importantly, clinicians caring for IRD pa-
+tients should consider the possibility of MNV development 
+when patients present with acute visual loss and offer timely 
+treatment with anti -VEGF to prevent irreversible changes.  
+5.1.  Methods of literature search 
+We conducted a systemic Medline database search on PubMed 
+(October 10, 2022 ) using the following MeSH headings: choroidal 
+neovascularization, MNV, RP, retinal dystrophy, macular dys-
+trophy, Stargardt disease, pattern dystrophy, vitelliform macular 
+dystrophy, choroidal dystrophy, ABCA4 -associated retinal dys-
+trophy, SFD, LORD, DHRD, PXE, angioid streaks, BEST1 , NR2E3 , 
+ESCS, autosomal recessive bestrophinopathy, peripherinopathy, 
+ABCC6 , choroideremia, GA, pattern dystrophy, PRPH2 -associated 
+Fig. 9 – Optos imaging of a 63-year-old male with genetically confirmed dominant retinitis pigmentosa characterized by bone 
+spicules and white dots peripherally (A). Areas of hypoautofluorescent were seen in the mid-peripheral retina (B). OCT at 
+baseline showed a PED with shallow subretinal fluid (C). Given the absence of recent visual decline, this was observed for 4 
+years with stable visual acuity of 6/9.5. At the most recent visit, OCT angiography confirmed a stable type 1 macular 
+neovascularization (MNV) (D) with normal deep retinal vascular plexus (E), a neovascular network within the outer retinal 
+layer (F), and preserved choriocapillaris surrounding the type 1 MNV. Optos imaging of a 21-year-old female carrier with a 
+history of x-linked retinitis pigmentosa showing subfoveal hemorrhage (H) and the typical tapetal-like reflex on fundus 
+autofluorescence imaging (I). OCT at baseline showed thick subfoveal hyperreflective blood reducing visual acuity to 6/30. 
+Angiography did not show leakage, and the patient returned 2 weeks later with OCT angiography showing a reduction in the 
+submacular hemorrhage with no convincing flow signal within the nodular lesion arising from the RPE layer (K). After 7 
+months of observation, the subretinal hemorrhage had resolved spontaneously but visual acuity only returned to 6/15 
+(compared to 6/9.5 prior to the bleed) due to disruption of the outer retinal layers.   16 SUR VEY OF OPHTHALMOLOGY 69 (2023) 1–23   retinal dystrophy, RPE65-related chorioretinal dystrophy, 
+CYP4V2, OCTA, and anti-VEGF to identify publications through 
+June 11, 2023 (no lower time limit imposed). We identified fur-
+ther articles from the reference lists of the retrieved articles. This 
+review primarily relied on articles written in English. However, 
+we reviewed non-English language articles that had abstracts 
+translated. 
+Disclosures 
+The authors report no commercial or proprietary interest in 
+any product or concept discussed in this article. 
+Ethics statement 
+Patients have given consent for these images to be used in a 
+prospective study approved by the Human Research Ethics 
+Office of the University of Western Australia (2021/ET000151). 
+Funding information 
+This study was supported by the National Health & Medical 
+Research Council of Australia (project and fellowship grant 
+numbers: GNT1116360 (FKC), GNT1188694 (FKC), GNT1054712 
+(FKC), and MRF1142962 (FKC), the McCusker Foundation 
+(FKC), the Miocevich Retina Fellowship (RCHJ), and the 
+Telethon Trust (FKC). 
+Declaration of Competing Interest 
+None. 
+REFERENCES  
+1.Alabduljalil T, Patel RC, Alqahtani AA, et al. Correlation of 
+outer retinal degeneration and choriocapillaris loss in 
+stargardt disease using en face optical coherence 
+tomography and optical coherence tomography angiography. 
+2019/02/17 Am J Ophthalmol. 2019;202:79–90. 
+2.Aloe G, De Sanctis CM, Strafella C, et al. Bilateral retinal 
+angiomatous proliferation in a variant of retinitis 
+pigmentosa.  2019/08/31 Case Rep Ophthalmol Med. 
+2019;2019:8547962. https://doi.org/10.1155/2019/8547962 
+PMID: 31467752; PMCID: PMC6699319. 
+3.Aloe G, De Sanctis CM, Strafella C, et al. Bilateral retinal 
+angiomatous proliferation in a variant of retinitis 
+pigmentosa.  Jul 31 Case Rep Ophthalmol Med. 2019;2019:1–5. 
+4.Alsalamah AK, Khan AO, Bakar AA, Schatz P, Nowilaty SR. 
+Recognizable patterns of submacular fibrosis in enhanced S- 
+cone syndrome.  2021/04/06 Ophthalmol Retina. 
+2021;5(9):918–27. 
+5.Anastasakis A, Goleni F, Livir-Rallatos G, et al. Spontaneous 
+regression of choroidal neovascularization in a patient with 
+pattern dystrophy.  2016/11/17 Case Rep Ophthalmol Med. 
+2016;2016:9685290. https://doi.org/10.1155/2016/9685290. 
+Epub 2016 Oct 26. PMID: 27847664; PMCID: PMC5101379. 
+6.Ang JL, Wright AF, Dhillon B, Cackett P. Choroidal 
+neovascularisation in a predicted female choroideraemia 
+carrier treated with intravitreal anti-vascular endothelial growth factor.  2021/04/23 Eur J Ophthalmol. 
+2021;31(1_suppl):4–10. 
+7.Antonelli G, Parravano M, Barbano L, et al. Multimodal study 
+of PRPH2 gene-related retinal phenotypes. Diagnostics 
+(Basel). 2022;12(8) https://doi.org/10.3390/ 
+diagnostics12081851 PMID: 36010202; PMCID: PMC9406607. 
+8.Atmaca LS, Muftuoglu O, Atmaca-Sonmez P. Peripapillary 
+choroidal neovascularization in Bietti crystalline retinopathy. 
+2006/12/19 Eye (Lond). 2007;21(6):839–42. 
+9.Ayyagari R, Griesinger IB, Bingham E, et al. Autosomal 
+dominant hemorrhagic macular dystrophy not associated 
+with the TIMP3 gene.  2000/01/15 Arch Ophthalmol. 
+2000;118(1):85–92. 
+10.Bakall B, Bryan 3rd JS, Stone EM, Small KW. Choroidal 
+neovascularization in North Carolina macular dystrophy 
+responsive to anti-vascular endothelial growth factor 
+therapy.  2018/11/02 Retin Cases Brief Rep. 2021;15(5):509–13. 
+11.Balaskas K, Hovan M, Mahmood S, Bishop P. Ranibizumab for 
+the management of Sorsby fundus dystrophy.  Jan 26 Eye. 
+2013;27(1):101–2. 
+12.Baston A, Gerhardt C, Zandi S, Garweg JG. Visual outcome 
+after intravitreal anti-VEGF therapy for macular 
+neovascularisation secondary to Sorsby’s fundus dystrophy: 
+a systematic review. J Clin Med. 2021;10(11):2433. PMID: 
+34070857; PMCID: PMC8198854. https://doi.org/10.3390/ 
+jcm10112433. 
+13.Battaglia Parodi M, De Benedetto U, Knutsson KA, et al. 
+Juxtafoveal choroidal neovascularization associated with 
+retinitis pigmentosa treated with intravitreal 
+bevacizumab.  2011/12/14 J Ocul Pharmacol Ther. 
+2012;28(2):202–4. 
+14.Battaglia Parodi M, De Benedetto U, Knutsson KA, Bandello 
+FM. Bilateral choroidal neovascularization associated with 
+bilateral ABCA4 gene mutation.  2011/07/26 Eur J Ophthalmol. 
+2012;22(3):485–7. 
+15.Battaglia Parodi M, Iacono P, Bandello F. Antivascular 
+endothelial growth factor in hereditary dystrophies.  2010/08/ 
+13 Dev Ophthalmol. 2010;46:107–10. 
+16.Battaglia Parodi M, Munk MR, Iacono P, Bandello F. 
+Ranibizumab for subfoveal choroidal neovascularisation 
+associated with Stargardt disease.  2015/03/06 Br J 
+Ophthalmol. 2015;99(9):1268–70. 
+17.Battaglia Parodi M, Da Pozzo S, Ravalico G. Photodynamic 
+therapy for choroidal neovascularization associated with 
+pattern dystrophy.  2003/04/23 Retina. 2003;23(2):171–6. 
+18.Battaglia Parodi M, Romano F, Cicinelli MV, et al. Retinal 
+vascular impairment in Best vitelliform macular dystrophy 
+assessed by means of optical coherence tomography 
+angiography.  2017/12/31 Am J Ophthalmol. 2018;187:61–70. 
+19.Bertoli F, Pignatto S, Rizzetto F, Lanzetta P. A 5-year-old case 
+of choroidal neovascularization in enhanced S-cone 
+syndrome treated with ranibizumab.  2019/01/29 Case Rep 
+Ophthalmol. 2018;9(3):510–5. 
+20.Bianco L, Arrigo A, Antropoli A, et al. PRPH2-associated 
+retinopathy: novel variants and genotype-phenotype 
+correlations. Ophthalmol Retina. 2023;7(5):450–61. 2022/ 
+12/24. 
+21.Bianco L, Arrigo A, Antropoli A, et al. Multimodal imaging in 
+Best vitelliform macular dystrophy: literature review and 
+novel insights. Eur J Ophthalmol. 2023:112067212311664. 
+https://doi.org/10.1177/11206721231166434. Epub ahead of 
+print. PMID: 36972471. 
+22.Van Bol L, Balikova I, Rasquin F. Peripheral polypoidal 
+choroidal vasculopathy in Sorsby fundus dystrophy:  
+report of two cases.  2021/10/19 J Fr Ophtalmol. 
+2021;44(10):e623–7. 
+23.Borooah S, Collins C, Wright A, Dhillon B. Late-onset retinal 
+macular degeneration: clinical insights into an inherited retinal 
+degeneration.  (Mar) Br J Ophthalmol. 2009;93(3):284–9. 17 SUR VEY OF OPHTHALMOLOGY 69 (2023) 1–23   24.Borooah S, Papastavrou V, Lando L, et al. Reticular 
+pseudodrusen in late-onset retinal degeneration.  2020/12/23 
+Ophthalmol Retina. 2021;5(10):1043–51. 
+25.Borooah S, Stanton CM, Marsh J, et al. Whole genome 
+sequencing reveals novel mutations causing autosomal 
+dominant inherited macular degeneration.  2018/11/20 
+Ophthalmic Genet. 2018;39(6):763–70. 
+26.Bottoni F, Fatigati G, Carlevaro G, De Molfetta V. Fundus 
+flavimaculatus and subretinal neovascularization.  1992/01/ 
+01 Graefes Arch Clin Exp Ophthalmol. 1992;230(5):498–500. 
+27.Broadhead GK, Grigg JR, McCluskey P, Korsakova M, Chang 
+AA. Bevacizumab for choroidal neovascularisation in 
+enhanced S-cone syndrome.  2016/07/18 Doc Ophthalmol. 
+2016;133(2):139–43. 
+28.Burgess D. Subretinal neovascularization in a pattern 
+dystrophy of the retinal pigment epithelium.  1981/01/01 
+Retina. 1981;1(3):151–5. 
+29.Campos-Pavón J, Torres-Peña JL. Choroidal 
+neovascularization secondary to choroideremia.  2014/12/01 
+Arch Soc Esp Oftalmol. 2015;90(6):289–91. 
+30.de Carvalho ER, Robson AG, Arno G, et al. Enhanced S-cone 
+syndrome: spectrum of clinical, imaging, electrophysiologic, 
+and genetic findings in a retrospective case series of 56 
+patients.  2020/07/18 Ophthalmol Retina. 2021;5(2):195–214. 
+31.Casalino G, Khan KN, Armengol M, et al. Autosomal recessive 
+bestrophinopathy: clinical features, natural history, and 
+genetic findings in preparation for clinical trials.  2020/10/12 
+Ophthalmology. 2021;128(5):706–18. 
+32.Cassiman C, Spileers W, De Baere E, de Ravel T, Casteels I. 
+Peculiar fundus abnormalities and pathognomonic 
+electrophysiological findings in a 14-month-old boy with 
+NR2E3 mutations.  2012/10/09 Ophthalmic Genet. 
+2013;34(1–2):105–8. 
+33.Chatziralli I, Theodossiadis G, Emfietzoglou I, Theodossiadis 
+P. Intravitreal ranibizumab for choroidal neovascularization 
+secondary to gyrate atrophy in a young patient: a multimodal 
+imaging analysis.  2015/09/30 Eur J Ophthalmol. 
+2015;25(6):e119–22. 
+34.Chen RC, Traboulsi EI, Rachitskaya A. Chronic choroidal 
+neovascular membrane in choroideremia treated with 
+intravitreal bevacizumab.  2019/06/25 Ophthalmic Surg 
+Lasers Imaging Retina. 2019;50(6):e188–92. 
+35.Cheng JY, Adrian KH. Photodynamic therapy for choroidal 
+neovascularization in stargardt disease and retinitis 
+pigmentosa.  2009/10/01 Retin Cases Brief Rep. 
+2009;3(4):388–90. 
+36.Christensen DRG, Brown FE, Cree AJ, Ratnayaka JA, Lotery AJ. 
+Sorsby fundus dystrophy - a review of pathology and disease 
+mechanisms.  2017/08/30 Exp Eye Res. 2017;165:35–46. 
+37.Clemett R. Vitelliform dystrophy: long-term observations on 
+New Zealand pedigrees.  1991/08/01 Aust N Z J Ophthalmol. 
+1991;19(3):221–7. 
+38.Coussa RG, Fortenbach CR, Critser DB, et al. Correlation of 
+features on OCT with visual acuity and Gass lesion type in 
+Best vitelliform macular dystrophy.  2022/01/08 BMJ Open 
+Ophthalmol. 2021;6(1):e000860. https://doi.org/10.1136/ 
+bmjophth-2021-000860. PMID: 34993349; PMCID: 
+PMC8655537. 
+39.Dantas MA, Slakter JS, Negrao S, et al. Photodynamic therapy 
+with verteporfin in mallatia leventinese.  2002/02/05 
+Ophthalmology. 2002;109(2):296–301. 
+40.Doyne RW. Peculiar condition of choroiditis occurring in 
+several members of the same family. Trans Ophthalmol Soc 
+U K. 1899;19(71):469–72. 
+41.Endo K, Yuzawa M, Ohba N. Choroideremia associated with 
+subretinal neovascular membrane.  2000/09/16 Acta 
+Ophthalmol Scand. 2000;78(4):483–6. 42.Enomoto N, Hayashi T, Matsuura T, et al. The second 
+Japanese family with malattia leventinese/Doyne 
+honeycomb retinal dystrophy.  (Feb) Doc Ophthalmol. 
+2022;144(1):67–75. 
+43.Evans K, Gregory CY, Wijesuriya SD, et al. Assessment of the 
+phenotypic range seen in Doyne honeycomb retinal 
+dystrophy.  1997/07/01 Arch Ophthalmol. 1997;115(7): 
+904–10. 
+44.Falfoul Y, Matri KE, Habibi I, et al. OCT-angiography assessing 
+quiescent and active choroidal neovascularization in retinitis 
+pigmentosa associated with PRPH2 pathogenic variant.  2021/ 
+03/20 Eur J Ophthalmol. 2022;32(4):Np98–102. 
+45.Fu L, Garland D, Yang Z, et al. The R345W mutation in 
+EFEMP1 is pathogenic and causes AMD-like deposits in mice. 
+2007/08/02 Hum Mol Genet. 2007;16(20):2411–22. 
+46.Fuerst NM, Serrano L, Han G, et al. Detailed functional and 
+structural phenotype of Bietti crystalline dystrophy 
+associated with mutations in CYP4V2 complicated by 
+choroidal neovascularization.  2016/11/03 Ophthalmic Genet. 
+2016;37(4):445–52. 
+47.Fung AT, Stöhr H, Weber BHF, Holz FG, Yannuzzi LA. Atypical 
+Sorsby fundus dystrophy with a novel tyr159cys timp-3 
+mutation. Retin Cases Brief Rep. 2013;7(1):71–4. 
+48.Ganesh D, Corradetti G, Sadda SR. Macular 
+neovascularization in a case of late-onset retinal 
+degeneration treated with aflibercept. Retin Cases Brief Rep. 
+2023. https://doi.org/10.1097/ICB.0000000000001439. . 
+49.Gass JDM. Best’s disease. In: Stereoscopic Atlas of Macular 
+Diseases: Diagnosis and Treatment. 4th ed. St, Louis, MO: 
+Mosby; 1997. p. 304–11. 
+50.Gemenetzi MK, Luff AJ, Lotery AJ. Successful treatment of 
+choroidal neovascularization secondary to Sorsby fundus 
+dystrophy with intravitreal bevacizumab. Retin Cases Brief 
+Rep. 2011;5(2):132–5. 
+51.Georgalas I, Papaconstantinou D, Koutsandrea C, et al. 
+Angioid streaks, clinical course, complications, and current 
+therapeutic management.  2009/05/14 Ther Clin Risk Manag. 
+2009;5(1):81–9. 
+52.Georgiou M, Fujinami K, Michaelides M. Retinal imaging in 
+inherited retinal diseases. Ann Eye Sci. 2020:5. Epub 2020 Sep 
+15. PMID: 33928237; PMCID: PMC8081382. https://doi.org/10. 
+21037/aes-20-81. 
+53.Gliem M, Birtel J, Herrmann P, et al. Aflibercept for choroidal 
+neovascularizations secondary to pseudoxanthoma 
+elasticum: a prospective study.  2019/12/22 Graefes Arch Clin 
+Exp Ophthalmol. 2020;258(2):311–8. 
+54.Gliem M, Finger RP, Fimmers R, et al. Treatment of choroidal 
+neovascularization due to angioid streaks: a comprehensive 
+review.  2013/05/31 Retina. 2013;33(7):1300–14. 
+55.Gliem M, Müller PL, Birtel J, et al. Frequency, phenotypic 
+characteristics and progression of atrophy associated with 
+a diseased Bruch’s membrane in pseudoxanthoma 
+elasticum.  2016/07/02 Invest Ophthalmol Vis Sci. 
+2016;57(7):3323–30. 
+56.Gliem M, Müller PL, Mangold E, et al. Reticular pseudodrusen 
+in Sorsby fundus dystrophy.  2015/06/17 Ophthalmology. 
+2015;122(8):1555–62. 
+57.Gliem M, Müller PL, Mangold E, et al. Sorsby fundus 
+dystrophy: novel mutations, novel phenotypic 
+characteristics, and treatment outcomes.  2015/03/15 Invest 
+Ophthalmol Vis Sci. 2015;56(4):2664–76. 
+58.Gray TL, Wong HC, Raymond GL. Choroidal 
+neovascularization secondary to sorsby fundus dystrophy 
+treated with intravitreal bevacizumab. Retin Cases Brief Rep. 
+2012;6(2):193–6. 
+59.Guduru A, Gupta A, Tyagi M, Jalali S, Chhablani J. Optical 
+coherence tomography angiography characterisation of Best 18 SUR VEY OF OPHTHALMOLOGY 69 (2023) 1–23   disease and associated choroidal neovascularisation.  2017/ 
+08/03 Br J Ophthalmol. 2018;102(4):444–7. 
+60.Gulkilik G, Erdur SK, Eliacik M, et al. A case of cone dystrophy 
+associated with choroidal neovascularization.  2016/09/30 
+Retin Cases Brief Rep. 2018;12(2):111–4. 
+61.Gupta B, Parvizi S, Mohamed MD. Bietti crystalline dystrophy 
+and choroidal neovascularisation.  2010/10/26 Int 
+Ophthalmol. 2011;31(1):59–61. 
+62.Han IC, Coussa RG, Mansoor M, et al. Choroidal 
+neovascularization is common in Best vitelliform macular 
+dystrophy and plays a role in vitelliform lesion evolution. 
+Ophthalmol Retina. 2023;7(5):441–9. Epub 2022 Dec 14. PMID: 
+36528270; PMCID: PMC10164042 Epub 2022 Dec 14. PMID: 
+36528270; PMCID: PMC10164042. https://doi.org/10.1016/j. 
+oret.2022.11.014. 
+63.Hayward C, Shu X, Cideciyan AV, et al. Mutation in a short- 
+chain collagen gene, CTRP5, results in extracellular deposit 
+formation in late-onset retinal degeneration: a genetic model 
+for age-related macular degeneration.  2003/08/29 Hum Mol 
+Genet. 2003;12(20):2657–67. 
+64.Heath Jeffery RC, Chen FK. Stargardt disease: multimodal 
+imaging: a review.  2021/05/21 Clin Exp Ophthalmol. 
+2021;49(5):498–515. 
+65.Heath Jeffery RC, Chen FK. Peripapillary hyperreflective ovoid 
+mass-like structures: multimodal imaging-A review. Clin Exp 
+Ophthalmol. 2023;51(1):67–80. Epub 2022 Nov 6. PMID: 
+36300762; PMCID: PMC10099767 Epub 2022 Nov 6. PMID: 
+36300762; PMCID: PMC10099767. https://doi.org/10.1111/ceo. 
+14182. 
+66.Heath Jeffery RC, Lo J, Thompson JA, et al. Analysis of the 
+outer retinal bands in ABCA4 and PRPH2-associated 
+retinopathy using optical coherence tomography.  May 18 
+Ophthalmol Retina. 2023. https://doi.org/10.1016/j.oret.2023. 
+05.010 S2468-6530(23)00209-9, Epub ahead of print. PMID: 
+37209970. 
+67.Heath Jeffery RC, Mukhtar SA, McAllister IL, et al. Inherited 
+retinal diseases are the most common cause of blindness in 
+the working-age population in Australia.  2021/05/04 
+Ophthalmic Genet. 2021;42(4):431–9. 
+68.Heath Jeffery RC, Thompson JA, Lamey TM, et al. 
+Longitudinal analysis of functional and structural outcome 
+measures in PRPH2-associated retinal dystrophy. 
+Ophthalmol Retina. 2023;7(1):81–91. Epub 2022 Jul 2. PMID: 
+35792359 Epub 2022 Jul 2. PMID: 35792359. https://doi.org/10. 
+1016/j.oret.2022.06.017. 
+69.van Huet RA, Bax NM, Westeneng-Van Haaften SC, et al. 
+Foveal sparing in Stargardt disease.  2014/10/18 Invest 
+Ophthalmol Vis Sci. 2014;55(11):7467–78. 
+70.Iacono P, Battaglia Parodi M, La Spina C, Bandello F. 
+Intravitreal bevacizumab for nonsubfoveal choroidal 
+neovascularization associated with angioid streaks: 3-year 
+follow-up study.  2016/03/26 Am J Ophthalmol. 
+2016;165:174–8. 
+71.Inanc M, Tekin K, Teke MY. Bilateral choroidal 
+neovascularization associated with gyrate atrophy managed 
+with intravitreal bevacizumab.  2017/06/01 Int Ophthalmol. 
+2018;38(3):1351–5. 
+72.Introini U, Casalino G, Khan KN, et al. Clinical course of 
+autosomal recessive bestrophinopathy complicated by 
+choroidal neovascularization.  2018/11/21 Ophthalmic Surg 
+Lasers Imaging Retina. 2018;49(11):888–92. 
+73.Iwakiri R, Okinami S, Hirata A. Two cases of retinitis 
+pigmentosa associated with choroidal neovascularization. 
+2007/09/19 Nippon Ganka Gakkai Zasshi. 2007;111(8):606–11. 
+74.Janssen A, Hoellenriegel J, Fogarasi M, et al. Abnormal vessel 
+formation in the choroid of mice lacking tissue inhibitor of 
+metalloprotease-3.  2008/04/15 Invest Ophthalmol Vis Sci. 
+2008;49(7):2812–22. 75.Japiassú RM, Moura Brasil OF, Maia HS, Maia AS, Brasil OM. 
+Photodynamic therapy for bilateral and simultaneous 
+choroidal neovascularization in stargardt disease. Retin 
+Cases Brief Rep. 2008;2(1):9–11. 
+76.Joshi KM, Nesper PL, Fawzi AA, Mirza RG. Optical coherence 
+tomography angiography in adult-onset foveomacular 
+vitelliform dystrophy.  2017/02/16 Retina. 2018;38(3):600–5. 
+77.Jun I, Lee JS, Lee JH, et al. Adult-onset vitelliform macular 
+dystrophy caused by BEST1 p.Ile38Ser mutation is a mild 
+form of Best vitelliform macular dystrophy.  2017/08/24 Sci 
+Rep. 2017;7(1):9146. 
+78.Kapoor KG, Bakri SJ. Intravitreal anti-vascular endothelial 
+growth factor therapy for choroidal neovascularization due 
+to Sorsby macular dystrophy.  2013/04/16 J Ocul Pharmacol 
+Ther. 2013;29(4):444–7. 
+79.Kaye R, Lotery AJ. Long-term outcome of bevacizumab 
+therapy in sorsby fundus dystrophy, a case series. Invest 
+Ophthalmol Vis Sci. 2017;58:229. 
+80.Keenan TDL, Vanderford EK, de Silva T, Sieving PA, Cukras 
+CA. Massive advancing nonexudative type 1 choroidal 
+neovascularization in ctrp5 late-onset retinal degeneration: 
+longitudinal findings on multimodal imaging and 
+implications for age-related macular degeneration.  2021/05/ 
+15 Retina. 2021;41(11):2236–45. 
+81.Keller J, Giralt J, Alforja S, Casaroli-Marano RP. Altering the 
+clinical course of Sorsby fundus dystrophy with the use of 
+anti-vascular endothelial growth factor intraocular therapy. 
+2014/11/11. Retin Cases Brief Rep. 2015;9(2):104–5. 
+82.Kellner U, Weisschuh N, Weinitz S, et al. Autosomal 
+dominant gyrate atrophy-like choroidal dystrophy revisited: 
+45 years follow-up and association with a novel C1QTNF5 
+missense variant. Int J Mol Sci. 2021;22(4):2089 PMID: 
+33669876; PMCID: PMC7923301. https://doi.org/10.3390/ 
+ijms22042089. 
+83.Khan KN, Borooah S, Lando L, et al. Quantifying the 
+separation between the retinal pigment epithelium and 
+Bruch’s membrane using optical coherence tomography in 
+patients with inherited macular degeneration.  2020/08/22 
+Transl Vis Sci Technol. 2020;9(6):26. 
+84.Khan KN, Mahroo OA, Islam F, et al. Functional and 
+anatomical outcomes of choroidal neovascularization 
+complicating BEST1-related retinopathy.  2016/10/21 Retina. 
+2017;37(7):1360–70. 
+85.Khani SC, Karoukis AJ, Young JE, et al. Late-onset autosomal 
+dominant macular dystrophy with choroidal 
+neovascularization and nonexudative maculopathy 
+associated with mutation in the RDS gene.  2003/07/29 Invest 
+Ophthalmol Vis Sci. 2003;44(8):3570–7. 
+86.Kim HH, Carvounis PE, Albini TA, Holz ER, Mieler WF. 
+Photodynamic therapy for bilateral subfoveal choroidal 
+neovascularization complicating stargardt macular 
+dystrophy. Retin Cases Brief Rep. 2008;2(1):6–8. 
+87.Kim HR, Han J, Kim YJ, et al. Clinical features and genetic 
+findings of autosomal recessive bestrophinopathy. Genes 
+(Basel). 2022;13(7):1197 PMID: 35885980; PMCID: PMC9320462. 
+https://doi.org/10.3390/genes13071197. 
+88.Kim RY, Dollfus H, Keen TJ, et al. Autosomal dominant 
+pattern dystrophy of the retina associated with a 4-base pair 
+insertion at codon 140 in the peripherin/RDS gene.  1995/04/ 
+01 Arch Ophthalmol. 1995;113(4):451–5. 
+89.Klein R, Lewis RA, Meyers SM, Myers FL. Subretinal 
+neovascularization associated with fundus flavimaculatus. 
+1978/11/01 Arch Ophthalmol. 1978;96(11):2054–7. 
+90.Kobat SG, Gul FC, Yusufoglu E. Bietti crystalline dystrophy 
+and choroidal neovascularization in childhood.  2019/09/24 
+Int J Ophthalmol. 2019;12(9):1514–6. 
+91.Koutresi D, Clarke B, Lotery AJ, De Salvo G. Sorsby fundus 
+dystrophy with polypoidal choroidal vasculopathy: 19 SUR VEY OF OPHTHALMOLOGY 69 (2023) 1–23   extending TIMP3 phenotypes.  2019/08/02 Clin Exp 
+Ophthalmol. 2019;47(9):1214–8. 
+92.Kuntz CA, Jacobson SG, Cideciyan AV, et al. Sub-retinal 
+pigment epithelial deposits in a dominant late-onset retinal 
+degeneration.  1996/08/01 Invest Ophthalmol Vis Sci. 
+1996;37(9):1772–82. 
+93.Ladas ID, Karagiannis DA, Georgalas I, et al. Polypoidal 
+choroidal vasculopathy associated with Doynes familial 
+choroiditis: treatment with thermal laser.  2004/05/01 Eur J 
+Ophthalmol. 2004;14(3):264–8. 
+94.Lai TYY, Staurenghi G, Lanzetta P, et al. Efficacy and safety of 
+ranibizumab for the treatment of choroidal 
+neovascularization due to uncommon cause: twelve-month 
+results of the MINERVA study.  2017/07/14 Retina. 
+2018;38(8):1464–77. 
+95.Lam BL, Goldberg JL, Hartley KL, Stone EM, Liu M. Atypical 
+mild enhanced S-cone syndrome with novel compound 
+heterozygosity of the NR2E3 gene.  2007/07/03 Am J 
+Ophthalmol. 2007;144(1):157–9. 
+96.Lando L, Borooah S. Late-onset retinal degeneration: clinical 
+perspectives. Clin Ophthalmol. 2022;16:3225–46. 
+97.Lando L, Nguyen AXL, Li RTH, et al. Anterior segment 
+phenotypic changes in late-onset retinal degeneration with 
+Ser163Arg mutation in CTRP5/C1QTNF5. Graefes Arch Clin 
+Exp Ophthalmol. 2023;261(9):2507–16. Epub 2023 Apr 12. 
+PMID: 37043002 Epub 2023 Apr 12. PMID: 37043002. https:// 
+doi.org/10.1007/s00417-023-06041-0. 
+98.Langton KP, McKie N, Curtis A, et al. A novel tissue inhibitor 
+of metalloproteinases-3 mutation reveals a common 
+molecular phenotype in Sorsby’s fundus dystrophy.  2000/06/ 
+16 J Biol Chem. 2000;275(35):27027–31. 
+99.Lee CS, Leys M. A family affected by novel C213W mutation 
+in PRPH2: long-term follow-up of CNV secondary to pattern 
+dystrophy.  2020/06/25 Ophthalmic Surg Lasers Imaging 
+Retina. 2020;51(6):354–62. 
+100. Leveille AS, Morse PH, Burch JV. Fundus flavimaculatus and 
+subretinal neovascularization.  1982/04/01 Ann Ophthalmol. 
+1982;14(4):331–4. 
+101. Li Q, Li Y, Zhang X, et al. Utilization of fundus 
+autofluorescence, spectral domain optical coherence 
+tomography, and enhanced depth imaging in the 
+characterization of Bietti crystalline dystrophy in different 
+stages.  2015/05/16 Retina. 2015;35(10):2074–84. 
+102. Liew G, Michaelides M, Bunce C. A comparison of the causes 
+of blindness certifications in England and Wales in working 
+age adults (16-64 years), 1999-2000 with 2009-2010.  2014/02/ 
+15 BMJ Open. 2014;4(2):e004015. https://doi.org/10.1136/ 
+bmjopen-2013-004015 PMID: 24525390; PMCID: PMC3927710. 
+103. Lupidi M, Coscas G, Cagini C, Coscas F. Optical coherence 
+tomography angiography of a choroidal neovascularization 
+in adult onset foveomacular vitelliform dystrophy: pearls 
+and pitfalls.  2015/12/02 Invest Ophthalmol Vis Sci. 
+2015;56(13):7638–45. 
+104. Luttrell BJ, Breazeale R. Successful treatment of choroidal 
+neovascular membrane in a child with choroideremia. 
+Invest Ophthalmol Vis Sci. 2003;44:3950. 
+105. Mahmoodi M, Sahebjam S, Smookler D, Khokha R, Mort JS. 
+Lack of tissue inhibitor of metalloproteinases-3 results in an 
+enhanced inflammatory response in antigen-induced 
+arthritis.  2005/05/28 Am J Pathol. 2005;166(6):1733–40. 
+106. Maldonado RS, Zein WM, Cukras C. Multimodal evidence of 
+type 3 neovascularization in enhanced S-cone syndrome. 
+2019/07/30 Retin Cases Brief Rep. 2021;15(6):702–8. 
+107. Malik A, Sood S, Narang S. Successful treatment of choroidal 
+neovascular membrane in retinitis pigmentosa with 
+intravitreal bevacizumab.  2010/01/06 Int Ophthalmol. 
+2010;30(4):425–8. 108. Mamatha G, Umashankar V, Kasinathan N, et al. Molecular 
+screening of the CYP4V2 gene in Bietti crystalline dystrophy 
+that is associated with choroidal neovascularization.  2011/ 
+08/19 Mol Vis. 2011;17:1970–7. 
+109. Mandal N, Lotery AJ. Multimodal imaging of late-onset 
+retinal degeneration complicated by bilateral choroidal 
+neovascularization.  2019/01/30 Eye (Lond). 
+2019;33(6):1020–7. 
+110. Marano F, Deutman AF, Aandekerk AL. Butterfly-shaped 
+pigment dystrophy of the fovea associated with subretinal 
+neovascularization.  1996/04/01 Graefes Arch Clin Exp 
+Ophthalmol. 1996;234(4):270–4. 
+111. Marano F, Deutman AF, Leys A, Aandekerk AL. Hereditary 
+retinal dystrophies and choroidal neovascularization.  2000/ 
+10/25 Graefes Arch Clin Exp Ophthalmol. 2000;238(9):760–4. 
+112. Marano F, Deutman AF, Pinckers AJ, Aandekerk AL. Gyrate 
+atrophy and choroidal neovascularization.  1996/10/01 Arch 
+Ophthalmol. 1996;114(10):1295. 
+113. Marano F, Deutman AF, Pinckers AJ, Aandekerk AL, Rijneveld 
+WJ. Reticular dystrophy of the retinal pigment epithelium 
+and choroidal neovascularization. A fluorescein and ICGV 
+study.  1997/02/01 Acta Ophthalmol Scand. 1997;75(1):22–7. 
+114. Marmor MF, Jacobson SG, Foerster MH, Kellner U, Weleber 
+RG. Diagnostic clinical findings of a new syndrome with 
+night blindness, maculopathy, and enhanced S cone 
+sensitivity.  1990/08/15 Am J Ophthalmol. 1990;110(2):124–34. 
+115. Marmorstein LY, McLaughlin PJ, Peachey NS, Sasaki T, 
+Marmorstein AD. Formation and progression of sub-retinal 
+pigment epithelium deposits in EFEMP1 mutation knock-in 
+mice: a model for the early pathogenic course of macular 
+degeneration.  2007/08/01 Hum Mol Genet. 
+2007;16(20):2423–32. 
+116. Marmorstein LY, Munier FL, Arsenijevic Y, et al. Aberrant 
+accumulation of EFEMP1 underlies drusen formation in 
+Malattia Leventinese and age-related macular degeneration. 
+2002/09/21 Proc Natl Acad Sci U S A. 2002;99(20):13067–72. 
+117. Menassa N, Burgula S, Empeslidis T, Tsaousis KT. Bilateral 
+choroidal neovascular membrane in a young patient with 
+Sorsby fundus dystrophy: the value of prompt treatment. 
+Aug 3 BMJ Case Rep. 2017;2017. https://doi.org/10.1136/bcr- 
+2017-220488 PMID: 28775088; PMCID: PMC5623231. 
+118. Meunier I, Bocquet B, Labesse G, et al. A new autosomal 
+dominant eye and lung syndrome linked to mutations in 
+TIMP3 gene.  2016/09/08 Sci Rep. 2016;6:32544. https://doi. 
+org/10.1038/srep32544 PMID: 27601084; PMCID: PMC5013278. 
+119. Meunier I, Manes G, Bocquet B, et al. Frequency and clinical 
+pattern of vitelliform macular dystrophy caused by 
+mutations of interphotoreceptor matrix IMPG1 and IMPG2 
+genes.  2014/08/03 Ophthalmology. 2014;121(12):2406–14. 
+120. Michaelides M, Jenkins SA, Brantley MA, et al. Maculopathy 
+due to the R345W substitution in fibulin-3: distinct clinical 
+features, disease variability, and extent of retinal dysfunction. 
+(Jul) Invest Ophthalmol Vis Sci. 2006;47(7):3085–97. 
+121. Milam AH, Curcio CA, Cideciyan AV, et al. Dominant late- 
+onset retinal degeneration with regional variation of sub- 
+retinal pigment epithelium deposits, retinal function, and 
+photoreceptor degeneration.  2000/11/30 Ophthalmology. 
+2000;107(12):2256–66. 
+122. Miller SA, Bresnick GH, Chandra SR. Choroidal neovascular 
+membrane in Best’s vitelliform macular dystrophy.  1976/08/ 
+01 Am J Ophthalmol. 1976;82(2):252–5. 
+123. Mimoun G, Caillaux V, Querques G, et al. Ranibizumab for 
+choroidal neovascularization associated with adult-onset 
+foveomacular vitelliform dystrophy: one-year results.  2013/ 
+02/13 Retina. 2013;33(3):513–21. 
+124. Miyagi M, Takeuchi J, Koyanagi Y, et al. Clinical findings in 
+eyes with BEST1-related retinopathy complicated by 20 SUR VEY OF OPHTHALMOLOGY 69 (2023) 1–23   choroidal neovascularization.  (Apr) Graefes Arch Clin Exp 
+Ophthalmol. 2022;260(4):1125–37. 
+125. Miyata M, Oishi A, Oishi M, et al. Long-term efficacy and 
+safety of anti-VEGF therapy in retinitis pigmentosa: a case 
+report.  2018/09/16 BMC Ophthalmol. 2018;18(1):248. 
+126. Mohla A, Khan K, Kasilian M, Michaelides M. OCT 
+angiography in the management of choroidal neovascular 
+membrane secondary to Sorsby fundus dystrophy.  2016/09/ 
+03 BMJ Case Rep. 2016;2016:bcr2016216453. https://doi.org/ 
+10.1136/bcr-2016-216453. PMID: 27587748; PMCID: 
+PMC5020863. 
+127. Mohler CW, Fine SL. Long-term evaluation of patients with 
+Best’s vitelliform dystrophy.  1981/07/01 Ophthalmology. 
+1981;88(7):688–92. 
+128. Muftuoglu IK, Al-Sheikh M, J S, et al. Imaging in inherited 
+retinal disorders.  2021/02/03 Eur J Ophthalmol. 
+2021;31(4):1656–76. 
+129. Müller PL, Pfau M, Möller PT, et al. Choroidal flow signal in 
+late-onset Stargardt disease and age-related macular 
+degeneration: an OCT-angiography study.  2018/08/25 Invest 
+Ophthalmol Vis Sci. 2018;59(4):Amd122–31. 
+130. Nachiappan K, Krishnan T, Madhavan J. Ranibizumab for 
+choroidal neovascular membrane in a rare case of Bietti’s 
+crystalline dystrophy: a case report.  2012/05/10 Indian J 
+Ophthalmol. 2012;60(3):207–9. 
+131. Naessens S, De Zaeytijd J, Syx D, et al. The N-terminal p. 
+(Ser38Cys) TIMP3 mutation underlying Sorsby fundus 
+dystrophy is a founder mutation disrupting an 
+intramolecular disulfide bond.  2019/01/23 Hum Mutat. 
+2019;40(5):539–51. 
+132. Nagao Y, Hiramoto Y, Takahashi K. A case of retinitis 
+pigmentosa with retinal angiomatous proliferation.  2011/03/ 
+16 Nippon Ganka Gakkai Zasshi. 2011;115(2):147–50. 
+133. Nakamura M, Hotta Y, Piao CH, et al. Enhanced S-cone 
+syndrome with subfoveal neovascularization.  2002/04/05 
+Am J Ophthalmol. 2002;133(4):575–7. 
+134. Nangia V, Jonas JB, George R, et al. Prevalence and causes of 
+blindness and vision impairment: magnitude, temporal 
+trends and projections in South and Central Asia.  2018/11/10 
+Br J Ophthalmol. 2019;103(7):871–7. 
+135. Navarrete A, Matanis-Suidan M, Hemo I, et al. Enhanced S- 
+cone syndrome masquerading as TORCH in an infant and a 
+toddler. Ocul Immunol Inflamm. 2023;31(2):455–61. Epub 
+2022 Feb 3. PMID: 35113758 Epub 2022 Feb 3. PMID: 35113758. 
+https://doi.org/10.1080/09273948.2022.2028290. 
+136. Nowilaty SR, Alsalamah AK, Magliyah MS, et al. Incidence 
+and natural history of retinochoroidal neovascularization in 
+enhanced S-cone syndrome.  2020/09/18 Am J Ophthalmol. 
+2021;222:174–84. 
+137. Oishi A, Fujinami K, Mawatari G, et al. Genetic and 
+phenotypic landscape of PRPH2-associated retinal dystrophy 
+in Japan.  2021/11/28 Genes (Basel). 2021;12(11). 
+138. Pager CK, Sarin LK, Federman JL, et al. Malattia leventinese 
+presenting with subretinal neovascular membrane and 
+hemorrhage.  2001/04/09 Am J Ophthalmol. 
+2001;131(4):517–8. 
+139. Palejwala NV, Lauer AK, Weleber RG. Choroideremia 
+associated with choroidal neovascularization treated with 
+intravitreal bevacizumab.  2014/09/13 Clin Ophthalmol. 
+2014;8:1675–9. 
+140. Pappalardo J, Heath Jeffery RC, Thompson JA, et al. A novel 
+phenotype in a family with autosomal dominant retinal 
+dystrophy due to c.1430A  >  G in retinoid isomerohydrolase 
+(RPE65) and c.37C  >  T in bestrophin 1 (BEST1).  2021/01/30 
+Doc Ophthalmol. 2021;143(1):61–73. 
+141. Parodi MB, Arrigo A, Bandello F. Optical coherence 
+tomography angiography quantitative assessment of 
+macular neovascularization in Best vitelliform macular dystrophy.  2020/07/01 Invest Ophthalmol Vis Sci. 
+2020;61(6):61. 
+142. Parodi MB, Arrigo A, Bandello F. Reply: natural course of the 
+vitelliform stage in best vitelliform macular dystrophy: a 
+five-year follow-up study.  2020/08/13 Graefes Arch Clin Exp 
+Ophthalmol. 2021;259(3):789–90. 
+143. Parodi MB, Iacono P, Da Pozzo S. Anti-VEGF and retinal 
+dystrophies.  2020/04/29 Curr Drug Targets. 
+2020;21(12):1201–7. 
+144. Patel RC, Gao SS, Zhang M, et al. Optical coherence 
+tomography angiography of choroidal neovascularization in 
+four inherited retinal dystrophies.  2016/06/24 Retina. 
+2016;36(12):2339–47. 
+145. Peiretti E, Klancnik JM, Spaide RF, Yannuzzi L. Choroidal 
+neovascularization in sorsby fundus dystrophy treated with 
+photodynamic therapy and intravitreal triamcinolone 
+acetonide. Retina. 2005;25(3):377–9. 
+146. Pfister TA, Zein WM, Cukras CA, et al. Phenotypic and 
+genetic spectrum of autosomal recessive bestrophinopathy 
+and Best vitelliform macular dystrophy.  2021/05/21 Invest 
+Ophthalmol Vis Sci. 2021;62(6):22. 
+147. Piguet B, Haimovici R, Bird AC. Dominantly inherited drusen 
+represent more than one disorder: a historical review.  1995/ 
+01/01 Eye (Lond). 1995;9(Pt 1):34–41. 
+148. Potter MJ, Wong E, Szabo SM, McTaggart KE. Clinical findings 
+in a carrier of a new mutation in the choroideremia gene. 
+2004/10/07 Ophthalmology. 2004;111(10):1905–9. 
+149. Da Pozzo S, Parodi MB, Toto L, Ravalico G. Occult choroidal 
+neovascularization in adult-onset foveomacular vitelliform 
+dystrophy.  2001/12/13 Ophthalmologica. 2001;215(6):412–4. 
+150. Price KW, Pennesi ME, Lauer AK, Bailey ST. Iatrogenic 
+choroidal neovascularization associated with subretinal 
+gene therapy surgery. Am J Ophthalmol Case Rep. 
+2022;27:101677. https://doi.org/10.1016/j.ajoc.2022.101677. 
+PMID: 36034763; PMCID: PMC9399261. 
+151. Qi JH, Ebrahem Q, Moore N, et al. A novel function for tissue 
+inhibitor of metalloproteinases-3 (TIMP3): inhibition of 
+angiogenesis by blockage of VEGF binding to VEGF receptor- 
+2.  2003/03/26 Nat Med. 2003;9(4):407–15. 
+152. Querques G, Bocco MC, Soubrane G, Souied EH. Intravitreal 
+ranibizumab (Lucentis) for choroidal neovascularization 
+associated with Stargardt’s disease.  2007/10/16 Graefes Arch 
+Clin Exp Ophthalmol. 2008;246(2):319–21. 
+153. Querques G, Querques L, Leveziel N, Bandello F, Souied EH. 
+Intravitreal ranibizumab for type 3 choroidal 
+neovascularization complicating adult onset foveomacular 
+vitelliform dystrophy.  2012/12/12 J Fr Ophtalmol. 
+2013;36(1):e1–4. 
+154. Querques G, Zambrowski O, Corvi F, et al. Optical coherence 
+tomography angiography in adult-onset foveomacular 
+vitelliform dystrophy.  2016/03/10 Br J Ophthalmol. 
+2016;100(12):1724–30. 
+155. Ramtohul P, Gascon P, Matonti F. Choroidal 
+neovascularization in late-onset retinal macular 
+degeneration.  2019/04/25 Ophthalmol Retina. 2019;3(2):153. 
+156. Ranjan R, Verghese S, Salian R, et al. OCT angiography for the 
+diagnosis and management of choroidal neovascularization 
+secondary to choroideremia.  2021/03/09 Am J Ophthalmol 
+Case Rep. 2021;22:101042. https://doi.org/10.1016/j.ajoc.2021. 
+101042 PMID: 33681533; PMCID: PMC7930354. 
+157. Reich M, Glatz A, Cakir B, et al. Characterisation of vascular 
+changes in different stages of Stargardt disease using double 
+swept-source optical coherence tomography angiography. BMJ 
+Open Ophthalmol. 2019;4(1):e000318. https://doi.org/10.1136/ 
+bmjophth-2019-000318 PMID: 31799409; PMCID: PMC6861074. 
+158. De Roach JN, Thompson JA, Hoffmann L. The Australian 
+inherited retinal disease registry and DNA bank.  2020 
+Tasman Medl J. 2020;2(3):60–7. 21 SUR VEY OF OPHTHALMOLOGY 69 (2023) 1–23   159. Robinson D, Tiedeman J. Choroideremia associated with a 
+subretinal neovascular membrane case report.  1987/01/01 
+Retina. 1987;7(2):70–4. 
+160. Rohart C, Le HM, Estrada-Walker J, Giocanti-Auregan A, 
+Cohen SY. Long-term prognosis of choroidal 
+neovascularization complicating angioid streaks.  Jan 23 
+Retina. 2023. https://doi.org/10.1097/IAE.0000000000003746 
+Epub ahead of print. PMID: 36727798. 
+161. Saksens NT, Krebs MP, Schoenmaker-Koller FE, et al. 
+Mutations in CTNNA1 cause butterfly-shaped pigment 
+dystrophy and perturbed retinal pigment epithelium 
+integrity.  2015/12/23 Nat Genet. 2016;48(2):144–51. 
+162. Sambricio J, Tejada-Palacios P, Barceló-Mendiguchía A. Choroidal 
+neovascularization, outer retinal tubulation and fundus 
+autofluorescence findings in a patient with enhanced S-cone 
+syndrome.  2015/07/15 Clin Exp Ophthalmol. 2016;44(1):69–71. 
+163. Sawa M, Tamaki Y, Klancnik Jr JM, Yannuzzi LA. Intraretinal 
+foveal neovascularization in choroideremia.  2006/06/14 
+Retina. 2006;26(5):585–8. 
+164. Sayadi J, Miere A, Souied EH, Cohen SY. Type 3 
+neovascularization associated with retinitis pigmentosa. 
+2017/05/18 Case Rep Ophthalmol. 2017;8(1):245–9. 
+165. Schatz P, Sharon D, Al-Hamdani S, Andréasson S, Larsen M. 
+Retinal structure in young patients aged 10 years or less with 
+Best vitelliform macular dystrophy.  2015/05/06 Graefes Arch 
+Clin Exp Ophthalmol. 2016;254(2):215–21. 
+166. Sekfali R, Mimoun G, Cohen SY, et al. Switching from 
+ranibizumab to aflibercept in choroidal neovascularization 
+secondary to angioid streaks.  2019/03/19 Eur J Ophthalmol. 
+2020;30(3):550–6. 
+167. Serra R, Coscas F, Messaoudi N, Srour M, Souied E. Choroidal 
+neovascularization in malattia leventinese diagnosed using 
+optical coherence tomography angiography.  (Apr) Am J 
+Ophthalmol. 2017;176:108–17. 
+168. Shahzad R, Siddiqui MA. Choroidal neovascularization 
+secondary to Best vitelliform macular dystrophy detected by 
+optical coherence tomography angiography.  2016/11/22 J 
+AAPOS. 2017;21(1):68–70. 
+169. Sheyanth IN, Lolas IB, Okkels H, et al. First reported case of 
+Doyne honeycomb retinal dystrophy (malattia leventinese/ 
+autosomal dominant drusen) in Scandinavia.  (Apr) Mol Genet 
+Genomic Med. 2021;9(4):e1652. https://doi.org/10.1002/mgg3. 
+1652. Epub 2021 Mar 10. PMID: 33689237; PMCID: PMC8123724. 
+170. Sivaprasad S, Webster AR, Egan CA, Bird AC, Tufail A. 
+Clinical course and treatment outcomes of Sorsby fundus 
+dystrophy.  2008/05/27 Am J Ophthalmol. 2008;146(2):228–34. 
+171. Smookler DS, Mohammed FF, Kassiri Z, et al. Tissue inhibitor 
+of metalloproteinase 3 regulates TNF-dependent systemic 
+inflammation.  2006/01/06 J Immunol. 2006;176(2):721–5. 
+172. Sohn EH, Patel PJ, MacLaren RE, et al. Responsiveness of 
+choroidal neovascular membranes in patients with R345W 
+mutation in fibulin 3 (Doyne honeycomb retinal dystrophy) 
+to anti-vascular endothelial growth factor therapy.  2011/12/ 
+14 Arch Ophthalmol. 2011;129(12):1626–8. 
+173. Sorsby A, Mason ME. A fundus dystrophy with unusual 
+features.  1949/02/01 Br J Ophthalmol. 1949;33(2):67–97. 
+174. Souied EH, Leveziel N, Querques G, et al. Indocyanine green 
+angiography features of malattia leventinese.  2006/02/21 Br J 
+Ophthalmol. 2006;90(3):296–300. 
+175. Souied EH, Pawlak D, Algan M, et al. Photodynamic therapy 
+for choroidal neovascularization on late-onset fundus 
+flavimaculatus.  (Aug) Am J Ophthalmol. 2005;140(2):312–4. 
+176. Spaide RF. Treatment of Sorsby fundus dystrophy with anti- 
+tumor necrosis factor-alpha medication.  2021/08/12 Eye 
+(Lond). 2022;36(9):1810–2. 
+177. Spaide RF, Jaffe GJ, Sarraf D, et al. Consensus nomenclature 
+for reporting neovascular age-related macular degeneration 
+data: consensus on neovascular age-related macular degeneration nomenclature study group.  2019/12/23 
+Ophthalmology. 2020;127(5):616–36. 
+178. Stanton CM, Borooah S, Drake C, et al. Novel pathogenic 
+mutations in C1QTNF5 support a dominant negative disease 
+mechanism in late-onset retinal degeneration.  2017/09/25 
+Sci Rep. 2017;7(1):12147. 
+179. Stone EM, Lotery AJ, Munier FL, et al. A single EFEMP1 
+mutation associated with both malattia leventinese and 
+Doyne honeycomb retinal dystrophy.  1999/06/16 Nat Genet. 
+1999;22(2):199–202. 
+180. Subrayan V, Morris B, Armbrecht AM, Wright AF, Dhillon B. 
+Long anterior lens zonules in late-onset retinal degeneration 
+(L-ORD).  2005/12/27 Am J Ophthalmol. 2005;140(6):1127–9. 
+181. Taillanter-Francoz N, Remy C, Bonnet M, Baserer T. 
+Choroidal neovessels associated with reticular dystrophy of 
+the pigment epithelium (case report).  1981/04/01 Bull Soc 
+Ophtalmol Fr. 1981;81(4–5):539–41. 
+182. Le Tien V, Atmani K, Querques G, Massamba N, Souied EH. 
+Ranibizumab for subfoveal choroidal neovascularization in 
+Bietti crystalline retinopathy.  2010/08/28 Eye (Lond). 
+2010;24(11):1728–9. 
+183. Tilleul J, Mimoun G, Querques G, et al. Intravitreal 
+ranibizumab for choroidal neovascularization in angioid 
+streaks: four-year follow-up.  2015/09/12 Retina. 
+2016;36(3):483–91. 
+184. Torres-Costa S, Bernardes J, Mano SS, et al. Long-term effect 
+of anti-vascular endothelial growth factor (anti-VEGF) 
+injections in choroidal neovascularization secondary to 
+angioid streaks.  2022/07/21 J Ophthalmol. 
+2022;2022:3332421. https://doi.org/10.1155/2022/3332421. 
+PMID: 35855887; PMCID: PMC9288306. 
+185. Tsokolas G, Almuhtaseb H, Lotery A. Evaluation of pro-re- 
+nata (PRN) and treat and extend bevacizumab treatment 
+protocols in Sorsby fundus dystrophy.  2018/11/14 Eur J 
+Ophthalmol. 2020;30(1):26–33. 
+186. Vaclavik V, Tran HV, Gaillard MC, Schorderet DF, Munier FL. 
+Pattern dystrophy with high intrafamilial variability 
+associated with Y141C mutation in the peripherin/RDS gene 
+and successful treatment of subfoveal CNV related to 
+multifocal pattern type with anti-VEGF (ranibizumab) 
+intravitreal injections.  2012/04/03 Retina. 2012;32(9):1942–9. 
+187. Vogt A. Die Ophthalmoskopie im rotfreien Licht. In: Graefe 
+A, Saemisch T, eds. In: Handbuch der gesammten 
+Augenheilkunde Untersuchungsmethoden. Third ed. Berlin: 
+Wilhelm Engelman; 19118–19251. 
+188. Wang W, Chen W, Bai X, Chen L. Multimodal imaging 
+features and genetic findings in Bietti crystalline dystrophy. 
+2020/08/18 BMC Ophthalmol. 2020;20(1):331. 
+189. Weber BH, Vogt G, Pruett RC, Stöhr H, Felbor U. Mutations in 
+the tissue inhibitor of metalloproteinases-3 (TIMP3) in 
+patients with Sorsby’s fundus dystrophy.  1994/12/01 Nat 
+Genet. 1994;8(4):352–6. 
+190. Westeneng-van Haaften SC, Boon CJ, Cremers FP, et al. Clinical 
+and genetic characteristics of late-onset Stargardt’s disease. 
+2012/03/28 Ophthalmology. 2012;119(6):1199–210. 
+191. Wong SC, Fong KCS, Lee N, Gregory-Evans K, Gregory-Evans 
+CY. Successful photodynamic therapy for subretinal 
+neovascularisation due to Sorsby’s fundus dystrophy: 1 year 
+follow up.  (Jun) Br J Ophthalmol. 2003;87(6):796–7. 
+192. Xu J, Li K, Zheng B, Dai H. Treatment and longitudinal follow- 
+up of CNV associated with pattern dystrophy with novel 
+PRPH2 variant.  2021/09/07 Ophthalmic Genet. 
+2021;42(6):768–72. 
+193. Xu L, Ruddick WN, Bolch SN, et al. Distinct phenotypic 
+consequences of pathogenic mutants associated with late- 
+onset retinal degeneration.  Oct 31 Am J Pathol. 2022. https:// 
+doi.org/10.1016/j.ajpath.2022.10.004. S0002-9440(22)00327-3, 
+Epub ahead of print. PMID: 36328299. 22 SUR VEY OF OPHTHALMOLOGY 69 (2023) 1–23   194. De Zaeytijd J, Coppieters F, De Bruyne M, et al. Longitudinal 
+phenotypic study of late-onset retinal degeneration due to a 
+founder variant c.562C > A p.(Pro188Thr) in the C1QTNF5 
+gene.  (Oct) Ophthalmic Genet. 2021;42(5):521–32. 
+195. Zerbib J, Blanco Garavito R, Gerber S, et al. Retinochoroidal 
+anastomosis associated with enhanced s-cone syndrome. 
+2017/05/26 Retin Cases Brief Rep. 2019;13(4):295–9. 196. Zhang Y, Green KM, Schmidt RJ. Bilateral choroidal 
+neovascularization and chorioretinal anastomosis in autosomal 
+recessive bestrophinopathy. J Vitreoretin Dis. 2020;4(1):69–74. 
+197. Zinkernagel MS, Hornby SJ, MacLaren RE. Choroidal new 
+vessels in type 1 myotonic dystrophy-related macular 
+dystrophy respond to anti-VEGF therapy.  2012/10/06 Eye 
+(Lond). 2012;26(12):1595–6.  23 SUR VEY OF OPHTHALMOLOGY 69 (2023) 1–23   

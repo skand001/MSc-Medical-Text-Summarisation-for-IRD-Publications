@@ -1,0 +1,926 @@
+Citation: Lynn, J.; Raney, A.; Britton,
+N.; Ramoin, J.; Yang, R.W.; Radojevic,
+B.; McClard, C.K.; Kingsley, R.;
+Coussa, R.G.; Bennett, L.D. Genetic
+Diagnosis for 64 Patients with
+Inherited Retinal Disease. Genes 2023 ,
+14, 74. https://doi.org/10.3390/
+genes14010074
+Academic Editor: Christina Zeitz
+Received: 16 November 2022
+Revised: 7 December 2022
+Accepted: 23 December 2022
+Published: 26 December 2022
+Copyright: © 2022 by the authors.
+Licensee MDPI, Basel, Switzerland.
+This article is an open access article
+distributed under the terms and
+conditions of the Creative Commons
+Attribution (CC BY) license (https://
+creativecommons.org/licenses/by/
+4.0/).
+genesG C A T
+T A C G
+G C A T
+Article
+Genetic Diagnosis for 64 Patients with Inherited
+Retinal Disease
+Jacob Lynn1, Austin Raney2, Nathaniel Britton2, Josh Ramoin3, Ryan W. Yang2, Bojana Radojevic4,
+Cynthia K. McClard4, Ronald Kingsley4, Razek Georges Coussa4and Lea D. Bennett1,2,4,*
+1Department of Pathology, University of Oklahoma Health Sciences Center, Oklahoma City, OK 73104, USA
+2College of Medicine, University of Oklahoma Health Sciences Center, Oklahoma City, OK 73104, USA
+3College of Osteopathic Medicine, Oklahoma State University, Stillwater, OK 74078, USA
+4Department of Ophthalmology, University of Oklahoma Health Sciences Center, Dean McGee Eye Institute,
+Oklahoma City, OK 73104, USA
+*Correspondence: lea-bennett@ouhsc.edu
+Abstract: The overlapping genetic and clinical spectrum in inherited retinal degeneration (IRD)
+creates challenges for accurate diagnoses. The goal of this work was to determine the genetic
+diagnosis and clinical features for patients diagnosed with an IRD. After signing informed consent,
+peripheral blood or saliva was collected from 64 patients diagnosed with an IRD. Genetic testing
+was performed on each patient in a Clinical Laboratory Improvement Amendments of 1988 (CLIA)
+certiﬁed laboratory. Mutations were veriﬁed with Sanger sequencing and segregation analysis
+when possible. Visual acuity was measured with a traditional Snellen chart and converted to a
+logarithm of minimal angle of resolution (logMAR). Fundus images of dilated eyes were acquired
+with the Optos®camera (Dunfermline, UK). Horizontal line scans were obtained with spectral-
+domain optical coherence tomography (SDOCT; Spectralis, Heidelberg, Germany). Genetic testing
+combined with segregation analysis resolved molecular and clinical diagnoses for 75% of patients.
+Ten novel mutations were found and unique genotype phenotype associations were made for the
+genes RP2 andCEP83 . Collective knowledge is thereby expanded of the genetic basis and phenotypic
+correlation in IRD.
+Keywords: inherited retinal disease; genetic testing; clinical
+1. Introduction
+Non-correctable vision impairments are expected to increase to 13 million people by
+2050 [ 1]. One of the leading causes of these impairments is inherited retinal diseases (IRDs)
+which has a prevalence of 1 in 2000–3000 [ 2,3]. IRDs encompass a clinically and genetically
+heterogeneous group of disorders including retinitis pigmentosa (RP), cone-rod dystrophy
+(CRD), and various forms of macular dystrophy (MD) such as Stargardt disease (STGD1)
+and pattern dystrophy. This group of inherited disorders involve progressive degeneration
+of the retina that leads to severe visual impairment and blindness. The most common IRD,
+RP is characterized by retinal pigment epithelium (RPE) abnormalities and primary loss of
+rod photoreceptor cells followed by secondary loss of cone photoreceptor cells. Patients
+typically experience a decline to total loss of night vision during adolescence, followed by
+decreased peripheral vision in young adulthood, and deterioration of the central vision in
+later life [ 4]. Dystrophies initially affecting the macula (e.g., MD, STDG1) are distinct from
+pan-retinal CRD but often have multiple, similar symptoms that can include uncorrectable
+visual acuity, decreased color perception (dyschromatopsia), and increased sensitivity to
+light (photophobia).
+The overlapping genetic and clinical spectrum in IRD creates challenges for accurate
+diagnoses. Technological advances in sequencing strategies allow identiﬁcation of gene
+Genes 2023 ,14, 74. https://doi.org/10.3390/genes14010074 https://www.mdpi.com/journal/genesGenes 2023 ,14, 74 2 of 17
+mutations for 60–80% of the patients diagnosed with an IRD [ 5–11]. IRDs are predomi-
+nantly Mendelian and monogenic but continue to confound diagnosis due to incomplete
+penetrance and variable expression. These diseases are typically classiﬁed by inheritance
+type, age of onset, molecular defect, and by distribution of retinal involvement or fundus
+appearance. A direct link from the molecular and biochemical variations to clinical mani-
+festations contributes to the ideal, uniﬁed subclassiﬁcation system sought by researchers
+and clinicians alike. This work contributes to realizing this goal.
+Genetic diagnosis is a critical step in identifying patients who could be eligible for
+FDA-approved gene therapy (RPE65-associated IRD-Luxturna [ 12–14]) or for one of the
+many gene targeted clinical trials (e.g., MERTK ,RS1,RPGR -associated IRDs [ 15–17]). An
+early and accurate diagnosis enables patients to obtain appropriate visual, social, and
+psychological support that will guide life planning and mitigate disease effects on lifestyle
+choices. To address these challenges, the objective of this work was to determine the
+molecular (genetic) basis of IRD for 64 patients paired with clinical ﬁndings to advance our
+understanding of genotype-phenotype associations for IRD.
+2. Materials and Methods
+Patients were evaluated at Dean McGee Eye Institute (DMEI) at the University of
+Oklahoma Health Sciences Center (OUHSC) in Oklahoma City, OK. Retrospective data was
+collected from patients who were seen from 2018 to 2021. All procedures adhered to the
+Declaration of Helsinki and were approved by institutional ethics review boards. Exclusion
+criteria included confounding diagnoses such as autoimmune retinopathy, age-related
+macular degeneration, and history of retinotoxic medications (e.g., pentosan polysulfate or
+hydroxychloroquine). Demographics in Supplementary Table S1 include identiﬁcation (ID)
+number, gender, race or ethnicity, age at diagnosis, age at genetic testing, diagnosis, and
+inheritance. ID numbers with a letter after the ID number are family members (relation
+in parenthesis). The ethnicity of the patients in this cohort were White or Caucasian (WC,
+n= 45, 70.3%), Black or African American (BA, n= 3, 4.7%), Asian ( n= 1, 1.6%), Native
+American (NA, n= 10, 15.6%), unknown or undisclosed (UK, n= 1, 1.6%), and bi-racial
+(n= 4, 6.3%).
+Genetic testing was performed after obtaining informed, written consent from all
+patients and family members. Peripheral blood or saliva samples of affected and unaf-
+fected family members were collected and targeted next generation sequencing (NGS) was
+performed externally by CLIA certiﬁed laboratories (BluePrint Genetics, Invitae, Molecular
+Vision Laboratory, or Molecular Genetics Laboratory at OUHSC). This certiﬁcation obliges
+them to adhere to federal standards. Their testing panels included 351, 330, 1024, and
+251 genes, respectively. Molecular Vision Laboratory’s panel included genes for diseases
+outside the boundaries of IRD. Current IRD gene panels used for NGS are publicly available
+at Blueprint Genetics, Invitae, and Molecular Vision Laboratory.
+Testing performance was provided on individual patient reports. Sequencing was
+performed using hybridization-based target capture protocols. To summarize the testing
+information for the aforementioned companies, sequences were mapped to the human
+reference genome GRCh37/hg19. Genes were excluded from reporting when NGS coverage
+was suboptimal, i.e., “>90% of the gene’s target nucleotides were not covered at >20x with
+a mapping quality score of MQ > 20 reads.” Deletions and duplications were identiﬁed
+with proprietary bioinformatics pipelines developed by the individual companies. When
+deletions, duplications, and pathogenic variants did not meet NGS quality metrics of a
+given laboratory, orthogonal assays were performed to conﬁrm the results. These assays
+included, but were not limited to, Paciﬁc Biosciences SMRT sequencing, MLPA, MLPA-seq,
+Array CGH, and RT-PCR. Each lab designed their own primers and do not provide them
+on the patient reports. Analytical sensitivity exceeded 99% for variants, including indels
+less than 15 bp in length for all laboratories. Variants were classiﬁed according to the
+American College of Medical Genetics and Genomics (ACMG) guidelines. Pathogenesis of
+identiﬁed variants was determined by the consequences of the change (e.g., amino acidGenes 2023 ,14, 74 3 of 17
+substitution), evolutionary conservation, the number of reference population databases, and
+mutation databases containing the recorded variant. These included but were not limited to
+gnomAD, ClinVar, HGMD Professional, and Alamut Visual. Variant calling, methods, and
+data analysis (or contact information for requests) for individual laboratories can be found
+at https://blueprintgenetics.com/data-analysis/, https://www.invitae.com/static/data/
+WhitePaper_Variant-Classiﬁcation-Method.pdf, https://www.molecularvisionlab.com/
+company/publications/, or https://genetics.ouhsc.edu/ (accessed on 23 December 2022).
+Visual acuity was measured with a traditional Snellen chart in clinic at DMEI and con-
+verted to a logarithm of minimal angle of resolution (logMAR). Fundus images of dilated
+eyes were acquired with the Optos®camera (Optos PLC, Dunfermline, UK). Horizontal
+line scans were obtained with spectral-domain optical coherence tomography (SDOCT;
+Spectralis HRA; Heidelberg Engineering, Heidelberg, Germany).
+3. Results
+3.1. Clinical Assessment
+Genetic testing was performed on 64 patients ( n= 29 male, 45%; n= 35 female, 55%)
+diagnosed with an IRD from 53 different families. Clinical diagnosis occurred at an average
+age of 31.4 15.3 years whereas genetic testing was performed when patients were at
+the average age of 47.7 16.6 years (Table S1). Clinical diagnoses included RP ( n= 32,
+50.0%), MD ( n= 24, 37.5%), and CRD ( n= 8, 12.5%). Refraction and BCVA are shown in
+Table S1. Ophthalmic evaluations were conducted on 60 patients with IRD (29 RP , 7 CRD,
+and 23 MD). Overall, patients with RP and CRD had the broadest range of clinical features
+including pallor of the optic disc, arteriolar narrowing, bone spicules, peripapillary atrophy
+(PPA), cystoid macular edema (CME), RPE changes in the macula, vitreous syneresis,
+posterior vitreous detachment (PVD), and/or epiretinal membrane (ERM; Figure 1A).
+Clinical examination showed typical clinical features (pallor of the optic disc, arteriolar
+narrowing, and bone spicules) for 17 of 29 individuals diagnosed with RP . Patients with
+MD primarily displayed RPE changes in the macula (82.6%) and ﬂecks in the posterior pole
+(73.9%; Figure 1B).
+3.2. Molecular Findings
+Genetic results that explain clinical diagnosis were identiﬁed for 48 (75%) patients.
+Pathogenic and likely causative mutations are indicated by the number of patients in
+this cohort affected by a given gene as shown in Figure 1B. Gene mutations were most
+frequently (23%) found in the gene ABCA4 (Table 1) followed by PRPH2 (n= 7, 11%;
+Figure 1B). Five patients from two families had RP2 mutations (8%). Three patients (5%)
+with autosomal recessive RP (arRP) had CNGB1 -related disease. The same GUCA1A
+mutation (Table 1) was found for three CRD patients (5%) from two different families.
+Mutations were identiﬁed for two individuals for each of the genes ADGRV1 ,USH2A , and
+RPGR (3% each). The remaining genes ( PDE6B ,CNGB3 ,BEST1 ,HK1 ,NMNAT1 ,PRPF31 ,
+RHO ,RP1) were associated with a single patient (2%) with IRD (Figure 1B). Ten novel
+mutations and the previously reported as IRD-causing mutations are provided in Table 1.
+The unique mutations comprised ﬁve missense, one frameshift, three in-frame deletions or
+duplications, and one promoter mutation (Table 1). Altogether, we were able to provide
+a genetic diagnosis to 21 RP patients, seven patients with CRD, and 20 patients with MD
+(Figure 1C).Genes 2023 ,14, 74 4 of 17
+Table 1. Patient Genetics.
+Subject
+IDEthnicity
+(Gender)Refraction OD; OS BCV A OD; OSLogMAR OD;
+OSAge at
+Dx/GTDx Gene 1 Gene 2 Variant
+DM001 WC (M) ND 20/320; CF 1.2; 3/56 adCRD GUCA1A NAc.428delinsACAC (p.Ile143delinsAsnThr)
+[18,19]
+DM002 WC (M)+2.50 + 1.00 090;
++1.75 + 2.00 09020/50; 20/63 0.4; 0.5 5/8 arRP PDE6B PDE6Bc.892C>T (p.Gln298*) [ 20–22]/C.1954C>T
+GLN652*) [23]
+DM003 WC (F) 5.50 + 1.00 090;
+ 5.00 + 1.25 09020/100; 20/100 0.7; 0.7 13/16 arMD ABCA4 ABCA4c.2588G>C (p.Gly863Ala)a/c.1622T>C
+(p.Leu541Pro)b& c.3113C>T
+(p.Ala1038Val)c
+DM004 WC (M) ND 20/400; 20/125 1.3; 0.8 23/28/ arCRD NMNAT1 NMNAT1c.769G>A
+(p.Glu257Lys) [24–26]/ c.-71G>C
+DM005 NA (M) 1.75 + 1.75 040;
+ 1.50 + 0.75 2.2520/25; 20/32 0.1; 0.2 35/50 adMD PRPH2 NA c.828+3A>T (p.?) [3,27–32]
+GP001 WC (F) ND 20/20; 20/20 0; 0 33/37 MDdiso negative negative
+GP002 BA, NA (F) ND 20/50; 20/40 0.4; 0.3 49/51 arRP CNGB1 CNGB1 c.583+2T>C [33,34]/2305-34G>A [33,34]
+GP004 WC (F) 0.25 + 4.50 100;
++1.25 + 1.00 07720/32; 20/20 0.2; 0 35/36 adMD PRPH2 NA c.828+3A>T (p.?) [3,27–32]
+GP005 WC (M) ND 20/50; 20/160 0.4; 0.9 25/46 arMD ABCA4 ABCA4c.5882G>A (p.Gly1961Glu)a/c.3259G>A
+(p.Glu1087Lys)d& c.2042G>A
+(p.Arg681Gln) [35]
+GP005a WC (F) ND 20/800; 20/640 1.6; 1.5 10/50 arMD ABCA4 ABCA4c.5882G>A (p.Gly1961Glu)a/c.3259G>A
+(p.Glu1087Lys)d& c.2042G>A
+(p.Arg681Gln) [35]
+GP006 WC, NA (M) 3.75 + 1.75 100;
+ 3.75 + 1.00 09620/160; 20/125 0.9; 0.8 15/21 XLRP RP2 NA c.515dup(p.Ser172Argfs*2) [36,37]
+GP006a WC, NA (F)+0.25 1.25045;
+ 2.75 3.7515520/32; 20/500 0.2; 1.4 10/41 XLRP RP2 NA c.515dup(p.Ser172Argfs*2) [36,37]
+GP006b NA (F)0.00 + 3.50 105;
+ 3.00 + 4.75 08020/32; 20/30 0.2; 0.2 35/64 XLRP RP2 NA c.515dup(p.Ser172Argfs*2) [36,37]
+GP008 WC (F) ND 20/50; 20/50 0.4; 0.4 25/51 arRP ADGRV1 ADGRV1c.17668_17669del (p.Met5890Valfs*10)
+l/c.4378G>A (p.Gly1460Ser)Genes 2023 ,14, 74 5 of 17
+Table 1. Cont.
+Subject
+IDEthnicity
+(Gender)Refraction OD; OS BCV A OD; OSLogMAR OD;
+OSAge at
+Dx/GTDx Gene 1 Gene 2 Variant
+GP008a WC (F) ND 20/50; 20/50 0.4; 0.4 30/55 arRP ADGRV1 ADGRV1c.17668_17669del (p.Met5890Valfs*10)
+l/c.4378G>A (p.Gly1460Ser)
+GP009 WC (M)+0.75 + 0.50 170;
++1.25 + 0.25 16520/320; 20/200 1.2; 1 39/53 adRP negative negative
+GP012 Asian (M) ND 20/250; 20/640 1.1; 1.5 31/42 adCRD PRPH2 NA c.367C>T (Arg123Trp) [38]
+GP013 WC (F) ND 20/20; 20/20 0; 0 35/36 adMD PRPH2 NA c.828+3A>T (p.?) [3,27–32]
+GP013a WC, BA (F) 0.50 + 0.25 075;
+Plano20/15; 20/20  0.12; 0 20/21 adMD PRPH2 NA c.828+3A>T (p.?) [3,27–32]
+GP014 WC (M) 8.25 + 1.00 130;
+ 9.75 + 1.25 05520/640; 20/200 1.5; 1 60/71 arCRD CNGB3 CNGB3c.1148del
+(p.Thr383Ilefs*13) [39–44]/c.(852+1_853-
+1)_(903+1_904-1)dup [45]
+GP015 WC (F) ND 20/100; 20/200 0.7; 1 40/79 Rpiso negative negative
+GP016 WC (M)+0.50 + 1.00 080;
+0.00 + 1.00 09520/63; 20/80 0.5; 0.6 7/25 XLRP negative negative
+GP017 NA (M)+3.00 1.00124;
++3.50 0.7507620/200; 20/200 1; 1 20/48 MDiso BEST1 BEST1c.286C>G(p.Gln96Glu) [46]/
+c.579_580insCATT (p.Lys194Hisfs*2)
+GP018 NA (M) ND 20/200; 20/400 1; 1.3 20/56 Rpiso negative negative
+GP019 UK (F)+1.00 + 0.00 000;
+Plano20/320; 20/32 1.2; 0.2 69/70 adMD PRPH2 NA c.828+3A>T (p.?) [3,27–32]
+GP020 WC (M) 0.25 + 0.75 110;
+ 0.25 + 0.50 05020/25; 20/25 0.1; 0.1 22/23 adRP RHO NA c.68C>A (p.Pro23His)m
+GP021 NA (M) 7.50 + 2.75 080;
+ 7.25 + 2.50 12020/400; 20/320 1.3; 1.2 5/68 arCRD ABCA4 ABCA4c.5381C>A (p.Ala1794Asp)e/c.5909T>G
+(p.Leu1970Arg)
+GP022 NA (M)0.00 + 0.75 135;
++0.25 + 0.00 00020/25; 20/63 0.1; 0.5 48/49 adRP ABCA4 ABCA4c.2701A>G (p.Thr901Ala) [47]/c.5603A>T
+(p.Asn1868Ile)f
+GP022a NA (F) 6.00 + 0.50 090;
+ 6.25 + 1.00 10520/20; 20/25 0; 0.1 27/36 adRP negative negative
+GP026 WC (F) 1.75 + 0.75 120;
+ 3.00 + 1.25 08520/125; 20/160 0.8; 0.9 41/41 arMD ABCA4 ABCA4c.6079C>T (p.Leu2027Phe)
+g/c.5281_5289del (p.Pro1763del)Genes 2023 ,14, 74 6 of 17
+Table 1. Cont.
+Subject
+IDEthnicity
+(Gender)Refraction OD; OS BCV A OD; OSLogMAR OD;
+OSAge at
+Dx/GTDx Gene 1 Gene 2 Variant
+GP028 WC (F) ND HM; 20/125 0.8 25/84 Rpiso negative negative
+GP029 WC (M) ND LP; LP 80/81 XLRP RPGR NAc.2442_2445del (p.Gly817Lysfs*2)
+[37,48,49]
+GP029a WC (M) ND ND ND unknown XLRP RPGR NAc.2442_2445del (p.Gly817Lysfs*2)
+[37,48,49]
+GP031 WC (F) 2.75 + 00 000;
+ 3.00 + 0.00 00020/60; 20/160 0.48; 0.9 30/70 arMD ABCA4 ABCA4c.71G>A (p.Arg24His) [ 50–54]/c.4469G>A
+(p.Cys1490Tyr)h
+GP032 WC (M)+0.25 + 0.75 010;
+ 0.75 + 0.75 14520/20; 20/20 0; 0 37/51 arRP USH2A USH2Ac.10073G>A
+(p.Cys3358Tyr) [55–57]/c.10342G>A
+(p.Glu3448Lys)n
+GP034 WC (M)0.00 + 0.75 025;
+NLP20/25; NLP 0.1; 35/59 arRP negative negative
+GP035 NA (F) 5.25 + 0.00 000;
+ 5.75 + 2.00 09020/40; 20/25 0.3; 0.1 39/41 adMD PRPH2 NA c.829-A_1041+?del
+GP036 NA (F) 2.25 + 1.50 126;
+ 3.25 + 0.75 014CF; CF 20/70 adRP negative negative
+GP037 WC (F)+1.00 + 1.00 146;
++0.50 + 1.25 01220/63; 20/63 0.5; 0.5 30/55 Rpiso CEP83 CEP83c.625C>T (p.Arg209*) [58,59]/ c.712A>G
+(p.Lys238Glu)
+GP039 WC (F) 0.25 + 0.75 110;
+0.00 + 0.75 07020/32; 20/32 0.2; 0.2 27/40 Rpiso negative negative
+GP044 WC (M) 2.50 + 0.50 085;
+ 1.00 + 1.00 08220/50; 20/80 0.4; 0.6 40/65 adRP RP1 NA c.2321_2322ins? (p.Leu774fs)
+GP045 WC (F) ND 20/20; 20/20 0; 0 34/53 arRP CNGB1 CNGB1c.2492+1G>A (p. ?) [33,34]; c.2092T>C
+(p.Cys698Arg) [33,34]
+GP045a WC (F) 1.50 + 1.50 065;
+ 1.25 + 1.00 09020/40; 20/40 0.3; 0.3 36/42 arRP CNGB1 CNGB1c.2492+1G>A (p. ?) [33,34]; c.2092T>C
+(p.Cys698Arg) [33,34]
+GP046 WC (F)+4.00 + 0.75 015;
++1.25 + 0.75 11720/32; 20/63 0.2; 0.5 23/24 MDiso ABCA4 ABCA4c.5882G>A (p.Gly1961Glu)a/c.161G>A
+(p.Cys54Tyr) [50,60–64]Genes 2023 ,14, 74 7 of 17
+Table 1. Cont.
+Subject
+IDEthnicity
+(Gender)Refraction OD; OS BCV A OD; OSLogMAR OD;
+OSAge at
+Dx/GTDx Gene 1 Gene 2 Variant
+GP047 WC (F) 4.00 2.25010;
+ 2.50 2.2517020/40; 20/40 0.3; 0.3 60/67 arMD ABCA4 ABCA4c.161G>A
+(p.Cys54Tyr) [50,60–64]/c.6089G>A
+(p.Arg2003Gln)i
+GP047a WC (M) 2.50 + 1.75 112;
+ 2.00 + 1.50 06520/40; 20/50 0.3; 0.4 14/48 arMD ABCA4 ABCA4c.161G>A
+(p.Cys54Tyr) [50,60–64]/ c.1304G>T
+(p.Gly435Val) & c.5603A>T
+(p.Asn1868Ile)f
+GP048 BA (M) 2.00 + 0.00 000;
+ 2.50 + 0.50 15020/20; 20/20 0; 0 31/49 MDiso negative negative
+GP049 NA (M) 4.25 + 0.00 000;
+ 4.25 + 0.50 17520/50; 20/32 0.4; 0.2 40/49 arRP USH2A USH2Ac.2299del (p.Glu767Serfs*21)k/c.4106C>T
+(p.Ser1369Leu) [65–67]
+GP050 WC (M)+2.75 + 0.75 150;
++2.50 + 1.00 01120/32; 20/25 0.2; 0.1 47/49 arMD ABCA4 ABCA4c.655A>T
+(p.Arg219*) [54,68,69]/c.5603A>T
+(p.Asn1868Ile)f
+GP052 WC (F) 2.50 + 1.00 090;
+ 2.50 + 1.25 09020/160; 20/160 0.9; 0.9 13/26 arMD ABCA4 ABCA4c.4773+3A>T (p.?) [70–72]/c.4139C>T
+(p.Pro1380Leu)j
+GP053 WC (M) 1.75 + 0.75 090;
+ 2.25 + 1.00 09020/15; 20/15  0.1; 0.1 31/34 arMD ABCA4 ABCA4c.1726G>C
+(p.Asp576His) [54,73,74]/c.4577C>T
+(p.Thr1526Met) [50,75]
+GP054 WC (F) 1.00 + 0.00 000;
+ 2.00 + 0.00 00020/25; 20/25 0.1; 0.1 29/32 adRP HK1 NA c.2539G>A, (p.Glu847Lys) [76–78]
+GP058 WC (F) 0.25 + 1.75 180;
+ 0.50 + 1.00 02020/125; 20/40 0.8; 0.3 24/70 adRP PRPF31 NA c.(?_  396)_(*1_?)del [28,79–82]
+GP059 BA (F) 0.50 + 0.50 020;
+ 0.75 + 0.50 16520/20; 20/20 0; 0 46/47 MDiso ABCA4 CNGA1c.1749G>C (p.Lys583Asn) [8,83];
+c.1339dup (p.Thr447Asnfs*3)
+GP060 WC (M) 0.50 + 0.50 020;
+0.00 + 0.50 15020/80; 20/63 0.6; 0.5 53/67 arMD ABCA4 ABCA4c.5882G>A (p.Gly1961Glu)a/c.4577C>T
+(p.Thr1526Met) [50,75]
+GP061 WC (F) ND 20/200; 20/160 1; 0.9 21/28 Rpiso negative negative
+GP062 WC (F) unknown 20/20; 20/20 0; 0 33/44 MDiso negative negativeGenes 2023 ,14, 74 8 of 17
+Table 1. Cont.
+Subject
+IDEthnicity
+(Gender)Refraction OD; OS BCV A OD; OSLogMAR OD;
+OSAge at
+Dx/GTDx Gene 1 Gene 2 Variant
+GP063 WC (M)+0.50 + 1.25 120;
+0.00 + 1.25 06020/320; 20/200 1.2; 1 16/35 XLRP RP2 NA c.413A>C, p.Glu138Ala
+GP063a WC (F)+0.75 + 0.00 000;
+Plano20/20; 20/40 0; 0.3 30/60 XLRP RP2 NA c.413A>C, p.Glu138Ala
+GP064 WC (F)+3.25 + 0.00 000;
++3.00 + 1.00 16020/20; 20/20 0; 0 35/39 MDiso negative negative
+GP065 WC (M) 1.75 + 1.50 155;
+ 2.00 + 1.50 18020/100; 20/125 0.7; 0.8 51/57 CRDiso negative negative
+GP066 BA (F) 3.25 + 0.75 175;
+ 4.75 + 0.75 02520/40; 20/15 0.3;  0.1 31/46 arRP MT-RNR1 negative m.1555A>G (homoplasmic) [84–86]
+GP067 WC (F) 1.75 + 0.50 174;
+ 3.00 + 0.50 09020/200; 20/200 1; 1 50/62 adCRD GUCA1A NAc.428delinsACAC (p.Ile143delinsAsnThr)
+[18,19]
+GP067a WC (M) 5.50 + 1.50 100;
+ 4.00 + 1.00 17120/40; 20/25 0.3; 0.1 38/35 adCRD GUCA1A NAc.428delinsACAC (p.Ile143delinsAsnThr)
+[18,19]
+M, Male; F, Female; Dx, Diagnosis; GT, Genetic Testing; WC, White/Caucasion; BA, Black/African American; NA, Native American; UK, Unknown/undisclosed; autosomal dominant
+or recessive (ad or ar), X-linked (XL), isolate (iso), MD, Macular Dystrophy; RP , Retinitis Pigmentosa; CRD, Cone-Rod Dystrophy; ND, not done; OD oculus dexter (right eye); OS oculus
+sinister (left eye); CF, counting ﬁngers; HM, hand motion; LP , light perception. See ClinVar Accession numbers:aVCV000007879,bVCV000099067,cVCV000007894,dVCV000099211,
+eVCV000099371,fVCV000099390,gVCV000099428,hVCV000099288,iVCV000099428,jVCV000007904,kVCV000002351,lVCV00050362,mVCV000013013,nVCV000209203. Novel
+variants are in bold.Genes 2023 ,14, 74 9 of 17
+Genes 2023 , 14, x FOR PEER REVIEW 3 of 18 
+ 
+ provide them on the patient reports. Analytic al sensitivity exceeded 99% for variants, in-
+cluding indels less than 15 bp in length for all laboratories. Variants were classified ac-
+cording to the American College of Medical Genetics and Genomics (ACMG) guidelines. Pathogenesis of identified variants was det ermined by the consequences of the change 
+(e.g., amino acid substitution), evolutionary conservation, the number of reference popu-
+lation databases, and mutation databases cont aining the recorded variant. These included 
+but were not limited to gnomAD, ClinVar, HGMD Professional, and Alamut Visual. Var-
+iant calling, methods, and data analysis (o r contact information for requests) for individ-
+ual laboratories can be found at https://blueprintgenetics.com/data-analysis/, 
+https://www.invitae.co m/static/data/WhiteP aper_Variant-Classi fication-Method.pdf, 
+https://www.molecularvisionlab.com/company /publications/, or https://genetics.ou-
+hsc.edu/ (accessed on 23 December 2022) . 
+Visual acuity was measured with a traditional Snellen chart in clinic at DMEI and 
+converted to a logarithm of minimal angle of resolution (logMAR). Fundus images of di-
+lated eyes were acquired with the Optos
+® camera (Optos PLC, Dunfermline, UK). Hori-
+zontal line scans were obtained with spectral-domain optical coherence tomography (SDOCT; Spectralis HRA; Heidelberg Engineering, Heidelberg, Germany). 
+3. Results 
+3.1. Clinical Assessment 
+Genetic testing was performed on 64 patients ( n = 29 male, 45%; n = 35 female, 55%) 
+diagnosed with an IRD from 53 different familie s. Clinical diagnosis occurred at an aver-
+age age of 31.4 ± 15.3 years whereas genetic testing was performed when patients were at 
+the average age of 47.7 ± 16.6 years (Tab le S1). Clinical diagnoses included RP ( n = 32, 
+50.0%), MD ( n = 24, 37.5%), and CRD ( n = 8, 12.5%). Refraction and BCVA are shown in 
+Table S1.  Ophthalmic evaluations were conducted on 60 patients with IRD (29 RP, 7 CRD, 
+and 23 MD). Overall, patients with RP and CR D had the broadest range of clinical features 
+including pallor of the optic disc, arteriolar narrowing, bone spicules, peripapillary atro-
+phy (PPA), cystoid macular edema (CME), RPE ch anges in the macula, vitreous syneresis, 
+posterior vitreous detachment (PVD), and/or epiretinal membrane (ERM; Figure 1A). Clinical examination showed typical clinical fe atures (pallor of the optic disc, arteriolar 
+narrowing, and bone spicules) for 17 of 29 in dividuals diagnosed with  RP. Patients with 
+MD primarily displayed RPE changes in the ma cula (82.6%) and flecks in the posterior 
+pole (73.9%; Figure 1B). 
+ 
+Figure 1.  Clinical characteristic s for patients with ( A) cone rod dystrophy (C RD) and retinitis pig-
+mentosa (RP) and macular dystrophy (MD). ( B) Distribution of genes causative for ocular disease 
+by number of patients (%). ( C) The number of genetically solved cases subset by clinical diagnosis. 
+3.2. Molecular Findings 
+Genetic results that explain clinical diagnosis were iden tified for 48 (75%) patients. 
+Pathogenic and likely causative mutations are indicated by the number of patients in this 
+Figure 1. Clinical characteristics for patients with ( A) cone rod dystrophy (CRD) and retinitis
+pigmentosa (RP) and macular dystrophy (MD). ( B) Distribution of genes causative for ocular disease
+by number of patients (%). ( C) The number of genetically solved cases subset by clinical diagnosis.
+3.3. Genotype Phenotype Correlations
+Pedigree analysis for an RP patient GP006 revealed that his mother (GP006a), maternal
+grandmother (GP006b), and maternal great uncle (not evaluated, Figure 2A) were also
+affected. GP006 and GP006a were diagnosed with RP at ages 10 and 15 years, respectively
+(Table 1). Fundus exam of GP006 showed optic disc pallor OU (oculus uterque or both
+eyes) arteriolar narrowing, and bone spicules in the peripheral retina (Figure 2B). Hypo-
+autoﬂuorescence (AF) in the fovea and nasal periphery suggesting RPE atrophy (Figure 2C).
+SDOCT images revealed ellipsoid zone (EZ) changes and conﬁrmed foveal RPE atrophy OU
+(Figure 2D). A novel mutation c.515dup (p.Ser172Argfs*2) in the gene RP2 was identiﬁed
+on genetic testing for each of the affected patients (GP006, GP006a, and GP006b). Clinical
+evaluation for GP006a showed high myopia (Table 1), amblyopia OS (oculus sinister or left
+eye) and cataract OU. GP006a had typical RP features and RPE changes in the maculae
+(Figure 2E). Fundus autoﬂuorescence (FAF) imaging displayed nasal hypo-AF regions,
+with dense hypo-AF areas distributed in the posterior pole (Figure 2F). Additionally,
+outer nuclear layer (ONL) loss, outer retinal atrophy, and mild vitreomacular adhesion
+was identiﬁed on SDOCT images (Figure 2G). On fundus examination, GP006b showed
+tilted optic nerves with PPA, arteriolar attenuation, as well as pigmentary and atrophic
+changes most noticeable in the temporal and inferior periphery (Figure 2H). There were
+hypo-AF lesions in the inferior periphery and AF striations in the posterior pole OU
+(Figure 2I). GP006b also displayed signiﬁcant EZ irregularities including temporal atrophy
+OU (Figure 2J).
+A separate family (patient GP063 and his mother GP063a) also harbored a mutation
+inRP2 (Figure 2K). GP063 was diagnosed with RP at age 16 (Table S1) but nyctalopia
+onset occurred at 4-years-of-age. Bilateral cataracts were removed at age 21. GP063 had
+typical RP features (Figure 2L) and central hypo-AF surrounded by parafoveal hyper-AF
+(Figure 2M) which was concomitant with photoreceptor loss in the maculae (Figure 2N).
+The patient’s mother (GP063a) reported nyctalopia at age 16 and was diagnosed with typical
+RP (Figure 2O) at 30 years-of-age. FAF revealed multifocal areas of hypo-AF corresponding
+to regions of bone spicule formation on color fundus photos (Figure 2P). Loss of the EZ
+was seen temporally OD (oculus dexter or right eye) whereas OS had almost complete
+loss of the photoreceptors (Figure 2Q). Genetic testing for this family revealed a novel RP2
+mutation c.413A>C (p.Glu138Ala). A pathogenic mutation has been reported previously at
+the same codon [87–89].
+Another interesting case included patient GP037, who was diagnosed with isolate
+RP at age 30 with nyctalopia onset at 12-years-of-age. Her medical history included
+hypertension, diabetes, chronic renal insufﬁciency, gout, and gastric bypass. Fundus
+images were symmetrical OU showing chorioretinal atrophy, RPE changes in the macula
+and typical RP features (Figure 3A). FAF showed atrophic midperipheral hypo-AF, PPA,
+and a bullseye pattern of AF (Figure 3B). SDOCT imaging was notable for outer retinal
+atrophy with foveal preservation of the EZ (Figure 3C). Four generations of family historyGenes 2023 ,14, 74 10 of 17
+revealed no relatives with visual problems (pedigree not shown). Genetic testing reported
+a pathogenic mutation c.625C>T (p.Arg209*) and a variant of uncertain signiﬁcance (VUS)
+c.712A>G (p.Lys238Glu) in the gene CEP83 . The VUS Lys238Glu is a missense DNA change
+encoding a moderately conserved nucleotide present in 8 of 12 total species. ClinVar (2022-
+02-05, 1005895) classiﬁes this variant with uncertain signiﬁcance for Nephronophthisis.
+This information expands the phenotype of IRD for the CEP83 gene which has only been
+reported in 2 other individuals [58,59] and is discussed below.
+Genes 2023 , 14, x FOR PEER REVIEW 9 of 18 
+ 
+ 3.3. Genotype Phenotype Correlations 
+Pedigree analysis for an RP patient GP006 revealed that his mother (GP006a), mater-
+nal grandmother (GP006b), and ma ternal great uncle (not evaluated, Figure 2A) were also 
+affected. GP006 and GP006a were diagnosed with RP at ages 10 and 15 years, respectively 
+(Table 1). Fundus exam of GP006 showed opti c disc pallor OU (oculus uterque or both 
+eyes) arteriolar narrowing, and bone spicules in the peripheral retina (Figure 2B). Hypo-
+autofluorescence (AF) in the fovea and nasal periphery suggesting RPE atrophy (Figure 
+2C). SDOCT images revealed ellipsoid zone (E Z) changes and confirmed foveal RPE atro-
+phy OU (Figure 2D). A novel mutation c.515dup (p.Ser172Argfs*2) in the gene RP2 was 
+identified on genetic testing for each of the affected patients (GP006, GP006a, and 
+GP006b). Clinical evaluation for GP006a showed high myopia (Table 1), amblyopia OS (oculus sinister or left eye) and cataract OU. GP006a had typical RP features and RPE 
+changes in the maculae (Figure 2E). Fundus  autofluorescence (FAF) imaging displayed 
+nasal hypo-AF regions, with dense hypo-AF areas distributed in the posterior pole (Figure 
+2F). Additionally, outer nuclear layer (ONL) loss, outer retinal atrophy, and mild vitre-
+omacular adhesion was identified on SDOCT images (Figure 2G). On fundus examination, GP006b showed tilted optic nerves with PPA, arteriolar attenuation, as well as pigmentary 
+and atrophic changes most noticeable in the temporal and inferior periphery (Figure 2H). 
+There were hypo-AF lesions in the inferior periphery and AF striations in the posterior 
+pole OU (Figure 2I). GP006b also displayed significant EZ irregularities including tem-
+poral atrophy OU (Figure 2J). 
+ 
+Figure 2. Phenotype of two families with X-link ed RP (XLRP) due to mutations in RP2. (A) Pedigree 
+analysis for patient GP006 showed three generations of RP (black squares). ( B) Fundus images for 
+GP006 showed optic disc pallor OU, arteriolar narrowi ng, and bone spicules in  the peripheral retina. 
+(C) Fundus autofluorescence (FAF) revealed hy po-AF in the nasal periphery and fovea. ( D) SDOCT 
+showed ellipsoid zone (EZ) changes and reti nal pigment epithelium (RPE) atrophy OU. GP006a ( E–
+G) had typical RP features ( E) with hypo-AF regions in the nasal retina and throughout the posterior 
+pole ( F) and thinning of the outer retina ( G). GP006b ( H–J) had pallor of the optic disc, chorioretinal 
+atrophy of the far periphery and pigmen t migration in the inferior retina ( H). Radial lines and infe-
+rior hypo-AF were noted on FAF ( I). SDOCT ( J) showed outer retinal atrophy in the temporal mac-
+ula OU for GP006b. ( K) Pedigree analysis for patient GP063 in dicated maternally inherited RP with 
+affected family members from three generations. GP063 ( L–N) had typical RP features, an atrophic 
+macula, and a loss of EZ band on SDOCT. GP063a ( O–Q) had typical RP, multifocal areas of hypo-
+AF, a loss of EZ temporally OD (upper pa nel), and complete loss OS (lower panel).  
+Figure 2. Phenotype of two families with X-linked RP (XLRP) due to mutations in RP2. (A) Pedigree
+analysis for patient GP006 showed three generations of RP (black squares). ( B) Fundus images for
+GP006 showed optic disc pallor OU, arteriolar narrowing, and bone spicules in the peripheral retina.
+(C) Fundus autoﬂuorescence (FAF) revealed hypo-AF in the nasal periphery and fovea. ( D) SDOCT
+showed ellipsoid zone (EZ) changes and retinal pigment epithelium (RPE) atrophy OU. GP006a
+(E–G) had typical RP features ( E) with hypo-AF regions in the nasal retina and throughout the
+posterior pole ( F) and thinning of the outer retina ( G). GP006b ( H–J) had pallor of the optic disc,
+chorioretinal atrophy of the far periphery and pigment migration in the inferior retina ( H). Radial lines
+and inferior hypo-AF were noted on FAF ( I). SDOCT ( J) showed outer retinal atrophy in the temporal
+macula OU for GP006b. ( K) Pedigree analysis for patient GP063 indicated maternally inherited RP
+with affected family members from three generations. GP063 ( L–N) had typical RP features, an
+atrophic macula, and a loss of EZ band on SDOCT. GP063a ( O–Q) had typical RP , multifocal areas of
+hypo-AF, a loss of EZ temporally OD (upper panel), and complete loss OS (lower panel).
+Genes 2023 , 14, x FOR PEER REVIEW 10 of 18 
+ 
+ A separate family (patient GP063 and his mother GP063a) also harbored a mutation 
+in RP2 (Figure 2K). GP063 was diagnosed with RP at age 16 (Table S1) but nyctalopia onset 
+occurred at 4-years-of-age. Bilateral cataracts were removed at age 21. GP063 had typical RP features (Figure 2L) and central hypo-AF surrounded by parafoveal hyper-AF (Figure 
+2M) which was concomitant with photoreceptor loss in the maculae (Figure 2N). The pa-
+tient’s mother (GP063a) reported nyctalopia at age 16 and was diagnosed with typical RP 
+(Figure 2O) at 30 years-of-age. FAF revealed multifocal areas of hypo-AF corresponding 
+to regions of bone spicule formation on colo r fundus photos (Figure 2P). Loss of the EZ 
+was seen temporally OD (oculus dexter or ri ght eye) whereas OS had almost complete 
+loss of the photoreceptors (Figure 2Q). Genetic testing for this family revealed a novel RP2 
+mutation c.413A>C (p.Glu138Ala). A pathogenic  mutation has been reported previously 
+at the same codon [87–89]. 
+Another interesting case included patient GP037, who was diagnosed with isolate RP 
+at age 30 with nyctalopia onset at 12-yea rs-of-age. Her medical history included hyper-
+tension, diabetes, chronic renal insufficiency, gout, and gastric bypass. Fundus images 
+were symmetrical OU showing chorioretinal atrophy, RPE changes in the macula and typ-ical RP features (Figure 3A). FAF showed atrophic midperipheral hypo-AF, PPA, and a 
+bullseye pattern of AF (Figure 3B). SDOCT imaging was notable for outer retinal atrophy 
+with foveal preservation of the EZ (Figure 3C ). Four generations of family history revealed 
+no relatives with visual problems (pedigre e not shown). Genetic testing reported a path-
+ogenic mutation c.625C>T (p.Arg209*) and a variant of uncertain significance (VUS) c.712A>G (p.Lys238Glu) in the gene CEP83 . The VUS Lys238Glu is a missense DNA 
+change encoding a moderately conserved nucleoti de present in 8 of 12 total species. Clin-
+Var (2022-02-05, 1005895) classifies this variant with uncertain significance for Nephron-
+ophthisis. This information expands the phenotype of IRD for the CEP83  gene which has 
+only been reported in 2 other individuals [58,59] and is discussed below. 
+ 
+Figure 3. Phenotype associated with CEP83  mutations. ( A) Fundus images for GP037 were showing 
+chorioretinal atrophy, RPE changes in the macula and typical RP features. ( B) Fundus autofluores-
+cence imaging showed an atrophic midperiphery  and a bullseye pattern of autofluorescence. ( C) 
+SDOCT imaging was notable for outer retinal atrophy with foveal preservation of the ellipsoid zone 
+(EZ) line.  
+4. Discussion 
+Because IRDs are characterized by genetic and clinical heterogeneity, gene identifi-
+cation and mutation analysis are challenging but important. Continual advancements in 
+sequencing technologies and genetic discoverie s have had a substantia l impact on the mo-
+lecular diagnosis of IRD patients [5,6,47,90].  We therefore genetically tested 64 individu-
+als, which identified pathogenic mutations in 18 genes, including ten novel genetic muta-tions (Table 1). Although patients with RP had the lowest gene detection rate, previous 
+reports using multigene panels, next-generat ion sequencing, or exome sequencing have 
+had similar findings (50% to 80%) [66,91–95].  
+Figure 3. Phenotype associated with CEP83 mutations. ( A) Fundus images for GP037 were showing
+chorioretinal atrophy , RPE changes in the macula and typical RP features. ( B) Fundus autofluorescence
+imaging showed an atrophic midperiphery and a bullseye pattern of autofluorescence. ( C) SDOCT
+imaging was notable for outer retinal atrophy with foveal preservation of the ellipsoid zone (EZ) line.Genes 2023 ,14, 74 11 of 17
+4. Discussion
+Because IRDs are characterized by genetic and clinical heterogeneity, gene identiﬁ-
+cation and mutation analysis are challenging but important. Continual advancements
+in sequencing technologies and genetic discoveries have had a substantial impact on the
+molecular diagnosis of IRD patients [ 5,6,47,90]. We therefore genetically tested 64 indi-
+viduals, which identiﬁed pathogenic mutations in 18 genes, including ten novel genetic
+mutations (Table 1). Although patients with RP had the lowest gene detection rate, previous
+reports using multigene panels, next-generation sequencing, or exome sequencing have
+had similar ﬁndings (50% to 80%) [66,91–95].
+A recent study by Sheck et al. [ 96] found that patients diagnosed with STGD1, MD, or
+CRD were solved for 91%, 63%, or 87% of patients, respectively. Although we included
+the STGD1 in the MD group, the diagnostic rates are similar to our results showing that
+patients with MD and CRD had a 83% and 87% chance of receiving a deﬁnitive genetic
+diagnosis (Figure 1C), respectively. The one patient (GP059) with MD whose test was con-
+sidered negative, received a partial diagnosis due to a heterozygous pathogenic mutation in
+ABCA4 c.1749G>C (p.Lys583Asn) [ 83]. She also harbored a pathogenic mutation in CNGA1
+c.1339dup (p.Thr447Asnfs*3). STGD1 MD is inherited in an autosomal recessive manner
+and no second potentially disease-causing mutation was detected in the ABCA4 gene. It is
+well known that there are missing alleles in unsolved patients with one pathogenic allele in
+theABCA4 gene [ 97,98].There was a single report (ARVO abstract) suggesting that ABCA4
+may cooperate in a digenic fashion to cause IRD [ 99]. Although a possibility, it is more
+likely that a second ABCA4 mutation was not detected (intronic or deletion/duplication) or
+that another yet undiscovered gene is responsible.
+Earlier this year, a new gene, CLEC3B, was implicated as a cause of MD [ 100]. Patients
+with a CLEC3B mutation had drusen in the posterior pole, nyctalopia, and some decreased
+rod responses evaluated with full-ﬁeld electroretinography (ffERG) [ 100]. This gene was not
+included in the gene panel for the four MD patients without a molecular diagnosis in our
+cohort. We therefore used Sanger sequencing to see if these patients had the same mutation.
+All four patients had the wild type CLEC3B allele (Figure S1). As more information about
+this gene becomes available, we will consider evaluating the entire coding region of CLEC3B
+in the unresolved MD cases.
+In this research, genotype phenotype relationships were detected for two genes. First,
+mutations in the gene RP2 were found for two unrelated families. Both RP2 mutations
+reported here are localized to exon 2, which encodes a cofactor-C homologous domain
+(CFCHD), conﬁrming a crucial role in RP2 function [ 101]. The mutation at Ser172 was
+previously reported as a severe pathogenic frameshift predicted to result in loss of func-
+tion [ 36,37]. Jayasundera et al. [ 36] showed a male patient with this mutation who had
+signiﬁcant choriocapillaris atrophy in the midperiphery and the posterior pole without
+pigment deposition, similar to patient GP006. A different exon 2 mutation (c.413A>C,
+p.Glu138Ala) in RP2 was found for GP063 and GP063a which affects an evolutionary
+conserved residue (Glu138) that is a charged, hydrophilic amino acid. Substitution by an
+uncharged, hydrophobic residue (alanine) is likely to impair CFCHD function, leading
+to loss or reduced function of the RP2 protein [ 88]. Multiple lines of computational evi-
+dence support a deleterious effect on the gene or gene product (Damaging CADD score
+of 26.6, likely to interfere with function by Align GVGD Class C65, probably damaging
+by PolyPhen2, deleterious by SIFT and MutationTaster). This mutation is located in a
+mutational hot spot and critical functional domain. It is also absent from controls in Exome
+Sequencing Project, 1000 Genomes Project, and Exome Aggregation Consortium. A differ-
+ent mutation at the same nucleotide (c.413A>G, p.Glu138Gly) was found in two unrelated
+XLRP families with Italian ancestry [ 87,88]. Clinical characteristics associated with the
+p.Glu138Gly mutation included early-onset macular atrophy, progressive BCVA loss, night
+blindness, and visual ﬁeld constriction since infancy. Additionally, the patient displayed
+high refractive myopia, posterior subcapsular cataract, and advanced RP associated with
+a choroideremia-like fundus [ 87] similar to other RP2-XLRP patients [ 36]. Two carrierGenes 2023 ,14, 74 12 of 17
+females (GP006a and GP063a) manifested an RP phenotype, exhibiting atrophic macular
+changes and poor visual acuity. The carrier female GP006a demonstrated anisometropia
+(asymmetric refraction) of approximately 2.75 D OS, and her son GP006 was moderately
+myopic (  3.75 D OU). These refractive errors are in agreement with the myopia association
+inRP2 retinal disease [ 36,83,102]. Conversely, GP063 and GP063a were mildly hyperopic in
+one eye (OD: +0.50 and +0.75, respectively; Table 1) although GP063a had cataract surgery
+and reported that she was myopic prior to the surgery. There have been no other carrier
+females with similar mutations described in the RP2-XLRP literature.
+To date, RetNet catalogues 340 genes that cause IRDs. However, the gene CEP83 is
+not included in that database likely owing to its novelty for association with IRD. The
+CEP83 gene encodes a protein that is essential for ciliogenesis initiation. The CEP83 protein
+is a core component of the centriole that is found in almost all cell types. Ciliopathies
+manifest particularly during early childhood or adolescence and can affect almost every
+organ system [ 103,104]. Mutations resulting in ciliopathies are often associated with retinal
+degeneration, cystic kidney disease, ﬁbrocystic liver disease, diabetes mellitus, obesity,
+skeletal dysplasia, and various abnormalities of the central nervous system [ 104,105]. GP037
+hadCEP83 mutations c.625C>T (p.Arg209*) and c.712A>G (p.Lys238Glu). Although CEP83
+is primarily associated with nephronophthisis, there have been two publications showing
+four patients who had autosomal recessive RP (arRP) without nephronophthisis. One of
+these patients was homozygous for the p.Arg209* mutation with the same clinical features
+as the patient (GP037) reported here. The biallelic mutations in CEP83 was c.712A>G
+(p.Lys238Glu). Although pathogenicity has not been proven, we consider the p.Lys238Glu
+mutation to be disease causing. First, based on the ACMG guidelines, pathogenicity of
+this mutation is supported by lines of evidence supporting evolutionary conservation
+(pathogenic supporting argument 3). There is an almost complete absence of the mutation
+in population databases gnomAD 0.00040084% (1 person) and 0 individuals in ESP , thereby
+fulﬁlling a pathogenic moderate argument 2 [ 106]. Pathogenicity is also supported by in
+silico modeling (CADD sore 24.1, Align GVGD Class C15, SIFT Deleterious). Moreover,
+the phenotype suggests pathogenicity (supporting argument 4) of the mutation, as retinal
+dystrophy has also been reported in another patient with arRP and biallelic mutations
+inCEP83 (p.Arg209*/p.Arg511Pro) [ 58] located in the same coiled-coil domain as the
+p.Lys238Glu mutation harbored by GP057. She received genetic testing in 2017 that revealed
+a single ABCA4 mutation and a single FAM161A mutation. This was prior to the addition
+ofCEP83 to ophthalmology gene panels. Retesting in 2020 found the two CEP83 mutations
+in addition to the previously determined pathogenic mutations. Therefore, when a result is
+incomplete or inconclusive, the patient should be retested after some time because new
+genes, mutations, and technologies advance rapidly.
+These results serve as a basis for future investigation toward understanding genotype
+phenotype associations and molecular mechanisms underpinning the pathology that leads
+to vision loss for patients with IRD. Moreover, the knowledge gained from this work
+contributes to developing treatment for IRD.
+Supplementary Materials: The following supporting information can be downloaded at: https://www.
+mdpi.com/article/10.3390/genes14010074/s1 , Figure S1: The c.539 location in CLEC3B associated
+with macular disorder is wild type in four patients with similar clinical features. Table S1: Gene
+Panel Lists.
+Author Contributions: Conceptualization, L.D.B.; methodology, L.D.B.; software, L.D.B.; validation,
+L.D.B., C.K.M. and R.G.C.; formal analysis, L.D.B., C.K.M. and R.G.C.; investigation, L.D.B.; resources,
+L.D.B.; data curation, B.R., J.R., N.B., R.W.Y. and A.R.; writing—original draft preparation, J.L., C.K.M.
+and L.D.B.; writing—review and editing, J.L., N.B., J.R., R.W.Y., A.R., R.G.C. and R.K.; visualization,
+L.D.B.; supervision, R.K., R.G.C. and L.D.B.; project administration, L.D.B.; funding acquisition, L.D.B.
+All authors have read and agreed to the published version of the manuscript.Genes 2023 ,14, 74 13 of 17
+Funding: This research was funded by the National Eye Institute at the National Institutes of Health
+(NIH), R00EYE027460 (L.D.B). This research was also supported by the Oklahoma Shared Center for
+Translational Research (U54GM104938, PI James) and the Presbyterian Health Foundation (PHF). This
+work was supported in part by NIH grant P30EY027125 (NIH CORE grant), and an unrestricted grant
+to the Dean A. McGee Eye Institute from Research to Prevent Blindness Inc. (http://www.rpbusa.org).
+The content is solely the responsibility of the authors and does not necessarily represent the ofﬁcial
+views of the National Institutes of Health.
+Institutional Review Board Statement: The study was conducted in accordance with the Declaration
+of Helsinki, and approved by the Institutional Review Board (or Ethics Committee) of the University
+of Oklahoma Health Sciences Center (protocol code 9726 and 11-28-2018).
+Informed Consent Statement: Informed consent was obtained from all subjects involved in the study.
+Data Availability Statement: NGS panel statistics available upon request.
+Conﬂicts of Interest: The authors declare no conﬂict of interest.
+References
+1. Chan, T.; Friedman, D.S.; Bradley, C.; Massof, R. Estimates of incidence and prevalence of visual impairment, low vision, and
+blindness in the united states. JAMA Ophthalmol. 2018 ,136, 12–19. [CrossRef] [PubMed]
+2. Bessant, D.A.; Ali, R.R.; Bhattacharya, S.S. Molecular genetics and prospects for therapy of the inherited retinal dystrophies. Curr.
+Opin. Genet. Dev. 2001 ,11, 307–316. [CrossRef] [PubMed]
+3. Sohocki, M.M.; Daiger, S.P .; Bowne, S.J.; Rodriquez, J.A.; Northrup, H.; Heckenlively, J.R.; Birch, D.; Mintz-Hittner, H.; Ruiz, R.S.;
+Lewis, R.A.; et al. Prevalence of mutations causing retinitis pigmentosa and other inherited retinopathies. Hum. Mutat. 2001 ,
+17, 42–51. [CrossRef] [PubMed]
+4. Fahim, A.T.; Daiger, S.P .; Weleber, R.G. Nonsyndromic retinitis pigmentosa overview. In Genereviews((r)) ; Adam, M.P ., Ardinger,
+H.H., Pagon, R.A., Wallace, S.E., Bean, L.J.H., Stephens, K., Amemiya, A., Eds.; University of Washington: Seattle, WA, USA, 1993.
+5. Daiger, S.P .; Sullivan, L.S.; Bowne, S.J. Genes and mutations causing retinitis pigmentosa. Clin. Genet. 2013 ,84, 132–141. [CrossRef]
+[PubMed]
+6. Duncan, J.L.; Pierce, E.A.; Laster, A.M.; Daiger, S.P .; Birch, D.G.; Ash, J.D.; Iannaccone, A.; Flannery, J.G.; Sahel, J.A.; Zack,
+D.J.; et al. Inherited Retinal Degenerations: Current Landscape and Knowledge Gaps. Transl. Vis. Sci. Technol. 2018 ,7, 6.
+[CrossRef] [PubMed]
+7. Perea-Romero, I.; Gordo, G.; Iancu, I.F.; Del Pozo-Valero, M.; Almoguera, B.; Blanco-Kelly, F.; Carreño, E.; Jimenez-Rolando, B.;
+Lopez-Rodriguez, R.; Lorda-Sanchez, I.; et al. Genetic landscape of 6089 inherited retinal dystrophies affected cases in Spain and
+their therapeutic and extended epidemiological implications. Sci. Rep. 2021 ,11, 1526. [CrossRef]
+8. Colombo, L.; Maltese, P .E.; Castori, M.; El Shamieh, S.; Zeitz, C.; Audo, I.; Zulian, A.; Marinelli, C.; Benedetti, S.; Costantini,
+A.; et al. Molecular Epidemiology in 591 Italian Probands with Nonsyndromic Retinitis Pigmentosa and Usher Syndrome. Investig.
+Opthalmol. Vis. Sci. 2021 ,62, 13. [CrossRef]
+9. Motta, F.; Martin, R.P .; Filippelli-Silva, R.; Salles, M.V .; Sallum, J.M.F. Relative frequency of inherited retinal dystrophies in Brazil.
+Sci. Rep. 2018 ,8, 15939. [CrossRef]
+10. Whelan, L.; Dockery, A.; Wynne, N.; Zhu, J.; Stephenson, K.; Silvestri, G.; Turner, J.; O’Byrne, J.J.; Carrigan, M.; Humphries,
+P .; et al. Findings from a Genotyping Study of over 1000 People with Inherited Retinal Disorders in Ireland. Genes 2020 ,11, 105.
+[CrossRef]
+11. Sharon, D.; Ben-Yosef, T.; Cohen, N.G.; Pras, E.; Gradstein, L.; Soudry, S.; Mezer, E.; Zur, D.; Abbasi, A.H.; Zeitz, C.; et al. A
+nationwide genetic analysis of inherited retinal diseases in Israel as assessed by the Israeli inherited retinal disease consortium
+(IIRDC). Hum. Mutat. 2020 ,41, 140–149. [CrossRef]
+12. Jacobson, S.G. Gene Therapy for Leber Congenital Amaurosis Caused by RPE65 Mutations. JAMA Ophthalmol. 2012 ,130, 9–24.
+[CrossRef] [PubMed]
+13. Maguire, A.M.; High, K.A.; Auricchio, A.; Wright, J.F.; Pierce, E.A.; Testa, F.; Mingozzi, F.; Bennicelli, J.L.; Ying, G.S.; Rossi,
+S.; et al. Age-dependent effects of rpe65 gene therapy for leber’s congenital amaurosis: A phase 1 dose-escalation trial. Lancet
+2009 ,374, 1597–1605. [CrossRef] [PubMed]
+14. Maguire, A.M.; Russell, S.; Chung, D.C.; Yu, Z.-F.; Tillman, A.; Drack, A.V .; Simonelli, F.; Leroy, B.P .; Reape, K.Z.; High, K.A.; et al.
+Durability of Voretigene Neparvovec for Biallelic RPE65-Mediated Inherited Retinal Disease. Ophthalmology 2021 ,128, 1460–1468.
+[CrossRef] [PubMed]
+15. Ghazi, N.G.; Abboud, E.B.; Nowilaty, S.R.; Alkuraya, H.; Alhommadi, A.; Cai, H.; Hou, R.; Deng, W.-T.; Boye, S.L.; Almaghamsi,
+A.; et al. Treatment of retinitis pigmentosa due to MERTK mutations by ocular subretinal injection of adeno-associated virus gene
+vector: Results of a phase I trial. Hum. Genet. 2016 ,135, 327–343. [CrossRef]
+16. Cehajic-Kapetanovic, J.; Xue, K.; de la Camara, C.M.-F.; Nanda, A.; Davies, A.; Wood, L.J.; Salvetti, A.P .; Fischer, M.D.; Aylward,
+J.W.; Barnard, A.R.; et al. Initial results from a ﬁrst-in-human gene therapy trial on X-linked retinitis pigmentosa caused by
+mutations in RPGR. Nat. Med. 2020 ,26, 354–359. [CrossRef]Genes 2023 ,14, 74 14 of 17
+17. Parker, M.A.; Erker, L.R.; Audo, I.; Choi, D.; Mohand-Said, S.; Sestakauskas, K.; Benoit, P .; Appelqvist, T.; Krahmer, M.; S égaut-
+Prévost, C.; et al. Three-Year Safety Results of SAR422459 (EIAV-ABCA4) Gene Therapy in Patients With ABCA4-Associated
+Stargardt Disease: An Open-Label Dose-Escalation Phase I/IIa Clinical Trial, Cohorts 1-5. Am. J. Ophthalmol. 2022 ,240, 285–301.
+[CrossRef]
+18. Jiang, L.; Wheaton, D.; Bereta, G.; Zhang, K.; Palczewski, K.; Birch, D.G.; Baehr, W. A novel GCAP1(N104K) mutation in EF-hand
+3 (EF3) linked to autosomal dominant cone dystrophy. Vis. Res. 2008 ,48, 2425–2432. [CrossRef]
+19. Wawrocka, A.; Skorczyk-Werner, A.; Wicher, K.; Niedziela, Z.; Ploski, R.; Rydzanicz, M.; Sykulski, M.; Kociecki, J.; Weisschuh, N.;
+Kohl, S.; et al. Novel variants identiﬁed with next-generation sequencing in Polish patients with cone-rod dystrophy. Mol. Vis.
+2018 ,24, 326–339.
+20. McLaughlin, M.E.; Sandberg, M.A.; Berson, E.L.; Dryja, T.P . Recessive mutations in the gene encoding the –subunit of rod
+phosphodiesterase in patients with retinitis pigmentosa. Nat. Genet. 1993 ,4, 130–134. [CrossRef]
+21. Carss, K.J.; Arno, G.; Erwood, M.; Stephens, J.; Sanchis-Juan, A.; Hull, S.; Megy, K.; Grozeva, D.; Dewhurst, E.; Malka, S.; et al.
+Comprehensive rare variant analysis via whole-genome sequencing to determine the molecular pathology of inherited retinal
+disease. Am. J. Hum. Genet. 2017 ,100, 75–90. [CrossRef]
+22. Mittal, R.; Bencie, N.; Parrish, J.M.; Liu, G.; Mittal, J.; Yan, D.; Liu, X.Z. An Update on Phosphodiesterase Mutations Underlying
+Genetic Etiology of Hearing Loss and Retinitis Pigmentosa. Front. Genet. 2018 ,9, 9. [CrossRef] [PubMed]
+23. Biswas, P .; Duncan, J.L.; Maranhao, B.; Kozak, I.; Branham, K.; Gabriel, L.; Lin, J.H.; Barteselli, G.; Navani, M.; Suk, J.; et al.
+Genetic analysis of 10 pedigrees with inherited retinal degeneration by exome sequencing and phenotype-genotype association.
+Physiol. Genom. 2017 ,49, 216–229. [CrossRef] [PubMed]
+24. Nash, B.; Symes, R.; Goel, H.; Dinger, M.E.; Bennetts, B.; Grigg, J.R.; Jamieson, R.V . NMNAT1 variants cause cone and cone-rod
+dystrophy. Eur. J. Hum. Genet. 2018 ,26, 428–433. [CrossRef] [PubMed]
+25. Eblimit, A.; Zaneveld, S.A.; Liu, W.; Thomas, K.; Wang, K.; Li, Y.; Mardon, G.; Chen, R. NMNAT1 E257K variant, associated with
+Leber Congenital Amaurosis (LCA9), causes a mild retinal degeneration phenotype. Exp. Eye Res. 2018 ,173, 32–43. [CrossRef]
+26. Chiang, P .-W.; Wang, J.; Chen, Y.; Fu, Q.; Zhong, J.; Chen, Y.; Yi, X.; Wu, R.; Gan, H.; Shi, Y.; et al. Exome sequencing identiﬁes
+NMNAT1 mutations as a cause of Leber congenital amaurosis. Nat. Genet. 2012 ,44, 972–974. [CrossRef]
+27. Sears, J.E.; Aaberg, T.A.; Daiger, S.P .; Moshfeghi, D.M. Splice site mutation in the peripherin/RDS gene associated with pattern
+dystrophy of the retina. Am. J. Ophthalmol. 2001 ,132, 693–699. [CrossRef]
+28. Sullivan, L.S.; Bowne, S.J.; Birch, D.G.; Hughbanks-Wheaton, D.; Heckenlively, J.R.; Lewis, R.A.; Garcia, C.A.; Ruiz, R.S.; Blanton,
+S.H.; Northrup, H.; et al. Prevalence of Disease-Causing Mutations in Families with Autosomal Dominant Retinitis Pigmentosa:
+A Screen of Known Genes in 200 Families. Investig. Opthalmol. Vis. Sci. 2006 ,47, 3052–3064. [CrossRef]
+29. Zampaglione, E.; Kinde, B.; Place, E.M.; Navarro-Gomez, D.; Maher, M.; Jamshidi, F.; Nassiri, S.; Mazzone, J.A.; Finn, C.; Schlegel,
+D.; et al. Copy-number variation contributes 9% of pathogenicity in the inherited retinal degenerations. Anesth. Analg. 2020 ,
+22, 1079–1087. [CrossRef]
+30. Shankar, S.P .; Birch, D.G.; Ruiz, R.S.; Hughbanks-Wheaton, D.K.; Sullivan, L.S.; Bowne, S.J.; Stone, E.M.; Daiger, S.P . Founder
+Effect of a c.828+3A>T Splice Site Mutation in Peripherin 2 (PRPH2) Causing Autosomal Dominant Retinal Dystrophies. JAMA
+Ophthalmol. 2015 ,133, 511–517. [CrossRef]
+31. Reeves, M.J.; Goetz, K.E.; Guan, B.; Ullah, E.; Blain, D.; Zein, W.M.; Tumminia, S.J.; Hufnagel, R.B. Genotype–phenotype
+associations in a large PRPH2 -related retinopathy cohort. Hum. Mutat. 2020 ,41, 1528–1539. [CrossRef]
+32. Shankar, S.P .; Hughbanks-Wheaton, D.K.; Birch, D.G.; Sullivan, L.S.; Conneely, K.N.; Bowne, S.J.; Stone, E.M.; Daiger, S.P .
+Autosomal Dominant Retinal Dystrophies Caused by a Founder Splice Site Mutation, c.828+3A>T, in PRPH2 and Protein
+Haplotypes in trans as Modiﬁers. Investig. Opthalmol. Vis. Sci. 2016 ,57, 349–359. [CrossRef] [PubMed]
+33. Mauro-Herrera, M.; Chiang, J.; Radojevic, B.; Bennett, L. Functional Evaluation of Splicing for Variants of Uncertain Signiﬁcance
+in Patients with Inherited Retinal Diseases. Genes 2021 ,12, 993. [CrossRef] [PubMed]
+34. Radojevic, B.; Jones, K.; Klein, M.; Mauro-Herrera, M.; Kingsley, R.; Birch, D.G.; Bennett, L.D. Variable expressivity in patients
+with autosomal recessive retinitis pigmentosa associated with the gene CNGB1 .Ophthalmic Genet. 2021 ,42, 15–22. [CrossRef]
+[PubMed]
+35. Schindler, E.I.; Nylen, E.L.; Ko, A.C.; Affatigato, L.M.; Heggen, A.C.; Wang, K.; Shefﬁeld, V .C.; Stone, E.M. Deducing the
+pathogenic contribution of recessive ABCA4 alleles in an outbred population. Hum. Mol. Genet. 2010 ,19, 3693–3701. [CrossRef]
+36. Jayasundera, K.; Branham, K.; Othman, M.; Rhoades, W.R.; Karoukis, A.J.; Khanna, H.; Swaroop, A.; Heckenlively, J.R. RP2
+Phenotype and Pathogenetic Correlations in X-Linked Retinitis Pigmentosa. JAMA Ophthalmol. 2010 ,128, 915–923. [CrossRef]
+[PubMed]
+37. Breuer, D.K.; Yashar, B.M.; Filippova, E.; Hiriyanna, S.; Lyons, R.H.; Mears, A.J.; Asaye, B.; Acar, C.; Vervoort, R.; Wright,
+A.F.; et al. A Comprehensive Mutation Analysis of RP2 and RPGR in a North American Cohort of Families with X-Linked
+Retinitis Pigmentosa. Am. J. Hum. Genet. 2002 ,70, 1545–1554. [CrossRef] [PubMed]
+38. Renner, A.B.; Fiebig, B.S.; Weber, B.H.; Wissinger, B.; Andreasson, S.; Gal, A.; Cropp, E.; Kohl, S.; Kellner, U. Phenotypic
+Variability and Long-term Follow-up of Patients with Known and Novel PRPH2/RDS Gene Mutations. Am. J. Ophthalmol. 2009 ,
+147, 518–530.e1. [CrossRef]Genes 2023 ,14, 74 15 of 17
+39. Kohl, S.; Baumann, B.; Broghammer, M.; Jägle, H.; Sieving, P .; Kellner, U.; Spegal, R.; Anastasi, M.; Zrenner, E.; Sharpe, L.T.; et al.
+Mutations in the CNGB3 gene encoding the beta-subunit of the cone photoreceptor cGMP-gated channel are responsible for
+achromatopsia (ACHM3) linked to chromosome 8q21. Hum. Mol. Genet. 2000 ,9, 2107–2116. [CrossRef]
+40. Eksandh, L.; Kohl, S.; Wissinger, B. Clinical features of achromatopsia in Swedish patients with deﬁned genotypes. Ophthalmic
+Genet. 2002 ,23, 109–120. [CrossRef]
+41. Johnson, S.; Michaelides, M.; Aligianis, I.A.; Ainsworth, J.R.; Mollon, J.D.; Maher, E.R.; Moore, A.T.; Hunt, D.M. Achromatopsia
+caused by novel mutations in both CNGA3 and CNGB3. J. Med. Genet. 2004 ,41, e20. [CrossRef]
+42. Kohl, S.; Varsanyi, B.; Antunes, G.A.; Baumann, B.; Hoyng, C.B.; Jägle, H.; Rosenberg, T.; Kellner, U.; Lorenz, B.; Salati, R.; et al.
+CNGB3 mutations account for 50% of all cases with autosomal recessive achromatopsia. Eur. J. Hum. Genet. 2005 ,13, 302–308.
+[CrossRef] [PubMed]
+43. Nishiguchi, K.M.; Sandberg, M.A.; Gorji, N.; Berson, E.L.; Dryja, T.P . Cone cGMP-gated channel mutations and clinical ﬁndings
+in patients with achromatopsia, macular degeneration, and other hereditary cone diseases. Hum. Mutat. 2005 ,25, 248–258.
+[CrossRef]
+44. Wiszniewski, W.; Lewis, R.A.; Lupski, J.R. Achromatopsia: The CNGB3 p.T383fsX mutation results from a founder effect and is
+responsible for the visual phenotype in the original report of uniparental disomy 14. Qual. Life Res. 2007 ,121, 433–439. [CrossRef]
+[PubMed]
+45. Mayer, A.K.; Van Cauwenbergh, C.; Rother, C.; Baumann, B.; Reuter, P .; De Baere, E.; Wissinger, B.; Kohl, S.; ACHM Study Group.
+CNGB3 mutation spectrum including copy number variations in 552 achromatopsia patients. Hum. Mutat. 2017 ,38, 1579–1591.
+[CrossRef]
+46. Kinnick, T.R.; Mullins, R.F.; Dev, S.; Leys, M.; Mackey, D.A.; Kay, C.N.; Lam, B.L.; Fishman, G.; Traboulsi, E.; Iezzi, R.; et al.
+Autosomal recessive vitelliform macular dystrophy in a large cohort of vitelliform macular dystrophy patients. Retina 2011 ,
+31, 581–595. [CrossRef] [PubMed]
+47. Jespersgaard, C.; Fang, M.; Bertelsen, M.; Dang, X.; Jensen, H.; Chen, Y.; Bech, N.; Dai, L.; Rosenberg, T.; Zhang, J.; et al. Molecular
+genetic analysis using targeted NGS analysis of 677 individuals with retinal dystrophy. Sci. Rep. 2019 ,9, 1219. [CrossRef]
+48. Vervoort, R.; Lennon, A.; Bird, A.C.; Tulloch, B.; Axton, R.; Miano, M.G.; Meindl, A.; Meitinger, T.; Ciccodicola, A.; Wright, A.F.
+Mutational hot spot within a new RPGR exon in X-linked retinitis pigmentosa. Nat. Genet. 2000 ,25, 462–466. [CrossRef]
+49. Bader, I.; Brandau, O.; Achatz, H.; Apfelstedt-Sylla, E.; Hergersberg, M.; Lorenz, B.; Wissinger, B.; Wittwer, B.; Rudolph, G.;
+Meindl, A.; et al. X-linked Retinitis Pigmentosa: RPGR Mutations in Most Families with Deﬁnite X Linkage and Clustering of
+Mutations in a Short Sequence Stretch of Exon ORF15. Investig. Opthalmol. Vis. Sci. 2003 ,44, 1458–1463. [CrossRef]
+50. Lewis, R.A.; Shroyer, N.F.; Singh, N.; Allikmets, R.; Hutchinson, A.; Li, Y.; Lupski, J.R.; Leppert, M.; Dean, M. Genotype/Phenotype
+Analysis of a Photoreceptor-Speciﬁc ATP-Binding Cassette Transporter Gene, ABCR, in Stargardt Disease. Am. J. Hum. Genet.
+1999 ,64, 422–434. [CrossRef]
+51. Klevering, B.J.; Yzer, S.; Rohrschneider, K.; Zonneveld, M.; Allikmets, R.; Born, L.I.V .D.; Maugeri, A.; Hoyng, C.B.; Cremers,
+F.P . Microarray-based mutation analysis of the ABCA4 (ABCR) gene in autosomal recessive cone–rod dystrophy and retinitis
+pigmentosa. Eur. J. Hum. Genet. 2004 ,12, 1024–1032. [CrossRef]
+52. Stone, E.M.; Andorf, J.L.; Whitmore, S.S.; DeLuca, A.P .; Giacalone, J.C.; Streb, L.M.; Braun, T.A.; Mullins, R.F.; Scheetz, T.E.;
+Shefﬁeld, V .C.; et al. Clinically Focused Molecular Investigation of 1000 Consecutive Families with Inherited Retinal Disease.
+Ophthalmology 2017 ,124, 1314–1331. [CrossRef] [PubMed]
+53. Chen, L.; Lee, W.; De Carvalho, J.R.L.; Chang, S.; Tsang, S.H.; Allikmets, R.; Sparrow, J.R. Multi-platform imaging in ABCA4-
+Associated Disease. Sci. Rep. 2019 ,9, 6436. [CrossRef] [PubMed]
+54. Fujinami, K.; Zernant, J.; Chana, R.K.; Wright, G.A.; Tsunoda, K.; Ozawa, Y.; Tsubota, K.; Webster, A.R.; Moore, A.T.; Allikmets,
+R.; et al. ABCA4 Gene Screening by Next-Generation Sequencing in a British Cohort. Investig. Opthalmol. Vis. Sci. 2013 ,
+54, 6662–6674. [CrossRef] [PubMed]
+55. Lenassi, E.; Vincent, A.; Li, Z.; Saihan, Z.; Coffey, A.J.; Steele-Stallard, H.B.; Moore, A.T.; Steel, K.P .; Luxon, L.M.; H éon, E.;
+et al. A detailed clinical and molecular survey of subjects with nonsyndromic USH2A retinopathy reveals an allelic hierarchy of
+disease-causing variants. Eur. J. Hum. Genet. 2015 ,23, 1318–1327. [CrossRef] [PubMed]
+56. McGee, T.L.; Seyedahmadi, B.J.; Sweeney, M.O.; Dryja, T.P .; Berson, E.L. Novel mutations in the long isoform of the USH2A gene
+in patients with Usher syndrome type II or non-syndromic retinitis pigmentosa. J. Med Genet. 2010 ,47, 499–506. [CrossRef]
+57. Dreyer, B.; Tranebjærg, L.; Rosenberg, T.; Weston, M.D.; Kimberling, W.J.; Nilssen, O. Identiﬁcation of novel USH2A mutations:
+Implications for the structure of USH2A protein. Eur. J. Hum. Genet. 2000 ,8, 500–506. [CrossRef] [PubMed]
+58. Failler, M.; Gee, H.Y.; Krug, P .; Joo, K.; Halbritter, J.; Belkacem, L.; Filhol, E.; Porath, J.D.; Braun, D.A.; Schueler, M.; et al. Mutations
+of CEP83 Cause Infantile Nephronophthisis and Intellectual Disability. Am. J. Hum. Genet. 2014 ,94, 905–914. [CrossRef] [PubMed]
+59. Veldman, B.C.F.; Kuper, W.F.E.; Lilien, M.; Schuurs-Hoeijmakers, J.H.M.; Marcelis, C.; Phan, M.; Hettinga, Y.; Talsma, H.E.; van
+Hasselt, P .M.; Haijes, H.A. Beyond nephronophthisis: Retinal dystrophy in the absence of kidney dysfunction in childhood
+expands the clinical spectrum of cep83 deﬁciency. Am. J. Med. Genet. A. 2021 ,185, 2204–2210. [CrossRef]
+60. Alapati, A.; Goetz, K.; Suk, J.; Navani, M.; Al-Tarouti, A.; Jayasundera, T.; Tumminia, S.J.; Lee, P .; Ayyagari, R. Molecular
+Diagnostic Testing by eyeGENE: Analysis of Patients with Hereditary Retinal Dystrophy Phenotypes Involving Central Vision
+Loss. Investig. Opthalmol. Vis. Sci. 2014 ,55, 5510–5521. [CrossRef] [PubMed]Genes 2023 ,14, 74 16 of 17
+61. Cella, W.; Greenstein, V .C.; Zernant-Rajang, J.; Smith, T.R.; Barile, G.; Allikmets, R.; Tsang, S.H. G1961E mutant allele in the
+Stargardt disease gene ABCA4 causes bull’s eye maculopathy. Exp. Eye Res. 2009 ,89, 16–24. [CrossRef]
+62. Zhang, K.; Garibaldi, D.C.; Kniazeva, M.; Albini, T.; Chiang, M.F.; Kerrigan, M.; Sunness, J.S.; Han, M.; Allikmets, R. A novel
+mutation in the ABCR gene in four patients with autosomal recessive Stargardt disease. Am. J. Ophthalmol. 1999 ,128, 720–724.
+[CrossRef] [PubMed]
+63. Zhao, L.; Wang, F.; Wang, H.; Li, Y.; Alexander, S.; Wang, K.; Willoughby, C.; Zaneveld, J.E.; Jiang, L.; Soens, Z.T.; et al. Next-
+generation sequencing-based molecular diagnosis of 82 retinitis pigmentosa probands from Northern Ireland. Qual. Life Res.
+2015 ,134, 217–230. [CrossRef] [PubMed]
+64. Roberts, L.J.; Nossek, C.A.; Greenberg, L.J.; Ramesar, R.S. Stargardt macular dystrophy: Common ABCA4 mutations in South
+Africa—establishment of a rapid genetic test and relating risk to patients. Mol. Vis. 2012 ,18, 280–289. [PubMed]
+65. Hariri, A.H.; Gui, W.; O’Keefe, G.A.D.; Ip, M.S.; Sadda, S.R.; Gorin, M.B. Ultra-Wideﬁeld Fundus Autoﬂuorescence Imaging of
+Patients with Retinitis Pigmentosa. Ophthalmol. Retin. 2018 ,2, 735–745. [CrossRef]
+66. Wang, F.; Wang, H.; Tuan, H.-F.; Nguyen, D.H.; Sun, V .; Keser, V .; Bowne, S.J.; Sullivan, L.S.; Luo, H.; Zhao, L.; et al. Next generation
+sequencing-based molecular diagnosis of retinitis pigmentosa: Identiﬁcation of a novel genotype-phenotype correlation and
+clinical reﬁnements. Hum. Genet. 2014 ,133, 331–345. [CrossRef]
+67. Pierrache, L.H.; Hartel, B.P .; van Wijk, E.; Meester-Smoor, M.A.; Cremers, F.P .; de Baere, E.; de Zaeytijd, J.; van Schooneveld, M.J.;
+Cremers, C.W.; Dagnelie, G.; et al. Visual Prognosis in USH2A-Associated Retinitis Pigmentosa Is Worse for Patients with Usher
+Syndrome Type IIa Than for Those with Nonsyndromic Retinitis Pigmentosa. Ophthalmology 2016 ,123, 1151–1160. [CrossRef]
+68. Xi, Q.; Li, L.; Traboulsi, E.I.; Wang, Q.K. Novel ABCA4 compound heterozygous mutations cause severe progressive autosomal
+recessive cone-rod dystrophy presenting as Stargardt disease. Mol. Vis. 2009 ,15, 638–645.
+69. Downes, S.M.; Packham, E.; Cranston, T.; Clouston, P .; Seller, A.; N émeth, A.H. Detection Rate of Pathogenic Mutations in ABCA4
+Using Direct Sequencing: Clinical and Research Implications. Arch. Ophthalmol. 2012 ,130, 1486–1490. [CrossRef]
+70. Braun, T.A.; Mullins, R.; Wagner, A.; Andorf, J.L.; Johnston, R.M.; Bakall, B.B.; DeLuca, A.; Fishman, G.A.; Lam, B.L.; Weleber,
+R.G.; et al. Non-exomic and synonymous variants in ABCA4 are an important cause of Stargardt disease. Hum. Mol. Genet. 2013 ,
+22, 5136–5145. [CrossRef]
+71. Jonsson, F.; Burstedt, M.S.; Sandgren, O.; Norberg, A.; Golovleva, I. Novel mutations in CRB1 and ABCA4 genes cause Leber
+congenital amaurosis and Stargardt disease in a Swedish family. Eur. J. Hum. Genet. 2013 ,21, 1266–1271. [CrossRef]
+72. Schulz, H.L.; Grassmann, F.; Kellner, U.; Spital, G.; Rüther, K.; Jägle, H.; Hufendiek, K.; Rating, P .; Huchzermeyer, C.; Baier,
+M.J.; et al. Mutation Spectrum of the ABCA4 Gene in 335 Stargardt Disease Patients from a Multicenter German Cohort—Impact
+of Selected Deep Intronic Variants and Common SNPs. Investig. Opthalmol. Vis. Sci. 2017 ,58, 394–403. [CrossRef] [PubMed]
+73. Chun, R.; Fishman, G.A.; Collison, F.T.; Stone, E.M.; Zernant, J.; Allikmets, R. The value of retinal imaging with infrared scanning
+laser ophthalmoscopy in patients with stargardt disease. Retina 2014 ,34, 1391–1399. [CrossRef] [PubMed]
+74. Zernant, J.; Lee, W.; Nagasaki, T.; Collison, F.T.; Fishman, G.A.; Bertelsen, M.; Rosenberg, T.; Gouras, P .; Tsang, S.H.; Allikmets, R.
+Extremely hypomorphic and severe deep intronic variants in the ABCA4 locus result in varying Stargardt disease phenotypes.
+Mol. Case Stud. 2018 ,4. [CrossRef] [PubMed]
+75. Jacobson, S.G.; Aleman, T.S.; Cideciyan, A.V .; Roman, A.J.; Sumaroka, A.; Windsor, E.A.M.; Schwartz, S.B.; Heon, E.; Stone, E.M.
+Deﬁning the Residual Vision in Leber Congenital Amaurosis Caused by RPE65 Mutations. Investig. Opthalmol. Vis. Sci. 2009 ,
+50, 2368–2375. [CrossRef]
+76. Sullivan, L.S.; Koboldt, D.C.; Bowne, S.J.; Lang, S.; Blanton, S.H.; Cadena, E.; Avery, C.E.; Lewis, R.A.; Webb-Jones, K.; Wheaton,
+D.H.; et al. A Dominant Mutation in Hexokinase 1 ( HK1 ) Causes Retinitis Pigmentosa. Investig. Opthalmol. Vis. Sci. 2014 ,
+55, 7147–7158. [CrossRef]
+77. Wang, F.; Wang, Y.; Zhang, B.; Zhao, L.; Lyubasyuk, V .; Wang, K.; Xu, M.; Li, Y.; Wu, F.; Wen, C.; et al. A Missense Mutation in
+HK1 Leads to Autosomal Dominant Retinitis Pigmentosa. Investig. Opthalmol. Vis. Sci. 2014 ,55, 7159–7164. [CrossRef]
+78. Yuan, Z.; Li, B.; Xu, M.; Chang, E.Y.; Li, H.; Yang, L.; Wu, S.; Soens, Z.T.; Li, Y.; Wong, L.-J.C.; et al. The phenotypic variability of
+HK1-associated retinal dystrophy. Sci. Rep. 2017 ,7, 7051. [CrossRef]
+79. Eisenberger, T.; Neuhaus, C.; Khan, A.O.; Decker, C.; Preising, M.N.; Friedburg, C.; Bieg, A.; Gliem, M.; Issa, P .C.; Holz, F.G.; et al.
+Increasing the Yield in Targeted Next-Generation Sequencing by Implicating CNV Analysis, Non-Coding Exons and the Overall
+Variant Load: The Example of Retinal Dystrophies. PLoS ONE 2013 ,8, e78496. [CrossRef]
+80. Bujakowska, K.M.; Fernandez-Godino, R.; Place, E.; Consugar, M.; Navarro-Gomez, D.; White, J.; Bedoukian, E.C.; Zhu, X.; Xie,
+H.M.; Gai, X.; et al. Copy-number variation is an important contributor to the genetic causality of inherited retinal degenerations.
+Genet. Med. 2017 ,19, 643–651. [CrossRef]
+81. Abu-Saﬁeh, L.; Vithana, E.N.; Mantel, I.; Holder, G.E.; Pelosini, L.; Bird, A.C.; Bhattacharya, S.S. A large deletion in the adRP gene
+PRPF31: Evidence that haploinsufﬁciency is the cause of disease. Mol. Vis. 2006 ,12, 384–388.
+82. Köhn, L.M.; Bowne, S.J.; Sullivan, L.S.; Daiger, S.P .; Burstedt, M.S.I.; Kadzhaev, K.; Sandgren, O.; Golovleva, I. Breakpoint
+characterization of a novel 59 kb genomic deletion on 19q13.42 in autosomal-dominant retinitis pigmentosa with incomplete
+penetrance. Eur. J. Hum. Genet. 2009 ,17, 651–655. [CrossRef] [PubMed]
+83. Khan, M.; Cornelis, S.S.; De Pozo-Valero, M.L.; Whelan, L.; Runhart, E.H.; Mishra, K.; Bults, F.; AlSwaiti, Y.; AlTalbishi, A.; De
+Baere, E.; et al. Resolving the dark matter of ABCA4 for 1054 Stargardt disease probands through integrated genomics and
+transcriptomics. Anesth. Analg. 2020 ,22, 1235–1246. [CrossRef] [PubMed]Genes 2023 ,14, 74 17 of 17
+84. Rahman, S.; Ecob, R.; Costello, H.; Sweeney, M.G.; Duncan, A.J.; Pearce, K.; Strachan, D.; Forge, A.; Davis, A.; Bitner-Glindzicz, M.
+Hearing in 44–45 year olds with m.1555A>G, a genetic mutation predisposing to aminoglycoside-induced deafness: A population
+based cohort study. BMJ Open 2012 ,2, e000411. [CrossRef]
+85. Jing, W.; Zongjie, H.; Denggang, F.; Na, H.; Bin, Z.; Aifen, Z.; Xijiang, H.; Cong, Y.; Yunping, D.; Ring, H.Z.; et al. Mitochondrial
+mutations associated with aminoglycoside ototoxicity and hearing loss susceptibility identiﬁed by meta-analysis. J. Med. Genet.
+2015 ,52, 95–103. [CrossRef] [PubMed]
+86. Estivill, X.; Govea, N.; Barcel ó, A.; Perell ó, E.; Badenas, C.; Romero, E.; Moral, L.; Scozzari, R.; D’Urbano, L.; Zeviani, M.; et al.
+Familial Progressive Sensorineural Deafness Is Mainly Due to the mtDNA A1555G Mutation and Is Enhanced by Treatment with
+Aminoglycosides. Am. J. Hum. Genet. 1998 ,62, 27–35. [CrossRef]
+87. Parmeggiani, F.; Barbaro, V .; Migliorati, A.; Raffa, P .; Nespeca, P .; De Nadai, K.; DEL Vecchio, C.; Pal ù, G.; Parolin, C.; Di Iorio, E.
+Novel Variants of RPGR in X-Linked Retinitis Pigmentosa Families and Genotype-Phenotype Correlation. Eur. J. Ophthalmol.
+2017 ,27, 240–248. [CrossRef] [PubMed]
+88. Miano, M.G.; Testa, F.; Filippini, F.; Trujillo, M.; Conte, I.; Lanzara, C.; Mill án, J.M.; De Bernardo, C.; Grammatico, B.; Mangino,
+M.; et al. Identiﬁcation of novel RP2 mutations in a subset of X-linked retinitis pigmentosa families and prediction of new
+domains. Hum. Mutat. 2001 ,18, 109–119. [CrossRef]
+89. Kurata, K.; Hosono, K.; Hayashi, T.; Mizobuchi, K.; Katagiri, S.; Miyamichi, D.; Nishina, S.; Sato, M.; Azuma, N.; Nakano, T.; et al.
+X-linked Retinitis Pigmentosa in Japan: Clinical and Genetic Findings in Male Patients and Female Carriers. Int. J. Mol. Sci. 2019 ,
+20, 1518. [CrossRef]
+90. Broadgate, S.; Yu, J.; Downes, S.M.; Halford, S. Unravelling the genetics of inherited retinal dystrophies: Past, present and future.
+Prog. Retin. Eye Res. 2017 ,59, 53–96. [CrossRef]
+91. Audo, I.; Bujakowska, K.M.; L éveillard, T.; Mohand-Saïd, S.; Lancelot, M.-E.; Germain, A.; Antonio, A.; Michiels, C.; Saraiva, J.-P .;
+Letexier, M.; et al. Development and application of a next-generation-sequencing (NGS) approach to detect known and novel
+gene defects underlying retinal diseases. Orphanet. J. Rare Dis. 2012 ,7, 8. [CrossRef]
+92. Neveling, K.; Collin, R.W.; Gilissen, C.; van Huet, R.A.; Visser, L.; Kwint, M.P .; Gijsen, S.J.; Zonneveld, M.N.; Wieskamp, N.; de
+Ligt, J.; et al. Next-generation genetic testing for retinitis pigmentosa. Hum. Mutat. 2012 ,33, 963–972. [CrossRef] [PubMed]
+93. O’Sullivan, J.; Mullaney , B.G.; Bhaskar, S.S.; Dickerson, J.E.; Hall, G.; O’Grady , A.; Webster, A.; Ramsden, S.C.; Black, G.C. A paradigm
+shift in the delivery of services for diagnosis of inherited retinal disease. J. Med. Genet. 2012 ,49, 322–326. [CrossRef] [PubMed]
+94. Corton, M.; Nishiguchi, K.M.; Avila-Fernandez, A.; Nikopoulos, K.; Riveiro- Álvarez, R.; Tatu, S.D.; Ayuso, C.; Rivolta, C. Exome
+Sequencing of Index Patients with Retinal Dystrophies as a Tool for Molecular Diagnosis. PLoS ONE 2013 ,8, e65574. [CrossRef]
+[PubMed]
+95. Zhong, X.; Gutierrez, C.; Xue, T.; Hampton, C.; Vergara, M.N.; Cao, L.-H.; Peters, A.; Park, T.S.; Zambidis, E.T.; Meyer, J.S.; et al.
+Generation of three-dimensional retinal tissue with functional photoreceptors from human iPSCs. Nat. Commun. 2014 ,5, 1–14.
+[CrossRef]
+96. Sheck, L.H.N.; Esposti, S.D.; Mahroo, O.A.; Arno, G.; Pontikos, N.; Wright, G.; Webster, A.R.; Khan, K.N.; Michaelides, M.
+Panel-based genetic testing for inherited retinal disease screening 176 genes. Mol. Genet. Genom. Med. 2021 ,9, e1663. [CrossRef]
+97. Cremers, F.P .; Lee, W.; Collin, R.W.; Allikmets, R. Clinical spectrum, genetic complexity and therapeutic approaches for retinal
+disease caused by ABCA4 mutations. Prog. Retin. Eye Res. 2020 ,79, 100861. [CrossRef]
+98. Del Pozo-Valero, M.; Riveiro-Alvarez, R.; Martin-Merida, I.; Blanco-Kelly, F.; Swaﬁri, S.; Lorda-Sanchez, I.; Trujillo-Tiebas, M.J.;
+Carreño, E.; Jimenez-Rolando, B.; Garcia-Sandoval, B.; et al. Impact of Next Generation Sequencing in Unraveling the Genetics of
+1036 Spanish Families with Inherited Macular Dystrophies. Investig. Ophthalmol. Vis. Sci. 2022 ,63, 11. [CrossRef]
+99. Roosing, S.; Thiadens, A.A.; Zekveld-Vroon, R.C.; Hoyng, C.B.; Hollander, A.I.d.; Cremers, F.P .; Klaver, C.C. Is there evidence for
+a digenic model in stargardt disease? Investig. Ophthalmol. Vis. Sci. 2011 ,52, 5395.
+100. Zhou, R.; Mawatari, G.; Cai, X.-B.; Shen, R.-J.; Wang, Y.-H.; Guo, Y.-M.; Guo, F.-Y.; Yuan, J.; Pan, D.; Nao-I, N.; et al. CLEC3B is a
+novel causative gene for macular-retinal dystrophy. Genet. Med. 2022 ,24, 1249–1260. [CrossRef]
+101. Bartolini, F.; Bhamidipati, A.; Thomas, S.; Schwahn, U.; Lewis, S.A.; Cowan, N.J. Functional Overlap between Retinitis Pigmentosa
+2 Protein and the Tubulin-speciﬁc Chaperone Cofactor C. J. Biol. Chem. 2002 ,277, 14629–14634. [CrossRef]
+102. Kühnel, K.; Veltel, S.; Schlichting, I.; Wittinghofer, A. Crystal Structure of the Human Retinitis Pigmentosa 2 Protein and Its
+Interaction with Arl3. Structure 2006 ,14, 367–378. [CrossRef] [PubMed]
+103. Braun, D.A.; Hildebrandt, F. Ciliopathies. Cold Spring Harb. Perspect. Biol. 2017 ,9, a028191. [CrossRef] [PubMed]
+104. Waters, A.M.; Beales, P .L. Ciliopathies: An expanding disease spectrum. Pediatr. Nephrol. 2011 ,26, 1039–1056. [CrossRef]
+105. Thomas, S.; Boutaud, L.; Reilly, M.L.; Benmerah, A. Cilia in hereditary cerebral anomalies. Biol. Cell 2019 ,111, 217–231. [CrossRef]
+[PubMed]
+106. Richards, S.; Aziz, N.; Bale, S.; Bick, D.; Das, S.; Gastier-Foster, J.; Grody, W.W.; Hegde, M.; Lyon, E.; Spector, E.; et al. Standards
+and guidelines for the interpretation of sequence variants: A joint consensus recommendation of the American College of Medical
+Genetics and Genomics and the Association for Molecular Pathology. Anesth. Analg. 2015 ,17, 405–424. [CrossRef]
+Disclaimer/Publisher’s Note: The statements, opinions and data contained in all publications are solely those of the individual
+author(s) and contributor(s) and not of MDPI and/or the editor(s). MDPI and/or the editor(s) disclaim responsibility for any injury to
+people or property resulting from any ideas, methods, instructions or products referred to in the content.

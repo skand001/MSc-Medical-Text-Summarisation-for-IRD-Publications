@@ -1,0 +1,948 @@
+NEURAL REGENERATION RESEARCH ｜Vol 18｜No. 4｜April  2023｜701
+NEURAL REGENERATION RESEARCH
+www.nrronline.org
+ ReviewAbstract  
+The majority of inherited retinal degenerative diseases and dry age-related macular degeneration 
+are characterized by decay of the outer retina and photoreceptors, which leads to progressive loss 
+of vision. The inner retina, including second- and third-order retinal neurons, also shows aberrant 
+structural changes at all stages of degeneration. Müller glia, the major glial cells maintain retinal 
+homeostasis, activating and rearranging immediately in response to photoreceptor stress. These 
+phenomena are collectively known as retinal remodeling and are anatomically well described, but 
+their impact on visual function is less well characterized. Retinal remodeling has traditionally been 
+considered a detrimental chain of events that decreases visual function. However, emerging evidence 
+from functional assays suggests that remodeling could also be a part of a survival mechanism wherein 
+the inner retina responds plastically to outer retinal degeneration. The visual system´s first synapses 
+between the photoreceptors and bipolar cells undergo rewiring and functionally compensate to 
+maintain normal signal output to the brain. Distinct classes of retinal ganglion cells remain even 
+after the massive loss of photoreceptors. Müller glia possess the regenerative potential for retinal 
+recovery and possibly exert adaptive transcriptional changes in response to neuronal loss. These 
+types of homeostatic changes could potentially explain the well-maintained visual function observed 
+in patients with inherited retinal degenerative diseases who display prominent anatomic retinal 
+pathology. This review will focus on our current understanding of retinal neuronal and Müller glial 
+adaptation for the potential preservation of retinal activity during photoreceptor degeneration. 
+Targeting retinal self-compensatory responses could help generate universal strategies to delay 
+sensory disease progression.
+Key Words:  bipolar cells; electroretinography; Müller glia; photoreceptors; plasticity; retinal 
+degeneration; retinal neuron; retinal remodeling; retinal ganglion cells
+Introduction 
+The immature retina undergoes dynamic changes in synaptic activity and 
+connectivity during early development. The opening of the eye stimulates 
+the maturation of retinal ganglion cells (RGCs). Light deprivation affects 
+the stratification of RGC dendrites and results in permanent damage to 
+visual responses (Tian and Copenhagen, 2001, 2003; Di Marco et al., 2009; 
+Strettoi et al., 2022). In addition, mice with a loss of rod bipolar cells (RBCs) 
+early in development were found to adjust synaptogenesis to preserve 
+retinal function in dim light (Johnson et al., 2017). Similarly, the loss of a 
+major cone bipolar cell (CBC) type can be fully compensated by other types 
+of CBCs such that visual contrast and temporal frequency tuning is fully 
+preserved by adulthood (Tien et al., 2017). The role of homeostatic plasticity 
+in maintaining retinal function during development is further evidenced 
+by the formation of synaptic connections between RBCs and cones in mice 
+with neural retinal leucine zipper deficiency (Strettoi et al., 2004). This 
+hypothesis is further supported by the preservation of retinal circuitry in mice 
+with disproportionately large retinal neural cells induced by overexpressed 
+antiapoptotic gene  Bcl-2  (Strettoi and Volpini, 2002). However, it is unclear 
+if matured retinas demonstrate plasticity to maintain retinal function in 
+degenerative diseases. 
+Photoreceptor degeneration causes visual dysfunction and ultimately 
+blindness in retinal disorders across all age groups. Synaptic connectivity in 
+the inner retina and Müller glia processes undergo robust structural changes 
+in response to photoreceptor loss. However, it is poorly known how these 
+structural changes manifest in retinal function and vision. Recent studies 
+suggest that mammalian retinas possess the capability of undergoing adaptive 
+changes to preserve neural function during photoreceptor degeneration 
+in a mouse model of retinitis pigmentosa (RP) (Leinonen et al., 2020; Fu 
+et al., 2021b; Tomita et al., 2021), a rare genetic disorder characterized 
+by photoreceptor loss (> 150 causal genes identified so far) (Newton and 
+Megaw, 2020). This phenomenon corresponds to clinical observations that 
+normal vision can be maintained for years in patients with inherited retinal 
+degenerative diseases. Current ophthalmological technologies allow minimally 
+invasive, longitudinal investigation of retinal function and morphology. Electroretinography (ERG) precisely records the electrical activation of the 
+retina, producing data with signals corresponding to specific cellular subtypes. 
+The eye´s transparency allows unrestricted examination of retinal anatomy 
+using optical coherence tomography and fundoscopy. The retina is also a 
+very practical target tissue for molecular biology and neuroscience research 
+techniques ( Figure 1 ). These aspects contribute to the retina being one of 
+the best characterized neuronal systems in our bodies. Deciphering how the 
+retina adjusts to photoreceptor defects could enhance our understanding 
+of sensory diseases in general. In this review, we focus on the current 
+knowledge of the impacts of retinal plasticity on neuronal function. Literature 
+was searched between March and June 2022 using keywords “Retinal AND 
+degeneration AND vision AND remodeling OR plasticity” and “Müller AND glial 
+AND reprogramming OR remodeling”, respectively.
+Retinal Remodeling and Rewiring and Functional 
+Consequences during Retinal Degeneration
+RP , primarily characterized by rod cell death, loss of night vision, and visual 
+field reduction, accounts for roughly half of inherited retinal degenerative 
+diseases. Clinically prominent pathology in the central retina can be delayed 
+by several years when secondary cone photoreceptor death ensues (Hartong 
+et al., 2006). In the early stages of RP , the retinal neural connectivity may 
+undergo remodeling in conjunction with progressive rod degeneration (Cuenca 
+et al., 2014; D’Orazi et al., 2014; Pfeiffer et al., 2020; Strettoi et al., 2022).
+Retinal remodeling is characterized into Phases 0 to 3 (Pfeiffer et al., 2020). 
+Phase 0 represents the healthy state of the retina. Phase 1 consists of initial 
+photoreceptor stress, rod degeneration, glial activation, as well as emerging 
+glial and neural remodeling characterized by sprouting of rod, RBC, and 
+horizontal cell (HC) processes. Specifically, rod axons begin to sprout beyond 
+the outer plexiform layer (OPL) into the inner retina and can reach the inner 
+limiting membrane. RBCs and rod-contacting HCs retract their dendrites 
+from rods and their dendrites may find new contacts with cone pedicles. 
+The ON pathway, which activates at light onset, is particularly susceptible 
+to remodeling, whereas the OFF pathway, responsible for light decrements, 
+1Faculty of Health Sciences, School of Pharmacy, University of Eastern Finland, Kuopio, Finland; 2Department of Ophthalmology, Boston Children’s Hospital, Harvard Medical School, 
+Boston, MA, USA
+*Correspondence to:  Henri O. Leinonen, PhD, henri.leinonen@uef.fi; Zhongjie Fu, PhD, zhongjie.fu@childrens.harvard.edu.
+https://orcid.org/0000-0002-0388-832X (Henri O. Leinonen); https://orcid.org/0000-0002-8182-2983 (Zhongjie Fu) 
+Funding: This work was supported by NIH R01EY032492, Boston Children’s Hospital (OFD/BTREC/CTREC Faculty Career Development Grant 97906, Pilot Grant 92214, and 
+Ophthalmology Foundation 85010), Mass Lions Eye Foundation 87820, Blind Children’s Center 89282 (to ZF); Academy of Finland grant 346295, Finnish Eye and Tissue Bank 
+Foundation, Retina Registered Association (Finland), and Sokeain Ystävät/De Blindas Vänner Registered Association (to HOL).
+How to cite this article: Leinonen HO, Bull E, Fu Z (2023) Neural and Müller glial adaptation of the retina to photoreceptor degeneration. Neural Regen Res 18(4):701-707. From the Contents
+Introduction 701
+Retinal Remodeling and Rewiring and Functional 
+Consequences during Retinal Degeneration701
+Müller Glia-Derived Retina Adaptation during 
+Photoreceptor Degeneration704
+Conclusion 705Neural and Müller glial adaptation of the retina to 
+photoreceptor degeneration
+https://doi.org/10.4103/1673-5374.354511
+Date of submission: May 17, 2022 
+Date of decision: June 18, 2022 
+Date of acceptance: July 12, 2022 
+Date of web publication: September 16, 2022 Henri O. Leinonen1, *, Edward Bull2, Zhongjie Fu2, *702   ｜NEURAL REGENERATION RESEARCH ｜Vol 18｜No. 4｜April  2023
+NEURAL REGENERATION RESEARCH
+www.nrronline.org
+ Reviewappears less susceptible to these changes. Concurrent with dendritic 
+retraction from the OPL, metabotropic glutamate receptor-6 is downregulated 
+in ON-RBC dendrites and can mislocalize to the RBC soma and axons (Gargini 
+et al., 2007; Barhoum et al., 2008). A large proportion of RBCs and ON-CBCs 
+can become “OFF-BC-like” as they start to aberrantly express ionotropic 
+glutamate receptors during progressive photoreceptor degeneration (Marc 
+et al., 2007; Jones et al., 2011). In Phase 2, cone death occurs. BCs become 
+completely deafferented. HCs can extend dendrites backwards into the inner 
+plexiform layer, and even amacrine cells and RGCs initiate sprouting (Strettoi 
+and Pignatelli, 2000; Strettoi et al., 2002; Jones et al., 2003; Pfeiffer et al., 
+2020). Phase 3 represents the most advanced stage when all photoreceptors 
+have died, leading to neurite outgrowth by all retinal neuron classes and 
+global retinal cell death. 
+Unlike anatomical descriptions of remodeling, the functionality of the 
+rewired retina, particularly in early disease stages, is less well understood. 
+Emerging evidence suggests that early remodeling could be a manifestation 
+of neuroplastic events (homeostatic plasticity) trying to retain normal light 
+responses and visual function. Adaptational changes in retinal function in 
+response to partial photoreceptor degeneration have been observed in 
+multiple disease paradigms such as the light-induced retinal degeneration 
+(LIRD) model (Richards et al., 2006; Montalban-Soler et al., 2012; Rubin et al., 
+2022), the photoreceptor ablation model (Care et al., 2019, 2020), and the 
+progressive retinal degeneration model (Leinonen et al., 2020). 
+Retina can adapt to partial photoreceptor loss 
+Inner retina function recovers after partial light-induced retinal 
+degeneration
+Increasing evidence of inner neural retinal plasticity in mature retinas has been suggested in the past two decades. When C57BL/6J and Balb/C cross-
+bred mice are subjected to a continuous 20-day bright white light regimen 
+(150–175 lux) to induce partial LIRD, there is a 50% loss in both the outer 
+nuclear layer (ONL) thickness and scotopic ERG a-wave amplitude (Richards 
+et al., 2006). Interestingly, the b-wave amplitude recovers to a higher 60% 
+level. The negative polarity ERG a-wave represents the sum activation of 
+photoreceptors, which is primarily rod-driven in scotopic conditions (Penn 
+and Hagins, 1969). The positive b-wave occurs when the signal is transmitted 
+from the photoreceptors to bipolar cells (Stockton and Slaughter, 1989). In 
+theory, if diminished photoreceptor function directly propagates to inner 
+retinal function, both ERG a- and b-wave amplitudes should decline by the 
+same degree. Furthermore, the amplitude of fast frequency oscillatory 
+potentials, which are believed to be mainly generated at the level of amacrine 
+and ganglion cell interactions (Dong et al., 2004), initially drops significantly 
+at 0–60 days post LIRD, but recovers to near normal levels by 90 days post 
+LIRD (Richards et al., 2006). These observations indicate functional adaptation 
+in the inner retinal circuitry during long-term LIRD. Similar observations are 
+also reported in a 24-hour LIRD paradigm with a brighter light regimen (3000 
+lux) in Balb/C mice, in which a permanent 30% loss of a-wave amplitude is 
+reported. However, these mice also display b-waves that gradually recovered 
+to near normal levels by 7 days post LIRD (Montalban-Soler et al., 2012). The 
+scotopic threshold responses representing ganglion cell function (Saszik et 
+al., 2002) recovered completely (Montalban-Soler et al., 2012). In Sprague-
+Dawley albino rats subjected to partial LIRD, the ERG b-wave also recovered 
+to over 80% of its original amplitude (Rubin et al., 2022). Moreover, inner 
+neural retinal adaption may occur in large animals subjected to LIRD. In LIRD-
+induced RHOT4R mutant dogs, there is a light-dose-dependent thinning of ONL 
+(Iwabe et al., 2016). The visual behavior of these dogs at scotopic, mesopic, 
+or photopic testing conditions (ranging from 0.003 to 65 lux) is normal as 
+measured at 2 and 33 weeks post LIRD in an obstacle-avoidance behavioral 
+vision testing. Taken together, following an acute phase of suppressed inner 
+retina function after partial light damage, the downstream retinal circuitry 
+seems to recover despite permanent sensory cell dysfunction.
+Synaptic connectivity plasticity and cell migration restoration after 
+controlled photoreceptor injury
+In addition to LIRD, laser photocoagulation has also been used to injure 
+the outer retina structures while leaving the inner retina without directly 
+applied damage (Sher et al., 2013; Beier et al., 2017). In rabbit retinas with 
+laser-induced injury specifically in RPE/photoreceptors, the lesion site heals 
+as evidenced by the migration of adjacent photoreceptors to occupy the 
+lesion site. The migrating photoreceptors establish new functional synaptic 
+connections with local bipolar cells. The visual sensitivity of RGCs at the 
+lesion site recovers to baseline levels after 2 months (Sher et al., 2013). 
+Importantly, typical remodeling events include deafferentation of RBCs, 
+followed by sprouting and formation of ectopic synapses in the ONL, which 
+typically occur immediately following injury (Beier et al., 2017). However, 
+as healthy photoreceptors continuously migrated into the lesion site, RBCs 
+abandon aberrant connections to favor properly formed local synapses at 
+the OPL. In the retinas of ground squirrels subjected to photocoagulation 
+(Beier et al., 2018), there is a remarkable capability of the adult retina 
+for selective circuit repair, as expanded short-wavelength sensitive cone   
+(S-cone) connecting CBCs dendritic trees bypass the closely related medium-
+wavelength sensitive cones to selectivity synapse with their correct target, 
+the S-cones. The adult retina’s propensity for synaptic plasticity is further 
+corroborated in the Cngb1neo/neo mouse RP model, which lacks a crucial CNGB1 
+protein for phototransduction (Wang et al., 2019). CNGB1 defects lead to 
+diminished ERG a- and b-wave amplitudes, attenuated b-wave sensitivity, as 
+well as severely mislocalized and malformed synaptic contacts between rods 
+and RBCs. When CNGB1 expression is recovered in young adult Cngb1neo/neo 
+mice, photoreceptor degeneration is halted, rod-RBC synapse organization 
+is corrected, and light sensitivity at RBCs and RGCs is significantly recovered, 
+highlighting the capability of the adult retina for restorative synaptic plasticity.
+ 
+The inner retina functionally compensates for partial photoreceptor loss
+To further investigate how the adult retina functionally responds to partial 
+rod or cone death, a selective cell ablation model using the cre-recombinase 
+mediated diphtheria toxin receptor insertion technique has been applied 
+(Care et al., 2019, 2020). Following the loss of half of the rod population in 
+otherwise healthy adult mice, three possible functional outcomes have been 
+hypothesized: (1) input loss from rods could directly propagate through the 
+circuit leading to a matching defect in retinal output; (2) functional defects 
+could be exacerbated in downstream circuitry leading to an even larger 
+decrease in retinal output as predicted from magnitude of rod loss; or, (3) 
+input loss could be compensated in downstream circuitry so that retina 
+output is stronger than expected from the extent of rod loss (Care et al., 
+2020). Full-field ERGs and patch-clamp recordings at RBCs and RGCs have 
+shown that hypothesis 3 is most likely. First, mean spiking activity recorded 
+at AON-S RGCs to flashes of light is reduced by only 20%, although the average 
+loss of rods in the experiment is 60%. Furthermore, AON-S RGC sensitivity 
+to dim light flashes appears to increase compared to the values of normal 
+controls. Secondly, scotopic ERG b-wave amplitude is much less reduced than 
+the a-wave amplitude (Care et al., 2020), similar to what has been shown 
+after partial rod death due to LIRD (Richards et al., 2006; Montalban-Soler et 
+al., 2012; Rubin et al., 2022). To elucidate the locus of the apparent functional 
+compensation, Care et al. (2020) have also patched and recorded individual 
+RBCs. Voltage responses from RBCs remain intact despite marked rod loss, 
+which further confirms compensation occurring at the rod-RBC synapses. 
+Compensatory changes and maintained visual function are also observed Figure 1｜Schematics of retinal structure and established technologies for retina 
+research. 
+(A) The transparency of the eye allows direct visual access to the retina, which is the 
+only neural tissue that is exposed to visual inspection noninvasively. (B) The layered and 
+strictly hierarchical architecture of the retina is arguably the best characterized neural 
+system in our bodies. (C) Electroretinogram (ERG) is a minimally invasive method to 
+inspect sensory neuron (photoreceptor) activation (a-wave) and synaptic transmission 
+to interneurons (b-wave). (D) Optical coherence tomography (OCT) allows segmentation 
+of the retina noninvasively. (E) Scanning laser ophthalmoscopy (SLO) allows high-
+resolution images of vasculature. (F) Several advanced retina imaging methods using 
+fluorescence, including 2-photon excitation, are established. (G) Dissected and perfused 
+live retina is highly amenable to electrophysiology by e.g. multielectrode arrays (MEA) 
+and patch-clamp, and (H) to assessment of metabolism. (I) Retina’s distinctly layered 
+anatomy renders histological inspection and immunohistochemistry very practical. RGCL: 
+Retinal ganglion cell layer; IPL: inner plexiform layer; INL: inner nuclear layer; OPL: outer 
+plexiform layer; ONL: outer nuclear layer. (J) Single-cell transcriptomics maps gene profile 
+at specific cells. (K) Established methods exist for preparation of primary cell cultures 
+of several main cell classes in the retina. Graphs A, B, E, F, G, H, and K were adapted/
+reprinted from “Eye and Retina schematics”, “Diabetic Retinopathy Hallmarks”, “Rodent 
+Fundoscopy”, “Retina MEA”, “Retinal ganglion cell patch clamp”, “Metabolic Assays -Using 
+Seahorse Analyzers” and “Primary Cell Culture Preparation” with BioRender.com (2022). 
+Retrieved from https://app.biorender.com/biorender-templates (license #: ZR241JTGY4, 
+BU241JTVMS, NW241JU576, AQ241JUC41, LR241JUJWJ, JB241JVDIA, RD241JUX5O). 
+Graphs C, D, I, and J present unpublished data from the Leinonen Retina Laboratory.
+A B
+C G
+D
+E
+F H KJINEURAL REGENERATION RESEARCH ｜Vol 18｜No. 4｜April  2023｜703
+NEURAL REGENERATION RESEARCH
+www.nrronline.org
+ ReviewFigure 2｜Near normal rod-dependent visual contrast sensitivity remains for several 
+months in retinitis pigmentosa mice. 
+(A) Representative optical coherence tomography (OCT) images showing degeneration 
+progression in P23H  mice. (B) Mean outer nuclear layer (ONL, photoreceptor nuclei 
+layer) thickness as measured at 500 µm from the optic nerve head at dorsal, ventral, 
+nasal, and temporal retinal quadrants. (C) Representative ex vivo ERG responses for dim 
+flash (17 photons/µm2) in GNAT2–/– control and GNAT2–/–/P23H  retinitis pigmentosa mice 
+at baseline and after DL-AP4 perfusion to isolate rod-specific response. (D) Rod bipolar 
+cells (RBC) and rod response amplitudes. RBC response was acquired offline by digitally 
+subtracting the rod-specific response from the basal response. (E) RBC/rod response 
+ratio. (F, G) Visual contrast thresholds as measured by optomotor responses (OMR) in 
+2–3-month-old (F) and 5–6-month-old (G) mice. Note the abrupt drop in ERGs and OMR 
+performance between 5 and 6 months of age in GNAT2–/–/P23H  mice. Adapted from 
+Leinonen et al. (2020).after the loss of half of the cone population in adult mice (Care et al., 2019; 
+Lee et al., 2022). These latter reports are challenged by the findings that cone 
+pathway function recovers to normal levels when half of the cones are ablated 
+in juvenile mice at postnatal day (P)10, but not when the same procedure is 
+performed in matured mice retinas at P30 (Shen et al., 2020). This highlights 
+the well-known dogma of the lower capability for neuroplasticity in adulthood 
+compared to juvenility, which is also recapitulated in retinal tissue. Therefore, 
+while retinal remodeling is capable of adjusting to retinal degeneration 
+in adult mice after postnatal development, the extent of this plasticity is 
+variable.
+High inner retina activation and visual responses can coincide with 
+progressive retinal degeneration 
+The hypothesis of whether functional compensation in the retina could occur 
+during progressive retinal degeneration has also been tested (Leinonen et 
+al., 2020). ONL thickness and rod-driven ERG responses are lost by around 
+75% at 5 months of age in heterozygous P23H mice ( Figure 2 ; Leinonen et 
+al., 2020). Despite the robust ongoing rod degenerative disease occurring 
+alongside global retinal inflammation and oxidative stress (Leinonen et 
+al., 2020; Fu et al., 2021b; Ortega et al., 2022), visual contrast sensitivity 
+remains well-maintained up until 5 months of age (Leinonen et al., 2020). 
+This is true even in P23H  mice bred on a  Gnat2–/– background that eliminates 
+cone phototransduction and renders the mice reliant on their rod-function. 
+Mass RBC responses derived from ex vivo  ERG recordings showed increased 
+relative sensitivity (Leinonen et al., 2020), which mirrors prior findings 
+(Care et al., 2020). The functional compensatory changes in P23H  mouse 
+retinas are accompanied by transcriptomic profile shifts that indicate robust 
+cellular restructuring and neural plasticity with “cell adhesion molecules”, 
+“axon guidance” and “glutamatergic synapse” being among the top 10 most 
+upregulated KEGG pathways. Importantly, the decorrelation of scotopic ERG a- 
+and b-waves, i.e. increased amplitude ratio of b to a, has also been observed 
+in P23H  rats (Machida et al., 2000; Aleman et al., 2001). However, visual 
+performance in RP can decay nonlinearly as exemplified by abrupt loss of RBC 
+responses and contrast sensitivity between 5 and 6 months in GNAT2–/–/P23H  
+mice ( Figure 2 ; Leinonen et al., 2020). This needs to be taken into account 
+when designing therapeutic interventions.
+Behavioral vision in a genetic retinal degenerative diseases model has also 
+been tested closer to the terminal disease stage. Peripherin-2 deficient 
+Rds mice never generate fully formed photoreceptor outer segments and 
+express only approximately 3% of normal opsin content, which should lead 
+to a similar extent of photon catch loss. However, ERG b-wave amplitudes are 
+recorded at approximately 15% of normal levels, suggesting compensatory 
+signal gain between photoreceptor and bipolar cells in these mice (Thompson 
+et al., 2014). Although optokinetic tracking and visual water task behavior are 
+severely compromised in Rds mice as expected, they still exhibit distinct and 
+meaningful pattern vision despite minimal rod and cone function. In addition, 
+RBCs display normal sensitivity to local application of exogenous glutamate in 
+patch-clamp experiments in 2-month-old Rd10  retinas (Barhoum et al., 2008). 
+This finding is remarkable as 2-month-old Rd10  mouse retinas are completely 
+devoid of rods and show notable metabotropic glutamate receptor-6 
+downregulation in RBCs.
+RGCs remain relatively stable during progressive retinal degenerative 
+diseases, but several aspects of high-fidelity vision decline
+In heterozygous P23H  rats, receptive field strength declines immediately 
+upon ONL degeneration (Sekirnjak et al., 2009, 2011). The rod-driven light 
+responses in RGCs as well as receptive field size start to decline relatively late, 
+only after P200, and RGCs spontaneous firing peaks at the same time. In Royal 
+College of Surgeons rats at a disease stage when nearly all rods have died 
+but most cones remain, RGC receptive field distortion is primarily linked with 
+anatomic holes in cone mosaic and cone structural changes, rather than inner 
+retina remodeling (Yu et al., 2017). Importantly, all the functionally diverse 
+RGCs characterized in the study persist after rod death. However, although 
+direction-selective RGCs remain in Royal College of Surgeons rats, their 
+direction tuning broadens and direction selectivity decreases.  
+Moreover, some electrophysiology studies focusing on the midbrain targeting 
+the superior colliculus (SC), dorsal lateral geniculate nucleus, or primary visual 
+cortex (V1) function have suggested that RGC’s operation mode during retinal 
+degenerative disease directly propagates to these brain targets (Fransen et al., 
+2015; Procyk et al., 2019; Leinonen et al., 2022). Recordings from the P23H  
+rat superior colliculus demonstrate the loss of light responsivity in ON cells 
+that practically coincide with input loss (Fransen et al., 2015). In contrast, OFF 
+responses become supernormal and progressively elevate above wild-type 
+levels. Recordings of the dorsal lateral geniculate nucleus in 3–5-week-old  Rd1 
+mice, at a disease stage with complete loss of rods and partial loss of cones, 
+demonstrate diminished ON cell responses and slightly declined receptive 
+field sizes (Procyk et al., 2019). However, cone contrast sensitivity remains 
+intact at this relatively advanced disease stage. In 2-month-old  S334ter-3  rats 
+at a disease stage when most rods are dead but cones remain, even when 
+responses to pattern stimuli recorded at V1 have declined at medium-to-high 
+contrasts, the contrast sensitivity as measured by the C50 parameter shows 
+no deterioration (Chen et al., 2020). Similarly, excellent pattern contrast 
+sensitivity in V1 single-unit recordings in young adult P23H  mice has been 
+shown, although several other receptive field properties are altered compared 
+to wild-type mice (Leinonen et al., 2022). In summary, RGC physiology 
+inevitably changes during photoreceptor degenerative disease and functional 
+consequences propagate into the visual areas of the brain. The adult human 
+visual cortex may also be sufficiently plastic to adapt to altered visual inputs (Lunghi et al., 2019; Castaldi et al., 2020). Still, many aspects of visual function 
+remain unexpectedly stable, with contrast sensitivity particularly remaining 
+strikingly resistant to retinal degeneration in animal models.
+Does hyperexcitability in the inner retina counteract beneficial effects of 
+rewiring?
+A major issue that could discount the functional benefits of the apparent 
+retinal adaptation to photoreceptor loss is the simultaneously increasing 
+spontaneous neural activity that can worsen neural signal-to-noise ratio 
+and mask light-responses. Characteristic of the severely degenerated retina 
+is spontaneous, rhythmic oscillatory waves which physiological meaning 
+has not yet been fully characterized. Although these oscillatory waves are 
+generally recorded at the level of RGCs, they are not intrinsic to RGCs, but 
+rather originate presynaptically (Borowska et al., 2011). They appear at two 
+distinct, dominant frequencies. The less characterized are slow, sub-3 Hz 
+oscillations that are believed to originate from spontaneous Ca2+ transients 
+in remnant cones as a direct consequence of synaptic remodeling and 
+decreased negative feedback by HCs (Haq et al., 2014). The fast approximately 
+10 Hz oscillations arise from CBC-AII amacrine cell network activity, which is 
+independent of input from the degenerating outer retina (Borowska et al., 
+2011) and is believed to be dependent on voltage-gated Na+ channels and 
+gap junctional coupling (Trenholm et al., 2012). The increased spontaneous 
+oscillations likely incur detrimental effects on vision as their pharmacologic 
+suppression improves light responses and stimulation efficiency recorded 
+at RGCs (Toychiev et al., 2013; Barrett et al., 2015; Gehlen et al., 2020).  
+F GC D EB A704   ｜NEURAL REGENERATION RESEARCH ｜Vol 18｜No. 4｜April  2023
+NEURAL REGENERATION RESEARCH
+www.nrronline.org
+ ReviewMoreover, inner retinal neurons can also increase spontaneous spiking 
+(become hyperexcitable) during photoreceptor degeneration. This can occur 
+early in disease progression and appears to propagate into the visual areas of 
+the brain (Drager and Hubel, 1978; Leinonen et al., 2022). After investigation 
+of RGC’s responses during RP progression in Rd1 and Rd10  mouse retinas, 
+increased spontaneous RGC firing in parallel with decreased light responses 
+was found (Telias et al., 2019). The light responses at RGCs are normal before 
+degeneration onset in P14 Rd10  mice, but at P28, RGC’s spontaneous activity 
+increases by 2–3-fold and light-responses decrease by half. The hyperactivity 
+in Rd10  mouse RGCs is intrinsic as blocking all synaptic drive to RGCs does 
+not decrease hyperactivity. Based on an extensive series of pharmacological 
+and genetic experiments that either increased or decreased retinoic acid 
+signaling, the researchers have shown causative evidence that increased 
+retinoic acid signaling in the retina could explain RGC hyperexcitability during 
+progressive retinal degenerative diseases (Telias et al., 2019) and after laser-
+induced local photoreceptor ablation (Denlinger et al., 2020). Suppression of 
+retinoic acid signaling remarkably improves luminance-detection and pattern 
+vision in  Rd10  mice (Telias et al., 2019, 2022), revealing a novel drug target to 
+improve vision in RP . 
+An intriguing hypothesis is that increased retinal electrical activity upon 
+retinal degeneration is part of a survival mechanism, as loss of input is known 
+to lead to neuronal death whereas increased activity enhances longevity 
+(Corredor and Goldberg, 2009). Therefore, long-term effects of interventions 
+aimed at either increasing or decreasing the electrical activity need to be 
+carefully assessed. It will also be important for future studies to elucidate 
+whether increased synaptic gain at the rod-RBC synapse and increased inner 
+retina hyperexcitability in RP retinas share the same mechanistic origin, as it 
+could have significant implications for prospective therapies.
+Müller Glia-Derived Retina Adaptation during 
+Photoreceptor Degeneration
+Metabolic adaptation
+Müller glial cells span all retinal layers, providing structural and trophic 
+support for neighboring neurons. In response to injury, Müller glia are 
+activated and releases antioxidants and neurotrophic factors to preserve 
+retinal function from further damage at early stages (Bringmann et al., 
+2009). However, prolonged gliosis is detrimental as the ability of Müller 
+glia to support retinal neurons becomes disrupted. Müller glia may also 
+produce lactate, lipoproteins, and glutamine, which are then shuttled to 
+photoreceptors for synapse formation and energy production (Fu et al., 
+2021a). In healthy retinas, Müller glia have a very homogenous metabolic 
+signature, which becomes highly variable in the levels of glutamine, 
+glutamate, taurine, and glutamine synthetase among neighboring Müller glia 
+in the region of the degenerating retina (Pfeiffer et al., 2016). 
+Recent single-cell transcriptomics shows decreased expression of genes 
+involved in metabolism in both rods and cones in P23H  mice during early 
+photoreceptor loss. These analyses also show increased expression of genes 
+involved in mitochondrial localization and microtubule-based transfer in 
+Müller glia (Tomita et al., 2021), suggesting possible transfer of mitochondria 
+from Müller glia to photoreceptors or increased energy production in Müller 
+glia. Although the mechanisms of mitochondrial release are unclear, brain 
+astrocytes shuttle mitochondria to injured neurons after stroke (Hayakawa et 
+al., 2016). Decreased photoreceptor metabolism accelerates photoreceptor 
+loss; therefore, improving glucose supply and uptake could promote the 
+photoreceptor survival in degenerating mouse retinas (Punzo et al., 2009; 
+Ait-Ali et al., 2015). Therefore, the question arises of whether Müller glia 
+can compensate for photoreceptor energy shortage during early retinal 
+degeneration. 
+Our current knowledge of Müller glia metabolic fuel sources is still quite 
+limited. Most of the current literature relies on in vitro  studies, making it 
+difficult to fully characterize Müller glial metabolic properties, as the normal 
+cell interactions between Müller glia with their connecting cells is lost. 
+Furthermore, Müller glial cells in vitro  are positive for GFAP , which reflects 
+gliosis and fails to capture their diverse pathophysiology in the retina (Fu et 
+al., 2021a). A recent report has shown that loss of hexokinase 2 (catalyzes the 
+first step in glycolysis) and phosphoglycerate dehydrogenase (an endogenous 
+serine synthetic gene), but not pyruvate dehydrogenase E1 alpha 1 (catalyzes 
+the conversion of pyruvate into acetyl-CoA) and lactate dehydrogenase A 
+(catalyzes the interconversion of pyruvate and L-lactate) in Müller glia leads 
+to photoreceptor degeneration and reduced retinal neuronal function (Shen 
+et al., 2021), suggesting that Müller glia may use glucose to produce serine 
+to supply photoreceptors. Consequently, photoreceptors convert glucose to 
+lactate to fuel Müller glia (Kanow et al., 2017). The contribution of cellular 
+metabolic changes to cell fate decisions warrants extensive investigation. 
+Illustrating the importance of this concept, targeting metabolic modulation via 
+nutrient supplementation is a feasible approach to treat retinal degeneration 
+(Rowe et al., 2021). 
+Remodeling 
+Müller glial activation facilitates the adaptive retinal remodeling as the 
+hypertrophied glial cell processes may guide neuronal migration and aberrant 
+neuronal cell process sprouting to maintain visual function (Bringmann et al., 
+2009; Fu et al., 2021b). Following the loss of photoreceptors, glial scars are 
+formed between the remnant neural retina and RPE/choroid to fill the retinal 
+breaks. The initial purpose of glial scars is to protect the neuroretina from further damage. However, glial scars also account for the failure of tissue 
+repair and therapeutic intervention. 
+In fibroblast growth factor 21 (FGF21)-treated P23H  mice, not only is there 
+improved retinal neural function, but there is also a notable increase in the 
+expression of genes involved in axon and synapse development in Müller 
+glia and amacrine cells identified with single-cell transcriptomics (Fu et al., 
+2021b), suggesting glial remodeling may preserve retinal function during 
+photoreceptor degeneration. However, the preservation of retinal neuronal 
+responses lasts for six weeks and diminishes at nine weeks of treatment. This 
+could be due to the inhibitory impacts of FGF21 on RPE fatty acid oxidation, 
+which may potentially cause metabolic switches in RPE and limit the fuel 
+supply to photoreceptors. Further exploration of cellular interaction and 
+metabolic alterations is needed. Better understanding of the molecular 
+mechanisms may help prolong the beneficial effects of glial remodeling 
+during photoreceptor loss.  
+In addition, Müller glia produce photoreceptor components such as 11- cis-
+retinol in the chicken retina and rhodopsin protein in mouse retina (Goel 
+and Dhingra, 2012; Kaylor et al., 2014). In P23H mouse retinas, there is co-
+expression of rod markers ( Rho and Pde6b ), cone markers ( Opn1mw  and 
+Opn1sw ), and Müller glial cell markers ( Rlbp1  and Slc3a1 ) in a cluster of cells 
+identified with single-cell transcriptomics. Decreased expression of genes 
+involved in phototransduction, inner and outer segment, photoreceptor cell 
+cilium, and photoreceptor development are found in both rods and cones 
+in P23H  mouse retinas (Tomita et al., 2021). Müller glia may enhance the 
+pathways involved in photoreceptor maintenance to compensate for those 
+lost in rods and cones. 
+Collectively, Müller glia may support photoreceptor health by providing the 
+necessary proteins lost during retinal degeneration, or that Müller glia may 
+undergo neurogenesis to replace degenerated photoreceptors. Further 
+validation at translational and function levels is needed to test this hypothesis. 
+However, Müller glia reprogramming, proliferation, and differentiation 
+are well documented in zebrafish, but may not occur spontaneously in 
+mammalian retinas (Salman et al., 2021). 
+Reprogramming 
+Zebrafish possess the ability to regenerate a damaged retina and restore 
+vision (Goldman, 2014; Lahne et al., 2020). In response to retinal injury, 
+multiple extrinsic signaling pathways could trigger Müller glial cell cycle-
+reentry ( Figure 3A ). Growth factors and cytokines such as insulin, FGF2 (Wan 
+et al., 2014), heparin-binding epidermal-like growth factor (HBEGF) (Wan et 
+al., 2012), midkine-a (Nagashima et al., 2020), and tumor necrosis factor-
+alpha (Nelson et al., 2013; Iribarne et al., 2019) activate the regenerative 
+potential of Müller glia. Signaling pathways such as glycogen synthase kinase 
+3β/β-catenin, Mapk/Erk, PI3K/Akt and Jak/signal transducer and activator of 
+transcription 3 stimulates Müller glial reprogramming and retinal progenitor 
+formation (Wan et al., 2014). The downstream transcriptional factor achaete-
+scute complex-like 1a (Ascl1a) is a key regulator of genes involved in Müller 
+glia-derived progenitor production and zebrafish retina regeneration (Fausett 
+et al., 2008; Ramachandran et al., 2010, 2011). Ascl1a positively regulates 
+Müller glial insulinoma-associated 1a, which in turn induces the expression of 
+the cyclin-cdk inhibitor p57kip2 and suppresses cell-cycle genes (such as ccna2 , 
+cdk1 , and cdk2 ), thus stimulating cell cycle exit and neural differentiation 
+(Ramachandran et al., 2012). Insulinoma-associated 1a, via modulating the 
+cone-rod homeobox (Crx, responsible for photoreceptor differentiation) 
+and Nr2e3 (a photoreceptor-specific nuclear receptor responsible for rod 
+photoreceptor specification), is required for photoreceptor differentiation in 
+the developing zebrafish retinas (Forbes-Osborne et al., 2013). Meanwhile, 
+suppression of the Notch signaling (Campbell et al., 2021) and transforming 
+growth factor β (TGFβ) signaling (Lenkowski et al., 2013), which drive Müller 
+glial differentiation and quiescence, promotes progenitor proliferation and 
+retinal regeneration. Furthermore, inhibition of GABA or glutamate receptors 
+also stimulates Müller glial proliferation in uninjured retinas (Rao et al., 
+2017; Kent et al., 2021). Although the role of these factors might be species-
+specific, some knowledge gained from zebrafish has promoted the study of 
+induction of Müller glial reprogramming, proliferation, and differentiation in 
+mammalian retinas. 
+Unlike those in zebrafish, the reactive Müller glial cells in mice will not 
+proliferate and instead return towards quiescence ( Figure 3B ). However, 
+Müller glia in mammalian retinas still hold regenerative potential. As shown 
+in zebrafish, modulating growth factors such as EGF and TGFβ also controls 
+Müller glial progenitor cell generation in mammalian retinas. In isolated 
+mouse retinal explants, EGF treatment via activation of Erk1/2 and PI3K/
+Akt pathways induces Müller glial proliferation (Ueki and Reh, 2013). HBEGF 
+pretreatment also stimulates Müller glial-derived progenitor cell formation 
+in N-methyl-D-aspartate-damaged mouse retinas (Todd et al., 2015). TGFβ 
+inhibitors further potentiate EGF-stimulated Müller glial proliferation in rat 
+retinas in vivo  (Close et al., 2005). A combination of factors including FGF2, 
+insulin-like growth factor 1, taurine, retinoid acid induces photoreceptor 
+differentiation of human Müller stem cells in vitro ; however, TGFβ suppresses 
+the process (Angbohang et al., 2016). Moreover, insulin treatment via 
+increasing glucose use prolongs cone photoreceptor survival in mice with 
+inherited retinal degeneration (Punzo et al., 2009). Intravitreal injection of 
+both insulin and basic fibroblast growth factor induces Müller glial migration 
+from the inner nuclear layer to photoreceptor layer in degenerating mouse 
+retinas (Goel and Dhingra, 2021). However, migrated Müller glial cells in 
+photoreceptor layer express stem cell marker Chx10 but do not further  NEURAL REGENERATION RESEARCH ｜Vol 18｜No. 4｜April  2023｜705
+NEURAL REGENERATION RESEARCH
+www.nrronline.org
+ Review
+BA
+Figure 3｜Müller glial responses in retinal degeneration. 
+(A) Müller glial regeneration in zebrafish. Upon injury, Müller glia undergo 
+reprogramming and enter the cell cycle for proliferation, stimulated by β-catenin, Mapk/
+Erk, Jak/signal transducer and activator of transcription 3 (Stat3), PI3K/Akt. These 
+signaling pathways further induce Ascl expression to generate Müller glial progenitor 
+cells, which regenerate the injured retina. Growth factors and cytokines (such as FGF2, 
+HBEGF, insulin, Midkine-a, TNFα) as well as Wnts positively stimulate the process. TGF-β, 
+Notch, and neurotransmitter (GABA, glutamate) signaling negatively regulates the 
+process. Adapted and updated from Salman et al. (2021). (B) In mammalian retina, the 
+regeneration potential of Müller glia is limited. The activated Müller glial may undergo 
+metabolic adaptation and remodeling to preserve neural retinal function. Interestingly, 
+EGF and HBEGF stimulate while TGF-β suppresses Müller glial proliferation in mammalian 
+retinas. Manipulation of β-catenin, Nfia/b/x, Hippo, and YAP pathways stimulates 
+the generation of Müller glial progenitor cells, which can be further differentiated 
+into photoreceptors upon the subsequent activation of Otx2 , Crx, and Nrl following 
+the stimulation of the Wnt pathway by targeting β-catenin . The graph was adapted/
+reprinted from “retinal cell (Müller glia)”, “cone photoreceptor”, “rod photoreceptor”, 
+“retinal cell (ganglion 1)”, “bipolar neuron”, “retinal cell (amacrine)”, “retinal cell 
+(horizontal)” by BioRender.com (2022). Retrieved from https://app.biorender.com/
+biorender-templates (license #:HT240EKBMT). Ascl: Achaete-scute complex-like 1; Crx: 
+cone-rod homeobox; EGF: epidermal-like growth factor; FGF2: fibroblast growth factor 
+2; GABA: gamma-aminobutyric acid; HBEGF: heparin-binding epidermal-like growth 
+factor; Insm1a: insulinoma-associated 1a; Jak/Stat3: Janus kinase-signal transducer and 
+activator of transcription 3; Mapk/Erk: mitogen-activated protein kinase/extracellular 
+signal-regulated kinase; Nfia/b/x: nuclear factor I; Nrl: neural retina leucine zipper; Otx2: 
+orthodenticle homeobox 2; PI3K/Akt: phosphatidylinositol-3-kinase/protein kinase B; 
+TGF-β: transforming growth factor-β; TNFα: tumor necrosis factor α; YAP: yes-associated 
+protein. 
+differentiate into rods and cones (Goel and Dhingra, 2021). These reports 
+suggest distinct impacts of growth factors and neurotransmitters on Müller 
+glial proliferation and retinal regeneration in mammalian retinas.
+Targeting signaling pathways is an intriguing intervention to trigger Müller 
+glial reprogramming in mammalian retinas. Overexpression of Ascl1 in Müller 
+glia in young mice stimulates the regeneration of amacrine and bipolar cells, 
+as well as photoreceptors after N-methyl-D-aspartate or light injury (Ueki et 
+al., 2015). However, this regenerative potential is dampened in adult mice. 
+Müller glia have been induced to differentiate into rod photoreceptors and 
+restore vision in retinal degenerative mice by firstly stimulating Wnt signaling 
+(β-catenin) in 4-week-old mice and then transcriptional factors essential for 
+rod induction (Crx, Otx2, and Nrl) 2 weeks later (Yao et al., 2018). In addition, 
+overactivation of YAP (yes-associated protein), which interacts with EGF 
+receptor signaling, induces Müller glia to reprogram into highly proliferative 
+cells in adult mouse retinas (Hamon et al., 2019). Alternatively, the deletion 
+of Müller glial-specific Hippo pathway components, which suppress YAP 
+signaling, also results in a highly proliferative, progenitor-like cellular state 
+(Rueda et al., 2019). Loss of Müller glial nuclear factor I factors a, b, x (Nifa/b/
+x), which maintains glial quiescent status, leads to Ascl1  up-regulation, Müller 
+glial reprogramming, and ultimately bipolar- and amacrine-like cell generation 
+in adult mice after treatment with N-methyl-D-aspartate, FGF2 and insulin 
+(Hoang et al., 2020). This process can be suppressed by YAP inhibition (Hoang 
+et al., 2020). Targeting common signaling pathways may generate generic 
+therapeutic potential for mammalian Müller glial reprogramming and retinal 
+regeneration. Interestingly, a recent report shows that the hybrid resulting from fusion of 
+Müller glia with adult stem cells can integrate within human retinal organoid 
+and differentiate towards a neural fate (Bonilla-Pons et al., 2022). Treatment 
+of a combo of small molecules (dbcAMP , Forskolin, ISX9, CHIR99021, I-
+BET151, and Y -27632) in Müller glia in vitro  drives the direct reprogramming 
+into bipolar-like cells (Yang et al., 2022). Further tests  in vivo  are needed 
+to confirm these findings. Taken together, these findings suggest that the 
+stimulation of retinal regeneration in mammals is possible. However, the 
+efficiency needs to be further improved in developed retinas. The long-term 
+impacts also need to be carefully evaluated, because the balance between 
+the differentiative state and proliferative state is interfered with, which could 
+compromise the supportive role of Müller glia in retinal neural and vascular 
+function. 
+Conclusion  
+With these results taken together, the mature mammalian retina possesses 
+some degree of plasticity that may help maintain vision during retinal 
+degenerative diseases. Regarding the therapeutic potential of retinal glial 
+cells, activated Müller glia benefit inner retinal neurons via producing trophic 
+factors (Vecino et al., 2016). Müller glia could also enhance the pathways 
+affected in photoreceptors as well as potentially improve photoreceptor 
+energy supply in degenerative retinas. Supplementation of natural metabolic 
+modulators that induce Müller glial remodeling helps preserve neural retinal 
+function (Fu et al., 2021b). Better understanding the interaction between 
+Müller glia and retinal neurons, as well as the underlying mechanisms, 
+would greatly accelerate the field. Further studies regarding how to improve 
+neuroplasticity during blinding diseases are warranted. Investigations 
+targeting the cellular and molecular contributions to the compensatory 
+neural signals are key to better understanding the disease pathogenesis. 
+Further advancement of proteomics and metabolomics at a single cell level 
+will further validate the results obtained from single-cell transcriptomics. 
+The field could also be further advanced by the application of spatial 
+transcriptomics that map the cell gene profile at specific locations within the 
+retina. The application of the microfluidics 3D system, which better models 
+the cell-cell interactions in in vivo  conditions, would benefit drug testing. 
+Continuous efforts will be necessary to explore this field as it could lead to 
+novel therapeutics that tackle the unmet medical need caused by retinal 
+degeneration.  
+Acknowledgments:  We thank Mr. Umair Seemab (University of Eastern 
+Finland, Finland) for generating the UMAP graph in Figure 1J. We thank Ms. 
+Nguyen Pham and Dr. Frans Vinberg (University of Utah, USA) for recording 
+and providing the ex vivo ERG data shown in Figure 2C.
+Author contributions:  HOL and ZF contributed to the writing and editing of 
+the manuscript. EB contributed to the editing of the manuscript. All authors 
+approved the final version of the manuscript.
+Conflicts of interest: The authors declare no conflicts of interest. 
+Availability of data and materials: All data generated or analyzed during this 
+study are included in this published article and its supplementary information 
+files.
+Open access statement: This is an open access journal, and 
+articles are distributed under the terms of the Creative Commons 
+AttributionNonCommercial-ShareAlike 4.0 License, which allows others 
+to remix, tweak, and build upon the work non-commercially, as long as 
+appropriate credit is given and the new creations are licensed under the 
+identical terms.
+Open peer reviewer: Scott M. Taylor, University of West Florida, USA. 
+Additional file:  Open peer review report 1. 
+References
+Ait-Ali N, Fridlich R, Millet-Puel G, Clerin E, Delalande F, Jaillard C, Blond F, Perrocheau 
+L, Reichman S, Byrne LC, Olivier-Bandini A, Bellalou J, Moyse E, Bouillaud F, Nicol X, 
+Dalkara D, van Dorsselaer A, Sahel JA, Leveillard T (2015) Rod-derived cone viability 
+factor promotes cone survival by stimulating aerobic glycolysis. Cell 161:817-832.
+Aleman TS, LaVail MM, Montemayor R, Ying G, Maguire MM, Laties AM, Jacobson SG, 
+Cideciyan AV (2001) Augmented rod bipolar cell function in partial receptor loss: an 
+ERG study in P23H rhodopsin transgenic and aging normal rats. Vision Res 41:2779-
+2797.
+Angbohang A, Wu N, Charalambous T, Eastlake K, Lei Y , Kim YS, Sun XH, Limb GA (2016) 
+Downregulation of the canonical WNT signaling pathway by TGFbeta1 inhibits 
+photoreceptor differentiation of adult human Muller glia with stem cell characteristics. 
+Stem Cells Dev 25:1-12.
+Barhoum R, Martinez-Navarrete G, Corrochano S, Germain F, Fernandez-Sanchez L, de la 
+Rosa EJ, de la Villa P , Cuenca N (2008) Functional and structural modifications during 
+retinal degeneration in the rd10 mouse. Neuroscience 155:698-713.
+Barrett JM, Degenaar P , Sernagor E (2015) Blockade of pathological retinal ganglion cell 
+hyperactivity improves optogenetically evoked light responses in rd1 mice. Front Cell 
+Neurosci 9:330.
+Beier C, Palanker D, Sher A (2018) Stereotyped synaptic connectivity is restored during 
+circuit repair in the adult mammalian retina. Curr Biol 28:1818-1824.706   ｜NEURAL REGENERATION RESEARCH ｜Vol 18｜No. 4｜April  2023
+NEURAL REGENERATION RESEARCH
+www.nrronline.org
+ ReviewBeier C, Hovhannisyan A, Weiser S, Kung J, Lee S, Lee DY , Huie P , Dalal R, Palanker 
+D, Sher A (2017) Deafferented adult rod bipolar cells create new synapses with 
+photoreceptors to restore vision. J Neurosci 37:4635-4644. 
+Bonilla-Pons SA, Nakagawa S, Bahima EG, Fernandez-Blanco A, Pesaresi M, D’ Antin JC, 
+Sebastian-Perez R, Greco D, Dominguez-Sala E, Gomez-Riera R, Compte RIB, Dierssen 
+M, Pulido NM, Cosma MP (2022) Muller glia fused with adult stem cells undergo 
+neural differentiation in human retinal models. EBioMedicine 77:103914.
+Borowska J, Trenholm S, Awatramani GB (2011) An intrinsic neural oscillator in the 
+degenerating mouse retina. J Neurosci 31:5000-5012. 
+Bringmann A, Iandiev I, Pannicke T, Wurm A, Hollborn M, Wiedemann P , Osborne NN, 
+Reichenbach A (2009) Cellular signaling and factors involved in Muller cell gliosis: 
+neuroprotective and detrimental effects. Prog Retin Eye Res 28:423-451. 
+Campbell LJ, Hobgood JS, Jia M, Boyd P , Hipp RI, Hyde DR (2021) Notch3 and DeltaB 
+maintain Muller glia quiescence and act as negative regulators of regeneration in the 
+light-damaged zebrafish retina. Glia 69:546-566.
+Care RA, Kastner DB, De la Huerta I, Pan S, Khoche A, Della Santina L, Gamlin C, Santo 
+Tomas C, Ngo J, Chen A, Kuo YM, Ou Y , Dunn FA (2019) Partial cone loss triggers 
+synapse-specific remodeling and spatial receptive field rearrangements in a mature 
+retinal circuit. Cell Rep 27:2171-2183.
+Care RA, Anastassov IA, Kastner DB, Kuo YM, Della Santina L, Dunn FA (2020) Mature 
+retina compensates functionally for partial loss of rod photoreceptors. Cell Rep 
+31:107730.
+Castaldi E, Lunghi C, Morrone MC (2020) Neuroplasticity in adult human visual cortex. 
+Neurosci Biobehav Rev 112:542-552.
+Chen K, Hou B, Zhao Y , Yuan P , Yao D, Chan LLH (2020) Residual contrast response in 
+primary visual cortex of rats with inherited retinal degeneration. Vision Res 177:6-11.
+Close JL, Gumuscu B, Reh TA (2005) Retinal neurons regulate proliferation of postnatal 
+progenitors and Muller glia in the rat retina via TGF beta signaling. Development 
+132:3015-3026.
+Corredor RG, Goldberg JL (2009) Electrical activity enhances neuronal survival and 
+regeneration. J Neural Eng 6:055001.
+Cuenca N, Fernandez-Sanchez L, Campello L, Maneu V, De la Villa P , Lax P , Pinilla I 
+(2014) Cellular responses following retinal injuries and therapeutic approaches for 
+neurodegenerative diseases. Prog Retin Eye Res 43:17-75.
+D’Orazi FD, Suzuki SC, Wong RO (2014) Neuronal remodeling in retinal circuit assembly, 
+disassembly, and reassembly. Trends Neurosci 37:594-603.
+Denlinger B, Helft Z, Telias M, Lorach H, Palanker D, Kramer RH (2020) Local 
+photoreceptor degeneration causes local pathophysiological remodeling of retinal 
+neurons. JCI Insight 5:e132114.
+Di Marco S, Nguyen VA, Bisti S, Protti DA (2009) Permanent functional reorganization of 
+retinal circuits induced by early long-term visual deprivation. J Neurosci 29:13691-
+13701.
+Dong CJ, Agey P , Hare WA (2004) Origins of the electroretinogram oscillatory potentials 
+in the rabbit retina. Vis Neurosci 21:533-543. 
+Drager UC, Hubel DH (1978) Studies of visual function and its decay in mice with 
+hereditary retinal degeneration. J Comp Neurol 180:85-114. 
+Fausett BV, Gumerson JD, Goldman D (2008) The proneural basic helix-loop-helix gene 
+ascl1a is required for retina regeneration. J Neurosci 28:1109-1117. 
+Forbes-Osborne MA, Wilson SG, Morris AC (2013) Insulinoma-associated 1a (Insm1a) is 
+required for photoreceptor differentiation in the zebrafish retina. Dev Biol 380:157-
+171. 
+Fransen JW , Pangeni G, Pyle IS, McCall MA (2015) Functional changes in Tg P23H-1 rat 
+retinal responses: differences between ON and OFF pathway transmission to the 
+superior colliculus. J Neurophysiol 114:2368-2375.
+Fu Z, Kern TS, Hellstrom A, Smith LEH (2021a) Fatty acid oxidation and photoreceptor 
+metabolic needs. J Lipid Res 62:100035.
+Fu Z, Qiu C, Cagnone G, Tomita Y , Huang S, Cakir B, Kotoda Y , Allen W , Bull E, Akula JD, 
+Joyal JS, Hellstrom A, Talukdar S, Smith LEH (2021b) Retinal glial remodeling by FGF21 
+preserves retinal function during photoreceptor degeneration. iScience 24:102376.
+Gargini C, Terzibasi E, Mazzoni F, Strettoi E (2007) Retinal organization in the retinal 
+degeneration 10 (rd10) mutant mouse: a morphological and ERG study. J Comp 
+Neurol 500:222-238.
+Gehlen J, Esser S, Schaffrath K, Johnen S, Walter P , Muller F (2020) Blockade of retinal 
+oscillations by benzodiazepines improves efficiency of electrical stimulation in the 
+mouse model of RP , rd10. Invest Ophthalmol Vis Sci 61:37.Goel M, Dhingra NK (2012) Muller glia express rhodopsin in a mouse model of inherited 
+retinal degeneration. Neuroscience 225:152-161.
+Goel M, Dhingra NK (2021) bFGF and insulin lead to migration of Muller glia to 
+photoreceptor layer in rd1 mouse retina. Neurosci Lett 755:135936.
+Goldman D (2014) Muller glial cell reprogramming and retina regeneration. Nat Rev 
+Neurosci 15:431-442.
+Hamon A, Garcia-Garcia D, Ail D, Bitard J, Chesneau A, Dalkara D, Locker M, Roger JE, 
+Perron M (2019) Linking YAP to Muller glia quiescence exit in the degenerative retina. 
+Cell Rep 27:1712-1725.
+Haq W , Arango-Gonzalez B, Zrenner E, Euler T, Schubert T (2014) Synaptic remodeling 
+generates synchronous oscillations in the degenerated outer mouse retina. Front 
+Neural Circuits 8:108.
+Hartong DT, Berson EL, Dryja TP (2006) Retinitis pigmentosa. Lancet 368:1795-1809.
+Hayakawa K, Esposito E, Wang X, Terasaki Y , Liu Y , Xing C, Ji X, Lo EH (2016) Transfer of 
+mitochondria from astrocytes to neurons after stroke. Nature 535:551-555.
+Hoang T, Wang J, Boyd P , Wang F, Santiago C, Jiang L, Yoo S, Lahne M, Todd LJ, Jia M, 
+Saez C, Keuthan C, Palazzo I, Squires N, Campbell WA, Rajaii F, Parayil T, Trinh V, Kim 
+DW , Wang G, et al. (2020) Gene regulatory networks controlling vertebrate retinal 
+regeneration. Science 370:eabb8598.
+Iribarne M, Hyde DR, Masai I (2019) TNFalpha induces Muller glia to transition from non-
+proliferative gliosis to a regenerative response in mutant zebrafish presenting chronic 
+photoreceptor degeneration. Front Cell Dev Biol 7:296.
+Iwabe S, Ying GS, Aguirre GD, Beltran WA (2016) Assessment of visual function and 
+retinal structure following acute light exposure in the light sensitive T4R rhodopsin 
+mutant dog. Exp Eye Res 146:341-353.
+Johnson RE, Tien NW , Shen N, Pearson JT, Soto F, Kerschensteiner D (2017) Homeostatic 
+plasticity shapes the visual system’s first synapse. Nat Commun 8:1220.
+Jones BW , Watt CB, Frederick JM, Baehr W , Chen CK, Levine EM, Milam AH, Lavail MM, 
+Marc RE (2003) Retinal remodeling triggered by photoreceptor degenerations. J Comp 
+Neurol 464:1-16.
+Jones BW , Kondo M, Terasaki H, Watt CB, Rapp K, Anderson J, Lin Y , Shaw MV, Yang JH, 
+Marc RE (2011) Retinal remodeling in the Tg P347L rabbit, a large-eye model of retinal 
+degeneration. J Comp Neurol 519:2713-2733. 
+Kanow MA, Giarmarco MM, Jankowski CS, Tsantilas K, Engel AL, Du J, Linton JD, 
+Farnsworth CC, Sloat SR, Rountree A, Sweet IR, Lindsay KJ, Parker ED, Brockerhoff 
+SE, Sadilek M, Chao JR, Hurley JB (2017) Biochemical adaptations of the retina and 
+retinal pigment epithelium support a metabolic ecosystem in the vertebrate eye. Elife 
+6:e28899.
+Kaylor JJ, Cook JD, Makshanoff J, Bischoff N, Yong J, Travis GH (2014) Identification of 
+the 11-cis-specific retinyl-ester synthase in retinal Muller cells as multifunctional 
+O-acyltransferase (MFAT). Proc Natl Acad Sci U S A 111:7302-7307. 
+Kent MR, Kara N, Patton JG (2021) Inhibition of GABAA-rho receptors induces retina 
+regeneration in zebrafish. Neural Regen Res 16:367-374. 
+Lahne M, Nagashima M, Hyde DR, Hitchcock PF (2020) Reprogramming Muller glia to 
+regenerate retinal neurons. Annu Rev Vis Sci 6:171-193.
+Lee JY , Care RA, Kastner DB, Della Santina L, Dunn FA (2022) Inhibition, but not excitation, 
+recovers from partial cone loss with greater spatiotemporal integration, synapse 
+density, and frequency. Cell Rep 38:110317.
+Leinonen H, Pham NC, Boyd T, Santoso J, Palczewski K, Vinberg F (2020) Homeostatic 
+plasticity in the retina is associated with maintenance of night vision during retinal 
+degenerative disease. Elife 9:e59422. 
+Leinonen H, Lyon DC, Palczewski K, Foik AT (2022) Visual system hyperexcitability and 
+compromised V1 receptive field properties in early-stage retinitis pigmentosa in mice. 
+eNeuro 9:ENEURO.0107-22.2022.
+Lenkowski JR, Qin Z, Sifuentes CJ, Thummel R, Soto CM, Moens CB, Raymond PA (2013) 
+Retinal regeneration in adult zebrafish requires regulation of TGFbeta signaling. Glia 
+61:1687-1697.
+Lunghi C, Galli-Resta L, Binda P , Cicchini GM, Placidi G, Falsini B, Morrone MC (2019) 
+Visual cortical plasticity in retinitis pigmentosa. Invest Ophthalmol Vis Sci 60:2753-
+2763.
+Machida S, Kondo M, Jamison JA, Khan NW , Kononen LT, Sugawara T, Bush RA, Sieving 
+PA (2000) P23H rhodopsin transgenic rat: correlation of retinal function with 
+histopathology. Invest Ophthalmol Vis Sci 41:3200-3209.
+Marc RE, Jones BW , Anderson JR, Kinard K, Marshak DW , Wilson JH, Wensel T, Lucas 
+RJ (2007) Neural reprogramming in retinal degeneration. Invest Ophthalmol Vis Sci 
+48:3364-3371.NEURAL REGENERATION RESEARCH ｜Vol 18｜No. 4｜April  2023｜707
+NEURAL REGENERATION RESEARCH
+www.nrronline.org
+ ReviewMontalban-Soler L, Alarcon-Martinez L, Jimenez-Lopez M, Salinas-Navarro M, Galindo-
+Romero C, Bezerra de Sa F, Garcia-Ayuso D, Aviles-Trigueros M, Vidal-Sanz M, Agudo-
+Barriuso M, Villegas-Perez MP (2012) Retinal compensatory changes after light 
+damage in albino mice. Mol Vis 18:675-693.
+Nagashima M, D’Cruz TS, Danku AE, Hesse D, Sifuentes C, Raymond PA, Hitchcock PF 
+(2020) Midkine-a is required for cell cycle progression of Muller glia during neuronal 
+regeneration in the vertebrate retina. J Neurosci 40:1232-1247. 
+Nelson CM, Ackerman KM, O’Hayer P , Bailey TJ, Gorsuch RA, Hyde DR (2013) Tumor 
+necrosis factor-alpha is produced by dying retinal neurons and is required for Muller 
+glia proliferation during zebrafish retinal regeneration. J Neurosci 33:6524-6539. 
+Newton F, Megaw R (2020) Mechanisms of photoreceptor death in retinitis pigmentosa. 
+Genes (Basel) 11:1120.
+Ortega JT, Parmar T, Carmena-Bargueno M, Perez-Sanchez H, Jastrzebska B (2022) 
+Flavonoids improve the stability and function of P23H rhodopsin slowing down the 
+progression of retinitis pigmentosa in mice. J Neurosci Res 100:1063-1083. 
+Penn RD, Hagins WA (1969) Signal transmission along retinal rods and the origin of the 
+electroretinographic a-wave. Nature 223:201-204.
+Pfeiffer RL, Marc RE, Jones BW (2020) Persistent remodeling and neurodegeneration in 
+late-stage retinal degeneration. Prog Retin Eye Res 74:100771.
+Pfeiffer RL, Marc RE, Kondo M, Terasaki H, Jones BW (2016) Muller cell metabolic chaos 
+during retinal degeneration. Exp Eye Res 150:62-70.
+Procyk CA, Allen AE, Martial FP , Lucas RJ (2019) Visual responses in the dorsal lateral 
+geniculate nucleus at early stages of retinal degeneration in rd(1) PDE6beta mice. J 
+Neurophysiol 122:1753-1764.
+Punzo C, Kornacker K, Cepko CL (2009) Stimulation of the insulin/mTOR pathway delays 
+cone death in a mouse model of retinitis pigmentosa. Nat Neurosci 12:44-52.
+Ramachandran R, Fausett BV, Goldman D (2010) Ascl1a regulates Muller glia 
+dedifferentiation and retinal regeneration through a Lin-28-dependent, let-7 
+microRNA signalling pathway. Nat Cell Biol 12:1101-1107.
+Ramachandran R, Zhao XF, Goldman D (2011) Ascl1a/Dkk/beta-catenin signaling pathway 
+is necessary and glycogen synthase kinase-3beta inhibition is sufficient for zebrafish 
+retina regeneration. Proc Natl Acad Sci U S A 108:15858-15863.
+Ramachandran R, Zhao XF, Goldman D (2012) Insm1a-mediated gene repression is 
+essential for the formation and differentiation of Muller glia-derived progenitors in 
+the injured retina. Nat Cell Biol 14:1013-1023.
+Rao MB, Didiano D, Patton JG (2017) Neurotransmitter-regulated regeneration in the 
+zebrafish retina. Stem Cell Reports 8:831-842.
+Richards A, Emondi AA, Rohrer B (2006) Long-term ERG analysis in the partially light-
+damaged mouse retina reveals regressive and compensatory changes. Vis Neurosci 
+23:91-97.
+Rowe AA, Patel PD, Gordillo R, Wert KJ (2021) Replenishment of TCA cycle intermediates 
+provides photoreceptor resilience against neurodegeneration during progression of 
+retinitis pigmentosa. JCI Insight 6:e150898.
+Rubin GR, Wen Y , Loop MS, Kraft TW (2022) ERG and behavioral CFF in light-damaged 
+albino rats. Int J Mol Sci 23:4127.
+Rueda EM, Hall BM, Hill MC, Swinton PG, Tong X, Martin JF, Poche RA (2019) The Hippo 
+pathway blocks mammalian retinal Muller glial cell reprogramming. Cell Rep 27:1637-
+1649.
+Salman A, McClements ME, MacLaren RE (2021) Insights on the regeneration potential 
+of Muller glia in the mammalian retina. Cells 10:1957.
+Saszik SM, Robson JG, Frishman LJ (2002) The scotopic threshold response of the dark-
+adapted electroretinogram of the mouse. J Physiol 543:899-916. 
+Sekirnjak C, Jepson LH, Hottowy P , Sher A, Dabrowski W , Litke AM, Chichilnisky EJ (2011) 
+Changes in physiological properties of rat ganglion cells during retinal degeneration. J 
+Neurophysiol 105:2560-2571.
+Sekirnjak C, Hulse C, Jepson LH, Hottowy P , Sher A, Dabrowski W , Litke AM, Chichilnisky 
+EJ (2009) Loss of responses to visual but not electrical stimulation in ganglion cells of 
+rats with severe photoreceptor degeneration. J Neurophysiol 102:3260-3269.
+Shen N, Wang B, Soto F, Kerschensteiner D (2020) Homeostatic plasticity shapes the 
+retinal response to photoreceptor degeneration. Curr Biol 30:1916-1926.
+Shen W , Lee SR, Mathai AE, Zhang R, Du J, Yam MX, Pye V, Barnett NL, Rayner CL, Zhu 
+L, Hurley JB, Seth P , Hirabayashi Y , Furuya S, Gillies MC (2021) Effect of selectively 
+knocking down key metabolic genes in Muller glia on photoreceptor health. Glia 
+69:1966-1986.
+Sher A, Jones BW , Huie P , Paulus YM, Lavinsky D, Leung LS, Nomoto H, Beier C, Marc 
+RE, Palanker D (2013) Restoration of retinal structure and function after selective 
+photocoagulation. J Neurosci 33:6800-6808.Stockton RA, Slaughter MM (1989) B-wave of the electroretinogram. A reflection of ON 
+bipolar cell activity. J Gen Physiol 93:101-122.
+Strettoi E, Pignatelli V (2000) Modifications of retinal neurons in a mouse model of 
+retinitis pigmentosa. Proc Natl Acad Sci U S A 97:11020-11025.
+Strettoi E, Volpini M (2002) Retinal organization in the bcl-2-overexpressing transgenic 
+mouse. J Comp Neurol 446:1-10.
+Strettoi E, Mears AJ, Swaroop A (2004) Recruitment of the rod pathway by cones in the 
+absence of rods. J Neurosci 24:7576-7582.
+Strettoi E, Di Marco B, Orsini N, Napoli D (2022) Retinal plasticity. Int J Mol Sci 23:1138.
+Strettoi E, Porciatti V, Falsini B, Pignatelli V, Rossi C (2002) Morphological and functional 
+abnormalities in the inner retina of the rd/rd mouse. J Neurosci 22:5492-5504.
+Telias M, Denlinger B, Helft Z, Thornton C, Beckwith-Cohen B, Kramer RH (2019) Retinoic 
+acid induces hyperactivity, and blocking its receptor unmasks light responses and 
+augments vision in retinal degeneration. Neuron 102:574-586.
+Telias M, Sit KK, Frozenfar D, Smith B, Misra A, Goard MJ, Kramer RH (2022) Retinoic 
+acid inhibitors mitigate vision loss in a mouse model of retinal degeneration. Sci Adv 
+8:eabm4643.
+Thompson S, Blodi FR, Lee S, Welder CR, Mullins RF, Tucker BA, Stasheff SF, Stone EM 
+(2014) Photoreceptor cells with profound structural deficits can support useful vision 
+in mice. Invest Ophthalmol Vis Sci 55:1859-1866.
+Tian N, Copenhagen DR (2001) Visual deprivation alters development of synaptic 
+function in inner retina after eye opening. Neuron 32:439-449.
+Tian N, Copenhagen DR (2003) Visual stimulation is required for refinement of ON and 
+OFF pathways in postnatal retina. Neuron 39:85-96.
+Tien NW , Soto F, Kerschensteiner D (2017) Homeostatic plasticity shapes cell-type-
+specific wiring in the retina. Neuron 94:656-665.
+Todd L, Volkov LI, Zelinka C, Squires N, Fischer AJ (2015) Heparin-binding EGF-like growth 
+factor (HB-EGF) stimulates the proliferation of Muller glia-derived progenitor cells in 
+avian and murine retinas. Mol Cell Neurosci 69:54-64.
+Tomita Y , Qiu C, Bull E, Allen W , Kotoda Y , Talukdar S, Smith LEH, Fu Z (2021) Muller glial 
+responses compensate for degenerating photoreceptors in retinitis pigmentosa. Exp 
+Mol Med 53:1748-1758.
+Toychiev AH, Ivanova E, Yee CW , Sagdullaev BT (2013) Block of gap junctions eliminates 
+aberrant activity and restores light responses during retinal degeneration. J Neurosci 
+33:13972-13977.
+Trenholm S, Borowska J, Zhang J, Hoggarth A, Johnson K, Barnes S, Lewis TJ, Awatramani 
+GB (2012) Intrinsic oscillatory activity arising within the electrically coupled AII 
+amacrine-ON cone bipolar cell network is driven by voltage-gated Na+ channels. J 
+Physiol 590:2501-2517.
+Ueki Y , Reh TA (2013) EGF stimulates Muller glial proliferation via a BMP-dependent 
+mechanism. Glia 61:778-789.
+Ueki Y , Wilken MS, Cox KE, Chipman L, Jorstad N, Sternhagen K, Simic M, Ullom K, 
+Nakafuku M, Reh TA (2015) Transgenic expression of the proneural transcription factor 
+Ascl1 in Muller glia stimulates retinal regeneration in young mice. Proc Natl Acad Sci U 
+S A 112:13717-13722.
+Vecino E, Rodriguez FD, Ruzafa N, Pereiro X, Sharma SC (2016) Glia-neuron interactions in 
+the mammalian retina. Prog Retin Eye Res 51:1-40. 
+Wan J, Ramachandran R, Goldman D (2012) HB-EGF is necessary and sufficient for Muller 
+glia dedifferentiation and retina regeneration. Dev Cell 22:334-347.
+Wan J, Zhao XF, Vojtek A, Goldman D (2014) Retinal injury, growth factors, and cytokines 
+converge on beta-catenin and pStat3 signaling to stimulate retina regeneration. Cell 
+Rep 9:285-297.
+Wang T, Pahlberg J, Cafaro J, Frederiksen R, Cooper AJ, Sampath AP , Field GD, Chen J (2019) 
+Activation of rod input in a model of retinal degeneration reverses retinal remodeling 
+and induces formation of functional synapses and recovery of visual signaling in the 
+adult retina. J Neurosci 39:6798-6810.
+Yang P , Cao Q, Liu Y , Wang K, Zhu W (2022) Small-molecule-driven direct reprogramming 
+of Muller cells into bipolar-like cells. Cell Prolif 55:e13184.
+Yao K, Qiu S, Wang YV, Park SJH, Mohns EJ, Mehta B, Liu X, Chang B, Zenisek D, Crair 
+MC, Demb JB, Chen B (2018) Restoration of vision after de novo genesis of rod 
+photoreceptors in mammalian retinas. Nature 560:484-488.
+Yu WQ, Grzywacz NM, Lee EJ, Field GD (2017) Cell type-specific changes in retinal 
+ganglion cell function induced by rod death and cone reorganization in rats. J 
+Neurophysiol 118:434-454.
+ 
+P-Reviewer: Taylor SM; C-Editors: Zhao M, Zhao LJ, Qiu Y; T-Editor: Jia Y

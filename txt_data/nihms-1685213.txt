@@ -1,0 +1,967 @@
+Retinal imaging in inherited retinal diseases
+Michalis Georgiou1,2, Kaoru Fujinami1,2,3, Michel Michaelides1,2
+1UCL Institute of Ophthalmology, University College London, London, UK
+2Moorfields Eye Hospital NHS Foundation Trust, London, UK
+3Laboratory of Visual Physiology, Division of Vision Research, National Institute of Sensory 
+Organs, National Hospital Organization Tokyo Medical Center, Tokyo, Japan
+Abstract
+Inherited retinal diseases (IRD) are a leading cause of blindness in the working age population. 
+The advances in ocular genetics, retinal imaging and molecular biology, have conspired to create 
+the ideal environment for establishing treatments for IRD, with the first approved gene therapy and 
+the commencement of multiple therapy trials. The scope of this review is to familiarize clinicians 
+and scientists with the current landscape of retinal imaging in IRD. Herein we present in a 
+comprehensive and concise manner the imaging findings of: (I) macular dystrophies (MD) 
+[Stargardt disease ( ABCA4 ), X-linked retinoschisis ( RS1), Best disease ( BEST1 ), pattern 
+dystrophy ( PRPH2 ), Sorsby fundus dystrophy ( TIMP3 ), and autosomal dominant drusen 
+(EFEMP1 )], (II) cone and cone-rod dystrophies ( GUCA1A , PRPH2 , ABCA4  and RPGR ), (III) 
+cone dysfunction syndromes [achromatopsia ( CNGA3, CNGB3, PDE6C, PDE6H, GNAT2, 
+ATF6 ], blue-cone monochromatism ( OPN1LW/OPN1MW  array), oligocone trichromacy, 
+bradyopsia ( RGS9/R9AP ) and Bornholm eye disease ( OPN1LW/OPN1MW ), (IV) Leber 
+congenital amaurosis ( GUCY2D , CEP290 , CRB1 , RDH12 , RPE65, TULP1 , AIPL1  and 
+NMNAT1 ), (V) rod-cone dystrophies [retinitis pigmentosa, enhanced S-Cone syndrome ( NR2E3 ), 
+Bietti crystalline corneoretinal dystrophy ( CYP4V2 )], (VI) rod dysfunction syndromes (congenital 
+stationary night blindness, fundus albipunctatus ( RDH5 ), Oguchi disease ( SAG , GRK1 ), and (VII) 
+chorioretinal dystrophies [choroideremia ( CHM ), gyrate atrophy ( OAT )].
+Open Access Statement:  This is an Open Access article distributed in accordance with the Creative Commons Attribution-
+NonCommercial-NoDerivs 4.0 International License (CC BY-NC-ND 4.0), which permits the non-commercial replication and 
+distribution of the article with the strict proviso that no changes or edits are made and the original work is properly cited (including 
+links to both the formal publication through the relevant DOI and the license). See: https://creativecommons.org/licenses/by-nc-
+nd/4.0/ .
+Correspondence to:  Professor Michel Michaelides. UCL Institute of Ophthalmology, 11-43 Bath Street, London EC1V 9EL, UK. 
+michel.michaelides@ucl.ac.uk.
+Contributions:  (I) Conception and design: All authors; (II) Administrative support: None; (III) Provision of study materials or patients: 
+All authors; (IV) Collection and assembly of data: All authors; (V) Data analysis and interpretation: All authors; (VI) Manuscript 
+writing: All authors; (VII) Final approval of manuscript: All authors.
+Provenance and Peer Review:  This article was commissioned by the Guest Editor (R Theodore Smith) for the series “Retinal Imaging 
+and Diagnostics” published in Annals of Eye Science . The article was sent for external peer review organized by the Guest Editor and 
+the editorial office.
+Conflicts of Interest:  The authors have completed the ICMJE uniform disclosure form (available at http://dx.doi.org/10.21037/
+aes-20-81  ). The series “Retinal Imaging and Diagnostics” was commissioned by the editorial office without any funding or 
+sponsorship. The authors have no other conflicts of interest to declare.
+Ethical Statement:  The authors are accountable for all aspects of the work in ensuring that questions related to the accuracy or integrity 
+of any part of the work are appropriately investigated and resolved.
+HHS Public Access
+Author manuscript
+Ann Eye Sci . Author manuscript; available in PMC 2021 April 28.
+Published in final edited form as:
+Ann Eye Sci . 2020 September ; 5: . doi:10.21037/aes-20-81.
+Author Manuscript Author Manuscript Author Manuscript Author ManuscriptKeywords
+Retinal imaging; inherited retinal disease; retinitis pigmentosa; macular dystrophy; leber 
+congenital amaurosis
+Introduction
+The inherited retinal diseases (IRD) have heterogeneous clinical presentation, which can 
+result in diagnostic challenge. Diagnosis commonly involved multimodal retinal imaging, as 
+well as psychophysical and electrophysiological evaluation. They constitute the leading 
+cause of legal blindness in England and Wales amongst working-age adults, and the second 
+commonest in childhood ( 1), having a great impact on the individuals and families affected 
+(2), and they are subject to a range of interventions and research avenues ( 3). Here, we 
+categorise IRD on the basis of the primarily affected retinal cell-type and disease natural 
+history (stationary or progressive). We prioritised the selected conditions based on: (I) their 
+prevalence, (II) ongoing trial(s) of novel therapeutics, and (III) distinctive imaging findings.
+Macular dystrophies (MD)
+MD are a group of IRD characterised by bilateral, relatively symmetrical macular 
+abnormalities that significantly impair central visual function ( 4). Below we present the 
+imaging findings of the commonest subtypes ( 5), including Stargardt disease (STGD), Best 
+disease (BD), X-linked retinoschisis (XLRS), Sorsby fundus dystrophy (SFD), pattern 
+dystrophy (PD), and autosomal dominant drusen (ADD).
+Stargardt disease
+STGD ( ABCA4 , OMIM 601691) is the most common MD. The most common presentation 
+is a widespread deposition of lipofuscin (bisretinoids) in the retinal pigment epithelium 
+(RPE), leading to the classical fundus appearance of retinal flecks. The spectrum of disease 
+is highly variable, ranging from generalised cone and rod system involvement (COD/CORD 
+ABCA4 disease is presented in the next section) to isolated macular disease (Figure 1A) ( 6–
+11). Fundus fluorescein angiography (FFA) demonstrates a dark choroidal phase due to 
+masking from lipofuscin deposition in the RPE; but has been superseded by optical 
+coherence tomography (OCT) and fundus autofluorescence (FAF). A characteristic pattern 
+of areas of increased and decreased signal on FAF imaging is seen in STGD. FAF imaging 
+may serve as a monitoring tool, and decreased autofluorescence area measurements can be 
+used as a structural outcome for interventional clinical trials ( 12,13). The peripheral fundus 
+FAF findings and the classification of the posterior pole appearance can be achieved with 
+Ultra-wide field FAF (UWF-FAF) ( 14–17).
+OCT sensitively quantifies RPE atrophy and the severity and extent of outer retinal loss 
+(photoreceptor loss). Moreover, it can identify asymptomatic childhood-onset STGD, by 
+demonstrating hyperreflectivity at the base of the foveal outer nuclear layer ( 6). The 
+anatomical level of the retinal flecks can be demonstrated and can be correlated with visual 
+function ( 9,10,18–22). The earliest structural changes of the disease are juxtafoveal and Georgiou et al. Page 2
+Ann Eye Sci . Author manuscript; available in PMC 2021 April 28.
+Author Manuscript Author Manuscript Author Manuscript Author Manuscriptappear to spare the foveola ( 6). Photoreceptor loss is likely to precede RPE degeneration; 
+both of which contribute to choriocapillaris loss ( 23,24). In vivo  cellular imaging using 
+adaptive optics (AO), proved reduced cone densities and increased photoreceptor spacing 
+(25,26). The cones can be reliably counted, and tracked over time ( 27).
+BD
+BD ( BEST1 , OMIM 607854) is the second most common MD and is an autosomal 
+dominant condition, due to disease-causing variants in BEST1  (28). Early stage (Stage 1) 
+disease is characterised by a normal fundus or minimal RPE changes (pre-vitelliform). The 
+classical appearance of BD is the single, bilateral symmetrical egg-yolk-like (vitelliform) 
+lesion at the fovea (Stage 2). Over time, this lesion can start to undergo resorption, 
+progressing to a ‘pseudohypopyon’ (Stage 3). The subretinal yellow material gravitates 
+inferiorly within the lesion. Stage 1 and 2 are associated with normal visual acuity (V A), and 
+patients can be identified during a family survey or co-incidentally. V A reduction is observed 
+from stage 3 onwards. Further breakdown of subretinal material can result in a ‘vitelliruptive 
+stage’ (Stage 4). End-stage disease (Stage 5) is characterised by either sub-RPE fibrosis 
+(29), atrophy, or choroidal neovascularisation (CNV). Despite the classification of the 
+fundus appearance into stages, there is rarely predictable progression from one to the other.
+The subretinal vitelliform lesion presents with a high signal on FAF imaging and it is best 
+visualized with OCT (Figure 1B) ( 30). A common finding is subretinal fluid (SRF) which 
+waxes and wanes over time. Inherited causes of vitelliform lesion can be distinguished from 
+non-inherited acquired disorders due to the increased signal on FAF. The fibrosis that can 
+occur in advanced BD has been described as resembling a “circus tent” due to its 
+exaggerated height and unusual height-to-base ratio ( 31). OCTA has suggested this fibrosis 
+to have a neovascular origin ( 32). Fibrotic lesions appear hypoautofluorescent on FAF. 
+OCTA is particularly useful in identifying CNV in vitelliform disorders including BD, 
+where FFA can be very challenging to interpret ( 4).
+XLRS
+XLRS ( RS1, OMIM 312700) is the most common form of juvenile-onset retinal 
+degeneration in males ( 4). The hallmark feature of XLRS is the “spoke-wheel” folds of the 
+macula (macular schisis) (Figure 1C). Peripheral retinal changes are observed in 
+approximately 50% of males, including, schisis (with inner or outer retinal holes), 
+pigmentary disturbance, white spiculations, metallic sheen, neovascularisation and vitreous 
+veils. An increased risk of rhegmatogenous retinal detachment (RD), or vitreous 
+haemorrhage (VH) has been reported for patients with peripheral retinoschisis ( 33). Bullous 
+XLRS can be congenital or develop soon after birth, and it can be complicated later in life 
+by RD, which may be rhegmatogenous, tractional or a Coats-like exudative detachment ( 34). 
+The development of macular atrophy may lead to slow V A loss in older adults.
+The identification of macular schisis can be challenging on clinical examination, making 
+multimodal imaging invaluable. Splitting of the inner and outer retinal layers can be readily 
+identified with OCT, and a spoke-wheel appearance of concentric areas of high- and low-
+signal intensity is observed with FAF imaging (Figure 1C). Rarely macular OCT can be Georgiou et al. Page 3
+Ann Eye Sci . Author manuscript; available in PMC 2021 April 28.
+Author Manuscript Author Manuscript Author Manuscript Author Manuscriptnormal/near normal, and peripheral changes are then the only clue to the clinical diagnosis. 
+Ultra-wide field imaging with FFA and OCTA can be helpful identifying less common 
+vascular abnormalities such as vascular sheathing and neovascularization ( 35). Increased and 
+irregular cone spacing within the foveal schisis is reported with AO imaging. However, the 
+presence of preserved wave-guiding cones at the fovea and macular regions may indicate a 
+good potential for successful rescue with intervention ( 23,36).
+Sorsby fundus dystrophy
+SFD ( TIMP3 , OMIM 188826) is a rare ADD-associated MD. FAF imaging may identify a 
+broad ill-defined increase in signal in the peripheral macula in early disease, with subretinal 
+drusenoid deposits - reticular pseudodrusen, that spare the central fovea, clearly depicted on 
+infra-red imaging (Figure 1D). OCT can identify drusen-like deposits and delineate Bruch 
+membrane thickening; and is valuable in the diagnosis of CNV . Early CNV changes can be 
+captured with OCTA, without the need for FFA ( 37).
+PD
+PD (PRPH2 , OMIM 179605) is characterized by variable distributions of pigment 
+deposition at the level of the RPE. The deposits in PD are typically hyperautofluorescent on 
+FAF, and may result in a characteristic speckled pattern ( 38). As these changes are at the 
+level of RPE, subretinal hyper-reflective material is seen on OCT (Figure 1E).
+ADD
+ADD ( EFEMP1 , OMIM 601548) is an autosomal dominant condition characterised by 
+drusen-like deposits at the macula, which may be in a radiating ( Malattia leventinese ) or 
+honeycomb-like appearance [Doyne honeycomb retinal dystrophy (MIM126600)]. The 
+drusen-like deposits in ADD are hyperautofluorescent on FAF, in contrast to drusen in AMD 
+which are variable on FAF ( 39,40). Drusen-like deposits are seen as hyper-reflective 
+thickening of the RPE-Bruch membrane complex ( 41), with disrupted photoreceptor 
+integrity on OCT (Figure 1F) ( 42). CNV in ADD can be diagnosed with OCTA ( 43).
+Cone and cone-rod dystrophies
+Progressive COD/CORD are characterised by cone photoreceptor degeneration, which may 
+be followed by subsequent rod photoreceptor loss. These disorders typically present with 
+progressive loss of central vision, colour vision disturbance and photophobia ( 11,44). We 
+discuss their retinal imaging, focusing on five of the most common genotypes: GUCA1A , 
+GUCY2D , ABCA4 , PRPH2  and RPGR .
+Autosomal dominant GUCA1A-associated COD/CORD
+GUCA1A  COD/CORD (OMIM 600364) has variable fundoscopy findings, ranging from 
+mild RPE disturbance to extensive macular atrophy (Figure 2A). FAF is useful in 
+investigating macular abnormalities, although both areas of hypoautofluorescence and 
+hyperautofluorescence have correlated with retinal atrophy; an increased signal at the fovea 
+may be seen in early disease ( 45–47). Cellular variability between patients harbouring the 
+same variant is identified with AOSLO ( 48).Georgiou et al. Page 4
+Ann Eye Sci . Author manuscript; available in PMC 2021 April 28.
+Author Manuscript Author Manuscript Author Manuscript Author ManuscriptAutosomal dominant GUCY2D-associated COD/CORD
+GUCY2D  (OMIM 600179) variants can cause both COD, CORD, and Leber congenital 
+amaurosis (LCA) ( 49,50). GUCY2D -associated COD/CORD is AD disease, in contrast to 
+LCA which is recessive ( 51). Fundoscopy findings are varied, ranging from mild RPE 
+changes to extensive macular atrophy, observed in older individuals ( 52,53). FAF imaging 
+usually shows central hypoautofluorescence and a surrounding ring of 
+hyperautofluorescence (Figure 2B) ( 53). A variable degree of EZ disruption over the fovea 
+can be observed, as well as macular thinning ( 54).
+Autosomal dominant PRPH2-associated CORD
+PRPH2  COD/CORD (OMIM 179605) fundoscopic appearance ranges from a bull’s-eye 
+maculopathy to macular atrophy. A characteristic speckled macular appearance on FAF is 
+demonstrated in most of the patients (Figure 2C) ( 55). AOSLO imaging in p.(Arg172Trp)-
+associated CORD revealed increased cone spacing throughout the macula with 
+corresponding loss of outer retinal structures on OCT ( 56). However, intrafamilial analysis 
+of p.(Arg172Gln)-associated disease has shown marked variability, similar to that seen in 
+GUCA1A -associated CORD; whilst one family member had a completely normal 
+photoreceptor mosaic, two others had variable parafoveal cone loss ( 57).
+Autosomal recessive ABCA4-associated COD/CORD
+ABCA4  COD/CORD (OMIM 601691), fundoscopy may initially reveal a normal fundus or 
+mild retinal abnormalities (such as loss of foveal reflex), whereas peripheral degenerative 
+changes occur in later disease ( 58). Diagnosis can therefore be delayed unless FAF or OCT 
+imaging is undertaken ( 8). FAF findings include a bull’s-eye maculopathy-like appearance 
+with yellow-white retinal flecks and increasing macular atrophy over time ( 59,60); whilst 
+OCT reveals loss of outer retinal architecture at the central macula ( 24). Longitudinal 
+increase in abnormal AF regions correlates with both visual function decline and abnormal 
+cone spacing on AOSLO ( 61). However, cone mosaic abnormalities are known to precede 
+abnormal psychophysical testing and FAF ( 25).
+X-Linked RPGR-associated COD/CORD
+Most disease-causing variants in RPGR  (OMIM 312610) result in retinitis pigmentosa (RP) 
+(62), but those leading to COD/CORD are preferentially sequestered at the 3’ end of the 
+ORF15 region ( 63). FAF imaging often reveals parafoveal rings of increased signal in 
+RPGR -associated COD/CORD (Figure 2D). Unlike RP, these increase in size with disease 
+progression and are inversely related to ERG amplitude ( 64,65).
+Cone dysfunction syndromes (CDS)
+The CDS are stationary cone disorders, with congenital/early-infantile onset and give rise to 
+purely cone dysfunction, whereas the aforementioned progressive cone dystrophies are of 
+later-onset and usually also involve rod loss over time ( 66). CDS are rarer than COD/CORD, 
+with only 10 genes implicated and only five distinct phenotypes described to date; 
+achromatopsia (ACHM), blue-cone monochromatism (BCM), oligocone trichromacy (OT), Georgiou et al. Page 5
+Ann Eye Sci . Author manuscript; available in PMC 2021 April 28.
+Author Manuscript Author Manuscript Author Manuscript Author Manuscriptbradyopsia and Bornholm eye disease (BED). Retinal imaging of all these conditions will be 
+described.
+ACHM
+ACHM is the most common CDS. Disease-causing variants have been reported in CNGA3 
+(67,68) (OMIM600053), CNGB3  (69) (OMIM605080), GNAT2  (70,71) (OMIM139340), 
+ATF6  (72) (OMIM605537), PDE6H  (73) (OMIM601190) and PDE6C  (66) (OMIM600827). 
+It presents either at birth or early infancy, with poor V A, pendular nystagmus, photophobia, 
+and color vision loss along all three axes ( 74).
+Four distinct FAF phenotypes have been reported: (I) normal appearance (Figure 3A), (II) 
+central increased signal (Figure 3B), (III) reduced signal centrally (Figure 3C) ( 75), and (IV) 
+central area of decreased signal (Figure 3D), with a surrounding ring of 
+hyperautofluorescence ( 76). OCT imaging can be used to grade ACHM into five grades: (I) 
+Continuous ellipsoid zone (EZ) (Figure 3E), (II) EZ disruption (Figure 3F), (III) EZ absence 
+(Figure 3G), (IV) presence of a hyporeflective zone (Figure 3H), and (V) outer retinal 
+atrophy with RPE loss (Figure 3I) ( 77). In CNGA3  and CNGB3  genotypes, all these grades 
+have been observed (with approximately 50% cases being grade I to III); suggesting residual 
+cones in a good proportion of patients. The presence of residual cones is critical for targeting 
+by gene therapy intervention ( 78,79). In contrast for PDE6C -ACHM and ATF6 -ACHM, no 
+patients have been reported with grades I-II. GNAT2 -ACHM typically presents with grade I 
+(80). OCT findings support that the condition in predominantly stable in the vast majority of 
+patients ( 81). In contrast, PDE6C -ACHM can be slowly progressive ( 76). Foveal hypoplasia, 
+preservation of inner retinal layers over the fovea, is a common OCT finding in ACHM; 
+being present in all subjects with ATF6 -ACHM (Figure 3G) ( 76,82), in 60–70% of 
+previously reported patients with CNGA3 - and CNGB3 -ACHM (Figure 3F) ( 77,78,83–85), 
+and is not present in any reported subject with GNAT2 - and PDE6C -ACHM.
+ACHM is by far the most well-studied condition using AOSLO imaging ( 23). Marked 
+variability in the cone mosaic has been observed across patients; with no significant 
+difference between the two most common genotypes, CNGA3  and CNGB3  (77,83,86), and 
+the rarer GNAT2  genotype associated with the least disrupted photoreceptor mosaic 
+(80,87,88). In a large cohort of CNGB3 -ACHM, significantly decreased peak foveal cone 
+densities and increased spacing has been reported ( 78). Similar findings were also reported 
+for CNGA3 -ACHM (n=38), also including a high degree of interocular symmetry, and vast 
+intrafamilial variability ( 79). In ATF6 - and PDE6C -associated ACHM, AOSLO studies 
+identified few if any cellular residual structures ( 76,82).
+Gene therapy trials for CNGA3 - and CNGB3 -associated ACHM are on-going.
+Blue cone monochromatism
+BCM is an X-linked condition characterized by defects of L- and M-wavelength-sensitive 
+cone function (OMIM 300821, 300822, 300824), with a fundus examination revealing a 
+myopic but otherwise normal retina ( 66,89). Presenting symptoms, OCT and FAF imaging 
+can be similar to ACHM, with a variable degree of EZ disruption (Figure 3J) ( 90). In 
+AOSLO imaging, cone mosaic disruption is highly variable and may be genotype specific Georgiou et al. Page 6
+Ann Eye Sci . Author manuscript; available in PMC 2021 April 28.
+Author Manuscript Author Manuscript Author Manuscript Author Manuscript(23,91) The cone mosaic appears dark over the foveal centre with confocal AOSLO, with a 
+sparse array of large bright spots, which are believed to be S-cones, surrounding it ( 91,92). 
+Cone density is higher than that expected for the S-cone sub-mosaic, in keeping with 
+remnant L-/M-cones ( 93–95). Overall, these AOSLO imaging studies have identified 
+significant inter-subject variability ( 23). Despite female carriers being asymptomatic, 
+confocal AOSLO has demonstrated variably reduced cone density, increased spacing, and 
+disrupted organisation, with phenotypic variability likely relating to random X-chromosome 
+inactivation ( 96).
+BED
+BED (OMIM 300821, 300822) is an X-linked CDS associated with dichromacy and myopia, 
+decreased V A, RPE thinning, and visible choroidal vessels in the posterior pole ( 66,97). 
+Retinal thinning can be observed on OCT (Figure 3K) ( 98). AOSLO imaging shows 
+evidence that patients with BED have a significantly disrupted cone mosaic ( 23,98–100).
+OT
+The disease hallmark is the reduced amplitude of cone responses on ERG, with normal or 
+near-normal color discrimination, and normal fundus appearance ( 66,101). On OCT imaging 
+the outer segment length appears reduced, with decreased intensity of the EZ outside the 
+fovea ( 102). The cone photoreceptor mosaic in OT has been investigated with an AO fundus 
+camera, and in keeping with the original disease mechanism hypothesis, a decreased number 
+(‘oligocone’) of otherwise normal appearing foveal cones (thereby permitting ‘trichromacy’) 
+was observed ( 102).
+RGS9/R9AP-associated retinopathy (‘Bradyopsia’)
+RGS9/R9AP -associated retinopathy (OMIM 604067, 607814) presents from early childhood 
+with delayed dark and light adaption ( 103), which can be a common feature also in OT 
+(102), as well as other findings such as a normal fundus appearance, reduced V A, and 
+normal color vision ( 104–107). OCT and FAF are usually normal (Figure 3L) ( 107). Unlike 
+in OT, confocal AOSLO has revealed a normal cone photoreceptor mosaic in subjects with 
+RGS9/R9AP -associated retinopathy ( 102,108). Cellular phenotyping is therefore able to 
+differentiate between these two conditions with common clinical features—an intact 
+photoreceptor mosaic in RGS9/R9AP -associated retinopathy, and disruption in OT ( 23).
+LCA/EOSRD
+LCA/EOSRD are both genetically and phenotypically heterogeneous, and characterised 
+clinically by severe congenital/early infancy visual loss, nystagmus, amaurotic pupils and 
+markedly reduced/absent full-field electroretinograms ( 109). The identified genes account 
+for approximately 70–80%. GUCY2D , CEP290 , CRB1 , RDH12  and RPE65  are the most 
+common and their imaging findings are presented below, together with TULP1 , AIPL1  and 
+NMNAT1  due to distinctive findings are also presented.Georgiou et al. Page 7
+Ann Eye Sci . Author manuscript; available in PMC 2021 April 28.
+Author Manuscript Author Manuscript Author Manuscript Author ManuscriptGUCY2D - LCA/EOSRD
+Patients with GUCY2D  - LCA/EOSRD (OMIM 600179) often have relatively normal fundi, 
+in contrast to most other LCA/EOSRD genotypes ( 51). There can be relatively preserved 
+outer retinal structure on OCT in many patients (even lifelong, Figure 4A), although foveal 
+cone outer segment abnormalities and foveal cone loss has been observed ( 51,110). FAF 
+findings are variable; normal, central foveal hyperautofluorescence, and/or a perimacular 
+ring of increased AF have been reported (Figure 4A) ( 51). A phase I/II gene therapy trial is 
+on-going.
+CEP290 - LCA/EOSRD
+OCT studies of CEP290  - LCA/EOSRD (OMIM 610142) have shown that despite profound 
+cone dysfunction, the foveal architecture is structurally preserved until the fourth decade of 
+life in some patients; although with abnormal inner and outer segments in contrast to the 
+early loss of rod photoreceptors ( 110,111). FAF imaging reveals a perifoveal 
+hyperautofluorescent ring in most patients (Figure 4B), and areas of decreased signal in 
+older patients (pigmentary retinopathy) ( 111). Phase I/II and Phase III gene therapy trials are 
+on-going.
+CRB1 - LCA/EOSRD
+CRB1 -associated disease (OMIM 604210) has nummular pigmentation, maculopathy, 
+relative preservation of para-arteriolar RPE, intraretinal cystoid spaces, with retinal 
+thickening and loss of lamination on OCT (Figure 4C) ( 112). Not all findings are present in 
+all patients. Altered retinal lamination with increased RNFL thickness; is a rather unique 
+finding for CRB1  compared to other LCA/EOSRD genotypes ( 113). CRB1  variants can be 
+associated with a range of phenotypes and corresponding retinal imaging findings; including 
+RP (114), Coats-like vasculopathy, and maculopathy ( 115).
+RDH12 - LCA/EOSRD
+RDH12 -associated disease (OMIM 608830), which gives rise to an EOSRD phenotype is 
+characterised by early-dense intraretinal pigment migration and maculopathy ( 116). OCT 
+reveals severe loss of structure often from 10 years of age ( 117). Macular atrophy is a 
+universal finding on FAF (centrally decreased signal), and with disease progression, the area 
+of atrophy extends peripherally in a variegated watercolour-like pattern (Figure 4D), which 
+usually corresponds to the retinal vasculature ( 117). Recently the phenotypic spectrum of 
+RDH12  has been extended to include later onset and milder phenotypes ( 118).
+RPE65 - LCA/EOSRD
+RPE65 -deficiency (OMIM 180069) is associated with reduced or absent AF on FAF 
+imaging, suggesting low or absent levels of lipofuscin in the RPE (Figure 4E) ( 119,120). 
+OCT studies have demonstrated relatively normal retinal thickness in some patients; with 
+more commonly a central macular area of relatively preserved retina with a surrounding ring 
+of thinning or more widespread retinal loss (Figure 4E) ( 120,121). There is an FDA- and 
+EMA-approved gene therapy for RPE65 -EOSRD.Georgiou et al. Page 8
+Ann Eye Sci . Author manuscript; available in PMC 2021 April 28.
+Author Manuscript Author Manuscript Author Manuscript Author ManuscriptTULP1, AIPL1 and NMNAT1 - LCA
+TULP1  (OMIM 602280), AIPL1  (OMIM 604323) and NMNAT1  (OMIM 608700)-
+associated disease are characterised by early maculopathy. NMNAT1  maculopathy typically 
+is severe, early onset and extensive (Figure 4F), with pigment clumping (including 
+nummular pigmentation), both visible on FAF and OCT ( 122). Similar to RDH12 , the 
+phenotypic spectrum of NMNAT1  has been extended to later onset and a milder phenotype 
+(123). In AIPL1 -LCA no patient is identified in the literature with residual outer retinal 
+structure beyond the age 4 ( 110,124). A gene therapy study is on-going for AIPL1 -LCA.
+Rod-cone dystrophies
+Rod-cone dystrophies are a variable group of inherited retinal conditions, both in terms of 
+phenotype and genotype ( 125), with a prevalence of 1/3,000–1/4,000 in the general 
+population ( 126). Herein we present the imaging findings of RP, enhanced S-Cone syndrome 
+(ESCS) and Bietti crystalline corneoretinal dystrophy (BCD).
+RP
+RP is characterized by nyctalopia and gradual constriction of the visual field, with eventual 
+loss of central vision, progressing to legal blindness ( 127,128). RP can be inherited as an 
+autosomal dominant, autosomal recessive (AR) or X linked trait. Due to the large number of 
+genes involved (>100 genes) and the lack of distinct/specific genotype-phenotype 
+correlations, an overview of retinal imaging will be presented for RP and not each specific 
+genotype.
+Areas of atrophied RPE/photoreceptor cell loss have decreased AF because of the lack of 
+lipofuscin, and are observed to a greater extent in the mid-periphery (Figure 5A). Wide-field 
+FAF can better evaluate the full extent of peripheral atrophy in RP. Increased AF is often 
+observed in the form of a concentric ring around the macula ( 65), and represents areas of 
+dysfunction/degenerating photoreceptors ( 129). The hyperautofluorescent ring demarcates 
+the area of central viable retina from the surrounding atrophic retina, and thereby is observed 
+to constrict over time (in contrast to CORD, where it is seen to expand) ( 65). The ring size 
+and width follows an exponential decline, with faster loss of area earlier in the disease 
+(65,130). X-linked forms of the disease are usually more severe, with early involvement of 
+the fovea and more rapid decline of vision (Figure 5B) ( 131).
+On OCT imaging the disruption of the photoreceptor layer (EZ) starts from the periphery 
+(rod rich region) and gradually the functioning retina constricts to the fovea (Figure 5A), till 
+it disappears, leading to blindness (Figure 5B). Both the width of the residual EZ, as well as 
+the area of EZ on en face  analysis, are established sensitive measure of RP progression 
+(132,133). Several studies employing AOSLO have reported a decrease in cone density 
+and/or increased cone spacing in patients with RP ( 23).
+Sector RP is an uncommon restricted form of RP in which only one or two retinal quadrants 
+display clinical pathological signs (Figure 5C), and as such is associated with a good 
+prognosis ( 134). A phase I/II gene therapy trials is on-going for PDE6B , MERTK , RPGR , 
+and RLBP1 .Georgiou et al. Page 9
+Ann Eye Sci . Author manuscript; available in PMC 2021 April 28.
+Author Manuscript Author Manuscript Author Manuscript Author ManuscriptESCS
+ESCS ( NR2E3 , OMIM 268100) is a rare slowly progressive AR form of retinal 
+degeneration, typically characterised by nummular pigment clumping at the level of the 
+RPE, often most plentiful around the temporal vascular arcades (Figure 5D) ( 135). OCT 
+studies may show a disturbed perimacular region (thought to be filled with S-cone 
+photoreceptors instead of rods), with thick and bulging retina and abnormal laminar 
+architecture (Figure 5D) ( 136). Other imaging findings include: torpedo-like changes, deep 
+atrophic lesions with a small hyperpigmented rim, helicoid subretinal fibrosis, 
+circumferential fibrotic scars in the posterior pole with a spared centre, large fibrotic scars 
+around the optic nerve head, and yellow-white dots in areas of relatively normal-appearing 
+retina ( 137,138).
+BCD
+BCD ( CYP4V2 , OMIM 608614) is an AR disease, with similar clinical symptoms to RP, 
+associated with progressive RPE-choriocapillaris complex atrophy and retinal crystals 
+(Figure 5E), which can disappear with disease progression, resulting in greater RPE 
+disruption ( 139,140). FAF shows sharply demarcated areas of RPE loss that coincide with 
+abrupt edges of outer retinal atrophy on OCT; with the crystals generally situated on or in, 
+the RPE/Bruch’s complex ( 139).
+ROD Dysfunction syndromes
+Rod Dysfunction syndromes are a genetically diverse group of non-progressive primary 
+dysfunctions of the rod system, most commonly causing congenital stationary night 
+blindness (CSNB) - with [Fundus Albipunctatus (FA) and Oguchi Disease] or without 
+abnormal fundi (complete and incomplete CSNB) ( 141).
+Complete and Incomplete Congenital Stationary Night Blindness (cCSNB/iCSNB)
+In contrast to FA and Oguchi disease, which are described below, cCSNB/iCSNB have no 
+distinctive fundus appearance with normal or myopic fundi ( 142). Electrophysiological 
+findings are the key to differentiate cCSNB and iCSNB; complete dysfunction of on-
+pathway and incomplete dysfunction of both on- and off-pathways ( 143). cCSNB/iCSNB 
+have a heterogeneous genetic background including AD, AR and X-linked, with variable V A 
+and night blindness ( 141). Aland Eye Disease is a form of X-linked incomplete CSNB, due 
+to variants in CACNA1F , with common features of nystagmus, foveal hypoplasia visible on 
+OCT, and subnormal V A ( 144,145). OCT in 3 patients with GRM6  variants (AR CSNB) 
+identified selective thinning of the inner retinal layers suggesting either reduced bipolar or 
+ganglion cell numbers or altered synaptic structure in the inner retina ( 146).
+FA
+FA is an AR disease characterized by multiple white subretinal spots ( 147), throughout the 
+retina (Figure 6A). FA has been attributed to variants in RDH5 , RLBP1  and RPE65  (148). 
+RDH5  retinopathy (also RPE65  and RLBP1 , albeit to a lesser extent) leads to reduced AF 
+signal possibly because of absence of retinoid-derived fluorophores ( 147). The white dots in 
+younger subjects appear as foci of increased signal on FAF imaging (Figure 6A). On OCT Georgiou et al. Page 10
+Ann Eye Sci . Author manuscript; available in PMC 2021 April 28.
+Author Manuscript Author Manuscript Author Manuscript Author Manuscriptimaging the associated deposits extend from Bruch’s membrane to the external limiting 
+membrane, with a focal loss of photoreceptor outer segments ( 147). Development of 
+macular atrophy/cone dysfunction can be observed in a later stage of the disease ( 149–151).
+Oguchi disease
+Oguchi ( SAG , GRK1)  disease is a rare form of AR CSNB having the distinguishing feature 
+of the Mizuo-Nakamura phenomenon: diffuse green-golden fundus discolouration in the 
+presence of light (Figure 6B) which returns to normal after prolonged dark adaption 
+(141,152) Foveal retinal thickness can be normal on OCT (Figure 6B) ( 146). AOSLO 
+identified that rods, but not cones, change intensity after dark adaptation, suggesting that the 
+fundus changes are the result of changes within the rods as opposed to changes at a different 
+retinal locus ( 146). Development of peripheral atrophy is observed in a later stage of the 
+disease ( 153).
+Chorioretinal dystrophies
+Choroideremia (CHM)
+CHM ( CHM , OMIM 300390) is a rare X-linked condition characterized by degeneration of 
+the choriocapillaris, RPE and retina (Figure 7A), with males presenting in early adulthood or 
+late childhood with nyctalopia and constricted peripheral vision ( 154). The skewed X-
+inactivation can lead to symptomatic female carriers (Figure 7B), sharing similar imaging 
+characteristics to affected males. FAF of the disease allows direct visualization of the 
+choroidal vessels due to loss of the photoreceptor layers and the RPE, with a residual 
+asymmetric central area of functioning retina.
+Common OCT findings include IZ attenuation, with or without intact EZ, outer retinal 
+tubulations, interlaminar bridges and RPE thinning ( 155–157). AOSLO has been employed 
+extensively, demonstrating a normal photoreceptor mosaic in asymptomatic carriers and 
+patchy cone loss in symptomatic carriers ( 155). Affected males have disrupted parafoveal 
+mosaics, with increased cone spacing. The cone spacing is more regular near the borders of 
+atrophy ( 155). The largest multimodal study to date including the use of AOSLO ( 156), 
+describes a relatively intact central retina with a normal or reduced cone density at 0.5 mm 
+eccentricity; and an abrupt loss of cones at the border of RPE atrophy, as well as hyper-
+reflective clumps of cones in younger patients (<30 years) and bubble-like lesions within the 
+choroid ( 157). IZ drop-out precedes EZ disruption and no RPE cells were visible in areas of 
+cone loss ( 156). Investigators thereby proposed that CHM is primarily an RPE disorder 
+followed by photoreceptor degeneration; recent OCTA studies have similar conclusions. A 
+phase II/III gene therapy trial is on-going.
+Gyrate atrophy (GA)
+GA ( OAT , OMIM 613349) is a rare in-born error of metabolism with retinal manifestations 
+of progressive chorioretinal loss, beginning as small areas of peripheral RPE and choroidal 
+atrophy, which coalesce to larger well demarcated atrophic area, visible on FAF as area of 
+decreased AF (Figure 7C) ( 158). On OCT macular oedema can be seen, as well as retinal 
+tubulations in advanced disease ( 158,159).Georgiou et al. Page 11
+Ann Eye Sci . Author manuscript; available in PMC 2021 April 28.
+Author Manuscript Author Manuscript Author Manuscript Author ManuscriptConcluding remarks & future prospects
+Advances in molecular genetic techniques have greatly simplified molecular diagnosis. 
+Similarly, advances in retinal imaging and retinal function testing have improved knowledge 
+of disease natural history, which is key to identifying treatment effects in clinical trials of 
+novel therapies. The remaining challenge is to develop novel therapies that will slow 
+degeneration or improve function. The ongoing and upcoming trials emphasise the 
+increasing need for further detailed investigation of retinal structure, to better explore the 
+natural history of the diseases, the reliability and repeatability of the different imaging 
+methods and measurements, and moreover define inclusion criteria, prognostic indicators 
+and endpoints.
+Acknowledgments
+Funding:  Supported by grants from the National Institute for Health Research Biomedical Research Centre at 
+Moorfields Eye Hospital NHS Foundation Trust and UCL Institute of Ophthalmology, Macular Society (UK), Fight 
+for Sight (UK), Onassis Foundation, Leventis Foundation, The Wellcome Trust (099173/Z/12/Z), Moorfields Eye 
+Hospital Special Trustees, Moorfields Eye Charity, Retina UK, and the Foundation Fighting Blindness (USA).
+References
+1. Liew G, Michaelides M, Bunce C. A comparison of the causes of blindness certifications in England 
+and Wales in working age adults (16–64 years), 1999–2000 with 2009–2010. BMJ Open 
+2014;4:e004015.
+2. Galvin O, Chi G, Brady L, et al. The Impact of Inherited Retinal Diseases in the Republic of Ireland 
+(ROI) and the United Kingdom (UK) from a Cost-of-Illness Perspective. Clin Ophthalmol 
+2020;14:707–19. [PubMed: 32184557] 
+3. Smith J, Ward D, Michaelides M, et al. New and emerging technologies for the treatment of 
+inherited retinal diseases: a horizon scanning review. Eye (Lond) 2015;29:1131–40. [PubMed: 
+26113499] 
+4. Rahman N, Georgiou M, Khan KN, et al. Macular dystrophies: clinical and imaging features, 
+molecular genetics and therapeutic options. Br J Ophthalmol 2020;104:451–60. [PubMed: 
+31704701] 
+5. Pontikos N, Arno G, Jurkute N, et al. Genetic basis of inherited retinal disease in a molecularly 
+characterised cohort of over 3000 families from the United Kingdom. Ophthalmology 2020. [Epub 
+ahead of print].
+6. Khan KN, Kasilian M, Mahroo OAR, et al. Early Patterns of Macular Degeneration in ABCA4-
+Associated Retinopathy. Ophthalmology 2018;125:735–46. [PubMed: 29310964] 
+7. Tanna P, Georgiou M, Strauss RW, et al. Cross-Sectional and Longitudinal Assessment of the 
+Ellipsoid Zone in Childhood-Onset Stargardt Disease. Transl Vis Sci Technol 2019;8:1.
+8. Fujinami K, Zernant J, Chana RK, et al. Clinical and molecular characteristics of childhood-onset 
+Stargardt disease. Ophthalmology 2015;122:326–34. [PubMed: 25312043] 
+9. Fujinami K, Sergouniotis PI, Davidson AE, et al. Clinical and molecular analysis of Stargardt 
+disease with preserved foveal structure and function. Am J Ophthalmol 2013;156:487–501.e1. 
+[PubMed: 23953153] 
+10. Tanna P, Georgiou M, Aboshiha J, et al. Cross-Sectional and Longitudinal Assessment of Retinal 
+Sensitivity in Patients With Childhood-Onset Stargardt Disease. Transl Vis Sci Technol 2018;7:10.
+11. Gill JS, Georgiou M, Kalitzeos A, et al. Progressive cone and cone-rod dystrophies: clinical 
+features, molecular genetics and prospects for therapy. Br J Ophthalmol 2019;103:711–20.
+12. Strauss RW, Kong X, Ho A, et al. Progression of Stargardt Disease as Determined by Fundus 
+Autofluorescence Over a 12-Month Period: ProgStar Report No. 11. JAMA Ophthalmol 
+2019;137:1134–45.Georgiou et al. Page 12
+Ann Eye Sci . Author manuscript; available in PMC 2021 April 28.
+Author Manuscript Author Manuscript Author Manuscript Author Manuscript13. Georgiou M, Kane T, Tanna P, et al. Prospective Cohort Study of Childhood-Onset Stargardt 
+Disease: Fundus Autofluorescence Imaging, Progression, Comparison with Adult-Onset Disease, 
+and Disease Symmetry. Am J Ophthalmol 2020;211:159–75. [PubMed: 31812472] 
+14. Strauss RW, Munoz B, Ho A, et al. Incidence of Atrophic Lesions in Stargardt Disease in the 
+Progression of Atrophy Secondary to Stargardt Disease (ProgStar) Study: Report No. 5. JAMA 
+Ophthalmol 2017;135:687–95. [PubMed: 28542697] 
+15. Strauss RW, Munoz B, Ho A, et al. Progression of Stargardt Disease as Determined by Fundus 
+Autofluorescence in the Retrospective Progression of Stargardt Disease Study (ProgStar Report 
+No. 9). JAMA Ophthalmol 2017;135:1232–41. [PubMed: 29049437] 
+16. Chen L, Lee W, de Carvalho JRL Jr, et al. Multi-platform imaging in ABCA4-Associated Disease. 
+Sci Rep 2019;9:6436. [PubMed: 31015497] 
+17. Klufas MA, Tsui I, Sadda SR, et al. Ultrawidefield autofluoresence in ABCA4 stargardt disease. 
+Retina 2018;38:403–15. [PubMed: 28248825] 
+18. Cai CX, Light JG, Handa JT. Quantifying the Rate of Ellipsoid Zone Loss in Stargardt Disease. 
+Am J Ophthalmol 2018;186:1–9. [PubMed: 29126757] 
+19. Melillo P, Testa F, Rossi S, et al. En Face Spectral-Domain Optical Coherence Tomography for the 
+Monitoring of Lesion Area Progression in Stargardt Disease. Invest Ophthalmol Vis Sci 
+2016;57:OCT247–52.
+20. Greenstein VC, Nunez J, Lee W, et al. A Comparison of En Face Optical Coherence Tomography 
+and Fundus Autofluorescence in Stargardt Disease. Invest Ophthalmol Vis Sci 2017;58:5227–36. 
+[PubMed: 29049723] 
+21. Ritter M, Zotter S, Schmidt WM, et al. Characterization of stargardt disease using polarization-
+sensitive optical coherence tomography and fundus autofluorescence imaging. Invest Ophthalmol 
+Vis Sci 2013;54:6416–25. [PubMed: 23882696] 
+22. Ergun E, Hermann B, Wirtitsch M, et al. Assessment of central visual function in Stargardt’s 
+disease/fundus flavimaculatus with ultrahigh-resolution optical coherence tomography. Invest 
+Ophthalmol Vis Sci 2005;46:310–6. [PubMed: 15623790] 
+23. Georgiou M, Kalitzeos A, Patterson EJ, et al. Adaptive optics imaging of inherited retinal diseases. 
+Br J Ophthalmol 2018;102:1028–35. [PubMed: 29141905] 
+24. Strauss RW, Munoz B, Wolfson Y , et al. Assessment of estimated retinal atrophy progression in 
+Stargardt macular dystrophy using spectral-domain optical coherence tomography. Br J 
+Ophthalmol 2016;100:956–62. [PubMed: 26568636] 
+25. Song H, Rossi EA, Latchney L, et al. Cone and rod loss in Stargardt disease revealed by adaptive 
+optics scanning light ophthalmoscopy. JAMA Ophthalmol 2015;133:1198–203. [PubMed: 
+26247787] 
+26. Song H, Rossi EA, Yang Q, et al. High-Resolution Adaptive Optics in Vivo Autofluorescence 
+Imaging in Stargardt Disease. JAMA Ophthalmol 2019;137:603–9. [PubMed: 30896765] 
+27. Tanna P, Kasilian M, Strauss R, et al. Reliability and Repeatability of Cone Density Measurements 
+in Patients With Stargardt Disease and RPGR-Associated Retinopathy. Invest Ophthalmol Vis Sci 
+2017;58:3608–15. [PubMed: 28738413] 
+28. Petrukhin K, Koisti MJ, Bakall B, et al. Identification of the gene responsible for Best macular 
+dystrophy. Nat Genet 1998;19:241–7. [PubMed: 9662395] 
+29. JDM G. Best’s disease. Stereoscopic atlas of macular disease. Diagnosis and Treatment. St Louis, 
+MO: Mosby, 1997:304–11.
+30. Ferrara DC, Costa RA, Tsang S, et al. Multimodal fundus imaging in Best vitelliform macular 
+dystrophy. Graefes Arch Clin Exp Ophthalmol 2010;248:1377–86. [PubMed: 20414784] 
+31. Kumar V , Chatra K. Fibrotic pillar leads to focal choroidal excavation in Best vitelliform 
+dystrophy. Graefes Arch Clin Exp Ophthalmol 2018;256:2083–7. [PubMed: 30171352] 
+32. Shahzad R, Siddiqui MA. Choroidal neovascularization secondary to Best vitelliform macular 
+dystrophy detected by optical coherence tomography angiography. J aapos 2017;21:68–70. 
+[PubMed: 27867022] 
+33. Fahim AT, Ali N, Blachley T, et al. Peripheral fundus findings in X-linked retinoschisis. Br J 
+Ophthalmol 2017;101:1555–9. [PubMed: 28348004] Georgiou et al. Page 13
+Ann Eye Sci . Author manuscript; available in PMC 2021 April 28.
+Author Manuscript Author Manuscript Author Manuscript Author Manuscript34. Hinds AM, Fahim A, Moore AT, et al. Bullous X linked retinoschisis: clinical features and 
+prognosis. Br J Ophthalmol 2018;102:622–4. [PubMed: 28848025] 
+35. Berenberg TL, Van Tassel SH, Patel SN, et al. Juvenile X-Linked Retinoschisis: A Comparison of 
+Imaging Modalities and Review of Angiographic Findings. Retina 2016;36:e117–9. [PubMed: 
+27164547] 
+36. Duncan JL, Ratnam K, Birch DG, et al. Abnormal cone structure in foveal schisis cavities in X-
+linked retinoschisis from mutations in exon 6 of the RS1 gene. Invest Ophthalmol Vis Sci 
+2011;52:9614–23. [PubMed: 22110067] 
+37. Mohla A, Khan K, Kasilian M, et al. OCT angiography in the management of choroidal 
+neovascular membrane secondary to Sorsby fundus dystrophy. BMJ Case Rep 
+2016;2016:bcr2016216453.
+38. Renner AB, Fiebig BS, Weber BH, et al. Phenotypic variability and long-term follow-up of patients 
+with known and novel PRPH2/RDS gene mutations. Am J Ophthalmol 2009;147:518–30.e1. 
+[PubMed: 19038374] 
+39. Evans K, Gregory CY , Wijesuriya SD, et al. Assessment of the phenotypic range seen in Doyne 
+honeycomb retinal dystrophy. Arch Ophthalmol 1997;115:904–10. [PubMed: 9230832] 
+40. Michaelides M, Jenkins SA, Brantley MA Jr, et al. Maculopathy due to the R345W substitution in 
+fibulin-3: distinct clinical features, disease variability, and extent of retinal dysfunction. Invest 
+Ophthalmol Vis Sci 2006;47:3085–97. [PubMed: 16799055] 
+41. Souied EH, Leveziel N, Letien V , et al. Optical coherent tomography features of malattia 
+leventinese. Am J Ophthalmol 2006;141:404–7. [PubMed: 16458713] 
+42. Gerth C, Zawadzki RJ, Werner JS, et al. Retinal microstructure in patients with EFEMP1 retinal 
+dystrophy evaluated by Fourier domain OCT. Eye (Lond) 2009;23:480–3. [PubMed: 18791549] 
+43. Serra R, Coscas F, Messaoudi N, et al. Choroidal Neovascularization in Malattia Leventinese 
+Diagnosed Using Optical Coherence Tomography Angiography. Am J Ophthalmol 2017;176:108–
+17. [PubMed: 28088509] 
+44. Guimaraes TAC, Georgiou M, Robson AG, et al. KCNV2 retinopathy: clinical features, molecular 
+genetics and directions for future therapy. Ophthalmic Genet 2020;41:208–15. [PubMed: 
+32441199] 
+45. Michaelides M, Hardcastle AJ, Hunt DM, et al. Progressive cone and cone-rod dystrophies: 
+phenotypes and underlying molecular genetic basis. Surv Ophthalmol 2006;51:232–58. [PubMed: 
+16644365] 
+46. Michaelides M, Wilkie SE, Jenkins S, et al. Mutation in the gene GUCA1A, encoding guanylate 
+cyclase-activating protein 1, causes cone, cone-rod, and macular dystrophy. Ophthalmology 
+2005;112:1442–7. [PubMed: 15953638] 
+47. Chen X, Sheng X, Zhuang W, et al. GUCA1A mutation causes maculopathy in a five-generation 
+family with a wide spectrum of severity. Genet Med 2017;19:945–54. [PubMed: 28125083] 
+48. Song H, Rossi EA, Stone E, et al. Phenotypic diversity in autosomal-dominant cone-rod dystrophy 
+elucidated by adaptive optics retinal imaging. Br J Ophthalmol 2018;102:136–41. [PubMed: 
+29074494] 
+49. Xiao X, Guo X, Jia X, et al. A recurrent mutation in GUCY2D associated with autosomal 
+dominant cone dystrophy in a Chinese family. Mol Vis 2011;17:3271–8. [PubMed: 22194653] 
+50. Zhao X, Ren Y , Zhang X, et al. A novel GUCY2D mutation in a Chinese family with dominant 
+cone dystrophy. Mol Vis 2013;19:1039–46. [PubMed: 23734073] 
+51. Bouzia Z, Georgiou M, Hull S, et al. GUCY2D- Associated Leber Congenital Amaurosis: A 
+Retrospective Natural History Study in Preparation for Trials of Novel Therapies. Am J 
+Ophthalmol 2020;210:59–70. [PubMed: 31704230] 
+52. Small KW, Silva-Garcia R, Udar N, et al. New mutation, P575L, in the GUCY2D gene in a family 
+with autosomal dominant progressive cone degeneration. Arch Ophthalmol 2008;126:397–403. 
+[PubMed: 18332321] 
+53. Gregory-Evans K, Kelsell RE, Gregory-Evans CY , et al. Autosomal dominant cone-rod retinal 
+dystrophy (CORD6) from heterozygous mutation of GUCY2D, which encodes retinal guanylate 
+cyclase. Ophthalmology 2000;107:55–61. [PubMed: 10647719] Georgiou et al. Page 14
+Ann Eye Sci . Author manuscript; available in PMC 2021 April 28.
+Author Manuscript Author Manuscript Author Manuscript Author Manuscript54. Tsokolas G, Almuhtaseb H, Griffiths H, et al. Long term follow-up of a family with GUCY2D 
+dominant cone dystrophy. Int J Ophthalmol 2018;11:1945–50. [PubMed: 30588428] 
+55. Michaelides M, Holder GE, Bradshaw K, et al. Cone-rod dystrophy, intrafamilial variability, and 
+incomplete penetrance associated with the R172W mutation in the peripherin/RDS gene. 
+Ophthalmology 2005;112:1592–8. [PubMed: 16019073] 
+56. Duncan JL, Talcott KE, Ratnam K, et al. Cone structure in retinal degeneration associated with 
+mutations in the peripherin/RDS gene. Invest Ophthalmol Vis Sci 2011;52:1557–66. [PubMed: 
+21071739] 
+57. Gocho K, Akeo K, Itoh N, et al. High-Resolution Adaptive Optics Retinal Image Analysis at Early 
+Stage Central Areolar Choroidal Dystrophy With PRPH2 Mutation. Ophthalmic Surg Lasers 
+Imaging Retina 2016;47:1115–26. [PubMed: 27977834] 
+58. Westeneng-van Haaften SC, Boon CJF, Cremers FPM, et al. Clinical and Genetic Characteristics of 
+Late-onset Stargardt’s Disease. Ophthalmology 2012;119:1199–210. [PubMed: 22449572] 
+59. Fujinami K, Lois N, Mukherjee R, et al. A Longitudinal Study of Stargardt Disease: Quantitative 
+Assessment of Fundus Autofluorescence, Progression, and Genotype Correlations. Invest 
+Ophthalmol Vis Sci 2013;54:8181–90. [PubMed: 24265018] 
+60. Michaelides M, Chen LL, Brantley MA Jr, et al. ABCA4 mutations and discordant ABCA4 alleles 
+in patients and siblings with bull’s-eye maculopathy. Br J Ophthalmol 2007;91:1650–5. [PubMed: 
+18024811] 
+61. Chen Y , Ratnam K, Sundquist SM, et al. Cone photoreceptor abnormalities correlate with vision 
+loss in patients with Stargardt disease. Invest Ophthalmol Vis Sci 2011;52:3281–92. [PubMed: 
+21296825] 
+62. Shu X, Black GC, Rice JM, et al. RPGR mutation analysis and disease: an update. Hum Mutat 
+2007;28:322–8. [PubMed: 17195164] 
+63. Ebenezer ND, Michaelides M, Jenkins SA, et al. Identification of novel RPGR ORF15 mutations 
+in X-linked progressive cone-rod dystrophy (XLCORD) families. Invest Ophthalmol Vis Sci 
+2005;46:1891–8. [PubMed: 15914600] 
+64. Robson AG, Michaelides M, Luong V A, et al. Functional correlates of fundus autofluorescence 
+abnormalities in patients with RPGR or RIMS1 mutations causing cone or cone rod dystrophy. Br 
+J Ophthalmol 2008;92:95–102. [PubMed: 17962389] 
+65. Tee JJL, Kalitzeos A, Webster AR, et al. Quantitative Analysis of Hyperautofluorescent Rings to 
+Characterize the Natural History and Progression in Rpgr-Associated Retinopathy. Retina 
+2018;38:2401–14. [PubMed: 29016458] 
+66. Aboshiha J, Dubis AM, Carroll J, et al. The cone dysfunction syndromes. Br J Ophthalmol 
+2016;100:115–21. [PubMed: 25770143] 
+67. Wissinger B, Jagle H, Kohl S, et al. Human rod monochromacy: linkage analysis and mapping of a 
+cone photoreceptor expressed candidate gene on chromosome 2q11. Genomics 1998;51:325–31. 
+[PubMed: 9721202] 
+68. Wissinger B, Gamer D, Jagle H, et al. CNGA3 mutations in hereditary cone photoreceptor 
+disorders. Am J Hum Genet 2001;69:722–37. [PubMed: 11536077] 
+69. Mayer AK, Van Cauwenbergh C, Rother C, et al. CNGB3 mutation spectrum including copy 
+number variations in 552 achromatopsia patients. Hum Mutat 2017;38:1579–91. [PubMed: 
+28795510] 
+70. Kohl S, Baumann B, Rosenberg T, et al. Mutations in the cone photoreceptor G-protein alpha-
+subunit gene GNAT2 in patients with achromatopsia. Am J Hum Genet 2002;71:422–5. [PubMed: 
+12077706] 
+71. Aligianis IA, Forshew T, Johnson S, et al. Mapping of a novel locus for achromatopsia (ACHM4) 
+to 1p and identification of a germline mutation in the alpha subunit of cone transducin (GNAT2). J 
+Med Genet 2002;39:656–60. [PubMed: 12205108] 
+72. Kohl S, Zobor D, Chiang WC, et al. Mutations in the unfolded protein response regulator ATF6 
+cause the cone dysfunction disorder achromatopsia. Nat Genet 2015;47:757–65. [PubMed: 
+26029869] 
+73. Kohl S, Coppieters F, Meire F, et al. A nonsense mutation in PDE6H causes autosomal-recessive 
+incomplete achromatopsia. Am J Hum Genet 2012;91:527–32. [PubMed: 22901948] Georgiou et al. Page 15
+Ann Eye Sci . Author manuscript; available in PMC 2021 April 28.
+Author Manuscript Author Manuscript Author Manuscript Author Manuscript74. Hirji N, Aboshiha J, Georgiou M, et al. Achromatopsia: clinical features, molecular genetics, 
+animal models and therapeutic options. Ophthalmic Genet 2018;39:149–57. [PubMed: 29303385] 
+75. Aboshiha J, Dubis AM, Cowing J, et al. A prospective longitudinal study of retinal structure and 
+function in achromatopsia. Invest Ophthalmol Vis Sci 2014;55:5733–43. [PubMed: 25103266] 
+76. Georgiou M, Robson AG, Singh N, et al. Deep Phenotyping of PDE6C-Associated Achromatopsia. 
+Invest Ophthalmol Vis Sci 2019;60:5112–23. [PubMed: 31826238] 
+77. Sundaram V , Wilde C, Aboshiha J, et al. Retinal structure and function in achromatopsia: 
+implications for gene therapy. Ophthalmology 2014;121:234–45. [PubMed: 24148654] 
+78. Langlo CS, Patterson EJ, Higgins BP, et al. Residual Foveal Cone Structure in CNGB3-Associated 
+Achromatopsia. Invest Ophthalmol Vis Sci 2016;57:3984–95. [PubMed: 27479814] 
+79. Georgiou M, Litts KM, Kalitzeos A, et al. Adaptive Optics Retinal Imaging in CNGA3-Associated 
+Achromatopsia: Retinal Characterization, Interocular Symmetry, and Intrafamilial Variability. 
+Invest Ophthalmol Vis Sci 2019;60:383–96. [PubMed: 30682209] 
+80. Georgiou M, Singh N, Kane T, et al. Photoreceptor Structure in GNAT2-Associated 
+Achromatopsia. Invest Ophthalmol Vis Sci 2020;61:40.
+81. Hirji N, Georgiou M, Kalitzeos A, et al. Longitudinal Assessment of Retinal Structure in 
+Achromatopsia Patients With Long-Term Follow-up. Invest Ophthalmol Vis Sci 2018;59:5735–44. 
+[PubMed: 30513534] 
+82. Mastey RR, Georgiou M, Langlo CS, et al. Characterization of Retinal Structure in ATF6-
+Associated Achromatopsia. Invest Ophthalmol Vis Sci 2019;60:2631–40. [PubMed: 31237654] 
+83. Genead MA, Fishman GA, Rha J, et al. Photoreceptor structure and function in patients with 
+congenital achromatopsia. Invest Ophthalmol Vis Sci 2011;52:7298–308. [PubMed: 21778272] 
+84. Thiadens AA, Somervuo V , van den Born LI, et al. Progressive loss of cones in achromatopsia: An 
+imaging study using spectral-domain optical coherence tomography. Invest Ophthalmol Vis Sci 
+2010;51:5952–7. [PubMed: 20574029] 
+85. Thomas MG, Kumar A, Kohl S, et al. High-resolution in vivo imaging in achromatopsia. 
+Ophthalmology 2011;118:882–7. [PubMed: 21211844] 
+86. Litts KM, Georgiou M, Langlo CS, et al. Interocular symmetry of foveal cone topography in 
+congenital achromatopsia. Curr Eye Res 2020. [Epub ahead of print].
+87. Dubis AM, Cooper RF, Aboshiha J, et al. Genotype-dependent variability in residual cone structure 
+in achromatopsia: toward developing metrics for assessing cone health. Invest Ophthalmol Vis Sci 
+2014;55:7303–11. [PubMed: 25277229] 
+88. Ueno S, Nakanishi A, Kominami T, et al. In vivo imaging of a cone mosaic in a patient with 
+achromatopsia associated with a GNAT2 variant. Jpn J Ophthalmol 2017;61:92–8. [PubMed: 
+27718025] 
+89. Gardner JC, Michaelides M, Holder GE, et al. Blue cone monochromacy: causative mutations and 
+associated phenotypes. Mol Vis 2009;15:876–84. [PubMed: 19421413] 
+90. Gardner JC, Liew G, Quan YH, et al. Three different cone opsin gene array mutational 
+mechanisms with genotype-phenotype correlation and functional investigation of cone opsin 
+variants. Hum Mutat 2014;35:1354–62. [PubMed: 25168334] 
+91. Carroll J, Dubra A, Gardner JC, et al. The effect of cone opsin mutations on retinal structure and 
+the integrity of the photoreceptor mosaic. Invest Ophthalmol Vis Sci 2012;53:8006–15. [PubMed: 
+23139274] 
+92. Patterson EJ, Kasilian M, Kalitzeos A, et al. Assessing cone photoreceptor structure in patients 
+with mutations in the OPN1LW/OPN1MW gene array. Invest Ophthalmol Vis Sci 2017;58:1257.
+93. Cideciyan A V , Hufnagel RB, Carroll J, et al. Human cone visual pigment deletions spare sufficient 
+photoreceptors to warrant gene therapy. Hum Gene Ther 2013;24:993–1006. [PubMed: 24067079] 
+94. Curcio CA, Sloan KR, Kalina RE, et al. Human photoreceptor topography. J Comp Neurol 
+1990;292:497–523. [PubMed: 2324310] 
+95. Curcio CA, Allen KA, Sloan KR, et al. Distribution and morphology of human cone 
+photoreceptors stained with anti-blue opsin. J Comp Neurol 1991;312:610–24. [PubMed: 
+1722224] Georgiou et al. Page 16
+Ann Eye Sci . Author manuscript; available in PMC 2021 April 28.
+Author Manuscript Author Manuscript Author Manuscript Author Manuscript96. Carroll J, Rossi EA, Porter J, et al. Deletion of the X-linked opsin gene array locus control region 
+(LCR) results in disruption of the cone mosaic. Vision Res 2010;50:1989–99. [PubMed: 
+20638402] 
+97. Michaelides M, Johnson S, Bradshaw K, et al. X-linked cone dysfunction syndrome with myopia 
+and protanopia. Ophthalmology 2005;112:1448–54. [PubMed: 15953640] 
+98. Patterson EJ, Wilk M, Langlo CS, et al. Cone Photoreceptor Structure in Patients With X-Linked 
+Cone Dysfunction and Red-Green Color Vision Deficiency. Invest Ophthalmol Vis Sci 
+2016;57:3853–63. [PubMed: 27447086] 
+99. Neitz J, Wagner-Schuman M, Dubra A, et al. Cone Mosaic Disruption Caused by L/M Opsin 
+Mutations in Bornholm Eye Disease. Invest Ophthalmol Vis Sci 2011;52:4896.
+100. Patterson EJ, Kalitzeos A, Kasilian M, et al. Residual Cone Structure in Patients With X-Linked 
+Cone Opsin Mutations. Invest Ophthalmol Vis Sci 2018;59:4238–48. [PubMed: 30128495] 
+101. Andersen MK, Christoffersen NL, Sander B, et al. Oligocone trichromacy: clinical and molecular 
+genetic investigations. Invest Ophthalmol Vis Sci 2010;51:89–95. [PubMed: 19797231] 
+102. Michaelides M, Rha J, Dees EW, et al. Integrity of the cone photoreceptor mosaic in oligocone 
+trichromacy. Invest Ophthalmol Vis Sci 2011;52:4757–64. [PubMed: 21436275] 
+103. Nishiguchi KM, Sandberg MA, Kooijman AC, et al. Defects in RGS9 or its anchor protein R9AP 
+in patients with slow photoreceptor deactivation. Nature 2004;427:75–8. [PubMed: 14702087] 
+104. Michaelides M, Li Z, Rana NA, et al. Novel mutations and electrophysiologic findings in RGS9- 
+and R9AP-associated retinal dysfunction (Bradyopsia). Ophthalmology 2010;117:120–7.e1. 
+[PubMed: 19818506] 
+105. Hartong DT, Pott JW, Kooijman AC. Six patients with bradyopsia (slow vision): clinical features 
+and course of the disease. Ophthalmology 2007;114:2323–31. [PubMed: 17826834] 
+106. Cheng JY , Luu CD, Yong VH, et al. Bradyopsia in an Asian man. Arch Ophthalmol 
+2007;125:1138–40. [PubMed: 17698770] 
+107. Khan AO. The clinical presentation of bradyopsia in children. J AAPOS 2017;21:507–9.e1. 
+[PubMed: 29107794] 
+108. Strauss RW, Dubis AM, Cooper RF, et al. Retinal Architecture in RGS9- and R9AP-Associated 
+Retinal Dysfunction (Bradyopsia). Am J Ophthalmol 2015;160:1269–75.e1. [PubMed: 
+26343007] 
+109. Kumaran N, Moore AT, Weleber RG, et al. Leber congenital amaurosis/early-onset severe retinal 
+dystrophy: clinical features, molecular genetics and therapeutic interventions. Br J Ophthalmol 
+2017;101:1147–54. [PubMed: 28689169] 
+110. Pasadhika S, Fishman GA, Stone EM, et al. Differential macular morphology in patients with 
+RPE65-, CEP290-, GUCY2D-, and AIPL1-related Leber congenital amaurosis. Invest 
+Ophthalmol Vis Sci 2010;51:2608–14. [PubMed: 19959640] 
+111. Sheck L, Davies WIL, Moradi P, et al. Leber Congenital Amaurosis Associated with Mutations in 
+CEP290, Clinical Phenotype, and Natural History in Preparation for Trials of Novel Therapies. 
+Ophthalmology 2018;125:894–903. [PubMed: 29398085] 
+112. Kousal B, Dudakova L, Gaillyova R, et al. Phenotypic features of CRB1-associated early-onset 
+severe retinal dystrophy and the different molecular approaches to identifying the disease-causing 
+variants. Graefes Arch Clin Exp Ophthalmol 2016;254:1833–9. [PubMed: 27113771] 
+113. Jacobson SG, Cideciyan A V , Aleman TS, et al. Crumbs homolog 1 (CRB1) mutations result in a 
+thick human retina with abnormal lamination. Hum Mol Genet 2003;12:1073–8. [PubMed: 
+12700176] 
+114. Talib M, van Schooneveld MJ, van Genderen MM, et al. Genotypic and Phenotypic 
+Characteristics of CRB1-Associated Retinal Dystrophies: A Long-Term Follow-up Study. 
+Ophthalmology 2017;124:884–95. [PubMed: 28341475] 
+115. Khan KN, Robson A, Mahroo OAR, et al. A clinical and molecular characterisation of CRB1-
+associated maculopathy. Eur J Hum Genet 2018;26:687–94. [PubMed: 29391521] 
+116. Schuster A, Janecke AR, Wilke R, et al. The phenotype of early-onset retinal degeneration in 
+persons with RDH12 mutations. Invest Ophthalmol Vis Sci 2007;48:1824–31. [PubMed: 
+17389517] Georgiou et al. Page 17
+Ann Eye Sci . Author manuscript; available in PMC 2021 April 28.
+Author Manuscript Author Manuscript Author Manuscript Author Manuscript117. Fahim AT, Bouzia Z, Branham KH, et al. Detailed clinical characterisation, unique features and 
+natural history of autosomal recessive RDH12-associated retinal degeneration. Br J Ophthalmol 
+2019;103:1789–96. [PubMed: 30979730] 
+118. Scott HA, Place EM, Ferenchak K, et al. Expanding the phenotypic spectrum in RDH12-
+associated retinal disease. Cold Spring Harb Mol Case Stud 2020;6:a004754.
+119. Lorenz B, Wabbels B, Wegscheider E, et al. Lack of fundus autofluorescence to 488 nanometers 
+from childhood on in patients with early-onset severe retinal dystrophy associated with mutations 
+in RPE65. Ophthalmology 2004;111:1585–94. [PubMed: 15288992] 
+120. Kumaran N, Georgiou M, Bainbridge JWB, et al. Retinal Structure in RPE65-Associated Retinal 
+Dystrophy. Invest Ophthalmol Vis Sci 2020;61:47.
+121. Jacobson SG, Aleman TS, Cideciyan A V , et al. Identifying photoreceptors in blind eyes caused by 
+RPE65 mutations: Prerequisite for human gene therapy success. Proc Natl Acad Sci U S A 
+2005;102:6177–82. [PubMed: 15837919] 
+122. Falk MJ, Zhang Q, Nakamaru-Ogiso E, et al. NMNAT1 mutations cause Leber congenital 
+amaurosis. Nat Genet 2012;44:1040–5. [PubMed: 22842227] 
+123. Kumaran N, Robson AG, Michaelides M. A novel case series of nmnat1-associated early-onset 
+retinal dystrophy: extending the phenotypic spectrum. Retin Cases Brief Rep 2018. [Epub ahead 
+of print].
+124. Aboshiha J, Dubis AM, van der Spuy J, et al. Preserved outer retina in AIPL1 Leber’s congenital 
+amaurosis: implications for gene therapy. Ophthalmology 2015;122:862–4. [PubMed: 25596619] 
+125. Tee JJL, Smith AJ, Hardcastle AJ, et al. RPGR-associated retinopathy: clinical features, 
+molecular genetics, animal models and therapeutic options. Br J Ophthalmol 2016;100:1022–7. 
+[PubMed: 26843488] 
+126. Hartong DT, Berson EL, Dryja TP. Retinitis pigmentosa. Lancet 2006;368:1795–809. [PubMed: 
+17113430] 
+127. Tee JJ, Smith AJ, Hardcastle AJ, et al. RPGR-associated retinopathy: clinical features, molecular 
+genetics, animal models and therapeutic options. Br J Ophthalmol 2016;100:1022–7. [PubMed: 
+26843488] 
+128. Fahim A. Retinitis pigmentosa: recent advances and future directions in diagnosis and 
+management. Curr Opin Pediatr 2018;30:725–33. [PubMed: 30234647] 
+129. Robson AG, El-Amir A, Bailey C, et al. Pattern ERG correlates of abnormal fundus 
+autofluorescence in patients with retinitis pigmentosa and normal visual acuity. Invest 
+Ophthalmol Vis Sci 2003;44:3544–50. [PubMed: 12882805] 
+130. Cabral T, Sengillo JD, Duong JK, et al. Retrospective Analysis of Structural Disease Progression 
+in Retinitis Pigmentosa Utilizing Multimodal Imaging. Sci Rep 2017;7:10347. [PubMed: 
+28871101] 
+131. Jayasundera T, Branham KE, Othman M, et al. RP2 phenotype and pathogenetic correlations in 
+X-linked retinitis pigmentosa. Arch Ophthalmol 2010;128:915–23. [PubMed: 20625056] 
+132. Tee JJL, Carroll J, Webster AR, et al. Quantitative Analysis of Retinal Structure Using Spectral-
+Domain Optical Coherence Tomography in RPGR-Associated Retinopathy. Am J Ophthalmol 
+2017;178:18–26. [PubMed: 28322733] 
+133. Birch DG, Locke KG, Wen Y , et al. Spectral-domain optical coherence tomography measures of 
+outer segment layer progression in patients with X-linked retinitis pigmentosa. JAMA 
+Ophthalmol 2013;131:1143–50. [PubMed: 23828615] 
+134. Coussa RG, Basali D, Maeda A, et al. Sector retinitis pigmentosa: Report of ten cases and a 
+review of the literature. Mol Vis 2019;25:869–89. [PubMed: 31908405] 
+135. Audo I, Michaelides M, Robson AG, et al. Phenotypic variation in enhanced S-cone syndrome. 
+Invest Ophthalmol Vis Sci 2008;49:2082–93. [PubMed: 18436841] 
+136. Jacobson SG, Sumaroka A, Aleman TS, et al. Nuclear receptor NR2E3 gene mutations distort 
+human retinal laminar architecture and cause an unusual degeneration. Hum Mol Genet 
+2004;13:1893–902. [PubMed: 15229190] 
+137. Yzer S, Barbazetto I, Allikmets R, et al. Expanded clinical spectrum of enhanced S-cone 
+syndrome. JAMA Ophthalmol 2013;131:1324–30. [PubMed: 23989059] Georgiou et al. Page 18
+Ann Eye Sci . Author manuscript; available in PMC 2021 April 28.
+Author Manuscript Author Manuscript Author Manuscript Author Manuscript138. Khan AO, Aldahmesh MA, Al-Harthi E, et al. Helicoid subretinal fibrosis associated with a novel 
+recessive NR2E3 mutation p.S44X. Arch Ophthalmol 2010;128:344–8. [PubMed: 20212206] 
+139. Halford S, Liew G, Mackay DS, et al. Detailed phenotypic and genotypic characterization of 
+bietti crystalline dystrophy. Ophthalmology 2014;121:1174–84. [PubMed: 24480711] 
+140. Li A, Jiao X, Munier FL, et al. Bietti crystalline corneoretinal dystrophy is caused by mutations in 
+the novel gene CYP4V2. Am J Hum Genet 2004;74:817–26. [PubMed: 15042513] 
+141. Zeitz C, Robson AG, Audo I. Congenital stationary night blindness: an analysis and update of 
+genotype-phenotype correlations and pathogenic mechanisms. Prog Retin Eye Res 2015;45:58–
+110. [PubMed: 25307992] 
+142. Zeitz C, Friedburg C, Preising MN, et al. Overview of Congenital Stationary Night Blindness 
+with Predominantly Normal Fundus Appearance. Klin Monbl Augenheilkd 2018.
+143. Miyake Y , Yagasaki K, Horiguchi M, et al. Congenital stationary night blindness with negative 
+electroretinogram. A new classification. Arch Ophthalmol 1986;104:1013–20. [PubMed: 
+3488053] 
+144. Hove MN, Kilic-Biyik KZ, Trotter A, et al. Clinical Characteristics, Mutation Spectrum, and 
+Prevalence of Aland Eye Disease/Incomplete Congenital Stationary Night Blindness in Denmark. 
+Invest Ophthalmol Vis Sci 2016;57:6861–9. [PubMed: 28002560] 
+145. Kimchi A, Meiner V , Silverstein S, et al. An Ashkenazi Jewish founder mutation in CACNA1F 
+causes retinal phenotype in both hemizygous males and heterozygous female carriers. 
+Ophthalmic Genet 2019;40:443–8. [PubMed: 31651202] 
+146. Godara P, Cooper RF, Sergouniotis PI, et al. Assessing retinal structure in complete congenital 
+stationary night blindness and Oguchi disease. Am J Ophthalmol 2012;154:987–1001.e1. 
+[PubMed: 22959359] 
+147. Sergouniotis PI, Sohn EH, Li Z, et al. Phenotypic variability in RDH5 retinopathy (Fundus 
+Albipunctatus). Ophthalmology 2011;118:1661–70. [PubMed: 21529959] 
+148. Yang G, Liu Z, Xie S, et al. Genetic and phenotypic characteristics of four Chinese families with 
+fundus albipunctatus. Sci Rep 2017;7:46285. [PubMed: 28393863] 
+149. Miyake Y , Shiroyama N, Sugita S, et al. Fundus albipunctatus associated with cone dystrophy. Br 
+J Ophthalmol 1992;76:375–9. [PubMed: 1622952] 
+150. Nakamura M, Hotta Y , Tanikawa A, et al. A high association with cone dystrophy in Fundus 
+albipunctatus caused by mutations of the RDH5 gene. Invest Ophthalmol Vis Sci 2000;41:3925–
+32. [PubMed: 11053295] 
+151. Nakamura M, Skalet J, Miyake Y . RDH5 gene mutations and electroretinogram in fundus 
+albipunctatus with or without macular dystrophy: RDH5 mutations and ERG in fundus 
+albipunctatus. Doc Ophthalmol 2003;107:3–11. [PubMed: 12906118] 
+152. Dryja TP. Molecular genetics of Oguchi disease, fundus albipunctatus, and other forms of 
+stationary night blindness: LVII Edward Jackson Memorial Lecture. Am J Ophthalmol 
+2000;130:547–63. [PubMed: 11078833] 
+153. Nishiguchi KM, Ikeda Y , Fujita K, et al. Phenotypic Features of Oguchi Disease and Retinitis 
+Pigmentosa in Patients with S-Antigen Mutations: A Long-Term Follow-up Study. 
+Ophthalmology 2019;126:1557–66. [PubMed: 31257036] 
+154. MacDonald IM, Russell L, Chan CC. Choroideremia: new findings from ocular pathology and 
+review of recent literature. Surv Ophthalmol 2009;54:401–7. [PubMed: 19422966] 
+155. Syed R, Sundquist SM, Ratnam K, et al. High-resolution images of retinal structure in patients 
+with choroideremia. Invest Ophthalmol Vis Sci 2013;54:950–61. [PubMed: 23299470] 
+156. Morgan JI, Han G, Klinman E, et al. High-resolution adaptive optics retinal imaging of cellular 
+structure in choroideremia. Invest Ophthalmol Vis Sci 2014;55:6381–97. [PubMed: 25190651] 
+157. Sun LW, Johnson RD, Williams V , et al. Multimodal Imaging of Photoreceptor Structure in 
+Choroideremia. PLoS One 2016;11:e0167526.
+158. Sergouniotis PI, Davidson AE, Lenassi E, et al. Retinal structure, function, and molecular 
+pathologic features in gyrate atrophy. Ophthalmology 2012;119:596–605. [PubMed: 22182799] 
+159. Goldberg NR, Greenberg JP, Laud K, et al. Outer retinal tubulation in degenerative retinal 
+disorders. Retina 2013;33:1871–6. [PubMed: 23676993] Georgiou et al. Page 19
+Ann Eye Sci . Author manuscript; available in PMC 2021 April 28.
+Author Manuscript Author Manuscript Author Manuscript Author ManuscriptFigure 1. 
+Retinal imaging of macular dystrophies. (A-F) Fundus autofluorescence (FAF) imaging with 
+corresponding horizontal optical coherence tomography (OCT) scan over the region of 
+interest. (A) Stargardt disease; isolated macular disease. (B) Best disease; vitelliform lesion, 
+classical appearance of a single, symmetrical egg yolk-like lesion at the fovea (stage 2). (C) 
+X-linked retinoschisis; “spoke-wheel” folds of the macula on FAF and corresponding 
+macular schisis on OCT. (D) Sorsby fundus dystrophy; FAF imaging identifies an ill-defined 
+increased signal in the peripheral macula, and subretinal drusenoid deposits and 
+neovascularization on OCT, that spare the central fovea. (E) Pattern Dystrophy; 
+hyperautofluorescent deposits on FAF, with a characteristic speckled pattern, and subretinal 
+hyper-reflective material is seen on OCT. (F) Autosomal dominant drusen: drusen-like Georgiou et al. Page 20
+Ann Eye Sci . Author manuscript; available in PMC 2021 April 28.
+Author Manuscript Author Manuscript Author Manuscript Author Manuscriptradiating deposits at the macula on FAF, and hyper-reflective thickening of the RPE-Bruch 
+membrane complex visible with OCT.Georgiou et al. Page 21
+Ann Eye Sci . Author manuscript; available in PMC 2021 April 28.
+Author Manuscript Author Manuscript Author Manuscript Author ManuscriptFigure 2. 
+Retinal Imaging of Cone and Cone-Rod Dystrophies (COD/CORD). (A-C) Fundus 
+autofluorescence (FAF) imaging with corresponding horizontal optical coherence 
+tomography (OCT). (A) Autosomal Dominant GUCA1A -associated COD/CORD, with 
+extensive macular atrophy. (B) Autosomal Dominant GUCY2D -associated COD/CORD, 
+with central hypoautofluorescence and a surrounding ring of hyperautofluorescence, and 
+foveal atrophy on OCT. (C) Autosomal Dominant PRPH2 -associated CORD, with 
+characteristic speckled macular appearance with FAF imaging, and loss of outer retinal Georgiou et al. Page 22
+Ann Eye Sci . Author manuscript; available in PMC 2021 April 28.
+Author Manuscript Author Manuscript Author Manuscript Author Manuscriptstructure on OCT. (D) X-Linked RPGR -associated COD/CORD, with parafoveal ring of 
+increased signal visible with FAF.Georgiou et al. Page 23
+Ann Eye Sci . Author manuscript; available in PMC 2021 April 28.
+Author Manuscript Author Manuscript Author Manuscript Author ManuscriptFigure 3. 
+Retinal Imaging of Cone Dysfunction Syndromes. Fundus autofluorescence (FAF) 
+phenotypes in achromatopsia: (A) normal FAF appearance, (B) central increase in FAF, (C) 
+reduced FAF signal centrally, and (D) a central area of decreased signal, with a surrounding 
+ring of hyperautofluorescence. OCT grading in achromatopsia: (E) Grade I: continuous 
+ellipsoid zone (EZ), (F) Grade II: EZ disruption, (G) Grade III: EZ absence, (H) Grade IV: 
+presence of a hyporeflective zone, and (I) Grade V: outer retinal atrophy with RPE loss. 
+Patient (F) and (G) have foveal hypoplasia, with retention of inner retinal layers at the fovea. 
+FAF imaging with corresponding horizontal trans-foveal OCT: (J) Blue Cone Georgiou et al. Page 24
+Ann Eye Sci . Author manuscript; available in PMC 2021 April 28.
+Author Manuscript Author Manuscript Author Manuscript Author ManuscriptMonochromatism, (K) Bornholm Eye Disease, (L) R9AP -associated retinopathy 
+(‘Bradyopsia’).Georgiou et al. Page 25
+Ann Eye Sci . Author manuscript; available in PMC 2021 April 28.
+Author Manuscript Author Manuscript Author Manuscript Author ManuscriptFigure 4. 
+Retinal Imaging of Leber Congenital Amaurosis/Early-Onset Severe Retinal Dystrophy 
+(LCA/EOSRD). (A-E) Fundus autofluorescence (FAF) imaging with corresponding 
+horizontal trans-foveal optical coherence tomography (OCT). (A) GUCY2D  - LCA/EOSRD; 
+relatively preserved outer retinal structure on OCT and normal appearing FAF. (B) CEP290  - 
+LCA/EOSRD; preserved foveal architecture on OCT, despite profound functional loss, and 
+FAF imaging with a perifoveal hyperautofluorescent ring. (C) CRB1  - LCA/EOSRD; 
+nummular pigmentation, maculopathy, relative preservation of para-arteriolar RPE on FAF, Georgiou et al. Page 26
+Ann Eye Sci . Author manuscript; available in PMC 2021 April 28.
+Author Manuscript Author Manuscript Author Manuscript Author Manuscriptand intraretinal cystoid spaces on OCT. (D) RDH12  - LCA/EOSRD; FAF shows a centrally 
+decreased signal with atrophy extending peripherally in a variegated watercolour-like 
+fashion. OCT shows severe loss of structure and macular atrophy. (E) RPE65  - EOSRD; 
+reduced signal on FAF imaging and OCT showing preserved structure at the central macula. 
+(F) NMNAT1  - LCA; near infrared imaging and corresponding OCT scan, of a patient with 
+severe and extensive maculopathy.Georgiou et al. Page 27
+Ann Eye Sci . Author manuscript; available in PMC 2021 April 28.
+Author Manuscript Author Manuscript Author Manuscript Author ManuscriptFigure 5. 
+Retinal Imaging of Rod-Cone Dystrophies. (A) Autosomal dominant Retinitis Pigmentosa 
+(RP) ( RHO ; Rhodopsin); patches of RPE atrophy in the mid-periphery with decreased signal 
+on FAF and a central ring of increased signal. On OCT, there is loss of the parafoveal 
+photoreceptors. (B) X-linked RP ( RP2); foveal involvement with atrophy of the foveal RPE, 
+visible on FAF, and corresponding loss of both inner and outer retina on OCT. (C) 
+Autosomal dominant RP ( RHO ; Rhodopsin); sector pattern of retinal involvement with the 
+inferior quadrant being affected, and a clear demarcation line of increased signal on FAF. 
+(D) Enhanced S-cone syndrome ( NR2E3 ); nummular pigment clumping at the level of the 
+RPE, most plentiful around the temporal vascular arcades on FAF and thickened ellipsoid 
+zone on OCT. (E) Bietti Crystalline Dystrophy ( CYP4V2 ), on the left, a colour fundus Georgiou et al. Page 28
+Ann Eye Sci . Author manuscript; available in PMC 2021 April 28.
+Author Manuscript Author Manuscript Author Manuscript Author Manuscriptphotograph showing retinal crystals, and on the right, FAF shows areas with increased and 
+decreased signal in a speckled pattern.Georgiou et al. Page 29
+Ann Eye Sci . Author manuscript; available in PMC 2021 April 28.
+Author Manuscript Author Manuscript Author Manuscript Author ManuscriptFigure 6. 
+Retinal Imaging of Rod Dysfunction Syndromes. (A) Fundus Albipunctatus ( RDH5 ); above 
+- colour fundus photograph (CFP) with multiple white subretinal spots, throughout the 
+retina; below - fundus autofluorescence with a diffuse reduction in signal and the white dots 
+appearing as foci of increased signal. (B) Oguchi Disease ( GRK1 ); above - CFP with diffuse 
+green-golden fundus discolouration, and below trans-foveal optical coherence tomography 
+with normal foveal thickness.Georgiou et al. Page 30
+Ann Eye Sci . Author manuscript; available in PMC 2021 April 28.
+Author Manuscript Author Manuscript Author Manuscript Author ManuscriptFigure 7. 
+Retinal Imaging of Chorioretinal Dystrophies. (A-C) Fundus autofluorescence (FAF) 
+imaging with corresponding horizontal trans-foveal optical coherence tomography (OCT). 
+(A) Choroideremia ( CHM ) in a 35-year-old male with large areas of atrophy on FAF, not yet 
+involving foveal center on OCT. (B) Choroideremia ( CHM ) in a severely affected 75 year 
+old female carrier with large areas of atrophy on FAF and involving the foveal center on 
+OCT, with a small area of spared ellipsoid zone. (C) Gyrate Atrophy ( OAT ); large well-
+demarcated coalesced areas of atrophy visible on FAF as decreased AF, and OCT with 
+macular oedema and retinal tubulations.Georgiou et al. Page 31
+Ann Eye Sci . Author manuscript; available in PMC 2021 April 28.
+Author Manuscript Author Manuscript Author Manuscript Author Manuscript

@@ -1,0 +1,740 @@
+Genetics
+Impact of Next Generation Sequencing in Unraveling the
+Genetics of 1036 Spanish Families With Inherited
+Macular Dystrophies
+Marta Del Pozo-Valero,1,2Rosa Riveiro-Alvarez,1,2Inmaculada Martin-Merida,1,2
+Fiona Blanco-Kelly,1,2Saoud Swafiri,1,2Isabel Lorda-Sanchez,1,2Maria José Trujillo-Tiebas,1,2
+Ester Carreño,3Belen Jimenez-Rolando,3Blanca Garcia-Sandoval,2,3Marta Corton,1,2
+Almudena Avila-Fernandez,1,2a n dC a r m e nA y u s o1,2
+1Department of Genetics, Instituto de Investigación Sanitaria–Fundación Jiménez Díaz University Hospital, Universidad
+Autónoma de Madrid (IIS-FJD, UAM), Madrid, Spain
+2Center for Biomedical Network Research on Rare Diseases (CIBERER), ISCIII, Madrid, Spain
+3Department of Ophthalmology, Instituto de Investigación Sanitaria–Fundación Jiménez Díaz University Hospital,
+Universidad Autónoma de Madrid (IIS-FJD, UAM), Madrid, Spain
+Correspondence: Carmen Ayuso,
+Servicio de Genética, Instituto de
+Investigación Sanitaria-Fundación
+Jiménez Díaz, Universidad
+Autónoma de Madrid, Av. Reyes
+Católicos, 2. Madrid 28040, Spain;
+cayuso@fjd.es.
+Received: May 5, 2021
+Accepted: January 15, 2022
+Published: February 4, 2022
+Citation: Del Pozo-Valero M,
+Riveiro-Alvarez R, Martin-Merida I,
+et al. Impact of next generation
+sequencing in unraveling the
+genetics of 1036 Spanish families
+with inherited macular dystrophies.
+Invest Ophthalmol Vis
+Sci.2022;63(2):11.
+https://doi.org/10.1167/iovs.63.2.11PURPOSE.To assess the potential of next-generation sequencing (NGS) technologies to
+characterizecasesdiagnosedwithautosomalrecessive(ar)orsporadic(s)maculardystro-
+phies (ar/sMD) and describe their mutational spectrum.
+METHODS.A cohort of 1036 families was classified according to their suspected clini-
+cal diagnosis—Stargardt disease (STGD), cone and cone-rod dystrophy (CCRD) or other
+maculopathies (otherMD). Molecular studies included genotyping microarrays, Sanger
+sequencing, NGS, and sequencing of intronic regions of the ABCA4gene.Clinical reclas-
+sification was done after the genetic study.
+RESULTS.At the end of the study, 677 patients (65%) had a confirmed genetic diagno-
+sis, representing 78%, 63%, and 38% of STGD, CCRD, and otherMD groups of patients,
+respectively. ABCA4is the most mutated gene in all groups, and a second pathogenic
+variantwasfoundin76%ofSTGDpatientswithonepreviouslyidentifiedmutated ABCA4
+allele. Autosomal dominant or X-linked mutations were found in 5% of cases together
+with not-MD genes ( CHM, EYS, RHO, RPGR, RLBP1, OPA1 ,a n d USH2Aamong others)
+leading to their reclassification.Novel variants in the very rare genes PLA2G5 andTTLL5
+revealed additional phenotypic associations.
+CONCLUSIONS .This study provides for the first time a genetic landscape of 1036 ar/sMD
+families according to their suspected diagnosis. The analysis of >200 genes associated
+with retinal dystrophies and the entire locus of ABCA4increase the rate of characteri-
+zation, even regardless of available clinical and familiar data. The use of the suspected
+a priori diagnosis referred by the clinicians, especially in the past, could lead to clinical
+reclassifications to other inherited retinal dystrophies.
+Keywords: Inherited macular dystrophies, genetics, next generation sequencing, clinical
+reclassification, autosomal recessive
+Inherited macular dystrophies (MD) comprise a hetero-
+geneous group of disorders characterized by bilateral
+central visual loss and atrophy of the macula and underly-
+ing retinal pigment epithelium (RPE).The hallmark of these
+diseases is a loss of visual acuity, that could affect people
+in every age. The genetic spectrum of MD is very hetero-
+geneous. All patterns of inheritance have been associated
+with these diseases. The different forms of macular degen-
+eration encompass a wide range of clinical and histological
+findings.1Different types of MD include recessive juvenile
+Stargardt disease,2dominant forms of Best disease,3adult
+vitelliform macular disease,4pattern dystrophies,5X-linked(XL) juvenile retinoschisis,6and age-related macular degen-
+eration,7among others.
+Other inherited retinal dystrophies (IRD), such as cone
+and cone-rod dystrophies (CCRD), are commonly clinically
+related with MD because they also involve progressive
+degeneration or dysfunction of the central retina due to
+photoreceptor degeneration and lead to a similar vision
+loss.8Fullfieldelectroretinography(ERG)recordingshelpto
+distinguish among these related diseases, with normal find-
+ings in MD, only reduced cone responses in cone dystro-
+phies (CD) and both cone and rod responses reduced in
+cone-rod dystrophies (CRD).
+Copyright 2022 The Authors
+iovs.arvojournals.org|ISSN: 1552-5783 1
+This work is licensed under a Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License.
+Genetic Landscape of Inherited Macular Dystrophies IOVS | February 2022 | Vol. 63 | No. 2 | Article 11 | 2
+Stargardt disease (STGD), the most frequent maculopa-
+thy, was described as a neuroepithelial disease affecting
+cones, RPE, and the underlying choroid.9Autosomal reces-
+sive Stargardt disease (STGD1; OMIM no. 248200) is caused
+by biallelic mutations in the ABCA4gene.10This gene is also
+associated to CRD, depending on the severity of the vari-
+ants found in patients.11–15More than 1200 disease-causing
+ABCA4variants have been described, including missense,
+nonsense, small indels, copy-number,16and, more recently,
+non-canonical splice site and deep intronic variants that
+lead to splicing defects.17–22This remarks the importance
+of sequencing noncoding regions in STGD patients and
+performing functional assays to unveil the pathogenicity of
+noncoding variants.
+Next-generation sequencing (NGS) technologies allow
+studying a high number of genes and patients paral-
+lelly using exome-targeted approaches or customized gene
+panels to also include noncoding regions and identifying
+new candidate genes.23In the pre-NGS era, genetic testing
+of IRD patients was performed using genotyping microar-
+rays or Sanger sequencing,which were time-consuming and
+had low diagnostic rates due to failure to detect previously
+unknown mutations or new genes.
+In this work we report the findings achieved before and
+after the implementation of NGS for the study of a large
+cohort of 1036 autosomal recessive or sporadic MD and
+CCRD (hereinafter, ar/sMD) families at the Genetic Depart-
+ment of the University Hospital Fundación Jimenez Diaz, an
+IRD reference laboratory testing the largest number of IRD
+patients in Spain.24Almost 70% of ar/sMD patients had a
+molecular diagnosis at the end of this study, and we high-
+lightthemostfrequentgenesanddescribemutationsinvery
+rare genes that had not been identified previously in the
+worldwide population.
+METHODS
+Subjects and Samples
+A cohort of 1036 unrelated families with ar/sMD was
+recruited at the Fundación Jiménez Díaz University Hospi-
+tal (HUFJD, Madrid, Spain) since 1991 up to October 2020.
+Our laboratory receives internal and external referrals for
+patients with suspected IRD from different genetic and
+ophthalmologic services throughout Spain. DNA samples
+werecollectedfromtheHUFJDBiobank,andallparticipants
+or their legal guardians signed an informed consent before
+being included in this study. This study was performed in
+accordance with the tenets of the Helsinki Declaration and
+approved by the Research Ethics Committee of our institu-
+tion.
+Clinical Diagnosis and Molecular Characterization
+Patients were included when they were referred to the
+GeneticsDepartmentofHUFJDwiththefollowingdiagnosis
+and were classified according to it: (I) STGD cases, patients
+with a clinical suspicion of STGD or fundus flavimaculatus;
+(II) CCRD cases, patients with a clinical suspicion of CD or
+CRD;and (III) otherMD cases,patients referred with a suspi-
+cion of macular dystrophy, Best disease, vitelliform macular
+dystrophy, drusen maculopathy, pattern dystrophy, central
+areolar choroidal dystrophy, and retinoschisis.
+Inaddition,theywereclassifiedaccordingtotheavailable
+data about the inheritance pattern in: (I) autosomal reces-sive (ar), when there were two or more affected individuals
+in the same generation (N =283), (II) sporadic cases, in
+families with a single diagnosed patient reported (N =707),
+or (III) unknown (N =46), when clinicians did not report
+family information. Patients referred with an a priori domi-
+nant (AD) or XL pattern of inheritance were excluded.
+A total of 1036 probands were studied by one or
+more genetic approaches (Supplementary Table S1). Until
+2017, screening of patients with suspicion of ar/sMD was
+performed most commonly by genotyping microarrays and
+Sanger sequencing of coding regions of ABCA4as first-tier
+testing approaches.25–28Some unsolved patients were also
+screened by NGS when they gave their permission and DNA
+had enough quality,sequencing the genomic ABCA4locus29
+and using small NGS-targeted gene panels for up to 82 IRD
+genes.30A few families were also analyzed by whole exome
+sequencing (WES).31,32
+After the implementation of NGS in our laboratory in
+2017,screening of new cases is routinely performed by clin-
+ical exome-targeted approaches prioritizing up to 229 IRD-
+associated genes.30,33–35A few cases were sequenced for the
+ABCA4gene(AsperBiogene,Tartu,Estonia).Formostofthe
+studied unsolved cases in which one pathogenic variant was
+found in ABCA4, several approaches were further applied
+depending on their availability: gene panels covering
+specific noncoding ABCA4variants previously reported,36
+the targeted sequencing of the complete coding or noncod-
+ingABCA4 regions,22or Sanger sequencing of specific
+ABCA4deep intronic variants known to be prevalent in
+Spanish population (c.4253 +43G>A, c.4539 +2064C >T, and
+c.5196 +1137G >A)35(Supplementary Table S1). In all these
+analyses, variants were prioritized and their pathogenicity
+was established following the guidelines of the American
+College of Medical Genetics and Genomics,37as previously
+described.34
+Statistical Analysis
+Different analyses were performed considering: (I) clinical
+groups (STGD, CCRD and otherMD); (II) genotype status:
+(a) biallelic ABCA4patients; (b) other IRD-associated genes;
+(c) monoallelic ABCA4patients; and (d) unsolved patients;
+and (III) period of their study: (before and after 2017,
+when implementing exome sequencing). McNemar test and
+Bonferroni correction for multiple comparisons were done
+using R version 4.0.3.
+RESULTS
+Until October 2020, a total of 1036 ar/sMD cases had
+been studied, 744 recruited until 2017, and 292 new cases
+recruited during 2017–2020 period. Of them, 570, 223, and
+243presentedaclinicalsuspecteddiagnosisofSTGD,CCRD,
+and otherMD, respectively.
+Molecular Screening and Diagnostic Yields
+Atotalof744caseswererecruitedfrom1991until2017.First
+approaches as genotyping microarrays or Sanger sequenc-
+ing were used to study 523 patients. With these technolo-
+gies,pathogenicmutationswerefoundin291patients(56%),
+most of them in the ABCA4gene.
+Then, 213 patients were studied by gene panels and 8
+patients by WES. In total, 89 patients were characterizedGenetic Landscape of Inherited Macular Dystrophies IOVS | February 2022 | Vol. 63 | No. 2 | Article 11 | 3
+FIGURE1.Diagnostic yields of patients with Stargardt, cone and cone-rod dystrophies, and other maculopathies regarding their genotype.
+(A) Before exome sequencing and screening of ABCA4introns. A total of 744 patients were recruited until January 2017. STGD diagnosis
+patientspresentedbiallelicmutationsinthe ABCA4genein272ofthe454cases(60%),andonlyonepatientwascharacterizedwithmutations
+in other gene, PRPH2. The remaining patients were uncharacterized, with 50 (11%) of them carrying one pathogenic allele in the ABCA4
+gene. This gene also explained one-third (58/183) and 5.7% (6/107) of the characterized CCRD patients and otherMD patients, respectively.
+Pathogenic variants in other genes were identified in 17% (31/183) and 11% (12/107) of CCRD and otherMD cases, respectively. Finally, 364
+patients remained unsolved, including 60 that were monoallelic for ABCA4.(B) After exome sequencing and screening of ABCA4introns. A
+total of 1036 ar/sMD cases were studied or restudied by the end of this study,October 2020.Three quarters of STGD patients (425/570) were
+characterized with biallelic ABCA4mutations, 3% (19/570) presented a single pathogenic variant in this gene, and 3% (19/570) presented
+mutations in other IRD genes.The 19% (107/570) of studied patients remained genetically unsolved.Among the CCRD cases,a 38% (85/223)
+were found to carry mutations in ABCA4,and one-quarter (55/223) presented mutations in other IRD genes.In the case of otherMD patients,
+14% (35/243) presented biallelic ABCA4pathogenic variants, whereas 24% (58/243) carried mutations in other genes. CCRD and otherMD
+unsolved cases, including monoallelic ABCA4patients, were 37% (83/223) and 62% (150/243) respectively. N, total of patients.
+(40%), 84 studied by gene panels, and five by WES (Supple-
+mentary Table S1).
+Insummary,ofthetotalof744casesstudied,364patients
+were unsolved by the beginning of 2017. Figure 1As h o w s
+the diagnostic yields by genotype of STGD, CCRD, and
+otherMD patients in 2017 using these approaches.
+During 2017 to 2020, 223 of the 364 unsolved patients
+were restudied using NGS technologies (Supplementary
+Table S1) that allowed identification of the molecular cause
+of the disease in 136 patients (61%):83 using clinical exome,
+30sequencingtheentire ABCA4gene,19usingagenepanel,
+and four by WES. Remarkably, ABCA4pathogenic variants
+were found in 41 and 14 patients studied by clinical exome
+or gene panel, respectively, in addition to the 30 screened
+for the entire gene.Segregation of variants was confirmed in
+45% of restudied cases (61/136). In the case of ABCA4,v a r i -
+ants were confirmed to be in trans in 52% of total ABCA4
+restudied cases (44/85).
+The diagnostic yields for these 744 arMD cases was
+comparedbeforeandaftertheimplementationofNGSinthediagnosticroutineinourlabforthe3clinicalgroups,regard-
+ing their genotype ( Table 1). The increase in the diagnostic
+yieldunderlyingNGSwasstatisticallysignificantfortheclin-
+icalgroupsSTGDandCCRDacross(a)( ABCA4solvedcases)
+and (b) (solved other genes) genotype groups ( P<0.01
+for all comparisons). In the case of otherMD group, there
+was a statistically significant increase in the (b) genotype
+group (solved other genes) ( P<0.001) but not in the case
+of (a) genotype group ( ABCA4solved cases). Furthermore,
+the reduction of unsolved cases (genotype d) showed statis-
+tically significant differences for all clinical groups across all
+genotype groups ( P<0.001 for all comparisons).
+A second pathogenic ABCA4 variant was found in
+affected individuals for whom a single pathogenic ABCA4
+variant had been previously identified using a complemen-
+tary technique in 38/50 (76%) and 4/7 (57%) of STGD and
+CCRD cases, respectively. By contrast, two of the three
+cases with otherMD diagnosis and with only one previously
+discovered mutant ABCA4allele presented mutations in a
+different gene ( BEST1andCERKL). Although for the STGDGenetic Landscape of Inherited Macular Dystrophies IOVS | February 2022 | Vol. 63 | No. 2 | Article 11 | 4
+TABLE1.Diagnostic Yield Comparison Among Genotypes of the 744 Inherited Macular Dystrophy Families Recruited Until 2017, After the
+Restudy of Unsolved Cases
+Genotype Groups
+Period of Genetic Study Solved ABCA4 Solved Other Genes Monoallelic ABCA4 Unsolved
+STGD diagnosis group (N =454)
+Initial technologies 272 (59.9%) 1 (0.2%) 50 (11%) 131 (28.9%)
+Restudy 338 (74.4%) 16 (3.5%) 15 (3.3%) 85 (18.7%)
+Pvalue <0.001 <0.001 <0.001 <0.001
+CCRD diagnosis group (N =183)
+Initial technologies 58 (31.7%) 31 (16.9%) 7 (3.8%) 87 (47.5%)
+Restudy 73 (39.9%) 43 (23.5%) 3 (1.6%) 64 (35%)
+Pvalue <0.001 0.002 NS <0.001
+OtherMD diagnosis group (N =107)
+Initial technologies 6 (5.6%) 12 (11.2%) 3 (2.8%) 86 (80.4%)
+Restudy 10 (9.3%) 36 (33.6%) 3 (2.8%) 58 (54.2%)
+Pvalue NS <0.001 NS <0.001
+NS, nonsignificant.
+group the reduction of monoallelic ABCA4cases was statis-
+tically significative ( P<0.001), this was not the case for the
+CCRD and otherMD groups.
+Current Genetic Landscape of ar/sMD
+From 2017 until the end of this study, 292 new cases were
+recruited and studied with a first approach of clinical exome(89%; 259/292) or by sequencing coding regions of the
+ABCA4gene (33/292) (Supplementary Table S1). Solved
+patients were 134 and 18, respectively, resulting in a diag-
+nosticyieldof52%(152/292).Segregationstudieshavebeen
+performed in 35% of them (54/152).
+Twenty-seven of the new cases unsolved by clinical
+exome were further studied sequencing the entire ABCA4
+gene due to the clinical suspicion of the patient or the
+presence of one pathogenic allele in this gene, identifying
+FIGURE2.Genetic landscape in characterized patients referred with Stargardt, cone and cone-rod dystrophies, and other maculopathies.
+ABCA4gene was the most mutated gene in the three groups of patients, followed by PRPH2in STGD patients; PROM1,CERKLandCNGB3
+in CCRD patients; and BEST1andCRB1in otherMD patients.Genetic Landscape of Inherited Macular Dystrophies IOVS | February 2022 | Vol. 63 | No. 2 | Article 11 | 5
+TABLE2.Diagnostic Yield Comparison Among Genotypes and Clinical Groups at the End of the Study
+Genotype Groups
+End of the Study (Oct. 2020) Solved ABCA4 Solved Other Genes Monoallelic ABCA4 Unsolved
+STGD vs. CCRD groups
+STGD (N =570) 425 (74.6%) 19 (3.3%) 19 (3.3%) 107 (18.8%)
+CCRD (N =223) 85 (38.1%) 55 (24.7%) 6 (2.7%) 77 (34.5%)
+Pvalue <0.001 <0.001 NS <0.001
+STGD vs. OtherMD groups
+STGD (N =570) 425 (74.6%) 19 (3.3%) 19 (3.3%) 107 (18.8%)
+OtherMD (N =243) 35 (14.4%) 58 (23.8%) 14 (5.8%) 136 (56%)
+Pvalue <0.001 <0.001 NS <0.001
+CCRD vs. OtherMD groups
+CCRD (N =223) 85 (38.1%) 55 (24.7%) 6 (2.7%) 77 (34.5%)
+OtherMD (N =243) 35 (14.4%) 58 (23.8%) 14 (5.8%) 136 (56%)
+Pvalue <0.001 NS NS <0.001
+NS, nonsignificant.
+a second pathogenic allele in 9 of them (Supplementary
+Table S1) and confirming that both variants were in trans
+in the four patients in which the segregation analysis was
+performed (44%). Adding these 27 cases to the restudied
+cases recruited until 2017 described above, the total charac-
+terization rate of restudied cases was 58% (145/250) instead
+of 61% (136/223). The characterization yield obtained in
+both restudied and new cases groups according to their clin-
+ical diagnosis is summarized in Supplementary Figure S1.
+To sum up, a total of 1036 ar/sMD cases were studied by
+theendofthisstudy,October2020.Ofthem,677(65%)were
+genetically characterized ( Fig. 1B), in which 343 different
+pathogenic variants (Supplementary Table S2) were identi-
+fied, 38 (11%) of them are novel.
+The genetic landscape of STGD, CCRD and otherMD
+cases at the end of the study, together with the genes
+mutatedineachgroup,areshownin Figure1BandFigure2.
+Of the unsolved patients, 50% (53/107), 55% (46/83), and
+21% (31/150) of STGD, CCRD and otherMD, respectively,
+could not be analyzed by NGS.
+The diagnostic yields for the 1036 ar/sMD cases were
+compared for each clinical and genotype groups ( Table 2).
+The diagnostic yield for ABCA4solved and unsolved cases
+showed statistically significant differences between STGD
+versus CCRD, STGD versus otherMD, and CCRD versus
+otherMD ( P<0.001). The increase in the diagnostic yield
+of patients solved with other genes was statistically signifi-
+cant when comparing CCRD and otherMD groups with the
+STGDgroup( P<0.001).Thediagnosticyieldofmonoallelic
+ABCA4patients did not show statistically significant differ-
+ences when comparing between the clinical groups of diag-
+nosis,withasimilarraterangingfrom3%to6%.Around65%
+(26/39) of monoallelic ABCA4patients were unsuccessfully
+screened for noncoding variants.
+Genetic and Clinical Reclassification
+A total of 677 families were genetically characterized after
+the molecular study.As expected,95% of them carried reces-
+sivevariants(647/677).Otherpathogenicvariantsassociated
+withanADorXLinheritancepatternswerefoundin23(4%)
+and seven (1%) families, respectively, both with an a priori
+ar inheritance pattern, sporadic, or without familiar data
+(Supplementary Table S2). In four AD-reclassified cases it
+was confirmed that one of the parents was actually affected.In three XL-reclassified cases, other unreported male rela-
+tives were also affected in the family. Segregation analysis
+was performed in eight cases, identifying incomplete pene-
+trance in two families with reported unaffected relatives
+carrying previously reported CRXand PRPH2pathogenic
+variants, respectively.
+Regarding clinical reclassification, some mutations were
+in genes typically associated with diseases other than those
+that the respective patients had (Supplementary Table S2).
+In STGD group, although most of the patients carried bial-
+lelic ABCA4variants, some patients presented pathogenic
+variants in genes causing STGD-like phenotypes ( PRPH2
+andPLA2G5) and other types of IRDs or eye diseases: CD
+(CNGB3), CRD or RP ( CERKL, CRB1, CRX, EYS, PROM1 and
+RP2), Best disease ( BEST1), choroideremia ( CHM), optic
+atrophy ( OPA1), and retinoschisis ( RS1).
+Within the CCRD group of patients,11 patients presented
+variants in RP genes as CERKL, CNGB1, RHO, RPGR and
+USH2A, three patients were reclassified to Bestrophinopa-
+thy ( BEST1), three to LCA ( CRB1andRPGRIP1 ) because of
+their early age at onset, and one patient presented congen-
+ital stationary night blindness with pathogenic variants in
+TRPM1. This last patient was diagnosed with retinal dystro-
+p h ya ta g eo n ey e a r .
+Finally, in the group of otherMD patients we found 35
+patients with ABCA4variants that were classified to STGD1
+or CRD, eight patients classified to CD ( CNGB3, GUCYD2
+andPDE6C), 36 patients with CRD ( BBS1, CDHR1, CNGA3,
+CRB1, CRX, PROM1, PRPH2, RDH12 )o rR P( CERKL,RLBP1
+andRPGR),12 patients with BEST1mutations,one with LCA
+(CRB1), and one with retinoschisis ( RS1).
+Novel Findings in Rare Genes
+Two unrelated patients of our cohort referred as STGD
+diagnosis were homozygous for the PLA2G5 gene variant
+c.309C >A; p.(Cys103*) (rs571294470). Patient MD-1458 was
+diagnosedatfouryearsofageandpresentedabestcorrected
+visualacuity(BCVA)(decimal)of0.5inbotheyesatthatage.
+The fundus images revealed a discrete dotlike flecks in the
+peripheralfundusandwithinarcadeswithoutfovealinvolve-
+ment, and optic coherence tomography (OCT) showed RPE
+alterations in the macular area. Patient MD-0403 presented
+symptoms of visual acuity loss at age five years,and she was
+diagnosedat46yearsofagewithfundusflavimaculatus.HerGenetic Landscape of Inherited Macular Dystrophies IOVS | February 2022 | Vol. 63 | No. 2 | Article 11 | 6
+FIGURE3.Ophthalmological images of patients MD-1458 and MD-0403 with the novel variant p.(Cys103*) in homozygosis in the PLA2G5
+gene. (AandF) Fundus images of both patients revealed flecklike lesions perifoveally within arcades with foveal sparing (similar in both
+eyes, only left eye shown). ( B) Infrared reflectance image showed hyporeflective lesions perifoveally within arcades in both eyes (left eye
+shown) that correspond with hypopigmented lesions in the color picture in MD-1458. ( C) Autofluorescence showed hyperautofluorescent
+scatter lesions that correspond with the hypopigmented lesions of the color picture. ( D) Color fundus photograph of the right eye showing
+nasal periphery disclosing scatter yellowish dots outside the arcades.( E) OCT images showed RPE alterations ( up,right eye; down,left eye).
+(G) Ultra-widefield fundus autofluorescence revealed hyperautofluorescent scatter lesions that correspond with the hypopigmented lesions
+of the color picture in both eyes (left eye shown). (H) OCT images showed RPE alterations in the macula ( up,right eye; down,left eye).
+last ophthalmological examination,at age 60 years,revealed
+a BCVA (decimal) of 0.9 in both eyes, fundus and autoflu-
+orescence images showing macular and RPE atrophy with
+foveal-sparing, fine dotlike flecks in periphery and macula,
+and ERG with both scotopic a-waves and photopic b-waves
+slightly reduced in amplitude at age 55 years. Figure 3
+shows ophthalmological findings of the two patients with
+thePLA2G5 variant.
+A family with two siblings who were diagnosed with a
+CD phenotype initially in 2005 were found by WES to have
+compound heterozygous, novel stop variants in TTLL5—
+previously associated to CD and CRD38—(NM_015072.4):
+c.211C >T; p.(Arg71*) (rs1439202144), and c.2029C >T;
+p.(Arg677*)(rs138370992). The ophthalmological examina-
+tionoftheprobandatage49yearsshowedafundusappear-
+ance of a bull’s-eye maculopathy with a hyperautofluores-
+centringinmacularareaBCVA(decimal)of0.6inbotheyes,
+dyschromatopsia, and cone-reduced responses in ERG.
+DISCUSSION
+In this work, we report the genetic diagnosis of 1036
+ar/sMD families studied for 30 years. The genetic test-
+ing options for studying patients with IRD are numer-
+ous and have progressed over time.39First approaches
+used in our laboratory—genotyping microarrays and Sanger
+sequencing—before NGS allowed characterizing half of
+studied patients, most of them carrying ABCA4pathogenic
+coding variants.
+In recent years, NGS technologies have had a substantial
+impact in the molecular diagnosis of IRD patients.23Here,
+theuseofcustomizedNGS-basedpanelscovering >70genessolved nearly 40% of ar/sMD cases, whereas their use for
+other IRD families of our cohort showed variable mutation
+rates of 27% and 57% in autosomal dominant and reces-
+sivecases,respectively.40,41Therestudyofunsolvedcasesby
+the implementation of clinical exome sequencing >200 IRD
+genes or noncoding regions of ABCA4have allowed charac-
+terizing the 58% of the restudied cases.When clinical exome
+was used as the first-tier approach in the new cases, the
+characterization rate decreased to 52%. Other authors using
+NGS custom gene panels of >300 IRD-associated genes and
+noncoding regions reported a diagnosis yield of 85%.42The
+differences in the characterization rate found between the
+restudied cases and the new cases can be explained by
+several reasons. First, both cohorts have been recruited in
+different periods of time and do not have the same number
+of patients in each clinical group. Although most of the
+restudied patients have a STGD diagnosis (52%), new cases
+included more otherMD diagnosis (46%) than STGD diag-
+nosis (40%). As we have seen in this study, in this otherMD
+clinicalgroup,thereisthehighestrateofunsolvedcases.We
+suggest that in this miscellaneous group where most of the
+patients are referred with “macular dystrophy,” there may
+be nonhereditary cases. Second, additional regions studied
+by WES or the entire ABCA4gene have been screened in
+restudied cases, representing the 2% and 32% of the total
+of characterized restudied cases, respectively. In 20 of these
+patients (8% of total restudied cases), we found pathogenic
+variants in genes not included in the clinical exome— TTLL5
+case—ordeepintronicvariantsinthe ABCA4gene.However,
+theremainingpatientscharacterizedaftertherestudyshould
+have been solved if they had been sequenced by clin-
+ical exome as first approach. For all these reasons, theGenetic Landscape of Inherited Macular Dystrophies IOVS | February 2022 | Vol. 63 | No. 2 | Article 11 | 7
+characterization rate obtained in this study is specific for
+each cohort and cannot be compared.
+Three-quarters of patients referred with STGD diagno-
+sis were biallelic for the ABCA4gene, which is expected
+because Stargardt disease is due to mutations in this gene
+(STGD1).16The ABCA4gene was also the most frequent
+gene mutated in CCRD and otherMD groups, representing
+38% and 14% of the total of studied patients, respectively.
+It is well known that there are missing alleles in the
+ABCA4 gene in unsolved patients with one pathogenic
+allele.16The fact that the monoallelic cases for the ABCA4
+gene were only significantly reduced in the group of STGD
+diagnosissupportsthenecessityofsequencingthecomplete
+ABCA4gene in those cases with a clear diagnosis of Star-
+gardt disease to find a second pathogenic variant. In most
+cases,whenall50codingexonshavebeenalreadyscreened,
+this is likely located in deep-intronic regions22or regulatory
+regions.21At the end of our study, the frequency of monoal-
+lelic ABCA4patients found in all groups of clinical diagno-
+sis is between 3% to 6%. Pathogenic noncoding variants still
+could not be discarded in 54% of the total of monoallelic
+ABCA4patients in which the complete sequencing of the
+ABCA4locus has not been performed, including nine STGD
+patients, six of whom were unsuccessfully screened for the
+prevalent Spanish intronic variants.However,it is important
+toremarkthatonly1.6%ofthemutatedallelesinthe ABCA4
+gene are deep intronic pathogenic variants, as we described
+before.35Nevertheless, our hypothesis is that most of these
+patients, specially CCRD and otherMD patients, could be
+merelycarriersofavariantinthemostfrequentIRDmutated
+gene,43as is also supported by previous studies reflecting a
+carrier rate of 6% for ABCA4in Spanish population.28
+Other genes different from ABCA4known to cause other
+MD or IRD were identified in the group of suspected STGD
+cases.Mutationsin PRPH2havebeenassociated withSTGD-
+like phenotypes,16but with an AD-inheritance pattern. This
+fact could be explained by the limited clinical information
+from relatives together with the reported incomplete pene-
+trance and variable expressivity in this gene.44Other genes
+associated to specific IRD-phenotypes with clinical features
+other than STGD were found in patients in whom no clin-
+ical information apart from their referred STGD diagnosis
+was available. Mutations in IRD-genes causing phenotypes
+different from STGD have also been reported when study-
+ing a priori STGD cases.45Genes associated to RP,LCA,optic
+atrophy, retinoschisis and Best disease were found in the
+groups of CCRD and otherMD. This reflects that the clinical
+entity can be accurately defined when sequencing a large
+number of IRD-associated genes, as has been addressed
+before.42The ideal scenario in those cases would be to
+collect ophthalmological information after the genetic study
+to provide a complete clinical reclassification. Moreover, in
+unsolved cases with a specific diagnosis, as the case of
+STGD patients,additional clinical examinations might reveal
+initial misdiagnosis, when both imaging technologies and
+the knowledge on retinal diseases was not as advanced as
+currently.
+Remarkably,we identified a homozygous novel variant in
+the gene PLA2G5 in two unrelated probands with STGD-like
+phenotype. This gene was first associated with benign fleck
+retina,46a condition that was added to the classification of
+the fleck disorders described by Krill and Folk,47and where
+patients have no functional defect.48Sergouniotis et al.46
+identified seven patients with yellow-white retinal lesions
+and no visual deficits carrying PLA2G5 mutations. No otherpatients have been reported to date to our knowledge, with
+ourtwopatientsbeingtheeighthandninthcaseswithmuta-
+tions in this very rare gene. Our patients presented a fleck
+retina disorder involving the macula and different from the
+benign condition because they are symptomatic and have a
+mild functional dysfunction of vision. This may suggest that
+PLA2G5 gene could also been involved in retinal degenera-
+tion with functional disturbances on vision. The novel vari-
+ant identified in the last exon of this gene leads to the trun-
+cation of the protein group V phospholipase A 2(PLA2G5) at
+amino acid 103, located before the aspartic acid amino acid
+at 111 position that is responsible for catalytic activity of the
+protein.49
+The high-throughput genetic analysis by NGS could be
+successful, although the family history was ambiguous or
+the clinical manifestation was atypical.42On the one hand,
+most of the patients included in this work were sporadic
+cases in which apparently the proband had not affected
+relatives, and, in few cases, there is no available informa-
+tion of the family members.As expected,95% of these cases
+were confirmed to have an autosomal recessive pattern of
+inheritance after the identification of the mutated gene, and
+in 52% of them it was confirmed that each mutated allele
+was received from one progenitor. However, when variants
+in AD- or XL-associated genes were identified, as in the
+remaining5% of patients,having clinical information of rela-
+tives and segregation studies are important to give accurate
+genetic counseling.
+Finally,only 35% of the total ar/sMD patients were genet-
+ically unsolved; however, NGS screening has not been yet
+performed in a quarter. An extended analysis of noncod-
+ing and regulatory regions together with functional assays,
+and the identification of new genes causing IRD would be
+needed to characterize unsolved cases. Also, structural vari-
+ants affecting genomic domains may be involved.50
+This study provides a genetic landscape of 1036 ar/sMD
+families,giving a mutational spectrum of the genes involved
+in STGD, CCRD, and otherMD groups of patients according
+to their suspected diagnosis. We demonstrate the increase
+of the characterization diagnostic yield after the implemen-
+tation of the exome sequencing even when no clinical and
+familiar data are available. Also, a new phenotypic associ-
+ation with a visual defect is described for the rare gene
+PLA2G5.
+Acknowledgments
+TheauthorsthankIgnacioMahilloFernandezforstatisticalanal-
+ysis,andLauraCortazarandAlvaroFernandez-Vegaforophthal-
+mological pictures.
+Supported by the Instituto de Salud Carlos III (ISCIII)
+of the Spanish Ministry of Health (FIS; PI16/00425 and
+PI19/00321), Centro de Investigación Biomédica en Red
+Enfermedades Raras (CIBERER, 06/07/0036), IIS-FJD BioBank
+PT13/0010/0012),ComunidaddeMadrid(CAM,RAREGenomics
+Project, B2017/BMD-3721), European Regional Development
+Fund (FEDER), the Organización Nacional de Ciegos Españoles
+(ONCE),Fundación Ramón Areces,Fundación Conchita Rábago
+andtheUniversityChairUAM-IISFJDofGenomicMedicine.M.C.
+issupportedbytheMiguelServetProgram(CPII17/00006)from
+ISCIII.
+Disclosure: M. Del Pozo-Valero, None;R. Riveiro-Alvarez,
+None;I. Martin-Merida, None;F. Blanco-Kelly, None;
+S.Swafiri, None;I.Lorda-Sanchez, None;M.J.Trujillo-Tiebas,Genetic Landscape of Inherited Macular Dystrophies IOVS | February 2022 | Vol. 63 | No. 2 | Article 11 | 8
+None;E.Carreño, None;B.Jimenez-Rolando, None;B.Garcia-
+Sandoval, None;M. Corton, None;A. Avila-Fernandez, None;
+C. Ayuso, None
+References
+1. Michaelides M. The genetics of inherited macular dystro-
+phies. J Med Genet . 2003;40:641–650.
+2. Tanna P, Strauss RW, Fujinami K, Michaelides M. Stargardt
+disease:Clinicalfeatures,moleculargenetics,animalmodels
+and therapeutic options. Br J Ophthalmol . 2017;101:25–30.
+3. Krämer F, White K, Pauleikhoff D, et al. Mutations in
+the VMD2 gene are associated with juvenile-onset vitelli-form macular dystrophy (Best disease) and adult vitelliform
+macular dystrophy but not age-related macular degenera-
+tion. Eur J Hum Genet . 2000;8:286–292.
+4. Burgess R, Millar ID, Leroy BP, et al. Biallelic mutation of
+BEST1 causes a distinct retinopathy in humans. Am J Hum
+Genet. 2008;82:19–31.
+5. Rahman N, Georgiou M, Khan KN, Michaelides M. Macular
+dystrophies:Clinical and imaging features,molecular genet-ics and therapeutic options. Br J Ophthalmol .2020;104:451–
+460.
+6. Forsius H, Vainio-Mattila B, Eriksson A. X-linked hereditary
+retinoschisis. Br J Ophthalmol . 1962;46:678–681.
+7. Saksens NTM, Fleckenstein M, Schmitz-Valckenberg S, et al.
+Macular dystrophies mimicking age-related macular degen-
+eration. Prog Retin Eye Res . 2014;39:23–57.
+8. Birtel J, Eisenberger T, Gliem M, et al. Clinical and genetic
+characteristics of251consecutivepatientswithmacularand
+cone/cone-rod dystrophy. Sci Rep. 2018;8(1):4824.
+9. Stargardt K. Über familiäre, progressive Degeneration in
+der Maculagegend des Auges. Albr von Graefes Arch für
+Ophthalmol . 1909;71:534–550.
+10. Allikmets R, Singh N, Sun H, et al. A photorecep-
+tor cell-specific ATP-binding transporter gene (ABCR) is
+mutated in recessive Stargardt macular dystrophy. Nat
+Genet. 1997;15:236–246.
+11. CremersFPMM,VanDePolDJRR,VanDrielM,etal.Autoso-
+mal recessive retinitis pigmentosa and cone-rod dystrophycaused by splice site mutations in the Stargardt’s disease
+gene ABCR. Hum Mol Genet . 1998;7:355–362.
+12. Bertelsen M, Zernant J, Larsen M, et al. Generalized chorio-
+capillarisdystrophy,adistinctphenotypeinthespectrumof
+ABCA4-associated retinopathies. Invest Ophthalmol Vis Sci .
+2014;55:2766–2776.
+13. Verbakel SK,van Huet RAC,Boon CJF,et al.Non-syndromic
+retinitis pigmentosa. Prog Retin Eye Res . 2018;66:157–186.
+14. Tanaka K, Lee W, Zernant J, et al. The rapid-onset chori-
+oretinopathy phenotype of ABCA4 disease. Ophthalmology .
+2018;125:89–99.
+15. Martínez-Mir A, Paloma E, Allikmets R, et al. Retinitis
+pigmentosa caused by a homozygous mutation in the Star-gardt disease gene ABCR. Nat Genet . 1998;18:11–12.
+16. Cremers FPM,Lee W,Collin RWJ,Allikmets R.Clinical spec-
+trum, genetic complexity and therapeutic approaches forretinal disease caused by ABCA4 mutations. Prog Retin Eye
+Res. 2020;79:100861.
+17. Khan M, Cornelis SS, Khan MI, et al. Cost-effective molec-
+ular inversion probe-based ABCA4 sequencing reveals
+deep-intronic variants in Stargardt disease. Hum Mutat .
+2019;40:1749–1759.
+18. Fadaie Z, Khan M, Del Pozo-Valero M, et al. Identification
+of splice defects due to noncanonical splice site or deep-intronicvariantsinABCA4. Hum Mutat .2019;40:2365–2376.
+19. SangermanoR,KhanM,CornelisSS,etal.ABCA4midigenes
+reveal the full splice spectrum of all reported noncanon-ical splice site variants in Stargardt disease. Genome Res .
+2018;28:100–110.
+20. Sangermano R, Garanto A, Khan M, et al. Deep-intronic
+ABCA4 variants explain missing heritability in Stargardt
+disease and allow correction of splice defects by antisenseoligonucleotides. Genet Med
+. 2019;21:1751–1760.
+21. Bauwens M, Garanto A, Sangermano R, et al. ABCA4-
+associated disease as a model for missing heritability in
+autosomal recessive disorders: novel noncoding splice, cis-
+regulatory, structural, and recurrent hypomorphic variants.Genet Med . 2019;21:1761–1771.
+22. Khan M, Cornelis SS, Pozo-Valero M Del, et al. Resolv-
+ing the dark matter of ABCA4 for 1054 Stargardt diseaseprobandsthroughintegratedgenomicsandtranscriptomics.
+Genet Med . 2020;22:1235–1246.
+23. Broadgate S, Yu J, Downes SM, Halford S. Unravelling the
+genetics of inherited retinal dystrophies: Past, present and
+future. Prog Retin Eye Res . 2017;59:53–96.
+24. Perea-Romero I,Gordo G,Iancu IF,et al.Genetic landscape
+of 6089 inherited retinal dystrophies affected cases in Spain
+and their therapeutic and extended epidemiological impli-
+cations. Sci Rep. 2021;11(1):1526.
+25. Aguirre-Lamban J, González-Aguilera JJ, Riveiro-Alvarez
+R, et al. Further associations between mutations and
+polymorphisms in the ABCA4 gene: Clinical impli-
+cation of allelic variants and their role as protec-tor/risk factors. Invest Ophthalmol Vis Sci . 2011;52:6206–
+6212.
+26. Aguirre-Lamban J, Riveiro-Alvarez R, Maia-Lopes S, et al.
+Molecular analysis of the ABCA4 gene for reliable detec-
+tion of allelic variations in Spanish patients: Identificationof 21 novel variants. Br J Ophthalmol . 2009;93:614–21.
+27. Riveiro-Alvarez R, Aguirre-Lamban J, Angel Lopez-Martinez
+M, et al. Frequency of ABCA4 mutations in 278 Spanishcontrols: An insight into the prevalence of autosomal reces-
+sive Stargardt disease. Br J Ophthalmol . 2009;93:614–621.
+28. Riveiro-Alvarez R, Lopez-Martinez MA, Zernant J, et al.
+Outcome of ABCA4 disease-associated alleles in autosomal
+recessive retinal dystrophies: Retrospective analysis in 420Spanish families. Ophthalmology . 2013;120:2332–2337.
+29. Zernant J, ngel. Xie YA, Ayuso C, et al. Analysis of the
+ABCA4 genomic locus in Stargardt disease. Hum Mol Genet .
+2014;23:6797–6806.
+30. Martin-Merida I, Avila-Fernandez A, Del Pozo-Valero M,
+et al. Genomic landscape of sporadic retinitis pigmentosa.
+Ophthalmology . 2019;126:1181–1188.
+31. Corton M, Nishiguchi KM, Avila-Fernández A, et al. Exome
+sequencing of index patients with retinal dystrophies as a
+tool for molecular diagnosis. PLoS One . 2013;8(6):e65574.
+32. Riveiro-Álvarez R, Xie Y, López-Martínez MÁ, et al. New
+mutations in the RAB28 gene in 2 Spanish families with
+cone-rod dystrophy. JAMA Ophthalmol . 2015;133:133–139.
+33. Martin-Merida I, Aguilera-Garcia D, Fernandez-San Jose P,
+et al. Toward the mutational landscape of autosomal domi-
+nant retinitis pigmentosa: A comprehensive analysis of 258Spanish families. Invest Ophthalmol Vis Sci . 2018;59:2345–
+2354.
+34. Del Pozo-Valero M, Martin-Merida I, Jimenez-Rolando B,
+et al.Expanded phenotypic spectrum of retinopathies asso-
+ciated with autosomal recessive and dominant mutations in
+PROM1. Am J Ophthalmol . 2019;207:204–214.
+35. Del Pozo-Valero M, Riveiro-Alvarez R, Blanco-Kelly F, et al.
+Genotype-phenotype correlations in a Spanish cohort of506 families with bi-allelic ABCA4 pathogenic variants. Am
+J Ophthalmol . 2020;219:195–204.
+36. Braun TA, Mullins RF, Wagner AH, et al. Non-exomic and
+synonymous variants in ABCA4 are an important cause of
+Stargardt disease. Hum Mol Genet . 2013;22:5136–5145.Genetic Landscape of Inherited Macular Dystrophies IOVS | February 2022 | Vol. 63 | No. 2 | Article 11 | 9
+37. Richards S, Aziz N, Bale S, et al. Standards and guidelines
+for the interpretation of sequence variants: A joint consen-sus recommendation of the American College of Medical
+Genetics and Genomics and the Association for Molecular
+Pathology. Genet Med . 2015;17:405–424.
+38. Sergouniotis PI,Chakarova C,Murphy C,et al.Biallelic vari-
+ants in TTLL5,encoding a tubulin glutamylase,cause retinal
+dystrophy. Am J Hum Genet . 2014;94:760–769.
+39. RatnapriyaR,SwaroopA.Geneticarchitectureofretinaland
+macular degenerative diseases: The promise and challengesofnext-generationsequencing. Genome Med .2013;5(10):84.
+40. Fernandez-San Jose P, Corton M, Blanco-Kelly F, et al.
+Targeted next-generation sequencing improves the diagno-sis of autosomal dominant retinitis pigmentosa in Spanish
+patients. Invest Ophthalmol Vis Sci . 2015;56:2173–2182.
+41. Perez-Carro R, Corton M, Sánchez-Navarro I, et al. Panel-
+basedNGSrevealsnovelpathogenicmutationsinautosomal
+recessive retinitis pigmentosa. Sci Rep. 2016;6:19531.
+42. Gonzàlez-Duarte R, de Castro-Miró M, Tuson M, et al. Scal-
+ing new heights in the genetic diagnosis of inherited retinal
+dystrophies. Adv Exp Med Biol . 2019;1185:215–219.
+43. HananyM,RivoltaC,SharonD.Worldwidecarrierfrequency
+and genetic prevalence of autosomal recessive inherited
+retinal diseases. Proc Natl Acad Sci USA . 2020;117:2710–
+2716.44. Boon CJF,den Hollander AI,Hoyng CB,et al.The spectrum
+of retinal dystrophies caused by mutations in the periph-erin/RDS gene. Prog Retin Eye Res . 2008;27:213–35.
+45. Wolock CJ, Stong N, Ma CJ, et al. A case–control collapsing
+analysis identifies retinal dystrophy genes associated withophthalmic disease in patients with no pathogenic ABCA4
+variants. Genet Med . 2019;21:2336–2344.
+46. Sergouniotis PI, Davidson AE, MacKay DS, et al. Biallelic
+mutations in PLA2G5, encoding group v phospholipase A
+2,cause benign fleck retina. Am J Hum Genet .2011;89:782–
+791.
+47. Krill AE, Folk MR. Retinitis punctata albescens. A func-
+tional evaluation of an unusual case. Am J Ophthalmol .
+1962;53:450–455.
+48. Sabel Aish SF, Dajani B. Benign familial fleck retina. Br J
+Ophthalmol . 1980;64:652–659.
+49. Lambeau G, Gelb MH. Biochemistry and physiology
+of mammalian secreted phospholipases A 2. Annu Rev
+Biochem . 2008;77:495–520.
+50. de Bruijn SE,Fiorentino A,Ottaviani D,et al.Structural vari-
+ants create new topological-associated domains and ectopicretinal enhancer-gene contact in dominant retinitis pigmen-
+tosa. Am J Hum Genet . 2020;107:802–814.

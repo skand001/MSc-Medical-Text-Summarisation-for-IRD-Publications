@@ -1,0 +1,287 @@
+ARTICLE
+Retinal gene therapy in RPE-65 gene mediated inherited retinal
+dystrophy
+Assad Jalil1✉, Tsveta Ivanova1, George Moussa1, Neil R. A. Parry1,2and Graeme C. M. Black1
+© The Author(s), under exclusive licence to The Royal College of Ophthalmologists 2022
+BACKGROUND: Voretigene neparvovec (VN) is a gene therapeutic agent for treatment of retinal dystrophies caused by bi-allelic
+RPE65 mutations. We illustrate, both the bene ﬁts and pitfalls associated with ocular gene therapy in the same patient.
+METHODS: Two eyes of one patient with bi-allelic RPE65 mutations have been treated with VN. The clinical examinations included
+visual acuity (VA, in normal and low luminance), colour vision, contrast sensitivity, International Society for ClinicalElectrophysiology of Vision (ISCEV) standard retinal electrophysiology and dark-adapted full- ﬁeld stimulus threshold (FST),
+Goldmann VF analysis and imaging studies, including optical coherence tomography (OCT) and auto ﬂuorescence. These were
+performed at baseline, 2-weeks, 3 and 6-months, 1 and 2-years follow-up.RESULTS: Theﬁrst eye showed improvement in rod photoreceptor function with increased peripheral and low luminance vision
+(baseline VA: 0.9 logMAR and 2-years post-operative VA: 0.7 logMAR). The second eye, whilst showing increased light sensitivity,
+suffered a drop in central vision (at 2-weeks) with loss of foveal photoreceptors as shown by the loss of ellipsoid zone on OCT scan(baseline VA: 0.6, 2-year post-operative VA: 1.2). FST improvements were maintained in both eyes indicating a sustained ef ﬁcacy of
+VN with little waning of its effect.
+CONCLUSIONS: We present a previously unreported adverse complication of subretinal VN therapy in bi-allelic RPE65, indicating a
+probable immune response in treatment of the second eye, resulting in loss of foveal photoreceptors. This case-series highlightsthe potential and pitfalls of retinal gene therapy in the same patient. The immune responses of the body to a ‘foreign vector ’,
+remains a challenge.
+Eye (2023) 37:1874–1877; https://doi.org/10.1038/s41433-022-02262-5
+INTRODUCTION
+Inherited retinal dystrophies (IRD) are a group of rare conditions
+characterised by severe vision loss that result from pathogenic
+variation in any one of more than 220 different genes [ 1]. One
+such gene is RPE65 which encodes all-trans retinyl ester isomerase,
+an enzyme critical to the visual cycle. Biallelic pathogenic variants
+inRPE65 cause a spectrum of severe rod-mediated IRDs, including
+Leber congenital amaurosis (LCA) type 2 and retinitis pigmentosa(RP) type 20 [ 2]. Commonly, patients experience nyctalopia from
+early childhood, and progressive loss of visual ﬁeld (VF) and visual
+acuity (VA). LCA type 2 is more severe, patients presenting in
+infancy with absent ﬁxation, nystagmus, nyctalopia and progres-
+sive severe visual loss [ 3]. RP type 20 is variable, usually starting
+later in childhood with peripheral visual loss that eventually
+progresses to involve central vision. Over time, all patients withRPE65 mutation-induced IRD have severe loss of light perceptionat any intensity along with profound reduction in navigational
+vision [ 4].
+The role of gene augmentation therapy in RPE65 mediated
+disease was studied in two open-label phase one studies, and onerandomised controlled phase three trial [ 5–7]. Overall, the trials
+reported a consistent improvement in navigational vision, light
+sensitivity and visual ﬁelds. Consequently, the treatment of IRDsreached an in ﬂection point in December 2017, when the US Food
+and Drug Administration (FDA) approved Voretigene Neparvovec
+(VN, Luxturna
+®, Spark Therapeutics, Philadelphia, PA) for patients
+with IRD caused by biallelic RPE65 mutation, the ﬁrst ever FDA-
+approved gene therapy. VN treatment is now offered worldwide inselected ocular gene therapy centres. The real-world data that are
+being gathers increase our understanding of the vast potential of
+gene therapy whilst highlighting the associated risks in somecases. The case presented here illustrates both the bene ﬁts and
+pitfalls associated with ocular gene therapy in the same patient.
+METHODS
+Following a search on our genetic database, a 39-year-old Caucasian male
+with a pathogenic biallelic RPE65 mutation (Fig. 1) was identi ﬁed and
+invited for a clinic visit to discuss the new treatment option of VN. A
+comprehensive ophthalmic examination was carried out and patient
+underwent a battery of base line investigations. Other than IRD, he had noocular or medical history to note.
+Baseline investigations
+At baseline the patient ’s VA (under normal and low luminance), colour
+vision, and contrast sensitivity were tested using natural pupils. He
+Received: 11 August 2022 Revised: 13 August 2022 Accepted: 12 September 2022
+Published online: 26 September 20221Manchester Royal Eye Hospital, Oxford Road, Manchester M13 9WL, UK.2Division of Pharmacy and Optometry, School of Health Sciences, Faculty of Biology, Medicine and
+Health, University of Manchester, Manchester, UK.✉email: assad.jalil@mft.nhs.ukwww.nature.com/eye1234567890();,:underwent International Society for Clinical Electrophysiology of Vision
+standard retinal electrophysiology and dark-adapted full- ﬁeld stimulus
+threshold (FST), Goldmann VF analysis and imaging studies, includingoptical coherence tomography (OCT) and auto ﬂuorescence.
+There are three criteria to be met for the patient to be considered for VN
+treatment in the United Kingdom: [ 8]
+1. Presence of viable retina (At least 100 microns central retinal
+thickness on OCT scan)
+2. Three or more optic disc areas without atrophy or pigmentary
+degeneration within posterior pole of the retina
+3. A remaining VF within 30° of ﬁxation.
+The patient met all the criteria and was offered treatment. After a
+detailed discussion of all the risks and bene ﬁts of VN, the patient wished to
+proceed, and informed consent was taken. It was decided to treat his lefteyeﬁrst, which had the worse VA and VF.
+Surgical procedure and treatment protocol
+Three days prior to administration of the gene therapy, the patient was
+started on oral steroids as per the protocol (prednisone at one mg/kg/day,maximum of 40 mg/day for a total of 7 days, starting 3 days beforeadministration of Voretigene Neparvovec, followed by a tapering dose for10 days) [ 7]. The surgery consisted of 25 G pars plana vitrectomy (PPV),
+subretinal injection of 0.3 ml of VN, ﬂuid air exchange and closure of all
+surgical ports with 8/0 vicryl. There were no complications during theprocedure. Following the operation, the patient was advised to maintainsupine position for 24 h and was prescribed topical prednisolone 1% fourtimes daily for 4 weeks; topical cyclopentolate 1% twice daily for 2 weeksand topical chloramphenicol 0.5% four times daily for 2 weeks (standardpractise following PPV).
+RESULTS
+At baseline, we report, logMAR VA was 0.6 (right) and 0.9 (left).
+Under low photopic illumination, VA was 1.2 (right) and 1.46 (left),and he could not see the chart under mesopic illumination.Ganzfeld electroretinograms (ERGs) were extinguished in both
+eyes; multifocal ERGs did not show any recordable signal from any
+location in the central 60°. FST mean thresholds were −2.32 dB for
+the right and −2.29 dB for the left eye respectively. OCT and VF
+were also carried out to determine patient eligibility.
+Early in the postoperative period, the patient started noticing
+increased light sensitivity and improved low luminance naviga-
+tion. Two weeks following surgery, he developed left-sided cystoidmacular oedema (Fig. 2), which showed little improvement with
+steroid eye drops but settled completely on a short 2-week course
+of oral steroids. VA remained at 0.8 for the left eye a month after
+surgery. After careful consideration, with the patient reportingmarked improvement in light sensitivity and low luminance vision,
+it was decided to proceed with the surgery of the second eye. The
+procedure of the right eye was uneventful with no complicationsand was covered with a 17-day course of perioperative oralsteroids as before.
+In the early postoperative period following the second surgery,
+the patient again noted a signi ﬁcant improvement in low
+luminance and navigational vision. However, at 2 weeks post-surgery, he reported a sharp decrease in central vision. At this
+point, VA of the right eye had dropped from 0.6 preoperatively to
+hand movements. OCT showed signi ﬁcant cystoid macular
+oedema, worse than in the left eye. Oral prednisolone, which
+would have been stopped at 2 weeks post-surgery, was increased
+to 40 mg and continued on a tapering dose for another 4 weeks.The macular oedema of the right eye completely resolved by6 weeks after surgery and the VA, although showing some
+improvement, remained considerably lower at 1.2 compared to
+preoperative levels of 0.6. By now, OCT showed complete loss ofthe ellipsoid zone (EZ) localised to the fovea, and not the entiresurgical bleb size (Fig. 3). EZ is linked to photoreceptor layer
+integrity and is a marker of central visual function. Foveal EZ loss is
+a previously unreported adverse effect of gene therapy.
+At the 3-month follow-up after the second eye ’s surgery, the
+patient underwent further tests. Low luminance VA showed
+Fig. 1 Fundus picture of the patient. Retinal vascular attenuation and pigmentary changes with bone spicule-like pigment deposition.
+Pre-surgery Two-weeks post-surgery
+Three-months post-surgery Six-months post-surgery
+Fig. 2 OCT of the left eye. Marked cystoid macular oedema at
+2 weeks which settled with oral steroids, and no change in thecentral ellipsoid zone as shown by subsequent scans.
+Pre-surgery Two-weeks post-surgery
+Three-months post-surgery Six-months post-surgery
+Fig. 3 OCT of the right eye. Marked cystoid macular oedema at
+2 weeks which settled with oral steroids, but resulted in permanentloss of central ellipsoid zone as shown by subsequent scans.A. Jalil et al.
+1875
+Eye (2023) 37:1874 – 1877signi ﬁcant improvement in the left eye of 0.2 log units at 85 cd m2
+and by 0.45 at 5.4 cd m2. Furthermore, the patient could now see
+the mesopic (0.35 cd m−2) chart, with VA of 1.32. The right eye, as
+expected, showed reduced central acuity. FST showed marked
+improvement in scotopic sensitivity, by a factor of 10 (one log
+unit) in the right eye and by a factor of 16 (1.2 log unit) in the lefteye (Fig. 2). Hence there was improvement in rod photoreceptor-
+mediated retinal sensitivity in both eyes, with improvement of VA
+in the left eye as well, but reduction in central vision in the right
+eye due to loss of foveal photoreceptors.
+Further follow up at 6 months, 1 year and 2 years showed stable
+vision of 1.2 logMAR in the right and 0.7 logMAR in the left eye.
+FST improvements were maintained in both eyes indicating a
+sustained ef ﬁcacy of VN with little waning of its effect (Fig. 4).
+DISCUSSION
+In 1972, Theodore Friedman and Richard Roblin laid thefoundation of gene therapy in their ground-breaking article in
+the journal Science, writing: ‘In our view, gene therapy may
+ameliorate some human genetic diseases in the future ’[9]. There
+was slow progress in this ﬁeld until 2017, when interest in gene
+therapy suddenly exploded, with US FDA approving three gene
+therapy products including VN, the ﬁrst approved gene therapy
+treatment for patients with IRD caused by biallelic RPE65mutation.
+VN, being a subretinal gene therapy requires a surgical
+procedure (vitrectomy) and subretinal injection for administration.Safety and ef ﬁcacy of VN and its route of administration have
+been studied in 40 patients in the phase 1 follow-on and phase
+3 studies [ 10]. The safety pro ﬁle of the drug was considered to be
+consistent with vitrectomy and the subretinal injection procedure.Twenty-seven patients (68%) had ocular treatment-emergentadverse events, mostly mild. Two serious ocular adverse events
+occurred resulting in irreversible visual loss, both attributable to
+the surgical procedure: one patient had macular atrophy and theother developed endophthalmitis and increased intraocularpressure leading to optic atrophy. Three patients (7.5%) had
+ocular in ﬂammation which settled without any sequelae. There
+were no drug-related serious adverse events or severe immuneresponses.
+Since the original trials, the real-world data on the ef ﬁcacy and
+safety of VN is gradually trickling in ref. [ 11], and a post-
+authorisation multi-centre study, PERCEIVE, collecting safety datafor 5 years after treatment with VN, is currently underway. In this
+backdrop, we present our unique case which shows the success
+and risks of retinal gene therapy in the same patient.
+Theﬁrst eye of our patient shows an excellent outcome in all
+visual parameters following treatment with VN. IRD due to RPE65
+mutation is rod-mediated, so VA is not a true marker of diseaseprogression. FST is a sensitive global measure of dark-adaptedsensitivity to light and hence photoreceptor function. In addition,
+it correlates well with navigation under dim illumination [ 10].
+There was a signi ﬁcant improvement in FST in the left eye in our
+patient by a factor of 16, which corresponded with the subjectiveimprovement noted by the patient and was also re ﬂected in low-
+luminance VA gains. Furthermore, photopic VA, which is a foveal
+cone-mediated function, improved by 0.2 logMAR units. This maybe a secondary consequence of improved cone health due to
+RPE65 gene augmentation. OCT revealed mild in ﬂammatory
+macular oedema 2 weeks after surgery; this spared the photo-receptor layer. This could have been a postoperative in ﬂammatory
+response to the surgery, which normally develops later. As
+subsequent events showed, it is more likely that this was an
+immune response to the drug. This is in contrast to the type-1 cell-mediated effector immunity response that has been previouslyimplicated with subretinal gene therapy in murine eyes [ 12], Either
+way, a temporary increase in oral steroids immediately settled the
+macular oedema and the photoreceptor layer at the fovearemained unaffected. The improvement in visual function in this
+eye was sustained at 2 years of follow-up, an outcome clearly
+indicating the vast potential of gene therapy in IRD.
+Whilst progress was initially similar, the second eye followed a
+different trajectory. The patient noticed improvement in light
+sensitivity, which was picked up by the FST, but at 2 weeks post-
+surgery noticed a signi ﬁcant fall in VA. There was marked macular
+oedema coming up to the EZ, showing the involvement ofphotoreceptors. The macular oedema responded to an immediate
+increase in oral steroids, but by the time the retinal layers settled,
+there was loss of foveal photoreceptors. The fact that the macular
+oedema was worse in the second eye indicates previous immunesensitisation, and it was steroid-responsive, both factors pointing
+to an immune-mediated aetiology. This resulted in loss of central
+foveal function. Such a complication of VN treatment has not beenreported before. Although mechanical damage to the other
+segment resulting from surgical retinal detachment is well
+recognised [ 13], this is typically time dependent [ 14] and unlikely
+to cause the structural changes observed on the OCT after such a0 100 200 300 400 500 600 7000.00.10.20.30.40.50.60.70.80.91.0R
+ LLog CS
+Day0 100 200 300 400 500 600 7001.81.61.41.21.00.80.60.4 85R
+ 85L
+5.4R
+ 5.4L
+ 0.35R
+ 0.35LLogMAR
+Day0 100 200 300 400 500 600 7000-2-4-6-8-10-12-14-16-18R
+ LThreshold (dB)
+Day
+Fig. 4 Baseline and post-surgical measures of visual function. Dates of surgery are indicated with red (right eye) and green (left eye)
+triangles. aContrast sensitivity measured using a Pelli-Robson chart at 1 m distance under photopic (85 cd m−2) illumination. bDistance-
+corrected LogMAR VA measured at 1 m on a 3 m EDTRS chart under photopic (85 cd m−2), low photopic (5.4 cd m−2) and mesopic
+(0.35 cd m−2) illumination using neutral density ﬁlters. Patient could not see the mesopic chart with the right eye at any time. cFST thresholds
+in dB where 0 dB =0.01 cd s m−2and 1 dB =0.1 log units.A. Jalil et al.
+1876
+Eye (2023) 37:1874 – 1877short duration of detachment necessary to administer the VN.
+Additionally, the loss of ellipsoid zone was localised to the fovea,
+rather than the whole retina that was detached in the
+surgical bleb.
+Severe immune responses have always been a danger with
+retinal gene therapy and thus the original trials used a
+perioperative immunomodulatory regimen. The vector was
+optimised to remove the empty capsids from the ﬁnal product
+[7]. The surgical technique which we used was completely
+according to protocol and had innovations to reduce the risk of
+vector-related adverse events. VN was administered subretinally
+through a single 41-gauge retinotomy to reduce the egress of thedrug into the vitreous cavity, a further vitrectomy was done afterdrug administration to remove escaped capsids, and all vitreous
+ﬂuid was removed at the end by carrying out a ﬂuid-air exchange.
+Despite all this, loss of foveal photoreceptors due to a presumedimmune response was detected. One option in such cases may be
+the use of increased immunomodulation for the second eye by a
+higher and more prolonged course of oral steroids if aninﬂammatory response is seen in the ﬁrst eye.
+Our case is unique in that it highlights the potential and pitfalls
+of retinal gene therapy in the same patient. The future is
+promising but challenges remain, especially the immuneresponses of the body to a ‘foreign vector ’. As further evidence
+comes in and more gene-based therapies become available, we
+willﬁnd better and safer ways to deliver gene therapy, whilst
+minimising the associated risks, in our pursuit of ﬁnding the
+ultimate cure for hereditary diseases.
+Summary
+What was known before
+●Immune response to the body as a ‘foreign vector ’,i sa
+signi ﬁcant challenge in gene therapy.
+●Voretigene neparvovec (VN) is a gene therapeutic agent for
+treatment of retinal dystrophies caused by bi-allelic RPE65
+mutations.
+What this study adds
+●We present a previously unreported adverse complication of
+subretinal VN therapy in bi-allelic RPE65, indicating a probable
+immune response in treatment of the second eye, resulting inloss of foveal photoreceptors.
+●This case highlights the bene ﬁt and pitfalls of retinal gene
+therapy in the same patient.
+DATA AVAILABILITY
+The raw data are available upon reasonable request.
+REFERENCES
+1. RetNet. Summaries of genes and loci causing retinal diseases. 2016. https://
+sph.uth.edu/retnet/sum-dis.htm . Accessed 10 Apr 2017.
+2. Thompson DA, Gyürüs P, Fleischer LL, Bingham EL, McHenry CL, Apfelstedt-Sylla
+E, et al. Genetics and phenotypes of RPE65 mutations in inherited retinaldegeneration. Investig Ophthalmol Vis Sci. 2000;41:4293 –9.
+3. den Hollander AI, Roepman R, Koenekoop RK, Cremers FPM. Leber congenital
+amaurosis: genes, proteins and disease mechanisms. Prog Retinal Eye Res.2008;27:391 –419.
+4. Cideciyan AV. Leber congenital amaurosis due to RPE65 mutations and its
+treatment with gene therapy. Prog Retinal Eye Res. 2010;29:398 –427.5. Maguire AM, High KA, Auricchio A, Wright JF, Pierce EA, Testa F, et al. Age-
+dependent effects of RPE65 gene therapy for Leber ’s congenital amaurosis: a
+phase 1 dose-escalation trial. Lancet. 2009;374:1597 –605.
+6. Bennett J, Wellman J, Marshall KA, McCague S, Ashtari M, DiStefano-Pappas J,
+et al. Safety and durability of effect of contralateral-eye administration of AAV2
+gene therapy in patients with childhood-onset blindness caused by RPE65mutations: a follow-on phase 1 trial. Lancet. 2016;388:661 –72.
+7. Russell S, Bennett J, Wellman JA, Chung DC, Yu ZF, Tillman A, et al. Ef ﬁcacy and
+safety of voretigene neparvovec (AAV2-hRPE65v2) in patients with RPE65-mediated inherited retinal dystrophy: a randomised, controlled, open-label,
+phase 3 trial. Lancet. 2017;390:849 –60.
+8. National Institute for Health and Care Excellence; Voretigene neparvovec for
+treating inherited retinal dystrophies caused by RPE65 gene mutations. NationalInstitute for Health and Care Excellence. 2019.
+9. Friedmann T, Roblin R. Gene therapy for human genetic disease? Science.
+1972;175:949 –55.
+10. Maguire AM, Russell S, Wellman JA, Chung DC, Yu ZF, Tillman A, et al. Ef ﬁcacy,
+safety, and durability of voretigene neparvovec-rzyl in RPE65mutation –associated inherited retinal dystrophy: results of phase 1 and 3 trials.
+Ophthalmology. 2019;126:1273 –85.
+11. Deng C, Zhao PY, Branham K, Schlegel D, Fahim AT, Jayasundera TK, et al. Real-
+world outcomes of voretigene neparvovec treatment in pediatric patients withRPE65-associated Leber congenital amaurosis. Graefe ’s Arch Clin Exp Ophthal-
+mol. 2022;260:1543 –50.
+12. Chandler LC, McClements ME, Yusuf IH, Martinez-Fernandez de la Camara C,
+MacLaren RE, Xue K. Characterizing the ce llular immune response to subretinal AAV
+gene therapy in the murine retina. Mol Ther Methods Clin Dev. 2021;22:52 –65.
+13. Ghazi NG, Green WR. Pathology and pathogenesis of retinal detachment. Eye.
+2002;16:411 –21.https://www.nature.com/articles/6700197 . Accessed 15 May 2022.
+14. Guerin CJ, Anderson DH, Fariss RN, Fisher SK. Retinal reattachment of the primate
+macula. Photoreceptor recovery after short-term detachment. Investig Ophthal-mol Vis Sci. 1989;30:1708 –25.
+AUTHOR CONTRIBUTIONS
+All authors have made substantial contributions to the following: (1) the conception
+and design of the study, or acquisition of data, or analysis and interpretation of data,
+(2) drafting the article or revising it critically for important intellectual content, (3)ﬁnal approval of the version to be submitted.
+COMPETING INTERESTS
+The authors declare no competing interests.
+ETHICS STATEMENT
+As this was a retrospective anonymized study, as per our local protocol from our
+Clinical Effectiveness Department, and as per national guidelines from the National
+Code of Clinical Research, and the Health Research Authority (HRA), this study has
+ethical approval exemption and no patient consent was required for participation. Allprocedures were completed prior to the design of this study. Patients werediagnosed and treated according to local guidelines and agreements and writtenconsent from patients was acquired prior to all procedures as clinically indicated. Thisstudy does not report on the use of new or experimental protocols.
+ADDITIONAL INFORMATION
+Correspondence and requests for materials should be addressed to Assad Jalil.
+Reprints and permission information is available at http://www.nature.com/
+reprints
+Publisher ’s note Springer Nature remains neutral with regard to jurisdictional claims
+in published maps and institutional af ﬁliations.
+Springer Nature or its licensor holds exclusive rights to this article under a publishing
+agreement with the author(s) or other rightsholder(s); author self-archiving of theaccepted manuscript version of this article is solely governed by the terms of suchpublishing agreement and applicable law.A. Jalil et al.
+1877
+Eye (2023) 37:1874 – 1877

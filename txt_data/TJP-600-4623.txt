@@ -1,0 +1,885 @@
+J Physiol 600.21 (2022) pp 4623–4632 4623The Journal of PhysiologyREVIEW-SYMPOSIUM
+Optogenetic approaches to therapy for inherited
+retinal degenerations
+SamanthaR.DeSilva1,2,3andAnthonyT.Moore2,4
+1OxfordEyeHospital,Oxford,UK
+2UCLInstituteofOphthalmology,London,UK
+3NuffieldDepartmentofClinicalNeurosciences,UniversityofOxford,Oxford,UK
+4OphthalmologyDepartment,UniversityofCalifornia,SanFrancisco,CA,USA
+HandlingEditors:LauraBennet&OmarMahroo
+ThepeerreviewhistoryisavailableintheSupportinginformationsectionofthisarticle
+(https://doi.org/10.1113/JP282076#support-information-section).
+Abstract Inheritedretinaldegenerationssuchasretinitispigmentosa(RP)affectaroundonein
+4000 people and are the leading cause of blindness in working age adults in several countries.
+In these typically monogenic conditions, there is progressive degeneration of photoreceptors;
+however ,innerretinalneuronssuchasbipolarcellsandganglioncellsremainlargelystructurally
+intact, even in end-stage disease. Therapeutic approaches aiming to stimulate these residual
+cells, independent of the underlying genetic cause, could potentially restore visual function in
+Samantha de Silva is a consultant ophthalmologist at the Oxford Eye Hospital and honorary research
+associate at the University of Oxford and UCL Institute of Ophthalmology. After graduating from
+the Universities of Cambridge and Oxford, she was awarded a Wellcome Trust fellowship and under-
+took prize-winning research into optogenetic gene therapy. This was followed by two subspecialist
+f e l l o w s h i p si ni n h e r i t e dr e t i n a ld i s e a s e sa tt h eO x f o r dE y eH o s p i t a la n dM o o r fi e l d sE y eH o s p i t a l .
+Anthony Moore is an Emeritus Professor of ophthalmology at UCSF School of Medicine, having pre-
+viouslyheldtheMichelVilenskiEndowedChairinOphthalmologyatUCSF.BeforemovingtoUCSFin
+2014,heheldtheDuke-ElderChairtheUCLInstituteofOphthalmology,London.Hewaspreviouslylead
+of the inherited eye disease service at Moorfields Eye Hospital. His clinical and research interests are in
+inheritedeyedisease,particularlythoseaffectingtheretina.HewaselectedtotheUKAcademyofMedicalSciencesin2005.
+ThisreviewwaspresentedatthePhysiology2021symposium‘PhotoreceptorsinHealthandMonogenicDisease:AdvancesinUnderstandingPhysio-
+logyandTreatingPathophysiology’on16July2021,organisedbyDrOmarMahroo,UCLInstituteofOphthalmology,UK
+© 2022 The Authors. The Journal of Physiology published by John Wiley & Sons Ltd on behalf of The Physiological Society. DOI: 10.1113/JP282076
+This is an open access article under the terms of the Creative Commons Attribution License, which permits use, distribution
+and reproduction in any medium, provided the original work is properly cited.4624 S. R. De Silva and A. T. Moore J Physiol 600.21
+patients with advanced vision loss, and benefit many more patients than therapies directed at
+the specific gene implicated in each disorder. One approach investigated for this purpose is that
+of optogenetics, a method of neuromodulation that utilises light to activate neurons engineered
+to ectopically express a light-sensitive protein. Using gene therapy via adeno-associated viral
+vectors, a range of photosensitive proteins have been expressed in remaining retinal cells in
+advancedretinaldegenerationwith in vivostudiesdemonstratingrestorationofvisual function.
+Developinganeffectiveoptogeneticstrategyrequiresconsiderationofmultiplefactors,including
+the light-sensitive protein that is used, the vector and method for gene delivery, and the target
+cell for expression because these in turn may affect the quality of vision that can be restored.
+Currently,atleastfourclinicaltrialsareongoingtoinvestigateoptogenetictherapiesinpatients,
+withtheultimateaimofreversingvisuallossinend-stagedisease.
+(Received7March2022;acceptedafterrevision18July2022;firstpublishedonline31July2022)
+Correspondingauthor S. de Silva: Nuffield Department of Clinical Neurosciences, Level 6 West Wing, John Radcliffe
+Hospital,Headleyway,Headington,OxfordOX39DU,UK. Email:samantha.desilva@ndcn.ox.ac.uk
+Abstract figure legend . Optogenetic approaches for vision restoration in end-stage retinal degeneration. In inherited
+retinal degenerations, there is progressive loss of photoreceptors (rods and cones) but inner retinal structures remain
+largely intact. Optogenetic strategies aim to induce light sensitivity in remaining retinal cells using gene therapy,
+via ectopic expression of an opsin gene. The most widely investigated approach uses retinal transduction via an
+adeno-associated virus injected either into the subretinal space or via intravitreal injection, with the aim of vision
+restoration(GC,ganglioncell;BC,bipolarcell;AC,amacrinecell;HC,horizontalcell;RC,residualcones;RPE,retinal
+pigmentepithelium).
+Introduction
+The inherited retinal degenerations are a heterogeneous
+group of disorders that result in photoreceptor cell
+dysfunction and cell death, leading to severe visual
+impairment. They affect around one in 4000 people and,
+with rare exceptions, there are no effective therapies
+(Verbakeletal.,2018).Theymaybeinheritedasanauto-
+somaldominant,autosomalrecessiveorX-linkedtraitand
+somerareformsareassociatedwithmutationsinmDNA.
+Although most of these diseases are confined to the eye,
+some are associated with systemic features, when the
+causativegeneisexpressedinseveraldifferentextraocular
+tissues. Interestingly some mutations in ubiquitously
+expressedgenescangiverisetoaretinaonlyphenotype.
+More than 250 different causative genes have been
+identified (https://sph.uth.edu/retnet/sum-dis.htm) and
+this great heterogeneity has complicated attempts to
+develop effective treatment. Many different approaches
+have been tried, including the use of gene targeted
+therapies,neuroprotectiveagents,optogenetics,celltrans-
+plantation, stem cell therapy and retinal implants (Dias
+et al., 2018). Gene targeted therapies rely on a precise
+moleculargeneticdiagnosisandgenerallywillbeeffective
+only for the gene of interest, with some approaches
+utilizing CRISPR or antisense oligonucleotides targeting
+only a specific mutation (Nuzbrokh et al., 2021). For
+a disorder caused by more than 250 genes and with
+muchallelicheterogeneity,suchtargetedapproacheshaveseriouslimitations.Furthermore,gene-basedtherapiesare
+probably effective early in the disease when significant
+numbersofviablephotoreceptorsarestillpresentandare
+probably less effective in advanced disease when there
+is extensive photoreceptor cell death or photoreceptor
+structure has been lost. However, many patients have
+severe disease at presentation and, given that there has
+beenlittleeffectivetherapytodate,therearemanypatients
+withlate-stagedisease.
+Significantly more patients could be helped by the
+development of treatments that are less influenced by
+the specific genetic cause and which could still work
+in late-stage disease to restore visual function. Evidence
+from animal models (Mazzoni et al., 2008) and human
+post-mortem specimens (Humayun et al., 1999; Santos
+et al., 1997) indicates relative preservation of inner
+retinal structures and circuitry even in advanced stages
+of inherited retinal degeneration. Several gene agnostic
+approaches have been investigated for the purpose of
+vision restoration, including cell transplantation, stem
+cell therapy, retinal implants and optogenetics. Each
+has reached the stage of clinical trials after extensive
+preclinical studies. Cell transplantation and stem cell
+therapy aim to support residual viable photoreceptors
+and develop new populations of light sensitive cells. By
+contrast, optogenetic approaches and retinal implants
+bypass host photoreceptors to stimulate remaining inner
+retinal neurons and post-receptoral pathways. The latter
+comprise arrays of electrodes or photodiodes that are
+© 2022 The Authors. The Journal of Physiology published by John Wiley & Sons Ltd on behalf of The Physiological Society.J Physiol 600.21 Optogenetics for inherited retinal degenerations 4625
+surgically implanted in the subretinal space or on
+the surface of the retina permitting direct electrical
+stimulation of second- or third-order retinal neurons
+(Bloch et al., 2019; Gekeler et al., 2018). This symposium
+reviewwillfocusonattemptstouseoptogeneticstorestore
+sightinlate-stageretinaldegenerations.
+Optogenetics
+Optogenetics is a method of neuromodulation that has
+wide applicability in neuroscience. It involves the use of
+lighttoactivateapopulationofcellsmadephotosensitive
+via ectopic expression of an opsin protein (Zemelman
+et al., 2002). The first reports utilised the expression of a
+combinationof Drosophila photoreceptorgenestoinduce
+lightsensitivityinmammalianneurones(Zemelmanetal.,
+2002) and several other optogenetic tools have sub-
+sequently been developed. Given that the conversion of
+light to electrical activity occurs in the eye when light
+triggersphototransductioninrodsandcones,anintuitive
+application of optogenetic techniques is to induce light
+sensitivityintheremaininginnerretinalcellsinend-stage
+photoreceptordegenerationstorestorevision.Developing
+an effective optogenetic approach requires consideration
+of multiple factors, including the characteristics of the
+light-sensitive protein used, the vector for gene delivery
+andthetargetcellforexpression.
+Optogenetic tools
+Arangeofphotosensitiveproteinshavebeeninvestigated
+asoptogenetictoolsincludingmicrobialandmammalian
+opsins,aswellaschimericandengineeredproteins.These
+vary in their sensitivity to light, wavelength of light
+ca usingpeakstim ula tio n,r espo nsekineticsa ndpo ten tial
+tocauseanimmuneresponsewhenectopicallyexpressed
+inthehumaneye.Theseproteinscanbebroadlygrouped
+into ion channels or ion pumps and G-protein coupled
+receptors.
+Ion channels
+The use of light-gated ion channels or pumps is
+advantageous for the purpose of vision restoration
+because these do not require the presence of proteins
+involved in a signalling cascade that may be absent,
+or reduced, in advanced retinal degeneration.
+Channelrhodopsin-2 (ChR2) is a rhodopsin with a
+microbial-type chromophore that was originally isolated
+from the green alga Chlamydomonas reinhardtii (Nagel
+et al., 2003; Sineshchekov et al., 2002). ChR2 is itself a
+light-sensitive cation channel: incident light isomerises
+itsall-transchromophore into 13- cisretinal inducing a
+conformational change in ChR2, allowing cations intothecellleadingtodepolarisation(Nageletal.,2003).This
+responseisrapidwithanonsetoflessthan50 μsafterlight
+exposure(Hollandetal.,1996),makingChR2well-suited
+for use as an optogenetic tool. ChR2 responds to light
+of wavelength under 540 nm, with a peak sensitivity of
+450 nm (Nagel et al., 2003), which is in the blue light
+spectrum.
+A disadvantage of ChR2 is the high stimulus intensity
+required to obtain a response compared to rhodopsin or
+coneopsins(1015photonscm–2s–1required forChR2 vs.
+1010photonscm–2s–1forconesand106photonscm–2s–1
+forrods) (Bi et al., 2006; Lagali et al., 2008)and this high
+intensity of blue light may be damaging to the retina.
+Another potential limitation is range: healthy photo-
+receptors are able to respond to light intensities spanning
+8logunits,whereasChR2responsesareseenovera2log
+unitrange(Lagalietal.,2008).Therefore,animageorlight
+processingdevicemayberequiredtoamplifydimlight,or
+attenuateveryhighintensitylightforoptimalstimulation
+ofChR2.
+Given these limitations, engineered variants of ChR
+have been developed such as calcium translocating
+channelrhodopsin(orCatCh),whichhasimprovedlight
+sensitivityandkineticscomparedtoChR(Kleinlogeletal.,
+2011).Othernative(e.g.ChrimsonR)andengineeredChR
+(e.g. red-light activated depolarizing ChR or ReaChR)
+have peak sensitivity in the red light spectrum, and high
+lightintensitiesofthesewavelengthsmaybelessdamaging
+to the retina than similar intensities of blue light. Studies
+have also explored the use of an engineered light-gated
+ionotropic glutamate receptor (LiGluR). This bears a
+mutated cysteine residue, to which a photo switchable
+tethered ligand can bind. Incident light of 380 nm causes
+isomerisation of the photo switch and opening of the ion
+channel,and500nmlightresultsinclosingofthechannel.
+Expression of this optogenetic tool in murine degenerate
+retinaresultedinrestorationofvisualresponses(Caporale
+et al., 2011) and a second-generation ligand activated at
+460 nm has also shown similar efficacy in mice and dogs
+(Gaubetal.,2014).
+Ion pumps
+Halorhodopsin (NpHR) is a light-sensitive chloride
+ion pump derived from Natronomonas pharaonis
+halobacteria (Zhang et al., 2007). Light stimulation of
+NpHR causes hyperpolarisation of the cell (similar to
+the response of photoreceptors in the physiological
+state) and its peak sensitivity is to a wavelength of
+590 nm. Given its very fast activation and de-activation
+kinetics (Han & Boyden, 2007), halorhodopsin has
+good temporal characteristics for therapeutic use. An
+enhanced variant (eNpHR) has also been developed that
+permitshigherexpressionlevelswithoutinducingtoxicity
+© 2022 The Authors. The Journal of Physiology published by John Wiley & Sons Ltd on behalf of The Physiological Society.4626 S. R. De Silva and A. T. Moore J Physiol 600.21
+(Gradinaru et al., 2008). However, the stimulus intensity
+required to obtain a light response is even higher than
+that for ChR2 (1016photons cm–2s–1) (Busskamp et al.,
+2010). Other ion pumps have also been investigated
+such as the yellow–green light sensitive proton pump
+archaerhodopsin or Arch (Chow et al., 2010), activation
+ofwhichleadstoneuronalsilencing.AfurthertoolisJaws,
+a red shifted cruxhalorhodopsin, which showed greater
+light sensitivity and ganglion cell spiking compared to
+other hyperpolarising ion pumps following expression in
+residual cone photoreceptors in a mouse model of retinal
+degeneration(Chuongetal.,2014).
+G-protein coupled receptors
+Rhodopsin and cone opsins are found natively in rod
+and cone photoceptors respectively and activation
+of each leads to cell hyperpolarisation. They are
+G-protein coupled, and this has the significant advantage
+of permitting signal amplification. For example, a
+single activated rhodopsin interacts with more than
+800 molecules of its G-protein transducin, resulting
+in the closure of more than 200 ion channels in the
+photoreceptor outer segment disc membrane, from the
+absorptionofonephotonalone(Purvesetal.,2001).This
+signalamplificationmeansthatG-proteincoupledopsins
+are sensitive to lower light intensities than ion channels,
+and therefore could function as optogenetic tools (Berry
+et al., 2019; Cehajic-Kapetanovic et al., 2015) without
+the need for modification of the light stimulus required
+by ChR2 and NpHR. In addition, ectopic expression of
+these native proteins has a lower probability of incurringan immune response when injected into the eye than
+microbialopsins.
+A further mammalian opsin, melanopsin, has also
+been investigated, which is present in a subset of
+mammalian cells named intrinsically photosensitive
+ganglion cells. Melanopsin is also G-protein coupled
+and photoisomerisation of 11- cisretinal results in
+activation downstream signalling cascade causing cell
+depolarisation, with responses in the physiological
+light range (De Silva et al., 2017; Lin et al., 2008). It
+may also be capable of coupling to ubiquitous cell
+signalling pathways (Hankins et al., 2008) and therefore
+probably functional when introduced into a new cell
+t y p e .H o w e v e r ,am a j o rd i s a d v a n t a g eo fm e l a n o p s i ni si t s
+slow kinetics compared to ChR2 and NpHR (Do et al.,
+2009)becauseitsresponsedurationisabout20timesthat
+ofmouserods.
+To leverage the advantage offered by G-protein
+c o u p l e dr e c e p t o r s ,e n g i n e e r e dp r o t e i n sh a v ea l s ob e e n
+developed such as a chimera comprising domains of the
+metabotropic glutamate receptor mGluR6 (found in ON
+bipolar cells) and melanopsin (Opto-mGluR6) (van Wyk
+et al., 2015) and a photo switch activated metabotropic
+glutamatereceptor2(mGluR2)(Berryetal.,2017).
+Target retinal cells
+Animportantconsiderationindevelopinganoptogenetic
+approach is whether to target expression of the photo-
+sensitive protein to a specific retinal cell type or adopt a
+ubiquitous approach, where the light-sensitive protein is
+expressed in as wide a range of cells as possible (Fig. 1).
+Figure 1. Optogenetic approaches in advanced retinal degeneration
+Schematic illustrating residual cells in advanced retinal degeneration, showing opsin proteins explored as
+optogenetic therapies and retinal cells targeted, via gene therapy delivered by intravitreal injection and subretinal
+injection. GC, ganglion cell; BC, bipolar cell; AC, amacrine cell; HC, horizontal cell; RC, residual cones; RPE, retinal
+pigment epithelium.
+© 2022 The Authors. The Journal of Physiology published by John Wiley & Sons Ltd on behalf of The Physiological Society.J Physiol 600.21 Optogenetics for inherited retinal degenerations 4627
+The latter has been widely investigated subsequent to
+t h efi r s ts t u d yd e m o n s t r a t i n ge ffi c a c yu s i n gu b i q u i t o u s
+expression of ChR2 in a mouse model of retina
+degeneration (Bi et al., 2006); multiple other studies
+have also demonstrated similar efficacy (Dalkara et al.,
+2013; De Silva et al., 2017; Lin et al., 2008; Tomita et al.,
+2007). The rationale here is that the mixed visual signal
+is interpreted via cortical processing, as is presumed to
+b et h ec a s ew i t hr e t i n a li m p l a n t st h a th a v ea l s os h o w n
+efficacy despite stimulating multiple retinal cell types
+(Millsetal.,2017).
+However, widespread expression of a light sensitive
+protein in remaining retinal cells runs the potential risk
+ofalossofsignalprocessing,limitingthequalityofvision
+thatcouldberestored.Humanretinalcircuitryiscomplex:
+cones synapse with 10 types of bipolar cell (ON and
+OFF subtypes) and rods with one (ON subtype, the most
+commonbipolarcelltypeintheretina).Thismultiplicity
+of connections allows for image processing and the
+creationofONandOFFpathways,wherealightstimulus
+excites one population of cells and inhibits another.
+Theseconnectionsarefurthermodifiedbyhorizontalcells
+to mediate contrast sensitivity. Cone ON bipolar cells
+synapse with ON ganglion cells, and OFF bipolar cells
+synapse with OFF ganglion cells, respectively. Rod ON
+bipolar cells synapse with amacrine cells, which in turn
+provide inhibitory input to OFF ganglion cells. There are
+atleast25typesofamacrinecellandmorethan17typesof
+ganglioncellintheprimateretina,withvaryingfunctions
+that facilitate our complex visual responses (Grunert &
+Martin,2020).
+Some optogenetic strategies therefore aim to pre-
+serve as much signal processing as possible within
+the retina, by targeting the most upstream remaining
+cells (e.g. bipolar cells or residual cones) to more
+closely mimic the retinal circuitry that is normally
+stimulated by light. In vivostudies using murine models
+of retinal degeneration have demonstrated successful
+targeting of eNpHR to hyperpololarise residual cones
+(Busskamp et al., 2010) and ChR2 to depolarise ON
+bipolar cells (Doroudchi et al., 2011; Lagali et al., 2008).
+However, hyperpolarising opsins (e.g. rhodopsin) have
+been also been selectively expressed in ON bipolar cells
+in mouse models with restoration of visual responses
+(Cehajic-Kapetanovic et al., 2015). Precisely how the
+visual signal would be interpreted in the latter situation
+is unclear, given reversal of polarity, although there is
+evidence to suggest that visual responses were mediated
+via light-dependent disinhibition of ganglion cell firing
+(Cehajic-Kapetanovic et al., 2015). Alternative strategies
+specifically target the ganglion cell (Berry et al., 2019;
+Sengupta et al., 2016) because this cell type is pre-
+served even in end-stage disease, but again compromise
+on bypassing the signal processing capacity within
+theretina.Delivery of optogenetic agents to the retina
+The most widely investigated approach for delivery
+of the opsin protein to cells of the degenerate retina
+is via gene therapy vectors such as adeno-associated
+viral vectors (AAV). These vectors have been used in
+human gene supplementation therapy clinical trials and
+in a Food and Drug Administration and European
+Medicines Agency approved retinal gene replacement
+therapy named voretigene neparvovec (Luxturna), for an
+early-onset, severe retinal degeneration (as a result of
+biallelicvariantsin RPE65)(Maguireetal.,2019).AAVare
+single-strandedDNAparvovirusesthatarenotassociated
+with pathogenicity in humans, and have a genome of
+∼4.7 kb consisting of two genes on either side of which
+lies a palindromic region known as an inverted terminal
+repeat (ITR). These native genes can be replaced with a
+transgeneofinterestandregulatoryelements,suchasthe
+coding sequence of an opsin gene. A limitation of AAV
+gene therapy is the size of genetic material than can be
+packaged within the AAV capsid, which is under 5 kb.
+However, given that opsin genes are comparatively small,
+this limited packaging capacity does not significantly
+impactoptogeneticgenetherapyapproaches.
+The AAV vector can be further altered to influence
+efficacyofexpressionandtargetcelltypebymodifyingits
+capsid and promoter sequence amongst other elements.
+More than 100 AAV serotypes have been described
+(Lebherz et al., 2008), of which AAV2, AAV3 and AAV5
+are endemic to humans (Gao et al., 2002). To increase
+transduction efficiency and change cellular tropism,
+vectors have been pseudotyped in which the ITRs of one
+serotype are packaged in the capsid of another serotype
+(Rabinowitz et al., 2002). For example, packaging AAV2
+ITRs in an AAV8 capsid (generating a rAAV2/8 vector)
+confers the safety and efficient expression of rAAV2 with
+thetropismofAAV8.rAAV2/2andrAAV2/8arebothable
+totransduceganglioncellsfollowingintravitrealinjection,
+and rAAV2/2, rAAV2/5 and rAAV2/8 are able to trans-
+ducephotoreceptors(Lebherzetal.,2008).
+Bipolar cells have been particularly difficult to target
+using AAV vectors, possibly as a result of viral particles
+being degraded within the retina before they access
+this layer. Modification of the capsid VP3 protein,
+specifically point mutation of tyrosine (Y) residues to
+phenylalanine (F), can significantly improve the ability
+of AAV to penetrate the retina and increase transgene
+expression (Zhong et al., 2008). A single mutation in
+rAAV2/8(Y733F) was demonstrated to result in bipolar
+celltransductioninthe rd10(Doroudchietal.,2011)and
+rd1mouse model of retinal degeneration (De Silva et al.,
+2016) and the rAAV2/2 quadruple and pentuple mutants
+are able to transduce bipolar cells when delivered either
+subretinallyorintravitreallyinwild-typemice(Petrs-Silva
+et al., 2011). A novel vector developed by targeted
+© 2022 The Authors. The Journal of Physiology published by John Wiley & Sons Ltd on behalf of The Physiological Society.4628 S. R. De Silva and A. T. Moore J Physiol 600.21
+mutagenesisoftheAAV8capsid,namedAAV2/8BP2has
+a l s os h o w ne ffi c a c yi nb i p o l a rc e l lt r a n s d u c t i o n( C r o n i n
+etal.,2014)
+Conventionally, the AAV vector has been delivered
+via subretinal injection to target outer retinal cells
+(e.g. residual photoreceptors or bipolar cells) and via
+intravitreal injection to target ganglion cells. Subretinal
+injectionissurgicallymorechallenging.Itisperformedin
+the operating theatre and requires intraocular surgery to
+remove the vitreous (vitrectomy), as well as penetration
+of the retina using a fine gauge needle followed by sub-
+retinal injection of the virus. There are associated small
+risks of retinal detachment, bleeding, infection (end-
+ophthalmitis), inflammation, raised intraocular pressure
+and developing cataract; however, this method allows for
+concentrated vector delivery to an area directly adjacent
+to the residual outer retina, and is the method of
+injectionfortheFoodandDrugAdministrationapproved
+Luxturna(Maguire etal.,2019).Intravitrealinjectionisa
+commonly performed procedure in clinical care and can
+be performed in a suitable room in a clinical setting. It
+involves direct injection through the sclera at the pars
+plana, with subsequent injection of the drug into the
+vitreous cavity. However, dilution of virions within the
+vitreouscavitymayreducetransduction.
+More recently, a directed evolution approach has been
+utilised to generate new AAV variants, by screening a
+library of capsid types generated in the laboratory and
+isolating the best AAV candidate. Using this approach,
+an AAV vector named 7m8 was identified that enabled
+transductionofphotoreceptors(Dalkaraetal.,2013)and
+bipolar cells (Mace et al., 2015) following intravitreal
+delivery in mouse retina, with transduction of primate
+retina also being demonstrated in the former study.
+However, compared with intravitreal vector delivery in
+mouse models where widespread retinal transduction is
+often seen, a much smaller area of retina seems to be
+transduced in primates, largely in the parafoveal region
+(Ivanova et al., 2010; Yin et al., 2011). This reduction
+is presumed to be the result of a thicker inner limiting
+membrane in primates forming a greater barrier to virus
+particles than in the murine retina. Novel AAV vectors
+suchas7m8doimprovetransductionintheprimateretina
+(Byrne et al., 2020; Dalkara et al., 2013), although this is
+stillnotaswidespreadasinmousemodels.
+Alongside modification of the AAV capsid protein,
+alterationofthepromotercanenabletargetingofdifferent
+cell populations. Many studies have used ubiquitous
+promoters to express the light sensitive protein in
+a wide range of retinal cells. An example of this
+is the CAG promoter [comprising a cytomegalovirus
+enhancer (C), chicken beta actin promoter (A) and
+splice acceptor of the rabbit beta globin gene (G)],
+which has been demonstrated to facilitate effective
+transduction of the degenerate retina (Bi et al., 2006;Dalkara et al., 2013; De Silva et al., 2017). Sub-
+sequently,cell-specificpromoterssuchas Grm6-SV40 (the
+grm6gene being that which encodes the metabotropic
+glutamate receptor associated with ON bipolar cells)
+have successfully targeted expression to ON bipolar cells
+(Cehajic-Kapetanovic et al., 2015; Doroudchi et al., 2011;
+Lagali et al., 2008). The combination of this promoter
+withnewerAAVcapsidtypesfurtherimprovesbipolarcell
+transduction (Mace et al., 2015) and modifications of the
+Grm6-SV40 promoter have also been investigated, either
+using multiple repeats or additional intronic sequences
+(Croninetal.,2014).Ganglioncellspecificpromoterssuch
+as thesynapsin-1 promoter (Berry et al., 2019; Sengupta
+etal.,2016)havebeenusedtoeffectivelytargetexpression
+inthesecelltypes.
+Clinical trials
+More than a decade of research into optogenetic
+approaches for vision restoration has led to at least four
+ongoing clinical trials in this area (https://clinicaltrials.
+gov/ct2/results?cond=&term=optogenetic&cntry=
+&state=&city=&dist=). The patients most suitable for
+thesetherapiesarethosewithadvancedvisualloss(visual
+acuity of hand movements or perception of light only)
+but with relatively intact inner retinal structures on
+optical coherence tomography (OCT) scans (Fig. 2).
+Primaryoutcomemeasuresoftheseclinicaltrialsinclude
+safety and tolerability, and secondary outcome measures
+include assessment of visual function such as perception
+of light, visual acuity, full field threshold stimulus test,
+determiningdirectionofmotion,identificationofobjects,
+evaluationofmobilityandqualityoflife.
+The first trial was led by RetroSense Therapeutics,
+now a part of Allergan, which began recruitment
+in 2015 (NCT02556736), investigating intravitreal
+delivery of ChR2 using an AAV2 vector in 14 patients.
+Few data have been released regarding outcomes:
+no serious adverse effects were reported, although
+one of 14 subjects was documented to have vitreal
+cells and one out of 14 subjects was documented to
+have vitritis; however, it is not clear whether these
+outcomes were noted in the same patient (https:
+//clinicaltrials.gov/ct2/show/results/NCT02556736?
+term=channelrhodopsin&draw=2&rank=3). A phase
+1/2a trial by GenSight Biologics named PIONEER
+(NCT03326336) commenced recruitment in 2017, and
+reported outcomes from the first patient in 2021 (Sahel
+et al., 2021). This study assessed intravitreal injection
+of an AAV2/7m8 vector, expressing a modified channel
+rhodopsin(ChrimsonR)underthecontrolofaubiquitous
+CAG promoter, in combination with a medical device
+incorporating light stimulating goggles. Patients were
+also given visual training using the goggles, beginning
+© 2022 The Authors. The Journal of Physiology published by John Wiley & Sons Ltd on behalf of The Physiological Society.J Physiol 600.21 Optogenetics for inherited retinal degenerations 4629
+4 months post-injection, to allow time for stabilisation
+of ChrimsonR in ganglion cells. The reported patient
+completed15suchsessionsand,7monthsafterinjection,
+showedanimprovementinvisualfunctionsuchthatthey
+were able to perceive, locate and touch different objects
+using their treated eye alone whilst wearing goggles.
+Electroencephalographic recordings demonstrated
+activity in the visual cortex corresponding to these
+objects and visual perception. The patient could not
+detect any objects without goggles (or with the goggles
+prior to injection), indicating the need for light stimulus
+augmentation using this optogenetic tool. There was
+no evidence of intraocular inflammation in this patient
+followingtreatment.
+Another clinical trial of optogenetic therapy uses
+an alternative channel rhodopsin named ChronosFP
+in combination with a prosthetic device (Bionic
+Sight LLC, NCT04278131). Further details regarding
+t h ev e c t o rh a v en o ty e tb e e nr e l e a s e d ,b u tp r e -
+liminary reports via a press release indicate that four
+patients were able to detect light and motion starting
+2–3monthsfollowingtreatmentwith‘nosafetyconcerns’
+reported (https://www.globenewswire.com/news-
+release/2021/03/30/2201412/0/en/First-Four-Patients-
+In-Bionic-Sight-s-Optogenetic-Gene-Therapy-Trial-
+Are-Able-To-Detect-Light-And-Motion.html). A fourth
+approach led by Nanoscope therapeutics investigates an
+intravitrealinjectionofanAAV2basedvectorexpressing
+a polychromatic opsin named multi-characteristic opsin
+(MCO)alone,thatiswithouttheuseofaretinalprosthetic
+device. A phase 1/2 dose escalation study of 11 patients
+has been completed (NCT04919473) and a press releaseon 1 year outcomes indicated an improvement in vision
+in all patients with regards to shape discrimination and
+mobility tests, with six out of seven patients in the high
+dosegroupreportedtodemonstrategainsinvisualacuity
+(https://eyewire.news/articles/nanoscopes-optogenetic-
+gene-therapy-restores-clinically-meaningful-vision-in-
+11-patients-blinded-by-retinitis-pigmentosa/?c4src=
+article:infinite-scroll). No safety concerns were reported.
+A phase 2 trial (NCT04945772) has now recruited 27
+patientsandfurtherdetailsofthesestudiesareawaited.
+Conclusions
+Optogenetic therapies are one of several approaches
+in clinical trials for restoration of visual responses in
+advanced retinal degeneration. They have the advantage
+of being independent of the underlying disease-causing
+gene, and multiple reports have now demonstrated proof
+of principle in animal models (McClements et al., 2020;
+Simunovic etal., 2019).The firstclinical trials areunder-
+way in patients, with initial reports indicating safety,
+improvedlightsensitivity,andtheabilitytodetectmotion
+andlargerobjects.
+However, several challenges remain, including the
+relativelylowlightsensitivitythatisafeatureofmanyion
+channelsorionpumpsusedasoptogenetictools,resulting
+in the need for augmentation of the light stimulus via
+gogglesorstimulatingglasses.Inaddition,achievinghigh
+levels of transduction in the primate or human retina
+remains a challenge, and the ability to target specific
+r e t i n a lc e l lt y p e s ,i na na t t e m p tt om i m i cn o r m a lr e t i n a l
+AB
+Figure 2. Optical coherence tomography (OCT) in advanced inherited retinal degeneration
+OCTimagingmeasuresreflectivityoflow-coherencelighttodelineateretinallayers.Imagesshownareofahealthy
+retina ( A) and from a patient with hand movements vision secondary to advanced retinal degeneration due to
+pathogenic variants in the MERTKgene ( B). In the latter, inner retinal structures are largely intact. There is a small
+areaofresidualONL(photoreceptorcellbodies)in( B),althoughthespecialisedinnerandoutersegmentsallowing
+phototransduction represented by the EZ have degenerated. Retinal layers: RPE, retinal pigment epithelium; EZ,
+ellipsoid zone (photoreceptor inner/outer segment junction); ONL, outer nuclear layer (photoreceptor cell bodies);
+OPL, outer plexiform layer; INL, inner nuclear layer; IPL, inner plexiform layer; GCL, ganglion cell layer; NFL, nerve
+fibre layer.
+© 2022 The Authors. The Journal of Physiology published by John Wiley & Sons Ltd on behalf of The Physiological Society.4630 S. R. De Silva and A. T. Moore J Physiol 600.21
+circuitry as closely as possible, is not yet well developed.
+How much precise targeting is required, and whether
+ubiquitous approaches are equally effective is currently
+unclear.
+A further consideration is the role of retinal
+remodelling, which is a series of complex processes
+that occur in the degenerate retina. This includes glial
+hypertrophy, which may affect AAV penetration of the
+retina and transduction efficacy. Other changes include
+‘rewiring’, in which neurons extend new processes that
+alterretinalcircuitry,and‘reprogramming’,wherethereis
+switchingofbipolarcellclasses(Pfeifferetal.,2020).The
+impact of these altered cellular connections and circuitry
+on the potential visual response that can be restored via
+optogenetic methods is currently unknown, as well as
+whethercorticalprocessingmightadequatelycompensate
+forthesechanges.
+Many of the answers to these questions may become
+clearer as we move further from bench to bedside since
+assessments of visual function and visual perception
+can be performed with far greater accuracy in patients.
+Knowledge generated in these trials may, in turn, lead to
+refinementofoptogenetictoolsandoptimisationofimage
+processingtechnology ,withtheaimofrestoringvisionin
+patientswithadvancedretinaldegeneration.
+References
+Berry,M.H.,H o l t,A.,Levi tz,J .,B r o ic hh a g en,J .,Ga u b,B .
+M., Visel,M.,Stanley, C.,Aghi, K.,Kim,Y. J.,Cao, K.,
+K ra m er,R.H.,T ra u n er,D .,Fla nn ery,J .,&I saco ff,E.Y .
+(2017).Restorationof patternedvision with anengineered
+photoactivatable G protein-coupled receptor. Nature
+Communication ,8(1),1862.
+Berry, M. H.,Holt,A.,Salari,A., Veit,J., Visel,M.,Levitz, J.,
+Aghi, K.,Gaub, B. M.,Sivyer,B., Flannery, J. G.,&Isacoff,
+E.Y.(2019).Restorationofhigh-sensitivityandadapting
+vision with a cone opsin. Nature Communication ,10(1),
+1221.
+B i,A.,C u i,J .,M a,Y .P .,O l s h evs ka ya,E .,P u ,M.,Dizh oo r ,
+A.M., &Pan,Z. H.(2006).Ectopic expression of a
+microbial-type rhodopsin restores visual responses in mice
+with photoreceptor degeneration. Neuron,50(1),23–33.
+Bloch,E.,Luo,Y.,&da Cruz,L.(2019).Advancesinretinal
+prosthesis systems. TherapeuticAdvances in Ophthalmology ,
+11,251584141881750.
+Busskamp,V.,Duebel, J., Balya,D.,Fradot, M.,Viney, T.J.,
+S ie g e rt,S .,G r o n e r ,A.C .,Ca b u y,E .,F o r s t e r ,V .,See l ig e r ,
+M., Biel,M.,Humphries,P., Paques, M., Mohand-Said,S.,
+Trono, D.,Deisseroth, K., Sahel,J.A.,Picaud, S., &Roska,
+B.(2010).Geneticreactivation of conephotoreceptors
+restores visual responses in retinitis pigmentosa. Science,
+329(5990),413–417.
+Byrne, L.C., Day, T.P.,Visel, M.,Strazzeri, J.A.,Fortuny, C.,
+Dalka ra,D .,M eriga n,W .H.,Sc h a ff er,D .V .,&F la nn ery,J .
+G. (2020).Invivo-directedevolution of adeno-associated
+viru sinth ep rim a t er etin a. JCI Insight ,5(10),e135112.Caporale, N., Kolstad,K.D.,Lee, T.,Tochitsky,I., Dalkara,D.,
+Trauner,D., Kramer,R.,Dan, Y.,Isacoff,E. Y.,& Flannery,
+J.G. (2011).LiGluR restores visual responses in rodent
+models of inherited blindness. Molecular Therapy: The
+Journal of the American Society of Gene Therapy ,19(7),
+1212–1219.
+Cehajic-Kapetanovic,J.,Eleftheriou, C., Allen, A.E.,
+M ilosa vl jevic,N.,P ien aa r,A.,Bedf o r d,R.,Da vi s,K.E.,
+Bishop,P.N., & Lucas,R.J. (2015).Restoration of vision
+with ectopic expression of humanrod opsin. Current
+Biology: CB ,25(16),2111–2122.
+B .Y .Ch o w ,X.H a n ,A.S .Do b ry,A.S .Ch u o n g ,M .Li,M .A.
+Henninger,G. M. Belfort,Y. Lin, P.E. Monahan,& E. S.
+Boyden(2010).High-performancegeneticallytargetable
+optical neuralsilencingbylight-drivenproton pumps.
+Nature,463(7277),98-102.
+Chuong, A.S., Miri,M. L.,Busskamp,V.,Matthews, G.A.,
+A c k e r ,L .C . ,S ã r e n se n ,A .T . ,Y o u n g ,A . ,Kla poe tk e ,N .C . ,
+Henninger,M. A.,Kodandaramaiah,S. B., Ogawa,M.,
+Ra m a nlal ,S .B . ,Ba n dl e r ,R.C . ,All e n ,B .D . ,F o r e s t ,C .R. ,
+Chow, B. Y.,Han,X.,Lin, Y.,Tye,K.M., Roska,B., Cardin J.
+A.,&Boyden E.S.(2014).Noninvasiveoptical inhibition
+withared-shiftedmicrobialrhodopsin. Nature Neuro-
+science,17(8),1123–1129.
+Cronin, T.,Vandenberghe, L. H.,Hantz,P.,Juttner, J.,
+Reim a nn,A.,K acso,A.E.,H u c kf e ld t,R.M.,B u s s ka m p,
+V.,Kohler,H.,Lagali,P.S., Roska,B., & Bennett, J.(2014).
+Efficienttransductionandoptogeneticstimulationof
+retinalbipolar cellsbyasyntheticadeno-associatedvirus
+capsidand promoter. EMBO Molecular Medicine ,6(9),
+1175–1190.
+Dalkara,D.,Byrne,L.C.,Klimczak,R.R.,Visel,M.,Yin,L.,
+Merigan,W.H.,Flannery, J.G., &Schaffer,D.V. (2013).In
+vivo-directed evolution of a new adeno-associated virus for
+therapeuticouter retinalgenedeliveryfrom thevitreous.
+Science Translational Medicine ,5(189),189ra176.
+DeS il v a,S .R. ,Ba rn a r d ,A.R. ,H u gh e s ,S . ,T a m ,S .K .
+E.,Martin,C., Singh,M. S., Barnea-Cramer, A. O.,
+McClements,M.E.,During,M.J.,Peirson, S.N.,Hankins,
+M.W.,& MacLaren,R.E. (2017).Long-term restoration
+of visual function in end-stage retinal degeneration using
+subretinal human melanopsin gene therapy. Proceedings
+of the National Academy of Sciences of the United States of
+America,114(42),11211–11216.
+De Silva,S. R.,Charbel Issa,P.,Singh, M.S., Lipinski, D.
+M.,Ba rn ea- C r a m er ,A.O .,W alk er ,N .J .,Ba rn a r d ,A.R.,
+Hankins,M.W.,& MacLaren,R.E.(2016).Singleresidue
+A A Vca p s i dm u ta ti o ni m p r o v e str a n sd u cti o no fp h o t o -
+receptors in the Abca4(-/-) mouse andbipolar cells in the
+rd1 mouse and human retina ex vivo. GeneTherapy ,23(11),
+767–774.
+Dias,M.F.,Joo, K.,Kemp,J.A.,Fialho,S.L.,daSilvaCunha,
+A.,Jr.,Woo, S.J.,&Kwon,Y.J.(2018).Moleculargenetics
+andemerging therapiesfor retinitis pigmentosa: Basic
+research and clinical perspectives. Progress in Retinal and
+Eye Research ,63, 107–131.
+Do ,M .T .,K a n g ,S .H.,X u e,T .,Z h o n g ,H.,Liao ,H.W .,
+Bergles, D.E., & Yau,K. W.(2009).Photon capture and
+signalling by melanopsin retinal ganglion cells. Nature,
+457(7227),281–287.
+© 2022 The Authors. The Journal of Physiology published by John Wiley & Sons Ltd on behalf of The Physiological Society.J Physiol 600.21 Optogenetics for inherited retinal degenerations 4631
+Do r o u d c hi,M .M .,G r een ber g ,K.P .,Li u ,J .,S ilka,K.A.,
+Bo y d en ,E .S .,Loc krid g e,J .A.,A rm a n ,A.C .,J a n a n i,
+R. ,Bo y e ,S .E . ,Bo y e ,S .L . ,Go r d o n ,G .M . ,M a t t eo ,B .
+C.,S a m pa th,A.P .,H a u swirth,W .W .,&H o r sa g er,A.
+(2011). Virally delivered channelrhodopsin-2 safely
+andeffectivelyrestoresvisualfunctioninmultiple
+m o u sem od e l so fb l i n d n e s s . Molecular Therapy ,19(7),
+1220–1229.
+Gao, G.P., Alvira,M. R.,Wang,L.,Calcedo, R., Johnston,J.,
+& Wilson, J.M. (2002).Novel adeno-associatedviruses
+from rhesus monkeys as vectors for human gene therapy.
+Proceedings of the National Academy of Sciences of the
+United States of America ,99(18),11854–11859.
+Ga u b ,B .M.,Berry,M.H.,H o l t,A.E .,Rein er ,A.,K ien zl er ,
+M .A.,Do l g o v a,N .,N ik o n o v ,S .,A g u irr e ,G .D .,Be l tr a n ,
+W. A.,Flannery,J. G.,& Isacoff,E. Y. (2014).Restoration of
+visual function by expression of a light-gated mammalian
+ion channelin retinal ganglion cells or ON-bipolar cells.
+Proceedings of the National Academy of Sciences of the
+United States of America ,111,E5574-5583.
+Gekeler,K.,Bartz-Schmidt,K.U., Sachs,H.,MacLaren,
+R. E.,Stingl, K.,Zrenner, E., & Gekeler,F. (2018).
+Implantation,removalandreplacementof subretinal
+electronic implantsforrestorationofvisioninpatientswith
+retinitispigmentosa. Current Opinion in Ophthalmology ,
+29(3),239–247.
+Gradinaru, V., Thompson, K. R., & Deisseroth, K. (2008).
+eNpHR: A Natronomonas halorhodopsin enhanced for
+optogeneticapplications. Brain Cell Biology ,36(1–4),
+129–139.
+Grunert,U.,& Martin,P.R. (2020).Cell types andcell circuits
+in human and non-human primate retina. Progress in
+Retinal and Eye Research ,78,100844.
+Han,X.,&Boyden, E.S.(2007).Multiple-color optical
+activation,silencing, anddesynchronization of neural
+activity,withsingle-spiketemporalresolution. Plos One,
+2(3),e299.
+Hankins,M. W.,Peirson, S. N., &Foster, R.G. (2008).
+Melanopsin:An exciting photopigment. Trends in Neuro-
+science(Tins) ,31(1),27–36.
+Holland,E. M.,Braun, F. J.,Nonnengasser, C., Harz,H.,&
+Hegemann,P. (1996).Thenature of rhodopsin-triggered
+photocurrents in Chlamydomonas. I. Kinetics and
+influence of divalentions. Biophysical Journal ,70(2),
+924–931.
+H u m a yu n ,M .S .,P rin c e ,M .,d eJ ua n ,E .,J r .,Ba rr o n ,Y .,
+Moskowitz,M., Klock,I. B., &Milam,A. H.(1999).
+Morphometricanalysisof theextramacularretinafrom
+postmortem eyeswith retinitispigmentosa. Investigative
+Ophthalmology&VisualScience ,40, 143–148.
+Ivanova,E., Hwang,G.S., Pan,Z. H.,& Troilo, D. (2010).
+Evaluation of AAV-mediated expression of Chop2-GFP in
+themarmosetretina. Investigative Ophthalmology & Visual
+Science,51,5288–5296.
+Kleinlogel, S., Feldbauer, K.,Dempski,R. E.,Fotis, H.,
+Wood, P.G., Bamann,C., &Bamberg, E. (2011).Ultra
+light-sensitive and fast neuronal activation with the CaÂ2
+-permeable channelrhodopsinCatCh. Nature Neuroscience ,
+14(4),513–518.La g ali,P .S .,Bal ya,D .,A w a tra m a n i,G.B .,M u n c h,T .A.,K im ,
+D. S., Busskamp, V., Cepko, C. L., & Roska, B. (2008).
+Light-activated channels targeted to ON bipolar cells restore
+visualfunction inretinal degeneration. Nature Neuroscience ,
+11(6),667–675.
+Lebherz,C., Maguire, A., Tang, W., Bennett, J., & Wilson,
+J.M. (2008).Novel AAVserotypes for improved ocular
+genetransfer. The Journal of Gene Medicine ,10(4),
+375–382.
+Lin ,B .,K o izu m i,A.,T a n aka,N .,P a n da,S .,&M a s la n d ,
+R.H.(2008).Restorationof visualfunction inretinal
+degeneration mice by ectopic expression of melanopsin.
+PNAS,105(41),16009–16014.
+Mace,E., Caplette,R.,Marre, O.,Sengupta, A.,Chaffiol,
+A.,Barbe, P., Desrosiers, M.,Bamberg, E., Sahel,J.A.,
+Picaud,S.,Duebel, J.,&Dalkara,D.(2015).Targeting
+channelrhodopsin-2 to ON-bipolar cells with vitreally
+administered AAVRestores ON andOFF visualresponses
+in blind mice. Molecular Therapy: The Journal of the
+American Society of Gene Therapy ,23(1),7–16.
+M a g u i r e ,A.M . ,R u s se ll ,S . ,W e ll m a n ,J .A. ,Ch u n g ,D .C . ,Y u ,
+Z .F .,T ill m a n ,A.,W i t t e s ,J .,P a p pa s ,J .,El c i,O .,M a r s h all ,
+K.A.,McCague, S., Reichert,H.,Davis,M.,Simonelli, F.,
+Leroy, B. P., Wright,J. F., High,K.A.,& Bennett, J. (2019).
+Efficacy,safety,anddurability of voretigeneneparvovec-rzyl
+inRPE65mutation-associated inheritedretinaldystrophy:
+Re s ul t so fp h a se1a n d3trial s . Ophthalmology ,126(9),
+1273–1285.
+Mazzoni,F.,Novelli,E.,&Strettoi, E.(2008).Retinalganglion
+cells survive and maintain normal dendritic morphology in
+amouse model of inheritedphotoreceptor degeneration.
+The Journal of Neuroscience:The Official Journal of the
+Society for Neuroscience ,28(52),14282–14292.
+McClements,M. E., Staurenghi, F., MacLaren,R. E.,&
+Cehajic-Kapetanovic,J. (2020).Optogeneticgene therapy
+f o rth ed e g e n e r a t er e ti n a:Rec e n tad v a n c e s . Frontiers in
+Neuroscience ,14, 570909.
+Mills,J.O.,Jalil,A.,&Stanga,P.E.(2017).Electronic retinal
+implantsandartificialvision:Journey andpresent. Eye
+(London, England) ,31(10),1383–1398.
+N a g e l ,G .,S ze lla s ,T .,H uhn ,W .,K a t e ri ya,S .,A d e i s h vil i,N .,
+Berthold,P.,Ollig, D.,Hegemann,P., &Bamberg, E. (2003).
+Channelrhodopsin-2, a directly light-gatedcation-selective
+membrane channel. PNAS,100(24),13940–13945.
+Nuzbrokh, Y.,Ragi,S. D., &Tsang,S. H. (2021).Gene therapy
+for inherited retinal diseases. Annals of Translational
+Medicine,9(15),1278.
+P etr s- S il va,H.,Din culescu ,A.,Li,Q .,Den g,W .T .,P a n g,J .
+J .,M in ,S .H.,Chiod o ,V .,N ee ley,A.W .,Go vin da sa m y,
+L.,Bennett, A.,Agbandje-McKenna, M.,Zhong, L.,
+Li, B., Jayandharan,G. R., Srivastava, A., Lewin, A.
+S., &Hauswirth,W.W.(2011).Novel properties of
+tyrosine-mutant AAV2vectors inthe mouse retina.
+Molecular Therapy: The Journal of the American Society
+of Gene Therapy ,19(2),293–301.
+Pfeiffer,R. L.,Marc,R. E.,& Jones, B. W. (2020).Persistent
+remodeling and neurodegeneration in late-stage retinal
+degeneration. Progress in Retinal and Eye Research ,74,
+100771.
+© 2022 The Authors. The Journal of Physiology published by John Wiley & Sons Ltd on behalf of The Physiological Society.4632 S. R. De Silva and A. T. Moore J Physiol 600.21
+Purves,D.A.G.,Fitzpatrick,D.,(Eds.)(2001). Neuroscience .
+Sinauer Associates.
+Rabinowitz, J. E.,Rolling, F., Li, C., Conrath, H.,Xiao,W.,
+Xiao,X.,& Samulski,R. J.(2002).Cross-packagingof a
+singleadeno-associatedvirus(AAV)type2vectorgenome
+intomultiple AAVserotypes enablestransduction with
+broad specificity. Journal of Virology ,76(2),791–801.
+Sahel,J. A.,Boulanger-Scemama, E., Pagot,C., Arleo,A.,
+Galluppi, F., Martel,J.N., Esposti, S. D., Delaux, A.,de
+S a in tA u be rt,J .B .,d eM o n tl ea u ,C .,G u tm a n ,E .,A u d o ,I.,
+Duebel, J.,Picaud,S., Dalkara,D.,Blouin, L.,Taiel,M.,&
+Roska,B.(2021).Partialrecoveryof visualfunction ina
+blindpatient afteroptogenetic therapy. Nature Medicine ,
+27(7),1223–1229.
+Santos,A., Humayun,M. S., de Juan, E., Jr.,Greenburg, R.
+J.,Marsh,M. J.,Klock, I.B., & Milam,A.H.(1997).Pre-
+servation of theinner retina in retinitis pigmentosa. A
+morphometric analysis. Archives of Ophthalmology ,115(4),
+511–515.
+Sengupta, A.,Chaffiol,A.,Mace,E., Caplette,R., Desrosiers,
+M.,La m p ic,M.,F o r s t er ,V .,M a rr e,O .,Lin ,J .Y .,S ah e l,J .A.,
+Picaud,S.,Dalkara,D.,&Duebel, J.(2016).Red-shifted
+channelrhodopsinstimulation restores light responses
+in blind mice,macaque retina,and humanretina. EMBO
+Molecular Medicine ,8(11),1248–1264.
+S im u n o vic,M .P .,S h en ,W .,Lin ,J .Y .,P r o t ti,D .A.,Li so w s ki,
+L.,&Gillies,M.C.(2019).Optogeneticapproachesto
+vision restoration. ExperimentalEyeResearch ,178,15–26.
+Sineshchekov,O. A., Jung, K. H., & Spudich, J. L. (2002).Two
+rhodopsins mediate phototaxis to low- and high-intensity
+lightinChlamydomonasreinhardtii. Proceedings of
+the National Academy of Sciences of the United States of
+America,99(13),8689–8694.
+Tomita, H.,Sugano, E., Yawo,H.,Ishizuka,T.,Isago,H.,
+Narikawa,S., Kugler, S., &Tamai,M. (2007).Restoration
+of visual response in aged dystrophic RCS rats using
+AAV-mediatedchannelopsin-2gene transfer. Investigative
+Ophthalmology&VisualScience ,48,3821–3826.
+va nW yk,M .,P ie l ec ka- F o rt u n a,J .,Lo w e l ,S .,&Kl einl o g e l ,
+S. (2015).Restoring theONswitchin blind retinas:
+Opto-mGluR6, a next-generation, cell-tailored optogenetic
+tool.PLoS Biology ,13(5),e1002143.
+Verbakel,S. K.,vanHuet,R.A.C.,Boon, C.J.F.,den
+Hollander,A.I.,Collin, R.W.J.,Klaver,C.C.W.,Hoyng,C.
+B., Roepman, R.,&Klevering, B. J. (2018).Non-syndromic
+retinitispigmentosa. Progress in Retinal and Eye Research ,
+66,157–186.
+Yin, L.,Greenberg, K.,Hunter,J. J.,Dalkara,D.,Kolstad,K.D.,
+M a se lla,B .D .,W o l f e ,R.,V i se l ,M .,S t o n e ,D .,Li b b y,R.T .,
+Diloreto, D.,Jr.,Schaffer,D.,Flannery,J.,Williams,D.R.,&
+Merigan,W.H.(2011).Intravitrealinjection ofAAV2trans-
+duces macaque innerretina. Investigative Ophthalmology &
+Visual Science ,52,2775–2783.Zemelman,B. V.,Lee, G. A.,Ng,M., &Miesenbock, G. (2002).
+SelectivephotostimulationofgeneticallychARGedneurons.
+Neuron,33(1),15–22.
+Z h a n g ,F . ,W a n g ,L .P . ,B r a u n e r ,M . ,Li ew al d ,J .F . ,K a y ,
+K.,Watzke,N.,Wood, P. G.,Bamberg, E., Nagel,G.,
+Gottschalk,A., &Deisseroth, K.(2007).Multimodal fast
+opticalinterrogationofneuralcircuitry. Nature,446(7136),
+633–639.
+Zhong, L.,Li,B., Mah,C. S., Govindasamy, L.,
+Agbandje-McKenna,M., Cooper, M.,Herzog,R. W.,
+Zolotukhin, I.,Warrington, K.H.,Jr., Weigel-VanAken,
+K.A.,Hobbs,J. A.,Zolotukhin, S., Muzyczka,N., &
+Srivastava,A. (2008). Next generation of adeno-associated
+virus2vectors:Point mutations intyrosinesleadto
+high-efficiencytransduction atlower doses. PNAS,105(22),
+7827–7832.
+Additional information
+Competing interests
+Theauthorsdeclarethattheyhavenocompetinginterests.
+Author contributions
+SDS and AM were responsible for the study conception and
+design. SDS was responsible for the literature search. SDS and
+AM were responsible for drafting manuscript. SDS and AM
+were responsible for revision of the manuscript. Both authors
+have read and approved the final version of this manuscript.
+Allpersonsdesignatedasauthorsqualifyforauthorship,andall
+thosewhoqualifyforauthorshiparelisted.
+Funding
+This work was funded by the Wellcome Trust (094448/Z/10/Z)
+andFightforSight(5099/5100).
+Keywords
+genetherapy,inheritedretinaldegenerations,optogenetics
+Supporting information
+Additional supporting information can be found online in the
+SupportingInformationsectionattheendoftheHTMLviewof
+thearticle.Supportinginformationfilesavailable:
+Peer Review History
+© 2022 The Authors. The Journal of Physiology published by John Wiley & Sons Ltd on behalf of The Physiological Society.

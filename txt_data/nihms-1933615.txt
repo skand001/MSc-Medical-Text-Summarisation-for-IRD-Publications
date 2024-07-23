@@ -1,0 +1,364 @@
+REPRODUCTIVE OPHTHALMOLOGY:
+The Intersection of Inherited Eye Diseases and Reproductive Technologies
+JONG G. PARK, MD*, CHRISTINE L. XU, BA*, ALLISON BOYD, MS, CGC†, LUSINE 
+AGHAJANOVA, MD, PhD†, VINIT B. MAHAJAN, MD, PhD*, EDWARD H. WOOD, MD*
+*Department of Ophthalmology, Byers Eye Institute, Stanford University School of Medicine, Palo 
+Alto, California
+†Division of Reproductive Endocrinology and Infertility, Department of Obstetrics and Gynecology, 
+Stanford University School of Medicine, Sunnyvale, California.
+Abstract
+Purpose:  To propose a working framework for patients with inherited eye diseases presenting 
+to ophthalmologists who are interested in assisted reproductive technology and preimplantation 
+genetic testing.
+Methods:  Retrospective chart review and case series of three families with inherited eye diseases 
+who successfully underwent preimplantation genetic testing, in vitro fertilization, and birth of 
+unaffected children.
+Results:  Preimplantation genetic testing was performed for three families with different 
+inherited eye diseases, which included autosomal dominant retinitis pigmentosa, autosomal 
+recessive achromatopsia, and X-linked Goltz syndrome. Preimplantation genetic testing led to 
+the identification of unaffected embryos, which were then selected for in vitro fertilization and 
+resulted in the birth of unaffected children.
+Conclusion:  A close collaboration between patients, families, ophthalmologists, reproductive 
+genetic counselors, and reproductive endocrinology and infertility specialists is the ideal model for 
+taking care of patients interested in preimplantation genetic testing for preventing the transmission 
+of inherited eye diseases.
+Keywords
+assisted reproductive technologies; in vitro fertilization; inherited eye diseases; inherited retinal 
+diseases; preimplantation genetic testing; reproductive endocrinology and infertility; reproductive 
+ophthalmology
+Inherited eye diseases (IED) are a heterogenous group of genetic conditions often associated 
+with significant visual impairment.1 All inheritance patterns are represented in IEDs, and 
+the vast majority are caused by a single gene abnormality marked by extensive genetic 
+and phenotypic heterogeneity.2 Complex genetic phenomena that need to be accounted for 
+Reprint requests: Edward H. Wood, MD, Department of Ophthalmology, Byers Eye Institute, Stanford University School of Medicine, 
+2452 Watson Court, Palo Alto, CA 94303; ehw@stanford.edu. 
+None of the authors has any financial/conflicting interests to disclose.
+HHS Public Access
+Author manuscript
+Retina . Author manuscript; available in PMC 2023 October 23.
+Published in final edited form as:
+Retina . 2022 November 01; 42(11): 2025–2030. doi:10.1097/IAE.0000000000003591.
+Author Manuscript Author Manuscript Author Manuscript Author Manuscriptwhen determining genetic causality include incomplete penetrance and variable expressivity 
+resulting in nonlinearity between genotype and phenotype,1 uniparental disomy3 (where 
+one receives two homologous chromosomes or chromosomal segments from one parent 
+and no copy from the other parents), genetic mosaicism4 (where one has at least two or 
+more cell populations with distinct genotypes derived from a single fertilized egg), copy 
+number variations5 (where the number of copies of a gene may vary as a result of deletions, 
+inversions, and duplications), and gene–environmental epigenetic changes including DNA 
+methylation, histone modifications, chromatin remodeling, and noncoding RNA-associated 
+gene regulations.6
+A predominant type of IED is inherited retinal disease (IRD) with currently more than 
+260 causative genes identified and novel disease genes continuously being discovered.7 For 
+IRDs alone, panel-based genetic testing is able to identify the genetic cause of disease for 
+approximately 67% of all patients with IRDs and up to 85% of children with IRDs.7 As 
+of 2020, roughly 5.5 million individuals (~1 in 1,380) are expected to be affected by an 
+autosomal recessive (AR)-IRD, and 2.7 billion individuals worldwide (36% of the global 
+population) are carriers of an IRD-causing mutation, a prevalence that is likely the highest 
+across any group of human mendelian conditions.8 One free option for IRD testing is 
+through Invitae (San Francisco, CA) and Spark Therapeutics (Philadelphia, PA).
+The current management of IEDs is limited. To date, there is only one FDA approved gene-
+based therapy of IEDs: voretigene neparvovec-ryzl (Luxturna)9 for individuals with Leber 
+congenital amaurosis and AR retinitis pigmentosa secondary to biallelic mutations in the 
+RPE65  gene. Luxturna for RPE65 -mediated IRD, although revolutionary, comes with a cost 
+of approximately $850,000 USD for both eyes.10 Cost–benefit analyses examining Luxturna 
+have yielded varying results likely because of variations in modeling methodology.10
+Additional therapies being investigated for IEDs include gene augmentation and gene 
+editing approaches for other mutations, optogenetics, cell-based therapies, retinal prosthetic 
+devices,11 and neuroprotective therapies such as N-acetylcysteine, ciliary neurotrophic 
+factor, and rod-derived cone viability factor.7,12 There are no current therapeutics approved 
+in the United States for mitochondrial disease.
+Reproductive technologies play a significant role in many other fields of medicine to help 
+couples with family planning, fertility preservation, and fertility treatment in the setting of 
+an inherited disorder. However, a formal approach toward the prevention of IEDs has not 
+yet been standardized within the field of ophthalmology. Couples often initially approach 
+reproductive endocrinology and infertility (REI) specialists after 1) experiencing difficulty 
+with conception, 2) having a child diagnosed with an inherited genetic disease and inquiring 
+about potential options for future unaffected children, and/or 3) having self-identified as 
+affected by disease or as carrier(s) for an AR disease through genetic carrier screening 
+panels, which are recommended for all individuals before or during pregnancy.
+Those at risk of having a child with an inherited genetic disease have the option to 
+undergo in vitro fertilization (IVF) with preimplantation genetic testing for aneuploidy 
+(PGT-A) or preimplantation genetic testing for monogenic disorders (PGT-M, previously PARK et al. Page 2
+Retina . Author manuscript; available in PMC 2023 October 23.
+Author Manuscript Author Manuscript Author Manuscript Author Manuscriptknown as preimplantation genetic diagnosis, or preimplantation genetic diagnosis (PGD)), 
+to reduce the likelihood that their child is affected.13,14 In vitro fertilization involves 
+ovarian stimulation using exogenous gonadotropins such as follicle-stimulating hormone 
+and luteinizing hormone to achieve multifollicular development, oocyte retrieval using 
+ultrasound-guided transvaginal aspiration, and embryo creation through combining eggs and 
+sperm in a dish or with intracytoplasmic sperm injection. The fertilized egg (embryo) is then 
+cultured in vitro for two to six days until the embryo is transferred into the uterus using 
+transabdominal ultrasound guidance. Commonly now-adays, the embryos are cultured for 5 
+days to 6 days, and at that developmental stage are called blastocysts. At this point, some 
+couples may request genetic embryo testing, which requires embryo biopsy with subsequent 
+embryo freezing and PGT-A or PGT-M procedures. Because of its high success rate in the 
+recent years, IVF has been used very frequently, with approximately 2% of all babies in 
+the US being born after IVF,15 and preimplantation genetic testing (PGT) being used (as of 
+2018) in roughly 50% of all retrieval cycles.16
+In this manuscript, we will review several case studies involving patients with IEDs that 
+exemplify how assisted reproductive technologies (ART) can be harnessed to offer patients 
+different options for managing their IEDs. This approach is not limited to these specific 
+IEDs, but can be applied to most IEDs with causative, known genetic mutations. In doing so, 
+we also provide a practical template about how ophthalmologists can collaborate with REI 
+specialists to best serve patients who are interested in preimplantation genetic testing and 
+reproductive planning for IEDs.
+Methods
+This study was a literature review and retrospective chart review conducted at Stanford 
+University and adhered to the tenets of the Declaration of Helsinki. institutional review 
+board (IRB)/Ethics Committee ruled that approval was not required for this study. 
+Medical records of patients with IEDs identified through the Reproductive Endocrinology 
+and Infertility clinic at Stanford and Lucile Packard Children’s Hospital were accessed 
+in a Health Insurance Portability and Accountability Act (HIPPA) compliant fashion 
+and reported with de-identified information. A literature review was conducted on 
+PubMed for previous work conducted in the field of IEDs and reproductive medicine in 
+collaboration with ophthalmology, including the field of “antenatal ophthalmology17” and 
+“preimplantation genetic diagnosis for eye disease,18” which have been defined previously. 
+A PubMed search using the terms “reproductive ophthalmology” did not return any results.
+Results
+The complex and dynamic genetic landscape underlying IEDs contributes toward their 
+difficulty in diagnosis and treatment. Although not all cases will be this straightforward, here 
+we present three cases of inherited eye disease with classic mendelian inheritance patterns 
+managed with reproductive technologies.PARK et al. Page 3
+Retina . Author manuscript; available in PMC 2023 October 23.
+Author Manuscript Author Manuscript Author Manuscript Author ManuscriptAutosomal Dominant Inherited Eye Diseases
+Autosomal dominant (AD) disease is characterized by the presence of a single heterozygous 
+pathogenic variant affecting one allele on one of the 22 autosomes. Both sexes are equally 
+affected, and typically a family history will be present. One of the most common genetic eye 
+disorders with an AD inheritance is AD-retinitis pigmentosa.19
+Autosomal dominant case study— Retinitis pigmentosa (RP) is a genetically and 
+clinically heterogeneous group of IRDs with a prevalence of roughly one in 4,000 
+individuals.19 Of all RP cases, 25% to 30% are AD. Autosomal dominant retinitis 
+pigmentosa (AD-RP) causes night blindness and progressive visual field loss, which occurs 
+because of predominant rod degeneration and subsequent cone and RPE degeneration.20
+A 30-year-old woman with a strong maternal family history of RP and a diagnosis of 
+RP (legally blind) at the age of six initially presented to our ophthalmology clinic with 
+a desire to obtain further genetic testing in anticipation of future family planning. She 
+had classic findings of optic nerve pallor, attenuated retinal vessels, and pigmented bone 
+spicules in the retinal periphery with severe visual field constriction. We obtained genetic 
+testing, which revealed a mutation ( p.L523P) in the KIF3B  gene associated with AD RP. She 
+then proceeded with reproductive genetic counseling and IVF at the Stanford Reproductive 
+Endocrinology and Infertility clinic. Ten blastocysts developed from one IVF cycle, and 
+blastocyst biopsy revealed that three were euploid and unaffected. She and her husband 
+decided to have a frozen embryo transfer of one of these unaffected embryos. Confirmatory 
+chorionic villus sampling (biopsy of the placenta) was performed during the first trimester 
+of pregnancy, confirming absence of the RP mutation in the fetus. This led to the successful 
+birth of an unaffected healthy baby girl. She and her husband are considering undergoing 
+another frozen embryo transfer with an unaffected embryo in the future, because they hope 
+to have at least two children.
+Autosomal Recessive Inherited Eye Diseases
+Autosomal recessive disease is characterized by the presence of mutations affecting both 
+copies of a gene residing on one of 22 autosomal chromosomes, leading to disease. With 
+only one mutated copy, patients are typically clinically unaffected, and both sexes are 
+equally involved. Parents are often unaffected, but there are exceptions where a parent has 
+symptoms related to their mutation status.
+Autosomal recessive case study— Achromatopsia is an AR disease that causes retinal 
+cone dysfunction and symptoms of impaired color vision, nystagmus, and decreased 
+visual acuity.21 Implicated genes in achromatopsia include CNGB3  and CNGA3 , which 
+encode cyclic nucleotide-gated channels located on the outer segment cell membranes of 
+photoreceptors that play a crucial role in phototransduction.22,23
+A 34-year-old female patient presented to Stanford Reproductive Health clinic interested in 
+embryo cryopreservation. She and her husband had been previously identified as carriers 
+for achromatopsia because of heterozygous pathogenic mutations in the gene CNGB3 , and 
+requested the preimplantation genetic testing to analyze the probability of their children PARK et al. Page 4
+Retina . Author manuscript; available in PMC 2023 October 23.
+Author Manuscript Author Manuscript Author Manuscript Author Manuscriptbeing affected by achromatopsia. She underwent counseling with our reproductive genetic 
+counselor, followed by three rounds of oocyte retrieval and PGT-M. From all three cycles 
+of IVF with PGT-M, 22 blastocysts were analyzed, and the ones that were viable for 
+transfer back to the patient were as follows: two carrier males, one unaffected male, one 
+unaffected female, and one carrier female. The couple is now proceeding with a transfer of 
+the unaffected male blastocyst.
+X-Linked Inherited Eye Diseases
+X-linked disease is characterized by a pathogenic variant on an X (sex) chromosome. In 
+X-linked recessive conditions, men are affected significantly more than women, but women 
+may be affected because of variable X-chromosome inactivation (lyonization). One common 
+IED with this inheritance pattern is congenital X-linked retinoschisis secondary to mutations 
+in RS1.24
+In X-linked dominant conditions, the female’s healthy X chromosome does not readily 
+compensate for the mutation; therefore, women and men can be affected. However, men 
+often display a more severe phenotype, and the mutations are sometimes lethal early in life. 
+Eye disorders with X-linked dominant inheritance include incontinentia pigmenti,25 Aicardi 
+syndrome,26 and Goltz syndrome.27
+X-linked case study— Goltz syndrome, also known as Focal Dermal Hypoplasia, is an X-
+linked dominant syndrome caused by mutations in the PORCN  gene.27,28 Ophthalmologic 
+manifestations include chorioretinal colobomas, iris colobomas, nystagmus, strabismus, 
+microphthalmia, anophthalmia, cataracts, and conjunctival and eyelid papillomas.28
+A 33-year-old woman with a known history of Goltz syndrome with a history of focal 
+dermal hyperplasia, squamous papillomas, and recurrent sinusitis was referred to Stanford 
+reproductive health clinic from an outside clinic. She underwent one IVF cycle, nine 
+blastocysts were biopsied, and PGT-M indicated that four were euploid and negative for 
+Goltz syndrome. She and her husband decided to proceed with frozen embryo transfer of 
+one of the four unaffected embryos. This led to the successful conception and delivery of an 
+unaffected baby boy, a strong indication of the child being unaffected because this X-linked 
+dominant condition would have been likely lethal to the male embryo. The boy was also 
+tested postnatally to confirm the absence of the mutation. The patient and her husband are 
+planning to have another frozen embryo transfer in the near future in the hopes of having 
+another unaffected child.
+Discussion
+Managing IEDs with ART through collaborations between ophthalmology and REI 
+specialists is not a novel practice.29-31 The American Academy of Ophthalmology also 
+released a seminal report about when and how to recommend genetic testing for IEDs.32 
+The Academy’s report included recommendations to offer genetic testing for patients with 
+Mendelian disorders with causative genes that have been identified, to ensure genetic 
+counseling from a physician or genetic counselor for these patients, to avoid direct-to-
+consumer testing, and to avoid testing for genetically complex disorders and untreatable PARK et al. Page 5
+Retina . Author manuscript; available in PMC 2023 October 23.
+Author Manuscript Author Manuscript Author Manuscript Author Manuscriptdisorders.32 However, uncertainty remains for how a multidisciplinary team (involving 
+families, ophthalmologists, REI specialists, and genetic counselors) can practically approach 
+this field in a collaborative fashion. Herein, we have outlined the rationale for this 
+collaboration and provided examples of “reproductive ophthalmology” to demystify the 
+process, increase utilization of available resources, decrease overall health care costs, and 
+most of all, prevent  the occurrence of vision loss.
+The workflow we recommended begins with the ophthalmologist, who refers qualified 
+patient(s) to a trained reproductive genetic counselor, who ultimately refers qualified 
+patient(s) to an REI specialist to perform IVF with PGT (Figure 1). The ophthalmologist 
+would ideally have some basic understanding of IEDs and ART as outlined in this 
+manuscript to gauge the patient’s general interest in the process; if not, we recommend 
+referring to a colleague who has more experience in this area. In this recommended 
+workflow, it is the responsibility of the ophthalmologist to perform genetic2 and ancillary 
+diagnostic testing, including evaluation of family members when applicable. Variants of 
+uncertain significance and uncertain genotype–phenotype associations will need to be 
+analyzed carefully by the ophthalmologist’s genetic team. Having a high level of rigor 
+in genotype–phenotype correlation is especially important today with the popularity of 
+commercially available gene screening tests for this complex group of diseases to avoid false 
+discovery rates and improper counseling.
+The ideal deliverable from ophthalmologist to reproductive genetic counselor is a pedigree 
+annotated with corroborating genetic and clinical findings. Fertility clinics can be found 
+through referrals by local obstetricians and gynecologists, through the Society for Assisted 
+Reproductive Technology online tool: https://www.sartcorsonline.com/members/Search , 
+or through the Centers for Disease Control online tool: https://www.cdc.gov/art/artdata/
+index.html . Another helpful resource for clinicians and patients is the National Institute 
+of Health (NIH) Genetic Eye Disease Database: https://rarediseases.info.nih.gov/diseases/
+diseases-by-category/9/eye-diseases .
+At the next stage of the process, the ophthalmologist gives the information discussed 
+above to a reproductive, prenatal, or infertility genetic counselor, who can discuss in detail 
+reproductive options including technical limitations, and ethical and financial considerations. 
+Finally, if patients or families are interested and are qualified candidates for PGT, the genetic 
+counselor then refers them to an REI specialist to perform PGT, which combines two 
+primary techniques: 1) IVF and 2) embryo genetic testing. Based on the results of embryo 
+genetic testing, one low risk embryo is implanted at a time through standard IVF procedure, 
+ideally resulting in the birth of an unaffected child. The current total cost of one complete 
+cycle with PGT-M is approximately $20,000 to 30,000 USD, which may be variably covered 
+by insurance and can often be justified with letters to the insurance company from the 
+patient’s primary care physician.
+Patients may alternatively enter the “reproductive ophthalmology” workflow by directly 
+scheduling an appointment with an REI specialist after 1) experiencing difficulty with 
+conception, 2) having a child diagnosed with an inherited genetic disease and inquiring 
+about potential options for future unaffected children, or 3) having self-identified as affected PARK et al. Page 6
+Retina . Author manuscript; available in PMC 2023 October 23.
+Author Manuscript Author Manuscript Author Manuscript Author Manuscriptby disease or as carrier(s) for disease through genetic carrier screening. The REI specialist 
+can then refer the patient to reproductive genetics and ophthalmology to assess genotype–
+phenotype correlation and reproductive risks as needed.
+Conclusions
+Reproductive ophthalmology is an emerging collaborative field between REI specialists, 
+reproductive genetic counselors, and ophthalmologists. Reproductive ophthalmology has the 
+potential to play a significant role for couples with IEDs who want to conceive an unaffected 
+child. Where gene therapy approaches are currently not often efficacious for AD, X-linked 
+dominant, or mitochondrial-DNA-based conditions, the use of ART for ophthalmology is 
+particularly exciting for families with IEDs (with or without affected children), because it 
+can lead to the birth of an unaffected child, regardless of the inheritance type.
+Because of the fact that the prevalence of carriers of an IRD-causing mutation is likely 
+the highest across any group of human mendelian conditions (2.7 billion worldwide, ~1/3 
+of global population),4 the significant economic impact of IED (IRDs alone cost the 
+United States $31 billion USD per year), and the emerging popularity of ART (2% of all 
+babies are currently born via IVF14), “reproductive ophthalmology” may represent a more 
+cost-effective approach compared with current treatment options for these patients. This is 
+especially true considering the implications of preventing disease transmission in sequential 
+family lineages.
+We conclude by mentioning that there are many challenging ethical considerations for all 
+providers involved in ART and reproductive health. Although a full discussion of the ethics 
+of reproductive technology is beyond the scope of this study, patients from different cultures, 
+ethnicities, religions, and socioeconomic backgrounds will hold widely disparate beliefs 
+about reproductive technology, and these beliefs must be respected. All members of the care 
+team must be keenly aware of these factors and understand that there is not one approach 
+that will be appropriate for every patient and family. It is important to note that this approach 
+is not intended to “design” children with certain traits, because this is not currently possible 
+even if there was parental desire to do so, but to prevent known and debilitating disease 
+when the family expresses interest. We recommend having honest open-ended discussions 
+designed to empower each individual patient and family member to make their decisions 
+based on their own ethical, moral, and cultural values.
+Acknowledgments
+Supported by an unrestricted grant from Research to Prevent Blindness and NEI P30EY026877. The sponsor or 
+funding organization had no role in the design or conduct of this research.
+References
+1. Green DJ, Sallah SR, Ellingford JM, et al. Variability in gene expression is associated with 
+incomplete penetrance in inherited eye disorders. Genes 2020;11:E179.
+2. Wood EH, Hariprasad SM, Drenser KA. Genetic testing for retina specialists. Ophthalmic Surg 
+Lasers Imaging Retina 2018;49:292–295. [PubMed: 29772038] PARK et al. Page 7
+Retina . Author manuscript; available in PMC 2023 October 23.
+Author Manuscript Author Manuscript Author Manuscript Author Manuscript3. Rivolta C, Berson EL, Dryja TP. Paternal uniparental heterodisomy with partial isodisomy of 
+chromosome 1 in a patient with retinitis pigmentosa without hearing loss and a missense mutation 
+in the Usher syndrome type II gene USH2A. Arch Ophthalmol 2002;120:1566–1571. [PubMed: 
+12427073] 
+4. Martínez-Glez V , Tenorio J, Nevado J, et al. A six-attribute classification of genetic mosaicism. 
+Genet Med 2020;22:1743–1757. [PubMed: 32661356] 
+5. Huang XF, Mao JY , Huang ZQ, et al. Genome-wide detection of copy number variations in unsolved 
+inherited retinal disease. Invest Ophthalmol Vis Sci 2017;58:424–429. [PubMed: 28118666] 
+6. Alkozi HA, Franco R, Pintor JJ. Epigenetics in the eye: an overview of the most relevant ocular 
+diseases. Front Genet 2017;8:144. [PubMed: 29075285] 
+7. Duncan JL, Pierce EA, Laster AM, et al. Inherited retinal degenerations: current landscape and 
+knowledge gaps. Translational Vis Sci Technol 2018;7:6.
+8. Hanany M, Rivolta C, Sharon D. Worldwide carrier frequency and genetic prevalence of autosomal 
+recessive inherited retinal diseases. Proc Natl Acad Sci U S A 2020;117:2710–2716. [PubMed: 
+31964843] 
+9. Maguire AM, Russell S, Wellman JA, et al. Efficacy, safety, and durability of voretigene 
+neparvovec-rzyl in RPE65 mutation-associated inherited retinal dystrophy: results of phase 1 and 3 
+trials. Ophthalmology 2019;126:1273–1285. [PubMed: 31443789] 
+10. Yannuzzi NA, Smiddy WE. Cost-effectiveness of voretigene neparvovec-rzyl therapy. JAMA 
+Ophthalmol 2019;137:1123–1124. [PubMed: 31318388] 
+11. Ho AC, Humayun MS, Dorn JD, et al. Long-term results from an epiretinal prosthesis to restore 
+sight to the blind. Ophthalmology 2015;122:1547–1554. [PubMed: 26162233] 
+12. Wood EH, Tang PH, De la Huerta I, et al. Stem cell therapies, gene-based therapies, optogenetics, 
+and retinal prosthetics: current state and implications for the future. Retina 2019;39:820–835. 
+[PubMed: 30664120] 
+13. Preimplantation genetic testing: ACOG committee opinion, number 799. Obstet Gynecol 
+2020;135:e133–e137. [PubMed: 32080053] 
+14. Sullivan-Pyke C, Dokras A. Preimplantation genetic screening and preimplantation genetic 
+diagnosis. Obstet Gynecol Clin North Am 2018;45:113–125. [PubMed: 29428279] 
+15. Kovacs G, ed. How to Improve Your ART Success Rates: An Evidence-Based Review of Adjuncts 
+to IVF. New York: Cambridge University Press; 2011.
+16. Hipp HS, Crawford S, Boulet S, et al. Trends and outcomes for preimplantation genetic testing in 
+the United States, 2014-2018. JAMA 2022;327:1288–1290. [PubMed: 35380591] 
+17. Lehman SS. Antenatal ophthalmology. J AAPOS 2003;7:428–429. [PubMed: 14730298] 
+18. Schofield D, Zeppel MJB, Staffieri S, et al. Preimplantation genetic diagnosis for retinoblastoma 
+survivors: a cost-effectiveness study. Reprod Biomed Soc Online 2020;10:37–45. [PubMed: 
+32577540] 
+19. Daiger SP, Bowne SJ, Sullivan LS. Genes and mutations causing autosomal dominant retinitis 
+pigmentosa. Cold Spring Harb Perspect Med 2014;5(10):a017129. [PubMed: 25304133] 
+20. Coussa RG, Chakarova C, Ajlan R, et al. Genotype and phenotype studies in autosomal dominant 
+retinitis pigmentosa (adRP) of the French Canadian founder population. Invest Ophthalmol Vis Sci 
+2015;56:8297–8305. [PubMed: 26720483] 
+21. Hirji N, Aboshiha J, Georgiou M, et al. Achromatopsia: clinical features, molecular 
+genetics, animal models and therapeutic options. Ophthalmic Genet 2018;39:149–157. [PubMed: 
+29303385] 
+22. Kohl S, Varsanyi B, Antunes GA, et al. CNGB3 mutations account for 50% of all cases with 
+autosomal recessive achromatopsia. Eur J Hum Genet 2005;13:302–308. [PubMed: 15657609] 
+23. Kohl S, Marx T, Giddings I, et al. Total colourblindness is caused by mutations in the gene 
+encoding the alpha-subunit of the cone photoreceptor cGMP-gated cation channel. Nat Genet 
+1998;19:257–259. [PubMed: 9662398] 
+24. Wood EH, Lertjirachai I, Ghiam BK, et al. The natural history of congenital X-linked retinoschisis 
+and conversion between phenotypes over time. Ophthalmol Retina 2019;3:77–82. [PubMed: 
+30935660] PARK et al. Page 8
+Retina . Author manuscript; available in PMC 2023 October 23.
+Author Manuscript Author Manuscript Author Manuscript Author Manuscript25. Swinney CC, Han DP, Karth PA. Incontinentia Pigmenti: a comprehensive review and update. 
+Ophthalmic Surg Lasers Imaging Retina 2015;46:650–657. [PubMed: 26114846] 
+26. Al-Moujahed A, Callaway NF, Ludwig CA, et al. Morning glory optic nerve in Aicardi syndrome: 
+report of a case with fluorescein angiography. Eur J Ophthalmol 2020;16:1120672120942702.
+27. Warburg M Focal dermal hypoplasia. Ocular and general manifestations with a survey of the 
+literature. Acta Ophthalmol (Copenh) 1970;48:525–536. [PubMed: 4990274] 
+28. Gisseman JD, Herce HH. Ophthalmologic manifestations of focal dermal hypoplasia (Goltz 
+syndrome): a case series of 18 patients. Am J Med Genet C Semin Med Genet 2016;172C:59–63. 
+[PubMed: 27001926] 
+29. Huang X, Liu Y , Yu X, et al. The clinical application of preimplantation genetic diagnosis for 
+X-linked retinitis pigmentosa. J Assist Reprod Genet 2019;36:989–994. [PubMed: 30887160] 
+30. Sohrab MA, Allikmets R, Guarnaccia MM, Smith RT. Preimplantation genetic diagnosis for 
+stargardt disease. Am J Ophthalmol 2010;149:651–655. [PubMed: 20149343] 
+31. Méjécase C, Malka S, Guan Z, et al. Practical guide to genetic screening for inherited eye diseases. 
+Ther Adv Ophthalmol 2020;12:2515841420954592. [PubMed: 33015543] 
+32. Stone EM, Aldave AJ, Drack A V , et al. Recommendations for genetic testing of inherited eye 
+diseases: report of the American Academy of Ophthalmology task force on genetic testing. 
+Ophthalmology 2012;119:2408–2410. [PubMed: 22944025] PARK et al. Page 9
+Retina . Author manuscript; available in PMC 2023 October 23.
+Author Manuscript Author Manuscript Author Manuscript Author ManuscriptFig. 1. 
+Framework for preimplantation genetic testing using a collaborative approach between 
+ophthalmology and reproductive endocrinology and infertility for patients with IEDs.PARK et al. Page 10
+Retina . Author manuscript; available in PMC 2023 October 23.
+Author Manuscript Author Manuscript Author Manuscript Author Manuscript

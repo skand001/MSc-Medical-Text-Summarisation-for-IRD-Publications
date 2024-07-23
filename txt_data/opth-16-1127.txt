@@ -1,0 +1,525 @@
+ORIGINAL RESEARCH
+Genetic Testing of Inherited Retinal Disease in
+Australian Private Tertiary Ophthalmology
+Practice
+Sena A Gocuk
+1, Yuanzhang Jiao2, Alexis Ceecee Britten-Jones
+1,3,4, Nathan M Kerr
+5,
+Lyndell Lim3,5, Simon Skalicky
+5, Richard Stawell5, Lauren N Ayton1,3,4, Heather G Mack
+3–5
+1Department of Optometry and Vision Sciences, University of Melbourne, Melbourne, Victoria, Australia;2University Hospital Geelong, Geelong,
+Victoria, Australia;3Centre for Eye Research Australia, Royal Victorian Eye and Ear Hospital, Melbourne, Victoria, Australia;4Ophthalmology,
+Department of Surgery, University of Melbourne, Melbourne, Victoria, Australia;5Eye Surgery Associates, East Melbourne, Victoria, Australia
+Correspondence: Lauren N Ayton, Email layton@unimelb.edu.au
+Background: To assess the prevalence of genetic testing for inherited retinal diseases (IRDs) in a tertiary practice setting.
+Methods: Single-centre retrospective analysis of patients with diagnosed or suspected IRD.
+Results:Fourhundredandsixty-fourpatientrecordswereanalysed.PatientshadreceivedcarefordifferentIRDsgroupedasfollows:
+panretinal pigmentary retinopathies (283, 61%), macular dystrophies (136, 29.3%), stationary diseases (23, 5%), hereditary vitreor-
+etinopathies (14, 3%), and other IRDs (8, 1.7%). The suspected pattern of inheritance of patients’ IRD was predominantly autosomal
+recessive (205, 44.2%). Genetic testing was performed with the corresponding results available for 44 patients (9.5%). Diagnostic
+yieldwas65.9%fortheresultsreceived.Genetictestresultswereavailablemostlyforyoungerpatients(13.1%for<45yearsvs6.2%
+≥45 years of age, p = 0.01) and those who received greater than 12 months of care (16% for ≥12 months vs 4% for <12 months, p <
+0.01). For patients without genetic testing results, reasons include awaiting a geneticist consultation (17.9%), awaiting test results
+(4.5%), or patient refusal (8.4%). Most clinical records (69.2%) did not document genetic testing status.
+Conclusion: Genetic testing is increasingly being utilised in the work-up for patients with IRD worldwide. This large Australian
+privatepracticeIRDcohortshowsalowuptakeoftesting(around10%),reflectinghistoricalmanagementpatternsandaccessibilityof
+genetic counselling and testing. The results show that younger patients and those with a longer duration of care were more likely to
+have received genetic testing. As the importance of IRD genetic testing continues to increase, we expect to see a change in patient
+management within the Australian private ophthalmology system and testing rates to increase. Further research is required to identify
+and address clinician and patient barriers to improving genetic testing rates for IRD.
+Keywords: inherited retinal disease, retinitis pigmentosa, macular dystrophy, genetic testing
+Introduction
+Inheritedretinaldiseases(IRDs)areagroupofheterogeneousdegenerativeretinalconditionsestimatedtooccurinupto
+1 in 1000 individuals.1,2IRDs are now the most common cause of legal blindness in adults of working age in Australia3
+and the United Kingdom (UK).4Previous experimental treatments for IRD have included Vitamin A supplementation,
+valproate,5ciliary neurotrophic factor supplementation6and electrical stimulation through the skin7or cornea,8but their
+efficacies are unclear, and none have reached regulatory approval.
+Recently,geneaugmentationtherapyforRPE65-associatedIRD(LeberCongenitalAmaurosis)hasbeenapprovedby
+the United States (US) Food and Drug Administration (FDA, 2017), European Medicines Agency (2018), and the
+TherapeuticGoodsAdministrationinAustralia(2020).Thishasacceleratedthedevelopmentoffurthergenetherapiesfor
+other forms of IRD, including gene augmentation, gene editing (CRISPR/Cas9) and RNA-based therapies.9Currently,
+there are over 30 active clinical trials for gene therapy for patients with IRD.10
+Clinical Ophthalmology 2022:16 1127–1138 1127
+© 2022 Gocuk et al. This work is published and licensed by Dove Medical Press Limited. The full terms of this license are available at https://www.dovepress.com/terms.
+php and incorporate the Creative Commons Attribution – Non Commercial (unported, v3.0) License (http://creativecommons.org/licenses/by-nc/3.0/). By accessing the
+work you hereby accept the Terms. Non-commercial uses of the work are permitted without any further permission from Dove Medical Press Limited, provided the work is properly attributed. For
+permission for commercial use of this work, please see paragraphs 4.2 and 5 of our Terms (https://www.dovepress.com/terms.php).Clinical Ophthalmology Dovepress
+open access to scientific and medical research
+Open Access Full Text Article
+Received: 13 December 2021
+Accepted: 28 March 2022
+Published: 13 April 2022Assessment of eligibility for ocular gene therapies requires identification of patients’ pathogenic genetic variant.
+Therefore, genetic testing is recommended as standard of care in Australia11and internationally.12In addition to
+exploring potential gene therapy opportunities, genetic testing is recommended to confirm the clinical diagnosis and
+inheritance of the condition, which may inform prognosis for patients and their family members, including family
+planning considerations.13–15
+Genetic testing has evolved over the years, allowing case-by-case selection of appropriate molecular testing
+strategies.16While Sanger sequencing is typically chosen for suspected monogenic disorders, more advanced methods
+suchasnext-generationsequencing(NGS)andwhole-exomesequencing(WES)areavailableforpatientswithuncertain
+clinical diagnoses and/or inheritance patterns.16These novel methods have increased the success rate of IRD genetic
+testing (defined as identification of at least one pathogenic variation) to between 56% and 76% in most developed
+countries.14,17–19The success of genetic testing in identifying the disease-causing variant varies depending on patients’
+specific diagnosis,17age,20and whether the responsible gene and/or pathogenic variant has been previously identified in
+IRD patients and/or family members.21New developments in testing methodology and gene therapy have further
+highlighted the important role of genetic testing for IRDs.
+A recent study by Strait et al (2020) explored self-reported genetic testing practices of optometrists and ophthalmol-
+ogists managing patients with IRDs in the US.15Respondents indicated that while there are discussions surrounding
+genetics(64.7% and70.6% of theclinicians reportedtaking family historyof IRD and explaininginheritance patternsto
+their IRD patients, respectively), 78.4% of the clinicians have not ordered genetic testing for their patients with IRD.15
+Reported reasons for not completing genetic testing included the opinion that genetic test results do not alter IRD
+patients’ clinical management, lack of clinicians’ confidence in their ability to order the appropriate test, preference to
+refer to experienced clinicians, and/or patient refusal.15
+To our knowledge, there are no studies exploring the rate and outcomes of IRD genetic testing ordered by Australian
+ophthalmologistsinaclinicalprivatetertiarycaresetting.Thisstudysoughttoevaluatethecurrentprevalenceofgenetic
+testing,distributionof IRDsandgeneticdiagnosesin a privatetertiaryretinalpractice in Victoria,Australia.This should
+betakenasanindicationofhistoricalreferralprocesses,whengenetictestingwasnotkeyinthemanagementofIRD.We
+aim to reassess in several years to observe the changes following the recent Royal Australian and New Zealand College
+of Ophthalmologists (RANZCO) IRD management guidelines,11which have highlighted the need for more widespread
+genetic testing with the availability of gene-based therapies for these patients.
+Methods
+This retrospective analysis involved evaluation of electronic medical records of pre-existing patients of Eye Surgery
+Associates,alargeprivateophthalmicpracticeinVictoria,Australia,with18sub-specialtyophthalmologists.Patientsare
+referred to this clinic for tertiary level medical retina care and/or diagnostic retinal electrophysiology services.
+The senior author and ophthalmologist HM completed a search of the practice’s electronic database (VIP.net Version
+Ruby, Best Practice Software, Bundaberg, QLD) to identify all confirmed or suspected IRD patients seen between 1995
+and2021 using thefollowing search terms: retinitis pigmentosa (or abbreviation, RP), retinaldystrophy, cone dystrophy,
+cone-rod dystrophy, macular dystrophy, Best, Stargardt, congenital stationary night blindness, monochromat, achroma-
+topsia, Bietti, choroideremia, familial exudative vitreoretinopathy, Usher, Wagner, gyrate and Sorsby.
+After removing duplicate records, clinical records were reviewed by HM for accuracy of diagnosis, and those with
+incorrect or uncertain diagnoses as documented by clinicians were excluded, including 20 cases of possible adult
+vitelliform macular dystrophy, which were not possible to distinguish from age-related macular degeneration from
+clinical records.
+Data Collection
+A two-stage clinical record review was undertaken by the senior author (HM), followed by two co-first authors
+experienced in IRD (YJ, SG). The analysis was completed between June and August 2021. The senior author (HM) is
+an experienced ophthalmologist in the management of medical retina disorders, particularly IRDs. Both co-first authors
+are optometry trained with further training in research (MPhil, SG) and medicine (MD, YJ). Data were captured as
+https://doi.org/10.2147/OPTH.S353787
+DovePressClinical Ophthalmology 2022:16 1128Gocuk et al Dovepress
+Powered by TCPDF (www.tcpdf.org)documented in the clinical records by the treating clinician. Unclear records (n=10) were discussed by the broader
+research team (YJ, SG, HM, LA, ACBJ) to obtain consensus.
+The following de-identified information was collected, based only upon information available in the patient record:
+patient age, gender (female, male, non-binary), duration of care at the practice (months), clinical diagnosis of IRD,
+suspected mode of inheritance, history of consanguinity, and genetic testing results for the patient and/or family
+members. Suspected mode of inheritance was determined through family history ( Supplementary Figure 1 ), and when
+present, genetic test results of the patient and their family members.
+If a genetic test report was available, the following data were collected: testing methodology (NGS, WES, Sanger
+sequencing, microarray, unknown), clinical grade or research grade testing, and whether the pathogenic or likely
+pathogenic variant was identified.
+If no genetic test results were available, the status of planned testing was captured (awaiting geneticist, awaiting test
+results,patientrefused,ornotfurtherspecified).Clinicalrecordsthatdidnotcapturewhethergenetictestingwasordered
+or the patient’s response to genetic testing, were considered “not further specified.”
+Data Management and Privacy
+De-identifieddatawerecollectedusingREDCap,asecurewebapplicationforbuildingandmanagingonlinesurveysand
+databases. REDCap includes a full analysis trail and specified user-based privileges. Access to study data in REDCap
+was restricted to the members of the study team. Only de-identified data was exported for the purposes of analysis and
+reporting.
+Statistical Analysis
+De-identified data were imported into R (R Core Team, Vienna, Austria) for descriptive statistical analyses. IRD clinical
+diagnosis was grouped into panretinal pigmentary retinopathies, macular dystrophies, stationary diseases, and hereditary
+vitreoretinopathies according to Coco-Martin et al.22
+Agesubgroupsarepresentedasyoungpatients(lessthan45yearsofage)versusolderpatients(45yearsandolder)as
+an appropriate cut-off age for family planning23and childbearing.24The distribution of the data was explored and
+comparison between subgroups was performed using Wilcoxon rank sum test for non-parametric continuous variables
+and Fisher exact test for categorical variables. An alpha value of 0.05 was used to define statistical significance. Binary
+logisticregressionwasperformedusingIBM SPSSStatisticsforWindows,version27(IBMCorp.,Armonk,NY,USA),
+to calculate the odds of patients having had genetic testing based on patients’ gender, age, and duration of care.
+Ethics
+All patients had provided written consent for their health information to be used for research, and audit purposes at the
+timeoftheirinitialvisitatEyeSurgeryAssociates,therefore,werenotre-contactedforconsentspecificallyforthisstudy.
+Ophthalmologists of all reviewed patients gave permission for record access. This study was approved by the Human
+Research Ethics committee of the RANZCO (#124.21) and abided by the Declaration of Helsinki.
+Results
+An initial search of the database containing 194,716 unique patient records at Eye Surgery Associates revealed 541
+patients withanIRD. Exclusionofincomplete patientrecords and/or incorrector uncertainclinicaldiagnoses resultedin
+464 patient records in this retrospective study.
+Demographicvariablesarepresentedin Table1.Approximatelyhalfofthepatientsweremale(239,51.5%).Included
+patientshadamedianageof46years(interquartilerange[IQR]:28–60)andamediandurationofcareof5months(IQR:
+0–63 months). Based on clinical diagnosis, patients were grouped as having panretinal pigmentary retinopathies (284,
+61.2%), macular dystrophies (137, 29.5%), stationary diseases (23, 5%), hereditary vitreoretinopathies (14, 3%), and
+otherIRDs(6,1.3%).Thesuspectedpatternofinheritanceofpatients’IRDwaspredominantlyautosomalrecessive(205,
+44.2%), followed by autosomal dominant (60, 12.9%), X-linked (22, 4.7%), and mitochondrial (6, 1.3%). There were
+Clinical Ophthalmology 2022:16https://doi.org/10.2147/OPTH.S353787
+DovePress1129Dovepress Gocuk et al
+Powered by TCPDF (www.tcpdf.org)patients with unknown (85, 18.3%) or multiple (86, 18.5%) possible modes of inheritance based on clinical records
+(Figure 1). Consanguinity was noted in a small percentage of patients (17, 3.6%).
+In the study cohort, there was a predominance of younger males (less than 45 years of age) and older females (45
+yearsorolder).Age-stratifiedanalysisshowedthattheyoungerpatientswerelesslikelytohaveattendedthepracticefor
+more than a year (younger vs older: 61.1% vs 48.1%, p<0.01) but more likely to have genetic testing performed (13.1%
+vs 6.2%,p=0.01) thanolder patients. Younger patients werealso morelikely to have receivedcare for stationary disease
+(8.6% vs 1.6%, p<0.01). More patients in the older age group had macular dystrophies (34.6% vs 24%, p<0.01);
+however, the number of patients with panretinal pigmentary retinopathies (60.5% vs 62%, p=0.78) was similar in both
+groups.Table 1Demographics of All Patients and as Categorised by Age (Less Than 45 Years of Age, 45 Years or Older)
+Less Than 45 Years of
+Age45 Years of Age or
+OlderTotal p-value
+(n=221) (n=243) (n=464)
+Age, years median (IQR) 28 (20–36) 60 (53–69.5) 46 (28–60)
+Gender, n (%) <0.01
+Male 128 (57.9%) 111 (45.7%) 239 (51.5%)
+Female 93 (42.1%) 132 (54.3%) 225 (48.5%)
+Duration of care, months, median
+(IQR)1 (0–40) 13 (0–84) 5 (0–63.25)
+Less than 12 months 135 (61.1%) 117 (48.1%) 252 (54.3%) <0.01
+12 months or more 86 (38.9%) 126 (51.9%) 212 (45.7%)
+Genetic testing performed, n (%) 29 (13.1%) 15 (6.2%) 44 (9.5%) 0.01
+Clinical Diagnosis, n (%)
+Panretinal pigmentary retinopathies 137 (62%) 147 (60.5%) 284 (61.2%) 0.78
+Retinitis pigmentosa/rod-cone
+dystrophy99 (44.8%) 122 (50.2%) 221 (47.6%)
+Cone-rod dystrophy 11 (5.0%) 9 (3.7%) 20 (4.3%)
+Cone dystrophy 9 (4.1%) 11 (4.5%) 20 (4.3%)
+Other Panretinal pigmentary
+retinopathies†18 (8.1%) 5 (2.3%) 23 (5.0%)
+Macular dystrophies 53 (24%) 84 (34.6%) 137 (29.5%) <0.01
+Macular atrophy/dystrophy with flecks 26 (11.8%) 30 (12.3%) 56 (12.1%)
+Macular atrophy/dystrophy without
+flecks20 (9%) 25 (10.3%) 45 (9.7%)
+Other macular dystrophies ‡ 7 (3.2%) 29 (11.9%) 36 (7.8%)
+Stationary diseases 19 (8.6%) 4 (1.6%) 23 (5%) <0.01
+Congenital stationary night blindness 13 (5.9%) 1 (0.4%) 14 (3%)
+Achromatopsia/dyschromatopsia 6 (2.7%) 3 (1.2%) 9 (1.9%)
+Hereditary vitreoretinopathies 9 (4.1%) 5 (2.1%) 14 (3%) 0.28
+Familial exudative vitreoretinopathy 7 (3.2%) 3 (1.2%) 10 (2.2%)
+X-linked retinoschisis 2 (0.9%) 2 (0.8%) 4 (0.9%)
+Other ¥ 3 (1.2%) 3 (1.2%) 6 (1.3%)
+Notes: †Other Panretinal pigmentary retinopathies include: Bietti’s crystalline corneoretinal dystrophy (n=1), choroideremia (n=5), Leber’s congenital amaurosis (n=7),
+Retinitispunctata albescens (n=3), S-cone/Goldman favre(n=4), gyrate atrophy(n=2), and “bilateralretinaldystrophy” asthe documented diagnosison the patient’s clinical
+records(n=1).‡OthermaculardystrophiesincludeBest’svitelliformmaculardystrophy(n=17),benignconcentricannularmaculardystrophy(n=5),butterfly-shapedpattern
+dystrophy(n=7),centralareolarchoroidaldystrophy(n=1),andbull’seyemaculopathy(n=5),and“maculardystrophy”asthe documenteddiagnosison thepatient’sclinical
+records(n=1). ¥Otherclinical diagnoses include Wagner’svitreoretinopathy(n=2), abetalipoproteinaemia(n=1), late-onset retinaldegeneration (n=1),Batten diseasewith
+retinal involvement (n=1), and mucopolysaccharidosis II with retinal involvement (n=1).
+Abbreviation : IQR; interquartile range.
+https://doi.org/10.2147/OPTH.S353787
+DovePressClinical Ophthalmology 2022:16 1130Gocuk et al Dovepress
+Powered by TCPDF (www.tcpdf.org)Genetic Testing
+Genetic testing results were available in patients’ clinical records for 44 patients (9.5%). Genetic testing was performed
+mostly for patients less than 45 years of age (13.1% for <45 years vs 6.2% ≥45 years of age, p=0.01) and those with
+duration of care of 12 months or longer (16% for ≥12 months of care vs 4% for <12 months of care, p<0.01). For three
+patients, immediate family members had genetic testing results available. While clinical information from a family
+member or research grade testing is useful in a clinical setting, only patients who have undergone clinical testing
+themselves were included in this analysis.
+Reasons for not having genetic testing results available were documented as: awaiting an appointment with
+a geneticist (75, 17.9%), awaiting test results following sample collection (19, 4.5%), and patient refusal of genetic
+testing (35, 8.4%). However, in most cases, the reason was “not further specified” (290, 69.2%) ( Figure 2).
+Multivariate logistic regression revealed that younger patients (OR: 2.95, p<0.01) and those with duration of care of
+12 months or longer (OR: 5.48, p<0.01) are more likely to have had genetic testing performed ( Table 2). There was no
+association between gender and the likelihood of patients having genetic testing results available (univariate OR: 0.79,
+p=0.46).
+Ofthegenetictestingresultsobtained,43.2%wereclinicalgradeand6.8%wereresearchgrade;however,for50%of
+thegenetictests,thisinformationwasnotdocumentedinthepatient’sclinicalrecordorgeneticreport.Inthiscohort,the
+diagnostic yield of genetic testing was 65.9%. Among the genes identified, the most common was ABCA4(13.6%),
+followed by BEST1andUSH2A(6.8% each), MFRP, RHO, CRB1(4.5% each) and BBS1, BBS9, CHM, CNGA3, CRX,
+CSPP1, EYS, HFE, IFT2, INPP5E, FSCN2, MT-ND5, MT-TL1, NMNAT1, PEX7, PRPF8, PRPS1, RGR, RP1, RP1L1,
+RPGR, SPATA7 (2.3% each). In all cases, the ABCA4gene variant was determined to be pathogenic from laboratory
+reports, and there were two to three pathogenic variants identified per patient. No further familial testing data was
+reported within the clinical records for any of the patients with an ABCA4gene mutation. Two patients had only one
+ABCA4mutationidentified;therefore,thesepatientswerenotincludedinthediagnosticyieldofgenetictestingreported.
+Figure1Suspectedmodeofinheritanceofinheritedretinaldisease,basedupongenetictestresults,familyhistoryofinheritedretinaldisease,orclinicians’suspectedmode
+of inheritance (as documented). Data presented as n, (%).
+Clinical Ophthalmology 2022:16https://doi.org/10.2147/OPTH.S353787
+DovePress1131Dovepress Gocuk et al
+Powered by TCPDF (www.tcpdf.org)In31.8%ofthegeneticreports,thedisease-causingvariantwasnotdocumentedorundetected.Themostcommongenes
+and their frequency in our cohort are summarised in Table 3.
+Discussion
+This retrospective, single centre study presents data of the frequencies of IRD at a private subspecialty tertiary referral
+retinalpractice,servicingpredominantlyVictoria,Australia.Toourknowledge,thisisthefirstAustralianstudyreporting
+genetic test ordering in a large tertiary practice with a large database of patients with IRD. This information is valuable
+forophthalmologistsandotherhealthcareprofessionalstoreflectontheircurrentgenetictestorderingandthebenefitsof
+identifying patient-specific variants. The rate of genetic testing results was 9.5%, which lags behind similar cohorts in
+developed countries such as the US (55%)25and Spain (26.85%).26This is likely due to several factors: the very recent
+approval of gene-based therapies that require this information (voretigene neparvovec-rzyl approved in Australia in
+Table2UnivariateandMultivariateLogisticRegressionAssessingPredictorsofHavingGeneticTestingResultsAmongPatients
+Univariate Analysis Multivariate Analysis
+OR (95% CI) p-value OR (95% CI) p-value
+Gender
+Male Ref - -
+Female 0.79 (0.422–1.477) 0.46
+Age
+45 or over Ref Ref
+Less than 45 2.30 (1.196–4.408) 0.01 2.95 (1.502–5.807) <0.01
+Duration of care
+Less than 12 months Ref Ref
+12 months or over 4.62 (2.225–9.603) <0.01 5.48 (2.598–11.569) <0.01
+Figure2Documentedreasonsforabsenceofgenetictestresults,n(%).Awaitinggeneticistandtestresultsindicatepatienthasbeenreferredforgenetictesting,however,
+has not been seen or has not received results yet. “Not further specified” indicates that counselling regarding genetic testing was not documented on patients’ clinical
+records. Results presented as n, (%).
+https://doi.org/10.2147/OPTH.S353787
+DovePressClinical Ophthalmology 2022:16 1132Gocuk et al Dovepress
+Powered by TCPDF (www.tcpdf.org)2020), improvements in genetic testing technologies, and slower introduction of genetic testing programs in Australia.
+Sponsored IRD genetic testing programs were introduced in Australia in 2021 but have been available overseas for
+several years. Access to free testing for patients undoubtedly has the potential to increase genetic testing uptake. In
+addition, the RANZCO guidelines for IRD management,11which emphasise the importance of genetic testing for
+a broader group of patients than previously thought beneficial, will change future practice. Finally, this practice is
+a specialist tertiary care provider, where patients are often referred for specialised testing (such as electrophysiology or
+confirmation ofdiagnosis, etc).Hence,there isa highpercentage of single-visit patientsin this cohort,which meansit is
+less likely that genetic testing would have been discussed. The results of this study are intended as a benchmark of
+historical practice (1995–2021), and we will reassess in the future to determine the changes due to the above factors.
+The predominant phenotypic diagnosis in this patient cohort was retinitis pigmentosa/rod-cone dystrophy. Macular
+dystrophy with flecks was the second most common IRD category, suggesting ABCA4retinopathy as the most common
+macular IRD diagnosis. The distribution of IRD phenotypes in our cohort is similar to those reported in Spain,26,27the
+US,14,28theUK,29Iran,30andNorway.31TheAustralianInheritedRetinalDiseaseRegistryandDNABankalsoreported
+that retinitis pigmentosa and Stargardt disease are the most common two diagnoses among over 9000 Australian
+patients.32Table 3Frequency of Genes Identified During Genetic Testing
+Causative Genes
+IdentifiedFrequency Identified
+in Testing†% of Cohort
+(n=44)Pathogenic (P), Likely Pathogenic (LP), Variant of
+Unknown Significance (VUS)‡
+ABCA4 6 13.6% P: 100%
+BEST1 3 6.8% P: 50%; LP: 50%
+USH2A 3 6.8% VUS: 33%; LP: 66%
+CRB1 2 4.5% P: 50%; LP: 50%
+MFRP 2 4.5% LP: 100%
+RHO 2 4.5% P: 100%
+BBS1 1 2.2% P: 100%
+BBS9 1 2.2% P: 100%
+CHM 1 2.2% LP: 100%
+CNGA3 1 2.2% P: 100%
+CRX 1 2.2% LP: 100%
+CSPP1 1 2.2% P: 100%
+EYS 1 2.2% P: 100%
+IFT2 1 2.2% P: 100%
+INPP5E 1 2.2% P: 100%
+FSCN2 1 2.2% P: 100%
+MT-ND5 1 2.2% P: 100%
+MT-TL1 1 2.2% LP: 100%
+NMNAT1 1 2.2% LP: 100%
+PEX7 1 2.2% LP: 100%
+PRPF8 1 2.2% P: 100%
+PRPS1 1 2.2% P: 100%
+RGR 1 2.2% VUS: 100%
+RP1 1 2.2% LP: 100%
+RP1L1 1 2.2% P: 100%
+RPGR 1 2.2% P: 100%
+SPATA7 1 2.2% VUS: 100%
+Disease-causing variant
+not identified15 34.1% N/A
+Notes:†Pathogenicity was determined based on the genetic testing report obtained from the testing laboratory and/or geneticist or genetic counsellor and not by the
+respective clinician.‡Some patients had multiple genes identified.
+Clinical Ophthalmology 2022:16https://doi.org/10.2147/OPTH.S353787
+DovePress1133Dovepress Gocuk et al
+Powered by TCPDF (www.tcpdf.org)Among those who had genetic testing performed, the most common molecular diagnoses were ABCA4, followed by
+BEST1, USH2A, RHO, RP1, CRB1 . This compares well to other study cohorts in Brazil,31New Zealand33and UK.29
+Similarly,astudybyMansfieldetal(2020)reportedthat ABCA4, USH2A, RHO, BEST1 andCRB1areamongthetop10
+genes identified in the My Retina Tracker®Registry containing approximately 27,000 registered individuals with IRD.28
+Obtaining a history of consanguinity in patients with an IRD may assist in selecting appropriate genes for screening and
+interpretingwhole-genomesequencingresults.29Inthecurrentcohort,3.5%ofthepatientsreportedconsanguinity,whichismid-
+rangebetweenreportedChinese(<1%)34andNorwegian(6%)31IRDpatientcohorts.However,ourresultsarelessthanthose
+reportedinBrazil(>10%),35Spain(11%),22andIran(76%).30AstudybyKhanetal(2017)foundthatdiagnosticyieldincreased
+from45%to60%whenconsanguinitywasconsideredtoselectthemostappropriatetest.36Thisresultsupportstheimportanceof
+capturingpatients’ethnicbackgroundandpedigreestructuretoincreasedetectionratesofthedisease-causingvariant.36
+Inthecurrentstudycohort,thepredominantinheritancepatternwasautosomalrecessive(44.2%)followedbyautosomal
+dominant(12.9%)andX-linkedinheritance(4.7%).AstudybyLiuetal(2021)similarlyreportedthatinaregistrycontaining
+800 Chinese families, the inheritance pattern was also predominantly autosomal recessive (43.88%), followed by X-linked
+(9.25%)andautosomaldominant(7%).34StudiesintheUK20,29,36andtheUS14alsoreportsimilarfrequenciesofinheritance
+patterns.However,astudybyCoco-Martinetal(2021)reportedthatthemostcommoninheritancepatternbasedonfamily
+historyintheircohortofIRDpatientswasautosomaldominant(52%)followedbyautosomalrecessive(23%)andX-linked
+(10%) inheritance.22This may be attributed to a greater proportion of macular dystrophies in their study (n=161), mainly
+following an autosomal dominant inheritance, compared to panretinal pigmentary retinopathies (n=39) following an auto-
+somal recessive inheritance pattern.22This variation in IRD phenotype may further be explained by the extensive macular
+dystrophiesreportedintheSpanishcohort,22potentiallyasaresultofgeographicdisparitiesandgreaterfrequenciesofcertain
+mutationsincommonracialclassifications(Africa,Europe,Asia,Oceania,Americas).37
+Diagnostic Yield of Genetic Testing
+Aproportionofourcohorthadinconclusiveresults,whichincludedbothnegative(31.8%)resultsfromgenetictestreportsand
+unavailable or pending (22.4%) results from tests ordered. Our “solve rate” was 65.9% for those patients who had genetic
+testing, which is comparable to diagnostic yield reported by studies in the US (76%),14China (60%),34and New Zealand
+(83.6%).33Mottaetal(2017)reportedresultssimilartothecurrentstudy,with71.6%oftheircohortreceivingaconclusive
+moleculardiagnosiscomparedto28%individualsreceivingnegativeorinconclusiveresults.35Ourresultsweresignificantly
+greater than the solution rate reported in Norway (32%).31Gene-panel testing for IRD was not available at the time of that
+publication(priorto2016)inNorway;therefore,arrayedprimerextensionwasthetestofchoicewhichinvolvestestingeach
+patientforapanelofknowndisease-causinggenes.31NGStestingincreasesdiagnosticyield;however,itmayalsoincrease
+detectionofvariantofunknownsignificance(VUS).Therefore,furtherinvestigationisrequiredinthisarea.11,38
+The diagnostic yield for genetic testing also varies depending on the provisional IRD diagnosis, testing methodology
+and whether the IRD is genetically simple or exhibits complex disease phenotypes.38,39Jiman et al (2020) reported
+a significant improvement in genetic diagnosis for people with a provisional clinical diagnosis compared to individuals
+without a clinical diagnosis at the time of genetic testing (71% compared to 25%).39Furthermore, Li et al (2019)
+suggestedthattailoringthepanelofgenestotheclinicalpresentationincreasesthediagnosticyieldofgenetictestingand
+reducesthefalse-positiverateofVUS.40Incorporationofclinicaldiagnosesintogenetictestingmustbeconsideredalong
+with genetic testing methods and gene panel selection.
+Barriers to Genetic Testing
+Among the patients who did not have genetic testing results available, 8.4% of clinical records documented patient
+refusal; however, this figure may be higher since approximately 70% of clinical records did not have documented
+counselling regarding genetic testing. It is important to consider the clinical context of genetic testing. At the time of
+care, genetic testing was often clinically unjustified in many of our patients with an established IRD diagnosis, stable
+clinical phenotype, or beyond reproductive age. Patient visits with the sole intention of providing legal blindness
+certification to established IRD patients or performing single procedure services such as electroretinography were
+considered exempt from genetic testing counselling and ordering.
+https://doi.org/10.2147/OPTH.S353787
+DovePressClinical Ophthalmology 2022:16 1134Gocuk et al Dovepress
+Powered by TCPDF (www.tcpdf.org)Patient-related barriers to uptake of genetic testing have been explored in several studies. Li et al (2019) found that
+patients were reluctant to agree to genetic testing due to cost involved, advanced age, mobility challenges due to poor
+vision and difficulty arranging transportation among the visually impaired.40However, 73% of the eligible patients
+consenttogenetictestingwhenatnocosttothem.40Recentlyannouncedindustrysponsoredtestingprograms(including
+Invitae and the Blueprint/Novartis collaboration, both commencing in 2021) offer IRD patients free access to panel
+testing in Australia, which may overcome this barrier. However, whether clinicians are aware of such programs remains
+unknown. Previous studies also recognise patients’ education, family status and age affect acceptance of genetic
+testing.23,41,42The main reasons for negative attitudes were due to the assumption that abortion rates will increase,
+exposuretosocialdiscrimination,misuseofresultsbyorderingclinician,andanxietiessurroundingtheirownhealthand
+thatoftheirchild’s.23,42Therefore,thereisaroleforclinicianstoearntheirpatients’trustandprovideinformativeadvice
+regarding the advantages of genetic testing.
+Inaddition,Neiweemetal(2021)recognisedthatmanycliniciansinmedicineandophthalmologyareunfamiliarwith
+genetic testing due to the several complexities involved.43Clinicians may be unaware which patients are suitable
+candidates, the appropriate test to order, how to interpret results, or the associated cost of genetic testing.21,43Further
+education may be required to educate clinicians and patients regarding the benefits of genetic testing using informative
+resources such as the Retina International Campaign, “Know Your Code” ( www.kyc.retinaint.org ).44Confoundingly,
+there is also variation in testing guidelines between international and Australian guidelines, with international patient
+advocacy groups such as Retina International detailing a need for global consensus in published guidelines.44The
+RANZCO have recently published comprehensive IRD management guidelines, which emphasise the importance of
+genetic testing in accordance with clinical benefits.11With emerging gene-dependent treatment options such as gene
+therapy, it is important to screen IRD patients to facilitate appropriate referral for clinical trials efficiently when it
+becomesavailable.Ofnote,inunsolvedcases,thecurrentliteraturerecommendsaretestintervalofatleast18months.45
+Previously reported resource-related barriers to genetic testing include long turnaround times of genetic testing (up to 6
+monthsinsomecases),46limitationsofgenetictestingmethods,39andlimitedintegrationofdifferentmedicalspecialitiessuch
+asophthalmologyandgeneticcounsellors.21ThelatterchallengeisbeingaddressedinAustralia,andothercountries,through
+multi-disciplinaryclinicssuchastheOcularGeneticsClinicattheRoyalVictorianEyeandEarHospital.AnotherAustralian-
+basedresourceforgeneticdataonIRDistheAustralianInheritedRetinalDiseaseRegisterandDNABiobank( https://www.
+scgh.health.wa.gov.au/Research/DNA-Bank ),whichholdsthelargestcollectionofDNAsamplesinAustralia.
+Akeystrengthofourstudyistherelativelylargepatientcohort,consistingof464patientsfromasinglelargetertiary
+ophthalmic practice. Furthermore, the study constituted a rigorous process of selecting appropriate patients using a two-
+stage clinical record review by the senior author (HM), followed by an ophthalmology registrar (YJ) and an optometrist
+experienced in IRD (SG) to assess clinical diagnoses and genetic testing results.
+Study limitations include the large heterogeneity in patient follow-up duration, ranging from single visits to regular
+patients attending for up to 27 years. The relatively high number of single visits at this clinic is due to high numbers of
+referrals solely for electrophysiological testing, diagnosing patients and/or certifying legal blindness. Once patients
+receive their clinical diagnosis, they return to their primary eyecare provider for ongoing management, who may have
+ordered genetic testing however forwarded these results with patient referrals. Furthermore, the relatively high “not
+further specified” reason for lack of genetic testing may be indicative of the variation of clinicians’ clinical record
+documentation patterns that did not capture discussions, referrals, and/or patient opinions. For pathogenicity determina-
+tion, we relied on information provided by the laboratory and/or geneticist or genetic counsellor available in patients’
+clinical records. In some cases, the letter provided to the ophthalmologist contained only information on the name of the
+affected gene and number of variants identified but no information on the specific variants.
+In the future, we expect these figures to improve with availability of higher precision genetic testing methods, free
+sponsored programs, FDA-approved gene therapy, and potentially greater awareness of genetic testing benefits. We aim
+to repeat this study in 2 years, to assess the impact these policy and practice changes have on genetic test ordering for
+people with IRD. Future research should evaluate genetic testing in the public system, as well as additional barriers,
+policies, and patient perceptions of the genetic testing process in Australia.
+Clinical Ophthalmology 2022:16https://doi.org/10.2147/OPTH.S353787
+DovePress1135Dovepress Gocuk et al
+Powered by TCPDF (www.tcpdf.org)OurstudycohortshowslowuptakeofgenetictestingofpatientswithIRDinalargeprivatetertiaryretinalpracticein
+Australia, compared to international studies. Currently, our cohort demonstrates that younger patients with longer
+duration of care are more likely to have received genetic test results. This study provides a snapshot of ophthalmic
+practices in genetic test ordering for definitive clinical diagnoses, establishing inheritance patterns, family planning, and
+assessingpatients’suitabilityforgene-targetedtherapies,whichwillbeofinteresttomanygeneralandspecialisedretinal
+ophthalmologists. We expect that the availability of sponsored testing programs and increased awareness relating to the
+importance of genetic testing will increase uptake of genetic testing in the future. To achieve this, we advocate further
+clinician and patient education based upon the established IRD guidelines (such as RANZCO11), streamlined access to
+public genetic clinics, detailed and standardised reporting of genetic test results, continued support of large IRD
+databases,andfundingforreduced-cost testingto improveongoing managementandclinical outcomesforIRDpatients.
+Abbreviations
+DNA,deoxyribonucleicacid;FDA,FoodandDrugAdministration;IRD,inheritedretinaldisease;NGS,next-generation
+sequencing; QLD, Queensland; RANZCO, Royal Australian and New Zealand College of Ophthalmologists; RNA,
+ribonucleic acid; RP, RETINITIS PIGmentosa; UK, United Kingdom; US, United States; VUS, variant of unknown
+significance; WES, whole-exome sequencing.
+Data Sharing Statement
+The data that support the findings of this study are available on request from the corresponding author. The data are not
+publicly available due to privacy or ethical restrictions.
+Acknowledgments
+The authorship team would like to thank the many IRD patients who have been seen at Eye Surgery Associates and the
+ophthalmologistscaringforthemwhoagreedtopatientfilereview:JacquelineBeltz,BenConnell,AnthonyJHHall,Andrew
+Symons,WilsonHeriotandGrantSnibson.LAissupportedbyaNationalHealthandMedicalResearchCouncil(NHMRC)
+MRFFFellowship(MRF#1151055)andEL2InvestigatorGrant(GNT#1195713).CERAreceivesOperationalInfrastructure
+SupportfromtheVictorianGovernment.SenaA.GocukandYuanzhangJiaoareco-firstauthors,andLaurenN.Aytonand
+HeatherG.Mackareco-seniorauthors,onthispaper.
+Disclosure
+Dr Lyndell Lim reports grants, personal fees from Bayer, personal fees from Novartis, personal fees from Allergan,
+outside the submitted work. The authors report no other conflicts of interest in this work.
+References
+1.Hanany M, Rivolta C, Sharon D. Worldwide carrier frequency and genetic prevalence of autosomal recessive inherited retinal diseases. Proc Natl
+Acad Sci.2020;117(5):2710–2716.
+2.Rattner A, Sun H, Nathans J. Molecular genetics of human retinal disease. Annu Rev Genet .1999;33(1):89–131.
+3.Crewe JM, Morlet N, Morgan WH, et al. Mortality and hospital morbidity of working-age blind. Br J Ophthalmol .2013;97(12):1579–1585.
+4.Liew G, Michaelides M, Bunce C. A comparison of the causes of blindness certifications in England and Wales in working age adults (16–64
+years), 1999–2000 with 2009–2010. BMJ Open .2014;4(2):e004015.
+5.ClemsonC,TzekovR,KrebsM,ChecchiJ,BigelowC,KaushalS.Therapeuticpotentialofvalproicacidforretinitispigmentosa. Br J Ophthalmol .
+2011;95(1):89–93.
+6.Birch DG, Bennett LD, Duncan JL, Weleber RG, Pennesi ME. Long-term follow-up of patients with retinitis pigmentosa receiving intraocular
+ciliary neurotrophic factor implants. Am J Ophthalmol .2016;170:10–14.
+7.Miura G, Sugawara T, Kawasaki Y, et al. Clinical trial to evaluate safety and efficacy of transdermal electrical stimulation on visual functions of
+patients with retinitis pigmentosa. Sci Rep.2019;9(1):1–8.
+8.Schatz A, Röck T, Naycheva L, et al. Transcorneal electrical stimulation for patients with retinitis pigmentosa: a prospective, randomized,
+sham-controlled exploratory study. Invest Ophthalmol Vis Sci .2011;52(7):4485–4496.
+9.Simunovic MP, Mack HG, Ayton L, Hassall M. Gene Therapy, Diet, and Drug Approaches to Treating Inherited Retinal Disease. In: Kenakin T,
+Editor. Reference Module in Biomedical Sciences - Comprehensive Pharmacology . Elsevier; 2021.
+10.Hu ML, Edwards TL, O’Hare F, et al. Gene therapy for inherited retinal diseases: progress and possibilities. Clin Exp Optom .2021;104
+(4):444–454.
+https://doi.org/10.2147/OPTH.S353787
+DovePressClinical Ophthalmology 2022:16 1136Gocuk et al Dovepress
+Powered by TCPDF (www.tcpdf.org)11.Grigg J, Jamieson R, Chen FK, et al. Guidelines for the assessment and management of patients with Inherited Retinal Degenerations. 2020.
+Available from: www.ranzco.edu . Accessed April 1, 2022.
+12.Duncan J, Bernstein P, Birch D, Fishman G, Heon E, Jacobson S. Recommendations on Clinical Assessment of Patients with Inherited Retinal
+Degenerations-2016. Clin J Med .2016;1:242.
+13.Moore AT. Genetic testing for inherited retinal disease. Ophthalmology .2017;124(9):1254–1255.
+14.Stone EM, Andorf JL, Whitmore SS, et al. Clinically focused molecular investigation of 1000 consecutive families with inherited retinal disease.
+Ophthalmology .2017;124(9):1314–1331.
+15.Strait S, Loman R, Erickson L, DeBenedictis M. Inherited retinal degeneration current genetics practices - a needs assessment. Ophthalmic Genet .
+2020;41(6):533–538.
+16.Lee K, Garg S. Navigating the current landscape of clinical genetic testing for inherited retinal dystrophies. Genet Med .2015;17(4):245–252.
+17.Carss KJ, Arno G, Erwood M, et al. Comprehensive rare variant analysis via whole-genome sequencing to determine the molecular pathology of
+inherited retinal disease. Am J Hum Genet .2017;100(1):75–90.
+18.Sharon D, Ben-Yosef T, Goldenberg-Cohen N, et al. A nationwide genetic analysis of inherited retinal diseases in Israel as assessed by the Israeli
+inherited retinal disease consortium (IIRDC). Hum Mutat .2020;41(1):140–149.
+19.Whelan L, Dockery A, Wynne N, et al. Findings from a genotyping study of over 1000 people with inherited retinal disorders in Ireland. Genes.
+2020;11(1):105.
+20.Shah M, Shanks M, Packham E, et al. Next generation sequencing using phenotype-based panels for genetic testing in inherited retinal diseases.
+Ophthalmic Genet .2020;41(4):331–337.
+21.BranhamK,SchlegelD,FahimAT,JayasunderaKT.Genetictestingforinheritedretinaldegenerations:triumphsandtribulations. Am J Med Genet
+Part C.2020;1:571–577.
+22.Coco-MartinRM,Diego-AlonsoM,Orduz-MontanaWA,SanabriaMR,DescriptiveS-TH.StudyofaCohortof488PatientswithInheritedRetinal
+Dystrophies. Clin Ophthalmol .2021;15:1075–1084.
+23.Aro AR, Hakonen A, Hietala M, et al. Acceptance of genetic testing in a general population: age, education and gender differences. Patient Educ
+Couns.1997;32(1–2):41–49.
+24.Vahratian A. Prevalence of overweight and obesity among women of childbearing age: results from the 2002 National Survey of Family Growth.
+Matern Child Health J .2009;13(2):268–273.
+25.MansfieldBC,YerxaBR,BranhamKH.Implementationofaregistryandopenaccessgenetictestingprogramforinheritedretinaldiseaseswithina
+non-profit foundation. Am J Med Genet Part C .2020;184(3):838–845.
+26.Coco-Martin RM, Diego-Alonso M, Orduz-Montaña WA, Sanabria MR, Sanchez-Tocino H. Descriptive Study of a Cohort of 488 Patients with
+Inherited Retinal Dystrophies. Clin Ophthalmol .2021;15:1075–1084.
+27.Holtan JP, Selmer KK, Heimdal KR, Bragadóttir R. Inherited retinal disease in Norway - a characterization of current clinical and genetic
+knowledge. Acta Ophthalmol .2020;98(3):286–295.
+28.MansfieldBC,YerxaBR,BranhamKH.Implementationofaregistryandopenaccessgenetictestingprogramforinheritedretinaldiseaseswithina
+non-profit foundation. Am J Med Genet C Semin Med Genet .2020;184(3):838–845.
+29.Pontikos N, Arno G, Jurkute N, et al. Genetic basis of inherited retinal disease in a molecularly characterized cohort of more than 3000 families
+from the United Kingdom. Ophthalmology .2020;127(10):1384–1394.
+30.Sabbaghi H, Daftarian N, Suri F, et al. The first inherited retinal disease registry in Iran: research protocol and results of a pilot study. Arch Iran
+Med.2020;23(7):445–454.
+31.Holtan JP, Selmer KK, Heimdal KR, Bragadóttir R. Inherited retinal disease in Norway–a characterization of current clinical and genetic
+knowledge. Acta Ophthalmol .2020;98(3):286–295.
+32.DeRoachJN,McLarenTL,ThompsonJA,etal.TheAustralianInheritedRetinalDiseaseRegistryandDNABank. Tasman Med J .2020;2(3):60–67.
+33.HullS,KirayG,ChiangJP,VincentAL.MolecularandphenotypicinvestigationofaNewZealandcohortofchildhood-onsetretinaldystrophy. Am
+J Med Genet C Semin Med Genet .2020;184(3):708–717.
+34.Liu X, Tao T, Zhao L, Li G, Yang L. Molecular diagnosis based on comprehensive genetic testing in 800 Chinese families with non-syndromic
+inherited retinal dystrophies. Clin Exp Ophthalmol .2021;49(1):46–59.
+35.MottaFL,MartinRP,Filippelli-SilvaR,SallesMV,SallumJMF.RelativefrequencyofinheritedretinaldystrophiesinBrazil. Sci Rep.2018;8(1):15939.
+36.Khan K, Chana R, Ali N, et al. Advanced diagnostic genetic testing in inherited retinal disease: experience from a single tertiary referral centre in
+the UK National Health Service. Clin Genet .2017;91(1):38–45.
+37.Tishkoff SA, Kidd KK. Implications of biogeography of human populations for’race’and medicine. Nat Genet.2004;36(11):S21–S7.
+38.Kohl S, Biskup S. [Genetic diagnostic testing in inherited retinal dystrophies]. Klin Monbl Augenheilkd .2013;230(3):243–246.
+39.Jiman OA, Taylor RL, Lenassi E, et al. Diagnostic yield of panel-based genetic testing in syndromic inherited retinal disease. Eur J Hum Genet .
+2020;28(5):576–586.
+40.LiAS,MacKayD,ChenH,RajagopalR,ApteRS.Challengestoroutinegenetictestingforinheritedretinaldystrophies. Ophthalmology .2019;126
+(10):1466–1468.
+41.Suther S, Goodson P. Barriers to the provision of genetic services by primary care physicians: a systematic review of the literature. Genet Med .
+2003;5(2):70–76.
+42.Suther S, Kiros G-E. Barriers to the use of genetic testing: a study of racial and ethnic disparities. Genet Med .2009;11(9):655–662.
+43.Neiweem AE, Hariprasad SM, Ciulla TA. Genetic testing prevalence, guidelines, and pitfalls in large, university-based medical systems.
+Ophthalmic Surg Lasers Imaging Retina .2021;52(1):6–10.
+44.Retinal International Campaign - Know Your Code. 2021. Available from: https://kyc.retinaint.org/ . Accessed April 1, 2022
+45.Tan NB, Stapleton R, Stark Z, et al. Evaluating systematic reanalysis of clinical genomic data in rare disease from single center experience and
+literature review. Mol Genet Genomic Med .2020;8(11):e1508.
+46.Stone EM, Aldave AJ, Drack AV, et al. Recommendations for genetic testing of inherited eye diseases: report of the American Academy of
+Ophthalmology task force on genetic testing. Ophthalmology .2012;119(11):2408–2410.
+Clinical Ophthalmology 2022:16https://doi.org/10.2147/OPTH.S353787
+DovePress1137Dovepress Gocuk et al
+Powered by TCPDF (www.tcpdf.org)Clinical Ophthalmology Dovepress
+Publish your work in this journal
+Clinical Ophthalmology is an international, peer-reviewedjournal covering all subspecialties within ophthalmology. Key topics include: Optometry;
+Visualscience;Pharmacologyanddrugtherapyineyediseases;BasicSciences;PrimaryandSecondaryeyecare;PatientSafetyandQualityofCare
+Improvements.ThisjournalisindexedonPubMedCentralandCAS,andistheofficialjournalofTheSocietyofClinicalOphthalmology(SCO).The
+manuscriptmanagementsystemiscompletelyonlineandincludesaveryquickandfairpeer-reviewsystem,whichisalleasytouse.Visithttp://www.
+dovepress.com/testimonials.phptoreadrealquotesfrompublishedauthors.
+Submityourmanuscripthere: https://www.dovepress.com/clinical-ophthalmology-journal
+DovePress Clinical Ophthalmology 2022:161138Gocuk et al Dovepress
+Powered by TCPDF (www.tcpdf.org)

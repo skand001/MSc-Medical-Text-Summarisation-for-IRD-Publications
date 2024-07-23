@@ -1,0 +1,442 @@
+ORIGINAL ARTICLE
+Molecular ﬁndings from 537 individuals
+with inherited retinal disease
+Jamie M Ellingford,1,2Stephanie Barton,1Sanjeev Bhaskar,1James O ’Sullivan,1,2
+Simon G Williams,1Janine A Lamb,4Binay Panda,5Panagiotis I Sergouniotis,1,2,3
+Rachel L Gillespie,1,2Stephen P Daiger,6Georgina Hall,1Theodora Gale,1
+I Christopher Lloyd,2,3Paul N Bishop,2,3Simon C Ramsden,1Graeme C M Black1,2,3
+▸Additional material is
+published online only. To view
+please visit the journal online(http://dx.doi.org/10.1136/jmedgenet-2016-103837).
+For numbered af ﬁliations see
+end of article.
+Correspondence to
+Graeme C M Black,Manchester Centre for
+Genomic Medicine, St Mary ’s
+Hospital, Central ManchesterNHS Hospitals FoundationTrust, Manchester, M13 9WL,
+UK;
+graeme.black@manchester.ac.uk
+Received 11 February 2016
+Accepted 14 April 2016Published Online First
+11 May 2016
+To cite: Ellingford JM,
+Barton S, Bhaskar S, et al.
+J Med Genet 2016; 53:761–
+767.ABSTRACT
+Background Inherited retinal diseases (IRDs) are a
+clinically and genetically heterogeneous set of disorders,for which diagnostic second-generation sequencing(next-generation sequencing, NGS) services have beendeveloped worldwide.
+Methods We present the molecular ﬁndings of 537
+individuals referred to a 105-gene diagnostic NGS testfor IRDs. We assess the diagnostic yield, the spectrum ofclinical referrals, the variant analysis burden and thegenetic heterogeneity of IRD. We retrospectively analysedisease-causing variants, including an assessment ofvariant frequency in Exome Aggregation Consortium(ExAC).Results Individuals were referred from 10 clinically
+distinct classi ﬁcations of IRD. Of the 4542 variants
+clinically analysed, we have reported 402 mutations as acause or a potential cause of disease in 62 of the 105genes surveyed. These variants account or likely accountfor the clinical diagnosis of IRD in 51% of the 537referred individuals. 144 potentially disease-causingmutations were identi ﬁed as novel at the time of clinical
+analysis, and we further demonstrate the segregation ofknown disease-causing variants among individuals withIRD. We show that clinically analysed variants indicatedas rare in dbSNP and the Exome Variant Server remainrare in ExAC, and that genes discovered as a cause ofIRD in the post-NGS era are rare causes of IRD in apopulation of clinically surveyed individuals.Conclusions Ourﬁndings illustrate the continued
+powerful utility of custom-gene panel diagnostic NGStests for IRD in the clinic, but suggest clear futureavenues for increasing diagnostic yields.
+INTRODUCTION
+Inherited retinal diseases (IRDs) are a diverse set of
+Mendelian disorders that are a major cause ofinherited blindness across the world. They arecaused by the progressive deterioration or the earlyloss of cells fundamental for the normal functionof the retina,
+1the component of the eye respon-
+sible for converting light energy into electricalsignals.
+IRDs are clinically heterogeneous and vary
+widely in their severity, age of onset, pathogenesis,manner of disease progression and inheritancepattern. IRDs distinguishable through clinical andelectrophysiological investigation include: rod-conedystrophy and retinitis pigmentosa (RCD/RP); conedystrophy (CD); cone-rod dystrophy (CRD);
+macular dystrophy and Stargardt disease (MD/STGD); early-onset retinal disease and Leber con-genital amaurosis (EORD/LCA); congenital station-ary night blindness (CSNB); and familial exudativevitreo-retinopathy. Notably, IRD can be a feature of
+a multisystem disorder such as Usher syndrome,
+Bardet –Biedl syndrome (BBS), Senior –Loken syn-
+drome and Joubert syndrome.
+Decades of research have elucidated the genetic
+basis of IRD, revealing a suite of mutations in over200 genes.
+2The genes associated with IRDs can be
+involved in a variety of processes and functions,3
+and their tissue expression can range from exclusiveexpression in the retina to ubiquitous expressionacross the body. IRDs are predominantly mono-genic but a range of inheritance patterns have beendescribed, including: autosomal-dominant,autosomal-recessive, X-linked, digenic and mito-chondrial inheritance.
+The identi ﬁcation of the genetic basis of IRD can
+greatly assist the clinical diagnosis, counselling,treatment and management received on apatient-by-patient basis. Since the inception ofsecond-generation DNA sequencing technologies(commonly referred to as next-generation sequen-cing, NGS) —techniques permitting the surveillance
+of genetic variation within multiple genes througha single experiment
+4—many clinical laboratories
+have adopted NGS as a tool for the diagnosis ofrare genetic diseases,
+5–7including IRD.89W e pre-
+viously described a custom-gene panel NGS diag-nostic service for individuals with IRD.
+10This
+follow-up report outlines the success of this 105gene diagnostic test for the ﬁrst 537 individuals
+with IRD referred from worldwide institutions anddescribes 131 new mutations in 45 genes as apotential cause of disease.
+MATERIALS AND METHODS
+Patient referrals
+Patient referrals were made from worldwide clinical
+institutions. There were no speci ﬁc requirements
+for clinical phenotypic descriptions of IRD beforediagnostic genomic testing was undertaken,although the reason for referral was requested. Allexperiments had been approved by the GreaterManchester W est Research Ethics Committee andwere performed in a UK Accreditation ServiceClinical Pathology Accredited Medical Laboratory.
+Ellingford JM, et al.J Med Genet 2016; 53:761–767. doi:10.1136/jmedgenet-2016-103837 761Genotype-phenotype correlationsEnrichment and sequencing
+DNA samples were enriched for the coding regions ±50 bp of
+105 genes (see online supplementary table S1) and a speci ﬁed
+intronic region of the CEP290 gene, using an Agilent SureSelect
+Custom Design target-enrichment kit (Agilent, Santa Clara,California, USA). DNA samples were indexed with a uniquepaired-end barcode and then subjected to multiplexed high-throughput parallel sequencing using either the ABI SOLiD5500 platform (n=235; Life T echnologies, Carlsbad, California,USA) or the Illumina HiSeq 2000/2500 (n=302; Illumina, SanDiego, California, USA), following manufacturer ’s protocols.
+Variant calling
+Sequencing reads were demultiplexed and aligned to the hg19 ref-
+erence genome before duplicate read removal and variant callingwas performed. For ABI SOLiD sequencing reads, demultiplexing,alignment and variant calling were all performed using LifescopeGenomic Analysis software. For Illumina HiSeq sequencing reads,demultiplexing was performed using CASA V A V .1.8.2. (Illumina),
+alignment was performed using Burrows-Wheeler Aligner shortread (BW A-short V .0.6.2) software,
+11and variant calling was per-
+formed using the Uni ﬁedGenotyper12within the Genome Analysis
+To ol K i t13(GATK-lite V .2.0.39), after base quality score recalibra-
+tion and indel realignment. T o reduce the number of potential false-positive variants from NGS, we primarily limited the clinical ana-lysis of genomic variants to those with sequencing quality metricsabove speci ﬁc criteria. These metrics were calculated as a result of
+pilot and control sample analyses, which have been previously pub-lished.
+10 14For the ABI SOLiD, we considered single-nucleotide
+variants (SNVs) with ≥18× sequencing depth and a minimum
+mean quality value (MQV) >18, and considered indels withsupport from >5× independent sequencing reads. For the IlluminaHiSeq, we considered SNVs with ≥50× independent sequencing
+reads and ≥45 MQV , and considered indels with support from
+>25% of the aligned and independent sequencing reads.
+Variant interpretation
+A summary of our strategy to clinically interpret genetic variantsis provided in online supplementary table S2. Clinical interpret-ation was restricted to variants within coding regions ±5 bp ofthe 105 genes included in online supplementary table S1 and anintronic variant, c.2991+1655A>G, in the CEP290 gene. W e
+considered variants with a frequency >1% in control popula-tion databases (Exome Variant Server, ESP-6500; dbSNP V .135)as benign polymorphisms, providing the cohort size was suf ﬁ-
+ciently large and diverse, and the sequencing read depthexceeded an average of 18× in the Exome Variant Server (EVS).Variants with a frequency below 1% in SNP databases but witha high recurrence rate in-house were classi ﬁed as neutral or
+proven to be NGS run artefacts by Sanger sequencing. Thepathogenicity of the remaining genetic variants was determinedthrough extensive appraisal of the variant ’s predicted conse-
+quence (annotations performed against the Ensembl V .68 data-
+base), the scienti ﬁc literature, the patient ’s clinical referral
+(genotype –phenotype correlations) and in silico modelling
+including SIFT
+15and PolyPhen-2.16These criteria for variant
+interpretation are consistent with the guidelines recently out-lined by the American College of Medical Genetics.
+17
+Clinical decision making
+A con ﬁrmed molecular diagnosis was provided for individuals
+with variants determined as ‘clearly pathogenic ’or‘likely patho-
+genic ’(see online supplementary table S2) in a disease-causingstate (eg, homozygous or compound heterozygous in a gene
+known to cause recessive IRD). A provisional molecular diagno-sis was reported for individuals with ‘variants of unknown clin-
+ical signi ﬁcance ’(see online supplementary table S2) that were
+found in a disease-causing state (eg, compound heterozygous
+with another ‘clearly pathogenic ’variant in a gene known to
+cause recessive IRD). If ‘clearly pathogenic ’or‘likely patho-
+genic ’variants were identi ﬁed in more than one gene in a
+disease-causing state the family history, phenotypic presentationand evidence for variant pathogenicity was discussed in detailwithin a clinical multidisciplinary team meeting. Variants deter-mined as ‘clearly pathogenic ’or‘likely pathogenic ’in a carrier
+state (eg, heterozygous in a gene known to cause recessive IRD)were clinically reported as carrier ﬁndings. Cascade testing was
+offered for relevant family members to assist with the interpret-ation of variant pathogenicity and to clarify the risks to add-itional family members.
+Variant validation
+W e performed PCR and bidirectional capillary sequencing toconﬁrm the zygosity and the presence of disease-causing and
+carrier variants before they were clinically reported.
+Retrospective variant analysis
+All clinically analysed SNVs were also retrospectively comparedwith the Exome Aggregation Consortium (ExAC) database inOctober 2015 to determine their frequency within a large andethnically diverse population data set. Novel and potentiallydisease-causing variants, absent from the literature at the time ofclinical analysis, were retrospectively compared with the HumanGene Mutation Database, HGMD ,
+18in October 2015. Mutated
+genes determined to account for molecular diagnoses were com-pared with their dates of discovery, available in the RetNetdatabase.
+2
+RESULTS
+Clinical detailsDemographics and classi ﬁcations
+W e performed diagnostic NGS testing for 537 patients (287
+males and 250 females) referred with clinical indications ofIRD. All of the 537 individuals were initially referred on asingleton basis.
+Phenotype classi ﬁcation
+IRDs have a diverse spectrum of overlapping clinical presenta-
+tion, which can vary by age of onset, extent of visual impair-ment, nature of disease progression and involvement ofadditional clinical features. W e grouped all referred patients into10 distinct clinical classi ﬁcations (see online supplementary table
+S3). The most common referral was non-syndromic RCD/RP(n=250). The most common referral of syndromic disease wasUsher syndrome (n=38), a disorder characterised by neurosen-sory hearing loss and visual impairment. There were eight casesof suspected syndromic ciliopathies referred, including sevencases of BBS.
+Molecular results
+Sequencing statistics
+A total of 2 089 243 343 aligned, ontarget and unique sequen-
+cing reads were generated by NGS. For the 235 patients ana-lysed through ABI SOLiD sequencing, an average of 6 537 522aligned, ontarget and unique sequencing reads were generatedfor each patient. For the 302 patients analysed through IlluminaHiSeq sequencing, an average of 1 830 879 aligned, ontarget
+762 Ellingford JM, et al.J Med Genet 2016; 53:761–767. doi:10.1136/jmedgenet-2016-103837Genotype-phenotype correlationsand unique sequencing reads were generated for each patient.
+The diagnostic assay achieved an average coverage at ≥20× for
+98.4% and at ≥50× for 97.3% of the region clinically analysed
+for the 537 referred patients (see online supplementary ﬁgure
+S1). Sequencing data generated through the Illumina HiSeq
+covered signi ﬁcantly more of the clinically analysed region than
+sequencing data generated through the ABI SOLiD at ≥20×
+coverage (see online supplementary ﬁgure S1; HiSeq=99.0
+±0.01%, SOLiD=97.6±0.05%, p<0.0001) and ≥50× cover-
+age (see online supplementary ﬁgure S1; HiSeq=98.3±0.03%,
+SOLiD=95.9±0.09%, p<0.0001).
+Variant analysis burden
+A total of 143 675 variants were initially identi ﬁed in the 537
+patients ( table 1 ). Using a bioinformatics pipeline, we ﬁltered
+the variants for their quality and frequency in control popula-tions. This restricted the number of variants for analysis to4542, an average of 8.4 variants per referred individual. Mostof the clinically analysed variants were single-nucleotide altera-tions (SNVs), with an average of 8.1 per patient. HeterozygousSNVs provided the largest burden for analysis, with 4172detected (an average of 7.8 per patient), but only 6% (n=252)reported as a cause of disease after extensive clinical analysis
+(table 1 ). There were 2266 unique SNVs clinically analysed,
+with 574 identi ﬁed in more than 1 individual. An indel event
+was clinically analysed, on average, in a third of the referredpatients.
+At the time of analysis, 30% of SNVs (1311/4358) and 71%
+of indels (131/184) were neither present in dbSNP or in EVS.This included 811 missense variants, 70 nonsense variants, 105coding region indel events, 26 splice region indel events, 350synonymous variants, 2 start codon variants, 32 canonical splicesite variants and 46 splice region variants (novel; ﬁgure 1 ). W e
+clinically analysed 135 deletion events (105 heterozygous and30 homozygous), 48 insertion events (46 heterozygous and 2homozygous) and 1 heterozygous deletion –insertion event.
+Eighty percent (147/184) of the indel events were present in thecoding regions of genes, and 110 of these were expected tocause premature termination of the protein product (84heterozygous and 26 homozygous). A small number of clinically
+analysed variants were determined as false positives after ana-lysis through PCR and bidirectional capillary sequencing techni-ques (see online supplementary table S4).
+Clinical decision making
+W e identi ﬁed a molecular diagnosis for 271 of the 537 referred
+patients (51%). The molecular ﬁndings underpinning these diag-
+noses are reported in online supplementary table S5. W e haveprovided a molecular diagnosis for recessive IRD in 208 cases(homozygous, n=88; compound heterozygous, n=120), domin-ant IRD in 50 cases and X-linked IRD in 13 cases. W e found noclear instances of digenic or polygenic inheritance. W e informedclinicians of 154 individuals who carry ‘clearly pathogenic ’or
+‘likely pathogenic ’variants in a carrier state, that is, heterozy-
+gous in a gene known to underpin disease inherited in a reces-sive manner, 59 of whom received a molecular diagnosis afterthe identi ﬁcation of ‘clearly pathogenic ’or‘likely pathogenic ’
+variants in other disease-causing genes (dominant IRD, n=11;recessive IRD, n=48). Eighty families were referred for cascadetesting after receiving molecular results from NGS testing forthe referred proband. W e con ﬁrmed compound heterozygous
+variants to be in-trans in 36 cases, con ﬁrmed homozygosity in
+11 cases, identi ﬁed de novo variants in 3 cases and identi ﬁed 16
+cases of additional variant segregation with IRD. In a singlecase, we identi ﬁed heterozygous variants underpinning a provi-
+sional molecular diagnosis to be in-cis , altering the counselling
+that was received by the referred individual.
+Several individuals were found to have ‘clearly pathogenic ’or
+‘likely pathogenic ’variants in a disease-causing state that would
+not be expected to cause the IRD subtype declared by the refer-ring clinician (see online supplementary table S6). For example,two individuals referred with clinical indications of RP werefound to have ‘likely pathogenic ’mutations in the CHM gene, a
+cause of choroideremia. These genomic ﬁndings led to the
+re-evaluation of initial clinical descriptions, and in some cases
+reﬁned or altered the initial clinical diagnosis. In a single case
+(13005797; online supplementary table S5), bidirectional capil-lary sequencing targeted at a region of GUCY2D , which had
+been poorly covered through NGS (460 nucleotides of a codingexon with <50× coverage) identi ﬁed a novel heterozygous mis-
+sense variant, c.380C>T p.(Pro127Arg), that had not beenidenti ﬁed through diagnostic NGS. This large protein-coding
+exon of GUCY2D (chr17:7906361 –7907091) has a GC content
+of 76.20%. Homozygous and compound heterozygous muta-tions in GUCY2D are known to cause EORD/LCA.
+19When
+considered in combination with a heterozygous frameshift muta-tion in GUCY2D , c.2595delG, the identi ﬁed missense variant
+was concluded to likely account for a molecular diagnosis ofautosomal-recessive EORD/LCA.
+Genetic heterogeneity
+In total, 402 genetic variants are reported to account for amolecular diagnosis of IRD (273 variants with a single occur-rence and 38 variants reported multiple times). Variantsreported in multiple individuals ranged from presence in 2(n=22) to 11 patients (n=1). The most commonly reportedvariant is CERKL c.375C>G p.(Cys125T rp), which is reported
+to coincide with clinical presentations of IRD from four diseasesubgroups: one case of CD; three cases of CRD; four cases ofRCD/RP and three cases of MD/STGD.
+Variants accounting for a molecular diagnosis of IRD were
+found in 62 of the 105 genes included in the diagnostic NGSassay ( ﬁgure 2 ). Most of the genes with disease-causing variantsTable 1 The total number of genetic variants found during the
+diagnostic screening process
+Type Hom Het Hemi Het –het Total
+Raw calls
+SNVs 46 405 90 981 338 82 137 806Indels 2182 3653 12 22 5869Total 48 587 94 634 350 104 143 675
+Clinically analysed
+SNVs 166 4172 20 0 4358Indels 27 150 7 0 184Total 193 4322 27 0 4542
+Clinically reported
+SNVs 58 252 9 0 319Indels 31 48 4 0 83Total 89 300 13 0 402
+The zygosity of raw calls and clinically analysed variants is estimated from the
+sequencing read pileups of next-generation sequencing (NGS) data. The zygosity ofclinically reported variants is confirmed through an alternative technique. hom ,
+homozygous variants; het, heterozygous variants, hemi , hemizygous variants found
+on chrX in males; het–het, variants with two unique alternative alleles differing from
+the reference allele ( hg19 ).
+Ellingford JM, et al.J Med Genet 2016; 53:761–767. doi:10.1136/jmedgenet-2016-103837 763Genotype-phenotype correlationsare restricted to a single disease referral category (see online
+supplementary table S7; 66%, n=41), the most frequent ofwhich are mutations causing recessively inherited RCD/RP intheEYSgene (n patients=7) and dominantly inherited RCD/RP
+in the RHO gene (n patients=6). The remaining 21 genes are
+reported with pathogenic variants in patients referred from twoor more disease referral categories (see online supplementarytable S7). The gene associated with the most highly variablephenotype is ABCA4 , which was concluded to contain patho-
+genic variants causing IRD in 23 patients referred from ﬁve dis-
+crete referral categories, including: 12 patients with MD/STGD;5 with CRD; 4 with RCD/RP and 1 individual with CD.Disruption of the ABCA4 gene was also concluded to be the
+cause of visual impairment in a single patient referred withUsher syndrome but is not expected to contribute to the clinicalpresentation of hearing loss.
+Mutation consequences
+W e determined 311 unique mutations to be the cause of disease.These included 137 missense variants, 20 canonical splice sitevariants, 76 nonsense variants, 54 out-of-frame insertion ordeletion events, 1 variant disrupting the start codon, 6 syn-onymous variants, 9 splice region variants, 1 intronic variantand 7 inframe deletions. Fifty-two percent (162/311) of thevariants reported to account for a molecular diagnosis wereneither present in dbSNP or EVS. Speci ﬁcally, 71% (97/137) of
+the clinically reported missense variants, 55% (42/76) of clinic-ally reported nonsense SNVs and 63% (34/54) of clinicallyreported out-of-frame indel events were neither present indbSNP or EVS.
+Of the 137 clinically reported missense variants, 30 had func-
+tional support of their disruption to the encoded protein, 49 haddisease segregation evidence in the literature without functionalsupport, 6 had evidence for an alternative amino acid substitu-tion at the same residue as a cause of disease and 52 were deter-mined as a novel cause of disease (see online supplementary tableS8). One hundred and thirty clinically reported variants areexpected to cause premature termination during protein synthe-sis, 76 of these are SNVs and 54 are out-of-frame small insertionor deletion events. Fifty-one percent (66/130) of theseloss-of-protein-function events were determined as novel causesof disease; this included 35 nonsense SNVs and 31 small indels(see online supplementary table S8).Retrospective variant analysis
+The average allele frequency in ExAC of the 2266 unique clinic-ally analysed SNVs was 0.12; however, 12% (517/4358) of allclinically analysed SNVs were found to be at a greater frequencythan 1% in the ExAC database. The average allele frequency inExAC of variants clinically reported as a cause of disease was0.02 (median=0 and max=0.78).
+One hundred and forty-four variants were determined as
+novel causes of disease at the time of clinical analysis.Ninety-one percent (131/144) of these variants remained novelcauses of disease after comparison with the HGMD in October2015. This included 46 missense variants, 12 canonical splicesite variants, 33 nonsense variants, 28 out-of-frame insertion ordeletion events, 4 synonymous variants, 5 splice region variantsand 3 inframe deletions. All of these variants are reported inonline supplementary table S8 and have been submitted to theClinVar database.
+Sixty- ﬁve of the 105 genes surveyed (62%) were identi ﬁed
+between 1995 and 2004, and mutations in these genesaccounted for a molecular diagnosis in 214 of the 271 cases(79%; ﬁgure 3 ). This equates to a rate of 3.3 diagnoses per gene
+analysed. In contrast, the 33 genes included in our analysis that
+were identi ﬁed post-2005 only accounted for 41 of the 271
+molecular diagnoses (15%; ﬁgure 3 ), a rate of 1.2 diagnoses per
+gene analysed.
+DISCUSSION
+Developments in DNA sequencing technology have enabled thetransition from single gene and known mutation diagnosticassays to comprehensive surveys of variation within all genesknown to cause disease phenotypes. This has shifted the diag-nostics bottleneck from the detection of disease-causing vari-ation to the clinical interpretation of the plethora of geneticvariants identi ﬁed. Here, we discuss the molecular ﬁndings from
+a NGS diagnostic test that has been employed in a clinicalcontext to survey genes known to be associated with IRD, aclinically and genetically heterogeneous set of Mendelian disor-ders that affect millions of individuals worldwide.
+20The ﬁnd-
+ings derived from a large cohort of individuals referredspeci ﬁcally for diagnostic genomic testing.
+W e have clinically reported 402 mutations as a cause or a
+potential cause of disease in 62 of the 105 genes surveyed.These variants account or likely account for the clinicalFigure 1 The variant analysis
+burden. The numbers of variantsanalysed by clinically accredited
+scientists by their expected
+consequences on the encoded protein
+and frequency in control populations.
+Annotations are performed against thespeci ﬁed transcripts in online
+supplementary table S1 using V.68 of
+the Ensembl database and population
+frequencies available in dbSNP and
+EVS.
+764 Ellingford JM, et al.J Med Genet 2016; 53:761–767. doi:10.1136/jmedgenet-2016-103837Genotype-phenotype correlationsdiagnosis of IRD in 51% of the 537 individuals referred for
+diagnostic testing, including 208 autosomal-recessive, 50autosomal-dominant and 13 X-linked recessive cases. Otherstudies employing NGS have shown higher molecular diagnosticrates than reported in this study, including Eisenberger and col-leagues,
+21Zhao and colleagues22and the Saudi Mendeliome
+group.23W e attribute differences in diagnostic success rates to a
+number of factors. First, the diagnostic service is provisioned forworldwide referral institutions on a singleton basis and there areno prespeci ﬁed criteria for the clinical phenotyping of referred
+individuals. Detailed clinical phenotyping in complement togenomic analysis has been shown to discover and acceleratediagnoses in the clinic.
+24 25Second, the 105 gene enrichment
+does not include all genes that are now known as a cause ofIRD, and application of whole exome sequencing (WES) orwhole genome sequencing (WGS) techniques to individualswithout a molecular diagnosis has identi ﬁed variants in other
+genes as a cause of disease, for example, mutations in IQCB1
+identi ﬁed through WES.
+26It is of note that we have recently
+expanded the diagnostic service to include an additional 71genes and pathogenic intronic variants associated with IRD.This expansion intends to meet the clinical need for the surveil-lance of genes known to underpin CSNB. Third, there weretechnical limitations with early versions of the diagnosticservice, for example, insuf ﬁcient coverage achieved by the ABI
+SOLiD sequencing platform over all 288 087 DNA bases whichare clinically surveyed (see online supplementary ﬁgure S1).
+The use of NGS in the clinic has drastically increased the
+diagnostic yields routinely achieved for IRD. However, therestill remains an inability to clinically survey the ﬁnal AG-rich
+exon of RPGR (orf15) through the NGS techniques described in
+this study and by others. Mutations in RPGR orf15 are well
+documented as a major cause of X-linked RP ,
+27but bidirectional
+capillary sequencing techniques remain the gold standard clin-ical screening tool for this region of the genome.
+28
+Complementing diagnostic NGS services with bidirectionalcapillary sequencing of regions which remain elusive to NGSwill increase diagnostic yields. Moreover, genetic variant
+Figure 2 The genetic basis of inherited retinal disease in 271 individuals with a con ﬁrmed or provisional molecular diagnosis. Each segment
+illustrates the number of individuals with genetic variants determined as a cause of inherited retinal disease.
+Figure 3 The relationship between the genes accounting for
+molecular diagnoses and the year of their discovery. The curves
+illustrate the trends in the proportion of 271 molecular diagnosesaccounted for by the analysis of 105 genes through diagnostic
+next-generation sequencing.
+Ellingford JM, et al.J Med Genet 2016; 53:761–767. doi:10.1136/jmedgenet-2016-103837 765Genotype-phenotype correlationsdetection in clinical diagnostics requires clinically validated bio-
+informatics techniques. Such techniques have evolved with theclinical requirements of diagnostic services. Validation of bio-informatics techniques to detect complex insertion and deletionevents, for example, Pindel,
+29and complete exon deletions and
+duplications, for example, ExomeDepth,30will undoubtedly
+increase the diagnostic yields described in this study, and inothers. Finally, the expansion of analyses to non-coding andregulatory regions of known disease-causing genes will increasediagnostic yields for IRD. W e observed an interesting trend inour cohort of predominantly W estern European and SouthAsian individuals, which suggests that newly identi ﬁed genes are
+becoming increasingly rarer causes of disease ( ﬁgure 3 ). The
+striking observation that 79% of cases with molecular diagnosesare accounted for by mutations in genes discovered between1995 and 2004 suggests that while the continued addition ofnew disease-causing genes will of course improve diagnostic ser-vices, the comprehensive evaluation of protein-coding and regu-latory variants affecting known disease-causing genes may havea greater in ﬂuence on diagnostic yield. For example, the
+genomic sequencing of genes known to cause IRD has identi ﬁed
+large deletions,
+14deeply intronic disease-causing mutations31
+and variants in regulatory regions,32which would elude trad-
+itional custom panel NGS analysis.
+A signi ﬁcant complication of implementing NGS as a diagnos-
+tic service is the number of variants, which require clinicalinterpretation on a patient-by-patient basis ( table 1 ), many of
+which have not previously been de ﬁned in control populations
+(ﬁgure 1 ). However, a clear advantage of NGS diagnostic
+approaches over other high-throughput techniques is the cap-ability to detect novel disease-causing variation,
+33deﬁned as var-
+iants that have not previously been reported as disease causingin the literature or in the HGMD. W e have reported 144 noveldisease-causing variants as a possible cause of IRD (see onlinesupplementary table S8). Thirteen of these variants determinedas novel at the time of clinical analysis have since been describedas disease causing in other studies, for example, USH2A
+c.11713C>T p.(Arg3905Cys)
+34and PRPF31 c.1060C>T p.
+(Arg354T er).35Many of the reported novel variants are
+expected to cause disruption of normal translation, including 35nonsense variants, 6 disruptions of canonical splice sites and 31out-of-frame coding indels. Most novel variants are clinicallyreported on a single occasion; however, some are reported tocause disease in multiple individuals, for example, CERKL
+c.193G>T p.(Glu65T er) in ﬁve individuals and EYS
+c.1155T>A p.(Cys385T er) in three individuals. None of thenovel missense variants, splice region variants or inframe indelsreported in this study are determined to cause disease on mul-tiple occasions, and further disease segregation and/or func-tional study will greatly assist their clinical interpretation.
+In summary, we illustrate the powerful clinical utility of a
+diagnostic NGS test for individuals with inherited visual impair-ment. W e add to evidence of known pathogenic mutationsthrough further correlation in individuals who present with clin-ical indications of IRD (see online supplementary table S5) andoutline 131 novel disease-causing variants that are not previ-ously described in individuals with IRD.
+Author af ﬁliations
+1Manchester Centre for Genomic Medicine, Central Manchester University Hospitals
+NHS Foundation Trust, Manchester Academic Health Sciences Centre, St Mary ’s
+Hospital, Manchester, UK
+2Institute of Human Development, University of Manchester, Manchester, UK
+3Manchester Royal Eye Hospital, Manchester Academic Health Sciences Centre,
+Central Manchester University Hospitals NHS Foundation Trust, Manchester, UK4Institute of Population Health, University of Manchester, Manchester, UK
+5Ganit Labs, Bio-IT Centre, Institute of Bioinformatics and Applied Biotechnology,
+Bangalore, India
+6School of Public Health, University of Texas Health Science Center, Houston, Texas,
+USA
+Acknowledgements This work was supported by Fight for Sight, RP Fighting
+Blindness, the Biotechnology and Biological Sciences Research Council, the
+Manchester Biomedical Research Centre and the DST UK-India Education andResearch Initiative. We thank referring clinicians and acknowledge contributions fromthe UK Inherited Retinal Disease Consortium.
+Contributors Design and coordination of the study: GCMB, JME,
+SCR. Contributing genetic and/or phenotypic data: JME, StB, SaB, JOS, SGW, PIS,
+RLG, SPD, GH, TG, ICL, PNB, SCR, GCMB. Writing of the manuscript: JME and
+GCMB. Revision of the manuscript with important intellectual content: all authors.
+Funding UK-India Education and Research Initiative, Fight for Sight UK,
+Biotechnology and Biological Sciences Research Council, RP Fighting Blindness.
+Competing interests None declared.
+Ethics approval Greater Manchester West Research Ethics Committee.
+Provenance and peer review Not commissioned; externally peer reviewed.
+Data sharing statement Novel variants, identi ﬁed in an NHS laboratory are
+shared through ClinVar.
+Open Access This is an Open Access article distributed in accordance with the
+terms of the Creative Commons Attribution (CC BY 4.0) license, which permitsothers to distribute, remix, adapt and build upon this work, for commercial use,provided the original work is properly cited. See: http://creativecommons.org/licenses/
+by/4.0/
+REFERENCES
+1 den Hollander AI, Black A, Bennett J, Cremers FPM. Lighting a candle in the dark:
+advances in genetics and gene therapy of recessive retinal dystrophies. J Clin Invest
+2010;120:3042 –53.
+2 Daiger SP, Sullivan LS, Bowne SJ. RetNet: Retinal Information Network, 1996.
+https://sph.uth.edu/retnet/ (Accessed April 2016).
+3 Wright AF, Chakarova CF, Abd El-Aziz MM, Bhattacharya SS. Photoreceptor
+degeneration: genetic and mechanistic dissection of a complex trait. Nat Rev Genet
+2010;11:273 –84.
+4 Metzker ML. Sequencing technologies —the next generation. Nat Rev Genet
+2010;11:31 –46.
+5 Yang Y, Muzny DM, Xia F, Niu Z, Person R, Ding Y, Ward P, Braxton A, Wang M,
+Buhay C, Veeraraghavan N, Hawes A, Chiang T, Leduc M, Beuten J, Zhang J, He W,Scull J, Willis A, Landsverk M, Craigen WJ, Bekheirnia MR, Stray-Pedersen A, Liu P,
+Wen S, Alcaraz W, Cui H, Walkiewicz M, Reid J, Bainbridge M, Patel A, Boerwinkle E,
+Beaudet AL, Lupski JR, Plon SE, Gibbs RA, Eng CM. Molecular ﬁndings among
+patients referred for clinical whole-exome sequencing. JAMA 2014;312:1870 –9.
+6 Gillespie RL, O ’Sullivan J, Ashworth J, Bhaskar S, Williams S, Biswas S, Kehdi E,
+Ramsden SC, Clayton-Smith J, Black GC, Lloyd IC. Personalized diagnosis and
+management of congenital cataract by next-generation sequencing. Ophthalmology
+2014;121:2124 –37.e2.
+7 Lee H, Deignan JL, Dorrani N, Strom SP, Kantarci S, Quintero-Rivera F, Das K, Toy T,
+Harry B, Yourshaw M, Fox M, Fogel BL, Martinez-Agosto JA, Wong DA, Chang VY,
+Shieh PB, Palmer CGS, Dipple KM, Grody WW, Vilain E, Nelson SF. Clinical ExomeSequencing for Genetic Identi ﬁcation of Rare Mendelian Disorders. JAMA
+2014;312:1880 –7.
+8 Lee K, Berg JS, Milko L, Crooks K, Lu M, Bizon C, Owen P, Wilhelmsen KC, Weck
+KE, Evans JP, Garg S. high diagnostic yield of whole exome sequencing inparticipants with retinal dystrophies in a clinical ophthalmology setting. Am J
+Ophthalmol 2015;160:354 –63.
+9 Wang H, Wang X, Zou X, Xu S, Li H, Soens ZT, Wang KQ, Li YM, Dong FT, Chen R,
+Sui RF. comprehensive molecular diagnosis of a large Chinese Leber congenitalamaurosis cohort. Invest Ophthalmol Vis Sci 2015;56:3642 –55.
+10 O ’Sullivan J, Mullaney BG, Bhaskar SS, Dickerson JE, Hall G, O ’Grady A, Webster A,
+Ramsden SC, Black GC. A paradigm shift in the delivery of services for diagnosis of
+inherited retinal disease. J Med Genet 2012;49:322 –6.
+11 Li H, Durbin R. Fast and accurate short read alignment with Burrows-Wheeler
+transform. Bioinformatics 2009;25:1754 –60.
+12 DePristo MA, Banks E, Poplin R, Garimella KV, Maguire JR, Hartl C, Philippakis AA,
+del Angel G, Rivas MA, Hanna M, McKenna A, Fennell TJ, Kernytsky AM,Sivachenko AY, Cibulskis K, Gabriel SB, Altshuler D, Daly MJ. A framework forvariation discovery and genotyping using next-generation DNA sequencing data.
+Nat Genet 2011;43:491 –8.
+13 McKenna A, Hanna M, Banks E, Sivachenko A, Cibulskis K, Kernytsky A, Garimella
+K, Altshuler D, Gabriel S, Daly M, DePristo MA. The Genome Analysis Toolkit:a MapReduce framework for analyzing next-generation DNA sequencing data.
+Genome Res 2010;20:1297 –303.
+766 Ellingford JM, et al.J Med Genet 2016; 53:761–767. doi:10.1136/jmedgenet-2016-103837Genotype-phenotype correlations14 Ellingford JM, Barton S, Bhaskar S, Williams SG, Sergouniotis PI, O ’Sullivan J, Lamb
+JA, Perveen R, Hall G, Newman WG, Bishop PN, Roberts SA, Leach R, Tearle R,
+Bayliss S, Ramsden SC, Nemeth AH, Black GCM. Whole genome sequencing
+increases molecular diagnostic yield compared with current diagnostic testing forinherited retinal disease. Ophthalmology 2016;123:1143 –50.
+15 Kumar P, Henikoff S, Ng PC. Predicting the effects of coding non-synonymous
+variants on protein function using the SIFT algorithm. Nat Protoc 2009;4:1073 –82.
+16 Adzhubei IA, Schmidt S, Peshkin L, Ramensky VE, Gerasimova A, Bork P,
+Kondrashov AS, Sunyaev SR. A method and server for predicting damagingmissense mutations. Nat Methods 2010;7:248 –9.
+17 Richards S, Aziz N, Bale S, Bick D, Das S, Gastier-Foster J, Grody WW, Hegde M,
+Lyon E, Spector E, Voelkerding K, Rehm HL. Standards and guidelines for theinterpretation of sequence variants: a joint consensus recommendation of theAmerican College of Medical Genetics and Genomics and the Association for
+Molecular Pathology. Genet Med 2015;17:405 –23.
+18 Stenson PD, Mort M, Ball EV, Shaw K, Phillips AD, Cooper DN. The Human Gene
+Mutation Database: building a comprehensive mutation repository for clinical andmolecular genetics, diagnostic testing and personalized genomic medicine.
+Hum Genet 2014;133:1 –9.
+19 Perrault I, Rozet JM, Calvas P, Gerber S, Camuzat A, Dollfus H, Chatelin S, Souied
+E, Ghazi I, Leowski C, Bonnemaison M, LePaslier D, Frezal J, Du ﬁer JL, Pittler S,
+Munnich A, Kaplan J. Retinal-speci ﬁc guanylate cyclase gene mutations in Leber ’s
+congenital amaurosis. Nature Genet 1996;14:461 –4.
+20 Berger W, Kloeckener-Gruissem B, Neidhardt J. The molecular basis of human
+retinal and vitreoretinal diseases. Prog Retin Eye Res 2010;29:335 –75.
+21 Eisenberger T, Neuhaus C, Khan AO, Decker C, Preising MN, Friedburg C, Bieg A,
+Gliem M, Issa PC, Holz FG, Baig SM, Hellenbroich Y, Galvez A, Platzer K, Wollnik B,
+Laddach N, Ghaffari SR, Rafati M, Botzenhart E, Tinschert S, Borger D, Bohring A,Schreml J, Kortge-Jung S, Schell-Apacik C, Bakur K, Al-Aama JY, Neuhann T,Herkenrath P, Nurnberg G, Nurnburg P, Davis JS, Gal A, Bergmann C, Lorenz B,
+Bolz HJ. Increasing the yield in targeted next-generation sequencing by implicating
+CNV analysis, non-coding exons and the overall variant load: the example of retinaldystrophies. PLoS ONE 2013;8:e78496.
+22 Zhao L, Wang F, Wang H, Li YM, Alexander S, Wang KQ, Willoughby CE, Zaneveld
+JE, Jiang LC, Soens ZT, Earle P, Simpson D, Silvestri G, Chen R. Next-generation
+sequencing-based molecular diagnosis of 82 retinitis pigmentosa probands fromNorthern Ireland. Hum Genet 2015;134:217 –30.
+23 Abdulwahab F, Abouelhoda M, Abouthuraya R, Imam A, Ahmed SO, Al Rubeaan K,
+Al Tassan N, AlAbdulaziz B, AlAbdulrahman K, Alamer FH, Alazami A, Al-Baik LA,
+Aldahmesh M, Al-Dhekri H, AlDusery H, Algazlan S, Al-Ghonaium A, Alhamed M,Alhashem A, Alhissi SA, AlIssa A, Aljurf MD, Alkuraya FS, Alkuraya H, Allam R,Almasharawi IJ, Almoisheer A, AlMostafa A, Al-Mousa H, Al-Muhsen S, Almutairy
+EA, Alnader N, AlNaqeb D, AlOtaibi AB, Alotibi A, Al-Qattan S, Al-Saud B, Al-Saud
+H, Alshammari M, Alsheikh H, Aisheikh AH, Al-Sulaiman A, Altamimi AS, Al-TayebH, Alwadaee SM, Al-Younes B, Alzahrani F, Anazi S, Arnaout R, Fahad B, Yousef B,Binhumaid FS, Boholega S, Broering D, Burdelski M, Dasouki MJ, Dzimiri NF,
+Elamin T, El-Kalioby M, Elsiesy H, Faqeih E, Faquih T, Hagos S, Hagr AA, Hashem
+M, Hawwari A, Hazzaa S, Ibrahim N, Imtiaz F, Jabr A, Kattan R, Kaya N, Kentab A,Khalil D, Khan AO, Khier O, Meyer B, Mohamed J, Monies D, Muiya PN, Murad H,Naim EA, Owaidah T, Patel N, Ramzan K, Salih MA, Shagrani M, Shaheen R,
+Shamseldin H, Sameera S, Shazia T, Khalid W, Salma M, Saudi Mendeliome Group.
+Comprehensive gene panels provide advantages over clinical exome sequencing forMendelian diseases. Genome Biol 2015;16:134.24 Akawi N, McRae J, Ansari M, Balasubramanian M, Blyth M, Brady AF, Clayton S,
+Cole T, Deshpande C, Fitzgerald TW, Foulds N, Francis R, Gabriel G, Gerety SS,
+Goodship J, Hobson E, Jones WD, Joss S, King D, Klena N, Kumar A, Lees M,
+Lelliott C, Lord J, McMullan D, O ’Regan M, Osio D, Piombo V, Prigmore E, Rajan D,
+Rosser E, Sifrim A, Smith A, Swaminathan GJ, Turnpenny P, Whitworth J, WrightCF, Firth HV, Barrett JC, Lo CW, FitzPatrick DR, Hurles ME, Study DDD. Discovery of
+four recessive developmental disorders using probabilistic genotype and phenotype
+matching among 4,125 families. Nature Genet 2015;47:1363.
+25 Smedley D, Jacobsen JOB, Jäger M, Köhler S, Holtgrewe M, Schubach M, Siragusa
+E, Zemojtel T, Buske OJ, Washington NL, Bone WP, Haendel MA, Robinson PN.
+Next-generation diagnostics and disease-gene discovery with the Exomiser.
+Nat Protoc 2015;10:2004 –15.
+26 Ellingford JM, Sergouniotis PI, Lennon R, Bhaskar S, Williams SG, Hillman KA,
+O’
+Sullivan J, Hall G, Ramsden SC, Lloyd IC, Woolf AS, Black GC. Pinpointing clinical
+diagnosis through whole exome sequencing to direct patient care: a case of
+Senior-Loken syndrome. Lancet 2015;385:1916.
+27 Ruddle JB, Ebenezer ND, Kearns LS, Mulhall LE, Mackey DA, Hardcastle AJ. RPGR
+ORF15 genotype and clinical variability of retinal degeneration in an Australian
+population. Br J Ophthalmol 2009;93:1151 –4.
+28 Bader I, Brandau O, Achatz H, Apfelstedt-Sylla E, Hergersberg M, Lorenz B,
+Wissinger B, Wittwer B, Rudolph G, Meindl A, Meitinger T. X-linked retinitispigmentosa: RPGR mutations in most families with de ﬁnite X linkage and clustering
+of mutations in a short sequence stretch of exon ORF15. Invest Ophthalmol Vis Sci
+2003;44:1458 –63.
+29 Ye K, Schulz MH, Long Q, Apweiler R, Ning Z. Pindel: a pattern growth approach
+to detect break points of large deletions and medium sized insertions from
+paired-end short reads. Bioinformatics 2009;25:2865 –71.
+30 Plagnol V, Curtis J, Epstein M, Mok KY, Stebbings E, Grigoriadou S, Wood NW,
+Hambleton S, Burns SO, Thrasher AJ, Kumararatne D, Dof ﬁnger R, Nejentsev S. A
+robust model for read count data in exome sequencing experiments and
+implications for copy number variant calling. Bioinformatics 2012;28:
+2747–54.
+31 Mayer AK, Rohrschneider K, Strom TM, Glockle N, Kohl S, Wissinger B, Weisschuh
+N. Homozygosity mapping and whole-genome sequencing reveals a deep intronic
+PROM1 mutation causing cone-rod dystrophy by pseudoexon activation. Eur J Hum
+Genet 2015;24:459 –62.
+32 Small KW, DeLuca AP, Whitmore SS, Rosenberg T, Silva-Garcia R, Udar N, Puech B,
+Garcia CA, Rice TA, Fishman GA, Heon E, Folk JC, Streb LM, Haas CM, Wiley LA,
+Scheetz TE, Fingert JH, Mullins RF, Tucker BA, Stone EM. North Carolina Macular
+Dystrophy Is Caused by Dysregulation of the Retinal Transcription Factor PRDM13.Ophthalmology 2016;123:9 –18.
+33 de Castro-Miro M, Pomares E, Lores-Motta L, Tonda R, Dopazo J, Marfany G,
+Gonzalez-Duarte R. Combined genetic and high-throughput strategies for molecular
+diagnosis of inherited retinal dystrophies. PLoS ONE 2014;9:e88410.
+34 Krawitz PM, Schiska D, Krüger U, Appelt S, Heinrich V, Parkhomchuk D,
+Timmermann B, Millan JM, Robinson PN, Mundlos S, Hecht J, Gross M. Screening
+for single nucleotide variants, small indels and exon deletions with a
+next-generation sequencing based gene panel approach for Usher syndrome.Mol Genet Genomic Med 2014;2:393 –401.
+35 Sullivan LS, Bowne SJ, Reeves MJ, Blain D, Goetz K, Ndifor V, Vitez S, Wang XJ,
+Tumminia SJ, Daiger SP. Prevalence of mutations in eyeGENE Probands with a
+diagnosis of autosomal dominant retinitis pigmentosa. Invest Ophthalmol Vis Sci
+2013;54:6255 –61.
+Ellingford JM, et al.J Med Genet 2016; 53:761–767. doi:10.1136/jmedgenet-2016-103837 767Genotype-phenotype correlations

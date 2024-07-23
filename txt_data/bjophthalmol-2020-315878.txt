@@ -1,0 +1,453 @@
+87
+Gao F- J, et al. Br J Ophthalmol 2021;105:87–92. doi:10.1136/bjophthalmol-2020-315878Clinical science
+Prevalence and genetic–phenotypic characteristics of 
+patients with USH2A mutations in a large cohort of Chinese patients with inherited retinal disease
+Feng- Juan Gao    ,1,2,3 Dan- Dan Wang,1,2,3 Fang Chen,4,5,6 Hao- Xiang Sun,7 
+Fang- Yuan Hu,1,2,3 Ping Xu,1,2,3 Jiankang Li,6,8 Wei Liu    ,1,2,3 Yu- He Qi,1,2,3 Wei Li,6,9 
+Ming Wang,1,2,3 Shenghai Zhang,1,2,3 Ge- Zhi Xu,1,2,3 Qing Chang    ,1,2,3 
+Ji- Hong Wu1,2,3
+To cite: Gao F- J, Wang D- D, 
+Chen F , et al. Br J Ophthalmol 2021;105:87–92. ►Additional material is 
+published online only. To view please visit the journal online (http:// dx. doi. org/ 10. 1136/ bjophthalmol- 2020- 315878).
+For numbered affiliations see 
+end of article.
+Correspondence to
+Professor Ji- Hong Wu, Ophthalmology, Shanghai, China;  jihongwu@ fudan. edu. cn
+QC and J- HW contributed 
+equally.
+F- JG, D- DW and FC are joint 
+first authors.Received 15 January 2020
+Revised 27 February 2020Accepted 29 February 2020Published Online First 18 March 2020
+© Author(s) (or their employer(s)) 2021. Re- use 
+permitted under CC BY- NC. No 
+commercial re- use. See rights 
+and permissions. Published by BMJ.AbsTrACT
+Aims To investigate the frequency of USH2A mutation 
+and the clinical and genetic differences between Usher syndrome type II (USH2) and retinitis pigmentosa (RP) in 
+a large cohort of Chinese patients.
+Methods A total of 1381 patients with inherited 
+retinal disease (IRD) were recruited. The phenotypic and genotypic information of patients with USH2A mutations 
+was evaluated.
+results The prevalence of patients with USH2A 
+mutations was 15.75%, which was the most frequently detected gene in this cohort of patients. Hotspot of 
+USH2A mutations was c.8559- 2A >G and c.2802T >G. 
+Patients with USH2 had an earlier and more serious decline of visual function and damage to retina structure 
+than did patients with RP in the first 10 years (p<0.05), 
+but there was no difference in the visual prognosis 
+between the two groups when the course of disease 
+exceeded 10 years (p>0.05). Missense variants had less 
+severe consequences and were found more commonly in RP , whereas more deleterious genotypes were associated 
+with an earlier onset of disease and were found more 
+commonly in USH2.
+Conclusions This study provides detailed clinical–
+genetic assessment of patients with USH2A mutations of Chinese origin, enabling precise genetic diagnoses, better 
+management of these patients and putative therapeutic 
+approaches.
+InTroduCTIon
+The USH2A gene (OMIM #608400), located 
+on chromosome 1q41, consists of 72 exons, and 
+encodes usherin, a transmembrane protein present 
+in the basement membrane of many, but not all, 
+tissues, including the photoreceptor layer of the retina and the hair cells in the cochlea. Usherin is important in the development and homeostasis 
+of the inner ear and retina. Different mutations 
+within this gene have been associated with a large heterogeneous group of diseases, including retinitis pigmentosa (RP), Usher syndrome type II (USH2), cone- rod dystrophy and deafness.
+1 2 The different 
+phenotypes associated with USH2A are thought to be due to an allelic hierarchy of USH2A mutations.
+3
+To date, many efforts have been made to inves-
+tigate the spectrum of mutations and genotype–phenotype correlations in patients with USH2A mutations. More than 1100 disease- causing vari-
+ants in USH2A have been identified, including 
+nonsense and missense mutations, splicing vari-
+ants, small deletions and insertions, small indels and large rearrangements (Human Gene Mutation Database; professional version 2019.3). Previous 
+studies confirmed that two truncating mutations 
+in USH2A were associated mostly with USH2 in 
+patients from Netherlands and Belgium, whereas other combinations can result in both RP and USH2.
+4 Moreover, the presence of at least one 
+truncating mutation was associated with earlier presentation of visual decline. However, the muta-
+tion frequency and genotypic–phenotypic char -
+acteristics vary widely between different ethnic 
+groups.
+5 6 For example, the most frequent muta-
+tions in USH2A were the p.Glu767Serfs*21 and 
+p.Cys759Phe mutations in Madrid,7 p.Glu767S-
+erfs*21 of USH2 cases in Europe,8 p.Cys759Phe 
+in RP cases in Spanish patients.9 Previous research 
+found that p.Glu767Serfs*21 was associated mainly with USH2
+10 and p.Cys759Phe with RP; however, 
+Blanco- Kelly et al revealed that more than 60% of 
+patients with p.Cys759Phe and 72.1% of patients 
+with p.Glu767Serfs*21 had mild hearing loss.7
+The genetic and clinical characteristics of patients 
+with USH2A mutations have been reported in 
+many studies; however, data for Chinese patients are limited. The exact genetic and phenotypic 
+characteristics of patients with USH2A mutations in Chinese patients with inherited retinal disease (IRD) remain unknown. In the present study, we 
+enrolled 1381 patients with IRD; patients under -
+went molecular analysis and all those with USH2A 
+mutations were identified. Our aim was to inves-tigate the genotypic–phenotypic characteristics and differences between RP and USH2 in a large series 
+of patients with USH2A mutations in the Chinese 
+population. These results would be useful for prog -
+nosis, clinical management and genetic counselling and should provide strong evidence- based data 
+support for gene therapy studies.
+MeThods
+subjects and ethical statement
+This study was approved by the Ethics Committee 
+of the Eye and ENT Hospital of Fudan University and adhered to the tenets of the Declaration of 
+88
+Gao F- J, et al. Br J Ophthalmol 2021;105:87–92. doi:10.1136/bjophthalmol-2020-315878Clinical science
+Table 1 Distribution of clinical characteristics in patients with USH2A mutations
+Characteristic rP (n=75) ush2 (n=88) P value (t- test)
+Female/male 35/40 35/53 0.374
+Mean age ±SD (range), years 45.85±14.96 (2–78) 40.21±15.32 (6–80) 0.647
+Mean onset age ±SD (range), years 23.37±15.72 (0–64) 15.34±12.62 (0–46) 0.01
+Mean BCVA ±SD (range) 0.35±0.30 (0.0001–1) 0.38±0.32 (0.0001–1) 0.495
+  Age, ≤50 years 0.43±0.30* 0.46±0.31* 0.499
+  Age, >50 years 0.22±0.257 0.11±0.22 <0.05 (0.033)
+  Duration, ≤10 years 0.54±0.30† 0.56±0.29† 0.755
+  Duration, 10–20 years 0.44±0.26 0.47±0.36 0.705
+  Duration, >20 years 0.24±0.27 0.25±0.25 0.856
+Mean duration ±SD (range), years 23.27±16.13 (3–78) 24.50±15.25 (2–70) 0.651
+Mean MD ±SD (range), dB −25.06±6.06
+(−33.60 to −4.24)−26.11±4.67(−33.25 to −9.6)0.362
+  Age, ≤50 years −23.73±6.45* −26.59±3.61 <0.01 (0.007)
+  Age, >50 years −27.67±3.27 −27.29±7.46 0.835
+  Duration, ≤10 years −20.71±7.45‡ −26.26±3.28 <0.01 (0.006)
+  Duration, 10–20 years −25.55±3.95 −25.65±4.78 0.968
+  Duration, >20 years −27.42±3.95 −27.34±4.61 0.910
+Mean CFT (µm) 223.78±55.46 210.28±39.31 0.132
+  Age, ≤50 years 232.39±49.93* 210.75±39.63 <0.05 (0.015)
+  Age, >50 years 204.53±43.62 203.25±39.66 0.761
+  Duration, ≤10 years 256.67±52.76§ 224.00±33.03 <0.05 (0.04)
+  Duration, 10–20 years 223.71±38.70 206.05±44.63 0.116
+  Duration, >20 years 220.95±51.83 204.60±35.07 0.268
+*Best Snellen corrected visual acuity (BCVA), visual field (VF) and central foveal thickness (CFT) of patients younger than 50 years old had significant differences with that of 
+patients older than 50 years (p<0.001, p<0.01, p<0.05).
+†BCVA of patients with duration ≤10 years was better than that of patients with duration >20 years (p<0.001) but there was no difference from patients with duration 10–
+20 years (p=0.079).
+‡VF of patients with duration ≤10 years was better than that of patients with duration >10 years (p<0.05), but there was no difference in mean deviation (MD) between patients 
+with retinitis pigmentosa (RP) with duration 10–20 years and >20 years (p>0.05).
+§CFT of patients with duration ≤10 years was thicker than that of patients with duration >10 years (p<0.05), but there was no difference in CFT between patients with RP with 
+duration 10–20 years and >20 years (p>0.05).
+BCVA, best Snellen corrected visual acuity; CFT, center foveal thickness; MD, mean deviation; RP , retinitis pigmentosa; SD, standard deviation; USH2, Usher syndrome type IIa.Helsinki. A total of 1381 patients with IRD and their available 
+family members (total participants: 3967) were recruited from our genetics department between January 2016 and June 2019. 
+Written informed consent was obtained from all participants 
+before peripheral blood samples were collected.
+next-generation sequencing analysis
+Molecular testing was performed by targeted next- generation 
+sequencing as previously reported.6 After sequencing, data 
+analysis was performed as reported previously.6 11 Previously 
+reported variants were determined using ClinVar (https://www. ncbi. nlm. nih. gov/ clinvar/) and Human Gene Mutation Data-
+base (professional 2019.3). The potential pathogenicity of the variants was interpreted according to the American College of Medical Genetics. Before confirmation by Sanger sequencing, the candidate variants were reviewed by clinical geneticists and 
+ophthalmologists. Segregation analysis was performed within 
+family members.
+Clinical examination
+Full ophthalmic examinations were performed on all patients with pathogenic mutations in USH2A, including the best Snellen- corrected visual acuity testing (BCVA), slit lamp biomi-
+croscopy, fundus examination, visual field (VF, Humphrey Visual Field Analyzer, Carl Zeiss, Dublin, California, USA), swept- domain optical coherence tomography (Spectralis HRA 
++OCT, Heidelberg Engineering, Heidelberg, Germany) and full- field electroretinography (according to the standards of the 
+International Society for Clinical Electrophysiology of Vision; 
+www. iscev. org). VF was assessed by 30-2 Swedish Interactive 
+Threshold Algorithm Fast Programs to measure 30° temporally 
+and nasally and test 76 points. The VF data were excluded if fixa -
+tion miss loss and false- positive and false- negative response rates 
+were greater than 20%. Average depression of visual sensitivity was estimated by mean deviation (MD). The central foveal thick-ness (CFT, within the central 1 mm region) was defined as the 
+distance between the internal limiting membrane and the inner border of the retinal pigment epithelium. To provide numeric 
+values for low BCVAs, the following conversions were made: no 
+light perception, 0; light perception, 0.0001; hand movements, 0.001; and counting fingers, 0.01. Clinical diagnosis of USH2 and RP was based on ocular examination and hearing tests. 
+Patients with USH2 have typical RP fundus appearance, senso-
+rineural hearing impairment and intact vestibular function, and RP referred to non- syndromic RP , which has typical RP fundus 
+appearance without extraocular disorders in this study.
+statistical analysis
+Measurement values of the groups were compared using the t- test and one- way analysis of variance test. Correlations were 
+evaluated using the Pearson and partial correlation tests. Statis-
+tical analyses were performed using SPSS V .20.0 (SPSS/IBM 
+Corp.) and Microsoft Excel (2010). P<0.05 was considered statistically significant.89
+Gao F- J, et al. Br J Ophthalmol 2021;105:87–92. doi:10.1136/bjophthalmol-2020-315878Clinical science
+Table 2 Correlations of best Snellen corrected visual acuity (BCVA), mean deviation (MD) and center foveal thickness (CFT) with age and disease 
+duration in patients with USH2A mutations
+bCVA Md CFT
+r value P value r value P value r value P value
+Age* −0.323 <0.001 −0.015 0.434 −0.199 0.023
+  RP −0.207 0.016 −0.149 0.129 −0.312 0.018
+  Ages
+   ≤50, years −0.032 0.397 −0.294 0.035 −0.095 0.308
+   >50, years −0.290 0.041 −0.605 0.003 −0.209 0.236
+  Durations   ≤10 years −0.032 0.438 −0.120 0.312 −0.087 0.418
+   10–20 years −0.433 0.041 −0.590 0.082 −0.688 0.003
+   >20 years −0.285 0.013 −0.104 0.290 −0.437 0.024
+   USH2 −0.431 <0.001 −0.357 0.002 −0.182 0.092
+  Ages   ≤50 −0.277 0.003 −0.132 0.172 −0.228 0.062
+   >50 −0.387 0.019 −0.803 0.005 −0.246 0.297
+  Durations   ≤10 years −0.376 0.032 −0.085 0.381 −0.542 0.028
+   10–20 years −0.401 0.010 −0.471 0.052 −0.318 0.08
+   >20 years −0.490 <0.001 −0.456 0.004 −0.527 0.01
+Duration† −0.182 0.002 −0.250 0.003 −0.036 0.362
+  RP −0.272 0.002 −0.451 <0.001 −0.078 0.306
+  Ages   ≤50, years −0.405 <0.001 −0.406 0.005 −0.007 0.485
+   >50, years −0.030 0.431 −0.317 0.093 −0.147 0.308
+  Durations   ≤10 years −0.105 0.301 −0.364 0.063 −0.377 0.179
+   10–20 years −0.374 0.070 −0.867 0.006 −0.363 0.101
+   >20 years −0.080 0.270 −0.088 0.319 −0.475 0.015
+USH2 −0.062 0.243 −0.107 0.202 −0.007 0.480
+  Ages   ≤50, years −0.038 0.353 −0.096 0.247 −0.056 0.353
+   >50, years −0.146 0.225 −0.177 0.324 −0.288 0.265
+  Durations   ≤10 years −0.357 0.040 −0.200 0.238 −0.663 0.007
+   10–20 years −0.183 0.154 −0.392 0.092 −0.171 0.229
+   >20 years −0.227 0.031 −0.211 0.119 −0.371 0.059
+*Corrected for the time of disease duration.
+†Corrected for age.
+BCVA, best Snellen corrected visual acuity; CFT, center foveal thickness; MD, mean deviation; RP , retinitis pigmentosa; USH2, Usher syndrome type IIa.
+resul Ts
+Cohort characteristics
+Of the 1381 patients with IRD, 1035 received a genetic diag-
+nosis. The prevalence of patients with USH2A mutations was 15.75% (n=163), making USH2A the most frequently mutated 
+gene in this cohort of patients with IRD. The mean age was 42.85±15.37 years (range, 2–80 years; median, 43 years) in our cohort of 93 men and 70 women. Table 1 shows the 
+demographic and clinical characteristics. Eighty- eight patients 
+(53.99%, 88/163) from 77 families were diagnosed with USH2 (40.19±15.32 years), and 75 patients (46.01%, 75/163) from 70 families were diagnosed with RP (45.85±14.96 years).
+Phenotypic studies
+The median age of onset of patients with USH2 was 15.34±12.62 years (range 0–46), which was younger than that of patients with RP (23.37±15.72 years; range 0–64; p<0.05). There was no 
+difference in mean BCVA or CFT between RP and USH2 groups overall, but when dividing the cohort into patients younger and 
+older than 50 years, the difference became statistically signifi-cant (p<0.05). The VF and CFT were impaired more severely 
+in patients with USH2 (−26.59±3.61 dB, 210.75±39.63 µm) 
+than in patients with RP (−23.73±6.45 dB, 232.39±49.93 µm) 
+younger than 50 years (p<0.01 and p<0.05, respectively), 
+whereas BCVA was impaired more severely in patients with 
+USH2 (0.11±0.22) older than 50 years (p<0.05, table 1). In 
+the first decade from disease onset, BCVA, VF and CFT declined 
+in both groups, but VF and CFT declined more severely in 
+patients with USH2 (−26.26±3.28 dB, 224.00±33.03 µm) 
+than in patients with RP (−20.71±7.45 dB, 256.67±52.76 µm; 
+p<0.05); nevertheless, the differences became insignificant 
+as the disease progressed (p>0.05). Moreover, BCVA in both 
+groups and VF and CFT in the RP group declined with disease progression (p<0.05), whereas progression of VF and CFT in 
+patients with USH2 did not differ significantly between patients with a disease course >10 years and that <10 years (p>0.05). 90
+Gao F- J, et al. Br J Ophthalmol 2021;105:87–92. doi:10.1136/bjophthalmol-2020-315878Clinical science
+Figure 1 Proportions of USH2A gene mutations in patients with 
+retinitis pigmentosa (RP) and Usher syndrome type II (USH2) in this 
+study. (A) The proportion of different mutations types in patients with RP and USH2. (B) The proportion of different combinations of mutations 
+types in patients with RP and USH2. M, missense; SNFO, splice site, 
+nonsense, frameshift, or other (readthrough, gross deletions and small 
+indels).
+Legal blindness due to VF loss occurred within 10 years after 
+disease onset in patients with USH2, whereas VF loss in patients 
+with RP was relatively comparable to that in patients with USH2 
+only 10 years after disease onset (p>0.05). All of these results indicate that patients with USH2 have an earlier and more serious decline of visual function and damage to retinal structure 
+than patients with RP in the first 10 years after onset, but that 
+visual prognosis between the two groups does not differ when the course of disease exceeds 10 years.
+To better assess disease progression and the difference 
+between the two groups, we assessed correlations among disease 
+duration, age, BCVA, MD and CFT using correlation analysis 
+(table 2). Results showed that BCVA decreased significantly with disease progression and age in both patients with RP and USH2 (p<0.01), but MD and CFT were not correlated with disease 
+progression or age (p>0.05). Thus, the rate of disease progres -
+sion may depend on the initial diagnosis or the course of the 
+disease and on other key factors.
+Genetic studies
+A total of 344 mutations were identified, of which 197 (57.27%) were missense, 33 were nonsense, 43 were frameshift, 64 were splice- site, 3 were readthrough, 3 were gross deletions and 1 
+a small indel. The most common mutations were c.2802T >G (11.88%) and c.8559- 2A >G (9.28%), accounting for 21.16% 
+of all mutations. It is likely that these two variants represent a hotspot of USH2A in the Chinese population. Six muta-
+tions, c.99_100insT, c.11156G >A, c.15178T >C, c.4821G 
+>C, c.8232G >C and c.9469C >T, accounted for another 15.94% of the total. Of the 156 distinct variants identified in this study, 84 were novel, including 13 pathogenic variants, 32 likely pathogenic variants and 39 variants of uncertain signifi-
+cance (see online supplementary table 1). Of the 163 patients with pathogenic mutations on both alleles, 14 (8.59%) were 
+homozygous and 149 (91.41%) were compound heterozygous. 
+Only eight distinct pathogenic homozygous mutations were 
+detected, of which four (c.15575_15579delAGGAA, c.8232G >C, c.8559- 2A >G, c.99_100insT) were associated with USH2 
+and four (c.11156G >A, c.13465G >A, c.2802T >G, c.4616C >T) with RP . These variants are presumed to be USH2 or RP 
+specific. Additionally, one de novo mutation (c.2802T >G) was 
+identified in the 54 trios (1.85%).
+Genotype–phenotype correlations
+Of all the USH2A mutations associated with RP (n=158), 77.22% (n=122) were missense variants and 22.78% (n=21) were nonsense (n=11), frameshift (n=7), or splice- site muta-
+tions (n=18) that severely affected protein function. In the USH2 group (n=187), which had a severe early- onset clinical 
+presentation, only 40.64% (n=76) mutations were missense and 59.36% were non- missense, including splice- site (n=46), 
+frameshift (n=36), nonsense (n=22), readthrough (n=3), gross deletions (n=3) and small indels (n=1) (figure 1). Moreover, of all the patients with RP , 39 (52%) had missense +missense (M+M) mutations and 36 (48%) had missense +splice- site/
+frameshift/nonsense mutations (M+SFNO); no patients with 
+SFNO+SFNO mutations were identified. However, in patients 
+with USH2, only 7 (8%) patients had M+M mutations, 52 (59%) had M+SFNO and 29 (33%) had SFNO+SFNO muta-tions. These results suggested that USH2 was associated with a 
+more severe genotype.
+To further understand the relationship between genotype 
+and clinical features, we stratified all patients into three groups: 
+group I comprised patients with M+M mutations, group II had patients with M+SFNO mutations and group III had patients 
+with SFNO +SFNO mutations. Then, BCVA, MD and CFT of 
+the three groups were compared and analysed (tables 3 and 4). Overall, 84.78% (39/46) of the patients in group I and 40.91% (36/88) in group II had RP , whereas all patients in group III 
+had USH2 (no patients with RP were identified in group III). 
+Moreover, the median age of onset of group III (12.59±11.37 years) was earlier than that of patients in group I (22.74±14.86 years) or group II (19.32±14.92 years; p<0.001). These results suggested that SFNO mutations in USH2A were associated 
+mostly with USH2 (p<0.001) and resulted in an earlier onset of 
+disease. We found no significant differences in mean duration, BCVA, MD or CFT among the three groups, although BCVA decreased significantly with disease progression in all groups 
+(p<0.001). We found no significant correlations between disease 
+duration and MD or CFT in the three groups (p>0.05), indi-cating that MD and CFT progression were not directly related to mutation type.
+dIsCussIon
+In this study, we provide a brief overview of USH2A  mutation 
+frequency in a large cohort of Chinese patients. Of the 1035 patients with IRD, 163 had mutations in USH2A; this preva-
+lence (15.75%) being the highest of patients with IRD in this study population. Additionally, 53.99% were diagnosed with USH2 and 46.01% were diagnosed with RP , indicating a rela-tively balanced clinical profile of USH2A - associated diseases in 
+this population. These data provide valuable information for researchers in gene therapy as well as economists and govern -
+ment policy- makers.
+Pierrache et al have described genotype–phenotype correla-
+tions and compared visual prognosis in USH2 and RP in a large 91
+Gao F- J, et al. Br J Ophthalmol 2021;105:87–92. doi:10.1136/bjophthalmol-2020-315878Clinical science
+Table 3 Clinical characteristics of patients with different types of 
+USH2A mutations
+M+M (n=46) M+snFo (n=88)snFo+snFo 
+(n=20)significant(P value)
+Patients (RP/USH2) 39/7 36/52 0/29 1:<0.0012:<0.0013:<0.001
+Onset age, yrs 22.74±14.86 19.32±14.92 12.59±11.37 1:0.1082:<0.0013:<0.001
+Duration, yrs 23.18±16.13 25.28±15.98 21.54±14.00 1:0.3602:0.5393:0.119
+BCVA* 0.35±0.31 0.34±0.30 0.40±0.33 1:0.9322:0.407
+3:0.336
+Duration, ≤10 years 0.57±0.27 0.50±0.32 0.66±0.18 1:0.408
+2:0.3293:0.080
+Duration, 10–20 years 0.46±0.29 0.41±0.33 0.54±0.37 1:0.6172:0.5693:0.273
+Duration, >20 years 0.22±0.26 0.26±0.25 0.20±0.19 1:0.403
+2:0.670
+3:0.209
+MD*, dB −24.83±5.62 −25.43±4.32 −25.62±4.66 1:0.5112:0.2453:0.444
+Duration, ≤10 years −22.32±7.05 −22.58±6.04 −23.96±2.99 1:0.3872:0.1963:0.343
+Duration, 10–20 years −24.11±3.03 −25.75±4.03 −25.00±4.51 1:0.596
+2:0.998
+3:0.367
+Duration, >20 years −25.60±4.68 −26.96±2.57 −26.63±4.72 1:0.331
+2:0.3653:0.480
+CFT*, µm 250.43±68.66 229.34±67.86 230.38±76.44 1:0.098
+2:0.126
+3:0.585
+Duration, ≤10 years 282.10±105.39 281.72±86.18 250.70±99.36 1:0.826
+2:0.157
+3:0.276
+Duration, 10–20 years 256.24±52.26 238.22±33.58 232.25±22.25 1:0.170
+2:0.4563:0.961
+Duration, >20 years 218.00±31.57 199.50±45.98 197.75±65.60 1:0.4882:0.8733:0.137
+1:M+M versus M+SNFO; 2: M+M versus SNFO+SNFO; 3: M+SNFO versus SNFO+SNFO.
+*Corrected for the time of disease duration.M, missense; SNFO, splice- site, nonsense, frameshift, or others (readthrough, gross deletions and small 
+indels).RP , retinitis pigmentosa; USH2, Usher syndrome type IIa; BCVA, best Snellen corrected visual acuity; MD, mean deviation; CFT, centre foveal thickness.Table 4 Correlations of best Snellen corrected visual acuity (BCVA), 
+mean deviation (MD) and central foveal thickness (CFT) with disease 
+duration in patients with different types of USH2A mutations
+M+M M+snFo snFo+snFo
+r P value r P value r P value
+BCVA versus duration −0.574 <0.001 −0.284 0.001 −0.528 <0.001
+  −≤10 years −0.433 0.025 −0.444 0.012 −0.684 0.031
+  −10 to 20 years −0.152 0.338 −0.339 0.045 −0.132 0.327
+  −>20 years −0.384 0.005 −0.002 0.493 −0.038 0.436
+MD versus duration −0.315 0.027 −0.245 0.024 −0.239 0.155
+  −≤10 years −0.300 0.171 −0.030 0.454 −0.120 0.411
+  −10 to 20 years −0.894 0.053 −0.352 0.108 −0.894 0.053
+  −>20 years −0.525 0.006 −0.220 0.106 −0.303 0.197
+CFT versus duration −0.177 0.154 −0.455 <0.001 −0.01 0.481
+  −≤10 years −0.773 −0.004 −0.04 0.437 −0.894 0.053
+  −10 to 20 years −0.051 0.452 −0.013 0.480 −0.049 0.446
+  −>20 years −0.673 0.002 −0.540 0.007 −0.278 0.219
+BCVA, best Snellen corrected visual acuity; CFT, center foveal thickness; M, missense; MD, mean 
+deviation; RP , retinitis pigmentosa; SNFO, splice- site, nonsense, frameshift, or others (readthrough, 
+gross deletions and small indels); USH2, Usher syndrome type IIa.
+cohort of patients with USH2A mutations,4 but all their partici-
+pants were of European origin. It is uncertain whether the same 
+conclusions would be reached in a Chinese population and, to date, the underlying genetic and phenotypic characteristics of 
+Chinese patients with USH2A mutations have not been compre-
+hensively explored. In this study, we found that patients with USH2 had an earlier and more severe decline of visual function 
+and damage to the retinal structure than did patients with RP in 
+the first decade from disease onset, which is consistent with a 
+previous study.
+4 However, our study confirmed that the progres -
+sion of RP accelerated in the second decade of the disease, and 
+that there was no difference in visual prognosis between patients with USH2 and RP when the disease duration exceeded 10 years. 
+These data indicate that the optimal intervention window for 
+subretinal gene therapy is within the first decade from disease onset.Consistent with previous studies, the hotspot of USH2A 
+was c.8559- 2A >G in Chinese and Japanese patients,
+12 13 but 
+hotspot of USH2A in European patients (p.Glu767Serfs*21 
+and p.Cys759Phe) was not detected in this study.7 10 Besides, 
+we found that c.2802T>G was a USH2A mutation hotspot in 
+our cohort of Chinese patients. We also identified 84 novel 
+variants, confirming that the mutation spectrum of USH2A in 
+Chinese patients differs from that of other populations. Thus 
+far, it is unknown why some mutations in USH2A lead to USH2 
+and others to RP . As most patients are compound heterozy -
+gotes, it is difficult to assess the effect of individual mutations 
+on the phenotype. Nevertheless, variants in the homozygous 
+state represent an ideal model by which to search for disease- specific alleles. Previous studies found that five variants 
+(c.2802T >G, c.10073G>A, c.11156G>A, c.12 295–3T>A 
+and c.12575G>A) are RP specific, and three (c.12 295–3T>A, 
+c.9056- 2A>G, and c.5776+1G>A) are USH2 specific.
+3 Further 
+data from our cohort showed that c.13465G>A, c.4616C>T, 
+and two reported variants, c.2802T>G and c.11156G>A, were 
+specific to RP , whereas c.15575_15579delAGGAA, c.8232G>C, c.8559- 2A>G and c.99_100insT were specific to USH2. A 
+known genotype would allow for better correlation of clinical signs and counselling of patients.
+In patients with RP , 77.22% of USH2A mutations were 
+missense, whereas in patients with USH2, only 40.64% of mutations were missense; all other mutations were nonsense, frameshift or splice- site mutations that severely affected protein 
+function. This may imply that missense variants in USH2A have less severe consequences and are therefore found more 
+commonly in the milder RP than in the more severe USH2. 
+Each RP genotype documented included at least one missense variant, whereas the two deleterious mutations were restricted to the USH2 phenotype, consistent with previous reports.
+4 We 
+hypothesise that RP results from genotypes that include milder 
+hypomorphic alleles; further experimental verification of this 
+hypothesis is needed. We further explored this observation by analysing the relationship between genotype and clinical features 
+of USH2A mutations, which confirmed that more deleterious 
+genotypes, including frameshift, nonsense, gross deletions and 
+small indels, were associated with an earlier onset of disease, 
+regardless of the phenotype. The disease progression rate was 92
+Gao F- J, et al. Br J Ophthalmol 2021;105:87–92. doi:10.1136/bjophthalmol-2020-315878Clinical science
+not directly related to the genotype; thus, additional genetic or 
+environmental modifiers may play a role in disease progression.
+In summary, we presented the overall frequency of USH2A- 
+associated IRD and a detailed clinical and genetic characterisa -
+tion of patients of Chinese origin with USH2A mutations. We 
+found that missense variants had less severe consequences and were found more commonly in the milder RP; the more delete-
+rious genotypes were associated with an earlier onset of disease. 
+Although the rate of disease progression was not directly related to genotype, we found no difference in visual prognosis among patients with USH2A mutations when the course of disease exceeded 10 years. Our data provide a deeper understanding of 
+USH2A mutations in China and enable precise genetic diagnoses 
+and better management of these patients, and serve as a well- founded reference for genetic counselling and development of potential therapeutic approaches.
+Author affiliations
+1Eye Institute, Eye and ENT Hospital, College of Medicine, Fudan University, Shang 
+Hai, China
+2Shanghai Key Laboratory of Visual Impairment and Restoration, Science and 
+Technology Commission of Shanghai Municipality, Shang Hai, China
+3Key Laboratory of Myopia (Fudan University), Chinese Academy of Medical Sciences, 
+National Health Commission, Shang Hai, China
+4Laboratory of Genomics and Molecular Biomedicine, Department of Biology, 
+University of Copenhagen, Copenhagen, Denmark
+5Shenzhen Engineering Laboratory for Birth Defects Screening, BGI- Shenzhen, 
+Shenzhen, China
+6BGI- Shenzhen, Shenzhen, China
+7Sonoma Academy, Santa Rosa, CA
+8Dept of Computer Science, City University of Hong Kong, Hong Kong, China
+9BGI Education Center, University of Chinese Academy of Sciences, Shenzhen, China
+Twitter Feng- Juan Gao @gfj
+Acknowledgements The author would like to thank all the participants and staff 
+for their valuable contribution to this research.
+Contributors J- HW conceived and designed the experiments. WL, QC, PX, J- HW, 
+F- JG, D- DW and Y- HQ collected the clinical samples. F- JG, J- HW, H- XS, F- YH, JL, 
+FC, WL and D- DW analysed sequencing data. G- ZX, WL, F- JG and Y- HQ recruited 
+patients, performed clinical examination of patients and clinical interpretation. F- JG 
+and J- HW drafted and revised the manuscript.
+Funding Supported by the National Natural Science Foundation of China (Grant 
+NSFC81770925, 81790641), Xuhui District Health and Family Planning Commission 
+Key Disease Joint Project (XHLHGG201807), the Non- profit Central Research 
+Institute Fund of Chinese Academy of Medical Sciences 2018PT32019. Shanghai Municipal Science and Technology Major Projects (2018SHZDZX05). Shanghai Clinical Medical Center of Ocular Disease (2017ZZ01020).
+Competing interests None declared.Patient consent for publication Parental or guardian consent obtained.
+Provenance and peer review Not commissioned; externally peer reviewed.
+data availability statement All data relevant to the study are included in the 
+article or uploaded as supplementary information.open access This is an open access article distributed in accordance with the 
+Creative Commons Attribution Non Commercial (CC BY- NC 4.0) license, which 
+permits others to distribute, remix, adapt, build upon this work non- commercially, 
+and license their derivative works on different terms, provided the original work is 
+properly cited, appropriate credit is given, any changes made indicated, and the use is non- commercial. See: http:// creativecommons. org/ licenses/ by- nc/ 4. 0/.
+orCId ids
+Feng- Juan Gao http:// orcid. org/ 0000- 0002- 2799- 3554
+Wei Liu http:// orcid. org/ 0000- 0002- 6861- 5752Qing Chang http:// orcid. org/ 0000- 0003- 4288- 9736
+RefeRenCes
+ 1 Ng TK, Tang W, Cao Y , et al. Whole exome sequencing identifies novel USH2A 
+mutations and confirms Usher syndrome 2 diagnosis in Chinese retinitis pigmentosa 
+patients. Sci Rep 2019;9:5628.
+ 2 Adato A, Lefèvre G, Delprat B, et al. Usherin, the defective protein in Usher syndrome type IIA, is likely to be a component of interstereocilia ankle links in the inner ear sensory cells. Hum Mol Genet 2005;14:3921–32.
+ 3 Lenassi E, Vincent A, Li Z, et al. A detailed clinical and molecular survey of subjects with nonsyndromic USH2A retinopathy reveals an allelic hierarchy of disease- causing 
+variants. Eur J Hum Genet 2015;23:1318–27.
+ 4 Pierrache LHM, Hartel BP , van Wijk E, et al. Visual prognosis in USH2A- Associated 
+retinitis pigmentosa is worse for patients with Usher syndrome type IIA than for those with nonsyndromic retinitis pigmentosa. Ophthalmology 2016;123:1151–60.
+ 5 Sun T, Xu K, Ren Y , et al. Comprehensive molecular screening in Chinese Usher syndrome patients. Invest Ophthalmol Vis Sci 2018;59:1229–37.
+ 6 Gao F- J, Li J- K, Chen H, et al. Genetic and clinical findings in a large cohort of Chinese 
+patients with suspected retinitis pigmentosa. Ophthalmology 2019;126:1549–56.
+ 7 Blanco- Kelly F , Jaijo T, Aller E, et al. Clinical aspects of Usher syndrome and the USH2A 
+gene in a cohort of 433 patients. JAMA Ophthalmol 2015;133:157–64.
+ 8 Aller E, Larrieu L, Jaijo T, et al. The USH2A c.2299delG mutation: dating its common origin in a southern European population. Eur J Hum Genet 2010;18:788–93.
+ 9 Bernal S, Ayuso C, Antiñolo G, et al. Mutations in USH2A in Spanish patients with autosomal recessive retinitis pigmentosa: high prevalence and phenotypic variation. J Med Genet 2003;40:e8.
+ 10 Le Quesne Stabej P , Saihan Z, Rangesh N, et al. Comprehensive sequence analysis of nine Usher syndrome genes in the UK national collaborative Usher study. J Med Genet 2012;49:27–36.
+ 11 Huang X- Y , Zhuang H, Wu J- H, et al. Targeted next- generation sequencing analysis 
+identifies novel mutations in families with severe familial exudative vitreoretinopathy. Mol Vis 2017;23:605–13.
+ 12 Nakanishi H, Ohtsubo M, Iwasaki S, et al. Identification of 11 novel mutations in USH2A among Japanese patients with Usher syndrome type 2. Clin Genet 2009;76:383–91.
+ 13 Jiang L, Liang X, Li Y , et al. Comprehensive molecular diagnosis of 67 Chinese Usher syndrome probands: high rate of ethnicity specific mutations in Chinese USH patients. Orphanet J Rare Dis 2015;10:110.

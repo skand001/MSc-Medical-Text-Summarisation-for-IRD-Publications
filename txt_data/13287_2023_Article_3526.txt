@@ -1,0 +1,823 @@
+Chen  et al. Stem Cell Research & Therapy          (2023) 14:286  
+https://doi.org/10.1186/s13287-023-03526-x
+REVIEW
+Stem cell therapy for inherited retinal 
+diseases: a systematic review and meta-analysis
+Xiaodong Chen1,2,3, Ningda Xu1,2,3, Jiarui Li1,2,3, Mingwei Zhao1,2,3 and Lvzhen Huang1,2,3*   
+Abstract 
+Purpose Stem cell therapy is a promising therapeutic approach for inherited retinal diseases (IRDs). This study aims 
+to quantitatively examine the effectiveness and safety of stem cell therapy for patients with IRDs, including retinitis 
+pigmentosa and Stargardt disease (STGD).
+Methods We searched PubMed, EMBASE, Web of Science, Cochrane Library databases, and the ClinicalTrials.gov 
+website. The latest retrieval time was August 20, 2023. The primary outcomes were rates and mean difference (MD) 
+of best-corrected visual acuity (BCVA) improvement. Subgroup analyses were conducted according to administration 
+routes and stem cell types. This study was registered with PROSPERO (CRD42022349271).
+Results Twenty-one prospective studies, involving 496 eyes (404 RP and 92 STGD) of 382 patients (306 RP 
+and 76 STGD), were included in this study. For RP , the rate of BCVA improvement was 49% and 30% at 6 months 
+and 12 months, respectively, and the BCVA was significantly improved in the operative eyes at 6 months post-
+treatment (MD = − 0.12 logMAR, 95% CI .17 to − 0.06 logMAR; P < 0.001), while there was no significant difference 
+at 12 months post-treatment (MD = -0.06 logMAR; 95% CI − 0.13 to 0.01 logMAR; P = 0.10). For STGD, the rate of BCVA 
+improvement was 60% and 55% at 6 months and 12 months, respectively, and the BCVA was significantly improved 
+in the operative eyes at 6 months (MD = − 0.14 logMAR, 95% CI − 0.22 to − 0.07 logMAR; P = 0.0002) and 12 months 
+(MD = − 0.17 logMAR, 95% CI − 0.29 to − 0.04 logMAR; P = 0.01). Subgroup analyses showed suprachoroidal space 
+injection of stem cells may be more efficient for RP . Eleven treated-related ocular adverse events from three studies 
+and no related systemic adverse events were reported.
+Conclusions This study suggests stem cell therapy may be effective and safe for patients with RP or STGD. The long-
+term vision improvement may be limited for RP patients. Suprachoroidal space injection of stem cells may be a prom-
+ising administration route for RP patients. Limited by the low grade of evidence, large sample size randomized clinical 
+trials are required in the future.
+Keywords  Stem cell, Inherited retinal diseases (IRD), Retinitis pigmentosa (RP), Stargardt disease (STGD), Meta-
+analysis
+Introduction
+Inherited retinal diseases (IRDs) are a group of complex 
+and heterogeneous diseases that are mainly character -
+ized by progressive photoreceptors (PRs) and/or loss of 
+retinal pigment epithelium (RPE) cells, eventually leading 
+to irreversible vision loss [1]. It is estimated that approxi -
+mately 1 in 2000 to 4000 people are affected by IRDs [2, 
+3]. IRDs such as retinitis pigmentosa (RP) and Stargardt 
+disease (STGD) have become the most common cause of Open Access
+© The Author(s) 2023. Open Access This article is licensed under a Creative Commons Attribution 4.0 International License, which 
+permits use, sharing, adaptation, distribution and reproduction in any medium or format, as long as you give appropriate credit to the 
+original author(s) and the source, provide a link to the Creative Commons licence, and indicate if changes were made. The images or 
+other third party material in this article are included in the article’s Creative Commons licence, unless indicated otherwise in a credit line 
+to the material. If material is not included in the article’s Creative Commons licence and your intended use is not permitted by statutory 
+regulation or exceeds the permitted use, you will need to obtain permission directly from the copyright holder. To view a copy of this 
+licence, visit http://creativecommons.org/licenses/by/4.0/. The Creative Commons Public Domain Dedication waiver (http://creativecom-
+mons.org/publicdomain/zero/1.0/) applies to the data made available in this article, unless otherwise stated in a credit line to the data.Stem Cell Research & Therapy
+*Correspondence:
+Lvzhen Huang
+drlvzhenhuang@sina.com
+1 Department of Ophthalmology, Peking University People’s Hospital, Eye 
+Diseases and Optometry Institute, Beijing, China
+2 Beijing Key Laboratory of Diagnosis and Therapy of Retinal and Choroid 
+Diseases, Beijing, China
+3 College of Optometry, Peking University Health Science Center, Beijing, 
+ChinaPage 2 of 14 Chen et al. Stem Cell Research & Therapy          (2023) 14:286 
+blindness in the working-age population (16–64 years) in 
+some Western countries [4, 5], which would impair the 
+life quality of patients [6, 7], and cause severe social eco -
+nomic burden [8, 9]. In the past, only genetic testing and 
+low-vision rehabilitation were used for the management 
+of IRDs and these could not effectively slow or stop vision 
+loss of patients with IRDs. However, recent emerging 
+treatments including gene therapy, stem cell therapy, and 
+retinal prosthesis have entered the stage of clinical tri -
+als and some therapies have shown inspiring therapeutic 
+benefits in these vision-threatening disorders [10].
+Among these treatment approaches for IRDs, stem cell 
+therapy is considered a potential therapeutic method, 
+which aims to replace lost cells in the retina with stem 
+cells, mainly for those patients with IRDs who remained 
+some useful retinal ganglion cells. Several types of stem 
+cells, including retinal progenitor cells (RPCs), mesen -
+chymal stem cells (MSCs), human embryonic stem cells-
+derived RPE (hESCs-RPE) cells, and induced pluripotent 
+stem cells-derived RPE (iPSCs-RPE) cells, have been 
+examined their efficacy or safety for IRDs patients in clin -
+ical trials [11].
+Despite some results with small sample sizes from 
+reviewed trials showing effectiveness and safety, no stud -
+ies have been empowered to prove statistically significant 
+efficacy for humans, and no stem cell therapy is approved 
+for patients with IRDs [12]. The long-term efficacy and 
+safety are controversial and required to be determined 
+[13–17]. In addition, some parameters of stem cell ther -
+apy for IRDs, such as administration routes and types of 
+transplanted stem cells, are needed to optimize [18]. To 
+date, no systematic review or meta-analysis has quantita -
+tively examined the effectiveness of vision improvement 
+and adverse events of stem cell therapy for patients with 
+IRDs. Therefore, this study aims to quantitatively assess 
+these outcomes of stem cell therapy for patients with 
+IRDs including RP and STGD and perform subgroup 
+analyses stratified by administration routes and stem cell 
+types in RP .
+Methods
+The protocol of this study was registered at PROSPERO 
+(CRD42022349271, [http:// www. crd. york. ac. uk/ PROSP 
+ERO/ ]). This meta-analysis was performed according to 
+the guidelines of the Preferred Reporting Items for Sys -
+tematic Reviews and Meta-Analyses (PRISMA 2020 
+statement) [19].
+Search strategy
+We searched the PubMed, EMBASE, Web of Science, and 
+Cochrane Library databases. We also screened the refer -
+ences from retrieved papers and the ClinicalTrials.gov 
+website to identify additional related clinical studies and unpublished studies with available data. The following 
+literature search terms were used (“Stem cell” OR “stem 
+cells” OR “progenitor cell” OR “bone marrow”) AND 
+(“Inherited retinal diseases” OR “inherited retinal degen -
+eration” OR “hereditary retinal diseases” OR “inher -
+ited retinal dystrophy” OR “retinitis pigmentosa” OR 
+“Stargardt disease” OR “Stargardt macular dystrophy”). 
+Neither the article language nor the retrieval time was 
+limited. The latest retrieval time was August 20, 2023.
+Inclusion and exclusion criteria
+The inclusion criteria were as follows:
+(1) Patients who are diagnosed with IRDs, including RP 
+and STGD.
+(2) Patients who have undergone stem cell therapy.
+(3) Any clinical trials.
+The exclusion criteria were as follows:
+(1) Patients with other ocular disease except RP or 
+STGD.
+(2) Preclinical studies, letters to the editor, editorials, 
+case reports, conference abstracts, and reviews.
+(3) Studies without the assessment of primary out -
+come.
+Data extraction
+Two researchers independently screened titles and 
+abstracts according to the eligible criteria. All discrep -
+ancies were resolved through adjudication by a third 
+researcher. Extracted information included author name, 
+publication year, country, study design, number of partic -
+ipants, number of treated eyes, follow-up time, age, gen -
+der, diagnosis, stem cells, administration routes, and cell 
+concentration. For studies that reported similar results, 
+only the most complete publication was included. The 
+improvement of best-corrected visual acuity (BCVA) and 
+ocular and systemic adverse events related to stem cell 
+therapy were examined. The primary outcomes were the 
+rate and mean difference (MD) of improvement of BCVA 
+measured in the logarithm of the Minimum Angle of 
+Resolution (logMAR).
+Quality assessment
+The Newcastle–Ottawa Quality Assessment Scale (NOS) 
+was used to assess the risk of bias in each cohort study 
+[20]. Two researchers independently evaluate the quality 
+of studies. All discrepancies were resolved through adju -
+dication by a third researcher.Page 3 of 14
+ Chen et al. Stem Cell Research & Therapy          (2023) 14:286 
+ 
+Statistical analysis
+Meta-analyses were conducted using the Review Man -
+ager (version 5.3; Cochrane Collaboration) and Stata 
+SE (version 15.1). Visual acuity values were recorded as 
+Snellen or logMAR, and Snellen values were converted 
+to logMAR for analyses. LogMAR values correspond -
+ing to count fingers (CF), hand movements (HM), and 
+light perception (PL) were substituted with 2.0, 3.0, and 
+4.0 logMAR, respectively, in accordance with the previ -
+ous study [21]. Besides, no light perception (NLP) was 
+substituted with 5.0. Snellen values provided in studies 
+were converted to logMAR equivalents [22]. For stud -
+ies provided The Early Treatment Diabetic Retinopa -
+thy Study (ETDRS) letter scores, we converted them 
+to logMAR equivalents using the following formula 
+logMAR = 1.7–(0.02) * (ETDRS letter scores) [23]. 
+The mean difference (MD) and 95% confidential inter -
+val (CI) were used to calculate. A fixed-effects model 
+was used to assess the pool effect of changed log -
+MAR, when no significant heterogeneity was detected 
+(I2 ≤ 50% or P-value for heterogeneity ≥ 0.1). Otherwise, 
+a random-effects model was used (I2 > 50% or p-value 
+for heterogeneity < 0.1). Subgroup analyses were per -
+formed stratified by types of stem cells and adminis -
+tration routes. The publication bias was detected using 
+funnel plots and Begg’s test. The statistical significance 
+was set at P  < 0.05.
+Results
+Literature search
+The initial retrieval identified 2013 nonduplicated 
+articles. Records that were not relevant to our topic 
+were excluded (n  = 1129). After screening titles and 
+abstracts, studies were excluded according to inclusion 
+criteria (n  = 677). Full-text evaluation was performed in 
+the remaining 217 studies. Ultimately, 21 unique stud -
+ies were included in this meta-analysis (Fig. 1 ).
+Characteristics of included studies
+Twenty-one prospective studies, involving 496 eyes 
+(404 RP and 92 STGD) of 382 patients (306 RP and 76 
+STGD), were included in this study [14, 15, 24–42]. 
+One study included RP and STGD patients [25]. Eight 
+studies were for STGD [26, 28, 29, 36–38, 40, 42], and 
+twelve studies were for RP [14, 15, 24, 27, 30–35, 39, 
+41], of which one study involved pediatric patients [41]. 
+The mean follow-up duration was 14.4 ± 12.8  months 
+(RP: 10.5 ± 5.0  months; STGD: 19.1 ± 18.1  months), 
+ranging from 6 to 60 months (5 years). Detailed char -
+acteristics of the included studies are presented in 
+Table 1 .The rate of best‑corrected vison acuity improvement 
+after stem cell therapy
+For RP , 49% and 30% operative eyes achieved bet -
+ter BCVA at 6 months and 12 months post-treatment, 
+respectively. For STGD, 60% and 55% operative eyes 
+achieved better BCVA at 6  months and 12  months 
+post-treatment, respectively (Table 2 ).
+Improvement in best‑corrected visual acuity after stem cell 
+therapy
+For RP , the BCVA was significantly improved in 
+the operative eyes at 6  months post-treatment 
+(MD = −  0.12 logMAR, 95% CI −   0.17 to −   0.06 log -
+MAR; P < 0.001) (Fig.  2), while there was no significant 
+difference at 12 months post-treatment (MD = 0.06 log -
+MAR; 95% CI −  0.13 to 0.01 logMAR; P  = 0.10) (Fig. 3 ).
+For STGD, the BCVA was significantly improved 
+in the operative eyes at 6  months post-treatment 
+(MD = −  0.14 logMAR, 95% CI −   0.22 to −   0.07 log -
+MAR; P = 0.0002) (Fig.  4) and 12 months (MD = − 0.17 
+logMAR, 95% CI −   0.29 to −   0.04 logMAR; P  = 0.01) 
+(Fig. 5 ).
+Subgroup analyses
+For improvement in BCVA of RP patients at 6 months 
+post-treatment, we performed subgroup analyses 
+according to the administration routes and types of 
+stem cells. For administration routes, suprachoroidal 
+space injection showed the best BCVA improvement 
+at 6  months post-treatment (MD = −  0.18 logMAR, 
+95% CI −   0.29 to −   0.07 logMAR; P  = 0.001) (Fig.  6). 
+For types of stem cells, umbilical cord MSCs (UCM -
+SCs) injection showed the best BCVA improvement at 
+6  months post-treatment (MD = −  0.14 logMAR, 95% 
+CI − 0.23 to −  0.04 logMAR; P  = 0.004) (Fig. 7 ).
+Publication bias
+The funnel plots demonstrated the improvement in 
+BCVA at 6 months after stem cell therapy for patients 
+with RP (Fig.  8, P for Begg’s test: 0.170) and STGD 
+(Fig.  9, P for Begg’s test: 0.652). No significant publica -
+tion bias was detected.
+Systemic and ocular adverse events
+Eleven treated-related ocular adverse events from 
+three studies and no related systemic adverse events 
+were reported for RP patients [15, 30, 35]. One study 
+reported three tractional retinal detachments (RD) 
+[35]. One study with long-term follow-up reported 
+a case that experienced diffuse vitreous hemorrhage 
+and osseous metaplasia in the ciliary body in the third 
+year of follow-up and a case that developed minimal Page 4 of 14 Chen et al. Stem Cell Research & Therapy          (2023) 14:286 
+intraocular lens subluxation in the fourth year of fol -
+low-up [15]. Another study reported a case that devel -
+oped choroidal neovascular membrane (CNM) and five 
+cases had epiretinal membrane (ERM) with peripheral 
+tractional RD [30].
+Discussion
+Our study was in line with previous systemic reviews 
+which confirmed stem cell therapy was an effective and 
+relatively safe treatment for patients with RP or STGD 
+[16, 43, 44]. This present study, including 21 studies 
+and 496 eyes, was the first to quantitatively assess the 
+improvement of BCVA in patients with RP or STGD 
+who had undergone stem cell therapy. The change of 
+logMAR of STGD patients was significantly improved 
+at 6 and 12  months. However, although the BCVA of 
+RP patients was significantly improved at 6 months, this improvement was no longer significant at 12 months. A 
+study that used RPC cells to treat RP patients showed 
+that vision improvement did not appear at 24  months 
+after stem cell therapy [14]. In addition, another study 
+used hESC-RPE cells to treat STGD patients showed 
+worse BCVA at 60  months after stem cell therapy [37]. 
+The incidence of adverse events after stem cell therapy 
+was low, and most of them were mild ocular adverse 
+events, but the safety of stem cell therapy for patients 
+with RP or STGD requires attention. One study reported 
+the first five cases developed peripheral tractional RD 
+and one case happened CNM [30]. They considered 
+these complications may be attributed to inadvertent 
+preretinal injection of stem cells or reflux of transplanted 
+stem cells from the subretinal space [45]. After modify -
+ing the surgical operation, the remaining patients did not 
+have adverse events. Our results showed suprachoroidal Records searched through databases 
+(n = 4927) 
+PubMed 701, Web of Science 975,  
+EMBASE 1489, Cochrane 20
+Records after duplication remova l
+(n = 2013 )
+Records after screened
+(n = 884)Records that did not 
+relevant to our topi c
+(n= 1129) 
+Full-text articles assesse d
+(n=217)Records excluded  
+based on abst ract
+(n = 677)
+Studies included in meta-analysi s
+(n=21)Records through other source s
+ (n = 10) 
+Fig. 1 The selection process of included studiesPage 5 of 14
+ Chen et al. Stem Cell Research & Therapy          (2023) 14:286 
+ 
+Table 1 Study characteristics
+References Study design Country Patients Female (%) eyes Age Diagnosis Stem cells Administration 
+routesFollow ‑up Quality 
+scores
+Siqueira et al., [24] Nonrandomized PCT Brazil 5 2 [40] 5 Mean (SD) [range]
+31.4 (5.0) [23–35]RP or cone-rod 
+dystrophyBM with CD34 + SCs Intravitreal 10 6
+Park et al., [25] PCT USA 6 2 (33.3) 6 Mean (SD) [range]
+48.3 (25.7) [23–85]Advanced RP 
+or STGD or AMD 
+or CRAOBM with CD34 + SCs Intravitreal 6 6
+Schwartz et al., [26] PCT USA 18 5 (27.8) 18 Median (IQR)
+STGD: 50 (20–71) 
+AMD: 77 (70–88)STGD or AMD hESC-RPE (MA09) Subretinal 22 8
+Liu et al., [37] PCT China 8 5 (62.5) 8 Mean (SD) [range]
+35.5 (12.1) [19–53]Advanced RP RPCs Subretinal 24 8
+Weiss et al., [38] Nonrandomized PCT USA 17 7 (41.2) 33 Mean (SD) [range]
+48.8 (13.9) [28–70]RP BMSCs SCOT combination 6 7
+Oner et al., [41] PCT Turkey 8 3 (37.5) 8 Mean (SD) [range]
+44.8 (23.6) [19–75]STGD or AMD ADMSCs Suprachoroidal 6 6
+Mehat et al., [29] PCT UK 12 1 (8.3) 12 Mean (SD) [range]
+45.3 (5.3) [34–53]STGD hESC-RPE Subretinal 12 8
+Oner et al., [30] PCT Turkey 14 5 (35.7) 14 Mean (SD) [range]
+39.1 (8.9) [26–57]Severe RP ADMSCs Subretinal 12 7
+Özmert and Arslan, 
+[31]PCT Turkey 32 14 (43.8) 34 Median [range]
+38.7 [18–58]RP WJMSCs Subtenon 6 6
+Kahraman and Oner, 
+[32]PCT Turkey 82 32 (39.0) 124 Median (IQR)
+38.5 (34.0–46.0)RP UCMSCs Suprachoroidal 6 5
+Limoli et al., [33] PCT Italy 25 11 (44.0) 34 Mean (SD) [range]
+45.9 (18.4) (19–86)RP ADMSCs Suprachoroidal 6 7
+Zhao et al., [34] PCT China 32 20 (62.5) 64 Mean (SD) [range]
+36 (2.5) [16–61]Advanced RP UCMSCs Intravenous 12 6
+Tuekprakhon et al., 
+[15]Nonrandomized PCT Thailand 14 5 (35.7) 14 Mean (SD) [range]
+46.2 (9.3) [32–61]Advanced RP BMSCs Intravitreal 12 7
+Wiącek et al., [35] Nonrandomized PCT Poland 30 18 (60.0) 30 Mean (SD) [range]
+41.7 (12.8) [19–64]RP BM-derived Lineage-
+negative cellsIntravitreal 12 6
+Sung et al., [36] Nonrandomized PCT Korea 3 0 (0.0) 3 Mean (SD) [range]
+41.7 (2.89) [40–45]STGD hESC-RPE (MA09) Subretinal 36 7
+Li et al., [37] PCT China 7 5 (71.4) 7 Mean (SD) [range]
+23.3 (3.6) [19–27]STGD hESC-RPE Subretinal 60 8
+Weiss et al., [38] PCT USA 17 5 (29.4) 34 Mean (SD) [range]
+48.2 (16.1) [26–72]STGD BMSCs SCOT combination 12 8
+Khairullah et al., [39] PCT Malaysia 2 1 (50.0) 4 Mean (SD) [range]
+61.0 (5.7) [57–65]Advanced RP WJMSCs Subtenon 12 4Page 6 of 14 Chen et al. Stem Cell Research & Therapy          (2023) 14:286 
+Table 1 (continued)
+References Study design Country Patients Female (%) eyes Age Diagnosis Stem cells Administration 
+routesFollow ‑up Quality 
+scores
+Fernandes et al., [40] PCT Brazil 12 9 (75.0) 12 Mean (SD) [range]
+41.5 (7.1) [30–53]STGD hESC-RPE Subretinal 12 8
+Oner et al., [41] PCT Turkey 46 18 (39.0) 46 Median (IQR)
+13.4 (9.0–17.0)RP UCMSCs Suprachoroidal 12 6
+Cotrim et al, [42] Nonrandomized PCT Brazil 10 6 (60.0) 10 Mean (SD) [range]
+33.0 (8.6) [23–48]STGD BMMF 
+with CD34 + SCsIntravitreal 6 7
+PCT Prospective clinical trial, IQR Interquartile range, CRAO  Central Retinal Artery Occlusion, RP Retinitis pigmentosa, STGD Stargardt disease, AMD Age-related macular degeneration, RPCs Retinal progenitor cells, BMSCs 
+Bone marrow-derived mesenchymal stem cells, ADMSC Adipose tissue-derived mesenchymal stem cells, UCMSCs Umbilical cord mesenchymal stem cells, hESC-RPE Human embryonic stem cell-derived retinal pigment 
+epithelium, SCOT combination The Stem Cell Ophthalmology Treatment Study, BMMF Bone Marrow Mononuclear Fraction, SCOT  used various administration routes to treatPage 7 of 14
+ Chen et al. Stem Cell Research & Therapy          (2023) 14:286 
+ 
+space injection showed optimally improved logMAR 
+at 6  months with no serious ocular or systemic adverse 
+events reported, indicating this may be a better admin -
+istration route of stem cell therapy for RP patients. The 
+standardized surgical procedures were important to the 
+safety of stem cell therapy. These findings suggest that 
+stem cell transplantation is efficient and relatively safe 
+for patients with RP or STGD, but long-term efficacy is 
+uncertain for RP . Weiss et al. indicated that the efficacy 
+of stem cell therapy would be affected by the severity 
+of RP [27]. Meanwhile, the patients with longer disease 
+duration gained less vision improvement, compared 
+to those with shorter duration of RP [35]. In the meta-
+analysis showing the efficacy of stem cell therapy for RP 
+at 12  months, five in seven studies were advanced RP . 
+Marginally significant improvement was observed in the 
+remaining two studies at 12 months (data not shown) [35, 
+41].
+Stem cells have a strong ability to proliferate and dif -
+ferentiate into many kinds of cells, including RPE cells, 
+PRs, and RGCs. The transplanted stem cells function mainly by secreting neurotrophic factors, replacing the 
+degenerative cells in the host, upregulating anti-apop -
+totic genes, and forming new functional synapses [46]. In 
+2016, researchers proposed a new potential mechanism 
+that host and grafted cells could happen material trans -
+fer to rescue the host degenerative retina [47], and this 
+mechanism was further verified by subsequent studies 
+[48, 49]. Despite the inspiring results in clinical trials, the 
+exact mechanisms underlying stem cell therapy for IRDs 
+are necessary to explore.
+Currently, three common methods are applied to 
+deliver stem cells into the eye: intravitreal injection, sub -
+retinal injection, and suprachoroidal injection. Intravit -
+real injection is a relatively simple and safe procedure, 
+and this method is widely used for treating retinal dis -
+eases [50]. However, an intact blood-retinal barrier lim -
+ited the transport of transplanted stem cells and stem 
+cell-secreted neurotrophic factors [51]. Another serious 
+problem is that the drug can diffuse to nontarget regions 
+such as lens and subretinal space and then trigger fibrous 
+tissue proliferation and lead to RD and ERM [17, 52]. Table 2 The rate of the best-corrected visual acuity improvement after stem cell therapy at 6 months and 12 months
+NA Not available; RP Retinitis pigmentosa; STGD Stargardt diseaseReferences Improved operative eyes at 
+6 monthsTotal operative eyes at 
+6 monthsImproved operative eyes at 
+12 monthsTotal operative 
+eyes at 
+12 months
+RP
+Siqueira et al., [24] 3 3 NA NA
+Park et al., [25] 1 1 NA NA
+Liu et al., [26] 5 8 3 8
+Weiss et al., [27] 15 33 NA NA
+Oner et al., [28] 3 11 NA NA
+Özmert and Arslan, [31] 32 34 NA NA
+Limoli et al., [33] 25 34 NA NA
+Kahraman and Oner, [41] 57 124 NA NA
+Wiącek et al., [35] 16 30 17 30
+Zhao et al., [34] 12 64 11 64
+Khairullah et al., [39] 0 2 0 2
+Total 169 344 31 104
+Rate 49% 30%
+STGD
+Park et al., 2015 2 2 NA NA
+Cotrim et al., [42] 8 10 NA NA
+Fernandes et al., [40] 10 12 10 12
+Li et al., [37] 2 7 1 6
+Mehat et al., [29] 4 12 5 12
+Oner et al., [28] 4 4 NA NA
+Schwartz et al., [26] 3 8 3 7
+Sung et al., [36] 2 3 3 3
+Total 35 58 22 40
+Rate 60% 55%Page 8 of 14 Chen et al. Stem Cell Research & Therapy          (2023) 14:286 
+Fig. 2 The forest plot showed the best-corrected visual acuity improvement for patients with RP at 6 months
+Fig. 3 The forest plot showed the best-corrected visual acuity improvement for patients with RP at 12 months
+Fig. 4 The forest plot showed the best-corrected visual acuity improvement for patients with STGD at 6 months
+Fig. 5 The forest plot showed the best-corrected visual acuity improvement for patients with STGD at 12 monthsPage 9 of 14
+ Chen et al. Stem Cell Research & Therapy          (2023) 14:286 
+ 
+Although some clinical studies have reported the general 
+safety of stem cell therapy for RP patients, this method 
+should be taken into rigorous consideration before being 
+used [15, 35]. Subretinal injection aims to deliver stem 
+cells to the potential space between RPE and PR, which 
+can directly target the retina. Although this method 
+involves a pars plana vitrectomy which may lead RD and 
+vitrectomy-associated complications, the successful use 
+of hESC-RPE in subretinal space has shown its relative 
+safety when carefully using the right techniques [53]. The 
+suprachoroidal space (SCS) is a potential space, between 
+the choroid and sclera. SCS injection is a novel adminis -
+tration route to the posterior segment, which accurately 
+targets the choroid, RPE, and neuroretina, with high bioavailability [54]. Limoli et al. first described the supra -
+choroidal implantation method of stem cells (they called 
+it the Limoli Retinal Restoration Technique, LRRT) [55–
+57]. This method allows stem cell-produced growth fac -
+tors to enter the choroidal blood flow. In this study, the 
+exact mechanism underlying the better efficacy of SCS 
+injection is not clear. One possible explanation is that 
+no ocular adverse events, such as RD and ERM which 
+can impair vision, were reported for the safe SCS injec -
+tion, compared to intravitreal and subretinal injection. 
+In addition, the accumulation and distribution of drug 
+in the SCS can achieve sustained release [58], which may 
+allow stem cell-derived growth factors to be constantly 
+secreted to the choroid and retina. For those patients Fig. 6 Subgroup analyses showed different administration routes on the best-corrected visual acuity improvement for RP at 6 monthsPage 10 of 14 Chen et al. Stem Cell Research & Therapy          (2023) 14:286 
+who need to inject cell suspension multiply, less inva -
+sive SCS inject may be a suitable administration route. 
+For the emerging transplantation of stem cells sheet with 
+the technique of tissue engineering for IRDs, subretinal 
+injection is still the first choice [59].
+In this present study, most RP patients were injected 
+with MSCs. MSCs represent the most frequently stud -
+ied type of adult stem cells, which are derived from stro -
+mal progenitor cells of mesodermal origin [60]. MSCs 
+are found in various parts of the human body, and bone 
+MSCs (BMSCs), adipose tissue-derived MSCs (ADM -
+SCs), and UCMSCs are the three main MSCs used to 
+research IRDs, and they have similar function properties 
+[61, 62]. Several important properties of MSCs include 
+immunomodulation, anti-inflammation, and secretion of 
+neurotrophic factors [60]. Compared to other stem cells, 
+easier isolation from tissues makes MSCs a promising 
+candidate for IRDs. Besides, MSC-derived extracellular 
+vesicles are considered beneficial to retinitis pigmentosa [63]. Our results showed that UCMSCs may be a poten -
+tial MSCs type for patients with RP . Currently, clinical 
+trials are focused on the transplantation of hESCs-RPE 
+or iPSCs-RPE to treat retinal degeneration [18]. Both 
+ESCs and iPSCs can be successfully differentiated into 
+PRs, RPE cells, and other retinal cells and are seemed 
+a promising way to treat IRDs [64]. In 2012, Schwartz 
+et  al. first reported the preliminary results using hESC-
+RPE to treat two retinal diseases including age-related 
+macular degeneration (AMD) and STGD [65]. Sub -
+sequently, a plethora of clinical trials showed inspir -
+ing results of hESC for treating RP [11] and STGD [44]. 
+However, ethical concerns limit the use of hESCs; thus, 
+iPSCs are considered a potential alternative to avoid the 
+above problems. In 2006, Takahashi and Yamanaka first 
+discovered iPSCs, which can be derived from embryonic 
+or adult fibroblasts in mouse by introducing four tran -
+scription factors [66]. Then, they described this type of 
+stem cells can be obtained from human skin fibroblasts Fig. 7 Subgroup analyses showed different stem cell types on the best-corrected visual acuity improvement for RP at 6 monthsPage 11 of 14
+ Chen et al. Stem Cell Research & Therapy          (2023) 14:286 
+ 
+and peripheral blood in 2007 [67]. Like hESCs, iPSCs 
+were soon reported to be able to differentiate into reti -
+nal cells in  vitro in 2009 [68]. In 2011, milestone study investigated a self-organized 3D optic cup and stratified 
+RPE from mouse iPSCs, creating the research field of ret -
+inal organoids [69]. In 2012, Li et al. reported a method Fig. 8 The funnel plot for the best-corrected visual acuity improvement for patients with RP at 6 months
+Fig. 9 The funnel plot for the best-corrected visual acuity improvement for patients with STGD at 6 monthsPage 12 of 14 Chen et al. Stem Cell Research & Therapy          (2023) 14:286 
+to obtain and transplant iPSC-RPE cells into RP mouse 
+model, which was considered a pioneering study on the 
+use of iPSC in the field of retinal diseases [70]. In 2014, 
+RIKEN reported the first clinical trial using autologous 
+iPSCs-RPE to treat a patient with AMD; the vision of 
+this patient was not improved or worsened [71]. Then the 
+first clinical trial using iPSC-retina which was prepared 
+from retinal organoids to treat advanced RP was started 
+by Kobe City Eye Hospital in 2020 [72]. Despite some 
+challenges, scientific researchers spare no effort to pave 
+the way for the practical application of stem cell therapy 
+for patients suffering from retinal degeneration [59, 73].
+Some limitations exist in this study. First, we did not 
+evaluate the data from fundus autofluorescence, electro -
+retinogram, and optical coherence tomography, because 
+the sample size was small or these data could not be 
+extracted and synthesized for meta-analysis. Second, 
+subgroup analyses were only performed in RP patients at 
+6 months after stem cell therapy. Besides, the number of 
+studies in each subgroup was small in subgroup analyses. 
+Third, the definition of serious ocular events differs and 
+lacks standardized criteria.
+Conclusions
+This study suggests stem cell therapy may be effective and 
+safe for patients with RP or STGD. The long-term vision 
+improvement may be limited for RP patients. Supra -
+choroidal space injection of stem cells may be a promis -
+ing administration route for RP patients. Limited by the 
+grade of evidence, large sample sizes and well-designed 
+multi-center randomized controlled trials with long fol -
+low-up periods are required in the future.
+Acknowledgements
+Not applicable.
+Author contributions
+XC, NX, JL, MZ, and LH designed this study. XC, NX, and JL screened the 
+literature and collected data. XC performed the analysis and drafted the 
+manuscript. LH and MZ supervised this study. All authors read and approved 
+the final manuscript.
+Funding
+This work was supported by the Beijing-Tianjin-Hebei Special Project (Grant 
+Number J200014), Science and Technology Innovation Project of Chinese 
+Academy of Medical Sciences (2019-RC-HL-019), National Key RD Program 
+of China (2020YFC2008200), and the National Natural Science Foundation of 
+China (Grant Number 81670870). The sponsor or funding organization had no 
+role in the design or conduct of this research.
+Availability of data and materials
+Data sharing is not applicable to this article as no datasets were generated or 
+analyzed during the current study.
+Declarations
+Ethics approval and consent to participate
+Not applicable.Consent for publication
+Not applicable.
+Competing interests
+The authors declare that they have no competing interests.
+Received: 23 August 2023   Accepted: 28 September 2023
+References
+ 1. Georgiou M, Fujinami K, Michaelides M. Inherited retinal diseases: 
+therapeutics, clinical trials and end points-a review. Clin Exp Ophthalmol. 
+2021;49(3):270–88.
+ 2. Pontikos N, Arno G, Jurkute N, Schiff E, Ba-Abbad R, Malka S, et al. Genetic 
+basis of inherited retinal disease in a molecularly characterized cohort 
+of more than 3000 families from the United Kingdom. Ophthalmology. 
+2020;127(10):1384–94.
+ 3. Stone EM, Andorf JL, Whitmore SS, DeLuca AP , Giacalone JC, Streb LM, 
+et al. Clinically focused molecular investigation of 1000 consecutive fami-
+lies with inherited retinal disease. Ophthalmology. 2017;124(9):1314–31.
+ 4. Heath Jeffery RC, Mukhtar SA, McAllister IL, Morgan WH, Mackey DA, 
+Chen FK. Inherited retinal diseases are the most common cause of 
+blindness in the working-age population in Australia. Ophthalmic Genet. 
+2021;42(4):431–9.
+ 5. Liew G, Michaelides M, Bunce C. A comparison of the causes of blindness 
+certifications in England and Wales in working age adults (16–64 years), 
+1999–2000 with 2009–2010. BMJ Open. 2014;4(2):e004015.
+ 6. Yioti G, Stefaniotou M, Ziavrou I, Kotsis K, Hyphantis T. Illness perceptions, 
+psychiatric manifestations, and quality of life in patients with inherited 
+retinal dystrophies. Semin Ophthalmol. 2017;32(4):428–37.
+ 7. Kessel L, Kjellberg J, Nissen K, Rasmussen A, la Cour M. Childhood-onset 
+retinal dystrophies reduces life-time income by one third—an individual 
+based socio-economic analysis. Ophthalmic Genet. 2022;43(5):602–8.
+ 8. Galvin O, Chi G, Brady L, Hippert C, Del Valle RM, Daly A, et al. The impact 
+of inherited retinal diseases in the republic of Ireland (ROI) and the 
+United Kingdom (UK) from a cost-of-illness perspective. Clin Ophthalmol. 
+2020;14:707–19.
+ 9. Gong J, Cheung S, Fasso-Opie A, Galvin O, Moniz LS, Earle D, et al. The 
+impact of inherited retinal diseases in the United States of America 
+(US) and Canada from a cost-of-illness perspective. Clin Ophthalmol. 
+2021;15:2855–66.
+ 10. Schneider N, Sundaresan Y, Gopalakrishnan P , Beryozkin A, Hanany M, 
+Levanon EY, et al. Inherited retinal diseases: linking genes, disease-
+causing variants, and relevant therapeutic modalities. Prog Retin Eye Res. 
+2022;89:101029.
+ 11. Wang Y, Tang Z, Gu P . Stem/progenitor cell-based transplantation for reti-
+nal degeneration: a review of clinical trials. Cell Death Dis. 2020;11(9):793.
+ 12. Terrell D, Comander J. Current stem-cell approaches for the treatment of 
+inherited retinal degenerations. Semin Ophthalmol. 2019;34(4):287–92.
+ 13. Rao RC, Dedania VS, Johnson MW. Stem cells for retinal disease: a per -
+spective on the promise and perils. Am J Ophthalmol. 2017;179:32–8.
+ 14. Liu Y, Chen SJ, Li SY, Qu LH, Meng XH, Wang Y, et al. Long-term safety of 
+human retinal progenitor cell transplantation in retinitis pigmentosa 
+patients. Stem Cell Res Ther. 2017;8(1):209.
+ 15. Tuekprakhon A, Sangkitporn S, Trinavarat A, Pawestri AR, Vamvanij V, 
+Ruangchainikom M, et al. Intravitreal autologous mesenchymal stem cell 
+transplantation: a non-randomized phase I clinical trial in patients with 
+retinitis pigmentosa. Stem Cell Res Ther. 2021;12(1):52.
+ 16. Alcalde I, Sánchez-Fernández C, Martín C, De Pablo N, Jemni-Damer N, 
+Guinea GV, et al. Human stem cell transplantation for retinal degenerative 
+diseases: where are we now? Medicina. 2022;58(1):954.
+ 17. Satarian L, Nourinia R, Safi S, Kanavi MR, Jarughi N, Daftarian N, et al. 
+Intravitreal injection of bone marrow mesenchymal stem cells in patients 
+with advanced retinitis pigmentosa: a safety study. J Ophthalmic Vis Res. 
+2017;12(1):58–64.
+ 18. Voisin A, Pénaguin A, Gaillard A, Leveziel N. Stem cell therapy in retinal 
+diseases. Neural Regen Res. 2023;18(7):1478–85.Page 13 of 14
+ Chen et al. Stem Cell Research & Therapy          (2023) 14:286 
+ 
+ 19. Page MJ, Moher D, Bossuyt PM, Boutron I, Hoffmann TC, Mulrow CD, 
+et al. PRISMA 2020 explanation and elaboration: updated guidance and 
+exemplars for reporting systematic reviews. BMJ. 2021;372:n160.
+ 20. GA Wells BS, D O’Connell, J Peterson, V Welch, M Losos, P Tugwell. The 
+Newcastle-Ottawa Scale (NOS) for assessing the quality of nonran-
+domised studies in meta-analyses [Available from: http:// www. ohri. ca/ 
+progr ams/ clini cal_ epide miolo gy/ oxford. asp . Accessed 20 August 2023.
+ 21. Le Q, Chauhan T, Yung M, Tseng CH, Deng SX. Outcomes of limbal stem 
+cell transplant: a meta-analysis. JAMA Ophthalmol. 2020;138(6):660–70.
+ 22. Holladay JT. Proper method for calculating average visual acuity. J Refract 
+Surg. 1997;13(4):388–91.
+ 23. Beck RW, Moke PS, Turpin AH, Ferris FL 3rd, SanGiovanni JP , Johnson 
+CA, et al. A computerized method of visual acuity testing: adaptation of 
+the early treatment of diabetic retinopathy study testing protocol. Am J 
+Ophthalmol. 2003;135(2):194–205.
+ 24. Siqueira RC, Messias A, Voltarelli JC, Scott IU, Jorge R. Intravitreal injection 
+of autologous bone marrow-derived mononuclear cells for hereditary 
+retinal dystrophy: a phase I trial. Retina. 2011;31(6):1207–14.
+ 25. Park SS, Bauer G, Abedi M, Pontow S, Panorgias A, Jonnal R, et al. Intra-
+vitreal autologous bone marrow CD34+ cell therapy for ischemic and 
+degenerative retinal disorders: preliminary phase 1 clinical trial findings. 
+Invest Ophthalmol Vis Sci. 2014;56(1):81–9.
+ 26. Schwartz SD, Regillo CD, Lam BL, Eliott D, Rosenfeld PJ, Gregori NZ, et al. 
+Human embryonic stem cell-derived retinal pigment epithelium in 
+patients with age-related macular degeneration and Stargardt’s macular 
+dystrophy: follow-up of two open-label phase 1/2 studies. Lancet. 
+2015;385(9967):509–16.
+ 27. Weiss JN, Levy S. Stem cell ophthalmology treatment study: bone mar -
+row derived stem cells in the treatment of retinitis pigmentosa. Stem Cell 
+Investig. 2018;5:18.
+ 28. Oner A, Gonen ZB, Sevim DG, Smim Kahraman N, Unlu M. Suprachoroidal 
+adipose tissue-derived mesenchymal stem cell implantation in patients 
+with dry-type age-related macular degeneration and stargardt’s macular 
+dystrophy: 6-month follow-up results of a phase 2 study. Cell Reprogr. 
+2018;20(6):329–36.
+ 29. Mehat MS, Sundaram V, Ripamonti C, Robson AG, Smith AJ, Borooah 
+S, et al. Transplantation of human embryonic stem cell-derived retinal 
+pigment epithelial cells in macular degeneration. Ophthalmology. 
+2018;125(11):1765–75.
+ 30. Öner A, Gönen Z, Gülmez Sevim D, Sinim Kahraman N, Çetin M, Özkul 
+Y. First-year results of subretinal mesenchymal stem cell implantation in 
+severe retinitis pigmentosa. J Stem Cell Res Ther. 2019;9:954.
+ 31. Özmert E, Arslan U. Management of retinitis pigmentosa by Wharton’s 
+jelly derived mesenchymal stem cells: preliminary clinical results. Stem 
+Cell Res Ther. 2020;11(1):25.
+ 32. Kahraman NS, Oner A. Umbilical cord derived mesenchymal stem cell 
+implantation in retinitis pigmentosa: a 6-month follow-up results of a 
+phase 3 trial. Int J Ophthalmol. 2020;13(9):1423–9.
+ 33. Limoli PG, Limoli CSS, Morales MU, Vingolo EM. Mesenchymal 
+stem cell surgery, rescue and regeneration in retinitis pigmentosa: 
+clinical and rehabilitative prognostic aspects. Restor Neurol Neurosci. 
+2020;38(3):223–37.
+ 34. Zhao T, Liang Q, Meng X, Duan P , Wang F, Li S, et al. Intravenous infu-
+sion of umbilical cord mesenchymal stem cells maintains and partially 
+improves visual function in patients with advanced retinitis pigmentosa. 
+Stem Cells Dev. 2020;29(16):1029–37.
+ 35. Wiącek MP , Gosławski W, Grabowicz A, Sobuś A, Kawa MP , Baumert B, 
+et al. Long-term effects of adjuvant intravitreal treatment with autolo -
+gous bone marrow-derived lineage-negative cells in retinitis pigmentosa. 
+Stem Cells Int. 2021;2021:6631921.
+ 36. Sung Y, Lee MJ, Choi J, Jung SY, Chong SY, Sung JH, et al. Long-term safety 
+and tolerability of subretinal transplantation of embryonic stem cell-
+derived retinal pigment epithelium in Asian Stargardt disease patients. Br 
+J Ophthalmol. 2021;105(6):829–37.
+ 37. Li SY, Liu Y, Wang L, Wang F, Zhao TT, Li QY, et al. A phase I clinical trial of 
+human embryonic stem cell-derived retinal pigment epithelial cells for 
+early-stage Stargardt macular degeneration: 5-years’ follow-up. Cell Prolif. 
+2021;54(9):e13100.
+ 38. Weiss JN, Levy S. Stem cell ophthalmology treatment study (SCOTS): 
+bone marrow-derived stem cells in the treatment of stargardt disease. 
+Medicines. 2021;8(2):10. 39. Nor Khairullah S, Nor Fariza N, Roslin AAZ, Angelina T. Subtenon implanta-
+tion of Wharton’s jelly-derived mesenchymal stromal cells in retinitis 
+pigmentosa. Med J Malaysia. 2022;77(5):564–8.
+ 40. Fernandes MR, Lojudice FH, Ribeiro LZ, da Cruz NF, Polizelli MU, Cristovam 
+PC, Innocenti F, Morimoto L, Magalhães O Jr, Sallum JM, Sogayar MC. 
+Transplantation of subretinal stem cell-derived retinal pigment epithe -
+lium for stargardt’s disease: a phase I clinical trial. Retina. 2022;17:10–97.
+ 41. Oner A, Kahraman NS. Suprachoroidal umbilical cord derived mesenchy-
+mal stem cell implantation for the treatment of retinitis pigmentosa in 
+pediatric patients. Am J Stem Cell Res. 2023;5(1):1–7.
+ 42. Cotrim CC, Vieira Messias AM, Jorge R, Siqueira RC. Intravitreal use of 
+a bone marrow mononuclear fraction (BMMF) containing CD34+ 
+cells in patients with stargardt type macular dystrophy. Stem Cells Int. 
+2020;2020:8828256.
+ 43. Nair DSR, Thomas BB. Stem cell-based treatment strategies for degenera-
+tive diseases of the Retina. Curr Stem Cell Res Ther. 2022;17(3):214–25.
+ 44. Moghadam Fard A, Mirshahi R, Naseripour M, Ghasemi FK. Stem cell 
+therapy in stargardt disease: a systematic review. J Ophthalmic Vis Res. 
+2023;18(3):318–27.
+ 45. Oner A, Gonen ZB, Sinim N, Cetin M, Ozkul Y. Subretinal adipose 
+tissue-derived mesenchymal stem cell implantation in advanced stage 
+retinitis pigmentosa: a phase I clinical safety study. Stem Cell Res Ther. 
+2016;7(1):178.
+ 46. He Y, Zhang Y, Liu X, Ghazaryan E, Li Y, Xie J, et al. Recent advances of stem 
+cell therapy for retinitis pigmentosa. Int J Mol Sci. 2014;15(8):14456–74.
+ 47. Pearson RA, Gonzalez-Cordero A, West EL, Ribeiro JR, Aghaizu N, Goh 
+D, et al. Donor and host photoreceptors engage in material transfer 
+following transplantation of post-mitotic photoreceptor precursors. Nat 
+Commun. 2016;7:13029.
+ 48. Ortin-Martinez A, Yan NE, Tsai ELS, Comanita L, Gurdita A, Tachibana N, 
+et al. Photoreceptor nanotubes mediate the in vivo exchange of intracel-
+lular material. Embo j. 2021;40(22):e107264.
+ 49. Kalargyrou AA, Basche M, Hare A, West EL, Smith AJ, Ali RR, et al. 
+Nanotube-like processes facilitate material transfer between photorecep -
+tors. EMBO Rep. 2021;22(11):e53732.
+ 50. Avery RL, Bakri SJ, Blumenkranz MS, Brucker AJ, Cunningham ET Jr, 
+D’Amico DJ, Dugel PU, Flynn HW Jr, Freund KB, Haller JA, Jumper JM. 
+Intravitreal injection technique and monitoring: updated guidelines of an 
+expert panel. Retina. 2014;1(34):S1-8.
+ 51. Kim YC, Chiang B, Wu X, Prausnitz MR. Ocular delivery of macromolecules. 
+J Control Release. 2014;190:172–81.
+ 52. Kim JY, You YS, Kim SH, Kwon OW. Epiretinal membrane formation after 
+intravitreal autologous stem cell implantation in a retinitis pigmentosa 
+patient. Retin Cases Brief Rep. 2017;11(3):227–31.
+ 53. Peng Y, Tang L, Zhou Y. Subretinal injection: a review on the novel 
+route of therapeutic delivery for vitreoretinal diseases. Ophthalmic Res. 
+2017;58(4):217–26.
+ 54. Chiang B, Jung JH, Prausnitz MR. The suprachoroidal space as a route of 
+administration to the posterior segment of the eye. Adv Drug Deliv Rev. 
+2018;126:58–66.
+ 55. Limoli PG, Vingolo EM, Morales MU, Nebbioso M, Limoli C. Preliminary 
+study on electrophysiological changes after cellular autograft in age-
+related macular degeneration. Medicine. 2014;93(29):e355.
+ 56. Limoli PG, Limoli C, Vingolo EM, Scalinci SZ, Nebbioso M. Cell surgery and 
+growth factors in dry age-related macular degeneration: visual prognosis 
+and morphological study. Oncotarget. 2016;7(30):46913–23.
+ 57. Limoli PG, Vingolo EM, Limoli C, Scalinci SZ, Nebbioso M. Regenerative 
+therapy by suprachoroidal cell autograft in dry age-related macular 
+degeneration: preliminary in vivo report. JoVE J Vis Exp. 2018;132:e56469.
+ 58. Robinson MR, Lee SS, Kim H, Kim S, Lutz RJ, Galban C, et al. A rabbit model 
+for assessing the ocular barriers to the transscleral delivery of triamci-
+nolone acetonide. Exp Eye Res. 2006;82(3):479–87.
+ 59. Jin ZB, Gao ML, Deng WL, Wu KC, Sugita S, Mandai M, et al. Stemming 
+retinal regeneration with pluripotent stem cells. Prog Retin Eye Res. 
+2019;69:38–56.
+ 60. Ng TK, Fortino VR, Pelaez D, Cheung HS. Progress of mesenchymal 
+stem cell therapy for neural and retinal diseases. World J Stem Cells. 
+2014;6(2):111–9.
+ 61. Hosseini Shabanan S, Seyedmirzaei H, Barnea A, Hanaei S, Rezaei N. Stem 
+cell transplantation as a progressing treatment for retinitis pigmentosa. 
+Cell Tissue Res. 2022;387(2):177–205.Page 14 of 14 Chen et al. Stem Cell Research & Therapy          (2023) 14:286 
+•
+ fast, convenient online submission
+ •
+  thorough peer review by experienced researchers in your ﬁeld
+• 
+ rapid publication on acceptance
+• 
+ support for research data, including large and complex data types
+•
+  gold Open Access which fosters wider collaboration and increased citations 
+ maximum visibility for your research: over 100M website views per year •
+  At BMC, research is always in progress.
+Learn more biomedcentral.com/submissionsReady to submit y our researc h Ready to submit y our researc h  ?  Choose BMC and benefit fr om: ?  Choose BMC and benefit fr om: 
+ 62. Strioga M, Viswanathan S, Darinskas A, Slaby O, Michalek J. Same or 
+not the same? Comparison of adipose tissue-derived versus bone 
+marrow-derived mesenchymal stem and stromal cells. Stem Cells Dev. 
+2012;21(14):2724–52.
+ 63. Zhang J, Li P , Zhao G, He S, Xu D, Jiang W, et al. Mesenchymal stem cell-
+derived extracellular vesicles protect retina in a mouse model of retinitis 
+pigmentosa by anti-inflammation through miR-146a-Nr4a3 axis. Stem 
+Cell Res Ther. 2022;13(1):394.
+ 64. Bacci GM, Becherucci V, Marziali E, Sodi A, Bambi F, Caputo R. Treatment of 
+inherited retinal dystrophies with somatic cell therapy medicinal product: 
+a review. Life. 2022;12(5):708.
+ 65. Schwartz SD, Hubschman JP , Heilwell G, Franco-Cardenas V, Pan CK, 
+Ostrick RM, et al. Embryonic stem cell trials for macular degeneration: a 
+preliminary report. Lancet. 2012;379(9817):713–20.
+ 66. Takahashi K, Yamanaka S. Induction of pluripotent stem cells from 
+mouse embryonic and adult fibroblast cultures by defined factors. Cell. 
+2006;126(4):663–76.
+ 67. Takahashi K, Tanabe K, Ohnuki M, Narita M, Ichisaka T, Tomoda K, et al. 
+Induction of pluripotent stem cells from adult human fibroblasts by 
+defined factors. Cell. 2007;131(5):861–72.
+ 68. Hirami Y, Osakada F, Takahashi K, Okita K, Yamanaka S, Ikeda H, et al. Gen-
+eration of retinal cells from mouse and human induced pluripotent stem 
+cells. Neurosci Lett. 2009;458(3):126–31.
+ 69. Eiraku M, Takata N, Ishibashi H, Kawada M, Sakakura E, Okuda S, et al. 
+Self-organizing optic-cup morphogenesis in three-dimensional culture. 
+Nature. 2011;472(7341):51–6.
+ 70. Li Y, Tsai YT, Hsu CW, Erol D, Yang J, Wu WH, et al. Long-term safety and 
+efficacy of human-induced pluripotent stem cell (iPS) grafts in a preclini-
+cal model of retinitis pigmentosa. Mol Med. 2012;18(1):1312–9.
+ 71. Mandai M, Watanabe A, Kurimoto Y, Hirami Y, Morinaga C, Daimon T, et al. 
+Autologous induced stem-cell-derived retinal cells for macular degenera-
+tion. N Engl J Med. 2017;376(11):1038–46.
+ 72. Yasuo K. Safety study using allogenic iPSC-retinal sheets for patients with 
+retinitis pigmentosa (iRERP). https:// jrct. niph. go. jp/ en- latest-  detail/ jRCTa 
+05020 0027. Accessed 11 Sept 2023. 
+ 73. Maeda T, Mandai M, Sugita S, Kime C, Takahashi M. Strategies of pluri-
+potent stem cell-based therapy for retinal degeneration: update and 
+challenges. Trends Mol Med. 2022;28(5):388–404.
+Publisher’s Note
+Springer Nature remains neutral with regard to jurisdictional claims in pub -
+lished maps and institutional affiliations.

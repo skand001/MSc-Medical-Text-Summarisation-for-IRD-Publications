@@ -1,0 +1,634 @@
+Coats-like Vasculopathy in Inherited Retinal
+Disease
+Prevalence, Characteristics, Genetics, and Management
+Malena Daich Varela, MD,1,2Giovanni Marco Conti, MD,3Samantha Malka, MSc,1Veronika Vaclavik, MD,3
+Omar A. Mahroo, MD, PhD,1,2Andrew R. Webster, MD,1,2Viet Tran, MD,3Michel Michaelides, MD1,2
+Purpose: To describe the largest, most phenotypically and genetically diverse cohort of patients with
+inherited retinal disease (IRD)-related Coats-like vasculopathy (CLV).
+Design: Multicenter retrospective cohort study.
+Participants: A total of 67 patients with IRD-related CLV.
+Methods: Review of clinical notes, ophthalmic imaging, and molecular diagnosis from 2 international centers.
+Main Outcome Measures: Visual function, retinal imaging, management, and response to treatment were
+evaluated and correlated.
+Results: The prevalence of IRD-related CLV was 0.5%; 54% of patients had isolated retinitis pigmentosa
+(RP), 21% had early-onset severe retinal dystrophy, and less frequent presentations were syndromic RP, sectorRP, cone-rod dystrophy, achromatopsia, PAX6 -related dystrophy, and X-linked retinoschisis. The overall age of
+patients at CLV diagnosis was 30.7 /C616.9 years (1 e83). Twenty-one patients (31%) had unilateral CLV, and the
+most common retinal features were telangiectasia, exudates, and exudative retinal detachment (ERD) affectingthe inferior and temporal retina. Macular edema/schisis was observed in 26% of the eyes, and ERD was observedin 63% of the eyes. Fifty-four patients (81%) had genetic testing, 40 of whom were molecularly solved. Sixty-six
+eyes (58%) were observed, 17 eyes (15%) were treated with a single modality, and 30 eyes (27%) had a combined
+approach. Thirty- ﬁve eyes (31%) were “good responders, ”42 eyes (37%) were “poor responders, ”22 eyes (19%)
+had low vision at baseline and were only observed, and 12 eyes (11%) did not have longitudinal assessment.
+Twenty-one observed eyes (62%) responded well versus 14 (33%) treated eyes. Final best-corrected visual acuity
+was signi ﬁcantly worse than baseline ( P¼0.002); 40 patients (60%) lost 15 ETDRS letters or more over follow-up
+in 1 or both eyes, and 21 patients (31%) progressed to more advanced stages of visual impairment.
+Conclusions: Inherited retinal disease erelated CLV is rare, sporadic, and mostly bilateral; there is no gender
+predominance, and it can occur in diverse types of IRD at any point of the disease, with a mean onset in the fourthdecade of life. Patients with IRD-related CLV who have decreased initial visual acuity, ERD, CLV changesaffecting 2 or more retinal quadrants, and CRB1- retinopathy may be at higher risk of a poor prognosis.
+Financial Disclosure(s): Proprietary or commercial disclosure may be found in the Footnotes and Disclosures
+at the end of this article. Ophthalmology 2023;130:1327-1335 ª2023 by the American Academy of Ophthalmology.
+This is an open access article under the CC BY license ( http://creativecommons.org/licenses/by/4.0/ ).
+Supplemental material available at www.aaojournal.org .
+Coats disease (CD) is a rare ocular disorder characterized by
+abnormal retinal vasculature, manifesting as telangiectasia,aneurysms, hemorrhages, or intraretinal and subretinal
+exudation.1It has a prevalence of approximately 0.025%
+and it is an idiopathic, isolated disorder. However, Coats-like vasculopathy (CLV) can appear associated with sys-temic diseases such as facioscapulohumeral muscular dys-
+trophy or rare genetic syndromes, including syndromic or
+non-syndromic retinal diseases.
+2e4Both are believed to
+occur due to abnormal endothelium and pericytes that lead
+to defects in the blood-retinal barrier, exudation, vessel
+tortuosity and dilation, retinal ischemia, and detachment.5,6Coats disease is typically described as a unilateral con-
+dition, affecting more male than female patients in latechildhood or adolescence.4,7Patients often have decreased
+visual acuity and less frequently strabismus, pain, and
+xanthocoria.3Coats disease can be classi ﬁed according to
+the severity of its presentation, ranging from telangiectasiaonly to total retinal detachment (RD) and glaucoma.8
+Similar to other retinal vasculopathies (i.e., diabeticretinopathy and retinal vein occlusion), CD initiallydevelops in the retina, but it can affect the eye as a whole
+in advanced disease stages, when ischemia-led neo-
+vascularization compromises the ciliary angle and iris, and
+1327 ª2023 by the American Academy of Ophthalmology
+This is an open access article under the CC BY license ( http://creativecommons.
+org/licenses/by/4.0/ ). Published by Elsevier Inc.https://doi.org/10.1016/j.ophtha.2023.07.027
+ISSN 0161-6420/23intraocular pressure rises.8There are several approaches to
+CD management depending on the severity of thepresentation; observation, laser photocoagulation,
+cryotherapy, anti-VEGF, depot steroids, and vitrectomy
+are current available options.9
+Inherited retinal diseases (IRDs) are a diverse group of
+mostly monogenic conditions that commonly manifest as a
+degeneration of photoreceptors and retinal pigment epithe-
+lium cells. They include diverse phenotypes, such asearly-onset severe retinal dystrophy (EOSRD), rod-cone
+dystrophy (also known as “retinitis pigmentosa ”[RP], the
+most common type), cone-rod dystrophy (CORD), isolatedcone, and macular dystrophies, among others.
+10
+Approximately 1 in 2000 individuals are affectedworldwide, and the age of onset is widely variable,comprising congenital to late-adulthood disorders.
+11
+Theﬁrst case of CLV affecting a patient with an IRD was
+described in 1956 in an individual with RP.12Since then,
+multiple case reports have described patients with RP andCLV retinal changes, and it is estimated that the latter
+affect 1% to 5% of patients with RP.13e15Previous
+studies have characterized RP-related CLV in smaller co-horts, with a focus on CRB1 -associated IRD.15e18In this
+study, we describe the largest cohort of patients with
+IRD-related CLV to date and discuss its management,prognosis, and genotype-phenotype correlations.
+Methods
+This study was a retrospective case series of patients who attended
+Moor ﬁelds Eye Hospital (London, UK) and Hôpital Ophtalmique
+Jules-Gonin (Lausanne, Switzerland) and were diagnosed with an
+IRD and CLV changes. Patients were identi ﬁed through a clinical
+database search. Some of the terms queried were “pigmentosa, ”
+“exudative, ”“dystrophy, ”“exudates, ”“vasoproliferative, ”“telan-
+giectasia, ”“coat, ”“coats, ”“coats-like, ”“degeneration, ”“inheri-
+ted,”“Leber, ”“vasculopathy, ”and “proliferative. ”Informed
+consent was obtained from all patients. Ethical approval was pro-vided by the local ethics committee, and the study honored thetenets of the Declaration of Helsinki.
+Patient electronic healthcare records and paper notes were
+reviewed to retrieve relevant clinical information. The diagnosis ofIRD was made by retinal examination, ocular, medical and family
+history, multimodal retinal imaging, and when available, electro-
+retinography and genetic testing. All patients had an unremarkablebirth history and were born full-term.
+Age of disease onset corresponds to the age at which visual
+symptoms were ﬁrst noticed by the patients or caregivers. Snellen
+visual acuities were converted to logarithm of the minimum angleof resolution (logMAR) for statistical analysis purposes. As perconventions,
+19,20count ﬁngers vision was given a value of
+logMAR 1.98, hand motion vision was given a value
+of logMAR 2.28, light perception vision was given a value oflogMAR 2.7, and no light perception vision was given a value
+of logMAR 3.0. Patients were categorized using the World
+Health Organization (WHO) visual impairment criteria thatdeﬁne no or mild visual impairment as best-corrected visual acu-
+ity (BCVA) <0.48 (6/18, 20/60), moderate impairment as BCVA
+>0.48 and <1.0 (6/60, 20/200), severe impairment as BCVA
+>1.0 and <1.3 (3/60, 20/400), and blindness as BCVA >1.3.
+Ultra-wide ﬁeld pseudocolor, auto ﬂuorescence (green), and
+ﬂuorescein angiogram imaging were taken with Optos (Optos PLC,Dunfermline, UK), and macular optical coherence tomography
+(OCT) scans were obtained with Spectralis (Heidelberg Spectralis,Heidelberg Engineering, Inc., Heidelberg, Germany). Genetic
+testing was performed using panel-based, targeted next-generation
+sequencing, whole exome sequencing, or whole genomesequencing. When appropriate and available, parental blood sam-ples were taken to con ﬁrm segregation of proposed variants. The
+pathogenicity of previously unreported variants was determined by
+implementing the criteria of the American College of MedicalGenetics.
+21,22
+GraphPad Prism 8.0.2 (GraphPad Software) was used for
+statistical analysis. The threshold of signi ﬁcance was set at
+P<0.05. Ttests and linear regressions were used to assess
+parametric variables. Welch ’sttest variation was used when the
+sample sizes were signi ﬁcantly different.
+Results
+Prevalence, Demographics, Phenotype, and
+Disease Onset
+Two patients had IRD-related CLV among 890 patients with IRD
+in the Swiss center and 65 among approximately 10 000 patientswith IRD at Moor ﬁelds Eye Hospital, resulting in a prevalence of
+approximately 0.5% of CLV in patients with IRD.
+Sixty-seven patients from 67 families were included in this
+study ( Table S1 , available at www.aaojournal.org ). Ethnicity was
+available in 47 patients (70%); 26 patients (39%) were White, 14
+patients (21%) were Asian, 6 patients (9%) were Black, and 1
+patient (1%) was of mixed race. Thirty-one patients were male(46%), and 36 patients were female (54%). Positive family historywas reported by 29 patients (43%), and 12 patients mentioned
+consanguinity in their family (18%), with parents being ﬁrst
+cousins.
+Thirty-six patients had RP (54%, 11 having dominant RP; 23
+having recessive RP; and 2 having X-linked RP), 14 patients (21%)
+had EOSRD, 10 patients had syndromic RP (15%, 2 had Usher
+syndrome [USH] type 1, 5 had USH type 2, 1 had Bardet-Biedlsyndrome, 1 had Hallervorden-Spatz disease, and 1 had un-
+known etiology), 2 patients (3%) had sector RP, 2 patients had
+CORD, 1 patient had achromatopsia, 1 patient had PAX6 -related
+dystrophy, and 1 patient had X-linked retinoschisis.
+The age of visual symptoms onset was 12.2 /C612 years (mean
+/C6standard deviation; median, 8, range, birth to 55 years), and the
+mean age of IRD diagnosis was 22.0 /C617.1 years (median, 16
+years, range, 2 e61 years). Age at baseline visit was 27.5 /C616.4
+years (median, 26 years). Eighteen patients were children (27%,
+age<16 years), and 49 patients (73%) were adults.
+Forty patients (60%) were found to have CLV and IRD at their
+ﬁrst visit, 25 patients (37%) developed CLV after 8.3 /C68.6 years
+of follow-up (median 5, 0.5 e39), and 2 patients (3%) were referred
+with a diagnosis of CLV and were subsequently found to have anIRD. The overall age of CLV diagnosis was 30.7 /C616.9 years
+(median, 29 years, 1 e83 years).
+Visual Acuity
+Initial BCVA of those without CLV changes at baseline (n ¼26,
+26.1/C618.6 years) was 0.6 /C60.7 in the right eye (OD) and 0.9 /C6
+0.9 in the left eye (OS), whereas those with CLV at baseline had
+1.1/C60.9 in the OD and 1 /C61 in the OS (n ¼41, 29.9 /C614.7
+years). There was a signi ﬁcant difference for the OD ( P¼0.01),
+but not for the OS (0.87). Baseline age was not signi ﬁcantly
+different between those with and without CLV changes ( P¼0.5).Ophthalmology Volume 130, Number 12, December 2023
+1328At baseline, 36 patients had no to mild visual impairment (14
+without CLV, age 9 e78 years), 20 patients had moderate visual
+impairment (7 without CLV, 8 e42), 2 patients had severe visual
+impairment (a 5-year-old without CLV and a 12-year-old), 8 pa-
+tients were blind (2 without CLV, 11 e42), and 1 was an infant.
+Asymmetric BCVA (difference <0.3) at the initial visit was seen
+in 20 patients with CLV (50%) and 7 patients without CLV (28%).
+Thirty-nine eyes with CLV (35%) had low vision (BCVA >1.3)
+when CLV was ﬁrst noticed.
+There was no signi ﬁcant association between age and
+BCVA in patients with CLV at baseline ( P¼0.3) or patients
+without CLV ( P¼0.1) when analyzed cross-sectionally at
+their initial visit.
+Those with CLV development over follow-up had a BCVA of
+1.3/C61 in the OD and 1.1 /C61 at the time of CLV onset (age 33.2
+/C619.8 years). Considering the affected eyes only, there was a
+signiﬁcant difference between BCVA at baseline versus at CLV
+onset ( P¼0.0003).
+Forty-four eyes (39%) had CLV changes affecting the macula,
+51 (45%) had them peripherally, and in 18 eyes (16%) this wasunclear due to advanced disease, history of CLV complications at
+baseline, or poor visibility of the posterior pole. Baseline BCVA
+for those with CLV affecting the macula was 1.2 /C60.8 OD and
+OS versus 0.5 /C60.6 OD and 0.6 /C60.8 OS in those with the
+periphery affected only (signi ﬁcantly different, P¼0.005 OD
+and 0.05 OS).
+Clinical Examination, Fundus Imaging, and
+Fluorescein Angiography
+Forty-nine patients (73%) developed lens opacities at a mean age
+of 34.6 /C615.7 years, from congenital to 69 years of age.
+Sixty-four eyes (57%) had macular OCT scans, and 29
+eyes (26%) had macular edema/s chisis during follow-up. All
+patients had varied degrees of retinal pigmentary changes,vessel thinning, optic disc pallor, and macular involvement
+(Fig 1 Aa n dB ) .
+Twenty-one patients had unilateral CLV changes (31%, 15 OD
+and 6 OS) and 46 patients had bilateral, asymmetric disease (69%),
+giving a total of 113 eyes affected with CLV and IRD. The
+maximum time until the contralateral eye showed CLV signs was 7years ( Fig 1 C). Twenty eyes (18%) had telangiectasia only, 6 eyes
+(5%) had exudative RD only, 1 eye (1%) had retinal exudation
+only, 2 eyes had a vasoproliferative tumor only (2%), and the
+remaining 84 eyes (74%) had a combination of the previousangiomatous malformations, retinal exudates, and hemorrhages.Fifty-four eyes (48%) had up to 2 quadrants affected (mostly
+inferior and temporal), and 59 eyes (52%) had 3 or more quadrants
+involved.
+Seventy-one eyes (63%) developed exudative RD at or after 1.3
+/C64.3 years of CLV diagnosis (0 e20): 6 total RD, 26 inferior, 5
+posterior, 4 temporal, and the remaining eyes had a combined
+location (e.g., inferotemporal, inferior, and posterior).
+Fifteen patients had ﬂuorescein angiography (22%); 9 pa-
+tients had poor peripheral perfusion, 6 patients showed neo-
+vascularization with le akage, and 1 patient had a
+vasoproliferative tumor-like mass ( Fig 1 D). Patient ID 60 had
+participated in an RPE65 gene supplementation clinical trial
+(NCT02781480) 7 years before the development of CLV in
+the treated eye, noticed due to an acute drop in vision ( Fig 2 ).
+He received 0.4 ml of low-d ose AAV-OPTIRPE65 in the OD.
+His overall response to the inter vention had been positive until
+this episode, with no complica tions. He subsequently received
+Luxturna in the contralateral eye 4 years after the ﬁrst surgery,and fundus examination revealed no CLV until his most recent
+visit.
+Management and Longitudinal Analysis
+Sixty patients (90%) had longitudinal assessments, with a meanfollow-up time of 15.6 /C613.1 years (0 e57) and mean age of 44.4
+/C620.3 years (median, 43) at the latest visit. Final BCVA was 1.8
+/C61 logMAR OD and 1.5 /C61.1 OS, with a signi ﬁcant difference
+between baseline and follow-up BCVA ( P¼0.002). A signi ﬁcant
+difference was also found in ﬁnal BCVA between patients with
+macular and peripheral CLV ( P<0.0001 and 0.0003).
+Forty patients (60%) lost 15 ETDRS letters or more over
+follow-up in 1 or both eyes. Twenty-one patients (31%) progressedto more advanced WHO categories of visual impairment over
+follow-up, 15 of whom became blind (22%, age 10 e75 years).
+Sixty-six eyes (58%) were observed, 9 (8%) had laser treatment
+only, 5 (4%) had cryotherapy only, 2 (2%) had pars plana vitrec-tomy (PPV), 1 (1%) had a scleral thinning and draining procedure,
+and 30 (27%) had a combined approach. Eyes that maintained
+BCVA <1.3 at the latest assessment were classi ﬁed as “good
+responders, ”and those that received treatment and had a ﬁnal
+BCVA >1.3 were labeled as “poor responders. ”
+Observation Only. This group had a baseline age of 30.3 /C619
+years, follow-up time was 16 /C614.2 years, and the age at the most
+recent assessment was 45.6 /C621.6 years.
+Twenty-two eyes had low vision at baseline (33%, BCVA
+>1.3), 21 eyes (32%) were good responders, 13 eyes (20%) were
+poor responders, 9 eyes (14%) did not have follow-up assessments,and 1 patient was nonverbal (2%, Table S2 , available at
+www.aaojournal.org ). The eyes that did not respond well to
+observation were left untreated for reasons such as older caseswhere minimally invasive intravitreal medication was notapproved/available yet, pregnant/nursing patients, functioning
+contralateral eye, and patient ’s choice.
+The complications seen in this subgroup were exudative RD (33
+eyes), vitreous hemorrhage (VH) (7 eyes), intraretinal or retro-hyaloid hemorrhages (3 eyes), neovascular glaucoma (5 eyes),
+open-angle glaucoma (4 eyes), acute angle-closure glaucoma (2
+eyes), band keratopathy (2 eyes), and ocular in ﬂammation (epis-
+cleritis and anterior uveitis, 2 eyes; Table S2 ).
+One Therapeutic Method Only. Patients treated solely with
+laser, cryotherapy, PPV, or a scleral thinning and draining pro-cedure were combined for analysis (n ¼17). Their age at baseline
+was 27.9 /C611.6 years, they were followed for 18.1 /C613.9 years,
+and their age at the latest assessment was 48.8 /C618.4 years. Four
+eyes had serial procedures. Nine eyes had between 1 and 5 sessionsof focal or panretinal photocoagulation; 4 eyes had only 1 sessionof cryotherapy, and the remaining eye had 3 sessions; 1 eye had 2
+PPVs, 1 eye had 1 PPV, and the remaining eye had 1 scleral
+thinning procedure with drainage of subretinal ﬂuid.
+Ten eyes (59%) had poor response to treatment, with decreased
+vision, development of exudative and/or tractional RD (10 eyes),
+glaucoma (6 eyes, neovascular and/or acute angle-closure glau-coma), VH (5 eyes), and chronic uveitis post-treatment (1 eye).Four eyes (24%) had good response, with resolved RD, inactive
+telangiectasia, and absorbed hemorrhages; 2 eyes (12%) did not
+have follow-up assessments, and 1 patient (6%) was nonverbal(Table S2 ).
+Combined therapy. Patients treated with more than 1 approach
+(n¼30) had a mean age of 24.2 /C610.3 years at baseline and were
+followed for 15.7 /C612.7 years, having a most recent age of 42.2 /C6
+17.2 years.Daich Varela et al/C15Coats-like Vasculopathy in IRD
+1329The treatments were as follows: laser and cryotherapy (6 eyes);
+laser and anti-VEGF (3); radioactive plaque and laser (4); laser,
+cryotherapy, and PPV (4); cryotherapy and anti-VEGF (3, Fig 2 );
+laser, anti-VEGF, and cryotherapy (3); radioactive plaque, laser,and anti-VEGF (1); cryotherapy, PPV, and anti-VEGF (1); laser and
+retinopexy (1); cryotherapy and PPV (1); laser, anti-VEGF, and
+orbital steroid injection (1); laser, anti-VEGF, and intravitreal ste-roids (1); and cryotherapy, laser, and scleral buckle (1). Ten eyes hadserial procedures, up to 13 anti-VEGF injections (mean, 2.8 /C63.3;
+median, 2) and 9 sessions of laser (2.1 /C62.1, median, 1).
+Ten eyes (33%) had good response to treatment, with visual
+acuity maintained and resolved neovascularization, hemorrhages,and RD. Nineteen eyes (63%) had poor response, with decreased
+vision, development of exudative and/or tractional RD (19 eyes),
+VH (15 eyes), glaucoma (5 eyes, neovascular and/or open-angleglaucoma), uveitis (2 eyes), retinal and subretinal hemorrhage (2
+Figure 1. Fundus features of Coats-like vasculopathy (CLV) in inherited retinal disease (IRD). A,Patient ID 59 at 7 years of age. A retinal dystrophy
+affecting both the macula and peripheral retina is evident, with bilateral exudation in the nasal and inferior retina. This patient had negative gene tic testing
+results and a syndromic IRD with developmental delay, maxillary and mandibular hypoplasia, and pontocerebellar atrophy. B,Patient ID 2 with GNAT2 -
+related achromatopsia at 35 years of age. Peripheral atrophy with exudation is visible unilaterally in the right eye (OD). C,The OD of patient ID 13 at 13
+and 18 years of age. We see the development of retinal exudation and telangiectasia over time in the superotemporal quadrant. She had negative genetic
+testing and a more severely affected left eye, with recurrent vitreous hemorrhages. D,Fluorescein angiogram and color retinal imaging of the OD of patient
+ID 7 at 15 years old. Temporal nonperfusion and telangiectasia are visible. Color imaging is positive for retinal exudation and atrophy in 3 retinal qu adrants.
+Genetic testing was not performed.Ophthalmology Volume 130, Number 12, December 2023
+1330eyes), and phthisis (3 eyes); and 1 eye (3%) did not have follow-up
+assessments ( Table S2 ).
+Good Responders versus Poor Responders. Thirty- ﬁve eyes
+(31%) were good responders, 42 eyes (37%) were poor responders,22 eyes (19%) had low vision (BCVA >1.3) at baseline and were
+only observed, and 12 eyes (11%) did not have longitudinal
+assessment. Among the good responders, 8 patients were White, 4
+patients were Black, and 4 patients were Asian.
+Among the eyes with low vision at baseline (n ¼39), 22 (56%)
+were observed with poor response, 10 (26%) had poor response to
+various treatments, 6 (15%) did not have follow-up assessments,and 1 was observed with good response.
+Excluding the patients with low vision at baseline who were
+observed, those without longitudinal evaluation, and the nonverbal
+infants, 77 eyes remain. Of these, 43 eyes were treated (56%) and34 were observed (44%). Twenty-one (62%) observed eyesresponded well versus 14 (33%) treated eyes. Dividing the latter
+into single (n ¼14) versus combined (n ¼29) treatments, 4 eyes
+(29%) responded well in the single treatment group (3 laser and 1
+cryotherapy), compared with 10 (34%) in the combined subgroup(2 laser and anti-VEGF; 1 laser and brachytherapy; 1 laser, anti-VEGF, and brachytherapy; 1 laser and retinopexy; 1 laser,
+anti-VEGF, and orbital ﬂoor steroids; 1 laser, anti-VEGF, and
+cryotherapy; 1 laser, cryotherapy, and PPV; 1 anti-VEGF,cryotherapy, and PPV; 1 anti-VEGF and cryotherapy). Six eyes
+with serial procedures were good responders (43%) compared with
+8 with poor response (57%).
+Given the multiple combinations and small numbers of each, it
+is not possible to assess whether one treatment was better than the
+rest. Although a larger percentage of observed eyes were good
+responders compared with treated, the severity and nature of thepresentation may have been different between groups. Two-thirds
+Figure 2. Macular OCT and ultrawide- ﬁeld color fundus imaging of a patient with RPE65 early-onset severe retinal dystrophy and Coats-like vasculopathy
+(CLV) (ID 60) before and after treatment. A,Two years before the appearance of CLV changes, the scan is characterized by an atrophic outer retina and
+abnormal vitreoretinal interface. There are no signs of CLV in fundus imaging. B,Scan taken when patient came to the emergency service due to sudden
+unilateral decrease in visual acuity, subretinal ﬂuid is visible in OCT and telangiectasia, exudative retinal detachment (ERD), and retinal hemorrhages are
+seen in fundus evaluation and imaging. Cryotherapy and anti-VEGF treatment were scheduled. C,Scan and image taken 1 month after treatment, subretinal
+ﬂuid and exudation are increased, and a second anti-VEGF was planned. D,Scan and image taken 1 month after the second anti-VEGF injection. The
+subretinal ﬂuid has resolved, and retinal atrophy, intraretinal cysts, and a thickened epiretinal membrane are visible.Daich Varela et al/C15Coats-like Vasculopathy in IRD
+1331of the eyes that responded well to observation had only 1 or 2
+quadrants affected compared with one-third of the treated eyes. Themilder presentation of the observed eyes may have led to the choice
+of management and ultimate response.
+The phenotypes in the good responders group (n ¼35) were
+5 eyes from patients with EOSRD, 6 eyes with USH, 1 eye withHallervorden-Spatz disease, 1 eye with sector RP, and the
+remaining eyes with RP. Four pa tients with RP, 2 patients with
+EOSRD, and 1 patient with CORD did not have follow-up as-sessments, and the remaining patients with EOSRD, RP, USH,Bardet-Biedl syndrome, achromatopsia, PAX6 -related dystro-
+phy, CORD, and retinoschisis were in the poor responders group
+(n¼42).
+There was not a signi ﬁcant difference regarding age of CLV
+onset between good (32.3 /C618.7) and poor responders (31.2 /C6
+14.0, P¼0.4). The BCVA at CLV onset was signi ﬁcantly better
+for the good responders (0.5 /C60.6) than for the poor responders
+(0.95/C60.8,P¼0.001). Six eyes in the good responders group
+had unilateral CLV (17%) versus 8 in the poor responders group
+(19%). Nine eyes developed exudative RD in the good re-sponders group (26%) versus 35 eyes in the poor respondersgroup (83%). Twenty-one eyes in the good responders group
+(60%) had CLV changes affecting 1 or 2 quadrants of the retina
+compared with 17 eyes (40%) in the poor responders group. Thetime between CLV onset and treatment was not signi ﬁcantly
+different between groups (1.3 /C63.0 years for good responders
+vs. 1.7 /C66 for poor responders, P¼0.8).
+Molecular Genetics
+Fifty-four patients (81%) had g enetic testing; 40 had positive
+results, 9 had negative results, 1 result was inconclusive, and in
+4 only the affected gene was recorded, without details of thevariant. Eleven patients had disease-causing variants in CRB1, 5
+inRHO ,4i n USH2A ,2i n PRPF31 ,RPGR ,NRL,a n d MYO7A ,
+and the remaining genes were seen in only 1 family each ( Fig 3 ,
+Table S1 ).
+Fifty different variants in 21 genes were present in our cohort;
+29 were missense, 8 were nonsense, 5 were splice-site alterations, 5
+were small deletions and duplications, 2 were large deletions, and 1was deep intronic. Forty-one variants (82%) were present in theliterature, and 9 variants (18%) were previously unreported
+(Table S1 ). Among the latter, 3 were classi ﬁed as pathogenic, 5
+were classi ﬁed as likely pathogenic, and 1 was classi ﬁed as a
+variant of uncertain signi ﬁcance.
+The good responders group included eyes from patients with
+USH1, USH2, CRB1 -retinal dystrophy, RHO- ,USH2A -,PDE6B -,
+EYS-,PRPF8 -,RP1-,FLVCR1 -, and PANK2 -RP. Three eyes with
+RHO -RP and 3 eyes with USH2 were poor responders versus 3 and
+4 good responders, respectively.
+Forty-two eyes with autosomal recessive and X-linked RP and
+EOSRD had follow-up assessments and did not belong to thegroup with poor baseline VA that was only observed; 13 eyes
+corresponded to patients with CRB1- retinopathy, and 29 eyes were
+notCRB1 -related. Of those caused by variants in CRB1 , 12 were
+poor responders (92%) and only 1 was a good responder, whereasamong those not CRB1- related, 16 were good responders and 13
+were poor responders (45%). No signi ﬁcant differences existed
+between the CRB1 - and not CRB1 -related groups regarding age at
+CLV (26.9 /C68.7 years versus 30.3 /C612.5 years, respectively, P¼
+0.45), age at ﬁrst visit (25.6 /C610.1 years versus 26.8 /C610.4 years,
+respectively, P
+¼0.79), or age at last visit (48.2 /C614.8 years
+versus 42 /C618.5 years, respectively, P¼0.42). Patients withautosomal dominant inheritance were excluded from this compar-
+ison given that their phenotype can be milder than the other in-
+heritance forms.23
+Discussion
+This study presents the largest and most diverse cohort of
+patients with IRD-related CLV to date. The different
+vascular lesions, management, and longitudinal evaluationare detailed, providing valuable information about thenatural history, prognosis, and genetics of this disorder
+(Table S2 ).
+The prevalence of CLV in this study (0.5%) was less than
+reported by Khan et al
+24in 1988 (1.2% e3.6%). This may be
+associated with the wide availability of multimodal imaging,
+allowing early diagnosis of IRD and discrimination betweendifferential diagnoses, or to a more thorough understanding
+and extended sample size of IRD.
+Unlike isolated CD,3in IRD-related CLV we found an
+equal male and female incidence, a minority of patients hadunilateral disease (31%), and the mean age of onset was in
+the fourth decade of life, with a wide range of onset (1 e83
+years). These characteristics are in keeping with thosedescribed in previous small case series and are reinforced in
+this larger, genetically and phenotypically diverse
+cohort.
+24,25
+Figure 3. Pie chart representing the most common genes found in the
+cohort. Fifty-four patients (81%) had genetic testing; 40 had positive re-sults, 9 had negative results, 1 showed inconclusive results, and in 4 pa-tients only the affected gene was recorded, without details of the variant.
+Eleven patients had disease-causing variants in CRB1, 5i n RHO ,4i n
+USH2A , and 2 in PRPF31 ,RPGR ,NRL , and MYO7A . The remaining
+genes ( PRPF8, GNAT, GUCA1A, RP1, RS1, PAX6, KLHL7, GUCY2D,
+FLVCR1, EYS, PANK2, RPE65, CDH3, NR2E3, andPDE6B ) were seen
+in only 1 family each and are not represented in the pie chart. Furtherinformation about the variants and demographics can be found in Table S1
+(available at www.aaojournal.org ).Ophthalmology Volume 130, Number 12, December 2023
+1332Of note, we saw only 1 affected family member despite
+43% of the patients reporting a family history of IRD. It hasbeen postulated that IRD-related CLV may relate to a
+speciﬁc gene(s) or variant(s) that could be inherited, but the
+fact that it affected only 1 family member makes it apossible IRD complication instead of a unique type of IRDand moreover, that we have such a broad range of under-
+lying genotypes in our cohort.
+15,24,26
+Fifty-six patients (84%) had mild-moderate visual
+impairment at baseline and 18 patients (27%) had adult-
+onset IRD; thus, poor initial VA and early onset do not
+appear to be necessary risk factors to develop CLV. Thiswas also seen in previous cohorts, in which patients with
+good initial VA and adult presentations still presented with
+CLV during follow-up.15,18Our study has expanded the
+phenotype of IRD-related CLV, previously restricted toEOSRD and RP, to CORD, macular dystrophy, achroma-
+topsia, and sector RP, indicating that a clinical association
+(i.e., generalized peripheral retinal vessel thinning) is notevident.
+The most common CLV lesion in our cohort was a
+combination of telangiectasia, RD, and exudates, corre-sponding to CD stages 2 and 3.
+3,8These stages are the most
+commonly described in IRD-related CLV14,27and were also
+the most frequently seen in a large study of isolated CD.8
+Exudative RD was frequent in this study, affecting 63%
+of the eyes and mostly the inferior retina. This prevalence
+and location are consistent with previous reports.14,15,18
+Macular edema or schisis was present in 26% of eyes, a
+percentage similar to that of patients with IRD without
+CLV changes.28There is a wide variability in the
+literature regarding macular cystic changes in CLV, beingabsent in some case series or present in a smaller, similar,
+and larger percentage than the one seen in this
+study.14,15,18,29One quarter of the eyes in this study had
+VH (27 eyes), a larger subset than in isolated CD.9,30
+Shields et al associated the lack of retinal
+neovascularization with the low incidence of VH in theircohort;30thus, it is possible that the ischemia in IRD-
+related CLV triggers a different mechanism to cause new
+vessels and subsequent hemorrhages.31
+Coats-like vasculopathy is a severe complication of IRD
+that often decreases visual acuity. This was seen by
+comparing the baseline VA of patients with and without
+CLV, by differentiating between those with macular andperipheral CLV, by contrasting VA of the same patients
+before and after CLV onset, and by noticing a signi ﬁcantly
+different baseline and latest VA. Patients with CLV in theposterior pole have a worse visual prognosis than those with
+peripheral lesions. One third of the patients (31%) pro-
+gressed to more advanced WHO categories of visualimpairment over follow-up, and 22% became blind. Thispercentage is consistent with previous cases of IRD-related
+CLV,
+15,18whereas in isolated CD the condition is mostly
+unilateral and patients maintain good vision in 1 eye.29
+The prevalence of glaucoma (20% of eyes) and
+vasoproliferative tumors was similar to previous
+reports.29,30,32
+The cohort in this study includes participants diagnosed
+before intravitreal medications were frequently used. Morethan half of the eyes (66, 58%) were observed, 22 eyes due
+to poor initial function. Observation is generally advised ineyes with asymptomatic disease or advanced stage with poor
+visual prognosis.8Among those with preserved visual
+function at baseline, 48% responded well to observation,which was a percentage similar to that seen in isolatedCD.
+9The largest percentages of good responders in our
+cohort were found in the observation and combined
+therapy groups; therefore, it appears that tailoring themanagement to the type and location of vascular lesion is
+key for a favorable prognosis. Current trends show that
+intravitreal medication may result in a better outcome thancryotherapy or laser alone.
+9,29In this study, only 10
+patients (15%) received anti-VEGF and 1 patient received
+a concomitant intravitreal steroid injection, compared with19 patients (28%) who received cryotherapy and 23 patients(34%) who received photocoagulation. Future work imple-
+menting more intravitreal medications in these patients will
+be useful to determine their suitability in IRD-related CLV.
+On the basis of the ﬁndings of our cohort, factors
+possibly predictive of poor response and prognosis include
+decreased initial VA, development of exudative RD, CLVchanges affecting more than 2 quadrants of the retina, and
+CRB1- retinopathy. There were no signi ﬁcant differences
+regarding age of CLV onset, laterality of disease, timebetween diagnosis and treatment, or non-White race. In
+isolated CD, non-White race, diffuse and superior telangi-
+ectasias, and exudation have been found to be associatedwith poor prognosis.
+8
+There are several hypotheses explaining why CLV
+changes occur in IRD, related to hyperpermeable vasodila-
+tion, hypoxia secondary to subretinal exudation, and chronicischemia due to arteriolar attenuation.15A hypoxic state
+caused by tissue loss and subsequent vascular narrowing
+also has been described as a possible trigger for CLV.33,34
+The appearance of CLV in diverse types of IRD in this
+cohort somewhat challenges these theories, because the
+retina functions in nearly opposite ways in RP comparedwith a macular dystrophy or achromatopsia. Analternative/overlapping explanation is that free radicals
+produced by misfunctioning retinal cells,
+35known
+disruptors of homeostasis and key in the development ofDR,36also may play a part in the pathophysiology of
+IRD-associated CLV. Future possible clinical trials for
+IRD using antioxidants may be of help in determiningwhether the incidence of CLV decreases.37,38
+Study Strengths and Limitations
+The strengths of this study are the large number of patients
+with this rare complication of IRD, their diverse phenotype,
+genotype, and ethnic background, and the multicenter na-
+ture. Its limitations include its retrospective nature, incom-plete data for some individuals, and nonstandardized
+methods throughout the centers and periods of time these
+patients were evaluated. It is also likely that indications forvarious treatment modalities were not standardized, but
+therapeutic strategies were a combination of availability as
+well as physician and patient preference.Daich Varela et al/C15Coats-like Vasculopathy in IRD
+1333Conclusions
+This article describes the largest, most phenotypically and
+genetically diverse cohort of patients with IRD-related CLV to
+date. Retinal appearance, disease extent, complications, man-
+agement, and genotype-phenotype correlations are detailed.Inherited retinal disease erelated CLV is a rare complication,
+affecting less than 1% of patients with IRD. It is sporadic,mostly bilateral, does not have a male predominance, and can
+occur at any point in the disease, with a mean onset in ourcohort in the fourth decade of life. Coats-like vasculopathy can
+occur in diverse types of IRD and commonly appears as tel-
+angiectasia, RD, and exudates. Patients with IRD-related CLVwho have decreased initial VA, exudative RD, CLV changesaffecting 2 or more retinal quadrants, and CRB1- retinopathy
+may be at greater risk of poor prognosis.
+Footnotes and Disclosures
+Originally received: May 24, 2023.
+Final revision: July 28, 2023.
+Accepted: July 31, 2023.
+Available online: August 5, 2023. Manuscript no. OPHTHA-D-23-00909.
+1Moor ﬁelds Eye Hospital, London, United Kingdom.
+2UCL Institute of Ophthalmology, University College London, London,
+United Kingdom.
+3Hôpital Ophtalmique Jules-Gonin, Lausanne, Switzerland.
+Disclosure(s):
+All authors have completed and submitted the ICMJE disclosures form.The author(s) have made the following disclosure(s): M.M.: Consultant e
+MeiraGTx Ltd., Stargazer, Belite Bio, Mogrify; Data Safety MonitoringBoardeStargazer, Belite Bio, MeiraGTx-Janssen; Stock/stock options e
+MeiraGTx.
+Financial Support: are supported by a grant from the National Institute for
+Health Research Biomedical Research Centre at Moor ﬁelds Eye Hospital
+NHS Foundation Trust and UCL Institute of Ophthalmology (to O.A.M.,
+A.R.W., and M.M.), and supported by The Wellcome Trust (099173/Z/12/Z
+and 206619/Z/17/Z (to M.M. and O.A.M.).
+HUMAN SUBJECTS: Human subjects were included in this study. Ethical
+approval was provided by the ethics committee from Moor ﬁelds Eye
+Hospital (London, UK) and Hôpital Ophtalmique Jules-Gonin (Lausanne,
+Switzerland). All research adhered to the tenets of the Declaration ofHelsinki. All participants provided informed consent.No animal subjects were used in this study.
+Author Contributions:Conception and design: Daich Varela, MichaelidesData collection: Daich Varela, Conti, Vaclavik, Tran
+Analysis and interpretation: Daich Varela, Conti, Malka, Vaclavik, Tran,
+Michaelides
+Obtained funding: Mahroo, Webster, MichaelidesOverall responsibility: Daich Varela, Tran, Michaelides
+Abbreviations and Acronyms:
+BCVA ¼best-corrected visual acuity; CD¼Coats disease; CLV¼Coats-
+like vasculopathy; CORD ¼cone-rod dystrophy; EOSRD ¼early-onset
+severe retinal dystrophy; ERD ¼exudative retinal detachment;
+IRD¼inherited retinal disease; logMAR ¼logarithm of the minimum
+angle of resolution; OD¼right eye; OS¼left eye; PPV¼pars plana
+vitrectomy; RD¼retinal detachment; RP¼retinitis pigmentosa;
+USH¼Usher syndrome; VH¼vitreous hemorrhage; WHO ¼World
+Health Organization.
+Keywords:
+Coats, Inherited, Genetics, Retina, Vasculopathy.
+Correspondence:
+Michel Michaelides, MD, UCL Institute of Ophthalmology, 11-43 Bath St.,
+London, EC1V 9EL, UK. E-mail: michel.michaelides@ucl.ac.uk.
+References
+1.Ghorbanian S, Jaulim A, Chatziralli IP. Diagnosis and treat-
+ment of Coats ’disease: a review of the literature. Oph-
+thalmologica . 2012;227:175 e182.
+2.Bass SJ, Sherman J, Giovinazzo V. Bilateral Coats ’response
+in a female patient leads to diagnosis of facioscapulohumeral
+muscular dystrophy. Optometry . 2011;82:72 e76.
+3.Sen M, Shields CL, Honavar SG, Shields JA. Coats disease: an
+overview of classi ﬁcation, management and outcomes. Indian
+J Ophthalmol . 2019;67:763 e771.
+4.Dorji P, Raval V, Jalali S, et al. Coats disease in India: clinical
+presentation and outcome in 675 patients (690 eyes). Int
+Ophthalmol . 2023;43:531 e540.
+5.Fernandes BF, Odashiro AN, Maloney S, et al. Clinical-his-
+topathological correlation in a case of Coats ’disease. Diagn
+Pathol . 2006;1:24 .
+6.Egbert PR, Chan CC, Winter FC. Flat preparations of the
+retinal vessels in Coats ’disease. J Pediatr Ophthalmol .
+1976;13:336 e339.
+7.Coats G. Forms of retinal disease with massive exudation. Roy
+London Ophthalmol Hosp Rep . 1908;17:440 e525.8.Shields JA, Shields CL, Honavar SG, et al. Classi ﬁcation and
+management of Coats disease: the 2000 Proctor Lecture. Am J
+Ophthalmol . 2001;131:572 e583.
+9.Oli A, Balakrishnan D, Jalali S. Coats ’disease: trends
+and long-term treatment outcomes in a tertiary referral
+centre. Ther Adv Ophthalmol . 2021;13:25158
+414211055956 .
+10.Daich Varela M, Esener B, Hashem S, et al. Structural eval-
+uation in inherited retinal diseases. Br J Ophthalmol .
+2021;105:1623 e1631 .
+11.Daich Varela M, Georgiou M, Hashem SA, et al. Functionalevaluation in inherited retinal disease. Br J Ophthalmol .
+2022;106:1479 e1487 .
+12.Zamorani G. Una rara associazone di retinite di Coats con
+retinite pigmentosa. Gior Ital Oftalmol . 1956;9:429 e443.
+13.Morgan WE, Crawford JB. Retinitis pigmentosa and Coats ’
+disease. Arch Ophthalmol . 1968;79:146 e149.
+14.Kan E, Yilmaz T, Aydemir O, et al. Coats-like retinitis pig-
+mentosa: reports of three cases. Clin Ophthalmol . 2007;1:
+193e198.Ophthalmology Volume 130, Number 12, December 2023
+133415.Moinuddin O, Sathrasala S, Jayasundera KT, et al. Coats-like
+exudative vitreoretinopathy in retinitis pigmentosa: ocular
+manifestations and treatment outcomes. Ophthalmol Retin .
+2021;5:86 e96.
+16.den Hollander AI, Heckenlively JR, van den Born LI, et al.
+Leber congenital amaurosis and retinitis pigmentosa withCoats-like exudative vasculopathy are associated with muta-tions in the crumbs homologue 1 (CRB1) gene. Am J Hum
+Genet . 2001;69:198 e203.
+17.den Hollander AI, Davis J, van der Velde-Visser SD, et al.
+CRB1 mutation spectrum in inherited retinal dystrophies. Hum
+Mutat . 2004;24:355 e369.
+18.Magliyah M, Alshamrani AA, Schatz P, et al. Clinical spec-
+trum, genetic associations and management outcomes ofCoats-like exudative retinal vasculopathy in autosomal reces-sive retinitis pigmentosa. Ophthalmic Genet . 2021;42:
+178e185.
+19.Lange C, Feltgen N, Junker B, et al. Resolving the clinical
+acuity categories “hand motion ”and “counting ﬁngers ”using
+the Freiburg Visual Acuity Test (FrACT). Graefes Arch Clin
+Exp Ophthalmol . 2009;247:137 e142.
+20.Day AC, Donachie PHJ, Sparrow JM, Johnston RL. The Royal
+College of Ophthalmologists ’National Ophthalmology Data-
+base study of cataract surgery: report 1, visual outcomes and
+complications. Eye (Lond) . 2015;29:552 e560.
+21.Richards S, Aziz N, Bale S, et al. Standards and guidelines for
+the interpretation of sequence variants: a joint consensus
+recommendation of the American College of Medical Genetics
+and Genomics and the Association for Molecular Pathology.Genet Med . 2015;17:405 e424.
+22.Brandt T, Sack LM, Arjona D, et al. Adapting ACMG/AMP
+sequence variant classi ﬁcation guidelines for single-gene copy
+number variants. Genet Med . 2020;22:336 e344.
+23. Daich Varela M, Georgiadis A, Michaelides M. Genetic
+treatment for autosomal dominant inherited retinal dystrophies:
+approaches, challenges and targeted genotypes. Br J Oph-
+thalmol . Published online August 2022. https://doi.org/10.
+1136/bjo-2022-321903 .
+24.Khan JA, Ide CH, Strickland MP. Coats ’
+-type retinitis pig-
+mentosa. Surv Ophthalmol . 1988;32:317 e332.25.Pruett RC. Retinitis pigmentosa: clinical observations and
+correlations. Trans Am Ophthalmol Soc . 1983;81:693 .
+26.Demirci FYK, Rigatti BW, Mah TS, Gorin MB. A novel
+RPGR exon ORF15 mutation in a family with X-linked reti-
+nitis pigmentosa and Coats ’-like exudative vasculopathy. Am J
+Ophthalmol . 2006;141:208 e210.
+27.Sarao V, Veritti D, Prosperi R, et al. A case of CRB1-negative
+Coats-like retinitis pigmentosa. J Am Assoc Pediatr
+Ophthalmol Strabismus . 2013;17:414 e416.
+28.Ruff A, Tezel A, Tezel TH. Anatomical and functional cor-
+relates of cystic macular edema in retinitis pigmentosa. PLoS
+One. 2022;17:e0276629 .
+29.Shields CL, Udyaver S, Dalvin LA, et al. Coats disease in 351
+eyes: analysis of features and outcomes over 45 years (by decade)at a single center. Indian J Ophthalmol . 2019;67:772 e783.
+30.Shields JA, Shields CL, Honavar SG, Demirci H. Clinical
+variations and complications of Coats disease in 150 cases: the
+2000 Sanford Gifford Memorial Lecture. Am J Ophthalmol .
+2001;131:561 e571.
+31.Nao-i N, Fukiyama J, Sawada A. Retinitis pigmentosa with
+recurrent vitreous hemorrhage. Acta Ophthalmol Scand .
+1996;74:509 e512.
+32.Ghassemi F, Akbari-Kamrani M. Retinitis pigmentosa asso-
+ciated with vasoproliferative tumors and Coats-like fundus.
+J Ophthalmic Vis Res . 2013;8:268 e270.
+33.Geltzer AI, Berson EL. Fluorescein angiography of hereditary
+retinal degenerations. Arch Ophthalmol . 1969;81:776 e782.
+34.Uliss AE, Gregor ZJ, Bird AC. Retinitis pigmentosa and retinal
+neovascularization. Ophthalmology . 1986;93:1599 e1603 .
+35.Campochiaro PA, Mir TA. The mechanism of cone cell death
+in retinitis pigmentosa. Prog Retin Eye Res . 2018;62:24 e37.
+36.
+Behl T, Kaur I, Kotwani A. Implication of oxidative stress inprogression of diabetic retinopathy. Surv Ophthalmol .
+2016;61:187 e196.
+37.Piotter E, McClements ME, MacLaren RE. Therapy ap-
+proaches for Stargardt disease. Biomolecules . 2021;11:1179 .
+38. Daich Varela M, Michaelides M. RDH12 retinopathy: clinical
+features, biology, genetics and future directions. Ophthalmic
+Genet . Published online 2022:1 e6.https://doi.org/10.1080/
+13816810.2022.2062392 .Daich Varela et al/C15Coats-like Vasculopathy in IRD
+1335
