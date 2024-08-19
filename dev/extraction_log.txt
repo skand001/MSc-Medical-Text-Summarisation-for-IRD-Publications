@@ -1,0 +1,55 @@
+2024-08-16 00:39:21,584 - INFO - Starting abstract extraction from /mnt/data/skanda/MSc_IRD_LLM/data/data_txt
+2024-08-16 00:39:21,585 - INFO - Found 50 .txt files in /mnt/data/skanda/MSc_IRD_LLM/data/data_txt
+2024-08-16 00:39:21,585 - WARNING - No valid abstract extracted from /mnt/data/skanda/MSc_IRD_LLM/data/data_txt/10.1177_2515841420954592.txt
+2024-08-16 00:39:21,585 - WARNING - No valid abstract extracted from /mnt/data/skanda/MSc_IRD_LLM/data/data_txt/13287_2023_Article_3526.txt
+2024-08-16 00:39:21,585 - WARNING - No valid abstract extracted from /mnt/data/skanda/MSc_IRD_LLM/data/data_txt/ijms-22-05684.txt
+2024-08-16 00:39:21,585 - WARNING - No valid abstract extracted from /mnt/data/skanda/MSc_IRD_LLM/data/data_txt/bjophthalmol-2020-315878.txt
+2024-08-16 00:39:21,585 - WARNING - No valid abstract extracted from /mnt/data/skanda/MSc_IRD_LLM/data/data_txt/iovs-63-2-11.txt
+2024-08-16 00:39:21,585 - WARNING - No valid abstract extracted from /mnt/data/skanda/MSc_IRD_LLM/data/data_txt/EMMM-14-e15941-compressed.txt
+2024-08-16 00:39:21,585 - WARNING - No valid abstract extracted from /mnt/data/skanda/MSc_IRD_LLM/data/data_txt/jci-133-171356.txt
+2024-08-16 00:39:21,585 - WARNING - No valid abstract extracted from /mnt/data/skanda/MSc_IRD_LLM/data/data_txt/12886_2023_Article_2772-compressed.txt
+2024-08-16 00:39:21,585 - WARNING - No valid abstract extracted from /mnt/data/skanda/MSc_IRD_LLM/data/data_txt/genes-12-00147.txt
+2024-08-16 00:39:21,586 - WARNING - No valid abstract extracted from /mnt/data/skanda/MSc_IRD_LLM/data/data_txt/nihms-1927912.txt
+2024-08-16 00:39:21,586 - WARNING - No valid abstract extracted from /mnt/data/skanda/MSc_IRD_LLM/data/data_txt/13023_2021_Article_2145.txt
+2024-08-16 00:39:21,586 - WARNING - No valid abstract extracted from /mnt/data/skanda/MSc_IRD_LLM/data/data_txt/jcm-12-06953.txt
+2024-08-16 00:39:21,586 - WARNING - No valid abstract extracted from /mnt/data/skanda/MSc_IRD_LLM/data/data_txt/IJO-70-2316.txt
+2024-08-16 00:39:21,586 - WARNING - No valid abstract extracted from /mnt/data/skanda/MSc_IRD_LLM/data/data_txt/TJO-53-44.txt
+2024-08-16 00:39:21,586 - WARNING - No valid abstract extracted from /mnt/data/skanda/MSc_IRD_LLM/data/data_txt/biomolecules-12-00455-compressed.txt
+2024-08-16 00:39:21,586 - WARNING - No valid abstract extracted from /mnt/data/skanda/MSc_IRD_LLM/data/data_txt/1-s2.0-S1350946223000447-main.txt
+2024-08-16 00:39:21,586 - WARNING - No valid abstract extracted from /mnt/data/skanda/MSc_IRD_LLM/data/data_txt/jmedgenet-2016-103837.txt
+2024-08-16 00:39:21,586 - WARNING - No valid abstract extracted from /mnt/data/skanda/MSc_IRD_LLM/data/data_txt/41433_2022_Article_2262.txt
+2024-08-16 00:39:21,586 - WARNING - No valid abstract extracted from /mnt/data/skanda/MSc_IRD_LLM/data/data_txt/emss-80329.txt
+2024-08-16 00:39:21,587 - WARNING - No valid abstract extracted from /mnt/data/skanda/MSc_IRD_LLM/data/data_txt/nihms-1747988.txt
+2024-08-16 00:39:21,587 - WARNING - No valid abstract extracted from /mnt/data/skanda/MSc_IRD_LLM/data/data_txt/TJP-600-4623.txt
+2024-08-16 00:39:21,587 - WARNING - No valid abstract extracted from /mnt/data/skanda/MSc_IRD_LLM/data/data_txt/main (1).txt
+2024-08-16 00:39:21,587 - WARNING - No valid abstract extracted from /mnt/data/skanda/MSc_IRD_LLM/data/data_txt/ijms-22-04534.txt
+2024-08-16 00:39:21,587 - WARNING - No valid abstract extracted from /mnt/data/skanda/MSc_IRD_LLM/data/data_txt/41436_2020_Article_759.txt
+2024-08-16 00:39:21,587 - WARNING - No valid abstract extracted from /mnt/data/skanda/MSc_IRD_LLM/data/data_txt/JCO-34-80.txt
+2024-08-16 00:39:21,587 - WARNING - No valid abstract extracted from /mnt/data/skanda/MSc_IRD_LLM/data/data_txt/opth-16-1127.txt
+2024-08-16 00:39:21,587 - WARNING - No valid abstract extracted from /mnt/data/skanda/MSc_IRD_LLM/data/data_txt/MGG3-9-e1663.txt
+2024-08-16 00:39:21,587 - WARNING - No valid abstract extracted from /mnt/data/skanda/MSc_IRD_LLM/data/data_txt/main copy.txt
+2024-08-16 00:39:21,587 - WARNING - No valid abstract extracted from /mnt/data/skanda/MSc_IRD_LLM/data/data_txt/1-s2.0-S1350946221000367-main.txt
+2024-08-16 00:39:21,587 - WARNING - No valid abstract extracted from /mnt/data/skanda/MSc_IRD_LLM/data/data_txt/fphar-12-654445.txt
+2024-08-16 00:39:21,587 - WARNING - No valid abstract extracted from /mnt/data/skanda/MSc_IRD_LLM/data/data_txt/nihpp-rs3011096v1-compressed.txt
+2024-08-16 00:39:21,587 - WARNING - No valid abstract extracted from /mnt/data/skanda/MSc_IRD_LLM/data/data_txt/nihms-1914935.txt
+2024-08-16 00:39:21,588 - WARNING - No valid abstract extracted from /mnt/data/skanda/MSc_IRD_LLM/data/data_txt/genes-14-00074.txt
+2024-08-16 00:39:21,588 - WARNING - No valid abstract extracted from /mnt/data/skanda/MSc_IRD_LLM/data/data_txt/Acta Ophthalmologica - 2019 - Holtan - Inherited retinal disease in Norway   a characterization of current clinical and.txt
+2024-08-16 00:39:21,588 - WARNING - No valid abstract extracted from /mnt/data/skanda/MSc_IRD_LLM/data/data_txt/ijms-22-07207.txt
+2024-08-16 00:39:21,588 - WARNING - No valid abstract extracted from /mnt/data/skanda/MSc_IRD_LLM/data/data_txt/cells-12-02579-compressed.txt
+2024-08-16 00:39:21,588 - WARNING - No valid abstract extracted from /mnt/data/skanda/MSc_IRD_LLM/data/data_txt/nihms-1567493.txt
+2024-08-16 00:39:21,588 - WARNING - No valid abstract extracted from /mnt/data/skanda/MSc_IRD_LLM/data/data_txt/NRR-18-701.txt
+2024-08-16 00:39:21,588 - WARNING - No valid abstract extracted from /mnt/data/skanda/MSc_IRD_LLM/data/data_txt/13023_2023_Article_2798.txt
+2024-08-16 00:39:21,588 - WARNING - No valid abstract extracted from /mnt/data/skanda/MSc_IRD_LLM/data/data_txt/PIIS0039625723001030.txt
+2024-08-16 00:39:21,588 - WARNING - No valid abstract extracted from /mnt/data/skanda/MSc_IRD_LLM/data/data_txt/diagnostics-13-00850.txt
+2024-08-16 00:39:21,588 - WARNING - No valid abstract extracted from /mnt/data/skanda/MSc_IRD_LLM/data/data_txt/nihms880229.txt
+2024-08-16 00:39:21,588 - WARNING - No valid abstract extracted from /mnt/data/skanda/MSc_IRD_LLM/data/data_txt/41598_2021_Article_81093.txt
+2024-08-16 00:39:21,588 - WARNING - No valid abstract extracted from /mnt/data/skanda/MSc_IRD_LLM/data/data_txt/main.txt
+2024-08-16 00:39:21,589 - WARNING - No valid abstract extracted from /mnt/data/skanda/MSc_IRD_LLM/data/data_txt/nihms-1933615.txt
+2024-08-16 00:39:21,589 - WARNING - No valid abstract extracted from /mnt/data/skanda/MSc_IRD_LLM/data/data_txt/nihms-1685213.txt
+2024-08-16 00:39:21,589 - WARNING - No valid abstract extracted from /mnt/data/skanda/MSc_IRD_LLM/data/data_txt/diagnostics-13-02413-compressed.txt
+2024-08-16 00:39:21,589 - WARNING - No valid abstract extracted from /mnt/data/skanda/MSc_IRD_LLM/data/data_txt/41525_2021_Article_180.txt
+2024-08-16 00:39:21,589 - WARNING - No valid abstract extracted from /mnt/data/skanda/MSc_IRD_LLM/data/data_txt/fgene-13-858556.txt
+2024-08-16 00:39:21,589 - WARNING - No valid abstract extracted from /mnt/data/skanda/MSc_IRD_LLM/data/data_txt/biomolecules-13-00271.txt
+2024-08-16 00:39:21,589 - INFO - Successfully extracted 0 abstracts out of 50 files
+2024-08-16 00:39:21,589 - ERROR - No abstracts were extracted. Please check the directory path and file contents.
+2024-08-16 00:39:21,589 - INFO - Script execution completed.
