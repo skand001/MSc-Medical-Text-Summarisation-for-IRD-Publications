@@ -1,2 +1,4 @@
 corpora/
+taggers/
+tokenizers/
 data/
