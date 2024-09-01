@@ -1,0 +1,48 @@
+Document: processed_IJO-70-2316
+inherited retinal diseases (IRDs) are characterized by progressive photoreceptor (PR) and/or retinal pigment epithelium (RPE) cell loss and eventual atrophy of retinal tissue. gene therapy involves gene supplementation/replacement or gene silencing. cell replacement therapy is another strategy to replace dead or damaged retinal cells with cells derived from different sources including mesenchymal stem cells or hESCs.
+
+Document: processed_cells-12-02579-compressed
+FEVR/Norrie disease impacts the neural retinal vasculature due to effects within retinal endothelial cell. a retinal specific growth factor, norrin, is essential for stimulating the proliferation of the retinal vasculature. genetic variants that change normal REC function can potentially impact the development of the entire neural retina and its function. at maturity, three interconnected microvascular beds support the inner neural retina.
+
+Document: processed_main (1)
+this study details the clinical and functional phenotype of RBP3 -retinopathy in the largest cohort reported to date. RBP3 -retinopathy is characterized by early onset, slow progression over decades, and high myopia. RBP3 is a large, 135-kDa secreted protein that binds and transports cis / trans retinols between photoreceptors and RPE.
+
+Document: processed_main copy
+a novel RPGR exon ORF15 mutation in a family with X-linked retinitis pigmentosa and coats-like exudative retinal vasculopathy. a case of coats-negative retinitis pigmentosa with recurrent vitreous hemorrhage. acta ophthalmol Scand. ;74:509 e512.
+
+Document: processed_ijms-22-05684
+IRDs have an estimated prevalence of 1 in 4000 [ 17]. over 270 genes have been associated with the aetiologies of IRDs. targeted gene panels for all IRD phenotypes or phenotypic subsets are used. whole-genome sequencing (WGS) and whole-genome sequencing (wgs) are used to identify IRD-causing mutations. a wide array of methods are being employed to explore the functional effects of sequence variant
+
+Document: processed_JCO-34-80
+IRDs are one of the leading causes of irreversible blindness. RP is the leading cause of hereditary blindness in people younger than 60 years old. visionrelated quality of life (VRQoL) is defined as the patients subjective perception, daily activities related to the visual ability, as well as social and emotional aspects of life related to the visual status. there is no comprehensive information regarding VRQoL among Iranian patients who suffer from different types of IRDs.
+
+Document: processed_nihms-1747988
+mutations in RP2 and RPGR in patients affected with distinct retinal dystrophies. a comprehensive survey of mutations in RP2 and RPGR in patients affected with distinct retinal dystrophies. a comprehensive survey of mutations in RP2 and RPGR in patients affected with distinct retinal dystrophies. a comprehensive survey of mutations in RP2 and RPGR in patients affected with distinct retinal dystrophies.
+
+Document: processed_NRR-18-701
+the light responses at RGCs are normal before degeneration onset in Rd1 and Rd10 mice, but at P28, spontaneous activity increases by 23-fold and light-responses decrease by half. increased retinoic acid signaling in the retina could explain RGC hyperexcitability during progressive retinal degeneration. elucidating whether increased synaptic gain at the rod-RBC synapse and increased inner retina hyperexcitability in RP retinas share
+
+Document: processed_1-s2.0-S1350946221000367-main
+gene therapy has been proposed as a potential medical intervention over 50 years ago. gene therapy offers a theoretical advantage over small molecules classically used as medi - cines. gene therapy can be carried out in vitro in patient cells or in vivo. retinal degenerations represent a large and heterogeneous group of diseases with genetic mutations and susceptibility factors determining the disease pathogen - esis and onset.
+
+Document: processed_emss-80329
+aging puts the retina at risk of developing various degenerative diseases. avoidance, tolerance and resistance are strategies utilized by the host to protect it from external and internal insults. aging is believed to be an important risk factor in the development of age-related macular degeneration (AMD), diabetic retinopathy (DR) and glaucomatous retinopathy. these diseases have two features in common, the disruption of retinal homeostasis and low-grade chronic inflammation.
+
+Document: processed_bjophthalmol-2020-315878
+nonsense and missense mutations, splicing variants, small deletions and insertions, small indels and large rearrangements have been identified. the presence of at least one truncating mutation was associated with earlier presentation of visual decline. the exact genetic and phenotypic characteristics of patients with USH2A mutations in Chinese patients with inherited retinal disease remain unknown. the present study enrolled 1381 patients with IRD; patients under mutations were identified.
+
+Document: processed_10.1177_2515841420954592
+genome or autosomal genes encoding mitochondrial proteins may lead to mitochondrial disorders including inherited optic neuropathies. there is considerable genetic and phenotypic het-erogeneity, and in some cases it can be extremely difficult to attribute a particular disease-causing gene. the first approved gene therapy for the IRDs caused by biallelic variants in the RPE65 gene, and several more genetic-based treatments emerg-ing.
+
+Document: processed_41436_2020_Article_759
+over 2 million people worldwide are affected by inherited retinal degenerations. pathogenic variants in over 270 genes have been associated with IRDs. current strategies can genetically solve only about 55 60% of IRD cases. many of these elusive PVs are due to structural var iations (CNVs) these variants are not readily available from the standard output ofNGS pipelines. a panel-basedNGS genetic eye disease diagnostic test can improve diagnostic rate by 10.2%.
+
+Document: processed_nihms-1914935
+ins2 KO mice were starved overnight or fed ad libitum. phagocytosis increased in starved mice vs fed mice. phagocytosis quantification of ingested photoreceptor outer segments using flow cytometry on isolated RPE. phagocytosis quantification of ingested photoreceptor outer segments using flow cytometry on isolated RPE.
+
+Document: processed_13023_2023_Article_2798
+inherited retinal dystrophies (IRDs) form a large family of rare diseases. establishing the genotype of IRDs is increasingly considered an essential component of the diagnostic workup. this narrative review aims to provides a clinical over - view of the non-syndromic generalized photorecep - tor dystrophies, in particular RP and LCA. RP is the most common IRD, with a worldwide prevalence of approximately 1:4000.
+
+Document: processed_13023_2021_Article_2145
+inherited retinal diseases (IRDs) are a heterogenous group of visually debilitating diseases caused by patho - genic variation in proteins critical to retinal function. molecular genetic testing has become an important strategy to complement clinical findings and confirm or clarify a diagnosis. there are not enough IRD specialists and ocular genetic counselors at academic medical centers to meet patient demand for genetic testing. with the introduction of next-generation sequencing, testing multiple genes in a single assay has
+

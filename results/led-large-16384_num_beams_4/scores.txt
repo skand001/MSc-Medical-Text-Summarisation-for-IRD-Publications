@@ -1,0 +1,48 @@
+Document: processed_IJO-70-2316
+BLEU Score: 0.0099
+ROUGE Scores: {'rouge1': Score(precision=0.05102040816326531, recall=0.45454545454545453, fmeasure=0.09174311926605504), 'rouge2': Score(precision=0.020618556701030927, recall=0.2, fmeasure=0.037383177570093455), 'rougeL': Score(precision=0.04081632653061224, recall=0.36363636363636365, fmeasure=0.07339449541284403)}
+Document: processed_cells-12-02579-compressed
+BLEU Score: 0.0246
+ROUGE Scores: {'rouge1': Score(precision=0.25249169435215946, recall=0.33043478260869563, fmeasure=0.2862523540489642), 'rouge2': Score(precision=0.06666666666666667, recall=0.08733624454148471, fmeasure=0.07561436672967864), 'rougeL': Score(precision=0.12624584717607973, recall=0.16521739130434782, fmeasure=0.1431261770244821)}
+Document: processed_main (1)
+BLEU Score: 0.0082
+ROUGE Scores: {'rouge1': Score(precision=0.228125, recall=0.21098265895953758, fmeasure=0.21921921921921922), 'rouge2': Score(precision=0.034482758620689655, recall=0.03188405797101449, fmeasure=0.03313253012048192), 'rougeL': Score(precision=0.1, recall=0.09248554913294797, fmeasure=0.09609609609609611)}
+Document: processed_main copy
+BLEU Score: 0.0012
+ROUGE Scores: {'rouge1': Score(precision=0.09558823529411764, recall=0.04113924050632911, fmeasure=0.05752212389380531), 'rouge2': Score(precision=0.0, recall=0.0, fmeasure=0.0), 'rougeL': Score(precision=0.07352941176470588, recall=0.03164556962025317, fmeasure=0.044247787610619475)}
+Document: processed_ijms-22-05684
+BLEU Score: 0.0175
+ROUGE Scores: {'rouge1': Score(precision=0.22807017543859648, recall=0.457286432160804, fmeasure=0.30434782608695654), 'rouge2': Score(precision=0.035175879396984924, recall=0.0707070707070707, fmeasure=0.046979865771812075), 'rougeL': Score(precision=0.08771929824561403, recall=0.17587939698492464, fmeasure=0.11705685618729096)}
+Document: processed_JCO-34-80
+BLEU Score: 0.0296
+ROUGE Scores: {'rouge1': Score(precision=0.29295774647887324, recall=0.4351464435146444, fmeasure=0.3501683501683502), 'rouge2': Score(precision=0.0847457627118644, recall=0.12605042016806722, fmeasure=0.10135135135135136), 'rougeL': Score(precision=0.1267605633802817, recall=0.18828451882845187, fmeasure=0.15151515151515152)}
+Document: processed_nihms-1747988
+BLEU Score: 0.0198
+ROUGE Scores: {'rouge1': Score(precision=0.3489208633093525, recall=0.30793650793650795, fmeasure=0.327150084317032), 'rouge2': Score(precision=0.07220216606498195, recall=0.06369426751592357, fmeasure=0.0676818950930626), 'rougeL': Score(precision=0.14028776978417265, recall=0.12380952380952381, fmeasure=0.13153456998313656)}
+Document: processed_NRR-18-701
+BLEU Score: 0.0000
+ROUGE Scores: {'rouge1': Score(precision=0.7777777777777778, recall=0.02413793103448276, fmeasure=0.046822742474916385), 'rouge2': Score(precision=0.5, recall=0.01384083044982699, fmeasure=0.02693602693602694), 'rougeL': Score(precision=0.7777777777777778, recall=0.02413793103448276, fmeasure=0.046822742474916385)}
+Document: processed_1-s2.0-S1350946221000367-main
+BLEU Score: 0.0000
+ROUGE Scores: {'rouge1': Score(precision=0.003937007874015748, recall=0.041666666666666664, fmeasure=0.007194244604316547), 'rouge2': Score(precision=0.0, recall=0.0, fmeasure=0.0), 'rougeL': Score(precision=0.003937007874015748, recall=0.041666666666666664, fmeasure=0.007194244604316547)}
+Document: processed_emss-80329
+BLEU Score: 0.0000
+ROUGE Scores: {'rouge1': Score(precision=0.5357142857142857, recall=0.016544117647058824, fmeasure=0.03209700427960057), 'rouge2': Score(precision=0.01909307875894988, recall=0.0005882785498933746, fmeasure=0.0011413896418889999), 'rougeL': Score(precision=0.49523809523809526, recall=0.015294117647058824, fmeasure=0.02967189728958631)}
+Document: processed_bjophthalmol-2020-315878
+BLEU Score: 0.0337
+ROUGE Scores: {'rouge1': Score(precision=0.20216606498194944, recall=0.1848184818481848, fmeasure=0.19310344827586207), 'rouge2': Score(precision=0.06521739130434782, recall=0.059602649006622516, fmeasure=0.06228373702422145), 'rougeL': Score(precision=0.11913357400722022, recall=0.10891089108910891, fmeasure=0.11379310344827587)}
+Document: processed_10.1177_2515841420954592
+BLEU Score: 0.0019
+ROUGE Scores: {'rouge1': Score(precision=0.062146892655367235, recall=0.12154696132596685, fmeasure=0.08224299065420561), 'rouge2': Score(precision=0.0, recall=0.0, fmeasure=0.0), 'rougeL': Score(precision=0.05367231638418079, recall=0.10497237569060773, fmeasure=0.07102803738317758)}
+Document: processed_41436_2020_Article_759
+BLEU Score: 0.0024
+ROUGE Scores: {'rouge1': Score(precision=0.026627218934911243, recall=0.03308823529411765, fmeasure=0.029508196721311473), 'rouge2': Score(precision=0.005934718100890208, recall=0.007380073800738007, fmeasure=0.006578947368421052), 'rougeL': Score(precision=0.023668639053254437, recall=0.029411764705882353, fmeasure=0.026229508196721308)}
+Document: processed_nihms-1914935
+BLEU Score: 0.0022
+ROUGE Scores: {'rouge1': Score(precision=0.07964601769911504, recall=0.029605263157894735, fmeasure=0.043165467625899276), 'rouge2': Score(precision=0.03571428571428571, recall=0.013201320132013201, fmeasure=0.01927710843373494), 'rougeL': Score(precision=0.061946902654867256, recall=0.023026315789473683, fmeasure=0.03357314148681055)}
+Document: processed_13023_2023_Article_2798
+BLEU Score: 0.0201
+ROUGE Scores: {'rouge1': Score(precision=0.337696335078534, recall=0.4056603773584906, fmeasure=0.3685714285714286), 'rouge2': Score(precision=0.07349081364829396, recall=0.08832807570977919, fmeasure=0.08022922636103152), 'rougeL': Score(precision=0.1544502617801047, recall=0.18553459119496854, fmeasure=0.16857142857142857)}
+Document: processed_13023_2021_Article_2145
+BLEU Score: 0.0000
+ROUGE Scores: {'rouge1': Score(precision=0.0, recall=0.0, fmeasure=0.0), 'rouge2': Score(precision=0.0, recall=0.0, fmeasure=0.0), 'rougeL': Score(precision=0.0, recall=0.0, fmeasure=0.0)}

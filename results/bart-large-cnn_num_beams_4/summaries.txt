@@ -1,0 +1,48 @@
+Document: processed_IJO-70-2316
+Retinal dystrophies or inherited retinal diseases (IRD) are a significant cause of blindness worldwide. IRDs include retinitis, Stargardt disease, choroideremia, andcongenital amaurosis (LCA) Gene therapy involves replacing damaged retinal cells with cells derived from human stem cells. Gene silencing inhibits the expression of gene mutations in the cell. This article is an open-source, free-to-read version of Battu's Indian Ophthalmolmoler therapeutic options for inheritedretinal diseases: Gene and cell replacement therapy.
+
+Document: processed_cells-12-02579-compressed
+The retinal endothelial cell (REC) plays a central role in the developmental formation of the mammalian neural-retinal vasculature. Genetic variants that change normal REC function can potentially impact the development of the entire neural retina and its function. The neural retina comprises several distinct layers. Light enters from the top and passes through the retinal layers to reach rod and cone opsins in the outer segments (OS) of photoreceptors. The inner-BRB (iBRB) sustains neurons of the inner retina and comprises three microvascular beds.
+
+Document: processed_main (1)
+Study details the clinical and functional phenotype of RBP3 -retinopathy in the largest cohort reported to date. The phenotypic spectrum and natural history as described herein has prognostic and counseling implications. RBP-related disease should be considered in children with high myopia and retinal dystrophy. The natural history and visual history and prognosis is poorly understood, and informed patient management is limited by the rarity of the disease and related literature. We describe their molecularly confirmed clinical, clinical, electrophysiologic, and electrosurgical characteristics.
+
+Document: processed_main copy
+The Royal College of Ophthalmologists National Ophthalmology Database study of cataract surgery: report 1, visual outcomes and complications. The mechanism of cone cell death in retinitis pigmentosa. The genetic association and management outcomes of Coats-like exudative retinal vasculopathy. A novel RPGR exon ORF15 mutation in a family with X-linked retiniti pigmentosa and Coats -like exudeative vasculitis. The clinical acuity categories hand motion and counting fingers using the Freiburg Visual Acuity Test (FrACT)
+
+Document: processed_ijms-22-05684
+A primary focus in ocular genetics globally is accurate genotyping of patients with rare inherited retinal diseases (IRDs) Next-generation sequencing (NGS) has been a common strategy employed in many countries to achieve this goal for several years. IRDs have an estimated prevalence of 1 in 4000 [ 17]. With a current global population of approximately 7.8 billion, it is estimated that approximately 2 million people currently have some form of IRD. While NGS technologies have enabled rapid characterisation of the genetic architecture of IRDs, much still remains to be optimised.
+
+Document: processed_JCO-34-80
+Visionrelated quality of life in patients with inherited retinal dystrophies. The National Eye Institute Visual Function Questionnaire25 (NEI VFQ25) was developed recently to test the psychometric effects of visual impairment. IRDs are chronic and incurable, and they may affect both quality of. life (QoL) and health economics by affecting physical wellbeing, psychological. state, and productivity. The study is a retrospective study into the population who suffered from different types of IRDs and registered to the National Registry for Inherited Retinal Diseases.
+
+Document: processed_nihms-1747988
+8. Pelletier V, Jambou M, Delphin N, et al. Comprehensive survey of mutations in RP2 and RPGR in patients affected with distinct retinal dystrophies: Genotype-phenotype correlations and impact on genetic counseling. Hum Mutat ;28(1):8191. 9. Pontikos N, Arno G, Jurkute N, Et al. Genetic Basis of Inherited Retinal Disease in a Molecularly Characterized Cohort of More Than 3000 Families from the United Kingdom. Ophthalmology ;127(10): 13841394.
+
+Document: processed_NRR-18-701
+Muller glial cells span all retinal layers, providing structural and trophic support for neighboring neurons. Muller glia produce lactate, lipoproteins, and glutamine, which are then shuttled to photoreceptors for synapse formation and energy production. Suppression of retinoic acid signaling remarkably improves luminance-detection and pattern vision in Rd10 mice, revealing a novel drug target to improve vision in RP. It will also be important for future studies to elucidate whether increased synaptic gain at the rod-RBC synapse and increased inner retina hyperexcitability in RP retinas share the same mechanistic origin.
+
+Document: processed_1-s2.0-S1350946221000367-main
+Gene therapy offers a theoretical advantage over small molecules classically used as medi - cines: it is a one-shot treatment that can provide a durable and poten - tially curative clinical benefit. The journey from concept to clinical application has been long, including the development of an experi - mental approach around the identified medical needs. In vivo delivery of therapeutic AAV vectors to the retina, liver, and nervous system resulted in clinical improvement in patients with congenital blindness, hemophilia B, and spinal muscular atrophy.
+
+Document: processed_emss-80329
+The retina is an immune privileged tissue, which is protected from external and internal insults by its blood-retinal barriers and immune suppressive microenvironment. Retina is also protected by its own defense system, i.e., microglia and the complement system. The immune privilege and defense mechanisms work together to maintain retinal homeostasis. During aging, the retina is at an increased risk of developing various degenerative diseases such as age-related macular degeneration and diabetic retinopathy.
+
+Document: processed_bjophthalmol-2020-315878
+The exact genetic and phenotypic characteristics of patients with USH2A mutations in Chinese patients with inherited retinal disease (IRD) remain unknown. In the present study, we enrolled 1381 patients with IRD; patients under - mutations were identified. The results would be useful for prog - nosis, clinical management and genetic counselling and should provide strong evidence-based data support for gene therapy studies. The most frequent mutations in USH 2A were the p.Glu767Serfs*21 and p.Cys759Phe mutations.
+
+Document: processed_10.1177_2515841420954592
+A detailed clinical history and examination is of key importance to determine the likely aetiology of an eye disease. In suspected genetic eye disease, the clinical findings should guide which molecular investigations/genetic testing is most suitable to ascertain the possible cause. The family history can help to deter-mine the inheritance pattern of Mendelian dis-ease such as autosomal dominant, autosomal recessive, X-linked or mitochondrial. Syndromic patients with congenital eye malformations and learning diffi-culties are likely to have a chromosomal abnor-mality or clinical geneticist for further review and inves-tigation.
+
+Document: processed_41436_2020_Article_759
+Over 2 million people worldwide are affected by inherited retinal degenerations (IRDs) Pathogenic variants (PVs) in over 270 genes have been associated withIRDs. Current strategies can genetically solve only about 55 60% of IRD cases. The remaining missing diagnoses are in part due to undiscovered IRD genes. However, PVs in each new diseasegene are rare, largely lies in the known IRD gene. Applying these techniques improved the genetic diagnostic rate for IRD patients by 10.2%.
+
+Document: processed_nihms-1914935
+n Receptor Phosphorylation in Ins2 KO mice. RTPCR of Ins1 fold change in mRNA of isolated RPE from control and Ins2KO mice. Phagocytosis quantification of ingested photoreceptor outer segments using flow cytometry on isolated R PE stained with antibody against rhodopsin. Insulin receptor (InsR) was immunoprecipitated from retina tissue lysates of control and MerTK KO mice that were starved overnight.
+
+Document: processed_13023_2023_Article_2798
+Non-syndromic inherited retinal dystrophies (inherited retinal diseases; IRDs) form a large family of rare diseases. IRDs are characterized by the progressive dysfunction and loss of photoreceptors and retinal pigment epithelium (RPE), leading to severe impairment of vision or blindness. Retinitis pig - mentosa (RP), the most common IRD, and Leber congenital amaurosis (LCA), which is one of the most severe forms.
+
+Document: processed_13023_2021_Article_2145
+Inherited retinal diseases (IRDs) are a heterogenous group of visually debilitating diseases caused by patho - genic variation in proteins critical to retinal function. Next-generation sequencing sequences millions of DNA fragments in parallel and matches them to a reference genome using bioinformatics. With the introduction of next-generation sequenc - ing, testing multiple genes in a single assay has become possible. There are not enough IRD spe - cialists and ocular genetic counselors at academic medi - cal centers to meet patient demand for genetic testing.
+
